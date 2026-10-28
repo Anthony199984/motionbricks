@@ -1,78 +1,20 @@
 {
  "catalogo": false,
- "informe": "informe_velocidad_v7_gente_bajada2.json",
- "objaverse": [
+ "informe": "informe_velocidad_v8_perro.json",
+ "sketchfab_buscar": [
   {
-   "uid": "bbaa566445074509a32ef5059a9d0bc2",
-   "nombre": "pareja_caminando",
-   "titulo": "Man Woman Walk",
-   "autor": "iko.gazette",
-   "licencia": "CC Attribution",
-   "caras": 16231,
-   "anim": 1
+   "clave": "perro_pastor_real",
+   "q": "german shepherd",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 20
   },
   {
-   "uid": "b4d00bf20dd84b3d9842fdb1744555be",
-   "nombre": "mujer_telefono2",
-   "titulo": "Mia Talking On Phone",
-   "autor": "instideal2019",
-   "licencia": "CC Attribution",
-   "caras": 35821,
-   "anim": 1
-  },
-  {
-   "uid": "b69d149f87a94a058fc4e8adb58ebbbf",
-   "nombre": "hombre_telefono2",
-   "titulo": "Mr Man Talking On A Cell Phone",
-   "autor": "instideal2019",
-   "licencia": "CC Attribution",
-   "caras": 41407,
-   "anim": 1
-  },
-  {
-   "uid": "9d3f3674bcf849e099d1d0da4de33e40",
-   "nombre": "hombre_telefono_camina2",
-   "titulo": "Mr Man Talking Phone Pacing",
-   "autor": "instideal2019",
-   "licencia": "CC Attribution",
-   "caras": 41407,
-   "anim": 1
-  },
-  {
-   "uid": "ed3d7a4b8b124e1591be83ccb4c02dcd",
-   "nombre": "hombre_corriendo",
-   "titulo": "Male Running (20 frames loop)",
-   "autor": "denysalmaral",
-   "licencia": "Free Standard",
-   "caras": 1552,
-   "anim": 1
-  },
-  {
-   "uid": "d3f65ad04ec845b197a689db48ec4329",
-   "nombre": "mujer_caminando",
-   "titulo": "Nilda Female Character Walk Animation",
-   "autor": "kelvin-carvalho",
-   "licencia": "CC Attribution",
-   "caras": 12352,
-   "anim": 1
-  },
-  {
-   "uid": "d3a292ede4954c9aaf88e9c58d364a15",
-   "nombre": "hombre_caminando_verde",
-   "titulo": "Character test - Walking",
-   "autor": "leoskateman",
-   "licencia": "CC Attribution",
-   "caras": 26196,
-   "anim": 1
-  },
-  {
-   "uid": "05d9dd5bdddd4157bd46dc179781ee6e",
-   "nombre": "hombre_casual",
-   "titulo": "Casual Man Character",
-   "autor": "strielecki",
-   "licencia": "CC Attribution",
-   "caras": 10962,
-   "anim": 1
+   "clave": "perro_realista",
+   "q": "realistic dog fur",
+   "paginas": 2,
+   "solo_objaverse": true,
+   "max": 16
   }
  ]
 }
