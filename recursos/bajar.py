@@ -8,7 +8,7 @@ Lee recursos/pedido.json:
 }
 Todo queda en recursos/out/ y se sube a la rama `recursos`. Poly Haven: CC0, sin créditos obligatorios.
 """
-import json, os, sys, time, urllib.request, urllib.parse
+import json, os, re, sys, time, urllib.request, urllib.parse
 
 UA = {"User-Agent": "Antonydfilms-recursos/1.0 (GitHub Actions)"}
 OUT = "recursos/out"
@@ -120,12 +120,40 @@ def objaverse_bajar(it):
     informe.setdefault("objaverse", {})[it["nombre"]] = it
 
 
+# ------------------------------------------------------------------ sonidos de Wikimedia Commons (sin cuenta)
+def commons_buscar(b):
+    """Busca audios en Wikimedia Commons y baja los cortos (licencias libres: CC0, CC BY, CC BY-SA, dominio público)."""
+    api = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode({
+        "action": "query", "format": "json", "generator": "search", "gsrnamespace": 6, "gsrlimit": b.get("n", 15),
+        "gsrsearch": b["q"] + " filetype:audio", "prop": "imageinfo", "iiprop": "url|size|mime|extmetadata"})
+    d = json.loads(leer(api)); out = []
+    for pg in (d.get("query", {}).get("pages", {}) or {}).values():
+        ii = (pg.get("imageinfo") or [{}])[0]; em = ii.get("extmetadata", {})
+        c = dict(titulo=pg.get("title"), url=ii.get("url"), mb=round(ii.get("size", 0)/2**20, 2), mime=ii.get("mime"),
+                 licencia=(em.get("LicenseShortName") or {}).get("value"), autor=re.sub("<[^>]+>", "", (em.get("Artist") or {}).get("value", ""))[:80],
+                 pagina=ii.get("descriptionurl"))
+        if c["url"] and c["mb"] <= b.get("max_mb", 4):
+            ext = os.path.splitext(urllib.parse.urlparse(c["url"]).path)[1]
+            nombre = re.sub(r"[^A-Za-z0-9_.-]+", "_", pg.get("title", "x").replace("File:", ""))[:70]
+            try:
+                guardar(c["url"], f"sonidos/{b['clave']}/{nombre}" + ("" if nombre.endswith(ext) else ext)); c["archivo"] = f"sonidos/{b['clave']}/{nombre}"
+            except Exception as e:                    # noqa: BLE001
+                c["error"] = repr(e)[:100]
+        out.append(c)
+    informe.setdefault("commons", {})[b["clave"]] = out
+    print("commons", b["q"], len(out))
+
+
 def main():
     p = json.load(open("recursos/pedido.json"))
     for b in p.get("sketchfab_buscar", []):
         try: sketchfab_buscar(b)
         except Exception as e:                        # noqa: BLE001
             informe["errores"].append({"buscar": b, "error": repr(e)[:300]}); print("ERROR", b, e)
+    for b in p.get("commons_buscar", []):
+        try: commons_buscar(b)
+        except Exception as e:                        # noqa: BLE001
+            informe["errores"].append({"commons": b, "error": repr(e)[:300]}); print("ERROR", b, e)
     for it in p.get("objaverse", []):
         try: objaverse_bajar(it); print("ok objaverse", it["nombre"])
         except Exception as e:                        # noqa: BLE001
