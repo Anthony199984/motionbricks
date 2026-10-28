@@ -1,0 +1,17 @@
+{
+ "total_seconds": 418.6,
+ "jobs": [
+  {
+   "name": "g08_celebrar_punos_arriba_b",
+   "response": "OK\t90\t30",
+   "seconds": 220.4,
+   "frames": 90
+  },
+  {
+   "name": "g18_saludar_b",
+   "response": "OK\t75\t30",
+   "seconds": 198.2,
+   "frames": 75
+  }
+ ]
+}
