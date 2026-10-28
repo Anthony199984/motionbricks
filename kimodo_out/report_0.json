@@ -1,10 +1,10 @@
 {
- "total_seconds": 391.8,
+ "total_seconds": 169.9,
  "jobs": [
   {
    "name": "g10_mano_en_la_cara_c",
    "response": "OK\t90\t30",
-   "seconds": 391.8,
+   "seconds": 169.9,
    "frames": 90
   }
  ]
