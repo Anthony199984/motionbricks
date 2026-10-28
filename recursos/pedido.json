@@ -1,1 +1,110 @@
-{"catalogo": true, "polyhaven": [], "urls": []}
+{
+ "catalogo": false,
+ "polyhaven": [
+  {
+   "id": "red_wall",
+   "res": "2k"
+  },
+  {
+   "id": "german_town_street",
+   "res": "2k"
+  },
+  {
+   "id": "tears_of_steel_bridge",
+   "res": "2k"
+  },
+  {
+   "id": "brick_wall_02",
+   "res": "1k"
+  },
+  {
+   "id": "brick_wall_10",
+   "res": "1k"
+  },
+  {
+   "id": "red_brick_03",
+   "res": "1k"
+  },
+  {
+   "id": "asphalt_02",
+   "res": "1k"
+  },
+  {
+   "id": "brick_pavement_02",
+   "res": "1k"
+  },
+  {
+   "id": "concrete_pavers",
+   "res": "1k"
+  },
+  {
+   "id": "blue_plaster_wall",
+   "res": "1k"
+  },
+  {
+   "id": "oak_veneer_01",
+   "res": "1k"
+  },
+  {
+   "id": "street_lamp_01",
+   "res": "1k"
+  },
+  {
+   "id": "street_lamp_02",
+   "res": "1k"
+  },
+  {
+   "id": "outdoor_table_chair_set_01",
+   "res": "1k"
+  },
+  {
+   "id": "bar_chair_round_01",
+   "res": "1k"
+  },
+  {
+   "id": "metal_stool_02",
+   "res": "1k"
+  },
+  {
+   "id": "fire_hydrant",
+   "res": "1k"
+  },
+  {
+   "id": "metal_trash_can",
+   "res": "1k"
+  },
+  {
+   "id": "CoffeeCart_01",
+   "res": "1k"
+  },
+  {
+   "id": "croissant",
+   "res": "1k"
+  },
+  {
+   "id": "strawberry_chocolate_cake",
+   "res": "1k"
+  },
+  {
+   "id": "carrot_cake",
+   "res": "1k"
+  },
+  {
+   "id": "modular_street_seating",
+   "res": "1k"
+  },
+  {
+   "id": "potted_plant_01",
+   "res": "1k"
+  },
+  {
+   "id": "potted_plant_02",
+   "res": "1k"
+  },
+  {
+   "id": "planter_box_01",
+   "res": "1k"
+  }
+ ],
+ "urls": []
+}
