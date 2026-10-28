@@ -1,0 +1,17 @@
+{
+ "total_seconds": 898.7,
+ "jobs": [
+  {
+   "name": "03a_estirarse",
+   "response": "OK\t105\t30",
+   "seconds": 376.0,
+   "frames": 105
+  },
+  {
+   "name": "04c_pechadas",
+   "response": "OK\t165\t30",
+   "seconds": 522.6,
+   "frames": 165
+  }
+ ]
+}
