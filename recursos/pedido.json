@@ -1,70 +1,351 @@
 {
  "catalogo": false,
- "informe": "informe_mono_sketchfab_todo.json",
+ "informe": "informe_mono_especies.json",
  "sketchfab_buscar": [
   {
-   "clave": "sf_macaco_anim",
-   "q": "macaque",
+   "clave": "e_obj_gorilla",
+   "q": "gorilla",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_gorilla",
+   "q": "gorilla",
    "animado": true,
-   "paginas": 4,
+   "paginas": 2,
    "solo_objaverse": false,
-   "max": 60
+   "max": 40
   },
   {
-   "clave": "sf_rhesus",
-   "q": "rhesus",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": false,
-   "max": 60
+   "clave": "e_obj_orangutan",
+   "q": "orangutan",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
   },
   {
-   "clave": "sf_mono_rig",
-   "q": "monkey rigged",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": false,
-   "max": 60
-  },
-  {
-   "clave": "sf_macaque_rig",
-   "q": "macaque rig",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": false,
-   "max": 60
-  },
-  {
-   "clave": "sf_monkey_anim_real",
-   "q": "realistic monkey",
+   "clave": "e_ani_orangutan",
+   "q": "orangutan",
    "animado": true,
-   "paginas": 4,
+   "paginas": 2,
    "solo_objaverse": false,
-   "max": 60
+   "max": 40
   },
   {
-   "clave": "sf_japanese",
-   "q": "japanese macaque",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": false,
-   "max": 60
+   "clave": "e_obj_gibbon",
+   "q": "gibbon",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
   },
   {
-   "clave": "sf_baboon_anim",
-   "q": "baboon",
+   "clave": "e_ani_gibbon",
+   "q": "gibbon",
    "animado": true,
-   "paginas": 4,
+   "paginas": 2,
    "solo_objaverse": false,
-   "max": 60
+   "max": 40
   },
   {
-   "clave": "sf_primate_anim",
-   "q": "primate",
+   "clave": "e_obj_lemur",
+   "q": "lemur",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_lemur",
+   "q": "lemur",
    "animado": true,
-   "paginas": 4,
+   "paginas": 2,
    "solo_objaverse": false,
-   "max": 60
+   "max": 40
+  },
+  {
+   "clave": "e_obj_langur",
+   "q": "langur",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_langur",
+   "q": "langur",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_howler_monkey",
+   "q": "howler monkey",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_howler_monkey",
+   "q": "howler monkey",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_spider_monkey",
+   "q": "spider monkey",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_spider_monkey",
+   "q": "spider monkey",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_vervet",
+   "q": "vervet",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_vervet",
+   "q": "vervet",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_marmoset",
+   "q": "marmoset",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_marmoset",
+   "q": "marmoset",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_proboscis_monkey",
+   "q": "proboscis monkey",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_proboscis_monkey",
+   "q": "proboscis monkey",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_gelada",
+   "q": "gelada",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_gelada",
+   "q": "gelada",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_snub-nosed_monkey",
+   "q": "snub-nosed monkey",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_snub-nosed_monkey",
+   "q": "snub-nosed monkey",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_colobus",
+   "q": "colobus",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_colobus",
+   "q": "colobus",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_tamarin",
+   "q": "tamarin",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_tamarin",
+   "q": "tamarin",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_squirrel_monkey",
+   "q": "squirrel monkey",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_squirrel_monkey",
+   "q": "squirrel monkey",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_capuchin_monkey",
+   "q": "capuchin monkey",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_capuchin_monkey",
+   "q": "capuchin monkey",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_chimpanzee_realistic",
+   "q": "chimpanzee realistic",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_chimpanzee_realistic",
+   "q": "chimpanzee realistic",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_gorilla_realistic_rigged",
+   "q": "gorilla realistic rigged",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_gorilla_realistic_rigged",
+   "q": "gorilla realistic rigged",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_monkey_realistic_rigged",
+   "q": "monkey realistic rigged",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_monkey_realistic_rigged",
+   "q": "monkey realistic rigged",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_macaque_animated",
+   "q": "macaque animated",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_macaque_animated",
+   "q": "macaque animated",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_ape_rigged",
+   "q": "ape rigged",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_ape_rigged",
+   "q": "ape rigged",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_primate_rigged",
+   "q": "primate rigged",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_primate_rigged",
+   "q": "primate rigged",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
+  },
+  {
+   "clave": "e_obj_animal_monkey",
+   "q": "animal monkey",
+   "paginas": 3,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "e_ani_animal_monkey",
+   "q": "animal monkey",
+   "animado": true,
+   "paginas": 2,
+   "solo_objaverse": false,
+   "max": 40
   }
  ]
 }
