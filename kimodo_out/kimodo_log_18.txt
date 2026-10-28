@@ -1,7 +1,7 @@
-Wed Oct 28 03:45:01 UTC 2026
+Wed Oct 28 13:16:52 UTC 2026
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/root       145G   41G  104G  29% /
-Wed Oct 28 03:46:47 UTC 2026
+Wed Oct 28 13:18:21 UTC 2026
 Cloning into 'kcpp'...
 Note: switching to 'ed8a931aedb132f768190f6931c365855caba74c'.
 
@@ -24,7 +24,7 @@ HEAD is now at ed8a931 Add LocalAI attribution and badge to README
 Submodule 'ggml' (https://github.com/ggml-org/ggml.git) registered for path 'ggml'
 Cloning into '/home/runner/work/motionbricks/motionbricks/kcpp/ggml'...
 Submodule path 'ggml': checked out '8c63e70982c95ceb862e3a1073a2c1beef75d60a'
-Wed Oct 28 03:46:53 UTC 2026
+Wed Oct 28 13:18:27 UTC 2026
 Selecting previously unselected package ninja-build.
 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 203540 files and directories currently installed.)
 Preparing to unpack .../ninja-build_1.11.1-2_amd64.deb ...
@@ -70,7 +70,7 @@ No VM guests are running outdated hypervisor (qemu) binaries on this host.
 -- Adding CPU backend variant ggml-cpu: -msse4.2;-mf16c;-mfma;-mbmi2;-mavx;-mavx2 GGML_SSE42;GGML_F16C;GGML_FMA;GGML_BMI2;GGML_AVX;GGML_AVX2
 -- ggml version: 0.20.2
 -- ggml commit:  8c63e709
--- Configuring done (7.2s)
+-- Configuring done (4.6s)
 -- Generating done (0.0s)
 -- Build files have been written to: /home/runner/work/motionbricks/motionbricks/kcpp/build
 [1/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml.cpp.o
@@ -80,12 +80,12 @@ No VM guests are running outdated hypervisor (qemu) binaries on this host.
 [5/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-opt.cpp.o
 [6/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml.c.o
 [7/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.o
-[8/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-backend-meta.cpp.o
-[9/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.o
+[8/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.o
+[9/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-backend-meta.cpp.o
 [10/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/hbm.cpp.o
 [11/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/gguf.cpp.o
-[12/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/traits.cpp.o
-[13/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/quants.c.o
+[12/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/quants.c.o
+[13/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/traits.cpp.o
 [14/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.o
 [15/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.o
 [16/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.o
@@ -101,10 +101,10 @@ No VM guests are running outdated hypervisor (qemu) binaries on this host.
 [26/45] Building CXX object CMakeFiles/kimodo.dir/src/capi.cpp.o
 [27/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/repack.cpp.o
 [28/45] Building CXX object CMakeFiles/kimodo.dir/src/diffusion.cpp.o
-[29/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_rep.cpp.o
-[30/45] Building CXX object CMakeFiles/kimodo.dir/src/gguf.cpp.o
-[31/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_decode.cpp.o
-[32/45] Building CXX object CMakeFiles/kimodo.dir/src/model.cpp.o
+[29/45] Building CXX object CMakeFiles/kimodo.dir/src/gguf.cpp.o
+[30/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_rep.cpp.o
+[31/45] Building CXX object CMakeFiles/kimodo.dir/src/model.cpp.o
+[32/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_decode.cpp.o
 [33/45] Building CXX object CMakeFiles/kimodo.dir/src/ggml_weights.cpp.o
 In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/ggml_weights.cpp:17:
 /home/runner/work/motionbricks/motionbricks/kcpp/ggml/src/../include/ggml-backend.h:419:119: warning: ‘ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t, ggml_cgraph*)’ hides constructor for ‘struct ggml_backend_graph_copy’ [-Wshadow]
@@ -137,7 +137,7 @@ In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/llm_t
 [44/45] Linking CXX static library libkimodo.a
 [45/45] Linking CXX executable kmd-generate
 build/kmd-generate
-Wed Oct 28 03:47:59 UTC 2026
+Wed Oct 28 13:19:12 UTC 2026
 
 [notice] A new release of pip is available: 26.2.1 -> 26.2.2
 [notice] To update, run: pip install --upgrade pip
@@ -146,8 +146,7 @@ Downloading LocalAI-io/Kimodo-SOMA-RP-v1.1-GGML at main into /home/runner/work/m
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 verified native Kimodo GGUF bundle
 --- manifiesto del texto ---
-Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00,  7.50it/s]Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00,  7.49it/s]
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 29.15it/s]
 [32m✓ Downloaded[0m
   path: /home/runner/work/motionbricks/motionbricks/weights/text_manifest
 {
@@ -285,18 +284,17 @@ generated/llm2vec-text-bundle/layer-30.gguf
 generated/llm2vec-text-bundle/layer-31.gguf
 generated/llm2vec-text-bundle/tokenizer.gguf
 tokenizer.gguf
-Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files:  50%|█████     | 1/2 [00:00<00:00,  1.21it/s]Fetching 2 files: 100%|██████████| 2/2 [00:28<00:00, 16.84s/it]Fetching 2 files: 100%|██████████| 2/2 [00:28<00:00, 14.44s/it]
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files:  50%|█████     | 1/2 [00:00<00:00,  2.75it/s]Fetching 2 files: 100%|██████████| 2/2 [00:21<00:00, 12.32s/it]Fetching 2 files: 100%|██████████| 2/2 [00:21<00:00, 10.53s/it]
 [32m✓ Downloaded[0m
   path: /home/runner/work/motionbricks/motionbricks/weights
--rw-r--r-- 1 runner runner 7295054 Oct 28 03:48 weights/tokenizer.gguf
--rw-r--r-- 1 runner runner 1133166784 Oct 28 03:48 weights/models/kimodo-soma-rp-v1.1-f32.gguf
--rw-r--r-- 1 runner runner 8142058752 Oct 28 03:48 weights/Llama-3-Kimodo-Q8_0.gguf
+-rw-r--r-- 1 runner runner 7295054 Oct 28 13:19 weights/tokenizer.gguf
+-rw-r--r-- 1 runner runner 1133166784 Oct 28 13:19 weights/models/kimodo-soma-rp-v1.1-f32.gguf
+-rw-r--r-- 1 runner runner 8142058752 Oct 28 13:19 weights/Llama-3-Kimodo-Q8_0.gguf
 8.7G	weights
-Wed Oct 28 03:48:47 UTC 2026
+Wed Oct 28 13:19:43 UTC 2026
 gen=kcpp/build/kmd-generate text=weights/Llama-3-Kimodo-Q8_0.gguf motion=weights/models/kimodo-soma-rp-v1.1-f32.gguf
                total        used        free      shared  buff/cache   available
 Mem:              15           1           2           0          11          14
 Swap:              2           0           2
 4
-g10_mano_en_la_cara_a: OK	90	30 (337.3s)
-g20_limpiarse_sudor_frente_a: OK	75	30 (307.1s)
+sv12_comer_rapido_a: OK	90	30 (171.8s)
