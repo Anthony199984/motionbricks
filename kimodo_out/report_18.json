@@ -1,11 +1,11 @@
 {
- "total_seconds": 171.8,
+ "total_seconds": 210.4,
  "jobs": [
   {
-   "name": "sv12_comer_rapido_a",
-   "response": "OK\t90\t30",
-   "seconds": 171.8,
-   "frames": 90
+   "name": "ch10_mecerse_a",
+   "response": "OK\t120\t30",
+   "seconds": 210.3,
+   "frames": 120
   }
  ]
 }
