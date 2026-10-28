@@ -1,76 +1,186 @@
 {
  "catalogo": false,
- "informe": "informe_busqueda1.json",
- "sketchfab_buscar": [
+ "informe": "informe_objaverse1.json",
+ "objaverse": [
   {
-   "clave": "perro_pastor",
-   "q": "german shepherd dog",
-   "animado": true
+   "uid": "62b04b0d87ba40c9ab826e0534061c59",
+   "nombre": "perro_pastor_rig",
+   "titulo": "German Shepherd Rig",
+   "autor": "PuppyClub",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-62b04b0d87ba40c9ab826e0534061c59",
+   "caras": 17913,
+   "anim": 0
   },
   {
-   "clave": "perro_pastor_b",
-   "q": "german shepherd",
-   "animado": false
+   "uid": "23ee3311df9746b09e84ea6869f05499",
+   "nombre": "perro_pastor_ladrando",
+   "titulo": "Low poly German Shepherd dog 3d model free",
+   "autor": "rt699448",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-23ee3311df9746b09e84ea6869f05499",
+   "caras": 19541,
+   "anim": 0
   },
   {
-   "clave": "murcielago",
-   "q": "bat flying",
-   "animado": true
+   "uid": "0afaa58daa2746acb1060045879c342c",
+   "nombre": "perro_pastor_3",
+   "titulo": "German Shepherd",
+   "autor": "victorberdugo1",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-0afaa58daa2746acb1060045879c342c",
+   "caras": 7124,
+   "anim": 0
   },
   {
-   "clave": "mosca",
-   "q": "housefly fly insect",
-   "animado": false
+   "uid": "28af38de4d2c401d809148c7f63a73f9",
+   "nombre": "murcielago_real",
+   "titulo": "Bat",
+   "autor": "matisosanimation",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-28af38de4d2c401d809148c7f63a73f9",
+   "caras": 5232,
+   "anim": 1
   },
   {
-   "clave": "mosca_anim",
-   "q": "fly insect",
-   "animado": true
+   "uid": "de028c94ae87414e9da27b294afa97ac",
+   "nombre": "murcielago_volando",
+   "titulo": "Bat flying",
+   "autor": "rafaelrafi",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-de028c94ae87414e9da27b294afa97ac",
+   "caras": 3668,
+   "anim": 1
   },
   {
-   "clave": "paloma",
-   "q": "pigeon",
-   "animado": true
+   "uid": "ddd5ef4a94eb4159937a9de25c45697c",
+   "nombre": "paloma_real",
+   "titulo": "Pigeon",
+   "autor": "kenchoo",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-ddd5ef4a94eb4159937a9de25c45697c",
+   "caras": 6928,
+   "anim": 1
   },
   {
-   "clave": "paloma_b",
-   "q": "pigeon bird",
-   "animado": false
+   "uid": "2e660a43215f4728902715b171302b34",
+   "nombre": "paloma_volando",
+   "titulo": "Pigeon Rigged",
+   "autor": "Dragon_monkey",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-2e660a43215f4728902715b171302b34",
+   "caras": 14150,
+   "anim": 2
   },
   {
-   "clave": "donas",
-   "q": "donut",
-   "animado": false
+   "uid": "a78570e7598d444197af354e03f4022b",
+   "nombre": "paloma_2",
+   "titulo": "Dancing pigeon",
+   "autor": "alzarac",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-a78570e7598d444197af354e03f4022b",
+   "caras": 3448,
+   "anim": 1
   },
   {
-   "clave": "donas_b",
-   "q": "doughnut glazed",
-   "animado": false
+   "uid": "5fe7cbd25f9a446d8bae005893d010dd",
+   "nombre": "mosca_real",
+   "titulo": "Housefly",
+   "autor": "Schmoldt5000",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-5fe7cbd25f9a446d8bae005893d010dd",
+   "caras": 12521,
+   "anim": 0
   },
   {
-   "clave": "vaso_cafe",
-   "q": "coffee cup takeaway paper",
-   "animado": false
+   "uid": "c15f07f7cc1a4e858159b70c2f4ba1b5",
+   "nombre": "bandeja_donas",
+   "titulo": "Donut 3 0",
+   "autor": "iJacques",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-c15f07f7cc1a4e858159b70c2f4ba1b5",
+   "caras": 210353,
+   "anim": 0
   },
   {
-   "clave": "vaso_cafe_b",
-   "q": "paper coffee cup lid",
-   "animado": false
+   "uid": "8d6cac74abfc4b408ec86c37661fa5a6",
+   "nombre": "dona_rosada",
+   "titulo": "Donut 2.0",
+   "autor": "iJacques",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-8d6cac74abfc4b408ec86c37661fa5a6",
+   "caras": 141992,
+   "anim": 0
   },
   {
-   "clave": "arbol_otono",
-   "q": "autumn tree",
-   "animado": false
+   "uid": "a9978b92cce444e3814d77777a168622",
+   "nombre": "dona_chocolate",
+   "titulo": "The chocolate donut",
+   "autor": "dke33378",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-a9978b92cce444e3814d77777a168622",
+   "caras": 77036,
+   "anim": 2
   },
   {
-   "clave": "arbol_otono_b",
-   "q": "tree low poly realistic",
-   "animado": false
+   "uid": "0279c25ef4884f99af7894f9a0710331",
+   "nombre": "cafe_y_donas",
+   "titulo": "Coffee and donuts",
+   "autor": "ivanlynx",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-0279c25ef4884f99af7894f9a0710331",
+   "caras": 87720,
+   "anim": 0
   },
   {
-   "clave": "arbol_calle",
-   "q": "street tree",
-   "animado": false
+   "uid": "37e6805f2b7a4158a1d61fe75f8e2a33",
+   "nombre": "vaso_cafe_rojo",
+   "titulo": "Coffee Shop Cup",
+   "autor": "DavidZerba",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-37e6805f2b7a4158a1d61fe75f8e2a33",
+   "caras": 5760,
+   "anim": 0
+  },
+  {
+   "uid": "e77b65a844324452a385bf4c1275515f",
+   "nombre": "vaso_cafe_marron",
+   "titulo": "Paper Coffee Cup",
+   "autor": "korboleevd",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-e77b65a844324452a385bf4c1275515f",
+   "caras": 3332,
+   "anim": 0
+  },
+  {
+   "uid": "fe8ce41c430140c1bf125ea830fe5907",
+   "nombre": "arbol_arce_otono",
+   "titulo": "Autumn maple",
+   "autor": "masterofthemadworld",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-fe8ce41c430140c1bf125ea830fe5907",
+   "caras": 120648,
+   "anim": 0
+  },
+  {
+   "uid": "caee7cbfada44a9ca78543a7e86a335c",
+   "nombre": "arbol_rojo",
+   "titulo": "Tree Mesh full texture",
+   "autor": "endlessvoidmc",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-caee7cbfada44a9ca78543a7e86a335c",
+   "caras": 9932,
+   "anim": 0
+  },
+  {
+   "uid": "d989c0f801d847b9a74992ec4ddcfdfc",
+   "nombre": "arbol_realista",
+   "titulo": "Realistic Tree",
+   "autor": "danielpetrov",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-d989c0f801d847b9a74992ec4ddcfdfc",
+   "caras": 19921,
+   "anim": 0
   }
  ]
 }
