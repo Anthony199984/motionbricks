@@ -1,0 +1,106 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/gente_pack.glb",
+   "mb": 1.91
+  },
+  {
+   "destino": "objaverse/mujer_sentada_parada.glb",
+   "mb": 3.93
+  },
+  {
+   "destino": "objaverse/chica_parada.glb",
+   "mb": 69.39
+  },
+  {
+   "destino": "objaverse/senor_caminando.glb",
+   "mb": 2.35
+  },
+  {
+   "destino": "objaverse/hombre_negocios.glb",
+   "mb": 4.1
+  },
+  {
+   "destino": "objaverse/hombre_casual.glb",
+   "mb": 0.64
+  },
+  {
+   "destino": "objaverse/mujer_parada.glb",
+   "mb": 2.51
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "gente_pack": {
+   "uid": "cf7b9b312db4400c9d99ed40739b411a",
+   "nombre": "gente_pack",
+   "titulo": "All Characters",
+   "autor": "RachelC04",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-cf7b9b312db4400c9d99ed40739b411a",
+   "caras": 20213,
+   "anim": 0
+  },
+  "mujer_sentada_parada": {
+   "uid": "27f0f72c5f464e0e9081557db353df47",
+   "nombre": "mujer_sentada_parada",
+   "titulo": "Woman (Sitting Standing Clap)",
+   "autor": "nonny",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-27f0f72c5f464e0e9081557db353df47",
+   "caras": 87437,
+   "anim": 1
+  },
+  "chica_parada": {
+   "uid": "c9ca01094c8c45f484df83a61e8f1ef3",
+   "nombre": "chica_parada",
+   "titulo": "Girl Standing Animation",
+   "autor": "dhunu53",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-c9ca01094c8c45f484df83a61e8f1ef3",
+   "caras": 70423,
+   "anim": 1
+  },
+  "senor_caminando": {
+   "uid": "0f7535dc9dd1492e842cd6b2d23f4885",
+   "nombre": "senor_caminando",
+   "titulo": "Old man walking",
+   "autor": "norgeotloic",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-0f7535dc9dd1492e842cd6b2d23f4885",
+   "caras": 3636,
+   "anim": 0
+  },
+  "hombre_negocios": {
+   "uid": "00322ad15e1e4e5d9b626336f582f7f0",
+   "nombre": "hombre_negocios",
+   "titulo": "Character of business man",
+   "autor": "Aksgamer",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-00322ad15e1e4e5d9b626336f582f7f0",
+   "caras": 15732,
+   "anim": 0
+  },
+  "hombre_casual": {
+   "uid": "05d9dd5bdddd4157bd46dc179781ee6e",
+   "nombre": "hombre_casual",
+   "titulo": "Casual Man Character",
+   "autor": "strielecki",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-05d9dd5bdddd4157bd46dc179781ee6e",
+   "caras": 10962,
+   "anim": 1
+  },
+  "mujer_parada": {
+   "uid": "9aa5d0921ccb41fea29ec426e3b53610",
+   "nombre": "mujer_parada",
+   "titulo": "Woman Standing Idle_Kinstyuri",
+   "autor": "yuriannoue",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-9aa5d0921ccb41fea29ec426e3b53610",
+   "caras": 9087,
+   "anim": 1
+  }
+ }
+}
