@@ -1,26 +1,50 @@
 [
  {
-  "name": "mn01_muerde_chocolate_a",
-  "frames": 150,
-  "seed": 3101,
-  "prompt": "A person takes a bite of a chocolate bar held in his right hand."
- },
- {
-  "name": "mn01_muerde_chocolate_b",
-  "frames": 150,
-  "seed": 3201,
-  "prompt": "A person eats a snack with the right hand while standing."
- },
- {
-  "name": "mn02_mastica_sonrie",
+  "name": "sv16_resbalar_fuerte_a",
   "frames": 120,
-  "seed": 3102,
-  "prompt": "A person stands chewing food and smiling."
+  "seed": 4101,
+  "prompt": "A person starts running fast, the front foot slips out forward on a slippery floor, the person almost falls backward, arms flailing wildly, then recovers balance and keeps running."
  },
  {
-  "name": "mn03_inclina_mirar",
+  "name": "sv16_resbalar_fuerte_b",
   "frames": 120,
-  "seed": 3103,
-  "prompt": "A person leans forward to look closely at something at waist height."
+  "seed": 4201,
+  "prompt": "A person sprints off, slips on ice with both feet sliding, windmills the arms to keep balance, stumbles, then regains footing and runs."
+ },
+ {
+  "name": "sv17_espantar_mosca_a",
+  "frames": 150,
+  "seed": 4102,
+  "prompt": "A standing person looks at a fly in front of the face and waves the right hand to shoo it away, then keeps watching it."
+ },
+ {
+  "name": "sv17_espantar_mosca_b",
+  "frames": 150,
+  "seed": 4202,
+  "prompt": "A person stands still, follows something small in front of the nose with the eyes, then swats the air in front of the face with one hand."
+ },
+ {
+  "name": "sv18_confundido_a",
+  "frames": 240,
+  "seed": 4103,
+  "prompt": "A person stands confused, looks around in all directions, raises both arms with palms up as if asking what is happening, then scratches the head."
+ },
+ {
+  "name": "sv18_confundido_b",
+  "frames": 240,
+  "seed": 4203,
+  "prompt": "A confused person looks left and right, opens both arms in disbelief, turns the head around and shrugs, not understanding what is happening."
+ },
+ {
+  "name": "sv19_mira_ojos_a",
+  "frames": 180,
+  "seed": 4104,
+  "prompt": "A person stands and looks around nervously, squints, rubs the eyes with one hand, then looks around again surprised."
+ },
+ {
+  "name": "sv19_mira_ojos_b",
+  "frames": 180,
+  "seed": 4204,
+  "prompt": "A person standing looks up and around puzzled as it gets darker, blinks and leans forward to see better."
  }
 ]
