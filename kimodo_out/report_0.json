@@ -1,11 +1,11 @@
 {
- "total_seconds": 185.7,
+ "total_seconds": 271.8,
  "jobs": [
   {
-   "name": "sv11b_barriga_a",
-   "response": "OK\t90\t30",
-   "seconds": 185.6,
-   "frames": 90
+   "name": "mn01_muerde_chocolate_a",
+   "response": "OK\t150\t30",
+   "seconds": 271.7,
+   "frames": 150
   }
  ]
 }
