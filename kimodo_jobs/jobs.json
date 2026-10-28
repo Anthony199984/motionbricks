@@ -1,256 +1,38 @@
 [
  {
-  "name": "g01_rascarse_cabeza_confundido_a",
+  "name": "g10_mano_en_la_cara_c",
   "frames": 90,
-  "seed": 100,
-  "prompt": "A confused person scratches the back of the head with one hand."
+  "seed": 300,
+  "prompt": "A person slaps the forehead with the palm of one hand in frustration."
  },
  {
-  "name": "g01_rascarse_cabeza_confundido_b",
+  "name": "g10_mano_en_la_cara_d",
   "frames": 90,
-  "seed": 200,
-  "prompt": "A confused person scratches the back of the head with one hand."
+  "seed": 400,
+  "prompt": "A frustrated person facepalms, covering the eyes with one hand."
  },
  {
-  "name": "g02_mano_barbilla_pensando_a",
-  "frames": 90,
-  "seed": 101,
-  "prompt": "A person stands thinking with one hand on the chin."
- },
- {
-  "name": "g02_mano_barbilla_pensando_b",
-  "frames": 90,
-  "seed": 201,
-  "prompt": "A person stands thinking with one hand on the chin."
- },
- {
-  "name": "g03_manos_a_la_cabeza_a",
-  "frames": 90,
-  "seed": 102,
-  "prompt": "A shocked person puts both hands on top of the head."
- },
- {
-  "name": "g03_manos_a_la_cabeza_b",
-  "frames": 90,
-  "seed": 202,
-  "prompt": "A shocked person puts both hands on top of the head."
- },
- {
-  "name": "g04_encogerse_hombros_a",
-  "frames": 75,
-  "seed": 103,
-  "prompt": "A person shrugs the shoulders with both palms up."
- },
- {
-  "name": "g04_encogerse_hombros_b",
-  "frames": 75,
-  "seed": 203,
-  "prompt": "A person shrugs the shoulders with both palms up."
- },
- {
-  "name": "g05_asustarse_salto_atras_a",
-  "frames": 75,
-  "seed": 104,
-  "prompt": "A frightened person jumps back in fear."
- },
- {
-  "name": "g05_asustarse_salto_atras_b",
-  "frames": 75,
-  "seed": 204,
-  "prompt": "A frightened person jumps back in fear."
- },
- {
-  "name": "g06_asentir_a",
-  "frames": 75,
-  "seed": 105,
-  "prompt": "A person nods the head yes enthusiastically."
- },
- {
-  "name": "g06_asentir_b",
-  "frames": 75,
-  "seed": 205,
-  "prompt": "A person nods the head yes enthusiastically."
- },
- {
-  "name": "g07_negar_con_cabeza_a",
-  "frames": 75,
-  "seed": 106,
-  "prompt": "A person shakes the head no and waves one hand."
- },
- {
-  "name": "g07_negar_con_cabeza_b",
-  "frames": 75,
-  "seed": 206,
-  "prompt": "A person shakes the head no and waves one hand."
- },
- {
-  "name": "g08_celebrar_punos_arriba_a",
-  "frames": 90,
-  "seed": 107,
-  "prompt": "A person celebrates by raising both fists in the air."
- },
- {
-  "name": "g08_celebrar_punos_arriba_b",
-  "frames": 90,
-  "seed": 207,
-  "prompt": "A person celebrates by raising both fists in the air."
- },
- {
-  "name": "g09_senalar_adelante_a",
-  "frames": 75,
-  "seed": 108,
-  "prompt": "A person points forward with the right arm."
- },
- {
-  "name": "g09_senalar_adelante_b",
-  "frames": 75,
-  "seed": 208,
-  "prompt": "A person points forward with the right arm."
- },
- {
-  "name": "g10_mano_en_la_cara_a",
-  "frames": 90,
-  "seed": 109,
-  "prompt": "A frustrated person covers the face with one hand."
- },
- {
-  "name": "g10_mano_en_la_cara_b",
-  "frames": 90,
-  "seed": 209,
-  "prompt": "A frustrated person covers the face with one hand."
- },
- {
-  "name": "g11_mirar_alrededor_nervioso_a",
-  "frames": 90,
-  "seed": 110,
-  "prompt": "A nervous person looks around to both sides."
- },
- {
-  "name": "g11_mirar_alrededor_nervioso_b",
-  "frames": 90,
-  "seed": 210,
-  "prompt": "A nervous person looks around to both sides."
- },
- {
-  "name": "g12_aplaudir_a",
-  "frames": 75,
-  "seed": 111,
-  "prompt": "A person claps the hands several times."
- },
- {
-  "name": "g12_aplaudir_b",
-  "frames": 75,
-  "seed": 211,
-  "prompt": "A person claps the hands several times."
- },
- {
-  "name": "g13_brazos_cruzados_impaciente_a",
+  "name": "g13_brazos_cruzados_impaciente_c",
   "frames": 105,
-  "seed": 112,
-  "prompt": "A person crosses the arms and taps one foot impatiently."
+  "seed": 301,
+  "prompt": "A person stands with both arms crossed over the chest."
  },
  {
-  "name": "g13_brazos_cruzados_impaciente_b",
+  "name": "g13_brazos_cruzados_impaciente_d",
   "frames": 105,
-  "seed": 212,
-  "prompt": "A person crosses the arms and taps one foot impatiently."
+  "seed": 401,
+  "prompt": "A person folds the arms across the chest and taps one foot."
  },
  {
-  "name": "g14_sorpresa_retroceder_a",
+  "name": "g20_limpiarse_sudor_frente_c",
   "frames": 75,
-  "seed": 113,
-  "prompt": "A surprised person steps back with both hands raised."
+  "seed": 302,
+  "prompt": "An exhausted person wipes the forehead with one hand."
  },
  {
-  "name": "g14_sorpresa_retroceder_b",
+  "name": "g20_limpiarse_sudor_frente_d",
   "frames": 75,
-  "seed": 213,
-  "prompt": "A surprised person steps back with both hands raised."
- },
- {
-  "name": "g15_caminar_a",
-  "frames": 120,
-  "seed": 114,
-  "prompt": "A person walks forward."
- },
- {
-  "name": "g15_caminar_b",
-  "frames": 120,
-  "seed": 214,
-  "prompt": "A person walks forward."
- },
- {
-  "name": "g16_espera_respirando_a",
-  "frames": 90,
-  "seed": 115,
-  "prompt": "A person stands idle, breathing and shifting weight from one foot to the other."
- },
- {
-  "name": "g16_espera_respirando_b",
-  "frames": 90,
-  "seed": 215,
-  "prompt": "A person stands idle, breathing and shifting weight from one foot to the other."
- },
- {
-  "name": "g17_explicar_con_manos_a",
-  "frames": 120,
-  "seed": 116,
-  "prompt": "A person talks and gestures with both hands while explaining something."
- },
- {
-  "name": "g17_explicar_con_manos_b",
-  "frames": 120,
-  "seed": 216,
-  "prompt": "A person talks and gestures with both hands while explaining something."
- },
- {
-  "name": "g18_saludar_a",
-  "frames": 75,
-  "seed": 117,
-  "prompt": "A person waves hello with the right hand."
- },
- {
-  "name": "g18_saludar_b",
-  "frames": 75,
-  "seed": 217,
-  "prompt": "A person waves hello with the right hand."
- },
- {
-  "name": "g19_agacharse_mirar_piso_a",
-  "frames": 105,
-  "seed": 118,
-  "prompt": "A person crouches down to look closely at something on the floor."
- },
- {
-  "name": "g19_agacharse_mirar_piso_b",
-  "frames": 105,
-  "seed": 218,
-  "prompt": "A person crouches down to look closely at something on the floor."
- },
- {
-  "name": "g20_limpiarse_sudor_frente_a",
-  "frames": 75,
-  "seed": 119,
-  "prompt": "A tired person wipes the sweat off the forehead with the back of the hand."
- },
- {
-  "name": "g20_limpiarse_sudor_frente_b",
-  "frames": 75,
-  "seed": 219,
-  "prompt": "A tired person wipes the sweat off the forehead with the back of the hand."
- },
- {
-  "name": "t50_g06_asentir",
-  "frames": 75,
-  "seed": 105,
-  "steps": 50,
-  "prompt": "A person nods the head yes enthusiastically."
- },
- {
-  "name": "t50_g12_aplaudir",
-  "frames": 75,
-  "seed": 111,
-  "steps": 50,
-  "prompt": "A person claps the hands several times."
+  "seed": 402,
+  "prompt": "A person raises one hand to the forehead and wipes the sweat away."
  }
 ]
