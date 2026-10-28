@@ -1,0 +1,151 @@
+Wed Oct 28 02:03:18 UTC 2026
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       145G   41G  104G  29% /
+Wed Oct 28 02:05:02 UTC 2026
+Cloning into 'kcpp'...
+Note: switching to 'ed8a931aedb132f768190f6931c365855caba74c'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at ed8a931 Add LocalAI attribution and badge to README
+Submodule 'ggml' (https://github.com/ggml-org/ggml.git) registered for path 'ggml'
+Cloning into '/home/runner/work/motionbricks/motionbricks/kcpp/ggml'...
+Submodule path 'ggml': checked out '8c63e70982c95ceb862e3a1073a2c1beef75d60a'
+Wed Oct 28 02:05:08 UTC 2026
+Selecting previously unselected package ninja-build.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 203540 files and directories currently installed.)
+Preparing to unpack .../ninja-build_1.11.1-2_amd64.deb ...
+Unpacking ninja-build (1.11.1-2) ...
+Setting up ninja-build (1.11.1-2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Not building database; man-db/auto-update is not 'true'.
+
+Running kernel seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+-- The CXX compiler identification is GNU 14.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/g++-14 - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- The C compiler identification is GNU 14.2.0
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/gcc-14
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/gcc-14 - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Warning: ccache not found - consider installing it for faster compilation or disable this warning with GGML_CCACHE=OFF
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- Including CPU backend
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -msse4.2;-mf16c;-mfma;-mbmi2;-mavx;-mavx2 GGML_SSE42;GGML_F16C;GGML_FMA;GGML_BMI2;GGML_AVX;GGML_AVX2
+-- ggml version: 0.20.2
+-- ggml commit:  8c63e709
+-- Configuring done (6.6s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/runner/work/motionbricks/motionbricks/kcpp/build
+[1/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-alloc.c.o
+[2/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml.cpp.o
+[3/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-backend.cpp.o
+[4/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-threading.cpp.o
+[5/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-opt.cpp.o
+[6/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml.c.o
+[7/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.o
+[8/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-backend-meta.cpp.o
+[9/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.o
+[10/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/hbm.cpp.o
+[11/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/gguf.cpp.o
+[12/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/quants.c.o
+[13/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/traits.cpp.o
+[14/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.o
+[15/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.o
+[16/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.o
+[17/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-quants.c.o
+[18/45] Linking CXX shared library ggml/src/libggml-base.so.0.20.2
+[19/45] Creating library symlink ggml/src/libggml-base.so.0 ggml/src/libggml-base.so
+[20/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/vec.cpp.o
+[21/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/unary-ops.cpp.o
+[22/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/quants.c.o
+[23/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/repack.cpp.o
+[24/45] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-dl.cpp.o
+[25/45] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-reg.cpp.o
+[26/45] Building CXX object CMakeFiles/kimodo.dir/src/capi.cpp.o
+[27/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/repack.cpp.o
+[28/45] Building CXX object CMakeFiles/kimodo.dir/src/diffusion.cpp.o
+[29/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_rep.cpp.o
+[30/45] Building CXX object CMakeFiles/kimodo.dir/src/gguf.cpp.o
+[31/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_decode.cpp.o
+[32/45] Building CXX object CMakeFiles/kimodo.dir/src/model.cpp.o
+[33/45] Building CXX object CMakeFiles/kimodo.dir/src/ggml_weights.cpp.o
+In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/ggml_weights.cpp:17:
+/home/runner/work/motionbricks/motionbricks/kcpp/ggml/src/../include/ggml-backend.h:419:119: warning: ‘ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t, ggml_cgraph*)’ hides constructor for ‘struct ggml_backend_graph_copy’ [-Wshadow]
+  419 |     GGML_API struct ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t backend, struct ggml_cgraph * graph);
+      |                                                                                                                       ^
+/home/runner/work/motionbricks/motionbricks/kcpp/src/ggml_weights.cpp:27:6: warning: ‘void kimodo::detail::{anonymous}::configure_vulkan_f32_parity()’ defined but not used [-Wunused-function]
+   27 | void configure_vulkan_f32_parity() noexcept {
+      |      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+[34/45] Building CXX object CMakeFiles/kimodo.dir/src/sequence.cpp.o
+[35/45] Building CXX object CMakeFiles/kimodo.dir/src/denoiser.cpp.o
+In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/denoiser.cpp:18:
+/home/runner/work/motionbricks/motionbricks/kcpp/ggml/src/../include/ggml-backend.h:419:119: warning: ‘ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t, ggml_cgraph*)’ hides constructor for ‘struct ggml_backend_graph_copy’ [-Wshadow]
+  419 |     GGML_API struct ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t backend, struct ggml_cgraph * graph);
+      |                                                                                                                       ^
+[36/45] Building CXX object CMakeFiles/kimodo.dir/src/llm_tokenizer.cpp.o
+[37/45] Building CXX object CMakeFiles/kmd-generate.dir/src/generate.cpp.o
+[38/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ops.cpp.o
+[39/45] Linking CXX shared library ggml/src/libggml-cpu.so.0.20.2
+[40/45] Creating library symlink ggml/src/libggml-cpu.so.0 ggml/src/libggml-cpu.so
+[41/45] Linking CXX shared library ggml/src/libggml.so.0.20.2
+[42/45] Creating library symlink ggml/src/libggml.so.0 ggml/src/libggml.so
+[43/45] Building CXX object CMakeFiles/kimodo.dir/src/llm_text_encoder.cpp.o
+In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/llm_text_encoder.cpp:10:
+/home/runner/work/motionbricks/motionbricks/kcpp/ggml/src/../include/ggml-backend.h:419:119: warning: ‘ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t, ggml_cgraph*)’ hides constructor for ‘struct ggml_backend_graph_copy’ [-Wshadow]
+  419 |     GGML_API struct ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t backend, struct ggml_cgraph * graph);
+      |                                                                                                                       ^
+/home/runner/work/motionbricks/motionbricks/kcpp/src/llm_text_encoder.cpp:40:6: warning: ‘bool kimodo::detail::{anonymous}::use_vulkan()’ defined but not used [-Wunused-function]
+   40 | bool use_vulkan() {
+      |      ^~~~~~~~~~
+[44/45] Linking CXX static library libkimodo.a
+[45/45] Linking CXX executable kmd-generate
+build/kmd-generate
+Wed Oct 28 02:06:06 UTC 2026
+WARNING: huggingface-hub 2.3.0 does not provide the extra 'cli'
+
+[notice] A new release of pip is available: 26.2.1 -> 26.2.2
+[notice] To update, run: pip install --upgrade pip
+Downloading LocalAI-io/Kimodo-SOMA-RP-v1.1-GGML at main into /home/runner/work/motionbricks/motionbricks/weights
+[90mHint: The `hf-cli` skill is not installed. Run `hf skills add -g` to teach your AI agents how to use the `hf` CLI.[0m
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+verified native Kimodo GGUF bundle
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Downloading LocalAI-io/Llama-3-Kimodo-GGML at main into /home/runner/work/motionbricks/motionbricks/weights
+missing or wrong-sized file: generated/llm2vec-text-bundle/tokenizer.gguf
