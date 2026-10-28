@@ -1,11 +1,11 @@
 {
- "total_seconds": 195.5,
+ "total_seconds": 211.0,
  "jobs": [
   {
-   "name": "sv07_resbalar_b",
-   "response": "OK\t105\t30",
-   "seconds": 195.4,
-   "frames": 105
+   "name": "ch05_rascar_brazo_b",
+   "response": "OK\t120\t30",
+   "seconds": 210.9,
+   "frames": 120
   }
  ]
 }
