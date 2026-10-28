@@ -1,0 +1,17 @@
+{
+ "total_seconds": 692.1,
+ "jobs": [
+  {
+   "name": "g09_senalar_adelante_a",
+   "response": "OK\t75\t30",
+   "seconds": 309.7,
+   "frames": 75
+  },
+  {
+   "name": "g19_agacharse_mirar_piso_a",
+   "response": "OK\t105\t30",
+   "seconds": 382.3,
+   "frames": 105
+  }
+ ]
+}
