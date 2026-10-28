@@ -1,86 +1,69 @@
 {
  "catalogo": false,
- "informe": "informe_objaverse2.json",
- "objaverse": [
+ "informe": "informe_busqueda3.json",
+ "sketchfab_buscar": [
   {
-   "uid": "06353b8c5b754ea3a8b8ca6cf0cf90af",
-   "nombre": "perro_pastor_australiano",
-   "titulo": "Australian Shepherd Dog \"Diego\" by Revopoint POP",
-   "autor": "rapterron",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-06353b8c5b754ea3a8b8ca6cf0cf90af",
-   "caras": 699124,
-   "anim": 0
+   "clave": "gente1",
+   "q": "man reading newspaper",
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 30
   },
   {
-   "uid": "876367539de44a1daa0ef13bda77c76d",
-   "nombre": "perros_fondo",
-   "titulo": "Lowpoly Dogs for background props",
-   "autor": "TrentPierce",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-876367539de44a1daa0ef13bda77c76d",
-   "caras": 113846,
-   "anim": 0
+   "clave": "gente2",
+   "q": "woman shopping bags",
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 30
   },
   {
-   "uid": "b2ad95c584ab422eb5283d1fa95e8753",
-   "nombre": "perro_pastor_aleman",
-   "titulo": "German Shepherd",
-   "autor": "Faxchard",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-b2ad95c584ab422eb5283d1fa95e8753",
-   "caras": 774844,
-   "anim": 0
+   "clave": "gente3",
+   "q": "cyclist bicycle",
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 30
   },
   {
-   "uid": "157900941156422fbd9dcdfc38a3be19",
-   "nombre": "mosca_domestica",
-   "titulo": "Musca domestica",
-   "autor": "disc3d",
-   "licencia": "CC0 Public Domain",
-   "url": "https://sketchfab.com/3d-models/none-157900941156422fbd9dcdfc38a3be19",
-   "caras": 96816,
-   "anim": 0
+   "clave": "gente4",
+   "q": "waiter tray",
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 30
   },
   {
-   "uid": "565f37f9d5344a459dd9a680a67b44f0",
-   "nombre": "paloma_escaneo",
-   "titulo": "pigeon ( Realitycapture -> MagicaVoxel )",
-   "autor": "FFT_kedar",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-565f37f9d5344a459dd9a680a67b44f0",
-   "caras": 138700,
-   "anim": 0
+   "clave": "gente5",
+   "q": "person scan standing",
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 30
   },
   {
-   "uid": "e3ee02557a7d43a59ac030f5292aa2d3",
-   "nombre": "paloma_3d",
-   "titulo": "pigeon  - 3dModel - Free",
-   "autor": "velvel",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-e3ee02557a7d43a59ac030f5292aa2d3",
-   "caras": 2672,
-   "anim": 0
+   "clave": "gente6",
+   "q": "man sitting cafe",
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 30
   },
   {
-   "uid": "8ffb084d2bfa4cb18f9306865b4a5fd2",
-   "nombre": "arbol_arce_naranja",
-   "titulo": "Maple Tree",
-   "autor": "felix95b",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-8ffb084d2bfa4cb18f9306865b4a5fd2",
-   "caras": 45100,
-   "anim": 0
+   "clave": "gente7",
+   "q": "3d scan people",
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 30
   },
   {
-   "uid": "7751ffd2007c4b11bf45c5312a4859cb",
-   "nombre": "arbol_arce_grande",
-   "titulo": "Maple Tree",
-   "autor": "ben.lebreux",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-7751ffd2007c4b11bf45c5312a4859cb",
-   "caras": 556740,
-   "anim": 0
+   "clave": "gente8",
+   "q": "woman walking scan",
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 30
+  },
+  {
+   "clave": "gente9",
+   "q": "realistic man standing",
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 30
   }
  ]
 }
