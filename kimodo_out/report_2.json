@@ -1,17 +1,11 @@
 {
- "total_seconds": 642.3,
+ "total_seconds": 381.6,
  "jobs": [
   {
-   "name": "g02_mano_barbilla_pensando_a",
-   "response": "OK\t90\t30",
-   "seconds": 336.1,
-   "frames": 90
-  },
-  {
-   "name": "g12_aplaudir_a",
-   "response": "OK\t75\t30",
-   "seconds": 306.1,
-   "frames": 75
+   "name": "g13_brazos_cruzados_impaciente_c",
+   "response": "OK\t105\t30",
+   "seconds": 381.6,
+   "frames": 105
   }
  ]
 }
