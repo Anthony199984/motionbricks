@@ -1,173 +1,116 @@
 {
  "catalogo": false,
- "informe": "informe_velocidad_sonidos2.json",
- "objaverse": [
-  {
-   "uid": "0aa0e33c5c854d1bab7bac9e1c7acaec",
-   "nombre": "cerebro_rosado",
-   "titulo": "Human brain, Cerebrum & Brainstem",
-   "autor": "pranktoy",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-0aa0e33c5c854d1bab7bac9e1c7acaec",
-   "caras": 45296,
-   "anim": 0
-  },
-  {
-   "uid": "c9c9d4d671b94345952d012cc2ea7a24",
-   "nombre": "cerebro_2",
-   "titulo": "Human Brain",
-   "autor": "agher",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-c9c9d4d671b94345952d012cc2ea7a24",
-   "caras": 74590,
-   "anim": 0
-  },
-  {
-   "uid": "5c4565daf20e488fad8e0e4335c5c60a",
-   "nombre": "ojo_foto",
-   "titulo": "Eyeball - Photorealistic",
-   "autor": "TrentPierce",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-5c4565daf20e488fad8e0e4335c5c60a",
-   "caras": 10582,
-   "anim": 0
-  },
-  {
-   "uid": "5d466ea41c874fc5b376c92a313a9bb3",
-   "nombre": "ojo_2",
-   "titulo": "EYE FREE MODEL 3D BY Oscar creativo",
-   "autor": "oscar_creativo",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-5d466ea41c874fc5b376c92a313a9bb3",
-   "caras": 35520,
-   "anim": 0
-  }
- ],
+ "informe": "informe_mono_sonidos1.json",
  "mixkit": [
   {
-   "clave": "mk_whoosh",
-   "pagina": "https://mixkit.co/free-sound-effects/whoosh/",
+   "clave": "mn_mk_click",
+   "pagina": "https://mixkit.co/free-sound-effects/click/",
    "max": 10
   },
   {
-   "clave": "mk_glass",
-   "pagina": "https://mixkit.co/free-sound-effects/glass/",
+   "clave": "mn_mk_switch",
+   "pagina": "https://mixkit.co/free-sound-effects/switch/",
    "max": 10
   },
   {
-   "clave": "mk_wind",
-   "pagina": "https://mixkit.co/free-sound-effects/wind/",
+   "clave": "mn_mk_machine",
+   "pagina": "https://mixkit.co/free-sound-effects/machine/",
    "max": 10
   },
   {
-   "clave": "mk_dog",
-   "pagina": "https://mixkit.co/free-sound-effects/dog/",
-   "max": 10
-  },
-  {
-   "clave": "mk_bat",
-   "pagina": "https://mixkit.co/free-sound-effects/bat/",
-   "max": 10
-  },
-  {
-   "clave": "mk_insect",
-   "pagina": "https://mixkit.co/free-sound-effects/insect/",
-   "max": 10
-  },
-  {
-   "clave": "mk_fly",
-   "pagina": "https://mixkit.co/free-sound-effects/fly/",
-   "max": 10
-  },
-  {
-   "clave": "mk_footsteps",
-   "pagina": "https://mixkit.co/free-sound-effects/footsteps/",
-   "max": 10
-  },
-  {
-   "clave": "mk_running",
-   "pagina": "https://mixkit.co/free-sound-effects/running/",
-   "max": 10
-  },
-  {
-   "clave": "mk_splash",
-   "pagina": "https://mixkit.co/free-sound-effects/splash/",
-   "max": 10
-  },
-  {
-   "clave": "mk_water",
-   "pagina": "https://mixkit.co/free-sound-effects/water/",
-   "max": 10
-  },
-  {
-   "clave": "mk_explosion",
-   "pagina": "https://mixkit.co/free-sound-effects/explosion/",
-   "max": 10
-  },
-  {
-   "clave": "mk_impact",
-   "pagina": "https://mixkit.co/free-sound-effects/impact/",
-   "max": 10
-  },
-  {
-   "clave": "mk_boom",
-   "pagina": "https://mixkit.co/free-sound-effects/boom/",
-   "max": 10
-  },
-  {
-   "clave": "mk_crash",
-   "pagina": "https://mixkit.co/free-sound-effects/crash/",
-   "max": 10
-  },
-  {
-   "clave": "mk_eating",
-   "pagina": "https://mixkit.co/free-sound-effects/eating/",
-   "max": 10
-  },
-  {
-   "clave": "mk_bird",
-   "pagina": "https://mixkit.co/free-sound-effects/bird/",
-   "max": 10
-  },
-  {
-   "clave": "mk_pigeon",
-   "pagina": "https://mixkit.co/free-sound-effects/pigeon/",
-   "max": 10
-  },
-  {
-   "clave": "mk_crack",
-   "pagina": "https://mixkit.co/free-sound-effects/crack/",
-   "max": 10
-  },
-  {
-   "clave": "mk_brake",
-   "pagina": "https://mixkit.co/free-sound-effects/brake/",
-   "max": 10
-  },
-  {
-   "clave": "mk_squeak",
-   "pagina": "https://mixkit.co/free-sound-effects/squeak/",
-   "max": 10
-  },
-  {
-   "clave": "mk_heartbeat",
-   "pagina": "https://mixkit.co/free-sound-effects/heartbeat/",
-   "max": 10
-  },
-  {
-   "clave": "mk_clock",
+   "clave": "mn_mk_clock",
    "pagina": "https://mixkit.co/free-sound-effects/clock/",
    "max": 10
   },
   {
-   "clave": "mk_swoosh",
-   "pagina": "https://mixkit.co/free-sound-effects/swoosh/",
+   "clave": "mn_mk_drop",
+   "pagina": "https://mixkit.co/free-sound-effects/drop/",
    "max": 10
   },
   {
-   "clave": "mk_transition",
-   "pagina": "https://mixkit.co/free-sound-effects/transition/",
+   "clave": "mn_mk_bite",
+   "pagina": "https://mixkit.co/free-sound-effects/bite/",
    "max": 10
+  },
+  {
+   "clave": "mn_mk_crunch",
+   "pagina": "https://mixkit.co/free-sound-effects/crunch/",
+   "max": 10
+  },
+  {
+   "clave": "mn_mk_monkey",
+   "pagina": "https://mixkit.co/free-sound-effects/monkey/",
+   "max": 10
+  },
+  {
+   "clave": "mn_mk_heartbeat",
+   "pagina": "https://mixkit.co/free-sound-effects/heartbeat/",
+   "max": 10
+  },
+  {
+   "clave": "mn_mk_button",
+   "pagina": "https://mixkit.co/free-sound-effects/button/",
+   "max": 10
+  },
+  {
+   "clave": "mn_mk_motor",
+   "pagina": "https://mixkit.co/free-sound-effects/motor/",
+   "max": 10
+  },
+  {
+   "clave": "mn_mk_eat",
+   "pagina": "https://mixkit.co/free-sound-effects/eat/",
+   "max": 10
+  }
+ ],
+ "commons_buscar": [
+  {
+   "clave": "mn_c_palanca",
+   "q": "lever switch click",
+   "n": 12,
+   "max_mb": 4
+  },
+  {
+   "clave": "mn_c_contador",
+   "q": "mechanical counter click",
+   "n": 12,
+   "max_mb": 4
+  },
+  {
+   "clave": "mn_c_motor",
+   "q": "small electric motor hum",
+   "n": 12,
+   "max_mb": 4
+  },
+  {
+   "clave": "mn_c_reloj",
+   "q": "clock ticking",
+   "n": 12,
+   "max_mb": 4
+  },
+  {
+   "clave": "mn_c_gota",
+   "q": "water drop",
+   "n": 12,
+   "max_mb": 4
+  },
+  {
+   "clave": "mn_c_mordida",
+   "q": "biting chocolate",
+   "n": 12,
+   "max_mb": 4
+  },
+  {
+   "clave": "mn_c_mono",
+   "q": "rhesus macaque",
+   "n": 12,
+   "max_mb": 4
+  },
+  {
+   "clave": "mn_c_latido",
+   "q": "heartbeat",
+   "n": 12,
+   "max_mb": 4
   }
  ]
 }
