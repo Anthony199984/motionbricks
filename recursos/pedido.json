@@ -1,20 +1,11 @@
 {
  "catalogo": false,
- "informe": "informe_velocidad_v8_perro2.json",
- "objaverse": [
+ "informe": "informe_eval_mono.json",
+ "transcribir": [
   {
-   "uid": "74fb76422a7244a2bd73757ab533ab94",
-   "nombre": "pastor_sentado",
-   "titulo": "German Shepherd (Sitting)",
-   "autor": "dwigfor",
-   "licencia": "CC Attribution-NonCommercial"
-  },
-  {
-   "uid": "cdf56b3d94724be4b6351ff6e9355d07",
-   "nombre": "pastor_echado",
-   "titulo": "German Shepherd (Laying Down)",
-   "autor": "dwigfor",
-   "licencia": "CC Attribution-NonCommercial"
+   "archivo": "recursos/entrada/eval_mono.mp3",
+   "salida": "transcripcion_eval_mono.json",
+   "modelo": "small"
   }
  ]
 }

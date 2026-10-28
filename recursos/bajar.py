@@ -192,8 +192,25 @@ def freesound_buscar(b):
     print("freesound", b["q"], len(out), "mp3 en búsqueda", len(mp3s))
 
 
+def transcribir(b):
+    """Transcribe un audio del repo (recursos/entrada/...) con faster-whisper, con tiempos por palabra."""
+    import subprocess
+    subprocess.run([sys.executable, "-m", "pip", "install", "-q", "faster-whisper"], check=True)
+    from faster_whisper import WhisperModel
+    m = WhisperModel(b.get("modelo", "small"), device="cpu", compute_type="int8")
+    segs, info = m.transcribe(b["archivo"], language=b.get("idioma", "es"), word_timestamps=True)
+    out = [dict(ini=round(s.start, 2), fin=round(s.end, 2), texto=s.text.strip()) for s in segs]
+    os.makedirs(OUT, exist_ok=True)
+    json.dump(out, open(f"{OUT}/{b['salida']}", "w"), ensure_ascii=False, indent=1)
+    print("transcrito", b["archivo"], len(out))
+
+
 def main():
     p = json.load(open("recursos/pedido.json"))
+    for b in p.get("transcribir", []):
+        try: transcribir(b)
+        except Exception as e:                        # noqa: BLE001
+            informe["errores"].append({"transcribir": b, "error": repr(e)[:300]}); print("ERROR", b, e)
     for b in p.get("freesound_buscar", []):
         try: freesound_buscar(b)
         except Exception as e:                        # noqa: BLE001
