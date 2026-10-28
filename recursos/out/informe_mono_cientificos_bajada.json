@@ -1,0 +1,32 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/cientifico_medic_rigging.glb",
+   "mb": 6.77
+  },
+  {
+   "destino": "objaverse/cientifico_doctor.glb",
+   "mb": 6.81
+  },
+  {
+   "destino": "objaverse/cientifico_adam.glb",
+   "mb": 9.2
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "cientifico_medic_rigging": {
+   "uid": "5927ca4b89be4e50add068026ad5a547",
+   "nombre": "cientifico_medic_rigging"
+  },
+  "cientifico_doctor": {
+   "uid": "31c09ab8b098489b8c46712650e45bac",
+   "nombre": "cientifico_doctor"
+  },
+  "cientifico_adam": {
+   "uid": "3b3e19800e76495b821da1deedb23db2",
+   "nombre": "cientifico_adam"
+  }
+ }
+}
