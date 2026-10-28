@@ -1,144 +1,261 @@
 {
  "catalogo": false,
- "informe": "informe_velocidad_sonidos_cerebro.json",
- "commons_buscar": [
+ "informe": "informe_mono_objaverse2.json",
+ "objaverse": [
   {
-   "clave": "murcielago",
-   "q": "bat echolocation",
-   "n": 12,
-   "max_mb": 4
+   "uid": "50e4b1da03494429b1265fc095f2c530",
+   "nombre": "mono_realista_tdu",
+   "titulo": "Realsitic Monkey",
+   "autor": "TdoubleU8",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-50e4b1da03494429b1265fc095f2c530",
+   "caras": 35248,
+   "anim": 0
   },
   {
-   "clave": "murcielago2",
-   "q": "bat squeak",
-   "n": 12,
-   "max_mb": 4
+   "uid": "50fb86d3786d4038b41369e8e26a4cf7",
+   "nombre": "mono_rigged_aldan",
+   "titulo": "Monkey Fully Rigged",
+   "autor": "AIdan127458",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-50fb86d3786d4038b41369e8e26a4cf7",
+   "caras": 24008,
+   "anim": 0
   },
   {
-   "clave": "ballena",
-   "q": "humpback whale song",
-   "n": 12,
-   "max_mb": 4
+   "uid": "3ba199e0a78546598f868e86d78495a0",
+   "nombre": "mono_simio_baile",
+   "titulo": "Simio Monkey dancing",
+   "autor": "pepetrincado",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-3ba199e0a78546598f868e86d78495a0",
+   "caras": 23912,
+   "anim": 1
   },
   {
-   "clave": "perro",
-   "q": "dog barking",
-   "n": 12,
-   "max_mb": 4
+   "uid": "74e7cee7ed044439aca9241b0739156e",
+   "nombre": "mono_baile_jhinuk",
+   "titulo": "Monkey Dancing",
+   "autor": "jhinuk",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-74e7cee7ed044439aca9241b0739156e",
+   "caras": 36038,
+   "anim": 1
   },
   {
-   "clave": "mosca",
-   "q": "fly buzzing",
-   "n": 12,
-   "max_mb": 4
+   "uid": "b831c874006d4512a6459f34018cbf88",
+   "nombre": "mono_singe",
+   "titulo": "Singe",
+   "autor": "philou972",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-b831c874006d4512a6459f34018cbf88",
+   "caras": 9670,
+   "anim": 1
   },
   {
-   "clave": "whoosh",
-   "q": "whoosh",
-   "n": 12,
-   "max_mb": 4
+   "uid": "8955fb5b9c9b4e169456ccbae7c465f7",
+   "nombre": "mono_anim40",
+   "titulo": "MONKEY",
+   "autor": "dinesdiabolik",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-8955fb5b9c9b4e169456ccbae7c465f7",
+   "caras": 34176,
+   "anim": 40
   },
   {
-   "clave": "vidrio",
-   "q": "glass breaking",
-   "n": 12,
-   "max_mb": 4
+   "uid": "0aa0e33c5c854d1bab7bac9e1c7acaec",
+   "nombre": "cerebro_pranktoy",
+   "titulo": "Human brain, Cerebrum & Brainstem",
+   "autor": "pranktoy",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-0aa0e33c5c854d1bab7bac9e1c7acaec",
+   "caras": 45296,
+   "anim": 0
   },
   {
-   "clave": "viento",
-   "q": "strong wind gust",
-   "n": 12,
-   "max_mb": 4
+   "uid": "49bcdf19c1904c76a456b31838b0d7ac",
+   "nombre": "cerebro_versal",
+   "titulo": "Human Brain",
+   "autor": "versal",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-49bcdf19c1904c76a456b31838b0d7ac",
+   "caras": 36708,
+   "anim": 0
   },
   {
-   "clave": "pasos",
-   "q": "running footsteps",
-   "n": 12,
-   "max_mb": 4
+   "uid": "2ffd19605a4f4aa59ee260f831c50132",
+   "nombre": "cerebro_brain2",
+   "titulo": "BRAIN2",
+   "autor": "idmental.id",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-2ffd19605a4f4aa59ee260f831c50132",
+   "caras": 25372,
+   "anim": 0
   },
   {
-   "clave": "grieta",
-   "q": "cracking ice",
-   "n": 12,
-   "max_mb": 4
+   "uid": "22fa9afe14724d9bbcffcc1160d6c447",
+   "nombre": "neurona_rosada",
+   "titulo": "Neuron",
+   "autor": "thatdudeart",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-22fa9afe14724d9bbcffcc1160d6c447",
+   "caras": 141350,
+   "anim": 0
   },
   {
-   "clave": "explosion",
-   "q": "sonic boom",
-   "n": 12,
-   "max_mb": 4
+   "uid": "6834b20a2bc6473d85737587a20ff84f",
+   "nombre": "neurona_multipolar",
+   "titulo": "Multipolar neuron",
+   "autor": "alainsorazu",
+   "licencia": "CC Attribution-ShareAlike",
+   "url": "https://sketchfab.com/3d-models/none-6834b20a2bc6473d85737587a20ff84f",
+   "caras": 99904,
+   "anim": 0
   },
   {
-   "clave": "frenazo",
-   "q": "sneakers squeak",
-   "n": 12,
-   "max_mb": 4
+   "uid": "6e9c67e3adc345a4b12d0e4f825851a2",
+   "nombre": "chocolate_simple",
+   "titulo": "Simple Chocolate Bar",
+   "autor": "Blender3D",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-6e9c67e3adc345a4b12d0e4f825851a2",
+   "caras": 1304,
+   "anim": 0
   },
   {
-   "clave": "comer",
-   "q": "eating crunch",
-   "n": 12,
-   "max_mb": 4
+   "uid": "69d0a671024e4928a12f5ee0d655f0a6",
+   "nombre": "chocolate_barra",
+   "titulo": "Chocolat Bar",
+   "autor": "davimfs7",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-69d0a671024e4928a12f5ee0d655f0a6",
+   "caras": 375338,
+   "anim": 0
   },
   {
-   "clave": "salpica",
-   "q": "liquid splash",
-   "n": 12,
-   "max_mb": 4
+   "uid": "fe03debc89a045f4a5cffe1974071347",
+   "nombre": "chocolate_barra2",
+   "titulo": "Chocolate Bar",
+   "autor": "freddy1231",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-fe03debc89a045f4a5cffe1974071347",
+   "caras": 1304,
+   "anim": 0
   },
   {
-   "clave": "golpe",
-   "q": "bass drum hit",
-   "n": 12,
-   "max_mb": 4
+   "uid": "3c8560d994024359950d4a7707d7b2b6",
+   "nombre": "chocolate_oscuro",
+   "titulo": "Dark Chocolate Bar",
+   "autor": "lavz",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-3c8560d994024359950d4a7707d7b2b6",
+   "caras": 6968,
+   "anim": 0
   },
   {
-   "clave": "tictac",
-   "q": "clock ticking",
-   "n": 12,
-   "max_mb": 4
+   "uid": "f1075e12ba4a49368e0f29c62881ac73",
+   "nombre": "palanca_vieja",
+   "titulo": "Old lever",
+   "autor": "gunnarcorrea",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-f1075e12ba4a49368e0f29c62881ac73",
+   "caras": 526,
+   "anim": 1
   },
   {
-   "clave": "palomas",
-   "q": "pigeons flapping wings",
-   "n": 12,
-   "max_mb": 4
+   "uid": "374608f75c114b8a9bf41dbc02c51c50",
+   "nombre": "palanca_interruptor",
+   "titulo": "Lever Power Switch",
+   "autor": "fengyuan20000303",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-374608f75c114b8a9bf41dbc02c51c50",
+   "caras": 872,
+   "anim": 1
   },
   {
-   "clave": "trueno",
-   "q": "thunder",
-   "n": 12,
-   "max_mb": 4
+   "uid": "1d4a93a0427a43ffabb5cc47c8a819be",
+   "nombre": "palanca_cc0",
+   "titulo": "CC0 - Lever",
+   "autor": "plaggy",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-1d4a93a0427a43ffabb5cc47c8a819be",
+   "caras": 660,
+   "anim": 0
+  },
+  {
+   "uid": "12b732a16bcc403baba50cb769816e8b",
+   "nombre": "palanca_scp",
+   "titulo": "Lever - SCP",
+   "autor": "Maxime66410",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-12b732a16bcc403baba50cb769816e8b",
+   "caras": 366,
+   "anim": 0
   }
  ],
  "sketchfab_buscar": [
   {
-   "clave": "cerebro1",
-   "q": "human brain",
+   "clave": "mono_japones",
+   "q": "japanese macaque",
    "paginas": 6,
    "solo_objaverse": true,
-   "max": 30
+   "max": 40
   },
   {
-   "clave": "cerebro2",
-   "q": "brain anatomy",
+   "clave": "mono_nieve",
+   "q": "snow monkey",
    "paginas": 6,
    "solo_objaverse": true,
-   "max": 30
+   "max": 40
   },
   {
-   "clave": "ojo1",
-   "q": "human eye anatomy",
+   "clave": "mono_capuchino",
+   "q": "capuchin",
    "paginas": 6,
    "solo_objaverse": true,
-   "max": 30
+   "max": 40
   },
   {
-   "clave": "ojo2",
-   "q": "eyeball",
+   "clave": "mono_primate",
+   "q": "primate",
    "paginas": 6,
    "solo_objaverse": true,
-   "max": 30
+   "max": 40
+  },
+  {
+   "clave": "mono_escaneo",
+   "q": "monkey scan",
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mono_mono",
+   "q": "monkey sitting",
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mono_chimp",
+   "q": "chimpanzee",
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mono_mandril",
+   "q": "mandrill",
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mono_ape",
+   "q": "ape realistic",
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
   }
  ]
 }
