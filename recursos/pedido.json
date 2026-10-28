@@ -1,11 +1,120 @@
 {
  "catalogo": false,
- "informe": "informe_eval_mono.json",
- "transcribir": [
+ "informe": "informe_mono_revision.json",
+ "freesound_buscar": [
   {
-   "archivo": "recursos/entrada/eval_mono.wav",
-   "salida": "transcripcion_eval_mono.json",
-   "modelo": "small"
+   "clave": "mr_chimp_grito",
+   "q": "chimpanzee scream",
+   "max": 8
+  },
+  {
+   "clave": "mr_chimp_jadeo",
+   "q": "chimpanzee pant",
+   "max": 8
+  },
+  {
+   "clave": "mr_mono_respira",
+   "q": "monkey breathing",
+   "max": 6
+  },
+  {
+   "clave": "mr_palanca",
+   "q": "metal lever click",
+   "max": 8
+  },
+  {
+   "clave": "mr_bomba",
+   "q": "syringe pump motor",
+   "max": 8
+  },
+  {
+   "clave": "mr_bomba2",
+   "q": "infusion pump",
+   "max": 6
+  },
+  {
+   "clave": "mr_goteo",
+   "q": "liquid drip tube",
+   "max": 6
+  },
+  {
+   "clave": "mr_latido",
+   "q": "heartbeat fast",
+   "max": 6
+  },
+  {
+   "clave": "mr_pasos",
+   "q": "footsteps lab floor",
+   "max": 6
+  },
+  {
+   "clave": "mr_caja",
+   "q": "cardboard box handling",
+   "max": 6
+  },
+  {
+   "clave": "mr_reloj_tl",
+   "q": "time lapse whoosh",
+   "max": 4
+  },
+  {
+   "clave": "mr_mordida",
+   "q": "chocolate bar bite snap",
+   "max": 6
+  }
+ ],
+ "commons_buscar": [
+  {
+   "clave": "mr_c_chimp",
+   "q": "chimpanzee",
+   "n": 15
+  },
+  {
+   "clave": "mr_c_macaco",
+   "q": "macaque vocalization",
+   "n": 10
+  }
+ ],
+ "mixkit": [
+  {
+   "clave": "mr_mk_mono",
+   "pagina": "https://mixkit.co/free-sound-effects/monkey/",
+   "max": 12
+  },
+  {
+   "clave": "mr_mk_lab",
+   "pagina": "https://mixkit.co/free-sound-effects/machine/",
+   "max": 12
+  }
+ ],
+ "sketchfab_buscar": [
+  {
+   "clave": "mr_cientifico",
+   "q": "scientist lab coat rigged",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 40
+  },
+  {
+   "clave": "mr_doctor",
+   "q": "doctor lab coat man rigged",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 40
+  },
+  {
+   "clave": "mr_bomba_inf",
+   "q": "syringe pump",
+   "solo_objaverse": true,
+   "paginas": 2,
+   "max": 24
+  },
+  {
+   "clave": "mr_jaula",
+   "q": "animal cage laboratory",
+   "solo_objaverse": true,
+   "paginas": 2,
+   "max": 24
   }
  ]
 }
