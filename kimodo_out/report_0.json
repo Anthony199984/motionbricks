@@ -1,10 +1,16 @@
 {
- "total_seconds": 169.9,
+ "total_seconds": 370.4,
  "jobs": [
   {
-   "name": "g10_mano_en_la_cara_c",
+   "name": "sv01_sostener_vaso_a",
    "response": "OK\t90\t30",
-   "seconds": 169.9,
+   "seconds": 184.1,
+   "frames": 90
+  },
+  {
+   "name": "sv14_agacharse_recoger_a",
+   "response": "OK\t90\t30",
+   "seconds": 186.2,
    "frames": 90
   }
  ]
