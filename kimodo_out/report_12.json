@@ -1,0 +1,17 @@
+{
+ "total_seconds": 726.2,
+ "jobs": [
+  {
+   "name": "g07_negar_con_cabeza_a",
+   "response": "OK\t75\t30",
+   "seconds": 310.7,
+   "frames": 75
+  },
+  {
+   "name": "g17_explicar_con_manos_a",
+   "response": "OK\t120\t30",
+   "seconds": 415.4,
+   "frames": 120
+  }
+ ]
+}
