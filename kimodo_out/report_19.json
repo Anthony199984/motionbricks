@@ -1,0 +1,17 @@
+{
+ "total_seconds": 637.5,
+ "jobs": [
+  {
+   "name": "g10_mano_en_la_cara_b",
+   "response": "OK\t90\t30",
+   "seconds": 333.2,
+   "frames": 90
+  },
+  {
+   "name": "g20_limpiarse_sudor_frente_b",
+   "response": "OK\t75\t30",
+   "seconds": 304.3,
+   "frames": 75
+  }
+ ]
+}
