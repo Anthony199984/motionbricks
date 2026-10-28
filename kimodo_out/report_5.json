@@ -1,11 +1,11 @@
 {
- "total_seconds": 134.0,
+ "total_seconds": 174.3,
  "jobs": [
   {
-   "name": "g20_limpiarse_sudor_frente_d",
-   "response": "OK\t75\t30",
-   "seconds": 133.9,
-   "frames": 75
+   "name": "sv05_mirar_mosca_a",
+   "response": "OK\t120\t30",
+   "seconds": 174.3,
+   "frames": 120
   }
  ]
 }
