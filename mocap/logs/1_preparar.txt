@@ -1,0 +1,93 @@
+==> rig=MonoRhesus  data=Truebone_Z-OO  out=zoo  video=videos
+
+============================================================
+[1/15] move_fbx
+============================================================
+Processing: MonoRhesus/
+Done.
+
+============================================================
+[2/15] fix_fbx_batch (Blender)
+============================================================
+==> Fixing 2 FBX files with 8 workers
+fix_fbx_analyze:   0%|          | 0/2 [00:00<?, ?it/s]Blender 4.2.3 LTS (hash 0e22e4fcea03 built 2024-10-14 23:31:34)
+Traceback (most recent call last):
+  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 600, in <module>
+    main()
+  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 581, in main
+    locator = push_translation_to_root(arm, logger, prefer_bones=prefer_bones)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 434, in push_translation_to_root
+    frame_start, frame_end, main_bone, keep_set = select_translation_bones(
+                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 424, in select_translation_bones
+    frame_start, frame_end, metrics = measure_bone_loc_motion(arm, logger)
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 267, in measure_bone_loc_motion
+    raise RuntimeError("Armature has no available action")
+RuntimeError: Armature has no available action
+Blender 4.2.3 LTS (hash 0e22e4fcea03 built 2024-10-14 23:31:34)
+Traceback (most recent call last):
+  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 600, in <module>
+    main()
+  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 581, in main
+    locator = push_translation_to_root(arm, logger, prefer_bones=prefer_bones)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 434, in push_translation_to_root
+    frame_start, frame_end, main_bone, keep_set = select_translation_bones(
+                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 424, in select_translation_bones
+    frame_start, frame_end, metrics = measure_bone_loc_motion(arm, logger)
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 267, in measure_bone_loc_motion
+    raise RuntimeError("Armature has no available action")
+RuntimeError: Armature has no available action
+FBX version: 7400
+FBX version: 7400
+
+Blender quit
+
+Blender quit
+fix_fbx_analyze:  50%|█████     | 1/2 [00:00<00:00,  1.54it/s]fix_fbx_analyze: 100%|██████████| 2/2 [00:00<00:00,  3.08it/s]
+==> fix_fbx_analyze: success=0, failed=2
+fix_fbx_export: 0it [00:00, ?it/s]fix_fbx_export: 0it [00:00, ?it/s]
+==> fix_fbx_export: success=0, failed=0
+
+============================================================
+[3/15] extract_character_from_fbx (Blender)
+============================================================
+⚠️ No FBX files in MonoRhesus, skipping.
+
+============================================================
+[4/15] align_character_face_zplus
+============================================================
+/home/runner/MocapAnything/utils/bvh.py:151: SyntaxWarning: "\s" is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\s"? A raw string is also an option.
+  fmatch = re.match('\s*Frames:\s+(\d+)', line)
+/home/runner/MocapAnything/utils/bvh.py:163: SyntaxWarning: "\s" is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\s"? A raw string is also an option.
+  fmatch = re.match('\s*Frame Time:\s+([\d\.]+)', line)
+/home/runner/MocapAnything/utils/bvh.py:307: SyntaxWarning: "\s" is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\s"? A raw string is also an option.
+  fmatch = re.match('\s*Frames:\s+(\d+)', line)
+/home/runner/MocapAnything/utils/bvh.py:319: SyntaxWarning: "\s" is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\s"? A raw string is also an option.
+  fmatch = re.match('\s*Frame Time:\s+([\d\.]+)', line)
+/home/runner/MocapAnything/utils/bvh.py:906: SyntaxWarning: "\s" is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\s"? A raw string is also an option.
+  jmatch = re.match('\s*JOINT\s+(\w+)', line)
+/home/runner/MocapAnything/utils/bvh.py:922: SyntaxWarning: "\s" is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\s"? A raw string is also an option.
+  fmatch = re.match('\s*Frames:\s+(\d+)', line)
+/home/runner/MocapAnything/utils/bvh.py:934: SyntaxWarning: "\s" is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\s"? A raw string is also an option.
+  fmatch = re.match('\s*Frame Time:\s+([\d\.]+)', line)
+==> Aligning 0 characters to +Z
+align_characters: 0it [00:00, ?it/s]align_characters: 0it [00:00, ?it/s]
+
+Pipeline complete.
+
+[ERROR] Stage 4 could not align MonoRhesus to +Z:
+        zoo/characters_face_zplus/MonoRhesus/front.npy was not written.
+
+        Supply the facing direction yourself — a unit vector in the rig's own
+        coordinates pointing out of the character's front — and rerun:
+
+          mkdir -p examples/custom_rig/align_ref/MonoRhesus
+          python -c "import numpy as np; np.save('examples/custom_rig/align_ref/MonoRhesus/front.npy', np.array([1.,0.,0.]))"
+          ALIGN_REF_DIR=examples/custom_rig/align_ref bash examples/custom_rig/run.sh MonoRhesus
+
+        [1,0,0] means the character faces +X; [0,0,1] means it already faces +Z.
