@@ -1,6 +1,6 @@
 {
  "catalogo": false,
- "informe": "informe_velocidad_v7_gente_bajada.json",
+ "informe": "informe_velocidad_v7_gente_bajada2.json",
  "objaverse": [
   {
    "uid": "bbaa566445074509a32ef5059a9d0bc2",
@@ -12,17 +12,8 @@
    "anim": 1
   },
   {
-   "uid": "c0dc08ae287a46bd9724a3acf5776bf0",
-   "nombre": "mujer_telefono",
-   "titulo": "Android Bug",
-   "autor": "lazercar",
-   "licencia": "CC Attribution-ShareAlike",
-   "caras": 9472,
-   "anim": 1
-  },
-  {
    "uid": "b4d00bf20dd84b3d9842fdb1744555be",
-   "nombre": "hombre_telefono",
+   "nombre": "mujer_telefono2",
    "titulo": "Mia Talking On Phone",
    "autor": "instideal2019",
    "licencia": "CC Attribution",
@@ -31,8 +22,17 @@
   },
   {
    "uid": "b69d149f87a94a058fc4e8adb58ebbbf",
-   "nombre": "hombre_telefono_camina",
+   "nombre": "hombre_telefono2",
    "titulo": "Mr Man Talking On A Cell Phone",
+   "autor": "instideal2019",
+   "licencia": "CC Attribution",
+   "caras": 41407,
+   "anim": 1
+  },
+  {
+   "uid": "9d3f3674bcf849e099d1d0da4de33e40",
+   "nombre": "hombre_telefono_camina2",
+   "titulo": "Mr Man Talking Phone Pacing",
    "autor": "instideal2019",
    "licencia": "CC Attribution",
    "caras": 41407,
