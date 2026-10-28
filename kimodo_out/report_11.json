@@ -1,0 +1,17 @@
+{
+ "total_seconds": 614.9,
+ "jobs": [
+  {
+   "name": "g06_asentir_b",
+   "response": "OK\t75\t30",
+   "seconds": 298.0,
+   "frames": 75
+  },
+  {
+   "name": "g16_espera_respirando_b",
+   "response": "OK\t90\t30",
+   "seconds": 317.0,
+   "frames": 90
+  }
+ ]
+}
