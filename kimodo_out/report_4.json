@@ -1,17 +1,11 @@
 {
- "total_seconds": 201.7,
+ "total_seconds": 389.8,
  "jobs": [
   {
-   "name": "sv04_reir",
-   "response": "OK\t75\t30",
-   "seconds": 101.3,
-   "frames": 75
-  },
-  {
-   "name": "sv15_empujado_viento_b",
-   "response": "OK\t75\t30",
-   "seconds": 100.3,
-   "frames": 75
+   "name": "sv18_confundido_a",
+   "response": "OK\t240\t30",
+   "seconds": 389.7,
+   "frames": 240
   }
  ]
 }
