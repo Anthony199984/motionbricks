@@ -193,16 +193,16 @@ def freesound_buscar(b):
 
 
 def transcribir(b):
-    """Transcribe un audio del repo (recursos/entrada/...) con faster-whisper, con tiempos por palabra."""
+    """Transcribe un audio del repo (recursos/entrada/...) con faster-whisper (en un proceso aparte, recién instalado)."""
     import subprocess
-    subprocess.run([sys.executable, "-m", "pip", "install", "-q", "faster-whisper"], check=True)
-    from faster_whisper import WhisperModel
-    m = WhisperModel(b.get("modelo", "small"), device="cpu", compute_type="int8")
-    segs, info = m.transcribe(b["archivo"], language=b.get("idioma", "es"), word_timestamps=True)
-    out = [dict(ini=round(s.start, 2), fin=round(s.end, 2), texto=s.text.strip()) for s in segs]
+    subprocess.run([sys.executable, "-m", "pip", "install", "-q", "--user", "faster-whisper"], check=True)
     os.makedirs(OUT, exist_ok=True)
-    json.dump(out, open(f"{OUT}/{b['salida']}", "w"), ensure_ascii=False, indent=1)
-    print("transcrito", b["archivo"], len(out))
+    cod = ("import json,sys\nfrom faster_whisper import WhisperModel\n"
+           f"m=WhisperModel({b.get('modelo','small')!r},device='cpu',compute_type='int8')\n"
+           f"segs,info=m.transcribe({b['archivo']!r},language={b.get('idioma','es')!r})\n"
+           "out=[dict(ini=round(s.start,2),fin=round(s.end,2),texto=s.text.strip()) for s in segs]\n"
+           f"json.dump(out,open({(OUT + '/' + b['salida'])!r},'w'),ensure_ascii=False,indent=1)\nprint('transcrito',len(out))\n")
+    subprocess.run([sys.executable, "-c", cod], check=True)
 
 
 def main():
