@@ -1,20 +1,20 @@
 {
  "catalogo": false,
- "informe": "informe_velocidad_v8_perro.json",
- "sketchfab_buscar": [
+ "informe": "informe_velocidad_v8_perro2.json",
+ "objaverse": [
   {
-   "clave": "perro_pastor_real",
-   "q": "german shepherd",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "max": 20
+   "uid": "74fb76422a7244a2bd73757ab533ab94",
+   "nombre": "pastor_sentado",
+   "titulo": "German Shepherd (Sitting)",
+   "autor": "dwigfor",
+   "licencia": "CC Attribution-NonCommercial"
   },
   {
-   "clave": "perro_realista",
-   "q": "realistic dog fur",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 16
+   "uid": "cdf56b3d94724be4b6351ff6e9355d07",
+   "nombre": "pastor_echado",
+   "titulo": "German Shepherd (Laying Down)",
+   "autor": "dwigfor",
+   "licencia": "CC Attribution-NonCommercial"
   }
  ]
 }
