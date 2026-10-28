@@ -1,6 +1,26 @@
 [
- {"name": "sv11b_barriga_a", "frames": 90, "seed": 2311, "prompt": "A person puts the right hand on the stomach and rubs it."},
- {"name": "sv11b_barriga_b", "frames": 90, "seed": 2411, "prompt": "A hungry person holds the belly with one hand."},
- {"name": "sv10b_mirar_atras_a", "frames": 90, "seed": 2310, "prompt": "A person running forward turns the head to look behind."},
- {"name": "sv10b_mirar_atras_b", "frames": 90, "seed": 2410, "prompt": "A person jogs forward and glances back over the shoulder."}
+ {
+  "name": "mn01_muerde_chocolate_a",
+  "frames": 150,
+  "seed": 3101,
+  "prompt": "A person takes a bite of a chocolate bar held in his right hand."
+ },
+ {
+  "name": "mn01_muerde_chocolate_b",
+  "frames": 150,
+  "seed": 3201,
+  "prompt": "A person eats a snack with the right hand while standing."
+ },
+ {
+  "name": "mn02_mastica_sonrie",
+  "frames": 120,
+  "seed": 3102,
+  "prompt": "A person stands chewing food and smiling."
+ },
+ {
+  "name": "mn03_inclina_mirar",
+  "frames": 120,
+  "seed": 3103,
+  "prompt": "A person leans forward to look closely at something at waist height."
+ }
 ]
