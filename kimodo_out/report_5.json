@@ -1,10 +1,10 @@
 {
- "total_seconds": 457.0,
+ "total_seconds": 361.8,
  "jobs": [
   {
-   "name": "sv18_confundido_b",
+   "name": "ch03_palanca_rapido_b",
    "response": "OK\t240\t30",
-   "seconds": 456.8,
+   "seconds": 361.6,
    "frames": 240
   }
  ]
