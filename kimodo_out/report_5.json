@@ -1,11 +1,11 @@
 {
- "total_seconds": 174.3,
+ "total_seconds": 457.0,
  "jobs": [
   {
-   "name": "sv05_mirar_mosca_a",
-   "response": "OK\t120\t30",
-   "seconds": 174.3,
-   "frames": 120
+   "name": "sv18_confundido_b",
+   "response": "OK\t240\t30",
+   "seconds": 456.8,
+   "frames": 240
   }
  ]
 }
