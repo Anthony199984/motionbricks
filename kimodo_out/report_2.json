@@ -1,17 +1,11 @@
 {
- "total_seconds": 298.3,
+ "total_seconds": 175.9,
  "jobs": [
   {
-   "name": "sv04_gritar_a",
-   "response": "OK\t75\t30",
-   "seconds": 159.3,
-   "frames": 75
-  },
-  {
-   "name": "sv15_girar_cabeza",
-   "response": "OK\t60\t30",
-   "seconds": 138.9,
-   "frames": 60
+   "name": "sv10b_mirar_atras_a",
+   "response": "OK\t90\t30",
+   "seconds": 175.8,
+   "frames": 90
   }
  ]
 }
