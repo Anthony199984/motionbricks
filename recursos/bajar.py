@@ -74,8 +74,57 @@ def polyhaven(item):
     informe.setdefault("info", {})[i] = {"nombre": info.get("name"), "autores": info.get("authors"), "licencia": "CC0 (Poly Haven)"}
 
 
+# ------------------------------------------------------------------ Sketchfab (búsqueda pública) + Objaverse (descarga sin cuenta)
+def sketchfab_buscar(b):
+    """Busca en Sketchfab (API pública, sin cuenta) y guarda candidatos + miniaturas para elegir."""
+    q = b["q"]; params = {"type": "models", "q": q, "downloadable": "true", "count": 24, "sort_by": b.get("orden", "-likeCount")}
+    if b.get("animado"): params["animated"] = "true"
+    url = "https://api.sketchfab.com/v3/search?" + urllib.parse.urlencode(params)
+    res = json.loads(leer(url)).get("results", [])
+    out = []
+    for m in res:
+        lic = (m.get("license") or {}).get("label") or (m.get("license") or {}).get("slug")
+        th = sorted((m.get("thumbnails") or {}).get("images", []), key=lambda i: abs(i.get("width", 0) - 256))
+        c = dict(uid=m["uid"], nombre=m.get("name"), autor=(m.get("user") or {}).get("username"), licencia=lic,
+                 animaciones=m.get("animationCount"), caras=m.get("faceCount"), url=m.get("viewerUrl"))
+        if th:
+            try:
+                guardar(th[0]["url"], f"miniaturas/{b['clave']}/{m['uid']}.jpg"); c["miniatura"] = f"miniaturas/{b['clave']}/{m['uid']}.jpg"
+            except Exception as e:                    # noqa: BLE001
+                c["miniatura_error"] = repr(e)[:100]
+        out.append(c)
+    informe.setdefault("sketchfab", {})[b["clave"]] = out
+    print("sketchfab", q, len(out))
+
+
+_RUTAS = {}
+def objaverse_rutas():
+    if not _RUTAS:
+        import gzip
+        d = leer("https://huggingface.co/datasets/allenai/objaverse/resolve/main/object-paths.json.gz")
+        _RUTAS.update(json.loads(gzip.decompress(d)))
+    return _RUTAS
+
+
+def objaverse_bajar(it):
+    """Baja el .glb de un modelo de Sketchfab desde Objaverse (Hugging Face, sin cuenta) por su uid."""
+    r = objaverse_rutas().get(it["uid"])
+    if not r:
+        informe["errores"].append({"uid": it["uid"], "error": "no está en Objaverse"}); return
+    guardar(f"https://huggingface.co/datasets/allenai/objaverse/resolve/main/{r}", f"objaverse/{it['nombre']}.glb")
+    informe.setdefault("objaverse", {})[it["nombre"]] = it
+
+
 def main():
     p = json.load(open("recursos/pedido.json"))
+    for b in p.get("sketchfab_buscar", []):
+        try: sketchfab_buscar(b)
+        except Exception as e:                        # noqa: BLE001
+            informe["errores"].append({"buscar": b, "error": repr(e)[:300]}); print("ERROR", b, e)
+    for it in p.get("objaverse", []):
+        try: objaverse_bajar(it); print("ok objaverse", it["nombre"])
+        except Exception as e:                        # noqa: BLE001
+            informe["errores"].append({"objaverse": it, "error": repr(e)[:300]}); print("ERROR", it, e)
     if p.get("catalogo"): catalogo()
     for it in p.get("polyhaven", []):
         try: polyhaven(it); print("ok", it["id"])
@@ -86,7 +135,8 @@ def main():
         except Exception as e:                        # noqa: BLE001
             informe["errores"].append({"url": u["url"], "error": repr(e)[:300]}); print("ERROR", u, e)
     os.makedirs(OUT, exist_ok=True)
-    json.dump(informe, open(f"{OUT}/informe.json", "w"), ensure_ascii=False, indent=1)
+    nombre = p.get("informe", "informe.json")
+    json.dump(informe, open(f"{OUT}/{nombre}", "w"), ensure_ascii=False, indent=1)
     print("bajados", len(informe["bajados"]), "errores", len(informe["errores"]))
 
 
