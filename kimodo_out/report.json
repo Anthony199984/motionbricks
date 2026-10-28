@@ -1,0 +1,35 @@
+{
+ "total_seconds": 2054.2,
+ "jobs": [
+  {
+   "name": "01_sentarse",
+   "response": "OK\t105\t30",
+   "seconds": 358.0,
+   "frames": 105
+  },
+  {
+   "name": "02_mirar_reloj",
+   "response": "OK\t120\t30",
+   "seconds": 388.5,
+   "frames": 120
+  },
+  {
+   "name": "03_levantarse_estirarse",
+   "response": "OK\t135\t30",
+   "seconds": 426.0,
+   "frames": 135
+  },
+  {
+   "name": "04_pechadas",
+   "response": "OK\t165\t30",
+   "seconds": 495.2,
+   "frames": 165
+  },
+  {
+   "name": "05_levantarse_correr",
+   "response": "OK\t120\t30",
+   "seconds": 386.5,
+   "frames": 120
+  }
+ ]
+}
