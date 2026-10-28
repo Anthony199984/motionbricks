@@ -21,6 +21,13 @@ jobs:
   generate:
     runs-on: ubuntu-24.04
     timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3]
+    env:
+      SHARD: ${{ matrix.shard }}
+      NSHARDS: 4
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -87,9 +94,12 @@ jobs:
       - name: Guardar resultados en el repositorio
         if: always()
         run: |
-          mkdir -p kimodo_out && cp -r out/. kimodo_out/ 2>/dev/null || true; cp kimodo_log.txt kimodo_out/ 2>/dev/null || true
+          mkdir -p kimodo_out && cp -r out/. kimodo_out/ 2>/dev/null || true
           git config user.name "kimodo-bot"; git config user.email "actions@users.noreply.github.com"
           git add kimodo_out
-          git commit -m "Resultados Kimodo [skip ci]" || echo "nada que guardar"
-          git pull --rebase origin kimodo-jobs || true
-          git push origin HEAD:kimodo-jobs
+          git commit -m "Resultados Kimodo parte ${SHARD} [skip ci]" || echo "nada que guardar"
+          cp kimodo_log.txt "kimodo_out/kimodo_log_${SHARD}.txt" 2>/dev/null || true; git add kimodo_out; git commit --amend --no-edit -q || true
+          for i in 1 2 3 4 5 6 7 8; do
+            git pull --rebase -q origin kimodo-jobs && git push origin HEAD:kimodo-jobs && break
+            sleep $((RANDOM % 20 + 5))
+          done

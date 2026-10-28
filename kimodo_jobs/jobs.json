@@ -1,12 +1,18 @@
 [
-  {"name": "01_sentarse", "frames": 105, "seed": 11,
-   "prompt": "A person standing turns around and slowly sits down on a chair, then settles back comfortably."},
-  {"name": "02_mirar_reloj", "frames": 120, "seed": 12,
-   "prompt": "A person sitting on a chair raises the left wrist and looks at the wristwatch, then shakes the head impatiently."},
-  {"name": "03_levantarse_estirarse", "frames": 135, "seed": 13,
-   "prompt": "A person sitting on a chair stands up and stretches both arms high above the head, arching the back."},
-  {"name": "04_pechadas", "frames": 165, "seed": 14,
-   "prompt": "A person standing gets down onto the floor and does several push-ups."},
-  {"name": "05_levantarse_correr", "frames": 120, "seed": 15,
-   "prompt": "A person lying face down on the floor quickly gets up and starts running forward."}
+  {"name": "03a_estirarse", "frames": 105, "seed": 21,
+   "prompt": "A person stretches both arms high above the head and yawns."},
+  {"name": "03b_estirarse", "frames": 105, "seed": 22,
+   "prompt": "A person raises both arms overhead and stretches the whole body upward."},
+  {"name": "04a_pechadas", "frames": 150, "seed": 31,
+   "prompt": "A person does push-ups."},
+  {"name": "04b_pechadas", "frames": 150, "seed": 32,
+   "prompt": "A person lies face down on the floor in a plank position and does push-ups, lowering and raising the body."},
+  {"name": "04c_pechadas", "frames": 165, "seed": 33,
+   "prompt": "A person drops to the ground and performs push-ups."},
+  {"name": "05a_correr", "frames": 120, "seed": 41,
+   "prompt": "A person runs forward fast."},
+  {"name": "05b_correr", "frames": 120, "seed": 42,
+   "prompt": "A person starts running forward and keeps sprinting."},
+  {"name": "04d_pechadas", "frames": 150, "seed": 34,
+   "prompt": "A person in a push-up position bends the arms to lower the chest to the floor and pushes back up, several times."}
 ]
