@@ -1,17 +1,11 @@
 {
- "total_seconds": 637.5,
+ "total_seconds": 176.1,
  "jobs": [
   {
-   "name": "g10_mano_en_la_cara_b",
+   "name": "sv12_comer_rapido_b",
    "response": "OK\t90\t30",
-   "seconds": 333.2,
+   "seconds": 176.0,
    "frames": 90
-  },
-  {
-   "name": "g20_limpiarse_sudor_frente_b",
-   "response": "OK\t75\t30",
-   "seconds": 304.3,
-   "frames": 75
   }
  ]
 }
