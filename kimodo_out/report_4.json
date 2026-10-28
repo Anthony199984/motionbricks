@@ -1,10 +1,16 @@
 {
- "total_seconds": 157.0,
+ "total_seconds": 201.7,
  "jobs": [
   {
-   "name": "g20_limpiarse_sudor_frente_c",
+   "name": "sv04_reir",
    "response": "OK\t75\t30",
-   "seconds": 157.0,
+   "seconds": 101.3,
+   "frames": 75
+  },
+  {
+   "name": "sv15_empujado_viento_b",
+   "response": "OK\t75\t30",
+   "seconds": 100.3,
    "frames": 75
   }
  ]
