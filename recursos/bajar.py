@@ -199,7 +199,8 @@ def transcribir(b):
     os.makedirs(OUT, exist_ok=True)
     cod = ("import json,sys\nfrom faster_whisper import WhisperModel\n"
            f"m=WhisperModel({b.get('modelo','small')!r},device='cpu',compute_type='int8')\n"
-           f"segs,info=m.transcribe({b['archivo']!r},language={b.get('idioma','es')!r})\n"
+           "import wave,numpy as np\nw=wave.open(" + repr(b['archivo']) + ")\na=np.frombuffer(w.readframes(w.getnframes()),np.int16).astype(np.float32)/32768\n"
+           f"segs,info=m.transcribe(a,language={b.get('idioma','es')!r})\n"
            "out=[dict(ini=round(s.start,2),fin=round(s.end,2),texto=s.text.strip()) for s in segs]\n"
            f"json.dump(out,open({(OUT + '/' + b['salida'])!r},'w'),ensure_ascii=False,indent=1)\nprint('transcrito',len(out))\n")
     r = subprocess.run([sys.executable, "-c", cod], capture_output=True, text=True)

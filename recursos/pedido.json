@@ -3,7 +3,7 @@
  "informe": "informe_eval_mono.json",
  "transcribir": [
   {
-   "archivo": "recursos/entrada/eval_mono.mp3",
+   "archivo": "recursos/entrada/eval_mono.wav",
    "salida": "transcripcion_eval_mono.json",
    "modelo": "small"
   }
