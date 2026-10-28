@@ -1,0 +1,555 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/gente1/e8aeebe6f70e41e9896376be54e20c18.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente3/45eac4df4fc7447596d95250fb717a0d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente3/f97acacd76be484dbf0243d82f6a1c44.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente5/5f209e2a3efa4ec18fae8daea2426af9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente5/19773f5f0ef14647a7708af2ec6955b0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente5/51cbfdaa93b64117b8b21689e92b7bc2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente7/b2f3e84112d04bf1844e7ac2c4423566.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/649111a9a7b74ddab3937292be5545fc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/d5e6b6a11da646f68a5fcba661dcae99.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/fa37a3a07c2e4ff59e0f58fa9962bb48.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/1ec4dc9a903c4bfeba9e1abcdbac2ae6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/efd2a7f4dbf048c1a18438db7f86c4b9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente7/18c96b42cf7d433ca72df475cd6ec4d8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente7/6cb907f295924c17b5c6299ae9625a2f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/a073249838ad419c8beb35ff32bebf3d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/0b235008bd2547e29c5e2fd61b0d36de.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente7/2651aa6a55944f34abdd12f29dcf99a2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente7/c4723331d1a2400d942c00004d59e1cc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/d388adfe7fd8495b882fad700f0eadcc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/bef0ada62b64410ba523923cf6ac56ce.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente7/0031ed6284ac4310952095302aad77c2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente7/ff926e77d0564c028bde86fd32a487c1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente7/e311e426540d43f0805638bcad1763f3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente7/0b1bd36f662743fc83a396d40bd75230.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente7/f58946a7b7304ef099c0275b1ac3ef18.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente7/6d5d0483009942fb916eedc60ea383a4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente7/8e23af1ce0cc48b1a84c950ab6322519.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente7/499616c1d188425282144a39cfc4b6cb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/367a48c66476400d8069e7f9f977f7c9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/4b978461d8014a50899505f5d0ca1b24.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/f62f6d8cdfed4732a2dd5d1fced352d1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/1cc06836b5c64268b329a609241cfd0a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/7921e85f7e524573a7964015c0b3264a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente7/d6e8265bfc3b4d06afccd0a9d7c44bbc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/840d38063ad54b17b7d0c4a20490e84e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente7/2a26d6ce52704043ad28dc8319b03d76.jpg",
+   "mb": 0.02
+  },
+  {
+   "destino": "miniaturas/gente8/6c94f5a0d2ea4bb3af3715607df252c3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente9/366c8e8adc5f43df8336ce80bd116b66.jpg",
+   "mb": 0.01
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "gente1": [
+   {
+    "uid": "e8aeebe6f70e41e9896376be54e20c18",
+    "nombre": "Old days",
+    "autor": "elysa",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6924,
+    "url": "https://sketchfab.com/3d-models/none-e8aeebe6f70e41e9896376be54e20c18",
+    "miniatura": "miniaturas/gente1/e8aeebe6f70e41e9896376be54e20c18.jpg"
+   }
+  ],
+  "gente2": [],
+  "gente3": [
+   {
+    "uid": "45eac4df4fc7447596d95250fb717a0d",
+    "nombre": "Cyclist - 3d printable",
+    "autor": "Andywoodhead",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1313665,
+    "url": "https://sketchfab.com/3d-models/none-45eac4df4fc7447596d95250fb717a0d",
+    "miniatura": "miniaturas/gente3/45eac4df4fc7447596d95250fb717a0d.jpg"
+   },
+   {
+    "uid": "f97acacd76be484dbf0243d82f6a1c44",
+    "nombre": "Cyclist - racing position - free 3d printable",
+    "autor": "Andywoodhead",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 478865,
+    "url": "https://sketchfab.com/3d-models/none-f97acacd76be484dbf0243d82f6a1c44",
+    "miniatura": "miniaturas/gente3/f97acacd76be484dbf0243d82f6a1c44.jpg"
+   }
+  ],
+  "gente4": [],
+  "gente5": [
+   {
+    "uid": "5f209e2a3efa4ec18fae8daea2426af9",
+    "nombre": "Standing Arhat, 6th C CE, China",
+    "autor": "artsmia",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 200000,
+    "url": "https://sketchfab.com/3d-models/none-5f209e2a3efa4ec18fae8daea2426af9",
+    "miniatura": "miniaturas/gente5/5f209e2a3efa4ec18fae8daea2426af9.jpg"
+   },
+   {
+    "uid": "19773f5f0ef14647a7708af2ec6955b0",
+    "nombre": "Standing Male | NCMA Explore",
+    "autor": "ncmaexplore-xr",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 57052,
+    "url": "https://sketchfab.com/3d-models/none-19773f5f0ef14647a7708af2ec6955b0",
+    "miniatura": "miniaturas/gente5/19773f5f0ef14647a7708af2ec6955b0.jpg"
+   },
+   {
+    "uid": "51cbfdaa93b64117b8b21689e92b7bc2",
+    "nombre": "Standing Female | NCMA Explore",
+    "autor": "ncmaexplore-xr",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 38206,
+    "url": "https://sketchfab.com/3d-models/none-51cbfdaa93b64117b8b21689e92b7bc2",
+    "miniatura": "miniaturas/gente5/51cbfdaa93b64117b8b21689e92b7bc2.jpg"
+   }
+  ],
+  "gente6": [],
+  "gente7": [
+   {
+    "uid": "b2f3e84112d04bf1844e7ac2c4423566",
+    "nombre": "Hintze Hall, NHM London [surface model]",
+    "autor": "nebulousflynn",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 999996,
+    "url": "https://sketchfab.com/3d-models/none-b2f3e84112d04bf1844e7ac2c4423566",
+    "miniatura": "miniaturas/gente7/b2f3e84112d04bf1844e7ac2c4423566.jpg"
+   },
+   {
+    "uid": "649111a9a7b74ddab3937292be5545fc",
+    "nombre": "Laocoon and His Sons",
+    "autor": "rigsters",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 50106,
+    "url": "https://sketchfab.com/3d-models/none-649111a9a7b74ddab3937292be5545fc",
+    "miniatura": "miniaturas/gente7/649111a9a7b74ddab3937292be5545fc.jpg"
+   },
+   {
+    "uid": "d5e6b6a11da646f68a5fcba661dcae99",
+    "nombre": "Lion Crushing a Serpent",
+    "autor": "rigsters",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 160042,
+    "url": "https://sketchfab.com/3d-models/none-d5e6b6a11da646f68a5fcba661dcae99",
+    "miniatura": "miniaturas/gente7/d5e6b6a11da646f68a5fcba661dcae99.jpg"
+   },
+   {
+    "uid": "fa37a3a07c2e4ff59e0f58fa9962bb48",
+    "nombre": "Old Attic / Dachboden",
+    "autor": "nedo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1540965,
+    "url": "https://sketchfab.com/3d-models/none-fa37a3a07c2e4ff59e0f58fa9962bb48",
+    "miniatura": "miniaturas/gente7/fa37a3a07c2e4ff59e0f58fa9962bb48.jpg"
+   },
+   {
+    "uid": "1ec4dc9a903c4bfeba9e1abcdbac2ae6",
+    "nombre": "Butron castle",
+    "autor": "333DDD-oficial",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 797762,
+    "url": "https://sketchfab.com/3d-models/none-1ec4dc9a903c4bfeba9e1abcdbac2ae6",
+    "miniatura": "miniaturas/gente7/1ec4dc9a903c4bfeba9e1abcdbac2ae6.jpg"
+   },
+   {
+    "uid": "efd2a7f4dbf048c1a18438db7f86c4b9",
+    "nombre": "東方 Project - Cirno Fumo (3D scan)",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10000,
+    "url": "https://sketchfab.com/3d-models/none-efd2a7f4dbf048c1a18438db7f86c4b9",
+    "miniatura": "miniaturas/gente7/efd2a7f4dbf048c1a18438db7f86c4b9.jpg"
+   },
+   {
+    "uid": "18c96b42cf7d433ca72df475cd6ec4d8",
+    "nombre": "Rainbow morph animation",
+    "autor": "senyul",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 128000,
+    "url": "https://sketchfab.com/3d-models/none-18c96b42cf7d433ca72df475cd6ec4d8",
+    "miniatura": "miniaturas/gente7/18c96b42cf7d433ca72df475cd6ec4d8.jpg"
+   },
+   {
+    "uid": "6cb907f295924c17b5c6299ae9625a2f",
+    "nombre": "Ohio Bobcat - skull - OUVC 9576",
+    "autor": "witmerlab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1601018,
+    "url": "https://sketchfab.com/3d-models/none-6cb907f295924c17b5c6299ae9625a2f",
+    "miniatura": "miniaturas/gente7/6cb907f295924c17b5c6299ae9625a2f.jpg"
+   },
+   {
+    "uid": "a073249838ad419c8beb35ff32bebf3d",
+    "nombre": "Chichen Itza Pyramid 3D Reconstruction",
+    "autor": "hermes3",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 59377,
+    "url": "https://sketchfab.com/3d-models/none-a073249838ad419c8beb35ff32bebf3d",
+    "miniatura": "miniaturas/gente7/a073249838ad419c8beb35ff32bebf3d.jpg"
+   },
+   {
+    "uid": "0b235008bd2547e29c5e2fd61b0d36de",
+    "nombre": "Moai (replica)",
+    "autor": "geoffreymarchal",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 500000,
+    "url": "https://sketchfab.com/3d-models/none-0b235008bd2547e29c5e2fd61b0d36de",
+    "miniatura": "miniaturas/gente7/0b235008bd2547e29c5e2fd61b0d36de.jpg"
+   },
+   {
+    "uid": "2651aa6a55944f34abdd12f29dcf99a2",
+    "nombre": "Seahorse",
+    "autor": "rigsters",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 48854,
+    "url": "https://sketchfab.com/3d-models/none-2651aa6a55944f34abdd12f29dcf99a2",
+    "miniatura": "miniaturas/gente7/2651aa6a55944f34abdd12f29dcf99a2.jpg"
+   },
+   {
+    "uid": "c4723331d1a2400d942c00004d59e1cc",
+    "nombre": "東方 Project - Reimu Fumo (3D scan)",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9999,
+    "url": "https://sketchfab.com/3d-models/none-c4723331d1a2400d942c00004d59e1cc",
+    "miniatura": "miniaturas/gente7/c4723331d1a2400d942c00004d59e1cc.jpg"
+   },
+   {
+    "uid": "d388adfe7fd8495b882fad700f0eadcc",
+    "nombre": "Merced Lake Ranger Station Yosemite",
+    "autor": "shapespeare",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 591604,
+    "url": "https://sketchfab.com/3d-models/none-d388adfe7fd8495b882fad700f0eadcc",
+    "miniatura": "miniaturas/gente7/d388adfe7fd8495b882fad700f0eadcc.jpg"
+   },
+   {
+    "uid": "bef0ada62b64410ba523923cf6ac56ce",
+    "nombre": "Flandre Scarlet Fumo (Free 3D Scan)",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10134,
+    "url": "https://sketchfab.com/3d-models/none-bef0ada62b64410ba523923cf6ac56ce",
+    "miniatura": "miniaturas/gente7/bef0ada62b64410ba523923cf6ac56ce.jpg"
+   },
+   {
+    "uid": "0031ed6284ac4310952095302aad77c2",
+    "nombre": "東方 Project - V2 Youmu Konpaku Fumo (3D scan)",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9999,
+    "url": "https://sketchfab.com/3d-models/none-0031ed6284ac4310952095302aad77c2",
+    "miniatura": "miniaturas/gente7/0031ed6284ac4310952095302aad77c2.jpg"
+   },
+   {
+    "uid": "ff926e77d0564c028bde86fd32a487c1",
+    "nombre": "東方 Project - V2 Reimu Hakurei Fumo (3D scan)",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9999,
+    "url": "https://sketchfab.com/3d-models/none-ff926e77d0564c028bde86fd32a487c1",
+    "miniatura": "miniaturas/gente7/ff926e77d0564c028bde86fd32a487c1.jpg"
+   },
+   {
+    "uid": "e311e426540d43f0805638bcad1763f3",
+    "nombre": "東方 Project - Shion Yorigami Fumo (3D scan)",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10074,
+    "url": "https://sketchfab.com/3d-models/none-e311e426540d43f0805638bcad1763f3",
+    "miniatura": "miniaturas/gente7/e311e426540d43f0805638bcad1763f3.jpg"
+   },
+   {
+    "uid": "0b1bd36f662743fc83a396d40bd75230",
+    "nombre": "東方 Project - Yuuka Fumo (3D scan)",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9999,
+    "url": "https://sketchfab.com/3d-models/none-0b1bd36f662743fc83a396d40bd75230",
+    "miniatura": "miniaturas/gente7/0b1bd36f662743fc83a396d40bd75230.jpg"
+   },
+   {
+    "uid": "f58946a7b7304ef099c0275b1ac3ef18",
+    "nombre": "東方 Project - Mokou Fujiwara Fumo (3D scan)",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10000,
+    "url": "https://sketchfab.com/3d-models/none-f58946a7b7304ef099c0275b1ac3ef18",
+    "miniatura": "miniaturas/gente7/f58946a7b7304ef099c0275b1ac3ef18.jpg"
+   },
+   {
+    "uid": "6d5d0483009942fb916eedc60ea383a4",
+    "nombre": "東方 Project - V2 Yuyuko Saigyouji Fumo (3D scan)",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10000,
+    "url": "https://sketchfab.com/3d-models/none-6d5d0483009942fb916eedc60ea383a4",
+    "miniatura": "miniaturas/gente7/6d5d0483009942fb916eedc60ea383a4.jpg"
+   },
+   {
+    "uid": "8e23af1ce0cc48b1a84c950ab6322519",
+    "nombre": "101.ID.11 Arringatore Florence",
+    "autor": "ancientworld3d",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 638004,
+    "url": "https://sketchfab.com/3d-models/none-8e23af1ce0cc48b1a84c950ab6322519",
+    "miniatura": "miniaturas/gente7/8e23af1ce0cc48b1a84c950ab6322519.jpg"
+   },
+   {
+    "uid": "499616c1d188425282144a39cfc4b6cb",
+    "nombre": "Pool",
+    "autor": "nedo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 494210,
+    "url": "https://sketchfab.com/3d-models/none-499616c1d188425282144a39cfc4b6cb",
+    "miniatura": "miniaturas/gente7/499616c1d188425282144a39cfc4b6cb.jpg"
+   },
+   {
+    "uid": "367a48c66476400d8069e7f9f977f7c9",
+    "nombre": "Day 105: Toyota Cushion Fork Lift",
+    "autor": "uttamg911",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 75954,
+    "url": "https://sketchfab.com/3d-models/none-367a48c66476400d8069e7f9f977f7c9",
+    "miniatura": "miniaturas/gente7/367a48c66476400d8069e7f9f977f7c9.jpg"
+   },
+   {
+    "uid": "4b978461d8014a50899505f5d0ca1b24",
+    "nombre": "FaunAR - XR app : Rhino voxelizing",
+    "autor": "miguelangelo2k",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 18394,
+    "url": "https://sketchfab.com/3d-models/none-4b978461d8014a50899505f5d0ca1b24",
+    "miniatura": "miniaturas/gente7/4b978461d8014a50899505f5d0ca1b24.jpg"
+   },
+   {
+    "uid": "f62f6d8cdfed4732a2dd5d1fced352d1",
+    "nombre": "3D scan of CONCRETE RAILING AND ANGEL STATUE",
+    "autor": "DoggoCreative",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 310554,
+    "url": "https://sketchfab.com/3d-models/none-f62f6d8cdfed4732a2dd5d1fced352d1",
+    "miniatura": "miniaturas/gente7/f62f6d8cdfed4732a2dd5d1fced352d1.jpg"
+   },
+   {
+    "uid": "1cc06836b5c64268b329a609241cfd0a",
+    "nombre": "CH-47D Chinook Helicopter",
+    "autor": "tosolini",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 350566,
+    "url": "https://sketchfab.com/3d-models/none-1cc06836b5c64268b329a609241cfd0a",
+    "miniatura": "miniaturas/gente7/1cc06836b5c64268b329a609241cfd0a.jpg"
+   },
+   {
+    "uid": "7921e85f7e524573a7964015c0b3264a",
+    "nombre": "Human ear with peel 3d",
+    "autor": "peel-3d.com",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 14711,
+    "url": "https://sketchfab.com/3d-models/none-7921e85f7e524573a7964015c0b3264a",
+    "miniatura": "miniaturas/gente7/7921e85f7e524573a7964015c0b3264a.jpg"
+   },
+   {
+    "uid": "d6e8265bfc3b4d06afccd0a9d7c44bbc",
+    "nombre": "Longyearbyen, Svalbard - Drone 3D Scan",
+    "autor": "Sircher",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 349156,
+    "url": "https://sketchfab.com/3d-models/none-d6e8265bfc3b4d06afccd0a9d7c44bbc",
+    "miniatura": "miniaturas/gente7/d6e8265bfc3b4d06afccd0a9d7c44bbc.jpg"
+   },
+   {
+    "uid": "840d38063ad54b17b7d0c4a20490e84e",
+    "nombre": "The GaMERCaT",
+    "autor": "bunnytdlamk",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 87684,
+    "url": "https://sketchfab.com/3d-models/none-840d38063ad54b17b7d0c4a20490e84e",
+    "miniatura": "miniaturas/gente7/840d38063ad54b17b7d0c4a20490e84e.jpg"
+   },
+   {
+    "uid": "2a26d6ce52704043ad28dc8319b03d76",
+    "nombre": "Kowloon Walled City, late 1980s",
+    "autor": "patrick-",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 19154,
+    "url": "https://sketchfab.com/3d-models/none-2a26d6ce52704043ad28dc8319b03d76",
+    "miniatura": "miniaturas/gente7/2a26d6ce52704043ad28dc8319b03d76.jpg"
+   }
+  ],
+  "gente8": [
+   {
+    "uid": "6c94f5a0d2ea4bb3af3715607df252c3",
+    "nombre": "The eagle finder",
+    "autor": "geoffreymarchal",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 500000,
+    "url": "https://sketchfab.com/3d-models/none-6c94f5a0d2ea4bb3af3715607df252c3",
+    "miniatura": "miniaturas/gente8/6c94f5a0d2ea4bb3af3715607df252c3.jpg"
+   }
+  ],
+  "gente9": [
+   {
+    "uid": "366c8e8adc5f43df8336ce80bd116b66",
+    "nombre": "Revised Jade MK9",
+    "autor": "judgmentfist",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20122,
+    "url": "https://sketchfab.com/3d-models/none-366c8e8adc5f43df8336ce80bd116b66",
+    "miniatura": "miniaturas/gente9/366c8e8adc5f43df8336ce80bd116b66.jpg"
+   }
+  ]
+ }
+}
