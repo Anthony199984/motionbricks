@@ -1,0 +1,14 @@
+{
+ "bajados": [],
+ "errores": [
+  {
+   "transcribir": {
+    "archivo": "recursos/entrada/eval_mono.mp3",
+    "salida": "transcripcion_eval_mono.json",
+    "modelo": "small"
+   },
+   "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"
+  }
+ ],
+ "saltados": []
+}
