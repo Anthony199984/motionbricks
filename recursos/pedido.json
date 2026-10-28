@@ -1,66 +1,9 @@
 {
  "catalogo": false,
- "informe": "informe_mono_cientificos.json",
- "sketchfab_buscar": [
-  {
-   "clave": "mc_doctor",
-   "q": "doctor",
-   "solo_objaverse": true,
-   "paginas": 8,
-   "max": 60
-  },
-  {
-   "clave": "mc_scientist",
-   "q": "scientist",
-   "solo_objaverse": true,
-   "paginas": 8,
-   "max": 60
-  },
-  {
-   "clave": "mc_labcoat",
-   "q": "lab coat",
-   "solo_objaverse": true,
-   "paginas": 6,
-   "max": 60
-  },
-  {
-   "clave": "mc_doctor_rig",
-   "q": "doctor rigged character",
-   "solo_objaverse": true,
-   "paginas": 6,
-   "max": 60
-  }
- ],
- "freesound_buscar": [
-  {
-   "clave": "mr_palanca2",
-   "q": "lever switch metal clunk",
-   "max": 8
-  },
-  {
-   "clave": "mr_bomba3",
-   "q": "small motor whir",
-   "max": 8
-  },
-  {
-   "clave": "mr_goteo2",
-   "q": "liquid flowing tube",
-   "max": 6
-  },
-  {
-   "clave": "mr_mordida2",
-   "q": "chocolate bite",
-   "max": 6
-  },
-  {
-   "clave": "mr_respira2",
-   "q": "heavy breathing animal",
-   "max": 6
-  },
-  {
-   "clave": "mr_whoosh",
-   "q": "camera whoosh fast",
-   "max": 6
-  }
+ "informe": "informe_mono_cientificos_bajada.json",
+ "objaverse": [
+  {"uid": "5927ca4b89be4e50add068026ad5a547", "nombre": "cientifico_medic_rigging"},
+  {"uid": "31c09ab8b098489b8c46712650e45bac", "nombre": "cientifico_doctor"},
+  {"uid": "3b3e19800e76495b821da1deedb23db2", "nombre": "cientifico_adam"}
  ]
 }
