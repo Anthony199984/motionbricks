@@ -1,17 +1,11 @@
 {
- "total_seconds": 575.4,
+ "total_seconds": 175.6,
  "jobs": [
   {
-   "name": "g09_senalar_adelante_b",
-   "response": "OK\t75\t30",
-   "seconds": 256.8,
-   "frames": 75
-  },
-  {
-   "name": "g19_agacharse_mirar_piso_b",
-   "response": "OK\t105\t30",
-   "seconds": 318.5,
-   "frames": 105
+   "name": "sv11_barriga_hambre",
+   "response": "OK\t90\t30",
+   "seconds": 175.5,
+   "frames": 90
   }
  ]
 }
