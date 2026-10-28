@@ -1,11 +1,11 @@
 {
- "total_seconds": 153.9,
+ "total_seconds": 150.3,
  "jobs": [
   {
-   "name": "sv11_frenar_a",
-   "response": "OK\t75\t30",
-   "seconds": 153.9,
-   "frames": 75
+   "name": "ch08_convulsion_b",
+   "response": "OK\t150\t30",
+   "seconds": 150.2,
+   "frames": 150
   }
  ]
 }
