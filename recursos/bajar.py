@@ -211,7 +211,7 @@ def main():
     for b in p.get("transcribir", []):
         try: transcribir(b)
         except Exception as e:                        # noqa: BLE001
-            informe["errores"].append({"transcribir": b, "error": repr(e)[:300]}); print("ERROR", b, e)
+            informe["errores"].append({"transcribir": b, "error": repr(e)[-2500:]}); print("ERROR", b, e)
     for b in p.get("freesound_buscar", []):
         try: freesound_buscar(b)
         except Exception as e:                        # noqa: BLE001
