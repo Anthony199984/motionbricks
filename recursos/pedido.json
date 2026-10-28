@@ -1,82 +1,18 @@
 {
  "catalogo": false,
- "informe": "informe_velocidad_v6_modelos.json",
+ "informe": "informe_velocidad_v6_modelos2.json",
  "objaverse": [
   {
-   "uid": "b4cc15417d58445ebb698229d6161e61",
-   "nombre": "hamburguesa_real",
-   "titulo": "HAMBURGER",
-   "autor": "rodrigogelmi",
-   "licencia": "CC Attribution",
-   "caras": 71181
-  },
-  {
-   "uid": "7de0fd39416e4910a28fc23d3c887d53",
-   "nombre": "pizza_rebanada",
-   "titulo": "Pizza Slice - Optimized",
-   "autor": "polarathene",
-   "licencia": "CC Attribution",
-   "caras": 17648
-  },
-  {
-   "uid": "bef5383eb98b48528b2d82d8887b5bb4",
-   "nombre": "papas_y_refresco",
-   "titulo": "French Fries - FREE",
-   "autor": "Devden",
-   "licencia": "CC Attribution",
-   "caras": 5416
-  },
-  {
-   "uid": "6e922d8eed31401db5b179bfd1e68c55",
-   "nombre": "menu_comida_rapida",
-   "titulo": "Mcdonald menu",
-   "autor": "adresen",
-   "licencia": "CC Attribution",
-   "caras": 128618
-  },
-  {
    "uid": "51a0806ac1674209baa6dd89d830d1a8",
-   "nombre": "papas_bandeja",
+   "nombre": "papas_bandeja_ok",
    "titulo": "French fries tray",
    "autor": "edemaistre",
    "licencia": "CC Attribution",
    "caras": 44171
   },
   {
-   "uid": "5e9898a1ac2048d89fbcdfdb55f8c6b0",
-   "nombre": "maniqui_mujer",
-   "titulo": "Mannequin Female",
-   "autor": "sketchpunk",
-   "licencia": "CC Attribution",
-   "caras": 30350
-  },
-  {
-   "uid": "08eadd84d8584641852295c6fd7c9c4a",
-   "nombre": "maniqui_vestido",
-   "titulo": "G2F Dress Mannequin",
-   "autor": "suparioamateur",
-   "licencia": "CC Attribution-NonCommercial-ShareAlike",
-   "caras": 79772
-  },
-  {
-   "uid": "775375ae59be45dc9d7dcde1bc87a07f",
-   "nombre": "perchero_ropa",
-   "titulo": "clothing-rack",
-   "autor": "Sflex",
-   "licencia": "CC Attribution",
-   "caras": 14212
-  },
-  {
-   "uid": "4aeb9d62cde942a9804172af11321d2c",
-   "nombre": "estante_tienda",
-   "titulo": "Store Wall Shelving",
-   "autor": "jimbogies",
-   "licencia": "CC Attribution",
-   "caras": 16112
-  },
-  {
    "uid": "c8d6912dc26340768dfaca1a83c4dd5e",
-   "nombre": "camisa_corta",
+   "nombre": "camisa_corta_ok",
    "titulo": "Short Sleeve Shirt",
    "autor": "Gammawolf",
    "licencia": "CC Attribution",
@@ -84,7 +20,7 @@
   },
   {
    "uid": "2e167d18d42a4a04b73eb6cb2c9bd509",
-   "nombre": "percheros_abrigos",
+   "nombre": "percheros_abrigos_ok",
    "titulo": "Standing Coat Racks",
    "autor": "sapizon",
    "licencia": "CC Attribution",
