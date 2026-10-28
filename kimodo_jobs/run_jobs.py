@@ -19,7 +19,7 @@ for j in jobs:
     pf = out / f"{j['name']}.txt"
     pf.write_text(j["prompt"])
     t = time.time()
-    line = "\t".join(["10", str(j.get("steps", 100)), str(j["seed"]), str(out / j["name"]), str(j["frames"]), str(pf)])
+    line = "\t".join(["10", str(j.get("steps", 50)), str(j["seed"]), str(out / j["name"]), str(j["frames"]), str(pf)])
     p.stdin.write(line + "\n"); p.stdin.flush()
     resp = p.stdout.readline().strip()
     dt = time.time() - t
