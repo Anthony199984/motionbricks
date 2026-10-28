@@ -1,0 +1,2767 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/sf_macaco_anim/ab43f905bcc545808ff8b797ff92eda8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_macaco_anim/e40494384950494f820e5746a26b220b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_rhesus/cd278ff7bf964c2188872c7c90291f38.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_rhesus/a7795095f1654a88b0d103c2a6f47343.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_rhesus/69e1081f453640da9895aea7527c89cb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_rhesus/99ac158aeee441429b8a1f329159a1af.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_rhesus/041a1a1e95ae4b0f86b59cdb791d2890.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/87bf3a69d6a848d3a38dcbeabf9a80cd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/c7be3f41fb3a4ed6be31d0bcd86a4684.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/f26639ba7b3e477aa7974d0160a38010.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/09b25d71be964210863dbf0dd1ed7c70.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/165f755e44fc477fbc4ee41085606dd1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/48df597eec6e48aca4c6e1f92e978ee0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/98dc70b13e1546b392e17aebdca9a169.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/c2f52afa064f44a6a8aa1e73bf92b4ae.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/7f6ff3c4a27c4b169220fa15e44eb61a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/9a6d6fd13d9742a18a48daa0376462eb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/2e660a43215f4728902715b171302b34.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/6518366a185f40af862de7b4416bd566.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/b7008e99dbec4f43af2f0c9c119bf5d2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/77af3e36cf384e5c8f7d9cf7dc140a24.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/059ddf8d773748a0aa32c778897e711e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/c69010aa3f954c7c8886de9dff38c307.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/a240fa3c8ba547e3824239fcf5ac37c0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/852350b583fb47acbe1bffb9e3132700.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/650fb07e1e424d4c92fcdc4bbfed7b50.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/62ea29193ca14f7fb65c5876bfc2ea66.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/23097f9302b04c07862514e9665ba38f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/3e4a93a4043e4f9ca38295cfd0407c36.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/a384c2123b3b43d8a686a6b6210da135.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/eafa231686e947668fd4518c27a7ee8a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/734aaf5ee48e462eaefd06c64f96ce73.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/1702508c9eb7432c99a50e8e5c22ed66.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/6e898ca4f64f48aeabd2bca7282c7862.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/9d93c643e65d4ac6b52f9f595645e064.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/e1d80aab6ad841c7b434c9fef5b0f913.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/0e625d1c958b4d9f81d2349fed812ea9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/087c0df0f98a46ff8a9ba4d53942848c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/7382f1353f1b44589bb832f49db10a24.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/ef3b33533bac448f93616d37f810150c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/708c43d864b8494e860d56483c521a80.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/76c24d6822004d03995464bf802a228b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/ee9f9fd9839e4bb887111dabd3a8da32.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/ccdb41433c1848c480c844922083c9c8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/15e03c4d25444107936d9a7222bdb76c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/567d0866b9eb477f9dc03827c47e8566.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/3afcd829ee9a4ba99116095f165df3e2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/7bcf37f2919a472ba902dd83ed8169e7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/8e66555cf1564ed9a63b2d362e1eb779.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/3807897c6bb142a6a9eeb84bbf849bb2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/f6b377f806394bb29524d7c3cdf8e0fd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/50fb86d3786d4038b41369e8e26a4cf7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/c2f95695eb7844f5957163ef41d284f5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/25d4b28ca1514187b8f78020abde14ae.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/82bad94d8a504c5dadd89194a9950373.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/eb387ab9e2534c36a4dc465afdae1261.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/4fdf8c9df57c4846876294d85ef8aed1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/3afc0fb55948416faf9c233ea088838d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/373f0af0ea0d423d91cccf468db6e3ec.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/6dfd09f44f294239a4bd7399687355c8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/ebd9b3a844ed46c180a343f86c44d12c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/d65f9bd7dfde4f56ae658b1d9a8e5dcc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/7b0508a0086d4b3f88351f2949e15af6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/3bb8038b3f2540898945f14c59ef02d1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/7633210691af49efa8e897bb55c91cfa.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/8b4bae85be064e09850e27bd7b1739d5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_mono_rig/352b653806f5424992d42717f43effd5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_monkey_anim_real/165f755e44fc477fbc4ee41085606dd1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_monkey_anim_real/7f6ff3c4a27c4b169220fa15e44eb61a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_monkey_anim_real/d16d4817adb84983a4754024f772f4ef.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_monkey_anim_real/6d88721432c240ddac6c0a20a34580cc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_monkey_anim_real/c0f98973acf0410b855a8afa3ef124f8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_monkey_anim_real/7f61422594714a218b02dfdd397d0ea1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_monkey_anim_real/fa97d89e66c647b3b967bee9eca6f862.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_japanese/82d1e6a73c0f475a969e35bfe0fcd904.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_japanese/ab43f905bcc545808ff8b797ff92eda8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/5f64793e99e6403a86395c92385fd950.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/6f0cc93653a14458b6920a18fcc21d55.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/57cb563389f14df983d016f21575c64b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/1288200fa7dd4091860b6c2b7aece719.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/67818ed7370d49a1841fd10e527216ba.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/d1ad2c6f57bd44be93ad7e97f9d706b6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/1fee8a1f6b8a4c988cab40b1e9ccb28e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/8d74b9ec9aa440f982c09bfbb1037b82.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/4130e487ddb54a939d096bee8e778dfe.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/adcf2234def14bd2ad02d496f1bc2253.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/b5550ef9eca14cd286d671b43a35545e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/91e19e0b3f5f4e4190f34c0872e02bd5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/360e0e6c161247c8b8af7a2592438e58.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/f4d3f3c3cb314602b047593caa4bc8d7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/d9dbe74aec2f48b5b1dc30ed1de907ad.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/6928d0d22de94132b704521f6ed17493.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/7e2b11592a404b0ea720eee2796d5999.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/9cfdb68028754395802abb975ee3580c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/eb4984a3ff9a461791fd9d638c631770.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/544fb36f54e446b0a36aa84dbe00ddba.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/6ae5f9923fa244c7ab9fb8032762b5a8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/453c907890d1427095f02a4b62f9f623.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/944f14cdb5f74ed6a88de9154849d5cb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/3a719e0cd1df447b85e6981311d42f64.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/3ad54bef4f284e56ad8e350a119d61df.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/8d69b95df63b49c9a1df1c5cf754b33c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/85080d125e114cc2991c03d0bce90df3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/06d264e8f65f4ceead59b3d7cbb366e9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/25fc3b8f17da4bd3ace96d1e70273f74.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/c4f8914c66f5440ca0116caf1d10cdeb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/bf98b7031449465d873c2354b785a8e3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/b22d740b4e514f56b8150722de03d7fc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/f4dda87bc420460d91e7e64b5463a10c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/9b9910d832144d5289161a654f96945f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/d4e3281afe3640de94f88214d106253b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/15a269d46ad94615b2c2147908f30fbe.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/928c9d841f1a492da454a5efb3f9abd8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/3e9d7fa5a2f04a81992dd192e2a78f3a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/57520a992d6149ebb54a80264a2026ef.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/6f97b29edb434b7ea760493964d7b2e9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/d56da20676324911b179649c83ccf09c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/48a42870803e4e7ca3e745af11e7dd5c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/a7a8ecad19fd4549a6276cda55216018.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/95f69db634f94e10b55d88a10f1328b2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/cffe20b527194920bcd5c14b9168b60e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/f454029867904b899f987bed0df28db8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/8d4b59b9ff5b463fad280ddde60305b6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/9c47c917a37146cbb6fb4232f18452e0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/61d13f1a6f5f41238c03652822bdcac2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/f7fe922af39c422e8fc171708fe56123.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/89e55b1232874749b8fcaf213c4cf606.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/bdf6c49df850403aa06cda702a4e018d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/f34bc8b539df478f962b00f14fbbe405.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/c5450797f7cd45bf807275cf18445ee8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/97301d08942143cfbdf55f923aece48c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/85165935cd18427489771b6f637387df.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/18c1c7dca3e048a892c31ab851aec645.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/a62324a344b84d3aa010061e995b7ea6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/433ce32a20c241e6a5e4831f209bfb98.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_baboon_anim/5810ae62182b4f7e96971f4f041cc8ec.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/6132cf6cad8b4d8fa51bf4ee024952ab.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/80fa91fc8c974fd0acd2a55cc513edec.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/a6723a072f44494bae90ffd4d90acff3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/465badf1051c4c27923f981d78d1343c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/90c33f66fb0c46429ec1d41ec58a718f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/c0af95a623734d7aba3ca13ce508975f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/8160a53959584b73bb39c5ded453d737.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/cfa8df9432624930a714c30c720ed10d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/b0a6c146aae943b78b3c520c36d774d9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/facb060916534e7eae8e6a5a8056185f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/ed6e4288c1494fc383a23868200eb82a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/96ebf61af42b4062ae98a6ad848e1a25.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/b8b5c665df4a443788755ef61a6f85ac.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/446b4fd1e027408baa8cc4b7c379b8b4.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/42bb1acc54ba498cb4e8539b51390e07.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/51a9a004ffb148939feac257f08171c2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/fb427492331d495194f48d0ee459f4e3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/1cc6b0d587ae4f4a9272d922d0a9b0d7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/5fe139562d4e4767b55e371477d983bc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/2661aa81945d4bbb9017ed87d4d22c18.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/4cace1a21e33412480be8dcef08fbc96.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/160b9ace9fa340699c8a28f98d98fdb5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/25f0f1141cd24b3d9ad37d69fcb259c8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/1015f01f0bfa4987bcc7364fc7e50c4d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/b467c7f3a4794c42b755618e94605b68.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/a51f64340026461cafdced833879138c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/af13c9d044ca4816ad1dabed976dcf3b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/6fdcf094fa4b42bfa99e168b4715bb66.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/08258803321b4039b9409295f2ad09c3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/77c9ae34a3534da7afb91c9cc481bae9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/be835135434a4e8bad7c63d263a81d4b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/6f990e97d8d34284872fdb28cb2b159d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/67818ed7370d49a1841fd10e527216ba.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/c199ee8389f94f90a561b50f3cdbf48e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/434b55a9708547e3b4397e8f8b3deb09.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/65b3a0d456784e588977feba82d7b28b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/687c3e3605be4497893f347674069df9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/f8e44fb0237a4a0fa398d07b7b05a028.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/e4e552875cc84d4cb9d04daa9fd226ed.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/2061b48ecff84dd3b4f9de8f6c8a31f2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/7da32df56d4b4b54b1bc350ac1ecf860.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/7d92fc0184db4ce2a0e17b6aed898699.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/e40494384950494f820e5746a26b220b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/b6e11d995928432d9c951fe24920cb86.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/28d37ae5e9df470eaf98e63f65f96285.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/55cfb6cb6d82407d9507355e23c847fb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/72da2fd251354f10bddecbc7f9078068.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/2ea2cb4170924c308389b948122896a9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/c53e8ca04bb54d5e8649d95b437e2ca3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/d492e3d482ee48f798592a03bc0896bd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/5e3f767200214bd09a1090b08738d2c1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/dda171d2971c4c89b3dc1be028329469.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/cabdec7c2b204b5989a61d7ca6865ca6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/c0616d50e9454186b1a48434326de6de.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/42f37658f4d24271b4092f27bab40923.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/34ea8a2eaa534a75bd2522214e2a26fd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/3be406b88c07407094872918f8f19f52.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/3c6c5860e9814dbfbc415bea745a31a5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/e879226b144f454cbfed0be5a50cfd9b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sf_primate_anim/1f8f5ba8fb9f4da6baf09fcc5bf72189.jpg",
+   "mb": 0.0
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "sf_macaco_anim": [
+   {
+    "uid": "ab43f905bcc545808ff8b797ff92eda8",
+    "nombre": "PS1 Japanese Macaque (Snow Monkey)",
+    "autor": "uosew",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 686,
+    "url": "https://sketchfab.com/3d-models/none-ab43f905bcc545808ff8b797ff92eda8",
+    "miniatura": "miniaturas/sf_macaco_anim/ab43f905bcc545808ff8b797ff92eda8.jpg"
+   },
+   {
+    "uid": "e40494384950494f820e5746a26b220b",
+    "nombre": "YPM MAM.006878 Animation,Barbary macaque (skull)",
+    "autor": "yalepeabodymuseum",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1918188,
+    "url": "https://sketchfab.com/3d-models/none-e40494384950494f820e5746a26b220b",
+    "miniatura": "miniaturas/sf_macaco_anim/e40494384950494f820e5746a26b220b.jpg"
+   }
+  ],
+  "sf_rhesus": [
+   {
+    "uid": "cd278ff7bf964c2188872c7c90291f38",
+    "nombre": "Rhesus Monkey Skull",
+    "autor": "RISDNaturelab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 499999,
+    "url": "https://sketchfab.com/3d-models/none-cd278ff7bf964c2188872c7c90291f38",
+    "miniatura": "miniaturas/sf_rhesus/cd278ff7bf964c2188872c7c90291f38.jpg"
+   },
+   {
+    "uid": "a7795095f1654a88b0d103c2a6f47343",
+    "nombre": "Macaque Skull",
+    "autor": "RISDNaturelab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 500000,
+    "url": "https://sketchfab.com/3d-models/none-a7795095f1654a88b0d103c2a6f47343",
+    "miniatura": "miniaturas/sf_rhesus/a7795095f1654a88b0d103c2a6f47343.jpg"
+   },
+   {
+    "uid": "69e1081f453640da9895aea7527c89cb",
+    "nombre": "IMNH R-389 Rhesus Monkey Cranium",
+    "autor": "ivlpaleontology",
+    "licencia": "CC Attribution-NonCommercial-NoDerivs",
+    "animaciones": 0,
+    "caras": 1088162,
+    "url": "https://sketchfab.com/3d-models/none-69e1081f453640da9895aea7527c89cb",
+    "miniatura": "miniaturas/sf_rhesus/69e1081f453640da9895aea7527c89cb.jpg"
+   },
+   {
+    "uid": "99ac158aeee441429b8a1f329159a1af",
+    "nombre": "Rhesus monkey (modern) (2501.1rp)",
+    "autor": "rla-archaeology",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 177978,
+    "url": "https://sketchfab.com/3d-models/none-99ac158aeee441429b8a1f329159a1af",
+    "miniatura": "miniaturas/sf_rhesus/99ac158aeee441429b8a1f329159a1af.jpg"
+   },
+   {
+    "uid": "041a1a1e95ae4b0f86b59cdb791d2890",
+    "nombre": "Schedel resusaap | skull of a rhesus monkey.",
+    "autor": "huis_van_hilde",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 1333030,
+    "url": "https://sketchfab.com/3d-models/none-041a1a1e95ae4b0f86b59cdb791d2890",
+    "miniatura": "miniaturas/sf_rhesus/041a1a1e95ae4b0f86b59cdb791d2890.jpg"
+   }
+  ],
+  "sf_mono_rig": [
+   {
+    "uid": "87bf3a69d6a848d3a38dcbeabf9a80cd",
+    "nombre": "Kong_2021__ animated",
+    "autor": "bensimulator1",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 260123,
+    "url": "https://sketchfab.com/3d-models/none-87bf3a69d6a848d3a38dcbeabf9a80cd",
+    "miniatura": "miniaturas/sf_mono_rig/87bf3a69d6a848d3a38dcbeabf9a80cd.jpg"
+   },
+   {
+    "uid": "c7be3f41fb3a4ed6be31d0bcd86a4684",
+    "nombre": "ULTIMATE ANIMAL PACK |100 ANIMALS | 50% OFF",
+    "autor": "WildMesh_3D",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 409847,
+    "url": "https://sketchfab.com/3d-models/none-c7be3f41fb3a4ed6be31d0bcd86a4684",
+    "miniatura": "miniaturas/sf_mono_rig/c7be3f41fb3a4ed6be31d0bcd86a4684.jpg"
+   },
+   {
+    "uid": "f26639ba7b3e477aa7974d0160a38010",
+    "nombre": "Awkward Look Monkey",
+    "autor": "daniel.saucedo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4140,
+    "url": "https://sketchfab.com/3d-models/none-f26639ba7b3e477aa7974d0160a38010",
+    "miniatura": "miniaturas/sf_mono_rig/f26639ba7b3e477aa7974d0160a38010.jpg"
+   },
+   {
+    "uid": "09b25d71be964210863dbf0dd1ed7c70",
+    "nombre": "monkey ape Muscular",
+    "autor": "edovvsky",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 382592,
+    "url": "https://sketchfab.com/3d-models/none-09b25d71be964210863dbf0dd1ed7c70",
+    "miniatura": "miniaturas/sf_mono_rig/09b25d71be964210863dbf0dd1ed7c70.jpg"
+   },
+   {
+    "uid": "165f755e44fc477fbc4ee41085606dd1",
+    "nombre": "ULTIMATE ANIMAL PACK |100 ANIMALS | 50% OFF",
+    "autor": "WildMesh_3D",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 2,
+    "caras": 409847,
+    "url": "https://sketchfab.com/3d-models/none-165f755e44fc477fbc4ee41085606dd1",
+    "miniatura": "miniaturas/sf_mono_rig/165f755e44fc477fbc4ee41085606dd1.jpg"
+   },
+   {
+    "uid": "48df597eec6e48aca4c6e1f92e978ee0",
+    "nombre": "Customizable Gorilla Tag Monkey Model",
+    "autor": "YouthfulPat501",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1450,
+    "url": "https://sketchfab.com/3d-models/none-48df597eec6e48aca4c6e1f92e978ee0",
+    "miniatura": "miniaturas/sf_mono_rig/48df597eec6e48aca4c6e1f92e978ee0.jpg"
+   },
+   {
+    "uid": "98dc70b13e1546b392e17aebdca9a169",
+    "nombre": "ape monkey character",
+    "autor": "edovvsky",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 23912,
+    "url": "https://sketchfab.com/3d-models/none-98dc70b13e1546b392e17aebdca9a169",
+    "miniatura": "miniaturas/sf_mono_rig/98dc70b13e1546b392e17aebdca9a169.jpg"
+   },
+   {
+    "uid": "c2f52afa064f44a6a8aa1e73bf92b4ae",
+    "nombre": "Monkey",
+    "autor": "tomkranis",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5679,
+    "url": "https://sketchfab.com/3d-models/none-c2f52afa064f44a6a8aa1e73bf92b4ae",
+    "miniatura": "miniaturas/sf_mono_rig/c2f52afa064f44a6a8aa1e73bf92b4ae.jpg"
+   },
+   {
+    "uid": "7f6ff3c4a27c4b169220fa15e44eb61a",
+    "nombre": "ape monkey in sport suit",
+    "autor": "edovvsky",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 110557,
+    "url": "https://sketchfab.com/3d-models/none-7f6ff3c4a27c4b169220fa15e44eb61a",
+    "miniatura": "miniaturas/sf_mono_rig/7f6ff3c4a27c4b169220fa15e44eb61a.jpg"
+   },
+   {
+    "uid": "9a6d6fd13d9742a18a48daa0376462eb",
+    "nombre": "Tv Woman Head",
+    "autor": "Cyber_Monkey",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8620,
+    "url": "https://sketchfab.com/3d-models/none-9a6d6fd13d9742a18a48daa0376462eb",
+    "miniatura": "miniaturas/sf_mono_rig/9a6d6fd13d9742a18a48daa0376462eb.jpg"
+   },
+   {
+    "uid": "2e660a43215f4728902715b171302b34",
+    "nombre": "Pigeon Rigged",
+    "autor": "Dragon_monkey",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 14150,
+    "url": "https://sketchfab.com/3d-models/none-2e660a43215f4728902715b171302b34",
+    "miniatura": "miniaturas/sf_mono_rig/2e660a43215f4728902715b171302b34.jpg"
+   },
+   {
+    "uid": "6518366a185f40af862de7b4416bd566",
+    "nombre": "Shiv | DEADLOCK Hero Model",
+    "autor": "kill6lucius",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 67272,
+    "url": "https://sketchfab.com/3d-models/none-6518366a185f40af862de7b4416bd566",
+    "miniatura": "miniaturas/sf_mono_rig/6518366a185f40af862de7b4416bd566.jpg"
+   },
+   {
+    "uid": "b7008e99dbec4f43af2f0c9c119bf5d2",
+    "nombre": "Free Toon Panda Character - Detective",
+    "autor": "MarkoJantti",
+    "licencia": "CC Attribution",
+    "animaciones": 14,
+    "caras": 6282,
+    "url": "https://sketchfab.com/3d-models/none-b7008e99dbec4f43af2f0c9c119bf5d2",
+    "miniatura": "miniaturas/sf_mono_rig/b7008e99dbec4f43af2f0c9c119bf5d2.jpg"
+   },
+   {
+    "uid": "77af3e36cf384e5c8f7d9cf7dc140a24",
+    "nombre": "Animated Tai Chi Character",
+    "autor": "LasquetiSpice",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 12805,
+    "url": "https://sketchfab.com/3d-models/none-77af3e36cf384e5c8f7d9cf7dc140a24",
+    "miniatura": "miniaturas/sf_mono_rig/77af3e36cf384e5c8f7d9cf7dc140a24.jpg"
+   },
+   {
+    "uid": "059ddf8d773748a0aa32c778897e711e",
+    "nombre": "Kako",
+    "autor": "manoeldarochadeoliveira",
+    "licencia": "CC Attribution",
+    "animaciones": 8,
+    "caras": 2732,
+    "url": "https://sketchfab.com/3d-models/none-059ddf8d773748a0aa32c778897e711e",
+    "miniatura": "miniaturas/sf_mono_rig/059ddf8d773748a0aa32c778897e711e.jpg"
+   },
+   {
+    "uid": "c69010aa3f954c7c8886de9dff38c307",
+    "nombre": "Caesar Planet Of The Apes Rigged",
+    "autor": "00amza",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7518,
+    "url": "https://sketchfab.com/3d-models/none-c69010aa3f954c7c8886de9dff38c307",
+    "miniatura": "miniaturas/sf_mono_rig/c69010aa3f954c7c8886de9dff38c307.jpg"
+   },
+   {
+    "uid": "a240fa3c8ba547e3824239fcf5ac37c0",
+    "nombre": "Ocean scene blender",
+    "autor": "abhayexe",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 1007618,
+    "url": "https://sketchfab.com/3d-models/none-a240fa3c8ba547e3824239fcf5ac37c0",
+    "miniatura": "miniaturas/sf_mono_rig/a240fa3c8ba547e3824239fcf5ac37c0.jpg"
+   },
+   {
+    "uid": "852350b583fb47acbe1bffb9e3132700",
+    "nombre": "Gorilla Tag Plush Rigged No Cosmetics",
+    "autor": "nikolajsokolov11",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2308,
+    "url": "https://sketchfab.com/3d-models/none-852350b583fb47acbe1bffb9e3132700",
+    "miniatura": "miniaturas/sf_mono_rig/852350b583fb47acbe1bffb9e3132700.jpg"
+   },
+   {
+    "uid": "650fb07e1e424d4c92fcdc4bbfed7b50",
+    "nombre": "Monkey rigged blender",
+    "autor": "Brijesh_khaped",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20602,
+    "url": "https://sketchfab.com/3d-models/none-650fb07e1e424d4c92fcdc4bbfed7b50",
+    "miniatura": "miniaturas/sf_mono_rig/650fb07e1e424d4c92fcdc4bbfed7b50.jpg"
+   },
+   {
+    "uid": "62ea29193ca14f7fb65c5876bfc2ea66",
+    "nombre": "Free Low Poly Cartoon Koi Fish",
+    "autor": "MarkoJantti",
+    "licencia": "CC Attribution",
+    "animaciones": 6,
+    "caras": 4330,
+    "url": "https://sketchfab.com/3d-models/none-62ea29193ca14f7fb65c5876bfc2ea66",
+    "miniatura": "miniaturas/sf_mono_rig/62ea29193ca14f7fb65c5876bfc2ea66.jpg"
+   },
+   {
+    "uid": "23097f9302b04c07862514e9665ba38f",
+    "nombre": "Spider-Man Stealth Suit (Far From Home) Rigged",
+    "autor": "irex6510",
+    "licencia": "CC Attribution",
+    "animaciones": 6,
+    "caras": 28781,
+    "url": "https://sketchfab.com/3d-models/none-23097f9302b04c07862514e9665ba38f",
+    "miniatura": "miniaturas/sf_mono_rig/23097f9302b04c07862514e9665ba38f.jpg"
+   },
+   {
+    "uid": "3e4a93a4043e4f9ca38295cfd0407c36",
+    "nombre": "Monkey D. Luffy",
+    "autor": "godfreywilliamsofficial",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 312128,
+    "url": "https://sketchfab.com/3d-models/none-3e4a93a4043e4f9ca38295cfd0407c36",
+    "miniatura": "miniaturas/sf_mono_rig/3e4a93a4043e4f9ca38295cfd0407c36.jpg"
+   },
+   {
+    "uid": "a384c2123b3b43d8a686a6b6210da135",
+    "nombre": "Dark Deception Murder monkey Rig",
+    "autor": "NO.DONT.EAT.ME.CASEOH",
+    "licencia": "CC Attribution",
+    "animaciones": 11,
+    "caras": 14328,
+    "url": "https://sketchfab.com/3d-models/none-a384c2123b3b43d8a686a6b6210da135",
+    "miniatura": "miniaturas/sf_mono_rig/a384c2123b3b43d8a686a6b6210da135.jpg"
+   },
+   {
+    "uid": "eafa231686e947668fd4518c27a7ee8a",
+    "nombre": "Lanky Kong",
+    "autor": "CoryRichards",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6872,
+    "url": "https://sketchfab.com/3d-models/none-eafa231686e947668fd4518c27a7ee8a",
+    "miniatura": "miniaturas/sf_mono_rig/eafa231686e947668fd4518c27a7ee8a.jpg"
+   },
+   {
+    "uid": "734aaf5ee48e462eaefd06c64f96ce73",
+    "nombre": "Spider Monkey Ben 10",
+    "autor": "kimni88",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8478,
+    "url": "https://sketchfab.com/3d-models/none-734aaf5ee48e462eaefd06c64f96ce73",
+    "miniatura": "miniaturas/sf_mono_rig/734aaf5ee48e462eaefd06c64f96ce73.jpg"
+   },
+   {
+    "uid": "1702508c9eb7432c99a50e8e5c22ed66",
+    "nombre": "Gorilla Tag Plush Rigged",
+    "autor": "bandlabbandit",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2944,
+    "url": "https://sketchfab.com/3d-models/none-1702508c9eb7432c99a50e8e5c22ed66",
+    "miniatura": "miniaturas/sf_mono_rig/1702508c9eb7432c99a50e8e5c22ed66.jpg"
+   },
+   {
+    "uid": "6e898ca4f64f48aeabd2bca7282c7862",
+    "nombre": "Monkey - Cartoon Cute - Rigged",
+    "autor": "Matt.Reardon",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 241084,
+    "url": "https://sketchfab.com/3d-models/none-6e898ca4f64f48aeabd2bca7282c7862",
+    "miniatura": "miniaturas/sf_mono_rig/6e898ca4f64f48aeabd2bca7282c7862.jpg"
+   },
+   {
+    "uid": "9d93c643e65d4ac6b52f9f595645e064",
+    "nombre": "Free Rigged Model",
+    "autor": "Not_FroggyVR",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2428,
+    "url": "https://sketchfab.com/3d-models/none-9d93c643e65d4ac6b52f9f595645e064",
+    "miniatura": "miniaturas/sf_mono_rig/9d93c643e65d4ac6b52f9f595645e064.jpg"
+   },
+   {
+    "uid": "e1d80aab6ad841c7b434c9fef5b0f913",
+    "nombre": "Chef Monkey Rig",
+    "autor": "NO.DONT.EAT.ME.CASEOH",
+    "licencia": "CC Attribution",
+    "animaciones": 11,
+    "caras": 9151,
+    "url": "https://sketchfab.com/3d-models/none-e1d80aab6ad841c7b434c9fef5b0f913",
+    "miniatura": "miniaturas/sf_mono_rig/e1d80aab6ad841c7b434c9fef5b0f913.jpg"
+   },
+   {
+    "uid": "0e625d1c958b4d9f81d2349fed812ea9",
+    "nombre": "Capuchin-vr-model-rigged",
+    "autor": "colbournecohen8",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3316,
+    "url": "https://sketchfab.com/3d-models/none-0e625d1c958b4d9f81d2349fed812ea9",
+    "miniatura": "miniaturas/sf_mono_rig/0e625d1c958b4d9f81d2349fed812ea9.jpg"
+   },
+   {
+    "uid": "087c0df0f98a46ff8a9ba4d53942848c",
+    "nombre": "Rockman (Mixamo test)",
+    "autor": "sciamop",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 88240,
+    "url": "https://sketchfab.com/3d-models/none-087c0df0f98a46ff8a9ba4d53942848c",
+    "miniatura": "miniaturas/sf_mono_rig/087c0df0f98a46ff8a9ba4d53942848c.jpg"
+   },
+   {
+    "uid": "7382f1353f1b44589bb832f49db10a24",
+    "nombre": "Ultimate Spider Monkey",
+    "autor": "CAPTAAINRO",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3326,
+    "url": "https://sketchfab.com/3d-models/none-7382f1353f1b44589bb832f49db10a24",
+    "miniatura": "miniaturas/sf_mono_rig/7382f1353f1b44589bb832f49db10a24.jpg"
+   },
+   {
+    "uid": "ef3b33533bac448f93616d37f810150c",
+    "nombre": "Minecraft Face Rig Update",
+    "autor": "oceanpromise20",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5012,
+    "url": "https://sketchfab.com/3d-models/none-ef3b33533bac448f93616d37f810150c",
+    "miniatura": "miniaturas/sf_mono_rig/ef3b33533bac448f93616d37f810150c.jpg"
+   },
+   {
+    "uid": "708c43d864b8494e860d56483c521a80",
+    "nombre": "SAMG(Scary Ass Monkey Game)",
+    "autor": "Pg554",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2348,
+    "url": "https://sketchfab.com/3d-models/none-708c43d864b8494e860d56483c521a80",
+    "miniatura": "miniaturas/sf_mono_rig/708c43d864b8494e860d56483c521a80.jpg"
+   },
+   {
+    "uid": "76c24d6822004d03995464bf802a228b",
+    "nombre": "Monkey mischeif rig",
+    "autor": "radiell31",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2550,
+    "url": "https://sketchfab.com/3d-models/none-76c24d6822004d03995464bf802a228b",
+    "miniatura": "miniaturas/sf_mono_rig/76c24d6822004d03995464bf802a228b.jpg"
+   },
+   {
+    "uid": "ee9f9fd9839e4bb887111dabd3a8da32",
+    "nombre": "Monkeys realm rig",
+    "autor": "radiell31",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 23430,
+    "url": "https://sketchfab.com/3d-models/none-ee9f9fd9839e4bb887111dabd3a8da32",
+    "miniatura": "miniaturas/sf_mono_rig/ee9f9fd9839e4bb887111dabd3a8da32.jpg"
+   },
+   {
+    "uid": "ccdb41433c1848c480c844922083c9c8",
+    "nombre": "Monkey Cartoon Character",
+    "autor": "Javier.ConRod",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2852,
+    "url": "https://sketchfab.com/3d-models/none-ccdb41433c1848c480c844922083c9c8",
+    "miniatura": "miniaturas/sf_mono_rig/ccdb41433c1848c480c844922083c9c8.jpg"
+   },
+   {
+    "uid": "15e03c4d25444107936d9a7222bdb76c",
+    "nombre": "Ape monkey  with Daft Punk helmet",
+    "autor": "edovvsky",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 113221,
+    "url": "https://sketchfab.com/3d-models/none-15e03c4d25444107936d9a7222bdb76c",
+    "miniatura": "miniaturas/sf_mono_rig/15e03c4d25444107936d9a7222bdb76c.jpg"
+   },
+   {
+    "uid": "567d0866b9eb477f9dc03827c47e8566",
+    "nombre": "Chimpanzee",
+    "autor": "Player1TheSFMAnimator",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 36038,
+    "url": "https://sketchfab.com/3d-models/none-567d0866b9eb477f9dc03827c47e8566",
+    "miniatura": "miniaturas/sf_mono_rig/567d0866b9eb477f9dc03827c47e8566.jpg"
+   },
+   {
+    "uid": "3afcd829ee9a4ba99116095f165df3e2",
+    "nombre": "Gorilla Tag IK Right For Blender And Prisma3D",
+    "autor": "JoeFromEarGame",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9554,
+    "url": "https://sketchfab.com/3d-models/none-3afcd829ee9a4ba99116095f165df3e2",
+    "miniatura": "miniaturas/sf_mono_rig/3afcd829ee9a4ba99116095f165df3e2.jpg"
+   },
+   {
+    "uid": "7bcf37f2919a472ba902dd83ed8169e7",
+    "nombre": "Untitled monkey game rig",
+    "autor": "radiell31",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4328,
+    "url": "https://sketchfab.com/3d-models/none-7bcf37f2919a472ba902dd83ed8169e7",
+    "miniatura": "miniaturas/sf_mono_rig/7bcf37f2919a472ba902dd83ed8169e7.jpg"
+   },
+   {
+    "uid": "8e66555cf1564ed9a63b2d362e1eb779",
+    "nombre": "Rubber Chicken",
+    "autor": "rectus",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9916,
+    "url": "https://sketchfab.com/3d-models/none-8e66555cf1564ed9a63b2d362e1eb779",
+    "miniatura": "miniaturas/sf_mono_rig/8e66555cf1564ed9a63b2d362e1eb779.jpg"
+   },
+   {
+    "uid": "3807897c6bb142a6a9eeb84bbf849bb2",
+    "nombre": "Big Scary Chimp Plush",
+    "autor": "amphibiankidthatmakesmodelslol",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 1296,
+    "url": "https://sketchfab.com/3d-models/none-3807897c6bb142a6a9eeb84bbf849bb2",
+    "miniatura": "miniaturas/sf_mono_rig/3807897c6bb142a6a9eeb84bbf849bb2.jpg"
+   },
+   {
+    "uid": "f6b377f806394bb29524d7c3cdf8e0fd",
+    "nombre": "Fun monkey horror 2 long man rig",
+    "autor": "KaijuGamerPro",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 161664,
+    "url": "https://sketchfab.com/3d-models/none-f6b377f806394bb29524d7c3cdf8e0fd",
+    "miniatura": "miniaturas/sf_mono_rig/f6b377f806394bb29524d7c3cdf8e0fd.jpg"
+   },
+   {
+    "uid": "50fb86d3786d4038b41369e8e26a4cf7",
+    "nombre": "Monkey Fully Rigged",
+    "autor": "AIdan127458",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 24008,
+    "url": "https://sketchfab.com/3d-models/none-50fb86d3786d4038b41369e8e26a4cf7",
+    "miniatura": "miniaturas/sf_mono_rig/50fb86d3786d4038b41369e8e26a4cf7.jpg"
+   },
+   {
+    "uid": "c2f95695eb7844f5957163ef41d284f5",
+    "nombre": "Shitty kinda low poly monkey model",
+    "autor": "lytecrab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2656,
+    "url": "https://sketchfab.com/3d-models/none-c2f95695eb7844f5957163ef41d284f5",
+    "miniatura": "miniaturas/sf_mono_rig/c2f95695eb7844f5957163ef41d284f5.jpg"
+   },
+   {
+    "uid": "25d4b28ca1514187b8f78020abde14ae",
+    "nombre": "Capu Monkey but poopy",
+    "autor": "lytecrab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2680,
+    "url": "https://sketchfab.com/3d-models/none-25d4b28ca1514187b8f78020abde14ae",
+    "miniatura": "miniaturas/sf_mono_rig/25d4b28ca1514187b8f78020abde14ae.jpg"
+   },
+   {
+    "uid": "82bad94d8a504c5dadd89194a9950373",
+    "nombre": "Fun monkey horror rig",
+    "autor": "radiell31",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7488,
+    "url": "https://sketchfab.com/3d-models/none-82bad94d8a504c5dadd89194a9950373",
+    "miniatura": "miniaturas/sf_mono_rig/82bad94d8a504c5dadd89194a9950373.jpg"
+   },
+   {
+    "uid": "eb387ab9e2534c36a4dc465afdae1261",
+    "nombre": "Rigged Monkey Warrior",
+    "autor": "Ar3Designer",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 80806,
+    "url": "https://sketchfab.com/3d-models/none-eb387ab9e2534c36a4dc465afdae1261",
+    "miniatura": "miniaturas/sf_mono_rig/eb387ab9e2534c36a4dc465afdae1261.jpg"
+   },
+   {
+    "uid": "4fdf8c9df57c4846876294d85ef8aed1",
+    "nombre": "Gorrillatag",
+    "autor": "Kryph",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1448,
+    "url": "https://sketchfab.com/3d-models/none-4fdf8c9df57c4846876294d85ef8aed1",
+    "miniatura": "miniaturas/sf_mono_rig/4fdf8c9df57c4846876294d85ef8aed1.jpg"
+   },
+   {
+    "uid": "3afc0fb55948416faf9c233ea088838d",
+    "nombre": "Suzanne Head Expressions",
+    "autor": "gamnamno",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 53174,
+    "url": "https://sketchfab.com/3d-models/none-3afc0fb55948416faf9c233ea088838d",
+    "miniatura": "miniaturas/sf_mono_rig/3afc0fb55948416faf9c233ea088838d.jpg"
+   },
+   {
+    "uid": "373f0af0ea0d423d91cccf468db6e3ec",
+    "nombre": "Captian HuggyFace - Wordgirl",
+    "autor": "daisycakes",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 94088,
+    "url": "https://sketchfab.com/3d-models/none-373f0af0ea0d423d91cccf468db6e3ec",
+    "miniatura": "miniaturas/sf_mono_rig/373f0af0ea0d423d91cccf468db6e3ec.jpg"
+   },
+   {
+    "uid": "6dfd09f44f294239a4bd7399687355c8",
+    "nombre": "Monke Model Rigged",
+    "autor": "gummie.bear.matt",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 101376,
+    "url": "https://sketchfab.com/3d-models/none-6dfd09f44f294239a4bd7399687355c8",
+    "miniatura": "miniaturas/sf_mono_rig/6dfd09f44f294239a4bd7399687355c8.jpg"
+   },
+   {
+    "uid": "ebd9b3a844ed46c180a343f86c44d12c",
+    "nombre": "MONKEY D LUFF IN GRAVITY",
+    "autor": "g.barbieri.vr",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 141976,
+    "url": "https://sketchfab.com/3d-models/none-ebd9b3a844ed46c180a343f86c44d12c",
+    "miniatura": "miniaturas/sf_mono_rig/ebd9b3a844ed46c180a343f86c44d12c.jpg"
+   },
+   {
+    "uid": "d65f9bd7dfde4f56ae658b1d9a8e5dcc",
+    "nombre": "Capuchin vr player model rigged old",
+    "autor": "canyonnthemodeler",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3316,
+    "url": "https://sketchfab.com/3d-models/none-d65f9bd7dfde4f56ae658b1d9a8e5dcc",
+    "miniatura": "miniaturas/sf_mono_rig/d65f9bd7dfde4f56ae658b1d9a8e5dcc.jpg"
+   },
+   {
+    "uid": "7b0508a0086d4b3f88351f2949e15af6",
+    "nombre": "ikea monkey rigged",
+    "autor": "mrmonke13",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18910,
+    "url": "https://sketchfab.com/3d-models/none-7b0508a0086d4b3f88351f2949e15af6",
+    "miniatura": "miniaturas/sf_mono_rig/7b0508a0086d4b3f88351f2949e15af6.jpg"
+   },
+   {
+    "uid": "3bb8038b3f2540898945f14c59ef02d1",
+    "nombre": "gorilla_tag_monkey_rig",
+    "autor": "DESANVISS15",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1449,
+    "url": "https://sketchfab.com/3d-models/none-3bb8038b3f2540898945f14c59ef02d1",
+    "miniatura": "miniaturas/sf_mono_rig/3bb8038b3f2540898945f14c59ef02d1.jpg"
+   },
+   {
+    "uid": "7633210691af49efa8e897bb55c91cfa",
+    "nombre": "Shitty Ape Type Model",
+    "autor": "lytecrab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2556,
+    "url": "https://sketchfab.com/3d-models/none-7633210691af49efa8e897bb55c91cfa",
+    "miniatura": "miniaturas/sf_mono_rig/7633210691af49efa8e897bb55c91cfa.jpg"
+   },
+   {
+    "uid": "8b4bae85be064e09850e27bd7b1739d5",
+    "nombre": "Gorilla Tag - Monke (Rig)",
+    "autor": "joana.veiga.cardoso",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 1838,
+    "url": "https://sketchfab.com/3d-models/none-8b4bae85be064e09850e27bd7b1739d5",
+    "miniatura": "miniaturas/sf_mono_rig/8b4bae85be064e09850e27bd7b1739d5.jpg"
+   },
+   {
+    "uid": "352b653806f5424992d42717f43effd5",
+    "nombre": "Primape",
+    "autor": "zisisbad",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 183552,
+    "url": "https://sketchfab.com/3d-models/none-352b653806f5424992d42717f43effd5",
+    "miniatura": "miniaturas/sf_mono_rig/352b653806f5424992d42717f43effd5.jpg"
+   }
+  ],
+  "sf_macaque_rig": [],
+  "sf_monkey_anim_real": [
+   {
+    "uid": "165f755e44fc477fbc4ee41085606dd1",
+    "nombre": "ULTIMATE ANIMAL PACK |100 ANIMALS | 50% OFF",
+    "autor": "WildMesh_3D",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 2,
+    "caras": 409847,
+    "url": "https://sketchfab.com/3d-models/none-165f755e44fc477fbc4ee41085606dd1",
+    "miniatura": "miniaturas/sf_monkey_anim_real/165f755e44fc477fbc4ee41085606dd1.jpg"
+   },
+   {
+    "uid": "7f6ff3c4a27c4b169220fa15e44eb61a",
+    "nombre": "ape monkey in sport suit",
+    "autor": "edovvsky",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 110557,
+    "url": "https://sketchfab.com/3d-models/none-7f6ff3c4a27c4b169220fa15e44eb61a",
+    "miniatura": "miniaturas/sf_monkey_anim_real/7f6ff3c4a27c4b169220fa15e44eb61a.jpg"
+   },
+   {
+    "uid": "d16d4817adb84983a4754024f772f4ef",
+    "nombre": "Realistic gorilla tag animation",
+    "autor": "dluberdadj",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3854,
+    "url": "https://sketchfab.com/3d-models/none-d16d4817adb84983a4754024f772f4ef",
+    "miniatura": "miniaturas/sf_monkey_anim_real/d16d4817adb84983a4754024f772f4ef.jpg"
+   },
+   {
+    "uid": "6d88721432c240ddac6c0a20a34580cc",
+    "nombre": "Brian Griffin Family Guy Realistic 3_0",
+    "autor": "DylanArtist12",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 104270,
+    "url": "https://sketchfab.com/3d-models/none-6d88721432c240ddac6c0a20a34580cc",
+    "miniatura": "miniaturas/sf_monkey_anim_real/6d88721432c240ddac6c0a20a34580cc.jpg"
+   },
+   {
+    "uid": "c0f98973acf0410b855a8afa3ef124f8",
+    "nombre": "Liberty Coin",
+    "autor": "Imaginationanimation",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 252,
+    "url": "https://sketchfab.com/3d-models/none-c0f98973acf0410b855a8afa3ef124f8",
+    "miniatura": "miniaturas/sf_monkey_anim_real/c0f98973acf0410b855a8afa3ef124f8.jpg"
+   },
+   {
+    "uid": "7f61422594714a218b02dfdd397d0ea1",
+    "nombre": "Mr. Ball",
+    "autor": "codermedia",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 29404,
+    "url": "https://sketchfab.com/3d-models/none-7f61422594714a218b02dfdd397d0ea1",
+    "miniatura": "miniaturas/sf_monkey_anim_real/7f61422594714a218b02dfdd397d0ea1.jpg"
+   },
+   {
+    "uid": "fa97d89e66c647b3b967bee9eca6f862",
+    "nombre": "Monkey Metal Realistic only on cycles",
+    "autor": "pauloperniatarazona",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3936,
+    "url": "https://sketchfab.com/3d-models/none-fa97d89e66c647b3b967bee9eca6f862",
+    "miniatura": "miniaturas/sf_monkey_anim_real/fa97d89e66c647b3b967bee9eca6f862.jpg"
+   }
+  ],
+  "sf_japanese": [
+   {
+    "uid": "82d1e6a73c0f475a969e35bfe0fcd904",
+    "nombre": "Hit-Monkey",
+    "autor": "chaitanyak",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 25364,
+    "url": "https://sketchfab.com/3d-models/none-82d1e6a73c0f475a969e35bfe0fcd904",
+    "miniatura": "miniaturas/sf_japanese/82d1e6a73c0f475a969e35bfe0fcd904.jpg"
+   },
+   {
+    "uid": "ab43f905bcc545808ff8b797ff92eda8",
+    "nombre": "PS1 Japanese Macaque (Snow Monkey)",
+    "autor": "uosew",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 686,
+    "url": "https://sketchfab.com/3d-models/none-ab43f905bcc545808ff8b797ff92eda8",
+    "miniatura": "miniaturas/sf_japanese/ab43f905bcc545808ff8b797ff92eda8.jpg"
+   }
+  ],
+  "sf_baboon_anim": [
+   {
+    "uid": "5f64793e99e6403a86395c92385fd950",
+    "nombre": "Monkey Warrior",
+    "autor": "ulbabrab94",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 23553,
+    "url": "https://sketchfab.com/3d-models/none-5f64793e99e6403a86395c92385fd950",
+    "miniatura": "miniaturas/sf_baboon_anim/5f64793e99e6403a86395c92385fd950.jpg"
+   },
+   {
+    "uid": "6f0cc93653a14458b6920a18fcc21d55",
+    "nombre": "Xenohydro Roach",
+    "autor": "vang807",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 5,
+    "caras": 45796,
+    "url": "https://sketchfab.com/3d-models/none-6f0cc93653a14458b6920a18fcc21d55",
+    "miniatura": "miniaturas/sf_baboon_anim/6f0cc93653a14458b6920a18fcc21d55.jpg"
+   },
+   {
+    "uid": "57cb563389f14df983d016f21575c64b",
+    "nombre": "Primal_fear_with_scary_baboon",
+    "autor": "jayfr537",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 15204,
+    "url": "https://sketchfab.com/3d-models/none-57cb563389f14df983d016f21575c64b",
+    "miniatura": "miniaturas/sf_baboon_anim/57cb563389f14df983d016f21575c64b.jpg"
+   },
+   {
+    "uid": "1288200fa7dd4091860b6c2b7aece719",
+    "nombre": "Scary Baboon Monster Fanmade",
+    "autor": "MoeTheModelerAndRipper",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10376,
+    "url": "https://sketchfab.com/3d-models/none-1288200fa7dd4091860b6c2b7aece719",
+    "miniatura": "miniaturas/sf_baboon_anim/1288200fa7dd4091860b6c2b7aece719.jpg"
+   },
+   {
+    "uid": "67818ed7370d49a1841fd10e527216ba",
+    "nombre": "Gorilla",
+    "autor": "voltairevillela",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 5500,
+    "url": "https://sketchfab.com/3d-models/none-67818ed7370d49a1841fd10e527216ba",
+    "miniatura": "miniaturas/sf_baboon_anim/67818ed7370d49a1841fd10e527216ba.jpg"
+   },
+   {
+    "uid": "d1ad2c6f57bd44be93ad7e97f9d706b6",
+    "nombre": "Egg Monster Scary Baboon",
+    "autor": "sbarchiver",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 3118,
+    "url": "https://sketchfab.com/3d-models/none-d1ad2c6f57bd44be93ad7e97f9d706b6",
+    "miniatura": "miniaturas/sf_baboon_anim/d1ad2c6f57bd44be93ad7e97f9d706b6.jpg"
+   },
+   {
+    "uid": "1fee8a1f6b8a4c988cab40b1e9ccb28e",
+    "nombre": "Monster With Animations + Rigged (Creepy Baboon)",
+    "autor": "vrgamesripper",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6766,
+    "url": "https://sketchfab.com/3d-models/none-1fee8a1f6b8a4c988cab40b1e9ccb28e",
+    "miniatura": "miniaturas/sf_baboon_anim/1fee8a1f6b8a4c988cab40b1e9ccb28e.jpg"
+   },
+   {
+    "uid": "8d74b9ec9aa440f982c09bfbb1037b82",
+    "nombre": "Scary Baboon Remake All Cosmetics (Playermodel)",
+    "autor": "OreoDev",
+    "licencia": "CC Attribution",
+    "animaciones": 6,
+    "caras": 52479,
+    "url": "https://sketchfab.com/3d-models/none-8d74b9ec9aa440f982c09bfbb1037b82",
+    "miniatura": "miniaturas/sf_baboon_anim/8d74b9ec9aa440f982c09bfbb1037b82.jpg"
+   },
+   {
+    "uid": "4130e487ddb54a939d096bee8e778dfe",
+    "nombre": "primal fear with scary baboon textures",
+    "autor": "MoeTheModelerAndRipper",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 15204,
+    "url": "https://sketchfab.com/3d-models/none-4130e487ddb54a939d096bee8e778dfe",
+    "miniatura": "miniaturas/sf_baboon_anim/4130e487ddb54a939d096bee8e778dfe.jpg"
+   },
+   {
+    "uid": "adcf2234def14bd2ad02d496f1bc2253",
+    "nombre": "OG Backrooms Monster Scary Baboon",
+    "autor": "sbarchiver",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 9088,
+    "url": "https://sketchfab.com/3d-models/none-adcf2234def14bd2ad02d496f1bc2253",
+    "miniatura": "miniaturas/sf_baboon_anim/adcf2234def14bd2ad02d496f1bc2253.jpg"
+   },
+   {
+    "uid": "b5550ef9eca14cd286d671b43a35545e",
+    "nombre": "Cupcake Scary Baboon",
+    "autor": "sbarchiver",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5350,
+    "url": "https://sketchfab.com/3d-models/none-b5550ef9eca14cd286d671b43a35545e",
+    "miniatura": "miniaturas/sf_baboon_anim/b5550ef9eca14cd286d671b43a35545e.jpg"
+   },
+   {
+    "uid": "91e19e0b3f5f4e4190f34c0872e02bd5",
+    "nombre": "Quaranter Scary Baboon",
+    "autor": "sbarchiver",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 3054,
+    "url": "https://sketchfab.com/3d-models/none-91e19e0b3f5f4e4190f34c0872e02bd5",
+    "miniatura": "miniaturas/sf_baboon_anim/91e19e0b3f5f4e4190f34c0872e02bd5.jpg"
+   },
+   {
+    "uid": "360e0e6c161247c8b8af7a2592438e58",
+    "nombre": "Screwed baboon",
+    "autor": "Leomullin5",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 20318,
+    "url": "https://sketchfab.com/3d-models/none-360e0e6c161247c8b8af7a2592438e58",
+    "miniatura": "miniaturas/sf_baboon_anim/360e0e6c161247c8b8af7a2592438e58.jpg"
+   },
+   {
+    "uid": "f4d3f3c3cb314602b047593caa4bc8d7",
+    "nombre": "Maxwell?",
+    "autor": "Paradox_Mutant",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1513,
+    "url": "https://sketchfab.com/3d-models/none-f4d3f3c3cb314602b047593caa4bc8d7",
+    "miniatura": "miniaturas/sf_baboon_anim/f4d3f3c3cb314602b047593caa4bc8d7.jpg"
+   },
+   {
+    "uid": "d9dbe74aec2f48b5b1dc30ed1de907ad",
+    "nombre": "Pibble Scary Baboon",
+    "autor": "sbarchiver",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 2050,
+    "url": "https://sketchfab.com/3d-models/none-d9dbe74aec2f48b5b1dc30ed1de907ad",
+    "miniatura": "miniaturas/sf_baboon_anim/d9dbe74aec2f48b5b1dc30ed1de907ad.jpg"
+   },
+   {
+    "uid": "6928d0d22de94132b704521f6ed17493",
+    "nombre": "White Fixed Model Scary Baboon",
+    "autor": "sbarchiver",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5465,
+    "url": "https://sketchfab.com/3d-models/none-6928d0d22de94132b704521f6ed17493",
+    "miniatura": "miniaturas/sf_baboon_anim/6928d0d22de94132b704521f6ed17493.jpg"
+   },
+   {
+    "uid": "7e2b11592a404b0ea720eee2796d5999",
+    "nombre": "scary baboon monster",
+    "autor": "slayzer",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10152,
+    "url": "https://sketchfab.com/3d-models/none-7e2b11592a404b0ea720eee2796d5999",
+    "miniatura": "miniaturas/sf_baboon_anim/7e2b11592a404b0ea720eee2796d5999.jpg"
+   },
+   {
+    "uid": "9cfdb68028754395802abb975ee3580c",
+    "nombre": "weakling (credits to orianbot)",
+    "autor": "loganr530694",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 3556,
+    "url": "https://sketchfab.com/3d-models/none-9cfdb68028754395802abb975ee3580c",
+    "miniatura": "miniaturas/sf_baboon_anim/9cfdb68028754395802abb975ee3580c.jpg"
+   },
+   {
+    "uid": "eb4984a3ff9a461791fd9d638c631770",
+    "nombre": "Scary Baboon Skully Fan Made Anim",
+    "autor": "Cooldude16",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 7004,
+    "url": "https://sketchfab.com/3d-models/none-eb4984a3ff9a461791fd9d638c631770",
+    "miniatura": "miniaturas/sf_baboon_anim/eb4984a3ff9a461791fd9d638c631770.jpg"
+   },
+   {
+    "uid": "544fb36f54e446b0a36aa84dbe00ddba",
+    "nombre": "OG MeatMan Scary Baboon",
+    "autor": "sbarchiver",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10897,
+    "url": "https://sketchfab.com/3d-models/none-544fb36f54e446b0a36aa84dbe00ddba",
+    "miniatura": "miniaturas/sf_baboon_anim/544fb36f54e446b0a36aa84dbe00ddba.jpg"
+   },
+   {
+    "uid": "6ae5f9923fa244c7ab9fb8032762b5a8",
+    "nombre": "creepy baboon gleem!",
+    "autor": "thatskidder",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3318,
+    "url": "https://sketchfab.com/3d-models/none-6ae5f9923fa244c7ab9fb8032762b5a8",
+    "miniatura": "miniaturas/sf_baboon_anim/6ae5f9923fa244c7ab9fb8032762b5a8.jpg"
+   },
+   {
+    "uid": "453c907890d1427095f02a4b62f9f623",
+    "nombre": "daquiv cb",
+    "autor": "thatskidder",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3950,
+    "url": "https://sketchfab.com/3d-models/none-453c907890d1427095f02a4b62f9f623",
+    "miniatura": "miniaturas/sf_baboon_anim/453c907890d1427095f02a4b62f9f623.jpg"
+   },
+   {
+    "uid": "944f14cdb5f74ed6a88de9154849d5cb",
+    "nombre": "Fanmade Lethal Ape (Poleboy)",
+    "autor": "sigma67",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 11971,
+    "url": "https://sketchfab.com/3d-models/none-944f14cdb5f74ed6a88de9154849d5cb",
+    "miniatura": "miniaturas/sf_baboon_anim/944f14cdb5f74ed6a88de9154849d5cb.jpg"
+   },
+   {
+    "uid": "3a719e0cd1df447b85e6981311d42f64",
+    "nombre": "Lil Nub Fixed Scary Baboon",
+    "autor": "sbarchiver",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 6200,
+    "url": "https://sketchfab.com/3d-models/none-3a719e0cd1df447b85e6981311d42f64",
+    "miniatura": "miniaturas/sf_baboon_anim/3a719e0cd1df447b85e6981311d42f64.jpg"
+   },
+   {
+    "uid": "3ad54bef4f284e56ad8e350a119d61df",
+    "nombre": "go kart go monkeyboy",
+    "autor": "amogusstrikesback2",
+    "licencia": "CC Attribution",
+    "animaciones": 9,
+    "caras": 864,
+    "url": "https://sketchfab.com/3d-models/none-3ad54bef4f284e56ad8e350a119d61df",
+    "miniatura": "miniaturas/sf_baboon_anim/3ad54bef4f284e56ad8e350a119d61df.jpg"
+   },
+   {
+    "uid": "8d69b95df63b49c9a1df1c5cf754b33c",
+    "nombre": "Baboon",
+    "autor": "kingillager",
+    "licencia": "CC Attribution",
+    "animaciones": 8,
+    "caras": 252,
+    "url": "https://sketchfab.com/3d-models/none-8d69b95df63b49c9a1df1c5cf754b33c",
+    "miniatura": "miniaturas/sf_baboon_anim/8d69b95df63b49c9a1df1c5cf754b33c.jpg"
+   },
+   {
+    "uid": "85080d125e114cc2991c03d0bce90df3",
+    "nombre": "Daquavius_credit_to_creepy_baboon_ripper",
+    "autor": "BraveCity5815",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3950,
+    "url": "https://sketchfab.com/3d-models/none-85080d125e114cc2991c03d0bce90df3",
+    "miniatura": "miniaturas/sf_baboon_anim/85080d125e114cc2991c03d0bce90df3.jpg"
+   },
+   {
+    "uid": "06d264e8f65f4ceead59b3d7cbb366e9",
+    "nombre": "Alien Baboon",
+    "autor": "sbarchiver",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4664,
+    "url": "https://sketchfab.com/3d-models/none-06d264e8f65f4ceead59b3d7cbb366e9",
+    "miniatura": "miniaturas/sf_baboon_anim/06d264e8f65f4ceead59b3d7cbb366e9.jpg"
+   },
+   {
+    "uid": "25fc3b8f17da4bd3ace96d1e70273f74",
+    "nombre": "Primal-fear-with-scary-baboon-textures",
+    "autor": "d.vincenti82113",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 15204,
+    "url": "https://sketchfab.com/3d-models/none-25fc3b8f17da4bd3ace96d1e70273f74",
+    "miniatura": "miniaturas/sf_baboon_anim/25fc3b8f17da4bd3ace96d1e70273f74.jpg"
+   },
+   {
+    "uid": "c4f8914c66f5440ca0116caf1d10cdeb",
+    "nombre": "Creepy Baboon Bolt",
+    "autor": "loganr530694",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6766,
+    "url": "https://sketchfab.com/3d-models/none-c4f8914c66f5440ca0116caf1d10cdeb",
+    "miniatura": "miniaturas/sf_baboon_anim/c4f8914c66f5440ca0116caf1d10cdeb.jpg"
+   },
+   {
+    "uid": "bf98b7031449465d873c2354b785a8e3",
+    "nombre": "Big Larry, scary baboon with animations",
+    "autor": "iamavi",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5806,
+    "url": "https://sketchfab.com/3d-models/none-bf98b7031449465d873c2354b785a8e3",
+    "miniatura": "miniaturas/sf_baboon_anim/bf98b7031449465d873c2354b785a8e3.jpg"
+   },
+   {
+    "uid": "b22d740b4e514f56b8150722de03d7fc",
+    "nombre": "Gleem credit to creepy baboon ripper",
+    "autor": "Leomullin5",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3502,
+    "url": "https://sketchfab.com/3d-models/none-b22d740b4e514f56b8150722de03d7fc",
+    "miniatura": "miniaturas/sf_baboon_anim/b22d740b4e514f56b8150722de03d7fc.jpg"
+   },
+   {
+    "uid": "f4dda87bc420460d91e7e64b5463a10c",
+    "nombre": "Daquavius credit to creepy baboon ripper",
+    "autor": "Leomullin5",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3950,
+    "url": "https://sketchfab.com/3d-models/none-f4dda87bc420460d91e7e64b5463a10c",
+    "miniatura": "miniaturas/sf_baboon_anim/f4dda87bc420460d91e7e64b5463a10c.jpg"
+   },
+   {
+    "uid": "9b9910d832144d5289161a654f96945f",
+    "nombre": "Gleem/Red Goopy/Green Goopy (New Animation!)",
+    "autor": "Ravahh",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3502,
+    "url": "https://sketchfab.com/3d-models/none-9b9910d832144d5289161a654f96945f",
+    "miniatura": "miniaturas/sf_baboon_anim/9b9910d832144d5289161a654f96945f.jpg"
+   },
+   {
+    "uid": "d4e3281afe3640de94f88214d106253b",
+    "nombre": "Bolt",
+    "autor": "Ravahh",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 7146,
+    "url": "https://sketchfab.com/3d-models/none-d4e3281afe3640de94f88214d106253b",
+    "miniatura": "miniaturas/sf_baboon_anim/d4e3281afe3640de94f88214d106253b.jpg"
+   },
+   {
+    "uid": "15a269d46ad94615b2c2147908f30fbe",
+    "nombre": "Daquavius",
+    "autor": "Ravahh",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3950,
+    "url": "https://sketchfab.com/3d-models/none-15a269d46ad94615b2c2147908f30fbe",
+    "miniatura": "miniaturas/sf_baboon_anim/15a269d46ad94615b2c2147908f30fbe.jpg"
+   },
+   {
+    "uid": "928c9d841f1a492da454a5efb3f9abd8",
+    "nombre": "Old Bolt Creepy Baboon",
+    "autor": "couchpersony",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 7146,
+    "url": "https://sketchfab.com/3d-models/none-928c9d841f1a492da454a5efb3f9abd8",
+    "miniatura": "miniaturas/sf_baboon_anim/928c9d841f1a492da454a5efb3f9abd8.jpg"
+   },
+   {
+    "uid": "3e9d7fa5a2f04a81992dd192e2a78f3a",
+    "nombre": "Backrooms Monster OG Scary baboon",
+    "autor": "buttcracktod",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 9088,
+    "url": "https://sketchfab.com/3d-models/none-3e9d7fa5a2f04a81992dd192e2a78f3a",
+    "miniatura": "miniaturas/sf_baboon_anim/3e9d7fa5a2f04a81992dd192e2a78f3a.jpg"
+   },
+   {
+    "uid": "57520a992d6149ebb54a80264a2026ef",
+    "nombre": "Big Berry scary Baboon",
+    "autor": "buttcracktod",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 13466,
+    "url": "https://sketchfab.com/3d-models/none-57520a992d6149ebb54a80264a2026ef",
+    "miniatura": "miniaturas/sf_baboon_anim/57520a992d6149ebb54a80264a2026ef.jpg"
+   },
+   {
+    "uid": "6f97b29edb434b7ea760493964d7b2e9",
+    "nombre": "primal_fear_with_scary_baboon_textures",
+    "autor": "maxxdetomasi",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 15204,
+    "url": "https://sketchfab.com/3d-models/none-6f97b29edb434b7ea760493964d7b2e9",
+    "miniatura": "miniaturas/sf_baboon_anim/6f97b29edb434b7ea760493964d7b2e9.jpg"
+   },
+   {
+    "uid": "d56da20676324911b179649c83ccf09c",
+    "nombre": "Big Larry Huss Baboon",
+    "autor": "sbarchiver",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6830,
+    "url": "https://sketchfab.com/3d-models/none-d56da20676324911b179649c83ccf09c",
+    "miniatura": "miniaturas/sf_baboon_anim/d56da20676324911b179649c83ccf09c.jpg"
+   },
+   {
+    "uid": "48a42870803e4e7ca3e745af11e7dd5c",
+    "nombre": "Gus horror @ dogey vr DON’T YOU DARE STEAL THIS",
+    "autor": "iamavi",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 18948,
+    "url": "https://sketchfab.com/3d-models/none-48a42870803e4e7ca3e745af11e7dd5c",
+    "miniatura": "miniaturas/sf_baboon_anim/48a42870803e4e7ca3e745af11e7dd5c.jpg"
+   },
+   {
+    "uid": "a7a8ecad19fd4549a6276cda55216018",
+    "nombre": "3rror ( scary baboon )",
+    "autor": "zyed.ms",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 15870,
+    "url": "https://sketchfab.com/3d-models/none-a7a8ecad19fd4549a6276cda55216018",
+    "miniatura": "miniaturas/sf_baboon_anim/a7a8ecad19fd4549a6276cda55216018.jpg"
+   },
+   {
+    "uid": "95f69db634f94e10b55d88a10f1328b2",
+    "nombre": "Creepy Baboon Bolt",
+    "autor": "grahambourn",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6766,
+    "url": "https://sketchfab.com/3d-models/none-95f69db634f94e10b55d88a10f1328b2",
+    "miniatura": "miniaturas/sf_baboon_anim/95f69db634f94e10b55d88a10f1328b2.jpg"
+   },
+   {
+    "uid": "cffe20b527194920bcd5c14b9168b60e",
+    "nombre": "Creepy Baboon Daquivius",
+    "autor": "loganr530694",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3950,
+    "url": "https://sketchfab.com/3d-models/none-cffe20b527194920bcd5c14b9168b60e",
+    "miniatura": "miniaturas/sf_baboon_anim/cffe20b527194920bcd5c14b9168b60e.jpg"
+   },
+   {
+    "uid": "f454029867904b899f987bed0df28db8",
+    "nombre": "Creepy Baboon Green goopy",
+    "autor": "loganr530694",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3318,
+    "url": "https://sketchfab.com/3d-models/none-f454029867904b899f987bed0df28db8",
+    "miniatura": "miniaturas/sf_baboon_anim/f454029867904b899f987bed0df28db8.jpg"
+   },
+   {
+    "uid": "8d4b59b9ff5b463fad280ddde60305b6",
+    "nombre": "Creepy Baboon Gleem",
+    "autor": "loganr530694",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3318,
+    "url": "https://sketchfab.com/3d-models/none-8d4b59b9ff5b463fad280ddde60305b6",
+    "miniatura": "miniaturas/sf_baboon_anim/8d4b59b9ff5b463fad280ddde60305b6.jpg"
+   },
+   {
+    "uid": "9c47c917a37146cbb6fb4232f18452e0",
+    "nombre": "Creepy Baboon Red goopy",
+    "autor": "loganr530694",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3318,
+    "url": "https://sketchfab.com/3d-models/none-9c47c917a37146cbb6fb4232f18452e0",
+    "miniatura": "miniaturas/sf_baboon_anim/9c47c917a37146cbb6fb4232f18452e0.jpg"
+   },
+   {
+    "uid": "61d13f1a6f5f41238c03652822bdcac2",
+    "nombre": "Big Larrry Jumpscare",
+    "autor": "scarybaboonripper2",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5274,
+    "url": "https://sketchfab.com/3d-models/none-61d13f1a6f5f41238c03652822bdcac2",
+    "miniatura": "miniaturas/sf_baboon_anim/61d13f1a6f5f41238c03652822bdcac2.jpg"
+   },
+   {
+    "uid": "f7fe922af39c422e8fc171708fe56123",
+    "nombre": "Bolt with textures (ZIP)",
+    "autor": "Ravahh",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6766,
+    "url": "https://sketchfab.com/3d-models/none-f7fe922af39c422e8fc171708fe56123",
+    "miniatura": "miniaturas/sf_baboon_anim/f7fe922af39c422e8fc171708fe56123.jpg"
+   },
+   {
+    "uid": "89e55b1232874749b8fcaf213c4cf606",
+    "nombre": "פרחים",
+    "autor": "Leomullin5",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3895,
+    "url": "https://sketchfab.com/3d-models/none-89e55b1232874749b8fcaf213c4cf606",
+    "miniatura": "miniaturas/sf_baboon_anim/89e55b1232874749b8fcaf213c4cf606.jpg"
+   },
+   {
+    "uid": "bdf6c49df850403aa06cda702a4e018d",
+    "nombre": "Gleem's jumpscare",
+    "autor": "Ravahh",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4086,
+    "url": "https://sketchfab.com/3d-models/none-bdf6c49df850403aa06cda702a4e018d",
+    "miniatura": "miniaturas/sf_baboon_anim/bdf6c49df850403aa06cda702a4e018d.jpg"
+   },
+   {
+    "uid": "f34bc8b539df478f962b00f14fbbe405",
+    "nombre": "Scary Baboon Secrets Of The Lab Loading Screen",
+    "autor": "OreoDev",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 75772,
+    "url": "https://sketchfab.com/3d-models/none-f34bc8b539df478f962b00f14fbbe405",
+    "miniatura": "miniaturas/sf_baboon_anim/f34bc8b539df478f962b00f14fbbe405.jpg"
+   },
+   {
+    "uid": "c5450797f7cd45bf807275cf18445ee8",
+    "nombre": "BOMBOCLAT SCARY BABOON MONSTER sb ripped edition",
+    "autor": "sbarchiver",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 7001,
+    "url": "https://sketchfab.com/3d-models/none-c5450797f7cd45bf807275cf18445ee8",
+    "miniatura": "miniaturas/sf_baboon_anim/c5450797f7cd45bf807275cf18445ee8.jpg"
+   },
+   {
+    "uid": "97301d08942143cfbdf55f923aece48c",
+    "nombre": "Scary Baboon Player Model With Legs Rig",
+    "autor": "OreoDev",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 7792,
+    "url": "https://sketchfab.com/3d-models/none-97301d08942143cfbdf55f923aece48c",
+    "miniatura": "miniaturas/sf_baboon_anim/97301d08942143cfbdf55f923aece48c.jpg"
+   },
+   {
+    "uid": "85165935cd18427489771b6f637387df",
+    "nombre": "3rror",
+    "autor": "scarybaboonripper2",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 15870,
+    "url": "https://sketchfab.com/3d-models/none-85165935cd18427489771b6f637387df",
+    "miniatura": "miniaturas/sf_baboon_anim/85165935cd18427489771b6f637387df.jpg"
+   },
+   {
+    "uid": "18c1c7dca3e048a892c31ab851aec645",
+    "nombre": "Meatman ( scary baboon )",
+    "autor": "zyed.ms",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5465,
+    "url": "https://sketchfab.com/3d-models/none-18c1c7dca3e048a892c31ab851aec645",
+    "miniatura": "miniaturas/sf_baboon_anim/18c1c7dca3e048a892c31ab851aec645.jpg"
+   },
+   {
+    "uid": "a62324a344b84d3aa010061e995b7ea6",
+    "nombre": "Creepy_baboon_bolt",
+    "autor": "masondecorian",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6766,
+    "url": "https://sketchfab.com/3d-models/none-a62324a344b84d3aa010061e995b7ea6",
+    "miniatura": "miniaturas/sf_baboon_anim/a62324a344b84d3aa010061e995b7ea6.jpg"
+   },
+   {
+    "uid": "433ce32a20c241e6a5e4831f209bfb98",
+    "nombre": "Creepy baboon bolt FBX",
+    "autor": "ScaredCHimpCreator",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6766,
+    "url": "https://sketchfab.com/3d-models/none-433ce32a20c241e6a5e4831f209bfb98",
+    "miniatura": "miniaturas/sf_baboon_anim/433ce32a20c241e6a5e4831f209bfb98.jpg"
+   },
+   {
+    "uid": "5810ae62182b4f7e96971f4f041cc8ec",
+    "nombre": "Scary Baboon Unknown Update Network Player",
+    "autor": "OreoDev",
+    "licencia": "CC Attribution",
+    "animaciones": 6,
+    "caras": 50672,
+    "url": "https://sketchfab.com/3d-models/none-5810ae62182b4f7e96971f4f041cc8ec",
+    "miniatura": "miniaturas/sf_baboon_anim/5810ae62182b4f7e96971f4f041cc8ec.jpg"
+   }
+  ],
+  "sf_primate_anim": [
+   {
+    "uid": "6132cf6cad8b4d8fa51bf4ee024952ab",
+    "nombre": "👑💪Uber Soldier (1961) - Wolf. New Colossus",
+    "autor": "Hot-Dog_1947",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 24,
+    "caras": 59168,
+    "url": "https://sketchfab.com/3d-models/none-6132cf6cad8b4d8fa51bf4ee024952ab",
+    "miniatura": "miniaturas/sf_primate_anim/6132cf6cad8b4d8fa51bf4ee024952ab.jpg"
+   },
+   {
+    "uid": "80fa91fc8c974fd0acd2a55cc513edec",
+    "nombre": "Moonbrand (Early 14th C Arming Sword)",
+    "autor": "oakeshott",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 44864,
+    "url": "https://sketchfab.com/3d-models/none-80fa91fc8c974fd0acd2a55cc513edec",
+    "miniatura": "miniaturas/sf_primate_anim/80fa91fc8c974fd0acd2a55cc513edec.jpg"
+   },
+   {
+    "uid": "a6723a072f44494bae90ffd4d90acff3",
+    "nombre": "👑💪 Super Soldier (1961 E) - Wolf. New Colossus",
+    "autor": "Hot-Dog_1947",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 61,
+    "caras": 73546,
+    "url": "https://sketchfab.com/3d-models/none-a6723a072f44494bae90ffd4d90acff3",
+    "miniatura": "miniaturas/sf_primate_anim/a6723a072f44494bae90ffd4d90acff3.jpg"
+   },
+   {
+    "uid": "465badf1051c4c27923f981d78d1343c",
+    "nombre": "👑💪 Zitadelle (1961) - Wolf. New Colossus",
+    "autor": "Hot-Dog_1947",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 59,
+    "caras": 189103,
+    "url": "https://sketchfab.com/3d-models/none-465badf1051c4c27923f981d78d1343c",
+    "miniatura": "miniaturas/sf_primate_anim/465badf1051c4c27923f981d78d1343c.jpg"
+   },
+   {
+    "uid": "90c33f66fb0c46429ec1d41ec58a718f",
+    "nombre": "Treebrary",
+    "autor": "imp0s5ible",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 25708,
+    "url": "https://sketchfab.com/3d-models/none-90c33f66fb0c46429ec1d41ec58a718f",
+    "miniatura": "miniaturas/sf_primate_anim/90c33f66fb0c46429ec1d41ec58a718f.jpg"
+   },
+   {
+    "uid": "c0af95a623734d7aba3ca13ce508975f",
+    "nombre": "Bombardier Learjet 35A",
+    "autor": "mudkipz321",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 2687995,
+    "url": "https://sketchfab.com/3d-models/none-c0af95a623734d7aba3ca13ce508975f",
+    "miniatura": "miniaturas/sf_primate_anim/c0af95a623734d7aba3ca13ce508975f.jpg"
+   },
+   {
+    "uid": "8160a53959584b73bb39c5ded453d737",
+    "nombre": "Nazi Infranty E (1961) - Wolf. New Colossus",
+    "autor": "Hot-Dog_1947",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 71,
+    "caras": 45408,
+    "url": "https://sketchfab.com/3d-models/none-8160a53959584b73bb39c5ded453d737",
+    "miniatura": "miniaturas/sf_primate_anim/8160a53959584b73bb39c5ded453d737.jpg"
+   },
+   {
+    "uid": "cfa8df9432624930a714c30c720ed10d",
+    "nombre": "Super Soldier 1946 - Wolf. Old Blood",
+    "autor": "Hot-Dog_1947",
+    "licencia": "CC Attribution",
+    "animaciones": 32,
+    "caras": 26834,
+    "url": "https://sketchfab.com/3d-models/none-cfa8df9432624930a714c30c720ed10d",
+    "miniatura": "miniaturas/sf_primate_anim/cfa8df9432624930a714c30c720ed10d.jpg"
+   },
+   {
+    "uid": "b0a6c146aae943b78b3c520c36d774d9",
+    "nombre": "QR A10 Neilson Class Steam Locomotive No.6",
+    "autor": "Jotrain",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 43950,
+    "url": "https://sketchfab.com/3d-models/none-b0a6c146aae943b78b3c520c36d774d9",
+    "miniatura": "miniaturas/sf_primate_anim/b0a6c146aae943b78b3c520c36d774d9.jpg"
+   },
+   {
+    "uid": "facb060916534e7eae8e6a5a8056185f",
+    "nombre": "African Elephant",
+    "autor": "Joseph.AD",
+    "licencia": "CC Attribution",
+    "animaciones": 8,
+    "caras": 3080,
+    "url": "https://sketchfab.com/3d-models/none-facb060916534e7eae8e6a5a8056185f",
+    "miniatura": "miniaturas/sf_primate_anim/facb060916534e7eae8e6a5a8056185f.jpg"
+   },
+   {
+    "uid": "ed6e4288c1494fc383a23868200eb82a",
+    "nombre": "Private Investigator (Detective)",
+    "autor": "jungle_jim",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 23796,
+    "url": "https://sketchfab.com/3d-models/none-ed6e4288c1494fc383a23868200eb82a",
+    "miniatura": "miniaturas/sf_primate_anim/ed6e4288c1494fc383a23868200eb82a.jpg"
+   },
+   {
+    "uid": "96ebf61af42b4062ae98a6ad848e1a25",
+    "nombre": "Tanker Ship",
+    "autor": "ArtBlender",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 193100,
+    "url": "https://sketchfab.com/3d-models/none-96ebf61af42b4062ae98a6ad848e1a25",
+    "miniatura": "miniaturas/sf_primate_anim/96ebf61af42b4062ae98a6ad848e1a25.jpg"
+   },
+   {
+    "uid": "b8b5c665df4a443788755ef61a6f85ac",
+    "nombre": "Fnaf- Shadow Toy Bonnie Model DOWNLOAD",
+    "autor": "SpringbonnieFan04",
+    "licencia": "CC Attribution",
+    "animaciones": 17,
+    "caras": 103680,
+    "url": "https://sketchfab.com/3d-models/none-b8b5c665df4a443788755ef61a6f85ac",
+    "miniatura": "miniaturas/sf_primate_anim/b8b5c665df4a443788755ef61a6f85ac.jpg"
+   },
+   {
+    "uid": "446b4fd1e027408baa8cc4b7c379b8b4",
+    "nombre": "TCS 2020 V10 (Regular Aspect Ratio)",
+    "autor": "kemari.deric",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 455807,
+    "url": "https://sketchfab.com/3d-models/none-446b4fd1e027408baa8cc4b7c379b8b4",
+    "miniatura": "miniaturas/sf_primate_anim/446b4fd1e027408baa8cc4b7c379b8b4.jpg"
+   },
+   {
+    "uid": "42bb1acc54ba498cb4e8539b51390e07",
+    "nombre": "titan speakerman",
+    "autor": "amogusstrikesback2",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 20074,
+    "url": "https://sketchfab.com/3d-models/none-42bb1acc54ba498cb4e8539b51390e07",
+    "miniatura": "miniaturas/sf_primate_anim/42bb1acc54ba498cb4e8539b51390e07.jpg"
+   },
+   {
+    "uid": "51a9a004ffb148939feac257f08171c2",
+    "nombre": "Ring-Tailed Lemur (Minecraft)",
+    "autor": "dinolover4242",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 120,
+    "url": "https://sketchfab.com/3d-models/none-51a9a004ffb148939feac257f08171c2",
+    "miniatura": "miniaturas/sf_primate_anim/51a9a004ffb148939feac257f08171c2.jpg"
+   },
+   {
+    "uid": "fb427492331d495194f48d0ee459f4e3",
+    "nombre": "Bubba Bubbaphant (GMOD)",
+    "autor": "Portycraft",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 6,
+    "caras": 64337,
+    "url": "https://sketchfab.com/3d-models/none-fb427492331d495194f48d0ee459f4e3",
+    "miniatura": "miniaturas/sf_primate_anim/fb427492331d495194f48d0ee459f4e3.jpg"
+   },
+   {
+    "uid": "1cc6b0d587ae4f4a9272d922d0a9b0d7",
+    "nombre": "Minecraft Ghast",
+    "autor": "AbhinavRaj50",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 36226,
+    "url": "https://sketchfab.com/3d-models/none-1cc6b0d587ae4f4a9272d922d0a9b0d7",
+    "miniatura": "miniaturas/sf_primate_anim/1cc6b0d587ae4f4a9272d922d0a9b0d7.jpg"
+   },
+   {
+    "uid": "5fe139562d4e4767b55e371477d983bc",
+    "nombre": "Morph Practice - Private Horror",
+    "autor": "Fausto_Javier_Da_Rosa",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1964,
+    "url": "https://sketchfab.com/3d-models/none-5fe139562d4e4767b55e371477d983bc",
+    "miniatura": "miniaturas/sf_primate_anim/5fe139562d4e4767b55e371477d983bc.jpg"
+   },
+   {
+    "uid": "2661aa81945d4bbb9017ed87d4d22c18",
+    "nombre": "A modular airplane cabin (very easy to edit)",
+    "autor": "agung.ihackstuff",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 752704,
+    "url": "https://sketchfab.com/3d-models/none-2661aa81945d4bbb9017ed87d4d22c18",
+    "miniatura": "miniaturas/sf_primate_anim/2661aa81945d4bbb9017ed87d4d22c18.jpg"
+   },
+   {
+    "uid": "4cace1a21e33412480be8dcef08fbc96",
+    "nombre": "Gorilla",
+    "autor": "Player1TheSFMAnimator",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4642,
+    "url": "https://sketchfab.com/3d-models/none-4cace1a21e33412480be8dcef08fbc96",
+    "miniatura": "miniaturas/sf_primate_anim/4cace1a21e33412480be8dcef08fbc96.jpg"
+   },
+   {
+    "uid": "160b9ace9fa340699c8a28f98d98fdb5",
+    "nombre": "Spider For Model Engine",
+    "autor": "SuccubusInSc",
+    "licencia": "CC Attribution",
+    "animaciones": 8,
+    "caras": 396,
+    "url": "https://sketchfab.com/3d-models/none-160b9ace9fa340699c8a28f98d98fdb5",
+    "miniatura": "miniaturas/sf_primate_anim/160b9ace9fa340699c8a28f98d98fdb5.jpg"
+   },
+   {
+    "uid": "25f0f1141cd24b3d9ad37d69fcb259c8",
+    "nombre": "Dino Crisis 3 - Kornephoros",
+    "autor": "ziggertron",
+    "licencia": "CC Attribution",
+    "animaciones": 144,
+    "caras": 3495,
+    "url": "https://sketchfab.com/3d-models/none-25f0f1141cd24b3d9ad37d69fcb259c8",
+    "miniatura": "miniaturas/sf_primate_anim/25f0f1141cd24b3d9ad37d69fcb259c8.jpg"
+   },
+   {
+    "uid": "1015f01f0bfa4987bcc7364fc7e50c4d",
+    "nombre": "Monkey Skull",
+    "autor": "wattinstitution",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 578631,
+    "url": "https://sketchfab.com/3d-models/none-1015f01f0bfa4987bcc7364fc7e50c4d",
+    "miniatura": "miniaturas/sf_primate_anim/1015f01f0bfa4987bcc7364fc7e50c4d.jpg"
+   },
+   {
+    "uid": "b467c7f3a4794c42b755618e94605b68",
+    "nombre": "The War of the Worlds | Fighting Machine",
+    "autor": "TheTripodGuy",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 18778,
+    "url": "https://sketchfab.com/3d-models/none-b467c7f3a4794c42b755618e94605b68",
+    "miniatura": "miniaturas/sf_primate_anim/b467c7f3a4794c42b755618e94605b68.jpg"
+   },
+   {
+    "uid": "a51f64340026461cafdced833879138c",
+    "nombre": "3D environment for game",
+    "autor": "abhishekgunnoo",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 186298,
+    "url": "https://sketchfab.com/3d-models/none-a51f64340026461cafdced833879138c",
+    "miniatura": "miniaturas/sf_primate_anim/a51f64340026461cafdced833879138c.jpg"
+   },
+   {
+    "uid": "af13c9d044ca4816ad1dabed976dcf3b",
+    "nombre": "20th Century Fox 1994 Recolor Remake",
+    "autor": "20thCenturytimpugh",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 81226,
+    "url": "https://sketchfab.com/3d-models/none-af13c9d044ca4816ad1dabed976dcf3b",
+    "miniatura": "miniaturas/sf_primate_anim/af13c9d044ca4816ad1dabed976dcf3b.jpg"
+   },
+   {
+    "uid": "6fdcf094fa4b42bfa99e168b4715bb66",
+    "nombre": "Dark Speakerman",
+    "autor": "Hydrax.",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 57315,
+    "url": "https://sketchfab.com/3d-models/none-6fdcf094fa4b42bfa99e168b4715bb66",
+    "miniatura": "miniaturas/sf_primate_anim/6fdcf094fa4b42bfa99e168b4715bb66.jpg"
+   },
+   {
+    "uid": "08258803321b4039b9409295f2ad09c3",
+    "nombre": "Blender Character",
+    "autor": "ZubairCG",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 17080,
+    "url": "https://sketchfab.com/3d-models/none-08258803321b4039b9409295f2ad09c3",
+    "miniatura": "miniaturas/sf_primate_anim/08258803321b4039b9409295f2ad09c3.jpg"
+   },
+   {
+    "uid": "77c9ae34a3534da7afb91c9cc481bae9",
+    "nombre": "Medieval Tediz (From Conker Gettin' Medieval)",
+    "autor": "A_fancy_bear",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 520350,
+    "url": "https://sketchfab.com/3d-models/none-77c9ae34a3534da7afb91c9cc481bae9",
+    "miniatura": "miniaturas/sf_primate_anim/77c9ae34a3534da7afb91c9cc481bae9.jpg"
+   },
+   {
+    "uid": "be835135434a4e8bad7c63d263a81d4b",
+    "nombre": "Ruffed Lemur (Minecraft)",
+    "autor": "dinolover4242",
+    "licencia": "CC Attribution",
+    "animaciones": 6,
+    "caras": 120,
+    "url": "https://sketchfab.com/3d-models/none-be835135434a4e8bad7c63d263a81d4b",
+    "miniatura": "miniaturas/sf_primate_anim/be835135434a4e8bad7c63d263a81d4b.jpg"
+   },
+   {
+    "uid": "6f990e97d8d34284872fdb28cb2b159d",
+    "nombre": "Risimon Logo",
+    "autor": "Sirolalo",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5714,
+    "url": "https://sketchfab.com/3d-models/none-6f990e97d8d34284872fdb28cb2b159d",
+    "miniatura": "miniaturas/sf_primate_anim/6f990e97d8d34284872fdb28cb2b159d.jpg"
+   },
+   {
+    "uid": "67818ed7370d49a1841fd10e527216ba",
+    "nombre": "Gorilla",
+    "autor": "voltairevillela",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 5500,
+    "url": "https://sketchfab.com/3d-models/none-67818ed7370d49a1841fd10e527216ba",
+    "miniatura": "miniaturas/sf_primate_anim/67818ed7370d49a1841fd10e527216ba.jpg"
+   },
+   {
+    "uid": "c199ee8389f94f90a561b50f3cdbf48e",
+    "nombre": "Private Jet (UNTEXTURED)",
+    "autor": "supr3m0",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 40634,
+    "url": "https://sketchfab.com/3d-models/none-c199ee8389f94f90a561b50f3cdbf48e",
+    "miniatura": "miniaturas/sf_primate_anim/c199ee8389f94f90a561b50f3cdbf48e.jpg"
+   },
+   {
+    "uid": "434b55a9708547e3b4397e8f8b3deb09",
+    "nombre": "Scanning 3d full human body by SUPER SCAN STUDIO",
+    "autor": "bianka3D",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 38178,
+    "url": "https://sketchfab.com/3d-models/none-434b55a9708547e3b4397e8f8b3deb09",
+    "miniatura": "miniaturas/sf_primate_anim/434b55a9708547e3b4397e8f8b3deb09.jpg"
+   },
+   {
+    "uid": "65b3a0d456784e588977feba82d7b28b",
+    "nombre": "Primate from primal fear/primate fear",
+    "autor": "lethalmodels",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 17508,
+    "url": "https://sketchfab.com/3d-models/none-65b3a0d456784e588977feba82d7b28b",
+    "miniatura": "miniaturas/sf_primate_anim/65b3a0d456784e588977feba82d7b28b.jpg"
+   },
+   {
+    "uid": "687c3e3605be4497893f347674069df9",
+    "nombre": "Orangutun",
+    "autor": "AneesAnimates",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 53682,
+    "url": "https://sketchfab.com/3d-models/none-687c3e3605be4497893f347674069df9",
+    "miniatura": "miniaturas/sf_primate_anim/687c3e3605be4497893f347674069df9.jpg"
+   },
+   {
+    "uid": "f8e44fb0237a4a0fa398d07b7b05a028",
+    "nombre": "Ruffed Lemur V2 (Minecraft)",
+    "autor": "dinolover4242",
+    "licencia": "CC Attribution",
+    "animaciones": 6,
+    "caras": 120,
+    "url": "https://sketchfab.com/3d-models/none-f8e44fb0237a4a0fa398d07b7b05a028",
+    "miniatura": "miniaturas/sf_primate_anim/f8e44fb0237a4a0fa398d07b7b05a028.jpg"
+   },
+   {
+    "uid": "e4e552875cc84d4cb9d04daa9fd226ed",
+    "nombre": "Crâne de Gorille",
+    "autor": "JChanteloupUPS",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 82500,
+    "url": "https://sketchfab.com/3d-models/none-e4e552875cc84d4cb9d04daa9fd226ed",
+    "miniatura": "miniaturas/sf_primate_anim/e4e552875cc84d4cb9d04daa9fd226ed.jpg"
+   },
+   {
+    "uid": "2061b48ecff84dd3b4f9de8f6c8a31f2",
+    "nombre": "Cessna Golden Eagle 421",
+    "autor": "al.sarem12",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 22109,
+    "url": "https://sketchfab.com/3d-models/none-2061b48ecff84dd3b4f9de8f6c8a31f2",
+    "miniatura": "miniaturas/sf_primate_anim/2061b48ecff84dd3b4f9de8f6c8a31f2.jpg"
+   },
+   {
+    "uid": "7da32df56d4b4b54b1bc350ac1ecf860",
+    "nombre": "RC Helicopter Animation",
+    "autor": "designwagoon",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 236948,
+    "url": "https://sketchfab.com/3d-models/none-7da32df56d4b4b54b1bc350ac1ecf860",
+    "miniatura": "miniaturas/sf_primate_anim/7da32df56d4b4b54b1bc350ac1ecf860.jpg"
+   },
+   {
+    "uid": "7d92fc0184db4ce2a0e17b6aed898699",
+    "nombre": "Verity Monster Open Mouth",
+    "autor": "c00lzer",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 813723,
+    "url": "https://sketchfab.com/3d-models/none-7d92fc0184db4ce2a0e17b6aed898699",
+    "miniatura": "miniaturas/sf_primate_anim/7d92fc0184db4ce2a0e17b6aed898699.jpg"
+   },
+   {
+    "uid": "e40494384950494f820e5746a26b220b",
+    "nombre": "YPM MAM.006878 Animation,Barbary macaque (skull)",
+    "autor": "yalepeabodymuseum",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1918188,
+    "url": "https://sketchfab.com/3d-models/none-e40494384950494f820e5746a26b220b",
+    "miniatura": "miniaturas/sf_primate_anim/e40494384950494f820e5746a26b220b.jpg"
+   },
+   {
+    "uid": "b6e11d995928432d9c951fe24920cb86",
+    "nombre": "Mech Animation Table Vise",
+    "autor": "designwagoon",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 32256,
+    "url": "https://sketchfab.com/3d-models/none-b6e11d995928432d9c951fe24920cb86",
+    "miniatura": "miniaturas/sf_primate_anim/b6e11d995928432d9c951fe24920cb86.jpg"
+   },
+   {
+    "uid": "28d37ae5e9df470eaf98e63f65f96285",
+    "nombre": "Deadboris",
+    "autor": "poltergust5191",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 149702,
+    "url": "https://sketchfab.com/3d-models/none-28d37ae5e9df470eaf98e63f65f96285",
+    "miniatura": "miniaturas/sf_primate_anim/28d37ae5e9df470eaf98e63f65f96285.jpg"
+   },
+   {
+    "uid": "55cfb6cb6d82407d9507355e23c847fb",
+    "nombre": "Subway Surfers Jake Character",
+    "autor": "Ubaidulllahansariking",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3008,
+    "url": "https://sketchfab.com/3d-models/none-55cfb6cb6d82407d9507355e23c847fb",
+    "miniatura": "miniaturas/sf_primate_anim/55cfb6cb6d82407d9507355e23c847fb.jpg"
+   },
+   {
+    "uid": "72da2fd251354f10bddecbc7f9078068",
+    "nombre": "Chimpanzee V2",
+    "autor": "Player1TheSFMAnimator",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 30935,
+    "url": "https://sketchfab.com/3d-models/none-72da2fd251354f10bddecbc7f9078068",
+    "miniatura": "miniaturas/sf_primate_anim/72da2fd251354f10bddecbc7f9078068.jpg"
+   },
+   {
+    "uid": "2ea2cb4170924c308389b948122896a9",
+    "nombre": "TCS 2020 V10",
+    "autor": "valentinorowland54",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 455807,
+    "url": "https://sketchfab.com/3d-models/none-2ea2cb4170924c308389b948122896a9",
+    "miniatura": "miniaturas/sf_primate_anim/2ea2cb4170924c308389b948122896a9.jpg"
+   },
+   {
+    "uid": "c53e8ca04bb54d5e8649d95b437e2ca3",
+    "nombre": "Male Chimpanzee Hairless: Rigged, Animated",
+    "autor": "animalanimator",
+    "licencia": "CC Attribution",
+    "animaciones": 5,
+    "caras": 48228,
+    "url": "https://sketchfab.com/3d-models/none-c53e8ca04bb54d5e8649d95b437e2ca3",
+    "miniatura": "miniaturas/sf_primate_anim/c53e8ca04bb54d5e8649d95b437e2ca3.jpg"
+   },
+   {
+    "uid": "d492e3d482ee48f798592a03bc0896bd",
+    "nombre": "Acidman [REDUX]",
+    "autor": "LordVerity",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 15236,
+    "url": "https://sketchfab.com/3d-models/none-d492e3d482ee48f798592a03bc0896bd",
+    "miniatura": "miniaturas/sf_primate_anim/d492e3d482ee48f798592a03bc0896bd.jpg"
+   },
+   {
+    "uid": "5e3f767200214bd09a1090b08738d2c1",
+    "nombre": "Mike Thriller dance(download)",
+    "autor": "ProBilly",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 2276,
+    "url": "https://sketchfab.com/3d-models/none-5e3f767200214bd09a1090b08738d2c1",
+    "miniatura": "miniaturas/sf_primate_anim/5e3f767200214bd09a1090b08738d2c1.jpg"
+   },
+   {
+    "uid": "dda171d2971c4c89b3dc1be028329469",
+    "nombre": "Ansiedad",
+    "autor": "ConstanzaValenzuela",
+    "licencia": "CC Attribution",
+    "animaciones": 8,
+    "caras": 18816,
+    "url": "https://sketchfab.com/3d-models/none-dda171d2971c4c89b3dc1be028329469",
+    "miniatura": "miniaturas/sf_primate_anim/dda171d2971c4c89b3dc1be028329469.jpg"
+   },
+   {
+    "uid": "cabdec7c2b204b5989a61d7ca6865ca6",
+    "nombre": "20th Century Fox 1994 Bylineless Remake",
+    "autor": "fanny_animation",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 76947,
+    "url": "https://sketchfab.com/3d-models/none-cabdec7c2b204b5989a61d7ca6865ca6",
+    "miniatura": "miniaturas/sf_primate_anim/cabdec7c2b204b5989a61d7ca6865ca6.jpg"
+   },
+   {
+    "uid": "c0616d50e9454186b1a48434326de6de",
+    "nombre": "Primate Monke chase 2: the Monkefell",
+    "autor": "Zander072013",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 17508,
+    "url": "https://sketchfab.com/3d-models/none-c0616d50e9454186b1a48434326de6de",
+    "miniatura": "miniaturas/sf_primate_anim/c0616d50e9454186b1a48434326de6de.jpg"
+   },
+   {
+    "uid": "42f37658f4d24271b4092f27bab40923",
+    "nombre": "Private Helicopter",
+    "autor": "dodgerules1",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 73308,
+    "url": "https://sketchfab.com/3d-models/none-42f37658f4d24271b4092f27bab40923",
+    "miniatura": "miniaturas/sf_primate_anim/42f37658f4d24271b4092f27bab40923.jpg"
+   },
+   {
+    "uid": "34ea8a2eaa534a75bd2522214e2a26fd",
+    "nombre": "Koba",
+    "autor": "Player1TheSFMAnimator",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 36200,
+    "url": "https://sketchfab.com/3d-models/none-34ea8a2eaa534a75bd2522214e2a26fd",
+    "miniatura": "miniaturas/sf_primate_anim/34ea8a2eaa534a75bd2522214e2a26fd.jpg"
+   },
+   {
+    "uid": "3be406b88c07407094872918f8f19f52",
+    "nombre": "Primate Primal fear",
+    "autor": "DontCallMeRuby",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 15972,
+    "url": "https://sketchfab.com/3d-models/none-3be406b88c07407094872918f8f19f52",
+    "miniatura": "miniaturas/sf_primate_anim/3be406b88c07407094872918f8f19f52.jpg"
+   },
+   {
+    "uid": "3c6c5860e9814dbfbc415bea745a31a5",
+    "nombre": "meatguy from primate fear",
+    "autor": "lethalmodels",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 16822,
+    "url": "https://sketchfab.com/3d-models/none-3c6c5860e9814dbfbc415bea745a31a5",
+    "miniatura": "miniaturas/sf_primate_anim/3c6c5860e9814dbfbc415bea745a31a5.jpg"
+   },
+   {
+    "uid": "e879226b144f454cbfed0be5a50cfd9b",
+    "nombre": "Tarsier",
+    "autor": "therebanism",
+    "licencia": "CC Attribution",
+    "animaciones": 18,
+    "caras": 1616,
+    "url": "https://sketchfab.com/3d-models/none-e879226b144f454cbfed0be5a50cfd9b",
+    "miniatura": "miniaturas/sf_primate_anim/e879226b144f454cbfed0be5a50cfd9b.jpg"
+   },
+   {
+    "uid": "1f8f5ba8fb9f4da6baf09fcc5bf72189",
+    "nombre": "Chimpanzee V3",
+    "autor": "Player1TheSFMAnimator",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 30935,
+    "url": "https://sketchfab.com/3d-models/none-1f8f5ba8fb9f4da6baf09fcc5bf72189",
+    "miniatura": "miniaturas/sf_primate_anim/1f8f5ba8fb9f4da6baf09fcc5bf72189.jpg"
+   }
+  ]
+ }
+}
