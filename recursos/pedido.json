@@ -1,67 +1,72 @@
 {
  "catalogo": false,
- "informe": "informe_busqueda3.json",
+ "informe": "informe_busqueda4.json",
+ "objaverse": [
+  {
+   "uid": "f97acacd76be484dbf0243d82f6a1c44",
+   "nombre": "ciclista",
+   "titulo": "Cyclist - racing position - free 3d printable",
+   "autor": "Andywoodhead",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-f97acacd76be484dbf0243d82f6a1c44",
+   "caras": 478865,
+   "anim": 0
+  }
+ ],
  "sketchfab_buscar": [
   {
-   "clave": "gente1",
-   "q": "man reading newspaper",
-   "paginas": 6,
+   "clave": "g1",
+   "q": "pedestrian",
+   "paginas": 8,
    "solo_objaverse": true,
    "max": 30
   },
   {
-   "clave": "gente2",
-   "q": "woman shopping bags",
-   "paginas": 6,
+   "clave": "g2",
+   "q": "people pack",
+   "paginas": 8,
    "solo_objaverse": true,
    "max": 30
   },
   {
-   "clave": "gente3",
-   "q": "cyclist bicycle",
-   "paginas": 6,
+   "clave": "g3",
+   "q": "man walking",
+   "paginas": 8,
    "solo_objaverse": true,
    "max": 30
   },
   {
-   "clave": "gente4",
-   "q": "waiter tray",
-   "paginas": 6,
+   "clave": "g4",
+   "q": "woman standing",
+   "paginas": 8,
    "solo_objaverse": true,
    "max": 30
   },
   {
-   "clave": "gente5",
-   "q": "person scan standing",
-   "paginas": 6,
+   "clave": "g5",
+   "q": "business man",
+   "paginas": 8,
    "solo_objaverse": true,
    "max": 30
   },
   {
-   "clave": "gente6",
-   "q": "man sitting cafe",
-   "paginas": 6,
+   "clave": "g6",
+   "q": "old man",
+   "paginas": 8,
    "solo_objaverse": true,
    "max": 30
   },
   {
-   "clave": "gente7",
-   "q": "3d scan people",
-   "paginas": 6,
+   "clave": "g7",
+   "q": "girl standing",
+   "paginas": 8,
    "solo_objaverse": true,
    "max": 30
   },
   {
-   "clave": "gente8",
-   "q": "woman walking scan",
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 30
-  },
-  {
-   "clave": "gente9",
-   "q": "realistic man standing",
-   "paginas": 6,
+   "clave": "g8",
+   "q": "rigged human character",
+   "paginas": 8,
    "solo_objaverse": true,
    "max": 30
   }
