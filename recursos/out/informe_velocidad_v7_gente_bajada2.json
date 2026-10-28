@@ -1,0 +1,108 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/pareja_caminando.glb",
+   "mb": 1.5
+  },
+  {
+   "destino": "objaverse/mujer_telefono2.glb",
+   "mb": 7.83
+  },
+  {
+   "destino": "objaverse/hombre_telefono2.glb",
+   "mb": 10.12
+  },
+  {
+   "destino": "objaverse/hombre_telefono_camina2.glb",
+   "mb": 10.45
+  },
+  {
+   "destino": "objaverse/hombre_corriendo.glb",
+   "mb": 0.3
+  },
+  {
+   "destino": "objaverse/mujer_caminando.glb",
+   "mb": 14.86
+  },
+  {
+   "destino": "objaverse/hombre_caminando_verde.glb",
+   "mb": 3.67
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "pareja_caminando": {
+   "uid": "bbaa566445074509a32ef5059a9d0bc2",
+   "nombre": "pareja_caminando",
+   "titulo": "Man Woman Walk",
+   "autor": "iko.gazette",
+   "licencia": "CC Attribution",
+   "caras": 16231,
+   "anim": 1
+  },
+  "mujer_telefono2": {
+   "uid": "b4d00bf20dd84b3d9842fdb1744555be",
+   "nombre": "mujer_telefono2",
+   "titulo": "Mia Talking On Phone",
+   "autor": "instideal2019",
+   "licencia": "CC Attribution",
+   "caras": 35821,
+   "anim": 1
+  },
+  "hombre_telefono2": {
+   "uid": "b69d149f87a94a058fc4e8adb58ebbbf",
+   "nombre": "hombre_telefono2",
+   "titulo": "Mr Man Talking On A Cell Phone",
+   "autor": "instideal2019",
+   "licencia": "CC Attribution",
+   "caras": 41407,
+   "anim": 1
+  },
+  "hombre_telefono_camina2": {
+   "uid": "9d3f3674bcf849e099d1d0da4de33e40",
+   "nombre": "hombre_telefono_camina2",
+   "titulo": "Mr Man Talking Phone Pacing",
+   "autor": "instideal2019",
+   "licencia": "CC Attribution",
+   "caras": 41407,
+   "anim": 1
+  },
+  "hombre_corriendo": {
+   "uid": "ed3d7a4b8b124e1591be83ccb4c02dcd",
+   "nombre": "hombre_corriendo",
+   "titulo": "Male Running (20 frames loop)",
+   "autor": "denysalmaral",
+   "licencia": "Free Standard",
+   "caras": 1552,
+   "anim": 1
+  },
+  "mujer_caminando": {
+   "uid": "d3f65ad04ec845b197a689db48ec4329",
+   "nombre": "mujer_caminando",
+   "titulo": "Nilda Female Character Walk Animation",
+   "autor": "kelvin-carvalho",
+   "licencia": "CC Attribution",
+   "caras": 12352,
+   "anim": 1
+  },
+  "hombre_caminando_verde": {
+   "uid": "d3a292ede4954c9aaf88e9c58d364a15",
+   "nombre": "hombre_caminando_verde",
+   "titulo": "Character test - Walking",
+   "autor": "leoskateman",
+   "licencia": "CC Attribution",
+   "caras": 26196,
+   "anim": 1
+  },
+  "hombre_casual": {
+   "uid": "05d9dd5bdddd4157bd46dc179781ee6e",
+   "nombre": "hombre_casual",
+   "titulo": "Casual Man Character",
+   "autor": "strielecki",
+   "licencia": "CC Attribution",
+   "caras": 10962,
+   "anim": 1
+  }
+ }
+}
