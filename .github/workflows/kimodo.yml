@@ -18,16 +18,30 @@ defaults:
     shell: bash -eo pipefail {0}
 
 jobs:
+  plan:
+    runs-on: ubuntu-24.04
+    outputs:
+      shards: ${{ steps.p.outputs.shards }}
+      n: ${{ steps.p.outputs.n }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: p
+        run: |
+          N=$(python3 -c "import json;print(min(20,len(json.load(open('kimodo_jobs/jobs.json')))))")
+          echo "n=$N" >> "$GITHUB_OUTPUT"
+          echo "shards=$(python3 -c "print(list(range($N)))")" >> "$GITHUB_OUTPUT"
+
   generate:
+    needs: plan
     runs-on: ubuntu-24.04
     timeout-minutes: 340
     strategy:
       fail-fast: false
       matrix:
-        shard: [0, 1, 2, 3]
+        shard: ${{ fromJson(needs.plan.outputs.shards) }}
     env:
       SHARD: ${{ matrix.shard }}
-      NSHARDS: 4
+      NSHARDS: ${{ needs.plan.outputs.n }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -99,7 +113,7 @@ jobs:
           git add kimodo_out
           git commit -m "Resultados Kimodo parte ${SHARD} [skip ci]" || echo "nada que guardar"
           cp kimodo_log.txt "kimodo_out/kimodo_log_${SHARD}.txt" 2>/dev/null || true; git add kimodo_out; git commit --amend --no-edit -q || true
-          for i in 1 2 3 4 5 6 7 8; do
+          for i in $(seq 1 30); do
             git pull --rebase -q origin kimodo-jobs && git push origin HEAD:kimodo-jobs && break
-            sleep $((RANDOM % 20 + 5))
+            sleep $((RANDOM % 25 + 5))
           done
