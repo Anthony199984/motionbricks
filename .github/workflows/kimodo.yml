@@ -68,7 +68,7 @@ jobs:
           head -c 3000 weights/text_manifest/MANIFEST.json; echo
           echo "--- archivos del repo de texto ---"
           python3 -c "from huggingface_hub import list_repo_files as l; [print(f) for f in l('LocalAI-io/Llama-3-Kimodo-GGML')]"
-          hf download LocalAI-io/Llama-3-Kimodo-GGML --include "*Q8_0*.gguf" "*tokenizer*.gguf" --local-dir weights
+          hf download LocalAI-io/Llama-3-Kimodo-GGML Llama-3-Kimodo-Q8_0.gguf tokenizer.gguf --local-dir weights
           find weights -name "*.gguf" -exec ls -la {} \;
           Q8=$(find weights -name "Llama-3-Kimodo-Q8_0.gguf" | head -1)
           TOK=$(find weights -name "tokenizer.gguf" | head -1)
