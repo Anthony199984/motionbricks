@@ -1,0 +1,44 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/papas_bandeja_ok.glb",
+   "mb": 2.97
+  },
+  {
+   "destino": "objaverse/camisa_corta_ok.glb",
+   "mb": 2.3
+  },
+  {
+   "destino": "objaverse/percheros_abrigos_ok.glb",
+   "mb": 1.88
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "papas_bandeja_ok": {
+   "uid": "51a0806ac1674209baa6dd89d830d1a8",
+   "nombre": "papas_bandeja_ok",
+   "titulo": "French fries tray",
+   "autor": "edemaistre",
+   "licencia": "CC Attribution",
+   "caras": 44171
+  },
+  "camisa_corta_ok": {
+   "uid": "c8d6912dc26340768dfaca1a83c4dd5e",
+   "nombre": "camisa_corta_ok",
+   "titulo": "Short Sleeve Shirt",
+   "autor": "Gammawolf",
+   "licencia": "CC Attribution",
+   "caras": 5066
+  },
+  "percheros_abrigos_ok": {
+   "uid": "2e167d18d42a4a04b73eb6cb2c9bd509",
+   "nombre": "percheros_abrigos_ok",
+   "titulo": "Standing Coat Racks",
+   "autor": "sapizon",
+   "licencia": "CC Attribution",
+   "caras": 2560
+  }
+ }
+}
