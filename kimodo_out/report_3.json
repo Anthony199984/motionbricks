@@ -1,0 +1,17 @@
+{
+ "total_seconds": 980.9,
+ "jobs": [
+  {
+   "name": "04b_pechadas",
+   "response": "OK\t150\t30",
+   "seconds": 490.7,
+   "frames": 150
+  },
+  {
+   "name": "04d_pechadas",
+   "response": "OK\t150\t30",
+   "seconds": 490.1,
+   "frames": 150
+  }
+ ]
+}
