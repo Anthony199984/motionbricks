@@ -1,11 +1,11 @@
 {
- "total_seconds": 247.5,
+ "total_seconds": 213.2,
  "jobs": [
   {
-   "name": "mn01_muerde_chocolate_b",
-   "response": "OK\t150\t30",
-   "seconds": 247.4,
-   "frames": 150
+   "name": "sv16_resbalar_fuerte_b",
+   "response": "OK\t120\t30",
+   "seconds": 213.1,
+   "frames": 120
   }
  ]
 }
