@@ -1,11 +1,11 @@
 {
- "total_seconds": 170.1,
+ "total_seconds": 172.7,
  "jobs": [
   {
-   "name": "sv10b_mirar_atras_b",
-   "response": "OK\t90\t30",
-   "seconds": 170.0,
-   "frames": 90
+   "name": "mn03_inclina_mirar",
+   "response": "OK\t120\t30",
+   "seconds": 172.7,
+   "frames": 120
   }
  ]
 }
