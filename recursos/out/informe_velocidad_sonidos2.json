@@ -1,0 +1,2205 @@
+{
+ "bajados": [
+  {
+   "destino": "sonidos/mk_whoosh/Air_woosh_1489-preview.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mk_whoosh/Cinematic_whoosh_fast_transition_1492-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mk_whoosh/Arrow_whoosh_1491-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mk_whoosh/Fast_rocket_whoosh_1714-preview.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/mk_whoosh/Fast_whoosh_transition_1490-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mk_whoosh/Cinematic_tunnel_reverb_woosh_1486-preview.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/mk_whoosh/Explainer_video_pops_whoosh_light_pop_3005-preview.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mk_whoosh/Magic_sparkle_whoosh_2350-preview.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/mk_whoosh/Metal_hit_woosh_1485-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mk_whoosh/Cinematic_whoosh_stutter_787-preview.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/mk_glass/Water_bubble_1317-preview.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mk_glass/Glass_break_with_hammer_thud_759-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mk_glass/Pouring_water_in_a_glass_2826-preview.mp3",
+   "mb": 0.26
+  },
+  {
+   "destino": "sonidos/mk_glass/Glasses_clinking_2836-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mk_glass/Glass_hitting_a_metal_2183-preview.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mk_glass/Heavy_rain_on_car_glass_interior_1248-preview.mp3",
+   "mb": 1.16
+  },
+  {
+   "destino": "sonidos/mk_glass/Wine_glass_clink_2936-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mk_glass/Pouring_soda_in_a_glass_2833-preview.mp3",
+   "mb": 0.21
+  },
+  {
+   "destino": "sonidos/mk_glass/Liquid_poured_in_a_jar_with_ice_125-preview.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/mk_glass/Dropping_ice_into_a_glass_2834-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mk_wind/Big_cinematic_impact_788-preview.mp3",
+   "mb": 0.22
+  },
+  {
+   "destino": "sonidos/mk_wind/Air_zoom_vacuum_2608-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mk_wind/Wind_blowing_ambience_2658-preview.mp3",
+   "mb": 1.79
+  },
+  {
+   "destino": "sonidos/mk_wind/Transition_windy_swoosh_1474-preview.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/mk_wind/Cinematic_wind_swoosh_1471-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mk_wind/Short_wind_swoosh_1461-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mk_wind/Wind_in_the_top_of_the_mountain_1267-preview.mp3",
+   "mb": 0.95
+  },
+  {
+   "destino": "sonidos/mk_wind/Scary_graveyard_wind_1157-preview.mp3",
+   "mb": 0.35
+  },
+  {
+   "destino": "sonidos/mk_wind/Deep_cinematic_wind_hum_1177-preview.mp3",
+   "mb": 1.54
+  },
+  {
+   "destino": "sonidos/mk_wind/Woosh_wind_1168-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mk_dog/Dog_barking_twice_1-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mk_dog/Horde_of_barking_dogs_60-preview.mp3",
+   "mb": 0.31
+  },
+  {
+   "destino": "sonidos/mk_dog/Medium_size_angry_dog_bark_54-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mk_dog/Happy_puppy_barks_741-preview.mp3",
+   "mb": 0.2
+  },
+  {
+   "destino": "sonidos/mk_dog/Giant_dog_aggressive_growl_59-preview.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/mk_dog/Annoyed_big_dog_barking_51-preview.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/mk_dog/Dog_whimper_sad_466-preview.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/mk_dog/Big_tired_dog_panting_52-preview.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/mk_dog/Dog_sad_whimper_467-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mk_dog/Hellhound_monster_attack_dog_wolf_creature_3015-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mk_bat/Little_bat_squeak_314-preview.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mk_insect/Crickets_and_insects_in_the_wild_ambience_39-preview.mp3",
+   "mb": 0.78
+  },
+  {
+   "destino": "sonidos/mk_insect/Night_forest_with_insects_2414-preview.mp3",
+   "mb": 2.6
+  },
+  {
+   "destino": "sonidos/mk_insect/Flickering_insect_whoosh_2651-preview.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/mk_insect/Cartoon_insect_running_fast_37-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mk_insect/Robotic_insect_buzz_332-preview.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/mk_insect/River_atmosphere_in_a_forest_2450-preview.mp3",
+   "mb": 3.65
+  },
+  {
+   "destino": "sonidos/mk_insect/Big_bee_hard_flying_sound_42-preview.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mk_insect/Insects_birds_and_frogs_in_the_swamp_ambience_40-preview.mp3",
+   "mb": 0.66
+  },
+  {
+   "destino": "sonidos/mk_insect/Bee_buzz_1926-preview.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/mk_insect/Large_fly_buzzing_41-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mk_fly/Fly_wings_movement_2697-preview.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/mk_fly/Large_fly_buzzing_41-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mk_fly/Fly_buzz_trapped_in_a_window_2695-preview.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/mk_fly/Fly_buzzing_and_bouncing_326-preview.mp3",
+   "mb": 0.8
+  },
+  {
+   "destino": "sonidos/mk_footsteps/Footsteps_on_tall_grass_532-preview.mp3",
+   "mb": 0.76
+  },
+  {
+   "destino": "sonidos/mk_footsteps/Footsteps_on_heels_on_the_pavement_542-preview.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/mk_footsteps/Running_through_the_forest_1232-preview.mp3",
+   "mb": 0.44
+  },
+  {
+   "destino": "sonidos/mk_footsteps/Footsteps_in_the_forest_ground_1230-preview.mp3",
+   "mb": 1.08
+  },
+  {
+   "destino": "sonidos/mk_footsteps/Street_ambience_with_walking_people_375-preview.mp3",
+   "mb": 1.42
+  },
+  {
+   "destino": "sonidos/mk_footsteps/Footsteps_in_a_tunnel_loop_543-preview.mp3",
+   "mb": 0.25
+  },
+  {
+   "destino": "sonidos/mk_footsteps/Walking_on_stones_loop_1269-preview.mp3",
+   "mb": 0.36
+  },
+  {
+   "destino": "sonidos/mk_footsteps/Footsteps_on_mattress_loop_534-preview.mp3",
+   "mb": 0.79
+  },
+  {
+   "destino": "sonidos/mk_footsteps/Crunchy_road_fast_walking_loop_1274-preview.mp3",
+   "mb": 0.73
+  },
+  {
+   "destino": "sonidos/mk_footsteps/Big_army_crowd_marching_461-preview.mp3",
+   "mb": 0.26
+  },
+  {
+   "destino": "sonidos/mk_running/Running_through_the_forest_1232-preview.mp3",
+   "mb": 0.44
+  },
+  {
+   "destino": "sonidos/mk_running/Crunchy_road_fast_walking_loop_1274-preview.mp3",
+   "mb": 0.73
+  },
+  {
+   "destino": "sonidos/mk_running/Game_level_music_689-preview.mp3",
+   "mb": 0.82
+  },
+  {
+   "destino": "sonidos/mk_running/Man_running_in_the_forest_1236-preview.mp3",
+   "mb": 0.35
+  },
+  {
+   "destino": "sonidos/mk_running/Crunchy_footsteps_loop_535-preview.mp3",
+   "mb": 0.32
+  },
+  {
+   "destino": "sonidos/mk_running/Futuristic_technology_workshop_ambience_2506-preview.mp3",
+   "mb": 0.51
+  },
+  {
+   "destino": "sonidos/mk_running/Arcade_retro_run_sound_220-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mk_running/Running_out_from_sea_1192-preview.mp3",
+   "mb": 0.25
+  },
+  {
+   "destino": "sonidos/mk_running/Race_countdown_1953-preview.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/mk_running/Arcade_race_game_countdown_1952-preview.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/mk_splash/Light_rain_loop_2393-preview.mp3",
+   "mb": 0.48
+  },
+  {
+   "destino": "sonidos/mk_splash/Water_splash_1311-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mk_splash/Jump_into_the_water_1180-preview.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mk_splash/Gore_video_game_blood_splash_263-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mk_splash/Sea_water_splash_1198-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mk_splash/Water_drop_splashes_in_cave_3179-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mk_splash/Fish_flapping_2457-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mk_splash/Rain_splashing_1264-preview.mp3",
+   "mb": 0.38
+  },
+  {
+   "destino": "sonidos/mk_splash/Funny_cartoon_splash_2884-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mk_splash/Fall_on_foam_splash_754-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mk_water/Hard_pop_click_2364-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mk_water/Sea_waves_with_birds_loop_1185-preview.mp3",
+   "mb": 1.12
+  },
+  {
+   "destino": "sonidos/mk_water/Birds_chirping_near_the_river_2473-preview.mp3",
+   "mb": 2.67
+  },
+  {
+   "destino": "sonidos/mk_water/Water_flowing_ambience_loop_3126-preview.mp3",
+   "mb": 1.61
+  },
+  {
+   "destino": "sonidos/mk_water/Water_bubble_1317-preview.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mk_water/Pouring_water_in_a_glass_2826-preview.mp3",
+   "mb": 0.26
+  },
+  {
+   "destino": "sonidos/mk_water/Natural_ambience_with_flowing_water_and_birds_61-preview.mp3",
+   "mb": 1.42
+  },
+  {
+   "destino": "sonidos/mk_water/Water_splash_1311-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mk_water/River_water_flowing_2454-preview.mp3",
+   "mb": 5.3
+  },
+  {
+   "destino": "sonidos/mk_water/Liquid_bubble_3000-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mk_explosion/Epic_impact_afar_explosion_2782-preview.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/mk_explosion/Dramatic_metal_explosion_impact_1687-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mk_explosion/Explosion_hit_1704-preview.mp3",
+   "mb": 0.24
+  },
+  {
+   "destino": "sonidos/mk_explosion/Distant_thunder_explosion_1278-preview.mp3",
+   "mb": 0.38
+  },
+  {
+   "destino": "sonidos/mk_explosion/Bomb_drop_impact_2804-preview.mp3",
+   "mb": 0.24
+  },
+  {
+   "destino": "sonidos/mk_explosion/Trailer_screaming_people_annihilation_351-preview.mp3",
+   "mb": 0.3
+  },
+  {
+   "destino": "sonidos/mk_explosion/Car_explosion_debris_1562-preview.mp3",
+   "mb": 0.29
+  },
+  {
+   "destino": "sonidos/mk_explosion/Drums_of_war_call_2780-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mk_explosion/Heavy_electric_shockwave_impact_2599-preview.mp3",
+   "mb": 0.21
+  },
+  {
+   "destino": "sonidos/mk_explosion/Truck_crash_with_explosion_1616-preview.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/mk_impact/Cinematic_whoosh_deep_impact_1143-preview.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/mk_impact/Big_cinematic_impact_788-preview.mp3",
+   "mb": 0.22
+  },
+  {
+   "destino": "sonidos/mk_impact/Movie_trailer_epic_impact_2908-preview.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/mk_impact/Strong_punches_to_the_body_2198-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mk_impact/Epic_impact_afar_explosion_2782-preview.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/mk_impact/Deep_heartbeat_impact_498-preview.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/mk_impact/Wood_hard_hit_2182-preview.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mk_impact/Shot_light_energy_flowing_2589-preview.mp3",
+   "mb": 0.22
+  },
+  {
+   "destino": "sonidos/mk_impact/Dramatic_metal_explosion_impact_1687-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mk_impact/Movie_impact_intro_presentation_2902-preview.mp3",
+   "mb": 0.18
+  },
+  {
+   "destino": "sonidos/mk_boom/Movie_impact_intro_presentation_2902-preview.mp3",
+   "mb": 0.18
+  },
+  {
+   "destino": "sonidos/mk_boom/Human_single_heart_beat_490-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mk_boom/8-bit_explosion_gun_2779-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mk_boom/Intro_news_sound_1151-preview.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/mk_boom/Tribal_ritual_drums_567-preview.mp3",
+   "mb": 0.62
+  },
+  {
+   "destino": "sonidos/mk_boom/8-bit_game_shots_2778-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mk_boom/Short_explosion_1694-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mk_boom/Arcade_game_explosion_2759-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mk_boom/Introduction_bell_sound_1150-preview.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/mk_boom/Distant_explosion_1690-preview.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/mk_crash/Dramatic_metal_explosion_impact_1687-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mk_crash/Truck_crash_with_explosion_1616-preview.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/mk_crash/Underground_explosion_impact_echo_1686-preview.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/mk_crash/Factory_metal_hard_hit_2980-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mk_crash/Joke_drums_578-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mk_crash/Collapsing_structure_2958-preview.mp3",
+   "mb": 0.18
+  },
+  {
+   "destino": "sonidos/mk_crash/Distant_explosion_1690-preview.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/mk_crash/Falling_empty_can_389-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mk_crash/Thunder_strike_in_storm_2405-preview.mp3",
+   "mb": 0.22
+  },
+  {
+   "destino": "sonidos/mk_crash/Bomb_drop_cold_water_explosion_2806-preview.mp3",
+   "mb": 0.27
+  },
+  {
+   "destino": "sonidos/mk_eating/Eating_crunchy_food_with_mouth_open_120-preview.mp3",
+   "mb": 0.4
+  },
+  {
+   "destino": "sonidos/mk_eating/Eating_crispy_cookies_122-preview.mp3",
+   "mb": 0.54
+  },
+  {
+   "destino": "sonidos/mk_eating/Animal_eating_juicy_meat_2246-preview.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/mk_eating/Human_eating_a_potato_chip_131-preview.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/mk_eating/Hungry_man_eating_2252-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mk_eating/Animal_eating_herb_2241-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mk_eating/Eating_and_biting_crunchy_food_118-preview.mp3",
+   "mb": 0.5
+  },
+  {
+   "destino": "sonidos/mk_eating/Human_eating_dry_cereal_130-preview.mp3",
+   "mb": 0.41
+  },
+  {
+   "destino": "sonidos/mk_eating/Human_eating_delicious_crispy_food_115-preview.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/mk_eating/Animal_eating_flesh_2245-preview.mp3",
+   "mb": 0.49
+  },
+  {
+   "destino": "sonidos/mk_bird/Little_birds_singing_in_the_trees_17-preview.mp3",
+   "mb": 0.25
+  },
+  {
+   "destino": "sonidos/mk_bird/Morning_birds_2472-preview.mp3",
+   "mb": 6.24
+  },
+  {
+   "destino": "sonidos/mk_bird/Sea_waves_with_birds_loop_1185-preview.mp3",
+   "mb": 1.12
+  },
+  {
+   "destino": "sonidos/mk_bird/Forest_birds_ambience_1210-preview.mp3",
+   "mb": 4.5
+  },
+  {
+   "destino": "sonidos/mk_bird/Forest_birds_singing_1212-preview.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mk_bird/Cartoon_dazzle_hit_and_birds_746-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mk_bird/Birds_chirping_near_the_river_2473-preview.mp3",
+   "mb": 2.67
+  },
+  {
+   "destino": "sonidos/mk_bird/Flock_of_wild_geese_20-preview.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/mk_bird/Running_through_the_forest_1232-preview.mp3",
+   "mb": 0.44
+  },
+  {
+   "destino": "sonidos/mk_bird/Natural_ambience_with_flowing_water_and_birds_61-preview.mp3",
+   "mb": 1.42
+  },
+  {
+   "destino": "sonidos/mk_pigeon/Chickens_and_pigeons_1769-preview.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/mk_pigeon/Pigeon_coo_ambiance_sounds_74-preview.mp3",
+   "mb": 0.18
+  },
+  {
+   "destino": "sonidos/mk_pigeon/Pigeons_flutter_ambience_73-preview.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/mk_brake/Tree_branch_brake_2943-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mk_squeak/Cartoon_panic_squeak_1010-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mk_squeak/Rubber_duck_squeak_1014-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mk_squeak/Little_cartoon_creature_hiccup_10-preview.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mk_squeak/Wet_accident_fart_3041-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mk_squeak/Chair_seat_wood_squeak_1016-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mk_squeak/Rubber_squeaking_1009-preview.mp3",
+   "mb": 0.18
+  },
+  {
+   "destino": "sonidos/mk_squeak/Squeak_notification_1017-preview.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mk_squeak/Balloon_long_air_release_squeak_1020-preview.mp3",
+   "mb": 0.26
+  },
+  {
+   "destino": "sonidos/mk_squeak/Rubber_fast_squeak_1013-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mk_squeak/Mouse_squeak_1019-preview.mp3",
+   "mb": 0.0
+  },
+  {
+   "destino": "sonidos/mk_heartbeat/Cinematic_transition_swoosh_heartbeat_trailer_488-preview.mp3",
+   "mb": 0.23
+  },
+  {
+   "destino": "sonidos/mk_heartbeat/Cinematic_mystery_heartbeat_transition_492-preview.mp3",
+   "mb": 1.99
+  },
+  {
+   "destino": "sonidos/mk_heartbeat/Hard_horror_hit_drum_565-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mk_heartbeat/Cinematic_heartbeat_ambience_497-preview.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/mk_heartbeat/Cinematic_horror_heartbeat_transition_489-preview.mp3",
+   "mb": 1.29
+  },
+  {
+   "destino": "sonidos/mk_heartbeat/Human_single_heart_beat_490-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mk_heartbeat/Horror_deep_drum_heartbeat_559-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mk_heartbeat/Slow_heartbeat_494-preview.mp3",
+   "mb": 1.24
+  },
+  {
+   "destino": "sonidos/mk_heartbeat/Fast_Heartbeat_493-preview.mp3",
+   "mb": 0.3
+  },
+  {
+   "destino": "sonidos/mk_heartbeat/Heartbeat_medium_speed_495-preview.mp3",
+   "mb": 0.67
+  },
+  {
+   "destino": "sonidos/mk_clock/Tick_tock_clock_close_up_1059-preview.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/mk_clock/Tick_tock_clock_timer_1045-preview.mp3",
+   "mb": 0.5
+  },
+  {
+   "destino": "sonidos/mk_clock/Wall_clock_tick_tock_1060-preview.mp3",
+   "mb": 0.54
+  },
+  {
+   "destino": "sonidos/mk_clock/Alarm_clock_beep_988-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mk_clock/Fast_wall_clock_ticking_1063-preview.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mk_clock/Clock_ticker_single_1061-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mk_clock/Bell_tick_tock_timer_1046-preview.mp3",
+   "mb": 1.44
+  },
+  {
+   "destino": "sonidos/mk_clock/Ticking_timer_1056-preview.mp3",
+   "mb": 0.3
+  },
+  {
+   "destino": "sonidos/mk_clock/Percussion_tick-tock_timer_1047-preview.mp3",
+   "mb": 0.75
+  },
+  {
+   "destino": "sonidos/mk_clock/Old_clock_pendulum_ticking_1072-preview.mp3",
+   "mb": 1.82
+  },
+  {
+   "destino": "sonidos/mk_swoosh/Fast_small_sweep_transition_166-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mk_swoosh/Cinematic_tunnel_reverb_woosh_1486-preview.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/mk_swoosh/Transition_windy_swoosh_1474-preview.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/mk_swoosh/Vacuum_swoosh_transition_1465-preview.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mk_swoosh/Cinematic_wind_swoosh_1471-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mk_swoosh/Short_wind_swoosh_1461-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mk_swoosh/Fast_transitions_swoosh_3115-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mk_swoosh/Dagger_woosh_1487-preview.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mk_swoosh/Flying_fast_swoosh_1469-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mk_swoosh/Fairy_sparkle_whoosh_869-preview.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/mk_transition/Cinematic_whoosh_fast_transition_1492-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mk_transition/Fast_small_sweep_transition_166-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mk_transition/Fast_rocket_whoosh_1714-preview.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/mk_transition/Fast_whoosh_transition_1490-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mk_transition/Epic_orchestra_transition_2290-preview.mp3",
+   "mb": 0.21
+  },
+  {
+   "destino": "sonidos/mk_transition/Cinematic_tunnel_reverb_woosh_1486-preview.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/mk_transition/Air_zoom_vacuum_2608-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mk_transition/Movie_trailer_epic_impact_2908-preview.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/mk_transition/Cool_impact_movie_trailer_2909-preview.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/mk_transition/Cinematic_laser_gun_thunder_1287-preview.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "objaverse/cerebro_rosado.glb",
+   "mb": 4.83
+  },
+  {
+   "destino": "objaverse/cerebro_2.glb",
+   "mb": 14.58
+  },
+  {
+   "destino": "objaverse/ojo_foto.glb",
+   "mb": 1.21
+  },
+  {
+   "destino": "objaverse/ojo_2.glb",
+   "mb": 3.82
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "mixkit": {
+  "mk_whoosh": [
+   {
+    "titulo": "Air woosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1489/1489-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_whoosh/Air_woosh_1489-preview.mp3"
+   },
+   {
+    "titulo": "Cinematic whoosh fast transition",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1492/1492-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_whoosh/Cinematic_whoosh_fast_transition_1492-preview.mp3"
+   },
+   {
+    "titulo": "Arrow whoosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1491/1491-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_whoosh/Arrow_whoosh_1491-preview.mp3"
+   },
+   {
+    "titulo": "Fast rocket whoosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1714/1714-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_whoosh/Fast_rocket_whoosh_1714-preview.mp3"
+   },
+   {
+    "titulo": "Fast whoosh transition",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1490/1490-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_whoosh/Fast_whoosh_transition_1490-preview.mp3"
+   },
+   {
+    "titulo": "Cinematic tunnel reverb woosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1486/1486-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_whoosh/Cinematic_tunnel_reverb_woosh_1486-preview.mp3"
+   },
+   {
+    "titulo": "Explainer video pops whoosh light pop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/3005/3005-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_whoosh/Explainer_video_pops_whoosh_light_pop_3005-preview.mp3"
+   },
+   {
+    "titulo": "Magic sparkle whoosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2350/2350-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_whoosh/Magic_sparkle_whoosh_2350-preview.mp3"
+   },
+   {
+    "titulo": "Metal hit woosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1485/1485-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_whoosh/Metal_hit_woosh_1485-preview.mp3"
+   },
+   {
+    "titulo": "Cinematic whoosh stutter",
+    "url": "https://assets.mixkit.co/active_storage/sfx/787/787-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_whoosh/Cinematic_whoosh_stutter_787-preview.mp3"
+   }
+  ],
+  "mk_glass": [
+   {
+    "titulo": "Water bubble",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1317/1317-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_glass/Water_bubble_1317-preview.mp3"
+   },
+   {
+    "titulo": "Glass break with hammer thud",
+    "url": "https://assets.mixkit.co/active_storage/sfx/759/759-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_glass/Glass_break_with_hammer_thud_759-preview.mp3"
+   },
+   {
+    "titulo": "Pouring water in a glass",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2826/2826-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_glass/Pouring_water_in_a_glass_2826-preview.mp3"
+   },
+   {
+    "titulo": "Glasses clinking",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2836/2836-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_glass/Glasses_clinking_2836-preview.mp3"
+   },
+   {
+    "titulo": "Glass hitting a metal",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2183/2183-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_glass/Glass_hitting_a_metal_2183-preview.mp3"
+   },
+   {
+    "titulo": "Heavy rain on car glass interior",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1248/1248-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_glass/Heavy_rain_on_car_glass_interior_1248-preview.mp3"
+   },
+   {
+    "titulo": "Wine glass clink",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2936/2936-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_glass/Wine_glass_clink_2936-preview.mp3"
+   },
+   {
+    "titulo": "Pouring soda in a glass",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2833/2833-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_glass/Pouring_soda_in_a_glass_2833-preview.mp3"
+   },
+   {
+    "titulo": "Liquid poured in a jar with ice",
+    "url": "https://assets.mixkit.co/active_storage/sfx/125/125-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_glass/Liquid_poured_in_a_jar_with_ice_125-preview.mp3"
+   },
+   {
+    "titulo": "Dropping ice into a glass",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2834/2834-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_glass/Dropping_ice_into_a_glass_2834-preview.mp3"
+   }
+  ],
+  "mk_wind": [
+   {
+    "titulo": "Big cinematic impact",
+    "url": "https://assets.mixkit.co/active_storage/sfx/788/788-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_wind/Big_cinematic_impact_788-preview.mp3"
+   },
+   {
+    "titulo": "Air zoom vacuum",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2608/2608-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_wind/Air_zoom_vacuum_2608-preview.mp3"
+   },
+   {
+    "titulo": "Wind blowing ambience",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2658/2658-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_wind/Wind_blowing_ambience_2658-preview.mp3"
+   },
+   {
+    "titulo": "Transition windy swoosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1474/1474-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_wind/Transition_windy_swoosh_1474-preview.mp3"
+   },
+   {
+    "titulo": "Cinematic wind swoosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1471/1471-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_wind/Cinematic_wind_swoosh_1471-preview.mp3"
+   },
+   {
+    "titulo": "Short wind swoosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1461/1461-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_wind/Short_wind_swoosh_1461-preview.mp3"
+   },
+   {
+    "titulo": "Wind in the top of the mountain",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1267/1267-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_wind/Wind_in_the_top_of_the_mountain_1267-preview.mp3"
+   },
+   {
+    "titulo": "Scary graveyard wind",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1157/1157-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_wind/Scary_graveyard_wind_1157-preview.mp3"
+   },
+   {
+    "titulo": "Deep cinematic wind hum",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1177/1177-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_wind/Deep_cinematic_wind_hum_1177-preview.mp3"
+   },
+   {
+    "titulo": "Woosh wind",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1168/1168-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_wind/Woosh_wind_1168-preview.mp3"
+   }
+  ],
+  "mk_dog": [
+   {
+    "titulo": "Dog barking twice",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1/1-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_dog/Dog_barking_twice_1-preview.mp3"
+   },
+   {
+    "titulo": "Horde of barking dogs",
+    "url": "https://assets.mixkit.co/active_storage/sfx/60/60-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_dog/Horde_of_barking_dogs_60-preview.mp3"
+   },
+   {
+    "titulo": "Medium size angry dog bark",
+    "url": "https://assets.mixkit.co/active_storage/sfx/54/54-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_dog/Medium_size_angry_dog_bark_54-preview.mp3"
+   },
+   {
+    "titulo": "Happy puppy barks",
+    "url": "https://assets.mixkit.co/active_storage/sfx/741/741-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_dog/Happy_puppy_barks_741-preview.mp3"
+   },
+   {
+    "titulo": "Giant dog aggressive growl",
+    "url": "https://assets.mixkit.co/active_storage/sfx/59/59-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_dog/Giant_dog_aggressive_growl_59-preview.mp3"
+   },
+   {
+    "titulo": "Annoyed big dog barking",
+    "url": "https://assets.mixkit.co/active_storage/sfx/51/51-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_dog/Annoyed_big_dog_barking_51-preview.mp3"
+   },
+   {
+    "titulo": "Dog whimper sad",
+    "url": "https://assets.mixkit.co/active_storage/sfx/466/466-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_dog/Dog_whimper_sad_466-preview.mp3"
+   },
+   {
+    "titulo": "Big tired dog panting",
+    "url": "https://assets.mixkit.co/active_storage/sfx/52/52-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_dog/Big_tired_dog_panting_52-preview.mp3"
+   },
+   {
+    "titulo": "Dog sad whimper",
+    "url": "https://assets.mixkit.co/active_storage/sfx/467/467-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_dog/Dog_sad_whimper_467-preview.mp3"
+   },
+   {
+    "titulo": "Hellhound monster attack  dog wolf creature",
+    "url": "https://assets.mixkit.co/active_storage/sfx/3015/3015-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_dog/Hellhound_monster_attack_dog_wolf_creature_3015-preview.mp3"
+   }
+  ],
+  "mk_bat": [
+   {
+    "titulo": "Little bat squeak",
+    "url": "https://assets.mixkit.co/active_storage/sfx/314/314-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_bat/Little_bat_squeak_314-preview.mp3"
+   }
+  ],
+  "mk_insect": [
+   {
+    "titulo": "Crickets and insects in the wild ambience",
+    "url": "https://assets.mixkit.co/active_storage/sfx/39/39-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_insect/Crickets_and_insects_in_the_wild_ambience_39-preview.mp3"
+   },
+   {
+    "titulo": "Night forest with insects",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2414/2414-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_insect/Night_forest_with_insects_2414-preview.mp3"
+   },
+   {
+    "titulo": "Flickering insect whoosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2651/2651-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_insect/Flickering_insect_whoosh_2651-preview.mp3"
+   },
+   {
+    "titulo": "Cartoon insect running fast",
+    "url": "https://assets.mixkit.co/active_storage/sfx/37/37-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_insect/Cartoon_insect_running_fast_37-preview.mp3"
+   },
+   {
+    "titulo": "Robotic insect buzz",
+    "url": "https://assets.mixkit.co/active_storage/sfx/332/332-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_insect/Robotic_insect_buzz_332-preview.mp3"
+   },
+   {
+    "titulo": "River atmosphere in a forest",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2450/2450-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_insect/River_atmosphere_in_a_forest_2450-preview.mp3"
+   },
+   {
+    "titulo": "Big bee hard flying sound",
+    "url": "https://assets.mixkit.co/active_storage/sfx/42/42-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_insect/Big_bee_hard_flying_sound_42-preview.mp3"
+   },
+   {
+    "titulo": "Insects, birds and frogs in the swamp ambience",
+    "url": "https://assets.mixkit.co/active_storage/sfx/40/40-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_insect/Insects_birds_and_frogs_in_the_swamp_ambience_40-preview.mp3"
+   },
+   {
+    "titulo": "Bee buzz",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1926/1926-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_insect/Bee_buzz_1926-preview.mp3"
+   },
+   {
+    "titulo": "Large fly buzzing",
+    "url": "https://assets.mixkit.co/active_storage/sfx/41/41-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_insect/Large_fly_buzzing_41-preview.mp3"
+   }
+  ],
+  "mk_fly": [
+   {
+    "titulo": "Fly wings movement",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2697/2697-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_fly/Fly_wings_movement_2697-preview.mp3"
+   },
+   {
+    "titulo": "Large fly buzzing",
+    "url": "https://assets.mixkit.co/active_storage/sfx/41/41-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_fly/Large_fly_buzzing_41-preview.mp3"
+   },
+   {
+    "titulo": "Fly buzz trapped in a window",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2695/2695-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_fly/Fly_buzz_trapped_in_a_window_2695-preview.mp3"
+   },
+   {
+    "titulo": "Fly buzzing and bouncing",
+    "url": "https://assets.mixkit.co/active_storage/sfx/326/326-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_fly/Fly_buzzing_and_bouncing_326-preview.mp3"
+   }
+  ],
+  "mk_footsteps": [
+   {
+    "titulo": "Footsteps on tall grass",
+    "url": "https://assets.mixkit.co/active_storage/sfx/532/532-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_footsteps/Footsteps_on_tall_grass_532-preview.mp3"
+   },
+   {
+    "titulo": "Footsteps on heels on the pavement",
+    "url": "https://assets.mixkit.co/active_storage/sfx/542/542-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_footsteps/Footsteps_on_heels_on_the_pavement_542-preview.mp3"
+   },
+   {
+    "titulo": "Running through the forest",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1232/1232-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_footsteps/Running_through_the_forest_1232-preview.mp3"
+   },
+   {
+    "titulo": "Footsteps in the forest ground",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1230/1230-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_footsteps/Footsteps_in_the_forest_ground_1230-preview.mp3"
+   },
+   {
+    "titulo": "Street ambience with walking people",
+    "url": "https://assets.mixkit.co/active_storage/sfx/375/375-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_footsteps/Street_ambience_with_walking_people_375-preview.mp3"
+   },
+   {
+    "titulo": "Footsteps in a tunnel loop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/543/543-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_footsteps/Footsteps_in_a_tunnel_loop_543-preview.mp3"
+   },
+   {
+    "titulo": "Walking on stones loop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1269/1269-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_footsteps/Walking_on_stones_loop_1269-preview.mp3"
+   },
+   {
+    "titulo": "Footsteps on mattress loop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/534/534-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_footsteps/Footsteps_on_mattress_loop_534-preview.mp3"
+   },
+   {
+    "titulo": "Crunchy road fast walking loop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1274/1274-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_footsteps/Crunchy_road_fast_walking_loop_1274-preview.mp3"
+   },
+   {
+    "titulo": "Big army crowd marching",
+    "url": "https://assets.mixkit.co/active_storage/sfx/461/461-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_footsteps/Big_army_crowd_marching_461-preview.mp3"
+   }
+  ],
+  "mk_running": [
+   {
+    "titulo": "Running through the forest",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1232/1232-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_running/Running_through_the_forest_1232-preview.mp3"
+   },
+   {
+    "titulo": "Crunchy road fast walking loop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1274/1274-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_running/Crunchy_road_fast_walking_loop_1274-preview.mp3"
+   },
+   {
+    "titulo": "Game level music",
+    "url": "https://assets.mixkit.co/active_storage/sfx/689/689-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_running/Game_level_music_689-preview.mp3"
+   },
+   {
+    "titulo": "Man running in the forest",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1236/1236-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_running/Man_running_in_the_forest_1236-preview.mp3"
+   },
+   {
+    "titulo": "Crunchy footsteps loop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/535/535-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_running/Crunchy_footsteps_loop_535-preview.mp3"
+   },
+   {
+    "titulo": "Futuristic technology workshop ambience",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2506/2506-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_running/Futuristic_technology_workshop_ambience_2506-preview.mp3"
+   },
+   {
+    "titulo": "Arcade retro run sound",
+    "url": "https://assets.mixkit.co/active_storage/sfx/220/220-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_running/Arcade_retro_run_sound_220-preview.mp3"
+   },
+   {
+    "titulo": "Running out from sea",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1192/1192-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_running/Running_out_from_sea_1192-preview.mp3"
+   },
+   {
+    "titulo": "Race countdown",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1953/1953-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_running/Race_countdown_1953-preview.mp3"
+   },
+   {
+    "titulo": "Arcade race game countdown",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1952/1952-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_running/Arcade_race_game_countdown_1952-preview.mp3"
+   }
+  ],
+  "mk_splash": [
+   {
+    "titulo": "Light rain loop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2393/2393-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_splash/Light_rain_loop_2393-preview.mp3"
+   },
+   {
+    "titulo": "Water splash",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1311/1311-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_splash/Water_splash_1311-preview.mp3"
+   },
+   {
+    "titulo": "Jump into the water",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1180/1180-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_splash/Jump_into_the_water_1180-preview.mp3"
+   },
+   {
+    "titulo": "Gore video game blood splash",
+    "url": "https://assets.mixkit.co/active_storage/sfx/263/263-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_splash/Gore_video_game_blood_splash_263-preview.mp3"
+   },
+   {
+    "titulo": "Sea water splash",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1198/1198-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_splash/Sea_water_splash_1198-preview.mp3"
+   },
+   {
+    "titulo": "Water drop splashes in cave",
+    "url": "https://assets.mixkit.co/active_storage/sfx/3179/3179-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_splash/Water_drop_splashes_in_cave_3179-preview.mp3"
+   },
+   {
+    "titulo": "Fish flapping",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2457/2457-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_splash/Fish_flapping_2457-preview.mp3"
+   },
+   {
+    "titulo": "Rain splashing",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1264/1264-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_splash/Rain_splashing_1264-preview.mp3"
+   },
+   {
+    "titulo": "Funny cartoon splash",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2884/2884-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_splash/Funny_cartoon_splash_2884-preview.mp3"
+   },
+   {
+    "titulo": "Fall on foam splash",
+    "url": "https://assets.mixkit.co/active_storage/sfx/754/754-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_splash/Fall_on_foam_splash_754-preview.mp3"
+   }
+  ],
+  "mk_water": [
+   {
+    "titulo": "Hard pop click",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2364/2364-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_water/Hard_pop_click_2364-preview.mp3"
+   },
+   {
+    "titulo": "Sea waves with birds loop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1185/1185-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_water/Sea_waves_with_birds_loop_1185-preview.mp3"
+   },
+   {
+    "titulo": "Birds chirping near the river",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2473/2473-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_water/Birds_chirping_near_the_river_2473-preview.mp3"
+   },
+   {
+    "titulo": "Water flowing ambience loop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/3126/3126-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_water/Water_flowing_ambience_loop_3126-preview.mp3"
+   },
+   {
+    "titulo": "Water bubble",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1317/1317-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_water/Water_bubble_1317-preview.mp3"
+   },
+   {
+    "titulo": "Pouring water in a glass",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2826/2826-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_water/Pouring_water_in_a_glass_2826-preview.mp3"
+   },
+   {
+    "titulo": "Natural ambience with flowing water and birds",
+    "url": "https://assets.mixkit.co/active_storage/sfx/61/61-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_water/Natural_ambience_with_flowing_water_and_birds_61-preview.mp3"
+   },
+   {
+    "titulo": "Water splash",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1311/1311-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_water/Water_splash_1311-preview.mp3"
+   },
+   {
+    "titulo": "River water flowing",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2454/2454-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_water/River_water_flowing_2454-preview.mp3"
+   },
+   {
+    "titulo": "Liquid bubble",
+    "url": "https://assets.mixkit.co/active_storage/sfx/3000/3000-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_water/Liquid_bubble_3000-preview.mp3"
+   }
+  ],
+  "mk_explosion": [
+   {
+    "titulo": "Epic impact afar explosion",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2782/2782-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_explosion/Epic_impact_afar_explosion_2782-preview.mp3"
+   },
+   {
+    "titulo": "Dramatic metal explosion impact",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1687/1687-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_explosion/Dramatic_metal_explosion_impact_1687-preview.mp3"
+   },
+   {
+    "titulo": "Explosion hit",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1704/1704-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_explosion/Explosion_hit_1704-preview.mp3"
+   },
+   {
+    "titulo": "Distant thunder explosion",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1278/1278-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_explosion/Distant_thunder_explosion_1278-preview.mp3"
+   },
+   {
+    "titulo": "Bomb drop impact",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2804/2804-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_explosion/Bomb_drop_impact_2804-preview.mp3"
+   },
+   {
+    "titulo": "Trailer screaming people annihilation",
+    "url": "https://assets.mixkit.co/active_storage/sfx/351/351-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_explosion/Trailer_screaming_people_annihilation_351-preview.mp3"
+   },
+   {
+    "titulo": "Car explosion debris",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1562/1562-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_explosion/Car_explosion_debris_1562-preview.mp3"
+   },
+   {
+    "titulo": "Drums of war call",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2780/2780-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_explosion/Drums_of_war_call_2780-preview.mp3"
+   },
+   {
+    "titulo": "Heavy electric shockwave impact",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2599/2599-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_explosion/Heavy_electric_shockwave_impact_2599-preview.mp3"
+   },
+   {
+    "titulo": "Truck crash with explosion",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1616/1616-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_explosion/Truck_crash_with_explosion_1616-preview.mp3"
+   }
+  ],
+  "mk_impact": [
+   {
+    "titulo": "Cinematic whoosh deep impact",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1143/1143-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_impact/Cinematic_whoosh_deep_impact_1143-preview.mp3"
+   },
+   {
+    "titulo": "Big cinematic impact",
+    "url": "https://assets.mixkit.co/active_storage/sfx/788/788-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_impact/Big_cinematic_impact_788-preview.mp3"
+   },
+   {
+    "titulo": "Movie trailer epic impact",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2908/2908-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_impact/Movie_trailer_epic_impact_2908-preview.mp3"
+   },
+   {
+    "titulo": "Strong punches to the body",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2198/2198-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_impact/Strong_punches_to_the_body_2198-preview.mp3"
+   },
+   {
+    "titulo": "Epic impact afar explosion",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2782/2782-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_impact/Epic_impact_afar_explosion_2782-preview.mp3"
+   },
+   {
+    "titulo": "Deep heartbeat impact",
+    "url": "https://assets.mixkit.co/active_storage/sfx/498/498-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_impact/Deep_heartbeat_impact_498-preview.mp3"
+   },
+   {
+    "titulo": "Wood hard hit",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2182/2182-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_impact/Wood_hard_hit_2182-preview.mp3"
+   },
+   {
+    "titulo": "Shot light energy flowing",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2589/2589-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_impact/Shot_light_energy_flowing_2589-preview.mp3"
+   },
+   {
+    "titulo": "Dramatic metal explosion impact",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1687/1687-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_impact/Dramatic_metal_explosion_impact_1687-preview.mp3"
+   },
+   {
+    "titulo": "Movie impact intro presentation",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2902/2902-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_impact/Movie_impact_intro_presentation_2902-preview.mp3"
+   }
+  ],
+  "mk_boom": [
+   {
+    "titulo": "Movie impact intro presentation",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2902/2902-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_boom/Movie_impact_intro_presentation_2902-preview.mp3"
+   },
+   {
+    "titulo": "Human single heart beat",
+    "url": "https://assets.mixkit.co/active_storage/sfx/490/490-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_boom/Human_single_heart_beat_490-preview.mp3"
+   },
+   {
+    "titulo": "8-bit explosion gun",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2779/2779-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_boom/8-bit_explosion_gun_2779-preview.mp3"
+   },
+   {
+    "titulo": "Intro news sound",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1151/1151-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_boom/Intro_news_sound_1151-preview.mp3"
+   },
+   {
+    "titulo": "Tribal ritual drums",
+    "url": "https://assets.mixkit.co/active_storage/sfx/567/567-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_boom/Tribal_ritual_drums_567-preview.mp3"
+   },
+   {
+    "titulo": "8-bit game shots",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2778/2778-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_boom/8-bit_game_shots_2778-preview.mp3"
+   },
+   {
+    "titulo": "Short explosion",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1694/1694-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_boom/Short_explosion_1694-preview.mp3"
+   },
+   {
+    "titulo": "Arcade game explosion",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2759/2759-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_boom/Arcade_game_explosion_2759-preview.mp3"
+   },
+   {
+    "titulo": "Introduction bell sound",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1150/1150-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_boom/Introduction_bell_sound_1150-preview.mp3"
+   },
+   {
+    "titulo": "Distant explosion",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1690/1690-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_boom/Distant_explosion_1690-preview.mp3"
+   }
+  ],
+  "mk_crash": [
+   {
+    "titulo": "Dramatic metal explosion impact",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1687/1687-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_crash/Dramatic_metal_explosion_impact_1687-preview.mp3"
+   },
+   {
+    "titulo": "Truck crash with explosion",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1616/1616-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_crash/Truck_crash_with_explosion_1616-preview.mp3"
+   },
+   {
+    "titulo": "Underground explosion impact echo",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1686/1686-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_crash/Underground_explosion_impact_echo_1686-preview.mp3"
+   },
+   {
+    "titulo": "Factory metal hard hit",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2980/2980-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_crash/Factory_metal_hard_hit_2980-preview.mp3"
+   },
+   {
+    "titulo": "Joke drums",
+    "url": "https://assets.mixkit.co/active_storage/sfx/578/578-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_crash/Joke_drums_578-preview.mp3"
+   },
+   {
+    "titulo": "Collapsing structure",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2958/2958-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_crash/Collapsing_structure_2958-preview.mp3"
+   },
+   {
+    "titulo": "Distant explosion",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1690/1690-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_crash/Distant_explosion_1690-preview.mp3"
+   },
+   {
+    "titulo": "Falling empty can",
+    "url": "https://assets.mixkit.co/active_storage/sfx/389/389-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_crash/Falling_empty_can_389-preview.mp3"
+   },
+   {
+    "titulo": "Thunder strike in storm",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2405/2405-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_crash/Thunder_strike_in_storm_2405-preview.mp3"
+   },
+   {
+    "titulo": "Bomb drop cold water explosion",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2806/2806-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_crash/Bomb_drop_cold_water_explosion_2806-preview.mp3"
+   }
+  ],
+  "mk_eating": [
+   {
+    "titulo": "Eating crunchy food with mouth open",
+    "url": "https://assets.mixkit.co/active_storage/sfx/120/120-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_eating/Eating_crunchy_food_with_mouth_open_120-preview.mp3"
+   },
+   {
+    "titulo": "Eating crispy cookies",
+    "url": "https://assets.mixkit.co/active_storage/sfx/122/122-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_eating/Eating_crispy_cookies_122-preview.mp3"
+   },
+   {
+    "titulo": "Animal eating juicy meat",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2246/2246-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_eating/Animal_eating_juicy_meat_2246-preview.mp3"
+   },
+   {
+    "titulo": "Human eating a potato chip",
+    "url": "https://assets.mixkit.co/active_storage/sfx/131/131-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_eating/Human_eating_a_potato_chip_131-preview.mp3"
+   },
+   {
+    "titulo": "Hungry man eating",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2252/2252-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_eating/Hungry_man_eating_2252-preview.mp3"
+   },
+   {
+    "titulo": "Animal eating herb",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2241/2241-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_eating/Animal_eating_herb_2241-preview.mp3"
+   },
+   {
+    "titulo": "Eating and biting crunchy food",
+    "url": "https://assets.mixkit.co/active_storage/sfx/118/118-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_eating/Eating_and_biting_crunchy_food_118-preview.mp3"
+   },
+   {
+    "titulo": "Human eating dry cereal",
+    "url": "https://assets.mixkit.co/active_storage/sfx/130/130-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_eating/Human_eating_dry_cereal_130-preview.mp3"
+   },
+   {
+    "titulo": "Human eating delicious crispy food",
+    "url": "https://assets.mixkit.co/active_storage/sfx/115/115-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_eating/Human_eating_delicious_crispy_food_115-preview.mp3"
+   },
+   {
+    "titulo": "Animal eating flesh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2245/2245-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_eating/Animal_eating_flesh_2245-preview.mp3"
+   }
+  ],
+  "mk_bird": [
+   {
+    "titulo": "Little birds singing in the trees",
+    "url": "https://assets.mixkit.co/active_storage/sfx/17/17-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_bird/Little_birds_singing_in_the_trees_17-preview.mp3"
+   },
+   {
+    "titulo": "Morning birds",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2472/2472-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_bird/Morning_birds_2472-preview.mp3"
+   },
+   {
+    "titulo": "Sea waves with birds loop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1185/1185-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_bird/Sea_waves_with_birds_loop_1185-preview.mp3"
+   },
+   {
+    "titulo": "Forest birds ambience",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1210/1210-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_bird/Forest_birds_ambience_1210-preview.mp3"
+   },
+   {
+    "titulo": "Forest birds singing",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1212/1212-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_bird/Forest_birds_singing_1212-preview.mp3"
+   },
+   {
+    "titulo": "Cartoon dazzle hit and birds",
+    "url": "https://assets.mixkit.co/active_storage/sfx/746/746-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_bird/Cartoon_dazzle_hit_and_birds_746-preview.mp3"
+   },
+   {
+    "titulo": "Birds chirping near the river",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2473/2473-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_bird/Birds_chirping_near_the_river_2473-preview.mp3"
+   },
+   {
+    "titulo": "Flock of wild geese",
+    "url": "https://assets.mixkit.co/active_storage/sfx/20/20-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_bird/Flock_of_wild_geese_20-preview.mp3"
+   },
+   {
+    "titulo": "Running through the forest",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1232/1232-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_bird/Running_through_the_forest_1232-preview.mp3"
+   },
+   {
+    "titulo": "Natural ambience with flowing water and birds",
+    "url": "https://assets.mixkit.co/active_storage/sfx/61/61-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_bird/Natural_ambience_with_flowing_water_and_birds_61-preview.mp3"
+   }
+  ],
+  "mk_pigeon": [
+   {
+    "titulo": "Chickens and pigeons",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1769/1769-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_pigeon/Chickens_and_pigeons_1769-preview.mp3"
+   },
+   {
+    "titulo": "Pigeon coo ambiance sounds",
+    "url": "https://assets.mixkit.co/active_storage/sfx/74/74-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_pigeon/Pigeon_coo_ambiance_sounds_74-preview.mp3"
+   },
+   {
+    "titulo": "Pigeons flutter ambience",
+    "url": "https://assets.mixkit.co/active_storage/sfx/73/73-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_pigeon/Pigeons_flutter_ambience_73-preview.mp3"
+   }
+  ],
+  "mk_crack": [],
+  "mk_brake": [
+   {
+    "titulo": "Tree branch brake",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2943/2943-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_brake/Tree_branch_brake_2943-preview.mp3"
+   }
+  ],
+  "mk_squeak": [
+   {
+    "titulo": "Cartoon panic squeak",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1010/1010-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_squeak/Cartoon_panic_squeak_1010-preview.mp3"
+   },
+   {
+    "titulo": "Rubber duck squeak",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1014/1014-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_squeak/Rubber_duck_squeak_1014-preview.mp3"
+   },
+   {
+    "titulo": "Little cartoon creature hiccup",
+    "url": "https://assets.mixkit.co/active_storage/sfx/10/10-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_squeak/Little_cartoon_creature_hiccup_10-preview.mp3"
+   },
+   {
+    "titulo": "Wet accident fart",
+    "url": "https://assets.mixkit.co/active_storage/sfx/3041/3041-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_squeak/Wet_accident_fart_3041-preview.mp3"
+   },
+   {
+    "titulo": "Chair seat wood squeak",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1016/1016-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_squeak/Chair_seat_wood_squeak_1016-preview.mp3"
+   },
+   {
+    "titulo": "Rubber squeaking",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1009/1009-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_squeak/Rubber_squeaking_1009-preview.mp3"
+   },
+   {
+    "titulo": "Squeak notification",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1017/1017-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_squeak/Squeak_notification_1017-preview.mp3"
+   },
+   {
+    "titulo": "Balloon long air release squeak",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1020/1020-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_squeak/Balloon_long_air_release_squeak_1020-preview.mp3"
+   },
+   {
+    "titulo": "Rubber fast squeak",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1013/1013-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_squeak/Rubber_fast_squeak_1013-preview.mp3"
+   },
+   {
+    "titulo": "Mouse squeak",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1019/1019-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_squeak/Mouse_squeak_1019-preview.mp3"
+   }
+  ],
+  "mk_heartbeat": [
+   {
+    "titulo": "Cinematic transition swoosh heartbeat trailer",
+    "url": "https://assets.mixkit.co/active_storage/sfx/488/488-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_heartbeat/Cinematic_transition_swoosh_heartbeat_trailer_488-preview.mp3"
+   },
+   {
+    "titulo": "Cinematic mystery heartbeat transition",
+    "url": "https://assets.mixkit.co/active_storage/sfx/492/492-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_heartbeat/Cinematic_mystery_heartbeat_transition_492-preview.mp3"
+   },
+   {
+    "titulo": "Hard horror hit drum",
+    "url": "https://assets.mixkit.co/active_storage/sfx/565/565-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_heartbeat/Hard_horror_hit_drum_565-preview.mp3"
+   },
+   {
+    "titulo": "Cinematic heartbeat ambience",
+    "url": "https://assets.mixkit.co/active_storage/sfx/497/497-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_heartbeat/Cinematic_heartbeat_ambience_497-preview.mp3"
+   },
+   {
+    "titulo": "Cinematic horror heartbeat transition",
+    "url": "https://assets.mixkit.co/active_storage/sfx/489/489-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_heartbeat/Cinematic_horror_heartbeat_transition_489-preview.mp3"
+   },
+   {
+    "titulo": "Human single heart beat",
+    "url": "https://assets.mixkit.co/active_storage/sfx/490/490-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_heartbeat/Human_single_heart_beat_490-preview.mp3"
+   },
+   {
+    "titulo": "Horror deep drum heartbeat",
+    "url": "https://assets.mixkit.co/active_storage/sfx/559/559-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_heartbeat/Horror_deep_drum_heartbeat_559-preview.mp3"
+   },
+   {
+    "titulo": "Slow heartbeat",
+    "url": "https://assets.mixkit.co/active_storage/sfx/494/494-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_heartbeat/Slow_heartbeat_494-preview.mp3"
+   },
+   {
+    "titulo": "Fast Heartbeat",
+    "url": "https://assets.mixkit.co/active_storage/sfx/493/493-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_heartbeat/Fast_Heartbeat_493-preview.mp3"
+   },
+   {
+    "titulo": "Heartbeat medium speed",
+    "url": "https://assets.mixkit.co/active_storage/sfx/495/495-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_heartbeat/Heartbeat_medium_speed_495-preview.mp3"
+   }
+  ],
+  "mk_clock": [
+   {
+    "titulo": "Tick tock clock close up",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1059/1059-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_clock/Tick_tock_clock_close_up_1059-preview.mp3"
+   },
+   {
+    "titulo": "Tick tock clock timer",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1045/1045-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_clock/Tick_tock_clock_timer_1045-preview.mp3"
+   },
+   {
+    "titulo": "Wall clock tick tock",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1060/1060-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_clock/Wall_clock_tick_tock_1060-preview.mp3"
+   },
+   {
+    "titulo": "Alarm clock beep",
+    "url": "https://assets.mixkit.co/active_storage/sfx/988/988-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_clock/Alarm_clock_beep_988-preview.mp3"
+   },
+   {
+    "titulo": "Fast wall clock ticking",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1063/1063-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_clock/Fast_wall_clock_ticking_1063-preview.mp3"
+   },
+   {
+    "titulo": "Clock ticker single",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1061/1061-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_clock/Clock_ticker_single_1061-preview.mp3"
+   },
+   {
+    "titulo": "Bell tick tock timer",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1046/1046-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_clock/Bell_tick_tock_timer_1046-preview.mp3"
+   },
+   {
+    "titulo": "Ticking timer",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1056/1056-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_clock/Ticking_timer_1056-preview.mp3"
+   },
+   {
+    "titulo": "Percussion tick-tock timer",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1047/1047-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_clock/Percussion_tick-tock_timer_1047-preview.mp3"
+   },
+   {
+    "titulo": "Old clock pendulum ticking",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1072/1072-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_clock/Old_clock_pendulum_ticking_1072-preview.mp3"
+   }
+  ],
+  "mk_swoosh": [
+   {
+    "titulo": "Fast small sweep transition",
+    "url": "https://assets.mixkit.co/active_storage/sfx/166/166-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_swoosh/Fast_small_sweep_transition_166-preview.mp3"
+   },
+   {
+    "titulo": "Cinematic tunnel reverb woosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1486/1486-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_swoosh/Cinematic_tunnel_reverb_woosh_1486-preview.mp3"
+   },
+   {
+    "titulo": "Transition windy swoosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1474/1474-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_swoosh/Transition_windy_swoosh_1474-preview.mp3"
+   },
+   {
+    "titulo": "Vacuum swoosh transition",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1465/1465-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_swoosh/Vacuum_swoosh_transition_1465-preview.mp3"
+   },
+   {
+    "titulo": "Cinematic wind swoosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1471/1471-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_swoosh/Cinematic_wind_swoosh_1471-preview.mp3"
+   },
+   {
+    "titulo": "Short wind swoosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1461/1461-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_swoosh/Short_wind_swoosh_1461-preview.mp3"
+   },
+   {
+    "titulo": "Fast transitions swoosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/3115/3115-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_swoosh/Fast_transitions_swoosh_3115-preview.mp3"
+   },
+   {
+    "titulo": "Dagger woosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1487/1487-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_swoosh/Dagger_woosh_1487-preview.mp3"
+   },
+   {
+    "titulo": "Flying fast swoosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1469/1469-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_swoosh/Flying_fast_swoosh_1469-preview.mp3"
+   },
+   {
+    "titulo": "Fairy sparkle whoosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/869/869-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_swoosh/Fairy_sparkle_whoosh_869-preview.mp3"
+   }
+  ],
+  "mk_transition": [
+   {
+    "titulo": "Cinematic whoosh fast transition",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1492/1492-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_transition/Cinematic_whoosh_fast_transition_1492-preview.mp3"
+   },
+   {
+    "titulo": "Fast small sweep transition",
+    "url": "https://assets.mixkit.co/active_storage/sfx/166/166-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_transition/Fast_small_sweep_transition_166-preview.mp3"
+   },
+   {
+    "titulo": "Fast rocket whoosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1714/1714-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_transition/Fast_rocket_whoosh_1714-preview.mp3"
+   },
+   {
+    "titulo": "Fast whoosh transition",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1490/1490-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_transition/Fast_whoosh_transition_1490-preview.mp3"
+   },
+   {
+    "titulo": "Epic orchestra transition",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2290/2290-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_transition/Epic_orchestra_transition_2290-preview.mp3"
+   },
+   {
+    "titulo": "Cinematic tunnel reverb woosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1486/1486-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_transition/Cinematic_tunnel_reverb_woosh_1486-preview.mp3"
+   },
+   {
+    "titulo": "Air zoom vacuum",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2608/2608-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_transition/Air_zoom_vacuum_2608-preview.mp3"
+   },
+   {
+    "titulo": "Movie trailer epic impact",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2908/2908-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_transition/Movie_trailer_epic_impact_2908-preview.mp3"
+   },
+   {
+    "titulo": "Cool impact movie trailer",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2909/2909-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_transition/Cool_impact_movie_trailer_2909-preview.mp3"
+   },
+   {
+    "titulo": "Cinematic laser gun thunder",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1287/1287-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mk_transition/Cinematic_laser_gun_thunder_1287-preview.mp3"
+   }
+  ]
+ },
+ "objaverse": {
+  "cerebro_rosado": {
+   "uid": "0aa0e33c5c854d1bab7bac9e1c7acaec",
+   "nombre": "cerebro_rosado",
+   "titulo": "Human brain, Cerebrum & Brainstem",
+   "autor": "pranktoy",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-0aa0e33c5c854d1bab7bac9e1c7acaec",
+   "caras": 45296,
+   "anim": 0
+  },
+  "cerebro_2": {
+   "uid": "c9c9d4d671b94345952d012cc2ea7a24",
+   "nombre": "cerebro_2",
+   "titulo": "Human Brain",
+   "autor": "agher",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-c9c9d4d671b94345952d012cc2ea7a24",
+   "caras": 74590,
+   "anim": 0
+  },
+  "ojo_foto": {
+   "uid": "5c4565daf20e488fad8e0e4335c5c60a",
+   "nombre": "ojo_foto",
+   "titulo": "Eyeball - Photorealistic",
+   "autor": "TrentPierce",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-5c4565daf20e488fad8e0e4335c5c60a",
+   "caras": 10582,
+   "anim": 0
+  },
+  "ojo_2": {
+   "uid": "5d466ea41c874fc5b376c92a313a9bb3",
+   "nombre": "ojo_2",
+   "titulo": "EYE FREE MODEL 3D BY Oscar creativo",
+   "autor": "oscar_creativo",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-5d466ea41c874fc5b376c92a313a9bb3",
+   "caras": 35520,
+   "anim": 0
+  }
+ }
+}
