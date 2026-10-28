@@ -164,8 +164,40 @@ def mixkit(b):
     print("mixkit", b["pagina"], len(out))
 
 
+# ------------------------------------------------------------------ sonidos de Freesound (vistas previas públicas, sin cuenta)
+def freesound_buscar(b):
+    """Busca en freesound.org (página pública) y baja las vistas previas mp3 (128 kbps) de los primeros resultados,
+    con el autor y la licencia de la página de cada sonido."""
+    q = urllib.parse.urlencode({"q": b["q"], "f": b.get("filtro", "duration:[0.3 TO 20]"), "s": b.get("orden", "Rating highest first")})
+    html = leer("https://freesound.org/search/?" + q).decode("utf-8", "ignore")
+    ids = list(dict.fromkeys(re.findall(r'/people/([^/"]+)/sounds/(\d+)/', html)))[:b.get("max", 8)]
+    mp3s = re.findall(r'https://cdn\.freesound\.org/previews/\d+/(\d+)_\d+-(?:hq|lq)\.mp3', html)
+    urls = dict()
+    for m in re.finditer(r'(https://cdn\.freesound\.org/previews/\d+/(\d+)_\d+-hq\.mp3)', html): urls.setdefault(m.group(2), m.group(1))
+    out = []
+    for usuario, sid in ids:
+        c = dict(id=sid, autor=usuario, pagina=f"https://freesound.org/people/{usuario}/sounds/{sid}/")
+        try:
+            pg = leer(c["pagina"]).decode("utf-8", "ignore")
+            t = re.search(r'<meta property="og:title" content="([^"]+)"', pg); c["titulo"] = t.group(1) if t else sid
+            lic = re.search(r'creativecommons\.org/(publicdomain/zero|licenses/[a-z-]+)/', pg); c["licencia"] = lic.group(1) if lic else "?"
+            u = urls.get(sid) or (re.search(r'(https://cdn\.freesound\.org/previews/\d+/' + sid + r'_\d+-hq\.mp3)', pg) or [None, None])[1]
+            if u:
+                nombre = re.sub(r"[^A-Za-z0-9_.-]+", "_", c["titulo"])[:50] + f"_{sid}.mp3"
+                guardar(u, f"sonidos/{b['clave']}/{nombre}"); c["archivo"] = f"sonidos/{b['clave']}/{nombre}"
+        except Exception as e:                         # noqa: BLE001
+            c["error"] = repr(e)[:120]
+        out.append(c); time.sleep(.6)
+    informe.setdefault("freesound", {})[b["clave"]] = out
+    print("freesound", b["q"], len(out), "mp3 en búsqueda", len(mp3s))
+
+
 def main():
     p = json.load(open("recursos/pedido.json"))
+    for b in p.get("freesound_buscar", []):
+        try: freesound_buscar(b)
+        except Exception as e:                        # noqa: BLE001
+            informe["errores"].append({"freesound": b, "error": repr(e)[:300]}); print("ERROR", b, e)
     for b in p.get("sketchfab_buscar", []):
         try: sketchfab_buscar(b)
         except Exception as e:                        # noqa: BLE001

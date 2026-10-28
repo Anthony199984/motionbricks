@@ -1,351 +1,205 @@
 {
  "catalogo": false,
- "informe": "informe_mono_especies.json",
+ "informe": "informe_velocidad_v6_busqueda.json",
+ "freesound_buscar": [
+  {
+   "clave": "fs_bat_wings",
+   "q": "bat wings flapping",
+   "max": 6
+  },
+  {
+   "clave": "fs_bat_call",
+   "q": "bat call",
+   "max": 6
+  },
+  {
+   "clave": "fs_fly",
+   "q": "housefly buzzing",
+   "max": 6
+  },
+  {
+   "clave": "fs_pasos_correr",
+   "q": "running footsteps concrete sneakers",
+   "max": 6
+  },
+  {
+   "clave": "fs_pasos_correr2",
+   "q": "footsteps running pavement",
+   "max": 6
+  },
+  {
+   "clave": "fs_concreto",
+   "q": "concrete crack break impact",
+   "max": 6
+  },
+  {
+   "clave": "fs_escombros",
+   "q": "rubble debris falling",
+   "max": 6
+  },
+  {
+   "clave": "fs_vidrio",
+   "q": "window glass shatter",
+   "max": 6
+  },
+  {
+   "clave": "fs_vidrio2",
+   "q": "glass breaking large",
+   "max": 6
+  },
+  {
+   "clave": "fs_whoosh",
+   "q": "whoosh pass by fast",
+   "max": 6
+  },
+  {
+   "clave": "fs_sonic",
+   "q": "sonic boom",
+   "max": 6
+  },
+  {
+   "clave": "fs_viento",
+   "q": "strong wind gust",
+   "max": 6
+  },
+  {
+   "clave": "fs_derrape",
+   "q": "shoe skid squeak",
+   "max": 6
+  },
+  {
+   "clave": "fs_frenazo",
+   "q": "sliding stop gravel feet",
+   "max": 6
+  },
+  {
+   "clave": "fs_comer",
+   "q": "eating crunchy chewing",
+   "max": 6
+  },
+  {
+   "clave": "fs_perro",
+   "q": "dog bark",
+   "max": 6
+  },
+  {
+   "clave": "fs_latido",
+   "q": "heartbeat",
+   "max": 6
+  },
+  {
+   "clave": "fs_reloj",
+   "q": "clock ticking",
+   "max": 6
+  },
+  {
+   "clave": "fs_calle",
+   "q": "city street ambience",
+   "max": 6
+  },
+  {
+   "clave": "fs_explosion_aire",
+   "q": "air blast shockwave",
+   "max": 6
+  },
+  {
+   "clave": "fs_tela",
+   "q": "clothes flapping wind",
+   "max": 6
+  },
+  {
+   "clave": "fs_cafe",
+   "q": "liquid splash small",
+   "max": 6
+  },
+  {
+   "clave": "fs_atrapar",
+   "q": "catch paper cup",
+   "max": 6
+  }
+ ],
  "sketchfab_buscar": [
   {
-   "clave": "e_obj_gorilla",
-   "q": "gorilla",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "e_ani_gorilla",
-   "q": "gorilla",
-   "animado": true,
+   "clave": "hamburguesa",
+   "q": "hamburger",
    "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_orangutan",
-   "q": "orangutan",
-   "paginas": 3,
    "solo_objaverse": true,
-   "max": 40
+   "max": 16
   },
   {
-   "clave": "e_ani_orangutan",
-   "q": "orangutan",
-   "animado": true,
+   "clave": "pizza",
+   "q": "pizza slice",
    "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_gibbon",
-   "q": "gibbon",
-   "paginas": 3,
    "solo_objaverse": true,
-   "max": 40
+   "max": 16
   },
   {
-   "clave": "e_ani_gibbon",
-   "q": "gibbon",
-   "animado": true,
+   "clave": "refresco",
+   "q": "soda cup straw",
    "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_lemur",
-   "q": "lemur",
-   "paginas": 3,
    "solo_objaverse": true,
-   "max": 40
+   "max": 16
   },
   {
-   "clave": "e_ani_lemur",
-   "q": "lemur",
-   "animado": true,
+   "clave": "papas",
+   "q": "french fries",
    "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_langur",
-   "q": "langur",
-   "paginas": 3,
    "solo_objaverse": true,
-   "max": 40
+   "max": 16
   },
   {
-   "clave": "e_ani_langur",
-   "q": "langur",
-   "animado": true,
+   "clave": "hotdog",
+   "q": "hot dog",
    "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_howler_monkey",
-   "q": "howler monkey",
-   "paginas": 3,
    "solo_objaverse": true,
-   "max": 40
+   "max": 16
   },
   {
-   "clave": "e_ani_howler_monkey",
-   "q": "howler monkey",
-   "animado": true,
+   "clave": "maniqui",
+   "q": "mannequin",
    "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_spider_monkey",
-   "q": "spider monkey",
-   "paginas": 3,
    "solo_objaverse": true,
-   "max": 40
+   "max": 16
   },
   {
-   "clave": "e_ani_spider_monkey",
-   "q": "spider monkey",
-   "animado": true,
+   "clave": "tienda_ropa",
+   "q": "clothing rack",
    "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_vervet",
-   "q": "vervet",
-   "paginas": 3,
    "solo_objaverse": true,
-   "max": 40
+   "max": 16
   },
   {
-   "clave": "e_ani_vervet",
-   "q": "vervet",
-   "animado": true,
+   "clave": "estante",
+   "q": "store shelf products",
    "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_marmoset",
-   "q": "marmoset",
-   "paginas": 3,
    "solo_objaverse": true,
-   "max": 40
+   "max": 16
   },
   {
-   "clave": "e_ani_marmoset",
-   "q": "marmoset",
-   "animado": true,
+   "clave": "tienda",
+   "q": "shop interior",
    "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_proboscis_monkey",
-   "q": "proboscis monkey",
-   "paginas": 3,
    "solo_objaverse": true,
-   "max": 40
+   "max": 16
   },
   {
-   "clave": "e_ani_proboscis_monkey",
-   "q": "proboscis monkey",
-   "animado": true,
+   "clave": "zapatos_tienda",
+   "q": "shoe store display",
    "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_gelada",
-   "q": "gelada",
-   "paginas": 3,
    "solo_objaverse": true,
-   "max": 40
+   "max": 16
+  }
+ ],
+ "commons_buscar": [
+  {
+   "clave": "cm_bat",
+   "q": "bat echolocation recording",
+   "n": 10
   },
   {
-   "clave": "e_ani_gelada",
-   "q": "gelada",
-   "animado": true,
-   "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_snub-nosed_monkey",
-   "q": "snub-nosed monkey",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "e_ani_snub-nosed_monkey",
-   "q": "snub-nosed monkey",
-   "animado": true,
-   "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_colobus",
-   "q": "colobus",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "e_ani_colobus",
-   "q": "colobus",
-   "animado": true,
-   "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_tamarin",
-   "q": "tamarin",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "e_ani_tamarin",
-   "q": "tamarin",
-   "animado": true,
-   "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_squirrel_monkey",
-   "q": "squirrel monkey",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "e_ani_squirrel_monkey",
-   "q": "squirrel monkey",
-   "animado": true,
-   "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_capuchin_monkey",
-   "q": "capuchin monkey",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "e_ani_capuchin_monkey",
-   "q": "capuchin monkey",
-   "animado": true,
-   "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_chimpanzee_realistic",
-   "q": "chimpanzee realistic",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "e_ani_chimpanzee_realistic",
-   "q": "chimpanzee realistic",
-   "animado": true,
-   "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_gorilla_realistic_rigged",
-   "q": "gorilla realistic rigged",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "e_ani_gorilla_realistic_rigged",
-   "q": "gorilla realistic rigged",
-   "animado": true,
-   "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_monkey_realistic_rigged",
-   "q": "monkey realistic rigged",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "e_ani_monkey_realistic_rigged",
-   "q": "monkey realistic rigged",
-   "animado": true,
-   "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_macaque_animated",
-   "q": "macaque animated",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "e_ani_macaque_animated",
-   "q": "macaque animated",
-   "animado": true,
-   "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_ape_rigged",
-   "q": "ape rigged",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "e_ani_ape_rigged",
-   "q": "ape rigged",
-   "animado": true,
-   "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_primate_rigged",
-   "q": "primate rigged",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "e_ani_primate_rigged",
-   "q": "primate rigged",
-   "animado": true,
-   "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
-  },
-  {
-   "clave": "e_obj_animal_monkey",
-   "q": "animal monkey",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "e_ani_animal_monkey",
-   "q": "animal monkey",
-   "animado": true,
-   "paginas": 2,
-   "solo_objaverse": false,
-   "max": 40
+   "clave": "cm_pasos",
+   "q": "running footsteps",
+   "n": 10
   }
  ]
 }
