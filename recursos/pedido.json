@@ -1,74 +1,76 @@
 {
  "catalogo": false,
- "informe": "informe_busqueda4.json",
+ "informe": "informe_objaverse3.json",
  "objaverse": [
   {
-   "uid": "f97acacd76be484dbf0243d82f6a1c44",
-   "nombre": "ciclista",
-   "titulo": "Cyclist - racing position - free 3d printable",
-   "autor": "Andywoodhead",
+   "uid": "cf7b9b312db4400c9d99ed40739b411a",
+   "nombre": "gente_pack",
+   "titulo": "All Characters",
+   "autor": "RachelC04",
    "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-f97acacd76be484dbf0243d82f6a1c44",
-   "caras": 478865,
+   "url": "https://sketchfab.com/3d-models/none-cf7b9b312db4400c9d99ed40739b411a",
+   "caras": 20213,
    "anim": 0
-  }
- ],
- "sketchfab_buscar": [
-  {
-   "clave": "g1",
-   "q": "pedestrian",
-   "paginas": 8,
-   "solo_objaverse": true,
-   "max": 30
   },
   {
-   "clave": "g2",
-   "q": "people pack",
-   "paginas": 8,
-   "solo_objaverse": true,
-   "max": 30
+   "uid": "27f0f72c5f464e0e9081557db353df47",
+   "nombre": "mujer_sentada_parada",
+   "titulo": "Woman (Sitting Standing Clap)",
+   "autor": "nonny",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-27f0f72c5f464e0e9081557db353df47",
+   "caras": 87437,
+   "anim": 1
   },
   {
-   "clave": "g3",
-   "q": "man walking",
-   "paginas": 8,
-   "solo_objaverse": true,
-   "max": 30
+   "uid": "c9ca01094c8c45f484df83a61e8f1ef3",
+   "nombre": "chica_parada",
+   "titulo": "Girl Standing Animation",
+   "autor": "dhunu53",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-c9ca01094c8c45f484df83a61e8f1ef3",
+   "caras": 70423,
+   "anim": 1
   },
   {
-   "clave": "g4",
-   "q": "woman standing",
-   "paginas": 8,
-   "solo_objaverse": true,
-   "max": 30
+   "uid": "0f7535dc9dd1492e842cd6b2d23f4885",
+   "nombre": "senor_caminando",
+   "titulo": "Old man walking",
+   "autor": "norgeotloic",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-0f7535dc9dd1492e842cd6b2d23f4885",
+   "caras": 3636,
+   "anim": 0
   },
   {
-   "clave": "g5",
-   "q": "business man",
-   "paginas": 8,
-   "solo_objaverse": true,
-   "max": 30
+   "uid": "00322ad15e1e4e5d9b626336f582f7f0",
+   "nombre": "hombre_negocios",
+   "titulo": "Character of business man",
+   "autor": "Aksgamer",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-00322ad15e1e4e5d9b626336f582f7f0",
+   "caras": 15732,
+   "anim": 0
   },
   {
-   "clave": "g6",
-   "q": "old man",
-   "paginas": 8,
-   "solo_objaverse": true,
-   "max": 30
+   "uid": "05d9dd5bdddd4157bd46dc179781ee6e",
+   "nombre": "hombre_casual",
+   "titulo": "Casual Man Character",
+   "autor": "strielecki",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-05d9dd5bdddd4157bd46dc179781ee6e",
+   "caras": 10962,
+   "anim": 1
   },
   {
-   "clave": "g7",
-   "q": "girl standing",
-   "paginas": 8,
-   "solo_objaverse": true,
-   "max": 30
-  },
-  {
-   "clave": "g8",
-   "q": "rigged human character",
-   "paginas": 8,
-   "solo_objaverse": true,
-   "max": 30
+   "uid": "9aa5d0921ccb41fea29ec426e3b53610",
+   "nombre": "mujer_parada",
+   "titulo": "Woman Standing Idle_Kinstyuri",
+   "autor": "yuriannoue",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-9aa5d0921ccb41fea29ec426e3b53610",
+   "caras": 9087,
+   "anim": 1
   }
  ]
 }
