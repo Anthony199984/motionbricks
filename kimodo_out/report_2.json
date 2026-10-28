@@ -1,10 +1,10 @@
 {
- "total_seconds": 381.6,
+ "total_seconds": 123.4,
  "jobs": [
   {
    "name": "g13_brazos_cruzados_impaciente_c",
    "response": "OK\t105\t30",
-   "seconds": 381.6,
+   "seconds": 123.3,
    "frames": 105
   }
  ]
