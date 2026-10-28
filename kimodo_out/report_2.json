@@ -1,11 +1,11 @@
 {
- "total_seconds": 210.1,
+ "total_seconds": 434.3,
  "jobs": [
   {
-   "name": "sv17_espantar_mosca_a",
-   "response": "OK\t150\t30",
-   "seconds": 210.0,
-   "frames": 150
+   "name": "ch02_reposo_mirar_a",
+   "response": "OK\t300\t30",
+   "seconds": 434.1,
+   "frames": 300
   }
  ]
 }
