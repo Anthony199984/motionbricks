@@ -6,6 +6,9 @@ on:
     paths: ["kimodo_jobs/**", ".github/workflows/kimodo.yml"]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-24.04
@@ -58,8 +61,11 @@ jobs:
           echo "gen=$GEN text=$TEXT motion=$MOTION"; free -g; nproc
           python3 kimodo_jobs/run_jobs.py "$GEN" "$MOTION" "$TEXT" out
 
-      - uses: actions/upload-artifact@v4
+      - name: Guardar resultados en el repositorio
         if: always()
-        with:
-          name: kimodo-out
-          path: out
+        run: |
+          mkdir -p kimodo_out && cp -r out/. kimodo_out/ 2>/dev/null || true
+          git config user.name "kimodo-bot"; git config user.email "actions@users.noreply.github.com"
+          git add kimodo_out
+          git commit -m "Resultados Kimodo [skip ci]" || echo "nada que guardar"
+          git push origin HEAD:kimodo-jobs
