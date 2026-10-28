@@ -202,7 +202,8 @@ def transcribir(b):
            f"segs,info=m.transcribe({b['archivo']!r},language={b.get('idioma','es')!r})\n"
            "out=[dict(ini=round(s.start,2),fin=round(s.end,2),texto=s.text.strip()) for s in segs]\n"
            f"json.dump(out,open({(OUT + '/' + b['salida'])!r},'w'),ensure_ascii=False,indent=1)\nprint('transcrito',len(out))\n")
-    subprocess.run([sys.executable, "-c", cod], check=True)
+    r = subprocess.run([sys.executable, "-c", cod], capture_output=True, text=True)
+    if r.returncode: raise RuntimeError((r.stderr or r.stdout)[-1500:])
 
 
 def main():
