@@ -1,0 +1,112 @@
+name: Mocap-Anything V2 (mono)
+
+# Sube videos a mocap/videos/<nombre>.mp4 y GitHub saca el movimiento para el esqueleto del rhesus (MonoRhesus.glb).
+# Resultado en mocap/salida/<nombre>/ (BVH, poses .npy y video de control).
+on:
+  push:
+    branches: [mocap]
+    paths: ["mocap/videos/**", "mocap/*.py", "mocap/*.glb", ".github/workflows/mocap.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mocap
+  cancel-in-progress: false
+
+jobs:
+  mocap:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    env:
+      BLENDER_RENDER_ENGINE: CYCLES
+      HF_HOME: /home/runner/hf
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Dependencias del sistema
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q ffmpeg libxi6 libxrender1 libxkbcommon0 libsm6 libgl1 libegl1 libxxf86vm1 libxfixes3
+
+      - name: Caché de pesos, Blender y Python
+        uses: actions/cache@v4
+        with:
+          path: |
+            /home/runner/hf
+            /home/runner/blender
+            /home/runner/MocapAnything/checkpoints
+            ~/.cache/pip
+          key: mocap-v1
+
+      - name: Código de Mocap-Anything V2
+        run: |
+          [ -d /home/runner/MocapAnything/.git ] || git clone --depth 1 https://github.com/phongdaot/MocapAnything /home/runner/MocapAnything_tmp
+          if [ -d /home/runner/MocapAnything_tmp ]; then mkdir -p /home/runner/MocapAnything; cp -rn /home/runner/MocapAnything_tmp/. /home/runner/MocapAnything/; fi
+
+      - name: Python (PyTorch para procesador)
+        run: |
+          python -m pip install -q --upgrade pip
+          pip install -q torch==2.9.0 torchvision==0.24.0 --index-url https://download.pytorch.org/whl/cpu
+          pip install -q numpy==1.26.4 opencv-python pillow matplotlib scipy scikit-image trimesh roma pyyaml tqdm "huggingface_hub>=0.34" transformers sentencepiece gradio imageio-ffmpeg omegaconf einops easydict
+
+      - name: Pesos del modelo
+        working-directory: /home/runner/MocapAnything
+        run: |
+          [ -f checkpoints/video2pos2rot_epoch60.pt ] || hf download kehong/MoCapAnythingV2-weights --local-dir ./checkpoints
+          ls -la checkpoints
+
+      - name: Blender 4.2 (portátil)
+        run: |
+          if [ ! -x /home/runner/blender/blender ]; then
+            curl -sSL -o /tmp/b.tar.xz https://download.blender.org/release/Blender4.2/blender-4.2.3-linux-x64.tar.xz
+            mkdir -p /home/runner/blender && tar -xJf /tmp/b.tar.xz -C /home/runner/blender --strip-components=1
+          fi
+          /home/runner/blender/blender --version | head -1
+
+      - name: Preparar el esqueleto del rhesus (una sola vez; queda en mocap/zoo)
+        working-directory: /home/runner/MocapAnything
+        env:
+          BLENDER: /home/runner/blender/blender
+          PYTHON: python
+        run: |
+          set -e
+          # todo en procesador: cuda -> cpu, float16 -> float32
+          sed -i 's/device: "cuda"/device: "cpu"/; s/dtype: "float16"/dtype: "float32"/' examples/custom_rig/inference.yaml
+          mkdir -p Truebone_Z-OO/MonoRhesus videos
+          /home/runner/blender/blender -b -P $GITHUB_WORKSPACE/mocap/glb_a_fbx.py -- $GITHUB_WORKSPACE/mocap/MonoRhesus.glb Truebone_Z-OO/MonoRhesus
+          for v in $GITHUB_WORKSPACE/mocap/videos/*.mp4; do n=$(basename "$v" .mp4); ffmpeg -loglevel error -y -i "$v" -vf "fps=15,scale=-2:512" "videos/MonoRhesus#$n.mp4"; done
+          ls videos
+          if [ -d $GITHUB_WORKSPACE/mocap/zoo/species_info_dict.npy ] || [ -f $GITHUB_WORKSPACE/mocap/zoo/species_info_dict.npy ]; then
+            mkdir -p zoo && cp -r $GITHUB_WORKSPACE/mocap/zoo/. zoo/
+          else
+            mkdir -p examples/custom_rig/align_ref/MonoRhesus
+            python -c "import numpy as np; np.save('examples/custom_rig/align_ref/MonoRhesus/front.npy', np.array([0.,0.,1.]))"
+            ALIGN_REF_DIR=examples/custom_rig/align_ref bash examples/custom_rig/run.sh MonoRhesus 2>&1 | tail -60
+            mkdir -p $GITHUB_WORKSPACE/mocap/zoo
+            cp -r zoo/species_info_dict.npy zoo/cache zoo/characters_face_zplus zoo/bvh zoo/bvh_pose zoo/npz_train_image_only $GITHUB_WORKSPACE/mocap/zoo/ 2>/dev/null || true
+          fi
+
+      - name: Captura de movimiento de cada video
+        working-directory: /home/runner/MocapAnything
+        env:
+          BLENDER_BIN: /home/runner/blender/blender
+        run: |
+          set -e
+          python -m inference.video2pose2rot --config examples/custom_rig/inference.yaml 2>&1 | tail -80
+          ls -R outputs | head -80
+          mkdir -p $GITHUB_WORKSPACE/mocap/salida
+          cp -r outputs/custom_rig/. $GITHUB_WORKSPACE/mocap/salida/
+          find $GITHUB_WORKSPACE/mocap/salida -name "*.obj" -delete
+          find $GITHUB_WORKSPACE/mocap/salida -size +90M -delete
+
+      - name: Subir resultados
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mocap/salida mocap/zoo || true
+          git commit -m "Mocap listo [skip ci]" || echo "nada nuevo"
+          git pull --rebase origin mocap || true
+          git push origin HEAD:mocap
