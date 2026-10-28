@@ -1,0 +1,301 @@
+Wed Oct 28 03:42:52 UTC 2026
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       145G   41G  104G  29% /
+Wed Oct 28 03:44:32 UTC 2026
+Cloning into 'kcpp'...
+Note: switching to 'ed8a931aedb132f768190f6931c365855caba74c'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at ed8a931 Add LocalAI attribution and badge to README
+Submodule 'ggml' (https://github.com/ggml-org/ggml.git) registered for path 'ggml'
+Cloning into '/home/runner/work/motionbricks/motionbricks/kcpp/ggml'...
+Submodule path 'ggml': checked out '8c63e70982c95ceb862e3a1073a2c1beef75d60a'
+Wed Oct 28 03:44:39 UTC 2026
+Selecting previously unselected package ninja-build.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 203540 files and directories currently installed.)
+Preparing to unpack .../ninja-build_1.11.1-2_amd64.deb ...
+Unpacking ninja-build (1.11.1-2) ...
+Setting up ninja-build (1.11.1-2) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Not building database; man-db/auto-update is not 'true'.
+
+Running kernel seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+-- The CXX compiler identification is GNU 14.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/g++-14 - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- The C compiler identification is GNU 14.2.0
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/gcc-14
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/gcc-14 - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Warning: ccache not found - consider installing it for faster compilation or disable this warning with GGML_CCACHE=OFF
+-- CMAKE_SYSTEM_PROCESSOR: x86_64
+-- GGML_SYSTEM_ARCH: x86
+-- Found OpenMP_C: -fopenmp (found version "4.5")
+-- Found OpenMP_CXX: -fopenmp (found version "4.5")
+-- Found OpenMP: TRUE (found version "4.5")
+-- Including CPU backend
+-- x86 detected
+-- Adding CPU backend variant ggml-cpu: -msse4.2;-mf16c;-mfma;-mbmi2;-mavx;-mavx2 GGML_SSE42;GGML_F16C;GGML_FMA;GGML_BMI2;GGML_AVX;GGML_AVX2
+-- ggml version: 0.20.2
+-- ggml commit:  8c63e709
+-- Configuring done (10.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/runner/work/motionbricks/motionbricks/kcpp/build
+[1/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-alloc.c.o
+[2/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml.cpp.o
+[3/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml.c.o
+[4/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-backend.cpp.o
+[5/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-opt.cpp.o
+[6/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-threading.cpp.o
+[7/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.o
+[8/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-backend-meta.cpp.o
+[9/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.o
+[10/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/hbm.cpp.o
+[11/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/gguf.cpp.o
+[12/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/traits.cpp.o
+[13/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/quants.c.o
+[14/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.o
+[15/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.o
+[16/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-quants.c.o
+[17/45] Linking CXX shared library ggml/src/libggml-base.so.0.20.2
+[18/45] Creating library symlink ggml/src/libggml-base.so.0 ggml/src/libggml-base.so
+[19/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.o
+[20/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/vec.cpp.o
+[21/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/unary-ops.cpp.o
+[22/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/quants.c.o
+[23/45] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-dl.cpp.o
+[24/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/repack.cpp.o
+[25/45] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-reg.cpp.o
+[26/45] Building CXX object CMakeFiles/kimodo.dir/src/capi.cpp.o
+[27/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/repack.cpp.o
+[28/45] Building CXX object CMakeFiles/kimodo.dir/src/diffusion.cpp.o
+[29/45] Building CXX object CMakeFiles/kimodo.dir/src/gguf.cpp.o
+[30/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_rep.cpp.o
+[31/45] Building CXX object CMakeFiles/kimodo.dir/src/model.cpp.o
+[32/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_decode.cpp.o
+[33/45] Building CXX object CMakeFiles/kimodo.dir/src/ggml_weights.cpp.o
+In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/ggml_weights.cpp:17:
+/home/runner/work/motionbricks/motionbricks/kcpp/ggml/src/../include/ggml-backend.h:419:119: warning: ‘ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t, ggml_cgraph*)’ hides constructor for ‘struct ggml_backend_graph_copy’ [-Wshadow]
+  419 |     GGML_API struct ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t backend, struct ggml_cgraph * graph);
+      |                                                                                                                       ^
+/home/runner/work/motionbricks/motionbricks/kcpp/src/ggml_weights.cpp:27:6: warning: ‘void kimodo::detail::{anonymous}::configure_vulkan_f32_parity()’ defined but not used [-Wunused-function]
+   27 | void configure_vulkan_f32_parity() noexcept {
+      |      ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+[34/45] Building CXX object CMakeFiles/kimodo.dir/src/sequence.cpp.o
+[35/45] Building CXX object CMakeFiles/kimodo.dir/src/denoiser.cpp.o
+In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/denoiser.cpp:18:
+/home/runner/work/motionbricks/motionbricks/kcpp/ggml/src/../include/ggml-backend.h:419:119: warning: ‘ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t, ggml_cgraph*)’ hides constructor for ‘struct ggml_backend_graph_copy’ [-Wshadow]
+  419 |     GGML_API struct ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t backend, struct ggml_cgraph * graph);
+      |                                                                                                                       ^
+[36/45] Building CXX object CMakeFiles/kimodo.dir/src/llm_tokenizer.cpp.o
+[37/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ops.cpp.o
+[38/45] Linking CXX shared library ggml/src/libggml-cpu.so.0.20.2
+[39/45] Creating library symlink ggml/src/libggml-cpu.so.0 ggml/src/libggml-cpu.so
+[40/45] Linking CXX shared library ggml/src/libggml.so.0.20.2
+[41/45] Creating library symlink ggml/src/libggml.so.0 ggml/src/libggml.so
+[42/45] Building CXX object CMakeFiles/kmd-generate.dir/src/generate.cpp.o
+[43/45] Building CXX object CMakeFiles/kimodo.dir/src/llm_text_encoder.cpp.o
+In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/llm_text_encoder.cpp:10:
+/home/runner/work/motionbricks/motionbricks/kcpp/ggml/src/../include/ggml-backend.h:419:119: warning: ‘ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t, ggml_cgraph*)’ hides constructor for ‘struct ggml_backend_graph_copy’ [-Wshadow]
+  419 |     GGML_API struct ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t backend, struct ggml_cgraph * graph);
+      |                                                                                                                       ^
+/home/runner/work/motionbricks/motionbricks/kcpp/src/llm_text_encoder.cpp:40:6: warning: ‘bool kimodo::detail::{anonymous}::use_vulkan()’ defined but not used [-Wunused-function]
+   40 | bool use_vulkan() {
+      |      ^~~~~~~~~~
+[44/45] Linking CXX static library libkimodo.a
+[45/45] Linking CXX executable kmd-generate
+build/kmd-generate
+Wed Oct 28 03:45:49 UTC 2026
+
+[notice] A new release of pip is available: 26.2.1 -> 26.2.2
+[notice] To update, run: pip install --upgrade pip
+Downloading LocalAI-io/Kimodo-SOMA-RP-v1.1-GGML at main into /home/runner/work/motionbricks/motionbricks/weights
+[90mHint: The `hf-cli` skill is not installed. Run `hf skills add -g` to teach your AI agents how to use the `hf` CLI.[0m
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+verified native Kimodo GGUF bundle
+--- manifiesto del texto ---
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 10.48it/s]
+[32m✓ Downloaded[0m
+  path: /home/runner/work/motionbricks/motionbricks/weights/text_manifest
+{
+  "component": "text",
+  "default_variant": "q8_0",
+  "files": [
+    {
+      "bytes": 7295054,
+      "path": "generated/llm2vec-text-bundle/tokenizer.gguf",
+      "sha256": "81614aca62a98846c02b72cc2e5378e5bdce8b4d507b88f96eb1faa90dae607e"
+    },
+    {
+      "bytes": 1050674240,
+      "path": "generated/llm2vec-text-bundle/embedding.gguf",
+      "sha256": "8d2c16c7996d2d2a6b5071d623fbff413432c881a998a0b4d442786b47c63560"
+    },
+    {
+      "bytes": 9248,
+      "path": "generated/llm2vec-text-bundle/final-norm.gguf",
+      "sha256": "3d705ae86b5ac9c49634f8517abfdedb2266a03758750bc707dd0cc67927c95c"
+    },
+    {
+      "bytes": 441469344,
+      "path": "generated/llm2vec-text-bundle/layer-00.gguf",
+      "sha256": "b4fbf81fa84d08c4c657dc7956fccdbd9d50c83e11fe291d9f3a58dddb4ba4cc"
+    },
+    {
+      "bytes": 441469344,
+      "path": "generated/llm2vec-text-bundle/layer-01.gguf",
+      "sha256": "6ac62e2961540327478b6a7487392f404ee98da4e9206b49b129d9b28fa54ab2"
+    },
+    {
+      "bytes": 441469344,
+      "path": "generated/llm2vec-text-bundle/layer-02.gguf",
+      "sha256": "c47cef118e2a8e48a479f4823e330bd2e861d8b31b3239a02e78fc31ca97dd04"
+    },
+    {
+      "bytes": 441469344,
+      "path": "generated/llm2vec-text-bundle/layer-03.gguf",
+      "sha256": "8539ec5b283159d38aad68115b99a12b7a54b38e65ca205d7297873a7bdfa509"
+    },
+    {
+      "bytes": 441469344,
+      "path": "generated/llm2vec-text-bundle/layer-04.gguf",
+      "sha256": "204f009bb401aaaab7a4a14adc57ce8b94896cdc4ae4e2e80b8df2f97954cad0"
+    },
+    {
+      "bytes": 441469344,
+      "path": "generated/llm2vec-text-bundle/layer-05.gguf",
+      "sha256": "b20a74d09ba0abb5135fdb900067cca02e6d5cc34d05a37147cb78c63b388c04"
+    },
+    {
+      "bytes": 441469344,
+      "path": "generated/llm2vec-text-bundle/layer-06.gguf",
+      "sha256": "c00d620a46a111786b340bce68f47ae89a62f3d05d31acde830c0a71d9060200"
+    },
+    {
+      "bytes": 441469344,
+      "path": "generated/llm2vec-text-bundle/layer-07.gguf",
+      "sha256": "578064ffe7a38b9c4a014780ac5ca99de2497ac93544c04ba849bb262470a563"
+    },
+    {
+      "bytes": 441469344,
+      "path": "generated/llm2vec-text-bundle/layer-08.gguf",
+      "sha256": "4a6319773a5e19b6e17bb55ee2629ddaa97f6a8fb22d37c3ea6be9e58e3c3087"
+    },
+    {
+      "bytes": 441469344,
+      "path": "generated/llm2vec-text-bundle/layer-09.gguf",
+      "sha256": "49a13e69f524144afed1c52fa819ec48f40014c3561f4e62ccf5eac1808e940e"
+    },
+    {
+      "bytes": 441469344,
+      "path": "generated/llm2vec-text-bundle/layer-10.gguf",
+      "sha256": "122fac4b17d800f84fbd2e9c0d5510ad773818e604d9e396328bd9cafcf72008"
+    },
+    {
+      "bytes": 441469344,
+      "path": "generated/llm2vec-text-bundle/layer-11.gguf",
+      "sha256": "aaddc4180b44bac7a0be466d7f4812fb338bbdefae188b4195580cf4cef64266"
+    },
+    {
+      "bytes": 441469344,
+      "path": "generated/llm2vec-text-bundle/layer-12.gguf",
+      "sha256": "889d22f1f7b01e5cbb74f3e8d48a3af0c1d03d075c997c660a1ec00ab9014b32"
+    },
+    {
+ 
+--- archivos del repo de texto ---
+.gitattributes
+LICENSE-META-LLAMA-3.txt
+Llama-3-Kimodo-BF16.gguf
+Llama-3-Kimodo-Q4_K.gguf
+Llama-3-Kimodo-Q4_K_M.gguf
+Llama-3-Kimodo-Q5_K.gguf
+Llama-3-Kimodo-Q6_K.gguf
+Llama-3-Kimodo-Q8_0.gguf
+MANIFEST.json
+NOTICE
+README.md
+SHA256SUMS
+generated/llm2vec-text-bundle/embedding.gguf
+generated/llm2vec-text-bundle/final-norm.gguf
+generated/llm2vec-text-bundle/layer-00.gguf
+generated/llm2vec-text-bundle/layer-01.gguf
+generated/llm2vec-text-bundle/layer-02.gguf
+generated/llm2vec-text-bundle/layer-03.gguf
+generated/llm2vec-text-bundle/layer-04.gguf
+generated/llm2vec-text-bundle/layer-05.gguf
+generated/llm2vec-text-bundle/layer-06.gguf
+generated/llm2vec-text-bundle/layer-07.gguf
+generated/llm2vec-text-bundle/layer-08.gguf
+generated/llm2vec-text-bundle/layer-09.gguf
+generated/llm2vec-text-bundle/layer-10.gguf
+generated/llm2vec-text-bundle/layer-11.gguf
+generated/llm2vec-text-bundle/layer-12.gguf
+generated/llm2vec-text-bundle/layer-13.gguf
+generated/llm2vec-text-bundle/layer-14.gguf
+generated/llm2vec-text-bundle/layer-15.gguf
+generated/llm2vec-text-bundle/layer-16.gguf
+generated/llm2vec-text-bundle/layer-17.gguf
+generated/llm2vec-text-bundle/layer-18.gguf
+generated/llm2vec-text-bundle/layer-19.gguf
+generated/llm2vec-text-bundle/layer-20.gguf
+generated/llm2vec-text-bundle/layer-21.gguf
+generated/llm2vec-text-bundle/layer-22.gguf
+generated/llm2vec-text-bundle/layer-23.gguf
+generated/llm2vec-text-bundle/layer-24.gguf
+generated/llm2vec-text-bundle/layer-25.gguf
+generated/llm2vec-text-bundle/layer-26.gguf
+generated/llm2vec-text-bundle/layer-27.gguf
+generated/llm2vec-text-bundle/layer-28.gguf
+generated/llm2vec-text-bundle/layer-29.gguf
+generated/llm2vec-text-bundle/layer-30.gguf
+generated/llm2vec-text-bundle/layer-31.gguf
+generated/llm2vec-text-bundle/tokenizer.gguf
+tokenizer.gguf
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files:  50%|█████     | 1/2 [00:00<00:00,  1.04it/s]Fetching 2 files: 100%|██████████| 2/2 [00:22<00:00, 13.16s/it]Fetching 2 files: 100%|██████████| 2/2 [00:22<00:00, 11.33s/it]
+[32m✓ Downloaded[0m
+  path: /home/runner/work/motionbricks/motionbricks/weights
+-rw-r--r-- 1 runner runner 7295054 Oct 28 03:46 weights/tokenizer.gguf
+-rw-r--r-- 1 runner runner 1133166784 Oct 28 03:46 weights/models/kimodo-soma-rp-v1.1-f32.gguf
+-rw-r--r-- 1 runner runner 8142058752 Oct 28 03:46 weights/Llama-3-Kimodo-Q8_0.gguf
+8.7G	weights
+Wed Oct 28 03:46:32 UTC 2026
+gen=kcpp/build/kmd-generate text=weights/Llama-3-Kimodo-Q8_0.gguf motion=weights/models/kimodo-soma-rp-v1.1-f32.gguf
+               total        used        free      shared  buff/cache   available
+Mem:              15           1           2           0          11          14
+Swap:              2           0           2
+4
+g05_asustarse_salto_atras_b: OK	75	30 (303.1s)
+g15_caminar_b: OK	120	30 (404.9s)

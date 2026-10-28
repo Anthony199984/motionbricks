@@ -1,0 +1,17 @@
+{
+ "total_seconds": 708.1,
+ "jobs": [
+  {
+   "name": "g05_asustarse_salto_atras_b",
+   "response": "OK\t75\t30",
+   "seconds": 303.1,
+   "frames": 75
+  },
+  {
+   "name": "g15_caminar_b",
+   "response": "OK\t120\t30",
+   "seconds": 404.9,
+   "frames": 120
+  }
+ ]
+}
