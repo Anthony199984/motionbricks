@@ -1,10 +1,10 @@
 {
- "total_seconds": 138.0,
+ "total_seconds": 213.2,
  "jobs": [
   {
-   "name": "sv09_sprint_a",
+   "name": "ch07_morder_dedos_a",
    "response": "OK\t120\t30",
-   "seconds": 137.9,
+   "seconds": 213.0,
    "frames": 120
   }
  ]
