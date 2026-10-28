@@ -1,0 +1,822 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/gente_caminando/6e3b93c078114c52bfe4cfa08b9843eb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente_caminando/4983ac47fa674c1e8e9230c8afa4546e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente_caminando/05d9dd5bdddd4157bd46dc179781ee6e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente_caminando/d255ba1f26fa4b93b5b186941ecd7005.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente_caminando/652fe5e621e44616921d81bd2c428452.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/gente_caminando/c3dddcce6cb2470aadc97f2652411254.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/gente_caminando/5596c885813c40c1b83708ee225bc695.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mujer_caminando/bbaa566445074509a32ef5059a9d0bc2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mujer_caminando/d3f65ad04ec845b197a689db48ec4329.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/hablar_telefono/d76210e8daed478a9ec24e1b11ff1425.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hablar_telefono/c0dc08ae287a46bd9724a3acf5776bf0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/hablar_telefono/b4d00bf20dd84b3d9842fdb1744555be.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/hablar_telefono/b69d149f87a94a058fc4e8adb58ebbbf.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/hablar_telefono/9d3f3674bcf849e099d1d0da4de33e40.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/correr_persona/ed3d7a4b8b124e1591be83ccb4c02dcd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/correr_persona/3ae7ff1299844d4e9e6b15a0fa23d2b9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/correr_persona/4e19faf01fb04bfc9d92eabfe45b116c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/correr_persona/01fed91d80e047378c32a584300a07c9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/correr_persona/c523f1fa1eb14bf0bdcc120c2b9cec2f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/saltar_persona/7645c2b7679b4ed7aabf9eae41d3bdbf.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/saltar_persona/3d9fb8bd86854aa69ee6f69fcbeaca51.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/saltar_persona/3f74a8547aaf422686bb28768f7ce27c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/saltar_persona/b434690d99e54ed7beaeb5b6b88e32a2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/saltar_persona/c57e7586bf754cc1bb1aadf4bb0589c7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/saltar_persona/333f5adb95b340b19fc5a6113b247993.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/saltar_persona/f4abb460956240f98b7a6f19cc3037a1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/saltar_persona/219ed629c9394d869bbf19d443188423.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/saltar_persona/46db13bc05fb42b388f7c5d10a0f2c87.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/saltar_persona/832a54d3ba134e1ca2d60d035a06b3e7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/saltar_persona/225f0489a9794033bc7e2c9315fcdb1e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/saltar_persona/a011a38d65274acf8008939b7d412cb9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/saltar_persona/509282b5e29d40c9aee278676e5fd3af.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/saltar_persona/d2adf28a014647be97b593d442ffd602.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/saltar_persona/074d4925ebf9428c8ac251808cc138c8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/saltar_persona/285803048ee34fc0970590aeacc00d5c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/saltar_persona/fd88987f8e5541ada74e222612f5b48b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/saltar_persona/ed38dd5999574b639036ca516ec61ac2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/beber/bf28e3184f6e4849ad437e195baefc88.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/beber/6f3cf35f18d94b5e8882fd9b920d11c4.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/9e82fabf26194896b5ad4a364d864eab.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/43a561e941704eefb1ab0614be4f0049.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/31ea9ee9c82340bc8fd8da2343f9234d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/e304748a4d704299bb1c37bb6f8cf40e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/00ea25ccad8344cbaedc89d70bb75a49.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/852260b6b2ca4939b3ef75cca7866aeb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/a06d60f0ab144adc982cdc94bf24e368.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/9096e628a04242708126cf7b7c8008a1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/829016745f4c430ea7597d20d3b1fda6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/8dc8884c98c444dcaf3cb171c70d27a6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/05d9dd5bdddd4157bd46dc179781ee6e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/9da9099962e946a185cbc71d7754f034.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/a011a38d65274acf8008939b7d412cb9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/d3a292ede4954c9aaf88e9c58d364a15.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/28a769dffab9481b84740f4adcf124fd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/fe50a8debf5e4bc9b88e7887cc99f549.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/c90510150d914f108f2f834b832dfac6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mixamo_personaje/f7d43db0680c4037ab7af9465936cf32.jpg",
+   "mb": 0.0
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "gente_caminando": [
+   {
+    "uid": "6e3b93c078114c52bfe4cfa08b9843eb",
+    "nombre": "Chicken - rigged",
+    "autor": "blujay",
+    "licencia": "CC Attribution",
+    "animaciones": 6,
+    "caras": 412,
+    "url": "https://sketchfab.com/3d-models/none-6e3b93c078114c52bfe4cfa08b9843eb",
+    "miniatura": "miniaturas/gente_caminando/6e3b93c078114c52bfe4cfa08b9843eb.jpg"
+   },
+   {
+    "uid": "4983ac47fa674c1e8e9230c8afa4546e",
+    "nombre": "Grey Alien idle",
+    "autor": "ShaxerTakkuY",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 55016,
+    "url": "https://sketchfab.com/3d-models/none-4983ac47fa674c1e8e9230c8afa4546e",
+    "miniatura": "miniaturas/gente_caminando/4983ac47fa674c1e8e9230c8afa4546e.jpg"
+   },
+   {
+    "uid": "05d9dd5bdddd4157bd46dc179781ee6e",
+    "nombre": "Casual Man Character",
+    "autor": "strielecki",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10962,
+    "url": "https://sketchfab.com/3d-models/none-05d9dd5bdddd4157bd46dc179781ee6e",
+    "miniatura": "miniaturas/gente_caminando/05d9dd5bdddd4157bd46dc179781ee6e.jpg"
+   },
+   {
+    "uid": "d255ba1f26fa4b93b5b186941ecd7005",
+    "nombre": "Monk Circle Walking",
+    "autor": "cmunizaga",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 24447,
+    "url": "https://sketchfab.com/3d-models/none-d255ba1f26fa4b93b5b186941ecd7005",
+    "miniatura": "miniaturas/gente_caminando/d255ba1f26fa4b93b5b186941ecd7005.jpg"
+   },
+   {
+    "uid": "652fe5e621e44616921d81bd2c428452",
+    "nombre": "Walking Angry Robot Wooden Toy",
+    "autor": "trinityscsp",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 469916,
+    "url": "https://sketchfab.com/3d-models/none-652fe5e621e44616921d81bd2c428452",
+    "miniatura": "miniaturas/gente_caminando/652fe5e621e44616921d81bd2c428452.jpg"
+   },
+   {
+    "uid": "c3dddcce6cb2470aadc97f2652411254",
+    "nombre": "Among Us Red w/Animation",
+    "autor": "MashUpMate",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10400,
+    "url": "https://sketchfab.com/3d-models/none-c3dddcce6cb2470aadc97f2652411254",
+    "miniatura": "miniaturas/gente_caminando/c3dddcce6cb2470aadc97f2652411254.jpg"
+   },
+   {
+    "uid": "5596c885813c40c1b83708ee225bc695",
+    "nombre": "Brutal To Happy Walking",
+    "autor": "neighbornerd",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 30296,
+    "url": "https://sketchfab.com/3d-models/none-5596c885813c40c1b83708ee225bc695",
+    "miniatura": "miniaturas/gente_caminando/5596c885813c40c1b83708ee225bc695.jpg"
+   }
+  ],
+  "mujer_caminando": [
+   {
+    "uid": "bbaa566445074509a32ef5059a9d0bc2",
+    "nombre": "Man Woman Walk",
+    "autor": "iko.gazette",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 16231,
+    "url": "https://sketchfab.com/3d-models/none-bbaa566445074509a32ef5059a9d0bc2",
+    "miniatura": "miniaturas/mujer_caminando/bbaa566445074509a32ef5059a9d0bc2.jpg"
+   },
+   {
+    "uid": "d3f65ad04ec845b197a689db48ec4329",
+    "nombre": "Nilda Female Character Walk Animation",
+    "autor": "kelvin-carvalho",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 12352,
+    "url": "https://sketchfab.com/3d-models/none-d3f65ad04ec845b197a689db48ec4329",
+    "miniatura": "miniaturas/mujer_caminando/d3f65ad04ec845b197a689db48ec4329.jpg"
+   }
+  ],
+  "hablar_telefono": [
+   {
+    "uid": "d76210e8daed478a9ec24e1b11ff1425",
+    "nombre": "Goldfish Scene 1:  Aka to Kuro",
+    "autor": "somitsu",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 84272,
+    "url": "https://sketchfab.com/3d-models/none-d76210e8daed478a9ec24e1b11ff1425",
+    "miniatura": "miniaturas/hablar_telefono/d76210e8daed478a9ec24e1b11ff1425.jpg"
+   },
+   {
+    "uid": "c0dc08ae287a46bd9724a3acf5776bf0",
+    "nombre": "Android Bug",
+    "autor": "lazercar",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 1,
+    "caras": 9472,
+    "url": "https://sketchfab.com/3d-models/none-c0dc08ae287a46bd9724a3acf5776bf0",
+    "miniatura": "miniaturas/hablar_telefono/c0dc08ae287a46bd9724a3acf5776bf0.jpg"
+   },
+   {
+    "uid": "b4d00bf20dd84b3d9842fdb1744555be",
+    "nombre": "Mia Talking On Phone",
+    "autor": "instideal2019",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 35821,
+    "url": "https://sketchfab.com/3d-models/none-b4d00bf20dd84b3d9842fdb1744555be",
+    "miniatura": "miniaturas/hablar_telefono/b4d00bf20dd84b3d9842fdb1744555be.jpg"
+   },
+   {
+    "uid": "b69d149f87a94a058fc4e8adb58ebbbf",
+    "nombre": "Mr Man Talking On A Cell Phone",
+    "autor": "instideal2019",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 41407,
+    "url": "https://sketchfab.com/3d-models/none-b69d149f87a94a058fc4e8adb58ebbbf",
+    "miniatura": "miniaturas/hablar_telefono/b69d149f87a94a058fc4e8adb58ebbbf.jpg"
+   },
+   {
+    "uid": "9d3f3674bcf849e099d1d0da4de33e40",
+    "nombre": "Mr Man Talking Phone Pacing",
+    "autor": "instideal2019",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 41407,
+    "url": "https://sketchfab.com/3d-models/none-9d3f3674bcf849e099d1d0da4de33e40",
+    "miniatura": "miniaturas/hablar_telefono/9d3f3674bcf849e099d1d0da4de33e40.jpg"
+   }
+  ],
+  "correr_persona": [
+   {
+    "uid": "ed3d7a4b8b124e1591be83ccb4c02dcd",
+    "nombre": "Male Running (20 frames loop)",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1552,
+    "url": "https://sketchfab.com/3d-models/none-ed3d7a4b8b124e1591be83ccb4c02dcd",
+    "miniatura": "miniaturas/correr_persona/ed3d7a4b8b124e1591be83ccb4c02dcd.jpg"
+   },
+   {
+    "uid": "3ae7ff1299844d4e9e6b15a0fa23d2b9",
+    "nombre": "Animated Dance Teacher - Running Man",
+    "autor": "LasquetiSpice",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 35979,
+    "url": "https://sketchfab.com/3d-models/none-3ae7ff1299844d4e9e6b15a0fa23d2b9",
+    "miniatura": "miniaturas/correr_persona/3ae7ff1299844d4e9e6b15a0fa23d2b9.jpg"
+   },
+   {
+    "uid": "4e19faf01fb04bfc9d92eabfe45b116c",
+    "nombre": "Amy Lee Cowgirl Animated Unity",
+    "autor": "maddex88",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 301531,
+    "url": "https://sketchfab.com/3d-models/none-4e19faf01fb04bfc9d92eabfe45b116c",
+    "miniatura": "miniaturas/correr_persona/4e19faf01fb04bfc9d92eabfe45b116c.jpg"
+   },
+   {
+    "uid": "01fed91d80e047378c32a584300a07c9",
+    "nombre": "Runningman",
+    "autor": "Erlangga1",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1506,
+    "url": "https://sketchfab.com/3d-models/none-01fed91d80e047378c32a584300a07c9",
+    "miniatura": "miniaturas/correr_persona/01fed91d80e047378c32a584300a07c9.jpg"
+   },
+   {
+    "uid": "c523f1fa1eb14bf0bdcc120c2b9cec2f",
+    "nombre": "Running Forward Flip In Place (vanquish)",
+    "autor": "strykerdoesgames",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 13530,
+    "url": "https://sketchfab.com/3d-models/none-c523f1fa1eb14bf0bdcc120c2b9cec2f",
+    "miniatura": "miniaturas/correr_persona/c523f1fa1eb14bf0bdcc120c2b9cec2f.jpg"
+   }
+  ],
+  "saltar_persona": [
+   {
+    "uid": "7645c2b7679b4ed7aabf9eae41d3bdbf",
+    "nombre": "Paperbox Guy - Free 3D Character Model (Game)",
+    "autor": "unidaystudio",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 636,
+    "url": "https://sketchfab.com/3d-models/none-7645c2b7679b4ed7aabf9eae41d3bdbf",
+    "miniatura": "miniaturas/saltar_persona/7645c2b7679b4ed7aabf9eae41d3bdbf.jpg"
+   },
+   {
+    "uid": "3d9fb8bd86854aa69ee6f69fcbeaca51",
+    "nombre": "Monkey D. Luffy",
+    "autor": "nitwit.friends",
+    "licencia": "CC Attribution",
+    "animaciones": 9,
+    "caras": 12545,
+    "url": "https://sketchfab.com/3d-models/none-3d9fb8bd86854aa69ee6f69fcbeaca51",
+    "miniatura": "miniaturas/saltar_persona/3d9fb8bd86854aa69ee6f69fcbeaca51.jpg"
+   },
+   {
+    "uid": "3f74a8547aaf422686bb28768f7ce27c",
+    "nombre": "Animated Old Man Character",
+    "autor": "supertheo",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5428,
+    "url": "https://sketchfab.com/3d-models/none-3f74a8547aaf422686bb28768f7ce27c",
+    "miniatura": "miniaturas/saltar_persona/3f74a8547aaf422686bb28768f7ce27c.jpg"
+   },
+   {
+    "uid": "b434690d99e54ed7beaeb5b6b88e32a2",
+    "nombre": "[Animation] ChillaChan",
+    "autor": "yuzuponponpon",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 3276,
+    "url": "https://sketchfab.com/3d-models/none-b434690d99e54ed7beaeb5b6b88e32a2",
+    "miniatura": "miniaturas/saltar_persona/b434690d99e54ed7beaeb5b6b88e32a2.jpg"
+   },
+   {
+    "uid": "c57e7586bf754cc1bb1aadf4bb0589c7",
+    "nombre": "Fingil",
+    "autor": "7SkyArtist",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 7073,
+    "url": "https://sketchfab.com/3d-models/none-c57e7586bf754cc1bb1aadf4bb0589c7",
+    "miniatura": "miniaturas/saltar_persona/c57e7586bf754cc1bb1aadf4bb0589c7.jpg"
+   },
+   {
+    "uid": "333f5adb95b340b19fc5a6113b247993",
+    "nombre": "NORA",
+    "autor": "newyearstudios",
+    "licencia": "CC Attribution",
+    "animaciones": 10,
+    "caras": 47486,
+    "url": "https://sketchfab.com/3d-models/none-333f5adb95b340b19fc5a6113b247993",
+    "miniatura": "miniaturas/saltar_persona/333f5adb95b340b19fc5a6113b247993.jpg"
+   },
+   {
+    "uid": "f4abb460956240f98b7a6f19cc3037a1",
+    "nombre": "Dolphin - animated - marine mammals series",
+    "autor": "nolanfa",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 738,
+    "url": "https://sketchfab.com/3d-models/none-f4abb460956240f98b7a6f19cc3037a1",
+    "miniatura": "miniaturas/saltar_persona/f4abb460956240f98b7a6f19cc3037a1.jpg"
+   },
+   {
+    "uid": "219ed629c9394d869bbf19d443188423",
+    "nombre": "Humpback Whale - animated - marine mammals",
+    "autor": "nolanfa",
+    "licencia": "CC Attribution",
+    "animaciones": 12,
+    "caras": 618,
+    "url": "https://sketchfab.com/3d-models/none-219ed629c9394d869bbf19d443188423",
+    "miniatura": "miniaturas/saltar_persona/219ed629c9394d869bbf19d443188423.jpg"
+   },
+   {
+    "uid": "46db13bc05fb42b388f7c5d10a0f2c87",
+    "nombre": "focus",
+    "autor": "lil_cj_5888",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 35928,
+    "url": "https://sketchfab.com/3d-models/none-46db13bc05fb42b388f7c5d10a0f2c87",
+    "miniatura": "miniaturas/saltar_persona/46db13bc05fb42b388f7c5d10a0f2c87.jpg"
+   },
+   {
+    "uid": "832a54d3ba134e1ca2d60d035a06b3e7",
+    "nombre": "tiger monster - animated",
+    "autor": "nolanfa",
+    "licencia": "CC Attribution",
+    "animaciones": 6,
+    "caras": 966,
+    "url": "https://sketchfab.com/3d-models/none-832a54d3ba134e1ca2d60d035a06b3e7",
+    "miniatura": "miniaturas/saltar_persona/832a54d3ba134e1ca2d60d035a06b3e7.jpg"
+   },
+   {
+    "uid": "225f0489a9794033bc7e2c9315fcdb1e",
+    "nombre": "Halloween kid - animated",
+    "autor": "nolanfa",
+    "licencia": "CC Attribution",
+    "animaciones": 7,
+    "caras": 868,
+    "url": "https://sketchfab.com/3d-models/none-225f0489a9794033bc7e2c9315fcdb1e",
+    "miniatura": "miniaturas/saltar_persona/225f0489a9794033bc7e2c9315fcdb1e.jpg"
+   },
+   {
+    "uid": "a011a38d65274acf8008939b7d412cb9",
+    "nombre": "Stylized Low poly Animated Character",
+    "autor": "Karthiknaidu97",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 5338,
+    "url": "https://sketchfab.com/3d-models/none-a011a38d65274acf8008939b7d412cb9",
+    "miniatura": "miniaturas/saltar_persona/a011a38d65274acf8008939b7d412cb9.jpg"
+   },
+   {
+    "uid": "509282b5e29d40c9aee278676e5fd3af",
+    "nombre": "Narwhal - animated",
+    "autor": "nolanfa",
+    "licencia": "CC Attribution",
+    "animaciones": 12,
+    "caras": 588,
+    "url": "https://sketchfab.com/3d-models/none-509282b5e29d40c9aee278676e5fd3af",
+    "miniatura": "miniaturas/saltar_persona/509282b5e29d40c9aee278676e5fd3af.jpg"
+   },
+   {
+    "uid": "d2adf28a014647be97b593d442ffd602",
+    "nombre": "Blue Rorqual",
+    "autor": "nolanfa",
+    "licencia": "CC Attribution",
+    "animaciones": 14,
+    "caras": 618,
+    "url": "https://sketchfab.com/3d-models/none-d2adf28a014647be97b593d442ffd602",
+    "miniatura": "miniaturas/saltar_persona/d2adf28a014647be97b593d442ffd602.jpg"
+   },
+   {
+    "uid": "074d4925ebf9428c8ac251808cc138c8",
+    "nombre": "Ralph 1.0",
+    "autor": "newyearstudios",
+    "licencia": "CC Attribution",
+    "animaciones": 9,
+    "caras": 34230,
+    "url": "https://sketchfab.com/3d-models/none-074d4925ebf9428c8ac251808cc138c8",
+    "miniatura": "miniaturas/saltar_persona/074d4925ebf9428c8ac251808cc138c8.jpg"
+   },
+   {
+    "uid": "285803048ee34fc0970590aeacc00d5c",
+    "nombre": "warrior girl - animated",
+    "autor": "nolanfa",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1038,
+    "url": "https://sketchfab.com/3d-models/none-285803048ee34fc0970590aeacc00d5c",
+    "miniatura": "miniaturas/saltar_persona/285803048ee34fc0970590aeacc00d5c.jpg"
+   },
+   {
+    "uid": "fd88987f8e5541ada74e222612f5b48b",
+    "nombre": "Character Jump",
+    "autor": "SamSilcox",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 46912,
+    "url": "https://sketchfab.com/3d-models/none-fd88987f8e5541ada74e222612f5b48b",
+    "miniatura": "miniaturas/saltar_persona/fd88987f8e5541ada74e222612f5b48b.jpg"
+   },
+   {
+    "uid": "ed38dd5999574b639036ca516ec61ac2",
+    "nombre": "Character Jump Animation",
+    "autor": "Xola-Chan_Arts",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 9830,
+    "url": "https://sketchfab.com/3d-models/none-ed38dd5999574b639036ca516ec61ac2",
+    "miniatura": "miniaturas/saltar_persona/ed38dd5999574b639036ca516ec61ac2.jpg"
+   }
+  ],
+  "beber": [
+   {
+    "uid": "bf28e3184f6e4849ad437e195baefc88",
+    "nombre": "624230019 Jollen Drunk Walk",
+    "autor": "624230019",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 49407,
+    "url": "https://sketchfab.com/3d-models/none-bf28e3184f6e4849ad437e195baefc88",
+    "miniatura": "miniaturas/beber/bf28e3184f6e4849ad437e195baefc88.jpg"
+   },
+   {
+    "uid": "6f3cf35f18d94b5e8882fd9b920d11c4",
+    "nombre": "Beedle",
+    "autor": "osukaosaka",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1652,
+    "url": "https://sketchfab.com/3d-models/none-6f3cf35f18d94b5e8882fd9b920d11c4",
+    "miniatura": "miniaturas/beber/6f3cf35f18d94b5e8882fd9b920d11c4.jpg"
+   }
+  ],
+  "gente_rigged": [],
+  "peaton": [],
+  "mixamo_personaje": [
+   {
+    "uid": "9e82fabf26194896b5ad4a364d864eab",
+    "nombre": "S.W.A.T. Operator",
+    "autor": "jeandiz",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 106714,
+    "url": "https://sketchfab.com/3d-models/none-9e82fabf26194896b5ad4a364d864eab",
+    "miniatura": "miniaturas/mixamo_personaje/9e82fabf26194896b5ad4a364d864eab.jpg"
+   },
+   {
+    "uid": "43a561e941704eefb1ab0614be4f0049",
+    "nombre": "FSB Operator",
+    "autor": "jeandiz",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 114273,
+    "url": "https://sketchfab.com/3d-models/none-43a561e941704eefb1ab0614be4f0049",
+    "miniatura": "miniaturas/mixamo_personaje/43a561e941704eefb1ab0614be4f0049.jpg"
+   },
+   {
+    "uid": "31ea9ee9c82340bc8fd8da2343f9234d",
+    "nombre": "Character with animation",
+    "autor": "Tim0",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 32336,
+    "url": "https://sketchfab.com/3d-models/none-31ea9ee9c82340bc8fd8da2343f9234d",
+    "miniatura": "miniaturas/mixamo_personaje/31ea9ee9c82340bc8fd8da2343f9234d.jpg"
+   },
+   {
+    "uid": "e304748a4d704299bb1c37bb6f8cf40e",
+    "nombre": "Game character, Girl. Rigged, textured, animated",
+    "autor": "gbarzu",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 23300,
+    "url": "https://sketchfab.com/3d-models/none-e304748a4d704299bb1c37bb6f8cf40e",
+    "miniatura": "miniaturas/mixamo_personaje/e304748a4d704299bb1c37bb6f8cf40e.jpg"
+   },
+   {
+    "uid": "00ea25ccad8344cbaedc89d70bb75a49",
+    "nombre": "Cartoon Cat",
+    "autor": "Stas_SayHallo",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 68675,
+    "url": "https://sketchfab.com/3d-models/none-00ea25ccad8344cbaedc89d70bb75a49",
+    "miniatura": "miniaturas/mixamo_personaje/00ea25ccad8344cbaedc89d70bb75a49.jpg"
+   },
+   {
+    "uid": "852260b6b2ca4939b3ef75cca7866aeb",
+    "nombre": "Killmonger",
+    "autor": "lil_cj_5888",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5930,
+    "url": "https://sketchfab.com/3d-models/none-852260b6b2ca4939b3ef75cca7866aeb",
+    "miniatura": "miniaturas/mixamo_personaje/852260b6b2ca4939b3ef75cca7866aeb.jpg"
+   },
+   {
+    "uid": "a06d60f0ab144adc982cdc94bf24e368",
+    "nombre": "Gangnam Style Dancing Rabbit Character",
+    "autor": "antonmoek",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1290,
+    "url": "https://sketchfab.com/3d-models/none-a06d60f0ab144adc982cdc94bf24e368",
+    "miniatura": "miniaturas/mixamo_personaje/a06d60f0ab144adc982cdc94bf24e368.jpg"
+   },
+   {
+    "uid": "9096e628a04242708126cf7b7c8008a1",
+    "nombre": "Green Alien",
+    "autor": "strielecki",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 8700,
+    "url": "https://sketchfab.com/3d-models/none-9096e628a04242708126cf7b7c8008a1",
+    "miniatura": "miniaturas/mixamo_personaje/9096e628a04242708126cf7b7c8008a1.jpg"
+   },
+   {
+    "uid": "829016745f4c430ea7597d20d3b1fda6",
+    "nombre": ".Fuse Orion Male Clothes 1",
+    "autor": "livrosparacriancas",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 9013,
+    "url": "https://sketchfab.com/3d-models/none-829016745f4c430ea7597d20d3b1fda6",
+    "miniatura": "miniaturas/mixamo_personaje/829016745f4c430ea7597d20d3b1fda6.jpg"
+   },
+   {
+    "uid": "8dc8884c98c444dcaf3cb171c70d27a6",
+    "nombre": ".Fuse Orion Male Clothes 2",
+    "autor": "livrosparacriancas",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10076,
+    "url": "https://sketchfab.com/3d-models/none-8dc8884c98c444dcaf3cb171c70d27a6",
+    "miniatura": "miniaturas/mixamo_personaje/8dc8884c98c444dcaf3cb171c70d27a6.jpg"
+   },
+   {
+    "uid": "05d9dd5bdddd4157bd46dc179781ee6e",
+    "nombre": "Casual Man Character",
+    "autor": "strielecki",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10962,
+    "url": "https://sketchfab.com/3d-models/none-05d9dd5bdddd4157bd46dc179781ee6e",
+    "miniatura": "miniaturas/mixamo_personaje/05d9dd5bdddd4157bd46dc179781ee6e.jpg"
+   },
+   {
+    "uid": "9da9099962e946a185cbc71d7754f034",
+    "nombre": "Free 018 Kana Tablet",
+    "autor": "endonoriko",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 19422,
+    "url": "https://sketchfab.com/3d-models/none-9da9099962e946a185cbc71d7754f034",
+    "miniatura": "miniaturas/mixamo_personaje/9da9099962e946a185cbc71d7754f034.jpg"
+   },
+   {
+    "uid": "a011a38d65274acf8008939b7d412cb9",
+    "nombre": "Stylized Low poly Animated Character",
+    "autor": "Karthiknaidu97",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 5338,
+    "url": "https://sketchfab.com/3d-models/none-a011a38d65274acf8008939b7d412cb9",
+    "miniatura": "miniaturas/mixamo_personaje/a011a38d65274acf8008939b7d412cb9.jpg"
+   },
+   {
+    "uid": "d3a292ede4954c9aaf88e9c58d364a15",
+    "nombre": "Character test - Walking",
+    "autor": "leoskateman",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 26196,
+    "url": "https://sketchfab.com/3d-models/none-d3a292ede4954c9aaf88e9c58d364a15",
+    "miniatura": "miniaturas/mixamo_personaje/d3a292ede4954c9aaf88e9c58d364a15.jpg"
+   },
+   {
+    "uid": "28a769dffab9481b84740f4adcf124fd",
+    "nombre": "Child Boy Character Animated Blender",
+    "autor": "nijatmursali",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 34316,
+    "url": "https://sketchfab.com/3d-models/none-28a769dffab9481b84740f4adcf124fd",
+    "miniatura": "miniaturas/mixamo_personaje/28a769dffab9481b84740f4adcf124fd.jpg"
+   },
+   {
+    "uid": "fe50a8debf5e4bc9b88e7887cc99f549",
+    "nombre": ".Fuse Orion Male Clothes 6",
+    "autor": "livrosparacriancas",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 13408,
+    "url": "https://sketchfab.com/3d-models/none-fe50a8debf5e4bc9b88e7887cc99f549",
+    "miniatura": "miniaturas/mixamo_personaje/fe50a8debf5e4bc9b88e7887cc99f549.jpg"
+   },
+   {
+    "uid": "c90510150d914f108f2f834b832dfac6",
+    "nombre": "Bit.Bot - Prototype Ver.",
+    "autor": "YogoshimoMoritz",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1108,
+    "url": "https://sketchfab.com/3d-models/none-c90510150d914f108f2f834b832dfac6",
+    "miniatura": "miniaturas/mixamo_personaje/c90510150d914f108f2f834b832dfac6.jpg"
+   },
+   {
+    "uid": "f7d43db0680c4037ab7af9465936cf32",
+    "nombre": ".Fuse Orion Female Clothes 5",
+    "autor": "livrosparacriancas",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 16043,
+    "url": "https://sketchfab.com/3d-models/none-f7d43db0680c4037ab7af9465936cf32",
+    "miniatura": "miniaturas/mixamo_personaje/f7d43db0680c4037ab7af9465936cf32.jpg"
+   }
+  ]
+ }
+}
