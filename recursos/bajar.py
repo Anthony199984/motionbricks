@@ -144,12 +144,36 @@ def commons_buscar(b):
     print("commons", b["q"], len(out))
 
 
+# ------------------------------------------------------------------ sonidos de Mixkit (licencia gratis de Mixkit, sin créditos obligatorios)
+def mixkit(b):
+    """Lee una página de categoría o búsqueda de mixkit.co y baja los efectos (mp3 de vista previa, que es el sonido entero)."""
+    html = leer(b["pagina"]).decode("utf-8", "ignore")
+    urls = list(dict.fromkeys(re.findall(r"https://assets\.mixkit\.co/[^\"'\s]+?\.mp3", html)))[:b.get("max", 12)]
+    titulos = re.findall(r'<h2[^>]*class="[^"]*item-grid-card__title[^"]*"[^>]*>\s*([^<]+)', html)
+    out = []
+    for n, u in enumerate(urls):
+        tit = titulos[n].strip() if n < len(titulos) else os.path.basename(u)
+        nombre = re.sub(r"[^A-Za-z0-9_.-]+", "_", tit)[:50] + "_" + os.path.basename(u)
+        c = dict(titulo=tit, url=u, licencia="Mixkit Sound Effects Free License")
+        try:
+            guardar(u, f"sonidos/{b['clave']}/{nombre}"); c["archivo"] = f"sonidos/{b['clave']}/{nombre}"
+        except Exception as e:                         # noqa: BLE001
+            c["error"] = repr(e)[:100]
+        out.append(c); time.sleep(.5)
+    informe.setdefault("mixkit", {})[b["clave"]] = out
+    print("mixkit", b["pagina"], len(out))
+
+
 def main():
     p = json.load(open("recursos/pedido.json"))
     for b in p.get("sketchfab_buscar", []):
         try: sketchfab_buscar(b)
         except Exception as e:                        # noqa: BLE001
             informe["errores"].append({"buscar": b, "error": repr(e)[:300]}); print("ERROR", b, e)
+    for b in p.get("mixkit", []):
+        try: mixkit(b)
+        except Exception as e:                        # noqa: BLE001
+            informe["errores"].append({"mixkit": b, "error": repr(e)[:300]}); print("ERROR", b, e)
     for b in p.get("commons_buscar", []):
         try: commons_buscar(b)
         except Exception as e:                        # noqa: BLE001

@@ -1,70 +1,10 @@
 {
  "catalogo": false,
- "informe": "informe_mono_objaverse2.json",
+ "informe": "informe_velocidad_sonidos2.json",
  "objaverse": [
   {
-   "uid": "50e4b1da03494429b1265fc095f2c530",
-   "nombre": "mono_realista_tdu",
-   "titulo": "Realsitic Monkey",
-   "autor": "TdoubleU8",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-50e4b1da03494429b1265fc095f2c530",
-   "caras": 35248,
-   "anim": 0
-  },
-  {
-   "uid": "50fb86d3786d4038b41369e8e26a4cf7",
-   "nombre": "mono_rigged_aldan",
-   "titulo": "Monkey Fully Rigged",
-   "autor": "AIdan127458",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-50fb86d3786d4038b41369e8e26a4cf7",
-   "caras": 24008,
-   "anim": 0
-  },
-  {
-   "uid": "3ba199e0a78546598f868e86d78495a0",
-   "nombre": "mono_simio_baile",
-   "titulo": "Simio Monkey dancing",
-   "autor": "pepetrincado",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-3ba199e0a78546598f868e86d78495a0",
-   "caras": 23912,
-   "anim": 1
-  },
-  {
-   "uid": "74e7cee7ed044439aca9241b0739156e",
-   "nombre": "mono_baile_jhinuk",
-   "titulo": "Monkey Dancing",
-   "autor": "jhinuk",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-74e7cee7ed044439aca9241b0739156e",
-   "caras": 36038,
-   "anim": 1
-  },
-  {
-   "uid": "b831c874006d4512a6459f34018cbf88",
-   "nombre": "mono_singe",
-   "titulo": "Singe",
-   "autor": "philou972",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-b831c874006d4512a6459f34018cbf88",
-   "caras": 9670,
-   "anim": 1
-  },
-  {
-   "uid": "8955fb5b9c9b4e169456ccbae7c465f7",
-   "nombre": "mono_anim40",
-   "titulo": "MONKEY",
-   "autor": "dinesdiabolik",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-8955fb5b9c9b4e169456ccbae7c465f7",
-   "caras": 34176,
-   "anim": 40
-  },
-  {
    "uid": "0aa0e33c5c854d1bab7bac9e1c7acaec",
-   "nombre": "cerebro_pranktoy",
+   "nombre": "cerebro_rosado",
    "titulo": "Human brain, Cerebrum & Brainstem",
    "autor": "pranktoy",
    "licencia": "CC Attribution",
@@ -73,189 +13,161 @@
    "anim": 0
   },
   {
-   "uid": "49bcdf19c1904c76a456b31838b0d7ac",
-   "nombre": "cerebro_versal",
+   "uid": "c9c9d4d671b94345952d012cc2ea7a24",
+   "nombre": "cerebro_2",
    "titulo": "Human Brain",
-   "autor": "versal",
+   "autor": "agher",
    "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-49bcdf19c1904c76a456b31838b0d7ac",
-   "caras": 36708,
+   "url": "https://sketchfab.com/3d-models/none-c9c9d4d671b94345952d012cc2ea7a24",
+   "caras": 74590,
    "anim": 0
   },
   {
-   "uid": "2ffd19605a4f4aa59ee260f831c50132",
-   "nombre": "cerebro_brain2",
-   "titulo": "BRAIN2",
-   "autor": "idmental.id",
+   "uid": "5c4565daf20e488fad8e0e4335c5c60a",
+   "nombre": "ojo_foto",
+   "titulo": "Eyeball - Photorealistic",
+   "autor": "TrentPierce",
    "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-2ffd19605a4f4aa59ee260f831c50132",
-   "caras": 25372,
+   "url": "https://sketchfab.com/3d-models/none-5c4565daf20e488fad8e0e4335c5c60a",
+   "caras": 10582,
    "anim": 0
   },
   {
-   "uid": "22fa9afe14724d9bbcffcc1160d6c447",
-   "nombre": "neurona_rosada",
-   "titulo": "Neuron",
-   "autor": "thatdudeart",
+   "uid": "5d466ea41c874fc5b376c92a313a9bb3",
+   "nombre": "ojo_2",
+   "titulo": "EYE FREE MODEL 3D BY Oscar creativo",
+   "autor": "oscar_creativo",
    "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-22fa9afe14724d9bbcffcc1160d6c447",
-   "caras": 141350,
-   "anim": 0
-  },
-  {
-   "uid": "6834b20a2bc6473d85737587a20ff84f",
-   "nombre": "neurona_multipolar",
-   "titulo": "Multipolar neuron",
-   "autor": "alainsorazu",
-   "licencia": "CC Attribution-ShareAlike",
-   "url": "https://sketchfab.com/3d-models/none-6834b20a2bc6473d85737587a20ff84f",
-   "caras": 99904,
-   "anim": 0
-  },
-  {
-   "uid": "6e9c67e3adc345a4b12d0e4f825851a2",
-   "nombre": "chocolate_simple",
-   "titulo": "Simple Chocolate Bar",
-   "autor": "Blender3D",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-6e9c67e3adc345a4b12d0e4f825851a2",
-   "caras": 1304,
-   "anim": 0
-  },
-  {
-   "uid": "69d0a671024e4928a12f5ee0d655f0a6",
-   "nombre": "chocolate_barra",
-   "titulo": "Chocolat Bar",
-   "autor": "davimfs7",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-69d0a671024e4928a12f5ee0d655f0a6",
-   "caras": 375338,
-   "anim": 0
-  },
-  {
-   "uid": "fe03debc89a045f4a5cffe1974071347",
-   "nombre": "chocolate_barra2",
-   "titulo": "Chocolate Bar",
-   "autor": "freddy1231",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-fe03debc89a045f4a5cffe1974071347",
-   "caras": 1304,
-   "anim": 0
-  },
-  {
-   "uid": "3c8560d994024359950d4a7707d7b2b6",
-   "nombre": "chocolate_oscuro",
-   "titulo": "Dark Chocolate Bar",
-   "autor": "lavz",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-3c8560d994024359950d4a7707d7b2b6",
-   "caras": 6968,
-   "anim": 0
-  },
-  {
-   "uid": "f1075e12ba4a49368e0f29c62881ac73",
-   "nombre": "palanca_vieja",
-   "titulo": "Old lever",
-   "autor": "gunnarcorrea",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-f1075e12ba4a49368e0f29c62881ac73",
-   "caras": 526,
-   "anim": 1
-  },
-  {
-   "uid": "374608f75c114b8a9bf41dbc02c51c50",
-   "nombre": "palanca_interruptor",
-   "titulo": "Lever Power Switch",
-   "autor": "fengyuan20000303",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-374608f75c114b8a9bf41dbc02c51c50",
-   "caras": 872,
-   "anim": 1
-  },
-  {
-   "uid": "1d4a93a0427a43ffabb5cc47c8a819be",
-   "nombre": "palanca_cc0",
-   "titulo": "CC0 - Lever",
-   "autor": "plaggy",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-1d4a93a0427a43ffabb5cc47c8a819be",
-   "caras": 660,
-   "anim": 0
-  },
-  {
-   "uid": "12b732a16bcc403baba50cb769816e8b",
-   "nombre": "palanca_scp",
-   "titulo": "Lever - SCP",
-   "autor": "Maxime66410",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-12b732a16bcc403baba50cb769816e8b",
-   "caras": 366,
+   "url": "https://sketchfab.com/3d-models/none-5d466ea41c874fc5b376c92a313a9bb3",
+   "caras": 35520,
    "anim": 0
   }
  ],
- "sketchfab_buscar": [
+ "mixkit": [
   {
-   "clave": "mono_japones",
-   "q": "japanese macaque",
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40
+   "clave": "mk_whoosh",
+   "pagina": "https://mixkit.co/free-sound-effects/whoosh/",
+   "max": 10
   },
   {
-   "clave": "mono_nieve",
-   "q": "snow monkey",
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40
+   "clave": "mk_glass",
+   "pagina": "https://mixkit.co/free-sound-effects/glass/",
+   "max": 10
   },
   {
-   "clave": "mono_capuchino",
-   "q": "capuchin",
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40
+   "clave": "mk_wind",
+   "pagina": "https://mixkit.co/free-sound-effects/wind/",
+   "max": 10
   },
   {
-   "clave": "mono_primate",
-   "q": "primate",
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40
+   "clave": "mk_dog",
+   "pagina": "https://mixkit.co/free-sound-effects/dog/",
+   "max": 10
   },
   {
-   "clave": "mono_escaneo",
-   "q": "monkey scan",
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40
+   "clave": "mk_bat",
+   "pagina": "https://mixkit.co/free-sound-effects/bat/",
+   "max": 10
   },
   {
-   "clave": "mono_mono",
-   "q": "monkey sitting",
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40
+   "clave": "mk_insect",
+   "pagina": "https://mixkit.co/free-sound-effects/insect/",
+   "max": 10
   },
   {
-   "clave": "mono_chimp",
-   "q": "chimpanzee",
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40
+   "clave": "mk_fly",
+   "pagina": "https://mixkit.co/free-sound-effects/fly/",
+   "max": 10
   },
   {
-   "clave": "mono_mandril",
-   "q": "mandrill",
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40
+   "clave": "mk_footsteps",
+   "pagina": "https://mixkit.co/free-sound-effects/footsteps/",
+   "max": 10
   },
   {
-   "clave": "mono_ape",
-   "q": "ape realistic",
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40
+   "clave": "mk_running",
+   "pagina": "https://mixkit.co/free-sound-effects/running/",
+   "max": 10
+  },
+  {
+   "clave": "mk_splash",
+   "pagina": "https://mixkit.co/free-sound-effects/splash/",
+   "max": 10
+  },
+  {
+   "clave": "mk_water",
+   "pagina": "https://mixkit.co/free-sound-effects/water/",
+   "max": 10
+  },
+  {
+   "clave": "mk_explosion",
+   "pagina": "https://mixkit.co/free-sound-effects/explosion/",
+   "max": 10
+  },
+  {
+   "clave": "mk_impact",
+   "pagina": "https://mixkit.co/free-sound-effects/impact/",
+   "max": 10
+  },
+  {
+   "clave": "mk_boom",
+   "pagina": "https://mixkit.co/free-sound-effects/boom/",
+   "max": 10
+  },
+  {
+   "clave": "mk_crash",
+   "pagina": "https://mixkit.co/free-sound-effects/crash/",
+   "max": 10
+  },
+  {
+   "clave": "mk_eating",
+   "pagina": "https://mixkit.co/free-sound-effects/eating/",
+   "max": 10
+  },
+  {
+   "clave": "mk_bird",
+   "pagina": "https://mixkit.co/free-sound-effects/bird/",
+   "max": 10
+  },
+  {
+   "clave": "mk_pigeon",
+   "pagina": "https://mixkit.co/free-sound-effects/pigeon/",
+   "max": 10
+  },
+  {
+   "clave": "mk_crack",
+   "pagina": "https://mixkit.co/free-sound-effects/crack/",
+   "max": 10
+  },
+  {
+   "clave": "mk_brake",
+   "pagina": "https://mixkit.co/free-sound-effects/brake/",
+   "max": 10
+  },
+  {
+   "clave": "mk_squeak",
+   "pagina": "https://mixkit.co/free-sound-effects/squeak/",
+   "max": 10
+  },
+  {
+   "clave": "mk_heartbeat",
+   "pagina": "https://mixkit.co/free-sound-effects/heartbeat/",
+   "max": 10
+  },
+  {
+   "clave": "mk_clock",
+   "pagina": "https://mixkit.co/free-sound-effects/clock/",
+   "max": 10
+  },
+  {
+   "clave": "mk_swoosh",
+   "pagina": "https://mixkit.co/free-sound-effects/swoosh/",
+   "max": 10
+  },
+  {
+   "clave": "mk_transition",
+   "pagina": "https://mixkit.co/free-sound-effects/transition/",
+   "max": 10
   }
  ]
 }
