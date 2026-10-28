@@ -7,7 +7,7 @@
     "salida": "transcripcion_eval_mono.json",
     "modelo": "small"
    },
-   "error": "CalledProcessError(1, ['/usr/bin/python3', '-c', \"import json,sys\\nfrom faster_whisper import WhisperModel\\nm=WhisperModel('small',device='cpu',compute_type='int8')\\nsegs,info=m.transcribe('recursos/entrada/eval_mono.mp3',language='es')\\nout=[dict(ini=round(s.start,2),fin=round(s.end,2),texto=s.text"
+   "error": "RuntimeError('Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\\nTraceback (most recent call last):\\n  File \"<string>\", line 4, in <module>\\n  File \"/home/runner/.local/lib/python3.12/site-packages/faster_whisper"
   }
  ],
  "saltados": []
