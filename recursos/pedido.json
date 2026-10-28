@@ -1,116 +1,70 @@
 {
  "catalogo": false,
- "informe": "informe_mono_sonidos1.json",
- "mixkit": [
+ "informe": "informe_mono_sketchfab_todo.json",
+ "sketchfab_buscar": [
   {
-   "clave": "mn_mk_click",
-   "pagina": "https://mixkit.co/free-sound-effects/click/",
-   "max": 10
+   "clave": "sf_macaco_anim",
+   "q": "macaque",
+   "animado": true,
+   "paginas": 4,
+   "solo_objaverse": false,
+   "max": 60
   },
   {
-   "clave": "mn_mk_switch",
-   "pagina": "https://mixkit.co/free-sound-effects/switch/",
-   "max": 10
+   "clave": "sf_rhesus",
+   "q": "rhesus",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": false,
+   "max": 60
   },
   {
-   "clave": "mn_mk_machine",
-   "pagina": "https://mixkit.co/free-sound-effects/machine/",
-   "max": 10
+   "clave": "sf_mono_rig",
+   "q": "monkey rigged",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": false,
+   "max": 60
   },
   {
-   "clave": "mn_mk_clock",
-   "pagina": "https://mixkit.co/free-sound-effects/clock/",
-   "max": 10
+   "clave": "sf_macaque_rig",
+   "q": "macaque rig",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": false,
+   "max": 60
   },
   {
-   "clave": "mn_mk_drop",
-   "pagina": "https://mixkit.co/free-sound-effects/drop/",
-   "max": 10
+   "clave": "sf_monkey_anim_real",
+   "q": "realistic monkey",
+   "animado": true,
+   "paginas": 4,
+   "solo_objaverse": false,
+   "max": 60
   },
   {
-   "clave": "mn_mk_bite",
-   "pagina": "https://mixkit.co/free-sound-effects/bite/",
-   "max": 10
+   "clave": "sf_japanese",
+   "q": "japanese macaque",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": false,
+   "max": 60
   },
   {
-   "clave": "mn_mk_crunch",
-   "pagina": "https://mixkit.co/free-sound-effects/crunch/",
-   "max": 10
+   "clave": "sf_baboon_anim",
+   "q": "baboon",
+   "animado": true,
+   "paginas": 4,
+   "solo_objaverse": false,
+   "max": 60
   },
   {
-   "clave": "mn_mk_monkey",
-   "pagina": "https://mixkit.co/free-sound-effects/monkey/",
-   "max": 10
-  },
-  {
-   "clave": "mn_mk_heartbeat",
-   "pagina": "https://mixkit.co/free-sound-effects/heartbeat/",
-   "max": 10
-  },
-  {
-   "clave": "mn_mk_button",
-   "pagina": "https://mixkit.co/free-sound-effects/button/",
-   "max": 10
-  },
-  {
-   "clave": "mn_mk_motor",
-   "pagina": "https://mixkit.co/free-sound-effects/motor/",
-   "max": 10
-  },
-  {
-   "clave": "mn_mk_eat",
-   "pagina": "https://mixkit.co/free-sound-effects/eat/",
-   "max": 10
-  }
- ],
- "commons_buscar": [
-  {
-   "clave": "mn_c_palanca",
-   "q": "lever switch click",
-   "n": 12,
-   "max_mb": 4
-  },
-  {
-   "clave": "mn_c_contador",
-   "q": "mechanical counter click",
-   "n": 12,
-   "max_mb": 4
-  },
-  {
-   "clave": "mn_c_motor",
-   "q": "small electric motor hum",
-   "n": 12,
-   "max_mb": 4
-  },
-  {
-   "clave": "mn_c_reloj",
-   "q": "clock ticking",
-   "n": 12,
-   "max_mb": 4
-  },
-  {
-   "clave": "mn_c_gota",
-   "q": "water drop",
-   "n": 12,
-   "max_mb": 4
-  },
-  {
-   "clave": "mn_c_mordida",
-   "q": "biting chocolate",
-   "n": 12,
-   "max_mb": 4
-  },
-  {
-   "clave": "mn_c_mono",
-   "q": "rhesus macaque",
-   "n": 12,
-   "max_mb": 4
-  },
-  {
-   "clave": "mn_c_latido",
-   "q": "heartbeat",
-   "n": 12,
-   "max_mb": 4
+   "clave": "sf_primate_anim",
+   "q": "primate",
+   "animado": true,
+   "paginas": 4,
+   "solo_objaverse": false,
+   "max": 60
   }
  ]
 }
