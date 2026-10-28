@@ -1,17 +1,23 @@
 {
- "total_seconds": 898.7,
+ "total_seconds": 556.6,
  "jobs": [
   {
-   "name": "03a_estirarse",
-   "response": "OK\t105\t30",
-   "seconds": 376.0,
-   "frames": 105
+   "name": "g01_rascarse_cabeza_confundido_a",
+   "response": "OK\t90\t30",
+   "seconds": 227.9,
+   "frames": 90
   },
   {
-   "name": "04c_pechadas",
-   "response": "OK\t165\t30",
-   "seconds": 522.6,
-   "frames": 165
+   "name": "g11_mirar_alrededor_nervioso_a",
+   "response": "OK\t90\t30",
+   "seconds": 228.5,
+   "frames": 90
+  },
+  {
+   "name": "t50_g06_asentir",
+   "response": "OK\t75\t30",
+   "seconds": 100.1,
+   "frames": 75
   }
  ]
 }
