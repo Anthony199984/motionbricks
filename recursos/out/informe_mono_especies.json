@@ -1,0 +1,5475 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/e_obj_gorilla/6hiH0iyDqXqtdD9wbqSbyLLhKmz.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/87bf3a69d6a848d3a38dcbeabf9a80cd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/85ea87d33e7b47e490e3c3215457fbf1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/a75d91ceeba4440981d488cf1e670773.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/3ba199e0a78546598f868e86d78495a0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/055af5a611d7428293a11383685c5091.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/56296264dad244eab43874fe8f419f99.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/60136f190e5c426cb435bda2f8f6bf5e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/389a5b1f8eb144519805eab99bca0fb3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/55fbba005b6c4244ba4045fc3b4fbf6e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/f367f356b98742e78dfa85da1e555a02.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/0de2571c696b473b8240a5305084d017.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/d948a97bd49841949d29f664c2e6b642.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/b50cab2736c04d128f417f05008605fd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/d57fdb3208d74a4daf129cccd91311b8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/808b2c0c11bf44c983e8b8c787ada844.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/c7852e2237f24728b45ef842b078ec1b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/9fc9608969fa49b687432de180f10766.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/450fff08b2084e6796c487b1a820c4a5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/b6acd8195cfc4c7d9c4134b33332681a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/f51fcc7db4ed43b8a03561d12dc7f67c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/ad28003205884841a028e80edb4089ef.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gorilla/35d0499d6b814334aca8ff1f2f54f192.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/87bf3a69d6a848d3a38dcbeabf9a80cd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/85ea87d33e7b47e490e3c3215457fbf1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/a75d91ceeba4440981d488cf1e670773.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/3ba199e0a78546598f868e86d78495a0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/e6e7b718300d42128d9bb41ddf700bd5.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/b50cab2736c04d128f417f05008605fd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/8ffa5ed7a2a849389e3c7d709f3c6604.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/c7852e2237f24728b45ef842b078ec1b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/9295732945f6457bb40f5b988ffd247a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/f51fcc7db4ed43b8a03561d12dc7f67c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/e69585d870ce4ae382fd071e87ae3b0e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/ab07f711ac86418d994e41498731bc39.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/20302022a1074234b5245e65a2fb17c1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/939d397ee3d746a08770b759fecaa0a4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/2f360d0ff51b4f42b624c98d80edd2c2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/838068c49f29482d821409ca8beca7e3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/518b2a119d2c4f41b5c83d5e70fc67db.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/2a61410b0c4749778650baabcde7a3e1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/6f77f1ae5d6743f889dbf823d565b4a8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/364bd95f3a824390ba7dc0f945e8d765.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/b7008e99dbec4f43af2f0c9c119bf5d2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/5644b204890b4f69b6371faf50bb1494.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/6a907e9ff03f4fcb8afef20303a9e24c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/00d46f058f0e405c944fbc18ba2a0489.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/a0787db59eda421ebf7def54cd03729e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/4cace1a21e33412480be8dcef08fbc96.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/815bb7ea43004a748f7f90e3ac756e67.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/d7db8d8c49cc4096bb5fbcc4ff95230f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/b707ee298ef24bb18f9cdf0ec9ddb576.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/8cfc88052cf14288948d70b80d249065.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/1159292f556f49dc8a21e940c2919942.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/34d4568903a048f7acb9a0a31b3513e4.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/eb280e5fb4f5460d8a9b88ab5df2f82b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/5d424a0a1e0946ccb4e3da84db08727e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/1a2f38802dad4e3b9c45c5742eac6487.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/8b5ad2321e6e4b4689322b720012dbc6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/34def1b077354d3982ffdf85cf31f063.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/122fbea5c8a745038b100528cbc86530.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/5871ba361293465991bfbd599ea9235b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gorilla/8872e1d0c1d944848f9d604bc3d23f57.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/fe8845228fb347fdbc9a6aa99a36a162.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/c33d30ae8272473ca8f648cf2c31956b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/c3b96f7065c442bc9cb9acc7223acda2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/eafa231686e947668fd4518c27a7ee8a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/a9d93a9ef2d044eaadf7d32d48c2d8a6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/0dc55af78314498db2d888b7d1ac49e4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/539875c4f92f4a13a8e215eb460eb68d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/3d32db36ab6245f29fffb61483001f20.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/e97023de84cd4a73a7b960e8bf1061d9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/43e2d50eb4a3477ba0f9edc534409356.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/2b04389db0774fd694d1f8fe0a9b6b47.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/e01cd8d9e805408997292b6882936c5d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/72ce6c28e1774e33b24f0562483a191c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/410bfeecb4244eb8b45668046072108b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/143190e528844613baa37797358d6298.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/a2a550a4eced4a159bf00a92b8f58034.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/96ca837bd0cc46d08e7458867b8ecf9c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/a3571c1aa3f44e5a9a9e497cc7ad3dea.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/bd1980dc008a4642997e82dc1b76176a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/f77977d3af9948fd862525c3a8fd88c3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/98a3859e80cd4fb18762332603496bf8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/61738c16980c46f5b396498b0d306400.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/223fc895a71a483c900e1a33f96bfeaf.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_orangutan/4edd2747bfc14a96b43796dbf27b7e9b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_orangutan/fe8845228fb347fdbc9a6aa99a36a162.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_orangutan/a9d93a9ef2d044eaadf7d32d48c2d8a6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_orangutan/539875c4f92f4a13a8e215eb460eb68d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_orangutan/687c3e3605be4497893f347674069df9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_orangutan/3d32db36ab6245f29fffb61483001f20.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/bbec803fc8064bafabe82c22eb5865bb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/f4807cff90194ef5a17107cdf8a30641.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/08da2ceac1df4b78999f3f89c1af00db.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/cc46c933b12a423ca293caa10ccbebb1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/893dbc57632b4259874495035703e9cb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/616e53a55eb64f3489045e279cb8c48b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/e17422e4e8b04cc7adf0911f98f95595.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/c86a0824e9b644e1a545b15dedc11f3d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/687052455bdf42379170f3060e260549.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/a1a1f76ce9fb4286a7a744a75b636f86.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/dc312a9fa3254b51a8c43957185e1f4b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/d934378752d5415db493d6f83e6a161e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/ab20ed5a5a024f3a9599220b37615871.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/2d57873f2ffb4c1ab38d385a2b42f349.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/1a1717c5a2724e6c8511a587462a9b29.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/354b3dd4b2684acea45a9f94d316872b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/9641b196d7dc48a5bf619cd6167edcef.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/3fd7edf88f204e99aa26cc0d1541fb0e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/3a2d76bd15034b78b6e184f70bb6d901.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/81dd4ecef24f4279b7564577b8f38057.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/e58d0ea6e34a4d6bbe7c9905e0422b61.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gibbon/bd5bdf59fa604687aadd32c2cb05b26d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gibbon/278b3c3950fa4fa1b053fc93c3a29ce1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gibbon/8980bf128f564811982defef0bf88153.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_gibbon/7271a42027134d528630d82348bed6a1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/09791b8a688f455796768cd903f681e1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/08306520d01d4f41aaf5537067e525b0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/dbb114c765b648aab6d4cc436fe96b8c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/b49b80f35ab148a782f4082d1dfad9c5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/b83a217e413e4e14988175f08026cf2b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/9d71b33754d44adf8c6b7ed0d066030e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/a0e63c6ce57341a992ccccf45d7d7d03.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/31e7fb66a6964f5fb561dae1a9b04a24.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/084ba907e5ac452fa9e125eb814884c1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/6944d439ebe5494cb2dbb45bc4a7ef78.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/5762aa7f75354518a5b1d85302eb92fc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/f0c519e6f5d24b27ad11ced9670fb2a0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/0cbda598947e4113a0c46343c3c6319b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/bbb4a6075c2f4030be5afebeb799f3e6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/a459ffb903dc42e5a88ed4b285ca7dd0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/a1e5d68ef4e34eb1ac9421663a0e11ec.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/6ff494a37df24eef947ee631da5fe72f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/6e0ac301b02a4d20bb1b74e10995632b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/f7d6cd77e94f426594d5bda52522178b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/5746116764ef43449f155be511ea7154.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_lemur/5cea992c333c4c28a269eee93213c6a1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_lemur/aceea3625be84aa98e0366bbbce9c677.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_lemur/b02cdbe690fe44d8aca3c4f8a70e92e5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_lemur/d530cac81d9a457f9dfaa3779f7e7e90.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_lemur/51a9a004ffb148939feac257f08171c2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_lemur/b83a217e413e4e14988175f08026cf2b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_lemur/5bb245fdc99648ab85cf6d5d5442bc5b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_lemur/be835135434a4e8bad7c63d263a81d4b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_lemur/f8e44fb0237a4a0fa398d07b7b05a028.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_howler_monkey/57603ddf98f04877b855ff4aae8f2e88.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_howler_monkey/eb0628ac5af34d28a79970cbcc76a560.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_spider_monkey/745efca54e0244d48d2719516f8a6c7f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_spider_monkey/cd278ff7bf964c2188872c7c90291f38.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_spider_monkey/33e77d5d0d564af0964b390193b772c9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_spider_monkey/eb59b00059dd42c5a9393239fc40f456.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_spider_monkey/15dbe386d8df4c40abbe893bf1241eea.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_spider_monkey/9d71b33754d44adf8c6b7ed0d066030e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_spider_monkey/9feffd41decb4d1ea6d77967e0adc6a3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_spider_monkey/bd22eef5e8024d62add0f74c43167b1d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_spider_monkey/c9cc4a3a1a12469eb768353714ba5ead.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_spider_monkey/2cb8857121c541508dc6eb8bc7b4b0cd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_spider_monkey/039fe32530d24025a8a2b3333c5b05ad.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_spider_monkey/e4a472d6f4764e73b8483913d16510ab.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_spider_monkey/23097f9302b04c07862514e9665ba38f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_spider_monkey/d8a6436d2e464dfdb534382dd4d23fee.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_vervet/046e3164fbdb422f9aba133cd0acced3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/bf9a19aae6914a2c866311887edc8b3e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/c80dba249d9547cbb48d00828d23cfa7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/9d22e02ce2a548959b1c4c4c1d546842.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/2d1bef3aa9ae47c5aee26cc3f032ab31.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/7cfe1fae9b414f07bcc1d5719bdebf9b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/a4beb5c0c4b548108b28ef4a891ccec7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/4cf09dde878f41fab2095ff9198c24af.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/77da87c27b784fa1951f187642b4d3fd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/2edf57ce2e6c4475bd4897b9c91b0a77.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/2d523b639c79407daff09ed23491e706.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/81914abdc5b64b259d36ec7044118949.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/82797367c2b94fb1981e556577a3c898.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/20f1ebee339a4b46b9e547782e2aaba9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/9bd8adc4cf074a0e85277acd3d6333e9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/07cdf9f5f55c4b7a9be1e0057f7736f0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/040f40e20e9344f5bd368e4db3d3b2ac.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/fae22ece4d764979aafd614ebe09956d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/bde24275c4314886ac9ef9b98342cfa7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/6863824addaa4115aabf4455e9c6573f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/5cc7b9ac82db44a18aa9d37afe1498d2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/deadcadc915545a7b4701dbe6eb419e8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/24c821bbe0a1469ba66b9d5894546d9a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/2799b0b859c74db6ae8752fdc6bb4c04.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/d33869e8bec44de4b60d528712e6fc04.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/843361ad169040fba19fe8758f5bd396.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/7669b27d4e634e7b9cd114d50c33af97.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/99d6dce2e49e4ba185ac108ab044524d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/add0f902b9164718bd0540e88bf9927e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/e2c072b89454484bace2b7675f7577a2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/c43dfbc4d1b84a55b8d3581493965c69.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/41b54ad4d0ac410c91fbecd18ce199aa.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/8b33ab96b91a45b1bdaa81b3effd7970.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/8802f919d5bf455ea716261b18b4fd7b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/1dc7708fd7bd4ea1b035f4c48dbd7868.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/984250852a6648faa9a659d7699caf88.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/bec41018cdae4280994ce6eed629a312.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/80419f7e64e24afe97e0931b6aeee612.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/2e8b3685be44458a854e1a2aefdd621f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_marmoset/51bda25372f944c3a9a023aaeda85d24.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/2d523b639c79407daff09ed23491e706.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/82797367c2b94fb1981e556577a3c898.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/6357bbc094d54cf5ba150ef2951b3750.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/788797a8a6284a29a04961cb09072eda.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/4173249254954513bfa1e5785fb40dd5.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/81c37685c47c4f98a33738127e8a75c1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/e2c072b89454484bace2b7675f7577a2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/d0cc472209ef4bfbab8cf4f22b69f68d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/0730705327e045bd8cb98a888bd0f954.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/8934180d821944dea054c8022c0fe4a6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/51a65d90e9a141f480ba38939ec9a050.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/234b1772e68746ba855afd95bf7f2f54.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/8eb3a8bd0d20478bba149de03c3b91ae.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/92f751dab03e4a2792348a21b3673ec1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/01de3d58f22c4f34b056c03cadb4e7d0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/1bcc7055a1ba4cd284e181fb38041253.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/648f6093d6c84777ab335d6c6c4c78b4.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/fb9e951263f84af290bfb96ede790d01.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/991a599996b24444b0c783a681b4a9e2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/bd8290074df34eb99f174edb176fcc46.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/91f45f5744fa4d1886ab6ce8e8d22c5e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/ec1c6e2250824c3987cde64ea29ccd52.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/0fbe7f481fd2416cbdad416599c4e3b6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/6232f62123664b8db70a04d6a110f211.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/96c6bfa9eba84191accb773924e03726.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/e1b77308e1f24d8aa0c5da969971ba30.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/d1bdf5065da3415cbbce5f91406bdd70.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/37719e8018964286b66a55d31fb746f9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/fd6cf361c8534bd3b5d9c3cc7eb2aea6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/06c54ca5319a47c8b23ffd39da741848.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/93705b50d327400a8a0cf121c0651719.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/5c412c04f5074451a4940eac98325092.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/18c4a3757552423f9636f30a1fb4ad71.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/577b37fe8a4d46878d1cb8ccec0c805e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/402848d2da654330bc9c3f23ec06cf8d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/42da47ae59574ed5a6b86b49734294cc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/af59df5bb2e0431596c1b0d7071e600f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/1fbf1b8b17bb4048bbf74f4eba083931.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/56d65a1c699e4458b48189b57c5d146f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_marmoset/7fc0ddaee07946afb9c602ef843f6fd6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_proboscis_monkey/fb8a8bdc2c554b19be8eb73478c38474.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_proboscis_monkey/58e9f1d96e9b418c8439c5622aac33c3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_gelada/ee04c93f308e46088790404e6ec6694b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_colobus/f7d1489031ce475084e3260a0d0ba289.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_colobus/5e51d26d01bd4ae6ae4de46c5ce34eb8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_colobus/4ccd381b2d9e48bc8dd7113ce444c030.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_colobus/19bacbf83ff74e4492250ba1ea14eb1b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_colobus/f8d1ff5c77214c0c8a37d4b59946c38a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/b037fdaefe0546f6b485c16253e9429a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/eb132567326042439625b91d17429758.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/bd8a50ef7f4848339a02371edc07e5af.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/75debbf3bfe14c259bd0db21581924de.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/33e77d5d0d564af0964b390193b772c9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/1fd99e3986d74554a8ad2b70b4b22a0f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/34a4a6e3362b442f8f0bc571bdb74dd8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/d96375cba6924dca9e4e07dc8eed287f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/54b70d40ec49426aa81e92d43a6db42d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/1f22757ccdb24e368d702f9370dfeff3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/a654f304b2f5453d9274a89b7b898012.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/d19d414de8714bc1905a84392b2c90d7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/0c6de56d4c1c41bcb39d0c5a0e862a18.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/9188bbd153f84f2f81185dcdef480ab6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/c085752f5c1f42d48de99cd95c2c771e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/f6b112778a7e438896171f210e7c61d2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/2818f7bf504841c69165d801e97cb412.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/f2edbc378ee4467385dabaca7e2173da.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/cd1d2729ed9d4c40b4bd8724501e6507.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/c1e8553a9ec44d8b8ccf57a5dfa968d8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/68ef79a751484c63a63fabea435899ad.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/5bbfbcfbd07b48f2ac468857cc1f73eb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/91064186512d4806b510b634c49c679f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_tamarin/2541a04ca2f84e6cad3181102f66b48f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_tamarin/260e9e39e94f45cfa70219df7334b5c7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_tamarin/2bca01815ecd4ffa9a24bb30a33c1d8e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_squirrel_monkey/15dbe386d8df4c40abbe893bf1241eea.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_squirrel_monkey/9d71b33754d44adf8c6b7ed0d066030e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_squirrel_monkey/417005a58d9c4c47a5836bea8bca3fef.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_squirrel_monkey/862153aa6df74587a71c6c3b33c7cf03.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_squirrel_monkey/290236047e5d4d248ef93ac3463ecbc8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_squirrel_monkey/862153aa6df74587a71c6c3b33c7cf03.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_capuchin_monkey/18e40b3f8d9a4c5f97e8d6c4f6f6e75e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_capuchin_monkey/31dc06f769fc4fc0bb81f959e4a87eeb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_monkey_realistic_rigged/d1ea9030180a4a51ac4cdac2538fa35c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_monkey_realistic_rigged/165f755e44fc477fbc4ee41085606dd1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_monkey_realistic_rigged/7f6ff3c4a27c4b169220fa15e44eb61a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_ape_rigged/87bf3a69d6a848d3a38dcbeabf9a80cd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_ape_rigged/c2f52afa064f44a6a8aa1e73bf92b4ae.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_ape_rigged/573e13159e7a4b2cad3fe34a1c754dcc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/87bf3a69d6a848d3a38dcbeabf9a80cd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/67b38b4bab214da9a847d62e057173ad.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/c23101cf5b3349668ef320e94e041b4d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/f1bb168f54854e92b605b57d6009f50d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/d08c4fa593de4a0fb8469d667bf6f7a8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/095d946a4a8443b1850cf8c4502f11c1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/3048d416a708469096a528bee104d7ad.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/0c166c498a814adb8e37316845cdd07f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/c7ea664425fe48509b37177376019cd1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/c2f52afa064f44a6a8aa1e73bf92b4ae.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/e05a65d3410c402c8d74ff7767f601a6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/31a665d412b64e3485985ccc5d26ab37.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/7f6ff3c4a27c4b169220fa15e44eb61a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/765eff16d6a0445bac6447fd8deaa237.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/53671d99d04a4473887d2f29e6e31c84.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/2b74e87f32a848c992e17d0785c4b4bf.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/cf90d5c2b3d843998f98465aa4ca93f8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/c6ffbd84dcc84589b0c1e8f13dcfd12e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/573e13159e7a4b2cad3fe34a1c754dcc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/912e7506ba4941c09b7253bdc4a1e029.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/584a74796510425cac05f0af0c5d4fd5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/715fca4f834846a489ea7ce93e0649b1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/20ec9e29ec3942d087996e6aabfc301b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/2d3b6f6a436f484fbef5e82526a12c39.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/c53e8ca04bb54d5e8649d95b437e2ca3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/95d59e2d1c974b0a8556a8c1abf0058b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_ape_rigged/ef203f0f1ab9457381e0c10a20905448.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_primate_rigged/191c3175ea344c16813f7b335ec6d8f8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_primate_rigged/b6a87326689545728e1725c62693a9a2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_primate_rigged/2fd3356ea04b43169591dc7d60f9847e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_primate_rigged/29e0514acc0a44199f0402718fa74215.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_primate_rigged/e86eb4208bce440fb49fe27dfead1240.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_primate_rigged/29a621d88f1648f09b793d9ba9633be5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_primate_rigged/c7dbcdc6ba1348a38caf1e961ca2fda2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_primate_rigged/1f7dc1c9b1ee42159d20daf7f3a7f8fb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_primate_rigged/d2f762dcff6a4a2ea4cdaa50b4e78286.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_primate_rigged/3b7d11a4253440338094d29e2bfa6d3f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_primate_rigged/d94e9f83e5394423bedd659784f64ad2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_primate_rigged/f27df8a10b3345198d8e2fd5ed24b0fd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_primate_rigged/6132cf6cad8b4d8fa51bf4ee024952ab.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_primate_rigged/a6723a072f44494bae90ffd4d90acff3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_primate_rigged/465badf1051c4c27923f981d78d1343c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_primate_rigged/ed6e4288c1494fc383a23868200eb82a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_primate_rigged/fb427492331d495194f48d0ee459f4e3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_primate_rigged/25f0f1141cd24b3d9ad37d69fcb259c8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_primate_rigged/b467c7f3a4794c42b755618e94605b68.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_primate_rigged/6fdcf094fa4b42bfa99e168b4715bb66.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_primate_rigged/72da2fd251354f10bddecbc7f9078068.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_primate_rigged/c53e8ca04bb54d5e8649d95b437e2ca3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_primate_rigged/1f8f5ba8fb9f4da6baf09fcc5bf72189.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/87bf3a69d6a848d3a38dcbeabf9a80cd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/a75d91ceeba4440981d488cf1e670773.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/3ba199e0a78546598f868e86d78495a0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/c3c338d01d5b47929b847feb2e3a6f10.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/3a8ef7b2452846488fa04d696afedfd2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/50e4b1da03494429b1265fc095f2c530.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/eef3750f2be048bc9c5be7f75ee4239e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/ad28003205884841a028e80edb4089ef.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/c2f52afa064f44a6a8aa1e73bf92b4ae.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/2e660a43215f4728902715b171302b34.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/9d71b33754d44adf8c6b7ed0d066030e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/059ddf8d773748a0aa32c778897e711e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/62ce16bdcf0744a6af26f7b1d9558d1b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/89ab7009766b4915ac5a6209da857488.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/6026e2e8f883497b9b5548c8c238daac.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/0d6d1864ec8a4ac2ae15e519e393793c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/0a4252ef405a43faa11872aa83311141.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/1534c1b10378454697ea2f2aa888270c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/94768884d4c940709d87a2862489cb17.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/ec43bd941ecc447e86a89b442a1f344a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/9338582032f348a49da8be159a650699.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/50dab8a3d71a4929937c511536414011.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/57424cb6a4b14f169c2605d1e7d41ef2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/3d8a3d1177424af182e0737a1afc8bb7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/9906e5863a89474da4ee4e178a2daa28.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/8f699146d9db458bbd28deb4e38df49d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/7e497a2d7e0a45848d07a83ff1f30caf.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/8bf88578f7d046e19d326ff152d311a8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_obj_animal_monkey/b5ad68523dc04634985267d2ed56e110.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/87bf3a69d6a848d3a38dcbeabf9a80cd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/a75d91ceeba4440981d488cf1e670773.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/3ba199e0a78546598f868e86d78495a0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/c3c338d01d5b47929b847feb2e3a6f10.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/165f755e44fc477fbc4ee41085606dd1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/c2f52afa064f44a6a8aa1e73bf92b4ae.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/dfa60c2109bb4723b8b10ae52a98f85e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/2e660a43215f4728902715b171302b34.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/059ddf8d773748a0aa32c778897e711e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/62ea29193ca14f7fb65c5876bfc2ea66.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/6b70b31add5e4f78a87c5e8b87119936.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/fad37033d1b345759a590f34a200973a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/67818ed7370d49a1841fd10e527216ba.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/4fdf8c9df57c4846876294d85ef8aed1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/0560ce7d141342bba89cdba69facd8a3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/e_ani_animal_monkey/502fec1288904499b705a7c3ca247233.jpg",
+   "mb": 0.0
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "e_obj_gorilla": [
+   {
+    "uid": "6hiH0iyDqXqtdD9wbqSbyLLhKmz",
+    "nombre": "FREE GMC Motorhome reimagined low poly",
+    "autor": "lionsharp",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 43401,
+    "url": "https://sketchfab.com/3d-models/none-6hiH0iyDqXqtdD9wbqSbyLLhKmz",
+    "miniatura": "miniaturas/e_obj_gorilla/6hiH0iyDqXqtdD9wbqSbyLLhKmz.jpg"
+   },
+   {
+    "uid": "87bf3a69d6a848d3a38dcbeabf9a80cd",
+    "nombre": "Kong_2021__ animated",
+    "autor": "bensimulator1",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 260123,
+    "url": "https://sketchfab.com/3d-models/none-87bf3a69d6a848d3a38dcbeabf9a80cd",
+    "miniatura": "miniaturas/e_obj_gorilla/87bf3a69d6a848d3a38dcbeabf9a80cd.jpg"
+   },
+   {
+    "uid": "85ea87d33e7b47e490e3c3215457fbf1",
+    "nombre": "Proof of concept - Scifi Gorilla",
+    "autor": "re1monsen",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 327615,
+    "url": "https://sketchfab.com/3d-models/none-85ea87d33e7b47e490e3c3215457fbf1",
+    "miniatura": "miniaturas/e_obj_gorilla/85ea87d33e7b47e490e3c3215457fbf1.jpg"
+   },
+   {
+    "uid": "a75d91ceeba4440981d488cf1e670773",
+    "nombre": "kong-2021-animated-run",
+    "autor": "bensimulator1",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 260123,
+    "url": "https://sketchfab.com/3d-models/none-a75d91ceeba4440981d488cf1e670773",
+    "miniatura": "miniaturas/e_obj_gorilla/a75d91ceeba4440981d488cf1e670773.jpg"
+   },
+   {
+    "uid": "3ba199e0a78546598f868e86d78495a0",
+    "nombre": "Simio Monkey dancing",
+    "autor": "pepetrincado",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 23912,
+    "url": "https://sketchfab.com/3d-models/none-3ba199e0a78546598f868e86d78495a0",
+    "miniatura": "miniaturas/e_obj_gorilla/3ba199e0a78546598f868e86d78495a0.jpg"
+   },
+   {
+    "uid": "055af5a611d7428293a11383685c5091",
+    "nombre": "Ōzaru - Dragon Ball Fan Art",
+    "autor": "OddJorge",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 2238348,
+    "url": "https://sketchfab.com/3d-models/none-055af5a611d7428293a11383685c5091",
+    "miniatura": "miniaturas/e_obj_gorilla/055af5a611d7428293a11383685c5091.jpg"
+   },
+   {
+    "uid": "56296264dad244eab43874fe8f419f99",
+    "nombre": "Underwater Terrain - #AgisoftNatureChallenge",
+    "autor": "YYouzhen",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1000000,
+    "url": "https://sketchfab.com/3d-models/none-56296264dad244eab43874fe8f419f99",
+    "miniatura": "miniaturas/e_obj_gorilla/56296264dad244eab43874fe8f419f99.jpg"
+   },
+   {
+    "uid": "60136f190e5c426cb435bda2f8f6bf5e",
+    "nombre": "#SculptJanuary19 - Day22 - Jungle",
+    "autor": "ostapblendercg",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 995947,
+    "url": "https://sketchfab.com/3d-models/none-60136f190e5c426cb435bda2f8f6bf5e",
+    "miniatura": "miniaturas/e_obj_gorilla/60136f190e5c426cb435bda2f8f6bf5e.jpg"
+   },
+   {
+    "uid": "389a5b1f8eb144519805eab99bca0fb3",
+    "nombre": "Fantasy Creature Monster gorilla character",
+    "autor": "CharacterZone",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 204143,
+    "url": "https://sketchfab.com/3d-models/none-389a5b1f8eb144519805eab99bca0fb3",
+    "miniatura": "miniaturas/e_obj_gorilla/389a5b1f8eb144519805eab99bca0fb3.jpg"
+   },
+   {
+    "uid": "55fbba005b6c4244ba4045fc3b4fbf6e",
+    "nombre": "Gorilla Tag Rigs",
+    "autor": "exonlgm",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1450,
+    "url": "https://sketchfab.com/3d-models/none-55fbba005b6c4244ba4045fc3b4fbf6e",
+    "miniatura": "miniaturas/e_obj_gorilla/55fbba005b6c4244ba4045fc3b4fbf6e.jpg"
+   },
+   {
+    "uid": "f367f356b98742e78dfa85da1e555a02",
+    "nombre": "The Real Gorilla Tag Map. (Not low polly!)",
+    "autor": "taranartem",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 503649,
+    "url": "https://sketchfab.com/3d-models/none-f367f356b98742e78dfa85da1e555a02",
+    "miniatura": "miniaturas/e_obj_gorilla/f367f356b98742e78dfa85da1e555a02.jpg"
+   },
+   {
+    "uid": "0de2571c696b473b8240a5305084d017",
+    "nombre": "Gorillaz Plastic Beach Floating Island",
+    "autor": "RamenPablo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 135482,
+    "url": "https://sketchfab.com/3d-models/none-0de2571c696b473b8240a5305084d017",
+    "miniatura": "miniaturas/e_obj_gorilla/0de2571c696b473b8240a5305084d017.jpg"
+   },
+   {
+    "uid": "d948a97bd49841949d29f664c2e6b642",
+    "nombre": "Gorilla Skull",
+    "autor": "uod_museums",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 1899870,
+    "url": "https://sketchfab.com/3d-models/none-d948a97bd49841949d29f664c2e6b642",
+    "miniatura": "miniaturas/e_obj_gorilla/d948a97bd49841949d29f664c2e6b642.jpg"
+   },
+   {
+    "uid": "b50cab2736c04d128f417f05008605fd",
+    "nombre": "Gorilla+motions",
+    "autor": "Kapi777",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 24,
+    "caras": 4816,
+    "url": "https://sketchfab.com/3d-models/none-b50cab2736c04d128f417f05008605fd",
+    "miniatura": "miniaturas/e_obj_gorilla/b50cab2736c04d128f417f05008605fd.jpg"
+   },
+   {
+    "uid": "d57fdb3208d74a4daf129cccd91311b8",
+    "nombre": "Gorilla Tag Map",
+    "autor": "blacksanta.vr",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 275170,
+    "url": "https://sketchfab.com/3d-models/none-d57fdb3208d74a4daf129cccd91311b8",
+    "miniatura": "miniaturas/e_obj_gorilla/d57fdb3208d74a4daf129cccd91311b8.jpg"
+   },
+   {
+    "uid": "808b2c0c11bf44c983e8b8c787ada844",
+    "nombre": "Gorilla Face",
+    "autor": "jtuhtan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 559884,
+    "url": "https://sketchfab.com/3d-models/none-808b2c0c11bf44c983e8b8c787ada844",
+    "miniatura": "miniaturas/e_obj_gorilla/808b2c0c11bf44c983e8b8c787ada844.jpg"
+   },
+   {
+    "uid": "c7852e2237f24728b45ef842b078ec1b",
+    "nombre": "Megáfono / Megaphone",
+    "autor": "cuadot",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6904,
+    "url": "https://sketchfab.com/3d-models/none-c7852e2237f24728b45ef842b078ec1b",
+    "miniatura": "miniaturas/e_obj_gorilla/c7852e2237f24728b45ef842b078ec1b.jpg"
+   },
+   {
+    "uid": "9fc9608969fa49b687432de180f10766",
+    "nombre": "Funky/Donkey Kong Face Mask",
+    "autor": "Warpnik",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 366882,
+    "url": "https://sketchfab.com/3d-models/none-9fc9608969fa49b687432de180f10766",
+    "miniatura": "miniaturas/e_obj_gorilla/9fc9608969fa49b687432de180f10766.jpg"
+   },
+   {
+    "uid": "450fff08b2084e6796c487b1a820c4a5",
+    "nombre": "Mechanical Gorilla Skull for Print",
+    "autor": "pavlovich",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 948352,
+    "url": "https://sketchfab.com/3d-models/none-450fff08b2084e6796c487b1a820c4a5",
+    "miniatura": "miniaturas/e_obj_gorilla/450fff08b2084e6796c487b1a820c4a5.jpg"
+   },
+   {
+    "uid": "b6acd8195cfc4c7d9c4134b33332681a",
+    "nombre": "Gorilla Knight",
+    "autor": "ikwalsyahmuharam",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 770,
+    "url": "https://sketchfab.com/3d-models/none-b6acd8195cfc4c7d9c4134b33332681a",
+    "miniatura": "miniaturas/e_obj_gorilla/b6acd8195cfc4c7d9c4134b33332681a.jpg"
+   },
+   {
+    "uid": "f51fcc7db4ed43b8a03561d12dc7f67c",
+    "nombre": "Hound Of Bezos",
+    "autor": "erictahiri",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 18908,
+    "url": "https://sketchfab.com/3d-models/none-f51fcc7db4ed43b8a03561d12dc7f67c",
+    "miniatura": "miniaturas/e_obj_gorilla/f51fcc7db4ed43b8a03561d12dc7f67c.jpg"
+   },
+   {
+    "uid": "ad28003205884841a028e80edb4089ef",
+    "nombre": "Free Gorilla",
+    "autor": "filip.hans.nyberg",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 44328,
+    "url": "https://sketchfab.com/3d-models/none-ad28003205884841a028e80edb4089ef",
+    "miniatura": "miniaturas/e_obj_gorilla/ad28003205884841a028e80edb4089ef.jpg"
+   },
+   {
+    "uid": "35d0499d6b814334aca8ff1f2f54f192",
+    "nombre": "Gorilla Tag Player Model Unity 3d",
+    "autor": "worpcapsule",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1450,
+    "url": "https://sketchfab.com/3d-models/none-35d0499d6b814334aca8ff1f2f54f192",
+    "miniatura": "miniaturas/e_obj_gorilla/35d0499d6b814334aca8ff1f2f54f192.jpg"
+   }
+  ],
+  "e_ani_gorilla": [
+   {
+    "uid": "87bf3a69d6a848d3a38dcbeabf9a80cd",
+    "nombre": "Kong_2021__ animated",
+    "autor": "bensimulator1",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 260123,
+    "url": "https://sketchfab.com/3d-models/none-87bf3a69d6a848d3a38dcbeabf9a80cd",
+    "miniatura": "miniaturas/e_ani_gorilla/87bf3a69d6a848d3a38dcbeabf9a80cd.jpg"
+   },
+   {
+    "uid": "85ea87d33e7b47e490e3c3215457fbf1",
+    "nombre": "Proof of concept - Scifi Gorilla",
+    "autor": "re1monsen",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 327615,
+    "url": "https://sketchfab.com/3d-models/none-85ea87d33e7b47e490e3c3215457fbf1",
+    "miniatura": "miniaturas/e_ani_gorilla/85ea87d33e7b47e490e3c3215457fbf1.jpg"
+   },
+   {
+    "uid": "a75d91ceeba4440981d488cf1e670773",
+    "nombre": "kong-2021-animated-run",
+    "autor": "bensimulator1",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 260123,
+    "url": "https://sketchfab.com/3d-models/none-a75d91ceeba4440981d488cf1e670773",
+    "miniatura": "miniaturas/e_ani_gorilla/a75d91ceeba4440981d488cf1e670773.jpg"
+   },
+   {
+    "uid": "3ba199e0a78546598f868e86d78495a0",
+    "nombre": "Simio Monkey dancing",
+    "autor": "pepetrincado",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 23912,
+    "url": "https://sketchfab.com/3d-models/none-3ba199e0a78546598f868e86d78495a0",
+    "miniatura": "miniaturas/e_ani_gorilla/3ba199e0a78546598f868e86d78495a0.jpg"
+   },
+   {
+    "uid": "e6e7b718300d42128d9bb41ddf700bd5",
+    "nombre": "(RIGGED)Optimus Primal (Gorilla mode) || TF ROTB",
+    "autor": "consistent_models",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 36141,
+    "url": "https://sketchfab.com/3d-models/none-e6e7b718300d42128d9bb41ddf700bd5",
+    "miniatura": "miniaturas/e_ani_gorilla/e6e7b718300d42128d9bb41ddf700bd5.jpg"
+   },
+   {
+    "uid": "b50cab2736c04d128f417f05008605fd",
+    "nombre": "Gorilla+motions",
+    "autor": "Kapi777",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 24,
+    "caras": 4816,
+    "url": "https://sketchfab.com/3d-models/none-b50cab2736c04d128f417f05008605fd",
+    "miniatura": "miniaturas/e_ani_gorilla/b50cab2736c04d128f417f05008605fd.jpg"
+   },
+   {
+    "uid": "8ffa5ed7a2a849389e3c7d709f3c6604",
+    "nombre": "bigfoot v1",
+    "autor": "toro_ardido_modelos_3d",
+    "licencia": "CC Attribution",
+    "animaciones": 43,
+    "caras": 20486,
+    "url": "https://sketchfab.com/3d-models/none-8ffa5ed7a2a849389e3c7d709f3c6604",
+    "miniatura": "miniaturas/e_ani_gorilla/8ffa5ed7a2a849389e3c7d709f3c6604.jpg"
+   },
+   {
+    "uid": "c7852e2237f24728b45ef842b078ec1b",
+    "nombre": "Megáfono / Megaphone",
+    "autor": "cuadot",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6904,
+    "url": "https://sketchfab.com/3d-models/none-c7852e2237f24728b45ef842b078ec1b",
+    "miniatura": "miniaturas/e_ani_gorilla/c7852e2237f24728b45ef842b078ec1b.jpg"
+   },
+   {
+    "uid": "9295732945f6457bb40f5b988ffd247a",
+    "nombre": "Gorilla",
+    "autor": "Vasian-Digital3D",
+    "licencia": "CC Attribution",
+    "animaciones": 17,
+    "caras": 115438,
+    "url": "https://sketchfab.com/3d-models/none-9295732945f6457bb40f5b988ffd247a",
+    "miniatura": "miniaturas/e_ani_gorilla/9295732945f6457bb40f5b988ffd247a.jpg"
+   },
+   {
+    "uid": "f51fcc7db4ed43b8a03561d12dc7f67c",
+    "nombre": "Hound Of Bezos",
+    "autor": "erictahiri",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 18908,
+    "url": "https://sketchfab.com/3d-models/none-f51fcc7db4ed43b8a03561d12dc7f67c",
+    "miniatura": "miniaturas/e_ani_gorilla/f51fcc7db4ed43b8a03561d12dc7f67c.jpg"
+   },
+   {
+    "uid": "e69585d870ce4ae382fd071e87ae3b0e",
+    "nombre": "Gorilla",
+    "autor": "planeta-elefante",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 5500,
+    "url": "https://sketchfab.com/3d-models/none-e69585d870ce4ae382fd071e87ae3b0e",
+    "miniatura": "miniaturas/e_ani_gorilla/e69585d870ce4ae382fd071e87ae3b0e.jpg"
+   },
+   {
+    "uid": "ab07f711ac86418d994e41498731bc39",
+    "nombre": "Albert 7 | VGDC",
+    "autor": "MooKorea",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 17514,
+    "url": "https://sketchfab.com/3d-models/none-ab07f711ac86418d994e41498731bc39",
+    "miniatura": "miniaturas/e_ani_gorilla/ab07f711ac86418d994e41498731bc39.jpg"
+   },
+   {
+    "uid": "20302022a1074234b5245e65a2fb17c1",
+    "nombre": "Gorilla- Test",
+    "autor": "Kapi777",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 44038,
+    "url": "https://sketchfab.com/3d-models/none-20302022a1074234b5245e65a2fb17c1",
+    "miniatura": "miniaturas/e_ani_gorilla/20302022a1074234b5245e65a2fb17c1.jpg"
+   },
+   {
+    "uid": "939d397ee3d746a08770b759fecaa0a4",
+    "nombre": "Running Monster for you're gtag fangame !",
+    "autor": "abubatrov5",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6144,
+    "url": "https://sketchfab.com/3d-models/none-939d397ee3d746a08770b759fecaa0a4",
+    "miniatura": "miniaturas/e_ani_gorilla/939d397ee3d746a08770b759fecaa0a4.jpg"
+   },
+   {
+    "uid": "2f360d0ff51b4f42b624c98d80edd2c2",
+    "nombre": "Caesar | VGDC",
+    "autor": "MooKorea",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 20706,
+    "url": "https://sketchfab.com/3d-models/none-2f360d0ff51b4f42b624c98d80edd2c2",
+    "miniatura": "miniaturas/e_ani_gorilla/2f360d0ff51b4f42b624c98d80edd2c2.jpg"
+   },
+   {
+    "uid": "838068c49f29482d821409ca8beca7e3",
+    "nombre": "Gorilla",
+    "autor": "LostModels2025",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 40435,
+    "url": "https://sketchfab.com/3d-models/none-838068c49f29482d821409ca8beca7e3",
+    "miniatura": "miniaturas/e_ani_gorilla/838068c49f29482d821409ca8beca7e3.jpg"
+   },
+   {
+    "uid": "518b2a119d2c4f41b5c83d5e70fc67db",
+    "nombre": "Billy Bob Brockali",
+    "autor": "ToastHQ_",
+    "licencia": "CC Attribution",
+    "animaciones": 46,
+    "caras": 19208,
+    "url": "https://sketchfab.com/3d-models/none-518b2a119d2c4f41b5c83d5e70fc67db",
+    "miniatura": "miniaturas/e_ani_gorilla/518b2a119d2c4f41b5c83d5e70fc67db.jpg"
+   },
+   {
+    "uid": "2a61410b0c4749778650baabcde7a3e1",
+    "nombre": "Gorilla Cartoon",
+    "autor": "LostModels2025",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4934,
+    "url": "https://sketchfab.com/3d-models/none-2a61410b0c4749778650baabcde7a3e1",
+    "miniatura": "miniaturas/e_ani_gorilla/2a61410b0c4749778650baabcde7a3e1.jpg"
+   },
+   {
+    "uid": "6f77f1ae5d6743f889dbf823d565b4a8",
+    "nombre": "Sunwheel_Agatsuma Zenitsu",
+    "autor": "hane513",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3300,
+    "url": "https://sketchfab.com/3d-models/none-6f77f1ae5d6743f889dbf823d565b4a8",
+    "miniatura": "miniaturas/e_ani_gorilla/6f77f1ae5d6743f889dbf823d565b4a8.jpg"
+   },
+   {
+    "uid": "364bd95f3a824390ba7dc0f945e8d765",
+    "nombre": "Koko | VGDC",
+    "autor": "MooKorea",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 19922,
+    "url": "https://sketchfab.com/3d-models/none-364bd95f3a824390ba7dc0f945e8d765",
+    "miniatura": "miniaturas/e_ani_gorilla/364bd95f3a824390ba7dc0f945e8d765.jpg"
+   },
+   {
+    "uid": "b7008e99dbec4f43af2f0c9c119bf5d2",
+    "nombre": "Free Toon Panda Character - Detective",
+    "autor": "MarkoJantti",
+    "licencia": "CC Attribution",
+    "animaciones": 14,
+    "caras": 6282,
+    "url": "https://sketchfab.com/3d-models/none-b7008e99dbec4f43af2f0c9c119bf5d2",
+    "miniatura": "miniaturas/e_ani_gorilla/b7008e99dbec4f43af2f0c9c119bf5d2.jpg"
+   },
+   {
+    "uid": "5644b204890b4f69b6371faf50bb1494",
+    "nombre": "Transformers Earth Wars BW Optimus Primal",
+    "autor": "joseclaudio162001",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5420,
+    "url": "https://sketchfab.com/3d-models/none-5644b204890b4f69b6371faf50bb1494",
+    "miniatura": "miniaturas/e_ani_gorilla/5644b204890b4f69b6371faf50bb1494.jpg"
+   },
+   {
+    "uid": "6a907e9ff03f4fcb8afef20303a9e24c",
+    "nombre": "Fatz Geronimo",
+    "autor": "ToastHQ_",
+    "licencia": "CC Attribution",
+    "animaciones": 20,
+    "caras": 22109,
+    "url": "https://sketchfab.com/3d-models/none-6a907e9ff03f4fcb8afef20303a9e24c",
+    "miniatura": "miniaturas/e_ani_gorilla/6a907e9ff03f4fcb8afef20303a9e24c.jpg"
+   },
+   {
+    "uid": "00d46f058f0e405c944fbc18ba2a0489",
+    "nombre": "2d gorillaz",
+    "autor": "dopefungus",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 93840,
+    "url": "https://sketchfab.com/3d-models/none-00d46f058f0e405c944fbc18ba2a0489",
+    "miniatura": "miniaturas/e_ani_gorilla/00d46f058f0e405c944fbc18ba2a0489.jpg"
+   },
+   {
+    "uid": "a0787db59eda421ebf7def54cd03729e",
+    "nombre": "PROTOAPE [ LETHAL APE BETA ]",
+    "autor": "Idkmane179",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 63366,
+    "url": "https://sketchfab.com/3d-models/none-a0787db59eda421ebf7def54cd03729e",
+    "miniatura": "miniaturas/e_ani_gorilla/a0787db59eda421ebf7def54cd03729e.jpg"
+   },
+   {
+    "uid": "4cace1a21e33412480be8dcef08fbc96",
+    "nombre": "Gorilla",
+    "autor": "Player1TheSFMAnimator",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4642,
+    "url": "https://sketchfab.com/3d-models/none-4cace1a21e33412480be8dcef08fbc96",
+    "miniatura": "miniaturas/e_ani_gorilla/4cace1a21e33412480be8dcef08fbc96.jpg"
+   },
+   {
+    "uid": "815bb7ea43004a748f7f90e3ac756e67",
+    "nombre": "Gorilla Purgatory Disco",
+    "autor": "Cooldude16",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1448,
+    "url": "https://sketchfab.com/3d-models/none-815bb7ea43004a748f7f90e3ac756e67",
+    "miniatura": "miniaturas/e_ani_gorilla/815bb7ea43004a748f7f90e3ac756e67.jpg"
+   },
+   {
+    "uid": "d7db8d8c49cc4096bb5fbcc4ff95230f",
+    "nombre": "Gorilla tag playermodel pack",
+    "autor": "graygray213lol",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10152,
+    "url": "https://sketchfab.com/3d-models/none-d7db8d8c49cc4096bb5fbcc4ff95230f",
+    "miniatura": "miniaturas/e_ani_gorilla/d7db8d8c49cc4096bb5fbcc4ff95230f.jpg"
+   },
+   {
+    "uid": "b707ee298ef24bb18f9cdf0ec9ddb576",
+    "nombre": "Gorillamon",
+    "autor": "theamazingdonovan207",
+    "licencia": "CC Attribution",
+    "animaciones": 17,
+    "caras": 11782,
+    "url": "https://sketchfab.com/3d-models/none-b707ee298ef24bb18f9cdf0ec9ddb576",
+    "miniatura": "miniaturas/e_ani_gorilla/b707ee298ef24bb18f9cdf0ec9ddb576.jpg"
+   },
+   {
+    "uid": "8cfc88052cf14288948d70b80d249065",
+    "nombre": "Gorilla primal rage  animated",
+    "autor": "Kalani.Foxworthy",
+    "licencia": "CC Attribution",
+    "animaciones": 15,
+    "caras": 59154,
+    "url": "https://sketchfab.com/3d-models/none-8cfc88052cf14288948d70b80d249065",
+    "miniatura": "miniaturas/e_ani_gorilla/8cfc88052cf14288948d70b80d249065.jpg"
+   },
+   {
+    "uid": "1159292f556f49dc8a21e940c2919942",
+    "nombre": "Gorillish - animated",
+    "autor": "nolanfa",
+    "licencia": "Free Standard",
+    "animaciones": 5,
+    "caras": 174,
+    "url": "https://sketchfab.com/3d-models/none-1159292f556f49dc8a21e940c2919942",
+    "miniatura": "miniaturas/e_ani_gorilla/1159292f556f49dc8a21e940c2919942.jpg"
+   },
+   {
+    "uid": "34d4568903a048f7acb9a0a31b3513e4",
+    "nombre": "Fortune Teller From Gorilla Tag",
+    "autor": "wizker",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3156,
+    "url": "https://sketchfab.com/3d-models/none-34d4568903a048f7acb9a0a31b3513e4",
+    "miniatura": "miniaturas/e_ani_gorilla/34d4568903a048f7acb9a0a31b3513e4.jpg"
+   },
+   {
+    "uid": "eb280e5fb4f5460d8a9b88ab5df2f82b",
+    "nombre": "Gorilla tag running",
+    "autor": "MoeTheModelerAndRipper",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 1838,
+    "url": "https://sketchfab.com/3d-models/none-eb280e5fb4f5460d8a9b88ab5df2f82b",
+    "miniatura": "miniaturas/e_ani_gorilla/eb280e5fb4f5460d8a9b88ab5df2f82b.jpg"
+   },
+   {
+    "uid": "5d424a0a1e0946ccb4e3da84db08727e",
+    "nombre": "gtag monkey animations but better",
+    "autor": "AlexPlaysRR",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 1462,
+    "url": "https://sketchfab.com/3d-models/none-5d424a0a1e0946ccb4e3da84db08727e",
+    "miniatura": "miniaturas/e_ani_gorilla/5d424a0a1e0946ccb4e3da84db08727e.jpg"
+   },
+   {
+    "uid": "1a2f38802dad4e3b9c45c5742eac6487",
+    "nombre": "gorilla-tag-monster-pack",
+    "autor": "Icemonkvr",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10152,
+    "url": "https://sketchfab.com/3d-models/none-1a2f38802dad4e3b9c45c5742eac6487",
+    "miniatura": "miniaturas/e_ani_gorilla/1a2f38802dad4e3b9c45c5742eac6487.jpg"
+   },
+   {
+    "uid": "8b5ad2321e6e4b4689322b720012dbc6",
+    "nombre": "Gorilla - Animated Low Poly",
+    "autor": "WildPoly3D",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 18,
+    "caras": 1444,
+    "url": "https://sketchfab.com/3d-models/none-8b5ad2321e6e4b4689322b720012dbc6",
+    "miniatura": "miniaturas/e_ani_gorilla/8b5ad2321e6e4b4689322b720012dbc6.jpg"
+   },
+   {
+    "uid": "34def1b077354d3982ffdf85cf31f063",
+    "nombre": "Gorilla angry",
+    "autor": "Treey1",
+    "licencia": "CC Attribution",
+    "animaciones": 25,
+    "caras": 4816,
+    "url": "https://sketchfab.com/3d-models/none-34def1b077354d3982ffdf85cf31f063",
+    "miniatura": "miniaturas/e_ani_gorilla/34def1b077354d3982ffdf85cf31f063.jpg"
+   },
+   {
+    "uid": "122fbea5c8a745038b100528cbc86530",
+    "nombre": "Scary Ahh Gorilla Tag Monster",
+    "autor": "MoeTheModelerAndRipper",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 12006,
+    "url": "https://sketchfab.com/3d-models/none-122fbea5c8a745038b100528cbc86530",
+    "miniatura": "miniaturas/e_ani_gorilla/122fbea5c8a745038b100528cbc86530.jpg"
+   },
+   {
+    "uid": "5871ba361293465991bfbd599ea9235b",
+    "nombre": "Gorilla Cartoon Walk",
+    "autor": "LostModels2025",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4934,
+    "url": "https://sketchfab.com/3d-models/none-5871ba361293465991bfbd599ea9235b",
+    "miniatura": "miniaturas/e_ani_gorilla/5871ba361293465991bfbd599ea9235b.jpg"
+   },
+   {
+    "uid": "8872e1d0c1d944848f9d604bc3d23f57",
+    "nombre": "Gorilla",
+    "autor": "rajcruz",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10725,
+    "url": "https://sketchfab.com/3d-models/none-8872e1d0c1d944848f9d604bc3d23f57",
+    "miniatura": "miniaturas/e_ani_gorilla/8872e1d0c1d944848f9d604bc3d23f57.jpg"
+   }
+  ],
+  "e_obj_orangutan": [
+   {
+    "uid": "fe8845228fb347fdbc9a6aa99a36a162",
+    "nombre": "Orangutan",
+    "autor": "chaitanyak",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 2586,
+    "url": "https://sketchfab.com/3d-models/none-fe8845228fb347fdbc9a6aa99a36a162",
+    "miniatura": "miniaturas/e_obj_orangutan/fe8845228fb347fdbc9a6aa99a36a162.jpg"
+   },
+   {
+    "uid": "c33d30ae8272473ca8f648cf2c31956b",
+    "nombre": "Orangutan Skull",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 417680,
+    "url": "https://sketchfab.com/3d-models/none-c33d30ae8272473ca8f648cf2c31956b",
+    "miniatura": "miniaturas/e_obj_orangutan/c33d30ae8272473ca8f648cf2c31956b.jpg"
+   },
+   {
+    "uid": "c3b96f7065c442bc9cb9acc7223acda2",
+    "nombre": "Piltdown Man Skull",
+    "autor": "BrightonMuseums",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 975255,
+    "url": "https://sketchfab.com/3d-models/none-c3b96f7065c442bc9cb9acc7223acda2",
+    "miniatura": "miniaturas/e_obj_orangutan/c3b96f7065c442bc9cb9acc7223acda2.jpg"
+   },
+   {
+    "uid": "eafa231686e947668fd4518c27a7ee8a",
+    "nombre": "Lanky Kong",
+    "autor": "CoryRichards",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6872,
+    "url": "https://sketchfab.com/3d-models/none-eafa231686e947668fd4518c27a7ee8a",
+    "miniatura": "miniaturas/e_obj_orangutan/eafa231686e947668fd4518c27a7ee8a.jpg"
+   },
+   {
+    "uid": "a9d93a9ef2d044eaadf7d32d48c2d8a6",
+    "nombre": "Beetle powered orangutan santa",
+    "autor": "larycim",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 13272,
+    "url": "https://sketchfab.com/3d-models/none-a9d93a9ef2d044eaadf7d32d48c2d8a6",
+    "miniatura": "miniaturas/e_obj_orangutan/a9d93a9ef2d044eaadf7d32d48c2d8a6.jpg"
+   },
+   {
+    "uid": "0dc55af78314498db2d888b7d1ac49e4",
+    "nombre": "Orangutan Neonate Skeleton",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 475913,
+    "url": "https://sketchfab.com/3d-models/none-0dc55af78314498db2d888b7d1ac49e4",
+    "miniatura": "miniaturas/e_obj_orangutan/0dc55af78314498db2d888b7d1ac49e4.jpg"
+   },
+   {
+    "uid": "539875c4f92f4a13a8e215eb460eb68d",
+    "nombre": "Reactive orangutan",
+    "autor": "chaitanyak",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6588,
+    "url": "https://sketchfab.com/3d-models/none-539875c4f92f4a13a8e215eb460eb68d",
+    "miniatura": "miniaturas/e_obj_orangutan/539875c4f92f4a13a8e215eb460eb68d.jpg"
+   },
+   {
+    "uid": "3d32db36ab6245f29fffb61483001f20",
+    "nombre": "Bunsu Mayas",
+    "autor": "euniceshim2212",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3442,
+    "url": "https://sketchfab.com/3d-models/none-3d32db36ab6245f29fffb61483001f20",
+    "miniatura": "miniaturas/e_obj_orangutan/3d32db36ab6245f29fffb61483001f20.jpg"
+   },
+   {
+    "uid": "e97023de84cd4a73a7b960e8bf1061d9",
+    "nombre": "Orangutan Brain from MRI",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 191366,
+    "url": "https://sketchfab.com/3d-models/none-e97023de84cd4a73a7b960e8bf1061d9",
+    "miniatura": "miniaturas/e_obj_orangutan/e97023de84cd4a73a7b960e8bf1061d9.jpg"
+   },
+   {
+    "uid": "43e2d50eb4a3477ba0f9edc534409356",
+    "nombre": "Pongo pygmaeus (modern) (2501.1rp12-1)",
+    "autor": "rla-archaeology",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 225204,
+    "url": "https://sketchfab.com/3d-models/none-43e2d50eb4a3477ba0f9edc534409356",
+    "miniatura": "miniaturas/e_obj_orangutan/43e2d50eb4a3477ba0f9edc534409356.jpg"
+   },
+   {
+    "uid": "2b04389db0774fd694d1f8fe0a9b6b47",
+    "nombre": "Piltdown Man endocranium (433rp30)",
+    "autor": "rla-archaeology",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 106378,
+    "url": "https://sketchfab.com/3d-models/none-2b04389db0774fd694d1f8fe0a9b6b47",
+    "miniatura": "miniaturas/e_obj_orangutan/2b04389db0774fd694d1f8fe0a9b6b47.jpg"
+   },
+   {
+    "uid": "e01cd8d9e805408997292b6882936c5d",
+    "nombre": "Sacramento Zoo Orangutan Bust",
+    "autor": "pixeldog4ever",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 55624,
+    "url": "https://sketchfab.com/3d-models/none-e01cd8d9e805408997292b6882936c5d",
+    "miniatura": "miniaturas/e_obj_orangutan/e01cd8d9e805408997292b6882936c5d.jpg"
+   },
+   {
+    "uid": "72ce6c28e1774e33b24f0562483a191c",
+    "nombre": "Labeled Orangutan Lower Limb Reconstruction",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1307782,
+    "url": "https://sketchfab.com/3d-models/none-72ce6c28e1774e33b24f0562483a191c",
+    "miniatura": "miniaturas/e_obj_orangutan/72ce6c28e1774e33b24f0562483a191c.jpg"
+   },
+   {
+    "uid": "410bfeecb4244eb8b45668046072108b",
+    "nombre": "Orangutan Labeled Head & Neck Reconstruction",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 998400,
+    "url": "https://sketchfab.com/3d-models/none-410bfeecb4244eb8b45668046072108b",
+    "miniatura": "miniaturas/e_obj_orangutan/410bfeecb4244eb8b45668046072108b.jpg"
+   },
+   {
+    "uid": "143190e528844613baa37797358d6298",
+    "nombre": "Orangutan Lower Limb Reconstruction",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1314934,
+    "url": "https://sketchfab.com/3d-models/none-143190e528844613baa37797358d6298",
+    "miniatura": "miniaturas/e_obj_orangutan/143190e528844613baa37797358d6298.jpg"
+   },
+   {
+    "uid": "a2a550a4eced4a159bf00a92b8f58034",
+    "nombre": "Labeled Orangutan Upper Limb Reconstruction",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1452416,
+    "url": "https://sketchfab.com/3d-models/none-a2a550a4eced4a159bf00a92b8f58034",
+    "miniatura": "miniaturas/e_obj_orangutan/a2a550a4eced4a159bf00a92b8f58034.jpg"
+   },
+   {
+    "uid": "96ca837bd0cc46d08e7458867b8ecf9c",
+    "nombre": "Pongo pygmaeus (modern) (2501.1rp12-2)",
+    "autor": "rla-archaeology",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 400000,
+    "url": "https://sketchfab.com/3d-models/none-96ca837bd0cc46d08e7458867b8ecf9c",
+    "miniatura": "miniaturas/e_obj_orangutan/96ca837bd0cc46d08e7458867b8ecf9c.jpg"
+   },
+   {
+    "uid": "a3571c1aa3f44e5a9a9e497cc7ad3dea",
+    "nombre": "Orangutan",
+    "autor": "LRURI01",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 90676,
+    "url": "https://sketchfab.com/3d-models/none-a3571c1aa3f44e5a9a9e497cc7ad3dea",
+    "miniatura": "miniaturas/e_obj_orangutan/a3571c1aa3f44e5a9a9e497cc7ad3dea.jpg"
+   },
+   {
+    "uid": "bd1980dc008a4642997e82dc1b76176a",
+    "nombre": "orangutan",
+    "autor": "upeshnepal1",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 433173,
+    "url": "https://sketchfab.com/3d-models/none-bd1980dc008a4642997e82dc1b76176a",
+    "miniatura": "miniaturas/e_obj_orangutan/bd1980dc008a4642997e82dc1b76176a.jpg"
+   },
+   {
+    "uid": "f77977d3af9948fd862525c3a8fd88c3",
+    "nombre": "Orangutan Upper Limb Reconstruction",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1439360,
+    "url": "https://sketchfab.com/3d-models/none-f77977d3af9948fd862525c3a8fd88c3",
+    "miniatura": "miniaturas/e_obj_orangutan/f77977d3af9948fd862525c3a8fd88c3.jpg"
+   },
+   {
+    "uid": "98a3859e80cd4fb18762332603496bf8",
+    "nombre": "Orangutan Head and Neck Reconstruction",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 998400,
+    "url": "https://sketchfab.com/3d-models/none-98a3859e80cd4fb18762332603496bf8",
+    "miniatura": "miniaturas/e_obj_orangutan/98a3859e80cd4fb18762332603496bf8.jpg"
+   },
+   {
+    "uid": "61738c16980c46f5b396498b0d306400",
+    "nombre": "A2_Chat_WK_2A_Small",
+    "autor": "chatchawan32676",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 52950,
+    "url": "https://sketchfab.com/3d-models/none-61738c16980c46f5b396498b0d306400",
+    "miniatura": "miniaturas/e_obj_orangutan/61738c16980c46f5b396498b0d306400.jpg"
+   },
+   {
+    "uid": "223fc895a71a483c900e1a33f96bfeaf",
+    "nombre": "Modern Human & Orangutan Head & Neck",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1292342,
+    "url": "https://sketchfab.com/3d-models/none-223fc895a71a483c900e1a33f96bfeaf",
+    "miniatura": "miniaturas/e_obj_orangutan/223fc895a71a483c900e1a33f96bfeaf.jpg"
+   },
+   {
+    "uid": "4edd2747bfc14a96b43796dbf27b7e9b",
+    "nombre": "Pongo pygmaeus - orangutan",
+    "autor": "Human_Lineage",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 25996,
+    "url": "https://sketchfab.com/3d-models/none-4edd2747bfc14a96b43796dbf27b7e9b",
+    "miniatura": "miniaturas/e_obj_orangutan/4edd2747bfc14a96b43796dbf27b7e9b.jpg"
+   }
+  ],
+  "e_ani_orangutan": [
+   {
+    "uid": "fe8845228fb347fdbc9a6aa99a36a162",
+    "nombre": "Orangutan",
+    "autor": "chaitanyak",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 2586,
+    "url": "https://sketchfab.com/3d-models/none-fe8845228fb347fdbc9a6aa99a36a162",
+    "miniatura": "miniaturas/e_ani_orangutan/fe8845228fb347fdbc9a6aa99a36a162.jpg"
+   },
+   {
+    "uid": "a9d93a9ef2d044eaadf7d32d48c2d8a6",
+    "nombre": "Beetle powered orangutan santa",
+    "autor": "larycim",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 13272,
+    "url": "https://sketchfab.com/3d-models/none-a9d93a9ef2d044eaadf7d32d48c2d8a6",
+    "miniatura": "miniaturas/e_ani_orangutan/a9d93a9ef2d044eaadf7d32d48c2d8a6.jpg"
+   },
+   {
+    "uid": "539875c4f92f4a13a8e215eb460eb68d",
+    "nombre": "Reactive orangutan",
+    "autor": "chaitanyak",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6588,
+    "url": "https://sketchfab.com/3d-models/none-539875c4f92f4a13a8e215eb460eb68d",
+    "miniatura": "miniaturas/e_ani_orangutan/539875c4f92f4a13a8e215eb460eb68d.jpg"
+   },
+   {
+    "uid": "687c3e3605be4497893f347674069df9",
+    "nombre": "Orangutun",
+    "autor": "AneesAnimates",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 53682,
+    "url": "https://sketchfab.com/3d-models/none-687c3e3605be4497893f347674069df9",
+    "miniatura": "miniaturas/e_ani_orangutan/687c3e3605be4497893f347674069df9.jpg"
+   },
+   {
+    "uid": "3d32db36ab6245f29fffb61483001f20",
+    "nombre": "Bunsu Mayas",
+    "autor": "euniceshim2212",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3442,
+    "url": "https://sketchfab.com/3d-models/none-3d32db36ab6245f29fffb61483001f20",
+    "miniatura": "miniaturas/e_ani_orangutan/3d32db36ab6245f29fffb61483001f20.jpg"
+   }
+  ],
+  "e_obj_gibbon": [
+   {
+    "uid": "bbec803fc8064bafabe82c22eb5865bb",
+    "nombre": "The Academy Award - statuette",
+    "autor": "WirtualneMuzeaMalopolski",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 268538,
+    "url": "https://sketchfab.com/3d-models/none-bbec803fc8064bafabe82c22eb5865bb",
+    "miniatura": "miniaturas/e_obj_gibbon/bbec803fc8064bafabe82c22eb5865bb.jpg"
+   },
+   {
+    "uid": "f4807cff90194ef5a17107cdf8a30641",
+    "nombre": "Ape",
+    "autor": "sdpm",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 60838,
+    "url": "https://sketchfab.com/3d-models/none-f4807cff90194ef5a17107cdf8a30641",
+    "miniatura": "miniaturas/e_obj_gibbon/f4807cff90194ef5a17107cdf8a30641.jpg"
+   },
+   {
+    "uid": "08da2ceac1df4b78999f3f89c1af00db",
+    "nombre": "CT Based Adult Gibbon Skeleton",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2161874,
+    "url": "https://sketchfab.com/3d-models/none-08da2ceac1df4b78999f3f89c1af00db",
+    "miniatura": "miniaturas/e_obj_gibbon/08da2ceac1df4b78999f3f89c1af00db.jpg"
+   },
+   {
+    "uid": "cc46c933b12a423ca293caa10ccbebb1",
+    "nombre": "All Hallows by the Tower Font",
+    "autor": "artfletch",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1297206,
+    "url": "https://sketchfab.com/3d-models/none-cc46c933b12a423ca293caa10ccbebb1",
+    "miniatura": "miniaturas/e_obj_gibbon/cc46c933b12a423ca293caa10ccbebb1.jpg"
+   },
+   {
+    "uid": "893dbc57632b4259874495035703e9cb",
+    "nombre": "Rorschach",
+    "autor": "fpernudo",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 260120,
+    "url": "https://sketchfab.com/3d-models/none-893dbc57632b4259874495035703e9cb",
+    "miniatura": "miniaturas/e_obj_gibbon/893dbc57632b4259874495035703e9cb.jpg"
+   },
+   {
+    "uid": "616e53a55eb64f3489045e279cb8c48b",
+    "nombre": "Font in St James's Piccadilly",
+    "autor": "artfletch",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1036490,
+    "url": "https://sketchfab.com/3d-models/none-616e53a55eb64f3489045e279cb8c48b",
+    "miniatura": "miniaturas/e_obj_gibbon/616e53a55eb64f3489045e279cb8c48b.jpg"
+   },
+   {
+    "uid": "e17422e4e8b04cc7adf0911f98f95595",
+    "nombre": "Memorial from Lundie Church, Angus, Scotland",
+    "autor": "dundeehowff",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 180000,
+    "url": "https://sketchfab.com/3d-models/none-e17422e4e8b04cc7adf0911f98f95595",
+    "miniatura": "miniaturas/e_obj_gibbon/e17422e4e8b04cc7adf0911f98f95595.jpg"
+   },
+   {
+    "uid": "c86a0824e9b644e1a545b15dedc11f3d",
+    "nombre": "Labeled Gibbon Upper Limb Reconstruction",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1461104,
+    "url": "https://sketchfab.com/3d-models/none-c86a0824e9b644e1a545b15dedc11f3d",
+    "miniatura": "miniaturas/e_obj_gibbon/c86a0824e9b644e1a545b15dedc11f3d.jpg"
+   },
+   {
+    "uid": "687052455bdf42379170f3060e260549",
+    "nombre": "Gibbon Upper Limb Reconstruction",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1461104,
+    "url": "https://sketchfab.com/3d-models/none-687052455bdf42379170f3060e260549",
+    "miniatura": "miniaturas/e_obj_gibbon/687052455bdf42379170f3060e260549.jpg"
+   },
+   {
+    "uid": "a1a1f76ce9fb4286a7a744a75b636f86",
+    "nombre": "Gibbon Lower Limb Reconstruction",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1525486,
+    "url": "https://sketchfab.com/3d-models/none-a1a1f76ce9fb4286a7a744a75b636f86",
+    "miniatura": "miniaturas/e_obj_gibbon/a1a1f76ce9fb4286a7a744a75b636f86.jpg"
+   },
+   {
+    "uid": "dc312a9fa3254b51a8c43957185e1f4b",
+    "nombre": "Cardinal James Gibbons",
+    "autor": "statuevision",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 51568,
+    "url": "https://sketchfab.com/3d-models/none-dc312a9fa3254b51a8c43957185e1f4b",
+    "miniatura": "miniaturas/e_obj_gibbon/dc312a9fa3254b51a8c43957185e1f4b.jpg"
+   },
+   {
+    "uid": "d934378752d5415db493d6f83e6a161e",
+    "nombre": "Labeled Gibbon Lower Limb Reconstruction",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1525486,
+    "url": "https://sketchfab.com/3d-models/none-d934378752d5415db493d6f83e6a161e",
+    "miniatura": "miniaturas/e_obj_gibbon/d934378752d5415db493d6f83e6a161e.jpg"
+   },
+   {
+    "uid": "ab20ed5a5a024f3a9599220b37615871",
+    "nombre": "Lar Gibbon Hyoid",
+    "autor": "rowankatzenmeyer",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 28450,
+    "url": "https://sketchfab.com/3d-models/none-ab20ed5a5a024f3a9599220b37615871",
+    "miniatura": "miniaturas/e_obj_gibbon/ab20ed5a5a024f3a9599220b37615871.jpg"
+   },
+   {
+    "uid": "2d57873f2ffb4c1ab38d385a2b42f349",
+    "nombre": "Siamang Hyoid",
+    "autor": "rowankatzenmeyer",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 26988,
+    "url": "https://sketchfab.com/3d-models/none-2d57873f2ffb4c1ab38d385a2b42f349",
+    "miniatura": "miniaturas/e_obj_gibbon/2d57873f2ffb4c1ab38d385a2b42f349.jpg"
+   },
+   {
+    "uid": "1a1717c5a2724e6c8511a587462a9b29",
+    "nombre": "model",
+    "autor": "lemuearth",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 23134,
+    "url": "https://sketchfab.com/3d-models/none-1a1717c5a2724e6c8511a587462a9b29",
+    "miniatura": "miniaturas/e_obj_gibbon/1a1717c5a2724e6c8511a587462a9b29.jpg"
+   },
+   {
+    "uid": "354b3dd4b2684acea45a9f94d316872b",
+    "nombre": "Gibbon Head and Neck Reconstruction",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1037312,
+    "url": "https://sketchfab.com/3d-models/none-354b3dd4b2684acea45a9f94d316872b",
+    "miniatura": "miniaturas/e_obj_gibbon/354b3dd4b2684acea45a9f94d316872b.jpg"
+   },
+   {
+    "uid": "9641b196d7dc48a5bf619cd6167edcef",
+    "nombre": "17590-Gibbons",
+    "autor": "tkstairs",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5396,
+    "url": "https://sketchfab.com/3d-models/none-9641b196d7dc48a5bf619cd6167edcef",
+    "miniatura": "miniaturas/e_obj_gibbon/9641b196d7dc48a5bf619cd6167edcef.jpg"
+   },
+   {
+    "uid": "3fd7edf88f204e99aa26cc0d1541fb0e",
+    "nombre": "Cliona Gibbons Roof Trusses REV A",
+    "autor": "Dermf",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15996,
+    "url": "https://sketchfab.com/3d-models/none-3fd7edf88f204e99aa26cc0d1541fb0e",
+    "miniatura": "miniaturas/e_obj_gibbon/3fd7edf88f204e99aa26cc0d1541fb0e.jpg"
+   },
+   {
+    "uid": "3a2d76bd15034b78b6e184f70bb6d901",
+    "nombre": "Modern Human & Gibbon Head and Neck",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1351262,
+    "url": "https://sketchfab.com/3d-models/none-3a2d76bd15034b78b6e184f70bb6d901",
+    "miniatura": "miniaturas/e_obj_gibbon/3a2d76bd15034b78b6e184f70bb6d901.jpg"
+   },
+   {
+    "uid": "81dd4ecef24f4279b7564577b8f38057",
+    "nombre": "Sculpture",
+    "autor": "algibbons",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 221,
+    "url": "https://sketchfab.com/3d-models/none-81dd4ecef24f4279b7564577b8f38057",
+    "miniatura": "miniaturas/e_obj_gibbon/81dd4ecef24f4279b7564577b8f38057.jpg"
+   },
+   {
+    "uid": "e58d0ea6e34a4d6bbe7c9905e0422b61",
+    "nombre": "Version I Gibbons",
+    "autor": "vonka",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2467,
+    "url": "https://sketchfab.com/3d-models/none-e58d0ea6e34a4d6bbe7c9905e0422b61",
+    "miniatura": "miniaturas/e_obj_gibbon/e58d0ea6e34a4d6bbe7c9905e0422b61.jpg"
+   },
+   {
+    "uid": "bd5bdf59fa604687aadd32c2cb05b26d",
+    "nombre": "Gibbon Labeled Head and Neck Reconstruction",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1037312,
+    "url": "https://sketchfab.com/3d-models/none-bd5bdf59fa604687aadd32c2cb05b26d",
+    "miniatura": "miniaturas/e_obj_gibbon/bd5bdf59fa604687aadd32c2cb05b26d.jpg"
+   }
+  ],
+  "e_ani_gibbon": [
+   {
+    "uid": "278b3c3950fa4fa1b053fc93c3a29ce1",
+    "nombre": "big-scary-bad-gibbon",
+    "autor": "Harley11",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5376,
+    "url": "https://sketchfab.com/3d-models/none-278b3c3950fa4fa1b053fc93c3a29ce1",
+    "miniatura": "miniaturas/e_ani_gibbon/278b3c3950fa4fa1b053fc93c3a29ce1.jpg"
+   },
+   {
+    "uid": "8980bf128f564811982defef0bf88153",
+    "nombre": "big scary bad gibbon",
+    "autor": "gibonisgod",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5376,
+    "url": "https://sketchfab.com/3d-models/none-8980bf128f564811982defef0bf88153",
+    "miniatura": "miniaturas/e_ani_gibbon/8980bf128f564811982defef0bf88153.jpg"
+   },
+   {
+    "uid": "7271a42027134d528630d82348bed6a1",
+    "nombre": "shop gibbon",
+    "autor": "gibonisgod",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 8832,
+    "url": "https://sketchfab.com/3d-models/none-7271a42027134d528630d82348bed6a1",
+    "miniatura": "miniaturas/e_ani_gibbon/7271a42027134d528630d82348bed6a1.jpg"
+   }
+  ],
+  "e_obj_lemur": [
+   {
+    "uid": "09791b8a688f455796768cd903f681e1",
+    "nombre": "Indri Lemur skull",
+    "autor": "uod_museums",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 717710,
+    "url": "https://sketchfab.com/3d-models/none-09791b8a688f455796768cd903f681e1",
+    "miniatura": "miniaturas/e_obj_lemur/09791b8a688f455796768cd903f681e1.jpg"
+   },
+   {
+    "uid": "08306520d01d4f41aaf5537067e525b0",
+    "nombre": "Lemur",
+    "autor": "wirtualnemuzeawroclawia",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 206734,
+    "url": "https://sketchfab.com/3d-models/none-08306520d01d4f41aaf5537067e525b0",
+    "miniatura": "miniaturas/e_obj_lemur/08306520d01d4f41aaf5537067e525b0.jpg"
+   },
+   {
+    "uid": "dbb114c765b648aab6d4cc436fe96b8c",
+    "nombre": "Potto Skull BIRUG 18612",
+    "autor": "LapworthMuseum",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 721716,
+    "url": "https://sketchfab.com/3d-models/none-dbb114c765b648aab6d4cc436fe96b8c",
+    "miniatura": "miniaturas/e_obj_lemur/dbb114c765b648aab6d4cc436fe96b8c.jpg"
+   },
+   {
+    "uid": "b49b80f35ab148a782f4082d1dfad9c5",
+    "nombre": "Toy animal  pack",
+    "autor": "3DWorkbench",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 261251,
+    "url": "https://sketchfab.com/3d-models/none-b49b80f35ab148a782f4082d1dfad9c5",
+    "miniatura": "miniaturas/e_obj_lemur/b49b80f35ab148a782f4082d1dfad9c5.jpg"
+   },
+   {
+    "uid": "b83a217e413e4e14988175f08026cf2b",
+    "nombre": "Caged Flying Lemur",
+    "autor": "hamiltonimaginations",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 216412,
+    "url": "https://sketchfab.com/3d-models/none-b83a217e413e4e14988175f08026cf2b",
+    "miniatura": "miniaturas/e_obj_lemur/b83a217e413e4e14988175f08026cf2b.jpg"
+   },
+   {
+    "uid": "9d71b33754d44adf8c6b7ed0d066030e",
+    "nombre": "Amazonian Flying Spider Lemur",
+    "autor": "hamiltonimaginations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 52600,
+    "url": "https://sketchfab.com/3d-models/none-9d71b33754d44adf8c6b7ed0d066030e",
+    "miniatura": "miniaturas/e_obj_lemur/9d71b33754d44adf8c6b7ed0d066030e.jpg"
+   },
+   {
+    "uid": "a0e63c6ce57341a992ccccf45d7d7d03",
+    "nombre": "Sunda Flying Lemur skull",
+    "autor": "RISDNaturelab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 336554,
+    "url": "https://sketchfab.com/3d-models/none-a0e63c6ce57341a992ccccf45d7d7d03",
+    "miniatura": "miniaturas/e_obj_lemur/a0e63c6ce57341a992ccccf45d7d7d03.jpg"
+   },
+   {
+    "uid": "31e7fb66a6964f5fb561dae1a9b04a24",
+    "nombre": "Wolfy the Scrap Ballora",
+    "autor": "kubamacek10",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 130886,
+    "url": "https://sketchfab.com/3d-models/none-31e7fb66a6964f5fb561dae1a9b04a24",
+    "miniatura": "miniaturas/e_obj_lemur/31e7fb66a6964f5fb561dae1a9b04a24.jpg"
+   },
+   {
+    "uid": "084ba907e5ac452fa9e125eb814884c1",
+    "nombre": "Lemur",
+    "autor": "larycim",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 89576,
+    "url": "https://sketchfab.com/3d-models/none-084ba907e5ac452fa9e125eb814884c1",
+    "miniatura": "miniaturas/e_obj_lemur/084ba907e5ac452fa9e125eb814884c1.jpg"
+   },
+   {
+    "uid": "6944d439ebe5494cb2dbb45bc4a7ef78",
+    "nombre": "Mech",
+    "autor": "Uporotiy_Lemur",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 26217,
+    "url": "https://sketchfab.com/3d-models/none-6944d439ebe5494cb2dbb45bc4a7ef78",
+    "miniatura": "miniaturas/e_obj_lemur/6944d439ebe5494cb2dbb45bc4a7ef78.jpg"
+   },
+   {
+    "uid": "5762aa7f75354518a5b1d85302eb92fc",
+    "nombre": "Lenny's Little Cabin #TinyCabinChallenge",
+    "autor": "bingko",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22160,
+    "url": "https://sketchfab.com/3d-models/none-5762aa7f75354518a5b1d85302eb92fc",
+    "miniatura": "miniaturas/e_obj_lemur/5762aa7f75354518a5b1d85302eb92fc.jpg"
+   },
+   {
+    "uid": "f0c519e6f5d24b27ad11ced9670fb2a0",
+    "nombre": "lémurien",
+    "autor": "svtavernier",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 41212,
+    "url": "https://sketchfab.com/3d-models/none-f0c519e6f5d24b27ad11ced9670fb2a0",
+    "miniatura": "miniaturas/e_obj_lemur/f0c519e6f5d24b27ad11ced9670fb2a0.jpg"
+   },
+   {
+    "uid": "0cbda598947e4113a0c46343c3c6319b",
+    "nombre": "Shiro the lemur",
+    "autor": "davidjayindie",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 890,
+    "url": "https://sketchfab.com/3d-models/none-0cbda598947e4113a0c46343c3c6319b",
+    "miniatura": "miniaturas/e_obj_lemur/0cbda598947e4113a0c46343c3c6319b.jpg"
+   },
+   {
+    "uid": "bbb4a6075c2f4030be5afebeb799f3e6",
+    "nombre": "Lemur",
+    "autor": "chaitanyak",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1834,
+    "url": "https://sketchfab.com/3d-models/none-bbb4a6075c2f4030be5afebeb799f3e6",
+    "miniatura": "miniaturas/e_obj_lemur/bbb4a6075c2f4030be5afebeb799f3e6.jpg"
+   },
+   {
+    "uid": "a459ffb903dc42e5a88ed4b285ca7dd0",
+    "nombre": "Indri Top",
+    "autor": "upeshnepal1",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 69321,
+    "url": "https://sketchfab.com/3d-models/none-a459ffb903dc42e5a88ed4b285ca7dd0",
+    "miniatura": "miniaturas/e_obj_lemur/a459ffb903dc42e5a88ed4b285ca7dd0.jpg"
+   },
+   {
+    "uid": "a1e5d68ef4e34eb1ac9421663a0e11ec",
+    "nombre": "Lemur_skull_bottom",
+    "autor": "XRchaeology",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 186076,
+    "url": "https://sketchfab.com/3d-models/none-a1e5d68ef4e34eb1ac9421663a0e11ec",
+    "miniatura": "miniaturas/e_obj_lemur/a1e5d68ef4e34eb1ac9421663a0e11ec.jpg"
+   },
+   {
+    "uid": "6ff494a37df24eef947ee631da5fe72f",
+    "nombre": "key",
+    "autor": "Uporotiy_Lemur",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2016,
+    "url": "https://sketchfab.com/3d-models/none-6ff494a37df24eef947ee631da5fe72f",
+    "miniatura": "miniaturas/e_obj_lemur/6ff494a37df24eef947ee631da5fe72f.jpg"
+   },
+   {
+    "uid": "6e0ac301b02a4d20bb1b74e10995632b",
+    "nombre": "Lemuria Sound Temple",
+    "autor": "phiralsoundtemples",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 34920,
+    "url": "https://sketchfab.com/3d-models/none-6e0ac301b02a4d20bb1b74e10995632b",
+    "miniatura": "miniaturas/e_obj_lemur/6e0ac301b02a4d20bb1b74e10995632b.jpg"
+   },
+   {
+    "uid": "f7d6cd77e94f426594d5bda52522178b",
+    "nombre": "Megaladapis (Koala Lemur)",
+    "autor": "chekeichan",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 2731,
+    "url": "https://sketchfab.com/3d-models/none-f7d6cd77e94f426594d5bda52522178b",
+    "miniatura": "miniaturas/e_obj_lemur/f7d6cd77e94f426594d5bda52522178b.jpg"
+   },
+   {
+    "uid": "5746116764ef43449f155be511ea7154",
+    "nombre": "lemur",
+    "autor": "russell.ray.johnson",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 159999,
+    "url": "https://sketchfab.com/3d-models/none-5746116764ef43449f155be511ea7154",
+    "miniatura": "miniaturas/e_obj_lemur/5746116764ef43449f155be511ea7154.jpg"
+   },
+   {
+    "uid": "5cea992c333c4c28a269eee93213c6a1",
+    "nombre": "Ring-tailed lemur - Lizandra van de Kerkhof",
+    "autor": "lizandravdkerkhof",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1432,
+    "url": "https://sketchfab.com/3d-models/none-5cea992c333c4c28a269eee93213c6a1",
+    "miniatura": "miniaturas/e_obj_lemur/5cea992c333c4c28a269eee93213c6a1.jpg"
+   }
+  ],
+  "e_ani_lemur": [
+   {
+    "uid": "aceea3625be84aa98e0366bbbce9c677",
+    "nombre": "Lemur Girl",
+    "autor": "pixelarco",
+    "licencia": "CC Attribution",
+    "animaciones": 14,
+    "caras": 1200,
+    "url": "https://sketchfab.com/3d-models/none-aceea3625be84aa98e0366bbbce9c677",
+    "miniatura": "miniaturas/e_ani_lemur/aceea3625be84aa98e0366bbbce9c677.jpg"
+   },
+   {
+    "uid": "b02cdbe690fe44d8aca3c4f8a70e92e5",
+    "nombre": "Fnaf SOTM Lemur Mascot",
+    "autor": "skylajade69",
+    "licencia": "CC Attribution",
+    "animaciones": 79,
+    "caras": 18798,
+    "url": "https://sketchfab.com/3d-models/none-b02cdbe690fe44d8aca3c4f8a70e92e5",
+    "miniatura": "miniaturas/e_ani_lemur/b02cdbe690fe44d8aca3c4f8a70e92e5.jpg"
+   },
+   {
+    "uid": "d530cac81d9a457f9dfaa3779f7e7e90",
+    "nombre": "Lemur's Leap - Caregiver",
+    "autor": "zer023",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 8894,
+    "url": "https://sketchfab.com/3d-models/none-d530cac81d9a457f9dfaa3779f7e7e90",
+    "miniatura": "miniaturas/e_ani_lemur/d530cac81d9a457f9dfaa3779f7e7e90.jpg"
+   },
+   {
+    "uid": "51a9a004ffb148939feac257f08171c2",
+    "nombre": "Ring-Tailed Lemur (Minecraft)",
+    "autor": "dinolover4242",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 120,
+    "url": "https://sketchfab.com/3d-models/none-51a9a004ffb148939feac257f08171c2",
+    "miniatura": "miniaturas/e_ani_lemur/51a9a004ffb148939feac257f08171c2.jpg"
+   },
+   {
+    "uid": "b83a217e413e4e14988175f08026cf2b",
+    "nombre": "Caged Flying Lemur",
+    "autor": "hamiltonimaginations",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 216412,
+    "url": "https://sketchfab.com/3d-models/none-b83a217e413e4e14988175f08026cf2b",
+    "miniatura": "miniaturas/e_ani_lemur/b83a217e413e4e14988175f08026cf2b.jpg"
+   },
+   {
+    "uid": "5bb245fdc99648ab85cf6d5d5442bc5b",
+    "nombre": "GameReadyCharacter_Day07_AlienHumanoidLemur",
+    "autor": "collinsweeney",
+    "licencia": "CC Attribution",
+    "animaciones": 7,
+    "caras": 35366,
+    "url": "https://sketchfab.com/3d-models/none-5bb245fdc99648ab85cf6d5d5442bc5b",
+    "miniatura": "miniaturas/e_ani_lemur/5bb245fdc99648ab85cf6d5d5442bc5b.jpg"
+   },
+   {
+    "uid": "be835135434a4e8bad7c63d263a81d4b",
+    "nombre": "Ruffed Lemur (Minecraft)",
+    "autor": "dinolover4242",
+    "licencia": "CC Attribution",
+    "animaciones": 6,
+    "caras": 120,
+    "url": "https://sketchfab.com/3d-models/none-be835135434a4e8bad7c63d263a81d4b",
+    "miniatura": "miniaturas/e_ani_lemur/be835135434a4e8bad7c63d263a81d4b.jpg"
+   },
+   {
+    "uid": "f8e44fb0237a4a0fa398d07b7b05a028",
+    "nombre": "Ruffed Lemur V2 (Minecraft)",
+    "autor": "dinolover4242",
+    "licencia": "CC Attribution",
+    "animaciones": 6,
+    "caras": 120,
+    "url": "https://sketchfab.com/3d-models/none-f8e44fb0237a4a0fa398d07b7b05a028",
+    "miniatura": "miniaturas/e_ani_lemur/f8e44fb0237a4a0fa398d07b7b05a028.jpg"
+   }
+  ],
+  "e_obj_langur": [],
+  "e_ani_langur": [],
+  "e_obj_howler_monkey": [
+   {
+    "uid": "57603ddf98f04877b855ff4aae8f2e88",
+    "nombre": "Howler monkey from Poly by Google",
+    "autor": "ie-niels",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 846,
+    "url": "https://sketchfab.com/3d-models/none-57603ddf98f04877b855ff4aae8f2e88",
+    "miniatura": "miniaturas/e_obj_howler_monkey/57603ddf98f04877b855ff4aae8f2e88.jpg"
+   },
+   {
+    "uid": "eb0628ac5af34d28a79970cbcc76a560",
+    "nombre": "Low-poly Mantled Howler",
+    "autor": "Zafflex",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1312,
+    "url": "https://sketchfab.com/3d-models/none-eb0628ac5af34d28a79970cbcc76a560",
+    "miniatura": "miniaturas/e_obj_howler_monkey/eb0628ac5af34d28a79970cbcc76a560.jpg"
+   }
+  ],
+  "e_ani_howler_monkey": [],
+  "e_obj_spider_monkey": [
+   {
+    "uid": "745efca54e0244d48d2719516f8a6c7f",
+    "nombre": "Netsuke - Kappa And Toad",
+    "autor": "artsmia",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 64000,
+    "url": "https://sketchfab.com/3d-models/none-745efca54e0244d48d2719516f8a6c7f",
+    "miniatura": "miniaturas/e_obj_spider_monkey/745efca54e0244d48d2719516f8a6c7f.jpg"
+   },
+   {
+    "uid": "cd278ff7bf964c2188872c7c90291f38",
+    "nombre": "Rhesus Monkey Skull",
+    "autor": "RISDNaturelab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 499999,
+    "url": "https://sketchfab.com/3d-models/none-cd278ff7bf964c2188872c7c90291f38",
+    "miniatura": "miniaturas/e_obj_spider_monkey/cd278ff7bf964c2188872c7c90291f38.jpg"
+   },
+   {
+    "uid": "33e77d5d0d564af0964b390193b772c9",
+    "nombre": "Tamarin Monkey Jaw",
+    "autor": "RISDNaturelab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 66880,
+    "url": "https://sketchfab.com/3d-models/none-33e77d5d0d564af0964b390193b772c9",
+    "miniatura": "miniaturas/e_obj_spider_monkey/33e77d5d0d564af0964b390193b772c9.jpg"
+   },
+   {
+    "uid": "eb59b00059dd42c5a9393239fc40f456",
+    "nombre": "Chacma Baboon Skull",
+    "autor": "RISDNaturelab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 500000,
+    "url": "https://sketchfab.com/3d-models/none-eb59b00059dd42c5a9393239fc40f456",
+    "miniatura": "miniaturas/e_obj_spider_monkey/eb59b00059dd42c5a9393239fc40f456.jpg"
+   },
+   {
+    "uid": "15dbe386d8df4c40abbe893bf1241eea",
+    "nombre": "Squirrel Monkey",
+    "autor": "RISDNaturelab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 488090,
+    "url": "https://sketchfab.com/3d-models/none-15dbe386d8df4c40abbe893bf1241eea",
+    "miniatura": "miniaturas/e_obj_spider_monkey/15dbe386d8df4c40abbe893bf1241eea.jpg"
+   },
+   {
+    "uid": "9d71b33754d44adf8c6b7ed0d066030e",
+    "nombre": "Amazonian Flying Spider Lemur",
+    "autor": "hamiltonimaginations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 52600,
+    "url": "https://sketchfab.com/3d-models/none-9d71b33754d44adf8c6b7ed0d066030e",
+    "miniatura": "miniaturas/e_obj_spider_monkey/9d71b33754d44adf8c6b7ed0d066030e.jpg"
+   },
+   {
+    "uid": "9feffd41decb4d1ea6d77967e0adc6a3",
+    "nombre": "Spider monkey from Poly by Google",
+    "autor": "ie-niels",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1270,
+    "url": "https://sketchfab.com/3d-models/none-9feffd41decb4d1ea6d77967e0adc6a3",
+    "miniatura": "miniaturas/e_obj_spider_monkey/9feffd41decb4d1ea6d77967e0adc6a3.jpg"
+   },
+   {
+    "uid": "bd22eef5e8024d62add0f74c43167b1d",
+    "nombre": "Spider Monkey!",
+    "autor": "darienb",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 94976,
+    "url": "https://sketchfab.com/3d-models/none-bd22eef5e8024d62add0f74c43167b1d",
+    "miniatura": "miniaturas/e_obj_spider_monkey/bd22eef5e8024d62add0f74c43167b1d.jpg"
+   },
+   {
+    "uid": "c9cc4a3a1a12469eb768353714ba5ead",
+    "nombre": "Manu National Park",
+    "autor": "lemuearth",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 24842,
+    "url": "https://sketchfab.com/3d-models/none-c9cc4a3a1a12469eb768353714ba5ead",
+    "miniatura": "miniaturas/e_obj_spider_monkey/c9cc4a3a1a12469eb768353714ba5ead.jpg"
+   },
+   {
+    "uid": "2cb8857121c541508dc6eb8bc7b4b0cd",
+    "nombre": "Manu National Park",
+    "autor": "lemuearth",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 24841,
+    "url": "https://sketchfab.com/3d-models/none-2cb8857121c541508dc6eb8bc7b4b0cd",
+    "miniatura": "miniaturas/e_obj_spider_monkey/2cb8857121c541508dc6eb8bc7b4b0cd.jpg"
+   },
+   {
+    "uid": "039fe32530d24025a8a2b3333c5b05ad",
+    "nombre": "Spider Monkey",
+    "autor": "Destalta",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2184,
+    "url": "https://sketchfab.com/3d-models/none-039fe32530d24025a8a2b3333c5b05ad",
+    "miniatura": "miniaturas/e_obj_spider_monkey/039fe32530d24025a8a2b3333c5b05ad.jpg"
+   },
+   {
+    "uid": "e4a472d6f4764e73b8483913d16510ab",
+    "nombre": "spider-monkey-skull-reduced-size",
+    "autor": "XRchaeology",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 28507,
+    "url": "https://sketchfab.com/3d-models/none-e4a472d6f4764e73b8483913d16510ab",
+    "miniatura": "miniaturas/e_obj_spider_monkey/e4a472d6f4764e73b8483913d16510ab.jpg"
+   }
+  ],
+  "e_ani_spider_monkey": [
+   {
+    "uid": "23097f9302b04c07862514e9665ba38f",
+    "nombre": "Spider-Man Stealth Suit (Far From Home) Rigged",
+    "autor": "irex6510",
+    "licencia": "CC Attribution",
+    "animaciones": 6,
+    "caras": 28781,
+    "url": "https://sketchfab.com/3d-models/none-23097f9302b04c07862514e9665ba38f",
+    "miniatura": "miniaturas/e_ani_spider_monkey/23097f9302b04c07862514e9665ba38f.jpg"
+   },
+   {
+    "uid": "d8a6436d2e464dfdb534382dd4d23fee",
+    "nombre": "Tripod bowl with lid and monkey handle",
+    "autor": "GlobalDigitalHeritage",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 399964,
+    "url": "https://sketchfab.com/3d-models/none-d8a6436d2e464dfdb534382dd4d23fee",
+    "miniatura": "miniaturas/e_ani_spider_monkey/d8a6436d2e464dfdb534382dd4d23fee.jpg"
+   }
+  ],
+  "e_obj_vervet": [
+   {
+    "uid": "046e3164fbdb422f9aba133cd0acced3",
+    "nombre": "Vervet Monkey Skull",
+    "autor": "RISDNaturelab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1000000,
+    "url": "https://sketchfab.com/3d-models/none-046e3164fbdb422f9aba133cd0acced3",
+    "miniatura": "miniaturas/e_obj_vervet/046e3164fbdb422f9aba133cd0acced3.jpg"
+   }
+  ],
+  "e_ani_vervet": [],
+  "e_obj_marmoset": [
+   {
+    "uid": "bf9a19aae6914a2c866311887edc8b3e",
+    "nombre": "Terrarium Bots (@nerdscribbles)",
+    "autor": "N01506",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 55682,
+    "url": "https://sketchfab.com/3d-models/none-bf9a19aae6914a2c866311887edc8b3e",
+    "miniatura": "miniaturas/e_obj_marmoset/bf9a19aae6914a2c866311887edc8b3e.jpg"
+   },
+   {
+    "uid": "c80dba249d9547cbb48d00828d23cfa7",
+    "nombre": "Modern City Block",
+    "autor": "akselmot",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 61244,
+    "url": "https://sketchfab.com/3d-models/none-c80dba249d9547cbb48d00828d23cfa7",
+    "miniatura": "miniaturas/e_obj_marmoset/c80dba249d9547cbb48d00828d23cfa7.jpg"
+   },
+   {
+    "uid": "9d22e02ce2a548959b1c4c4c1d546842",
+    "nombre": "Stylized mushrooms",
+    "autor": "QumoDone",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12057,
+    "url": "https://sketchfab.com/3d-models/none-9d22e02ce2a548959b1c4c4c1d546842",
+    "miniatura": "miniaturas/e_obj_marmoset/9d22e02ce2a548959b1c4c4c1d546842.jpg"
+   },
+   {
+    "uid": "2d1bef3aa9ae47c5aee26cc3f032ab31",
+    "nombre": "Sci-FI Sniper Rifle",
+    "autor": "svacomatija",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 31152,
+    "url": "https://sketchfab.com/3d-models/none-2d1bef3aa9ae47c5aee26cc3f032ab31",
+    "miniatura": "miniaturas/e_obj_marmoset/2d1bef3aa9ae47c5aee26cc3f032ab31.jpg"
+   },
+   {
+    "uid": "7cfe1fae9b414f07bcc1d5719bdebf9b",
+    "nombre": "Tamagotchi (Pet Sailor Moon)",
+    "autor": "Aldemona",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4250,
+    "url": "https://sketchfab.com/3d-models/none-7cfe1fae9b414f07bcc1d5719bdebf9b",
+    "miniatura": "miniaturas/e_obj_marmoset/7cfe1fae9b414f07bcc1d5719bdebf9b.jpg"
+   },
+   {
+    "uid": "a4beb5c0c4b548108b28ef4a891ccec7",
+    "nombre": "Sci-fi Toad",
+    "autor": "YuryTheCreator",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 21353,
+    "url": "https://sketchfab.com/3d-models/none-a4beb5c0c4b548108b28ef4a891ccec7",
+    "miniatura": "miniaturas/e_obj_marmoset/a4beb5c0c4b548108b28ef4a891ccec7.jpg"
+   },
+   {
+    "uid": "4cf09dde878f41fab2095ff9198c24af",
+    "nombre": "Military Assets, free to use.",
+    "autor": "BlueOxel",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 160216,
+    "url": "https://sketchfab.com/3d-models/none-4cf09dde878f41fab2095ff9198c24af",
+    "miniatura": "miniaturas/e_obj_marmoset/4cf09dde878f41fab2095ff9198c24af.jpg"
+   },
+   {
+    "uid": "77da87c27b784fa1951f187642b4d3fd",
+    "nombre": "Japan Self-Defense Forces Military Base kit",
+    "autor": "Plevako",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 50085,
+    "url": "https://sketchfab.com/3d-models/none-77da87c27b784fa1951f187642b4d3fd",
+    "miniatura": "miniaturas/e_obj_marmoset/77da87c27b784fa1951f187642b4d3fd.jpg"
+   },
+   {
+    "uid": "2edf57ce2e6c4475bd4897b9c91b0a77",
+    "nombre": "Low-poly Papers Set",
+    "autor": "hox_lira",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 174,
+    "url": "https://sketchfab.com/3d-models/none-2edf57ce2e6c4475bd4897b9c91b0a77",
+    "miniatura": "miniaturas/e_obj_marmoset/2edf57ce2e6c4475bd4897b9c91b0a77.jpg"
+   },
+   {
+    "uid": "2d523b639c79407daff09ed23491e706",
+    "nombre": "Needle OC",
+    "autor": "CataRackta",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 62227,
+    "url": "https://sketchfab.com/3d-models/none-2d523b639c79407daff09ed23491e706",
+    "miniatura": "miniaturas/e_obj_marmoset/2d523b639c79407daff09ed23491e706.jpg"
+   },
+   {
+    "uid": "81914abdc5b64b259d36ec7044118949",
+    "nombre": "Combat Steampunk Robot",
+    "autor": "milinam2002",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 46261,
+    "url": "https://sketchfab.com/3d-models/none-81914abdc5b64b259d36ec7044118949",
+    "miniatura": "miniaturas/e_obj_marmoset/81914abdc5b64b259d36ec7044118949.jpg"
+   },
+   {
+    "uid": "82797367c2b94fb1981e556577a3c898",
+    "nombre": "Industrial Air Conditioner",
+    "autor": "HusarL",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1500,
+    "url": "https://sketchfab.com/3d-models/none-82797367c2b94fb1981e556577a3c898",
+    "miniatura": "miniaturas/e_obj_marmoset/82797367c2b94fb1981e556577a3c898.jpg"
+   },
+   {
+    "uid": "20f1ebee339a4b46b9e547782e2aaba9",
+    "nombre": "Old tin barrel",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11390,
+    "url": "https://sketchfab.com/3d-models/none-20f1ebee339a4b46b9e547782e2aaba9",
+    "miniatura": "miniaturas/e_obj_marmoset/20f1ebee339a4b46b9e547782e2aaba9.jpg"
+   },
+   {
+    "uid": "9bd8adc4cf074a0e85277acd3d6333e9",
+    "nombre": "Cigarette packs",
+    "autor": "Noahouou",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 17062,
+    "url": "https://sketchfab.com/3d-models/none-9bd8adc4cf074a0e85277acd3d6333e9",
+    "miniatura": "miniaturas/e_obj_marmoset/9bd8adc4cf074a0e85277acd3d6333e9.jpg"
+   },
+   {
+    "uid": "07cdf9f5f55c4b7a9be1e0057f7736f0",
+    "nombre": "Gurley Burt Solar Transit - Circa 1907",
+    "autor": "n.tendetnik",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 30682,
+    "url": "https://sketchfab.com/3d-models/none-07cdf9f5f55c4b7a9be1e0057f7736f0",
+    "miniatura": "miniaturas/e_obj_marmoset/07cdf9f5f55c4b7a9be1e0057f7736f0.jpg"
+   },
+   {
+    "uid": "040f40e20e9344f5bd368e4db3d3b2ac",
+    "nombre": "Cyberpunk Car",
+    "autor": "SamTheCaribbean",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 48175,
+    "url": "https://sketchfab.com/3d-models/none-040f40e20e9344f5bd368e4db3d3b2ac",
+    "miniatura": "miniaturas/e_obj_marmoset/040f40e20e9344f5bd368e4db3d3b2ac.jpg"
+   },
+   {
+    "uid": "fae22ece4d764979aafd614ebe09956d",
+    "nombre": "Locker Equipment",
+    "autor": "LtxxwSibeRia",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5226,
+    "url": "https://sketchfab.com/3d-models/none-fae22ece4d764979aafd614ebe09956d",
+    "miniatura": "miniaturas/e_obj_marmoset/fae22ece4d764979aafd614ebe09956d.jpg"
+   },
+   {
+    "uid": "bde24275c4314886ac9ef9b98342cfa7",
+    "nombre": "DARTH VADER By Oscar creativo",
+    "autor": "oscar_creativo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 181803,
+    "url": "https://sketchfab.com/3d-models/none-bde24275c4314886ac9ef9b98342cfa7",
+    "miniatura": "miniaturas/e_obj_marmoset/bde24275c4314886ac9ef9b98342cfa7.jpg"
+   },
+   {
+    "uid": "6863824addaa4115aabf4455e9c6573f",
+    "nombre": "Alchemy Stuff",
+    "autor": "glenatron",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 19612,
+    "url": "https://sketchfab.com/3d-models/none-6863824addaa4115aabf4455e9c6573f",
+    "miniatura": "miniaturas/e_obj_marmoset/6863824addaa4115aabf4455e9c6573f.jpg"
+   },
+   {
+    "uid": "5cc7b9ac82db44a18aa9d37afe1498d2",
+    "nombre": "The Corvette Class Light Frigate [The Expanse]",
+    "autor": "wintermute666",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 208133,
+    "url": "https://sketchfab.com/3d-models/none-5cc7b9ac82db44a18aa9d37afe1498d2",
+    "miniatura": "miniaturas/e_obj_marmoset/5cc7b9ac82db44a18aa9d37afe1498d2.jpg"
+   },
+   {
+    "uid": "deadcadc915545a7b4701dbe6eb419e8",
+    "nombre": "Stylized Pine Tree Tree",
+    "autor": "Batuhan13",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 939,
+    "url": "https://sketchfab.com/3d-models/none-deadcadc915545a7b4701dbe6eb419e8",
+    "miniatura": "miniaturas/e_obj_marmoset/deadcadc915545a7b4701dbe6eb419e8.jpg"
+   },
+   {
+    "uid": "24c821bbe0a1469ba66b9d5894546d9a",
+    "nombre": "Western Stylised Rock",
+    "autor": "pixelgrapher",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2300,
+    "url": "https://sketchfab.com/3d-models/none-24c821bbe0a1469ba66b9d5894546d9a",
+    "miniatura": "miniaturas/e_obj_marmoset/24c821bbe0a1469ba66b9d5894546d9a.jpg"
+   },
+   {
+    "uid": "2799b0b859c74db6ae8752fdc6bb4c04",
+    "nombre": "Flashbang grenade",
+    "autor": "knik211",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8290,
+    "url": "https://sketchfab.com/3d-models/none-2799b0b859c74db6ae8752fdc6bb4c04",
+    "miniatura": "miniaturas/e_obj_marmoset/2799b0b859c74db6ae8752fdc6bb4c04.jpg"
+   },
+   {
+    "uid": "d33869e8bec44de4b60d528712e6fc04",
+    "nombre": "Old Style Military Radio",
+    "autor": "DungarSinghBalecha",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12363,
+    "url": "https://sketchfab.com/3d-models/none-d33869e8bec44de4b60d528712e6fc04",
+    "miniatura": "miniaturas/e_obj_marmoset/d33869e8bec44de4b60d528712e6fc04.jpg"
+   },
+   {
+    "uid": "843361ad169040fba19fe8758f5bd396",
+    "nombre": "Soma04 spaceship low poly - interior",
+    "autor": "L_Krajewski",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 21115,
+    "url": "https://sketchfab.com/3d-models/none-843361ad169040fba19fe8758f5bd396",
+    "miniatura": "miniaturas/e_obj_marmoset/843361ad169040fba19fe8758f5bd396.jpg"
+   },
+   {
+    "uid": "7669b27d4e634e7b9cd114d50c33af97",
+    "nombre": "Glass of Tea",
+    "autor": "drobluda",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3673,
+    "url": "https://sketchfab.com/3d-models/none-7669b27d4e634e7b9cd114d50c33af97",
+    "miniatura": "miniaturas/e_obj_marmoset/7669b27d4e634e7b9cd114d50c33af97.jpg"
+   },
+   {
+    "uid": "99d6dce2e49e4ba185ac108ab044524d",
+    "nombre": "Bike Ardis Verona 28\"",
+    "autor": "oksana_grym",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 91509,
+    "url": "https://sketchfab.com/3d-models/none-99d6dce2e49e4ba185ac108ab044524d",
+    "miniatura": "miniaturas/e_obj_marmoset/99d6dce2e49e4ba185ac108ab044524d.jpg"
+   },
+   {
+    "uid": "add0f902b9164718bd0540e88bf9927e",
+    "nombre": "gas pump",
+    "autor": "youoyouyou",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13413,
+    "url": "https://sketchfab.com/3d-models/none-add0f902b9164718bd0540e88bf9927e",
+    "miniatura": "miniaturas/e_obj_marmoset/add0f902b9164718bd0540e88bf9927e.jpg"
+   },
+   {
+    "uid": "e2c072b89454484bace2b7675f7577a2",
+    "nombre": "Improvised Lightgun",
+    "autor": "ChristianRudorff",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 32558,
+    "url": "https://sketchfab.com/3d-models/none-e2c072b89454484bace2b7675f7577a2",
+    "miniatura": "miniaturas/e_obj_marmoset/e2c072b89454484bace2b7675f7577a2.jpg"
+   },
+   {
+    "uid": "c43dfbc4d1b84a55b8d3581493965c69",
+    "nombre": "Sci-fi lowpoly Dashboard",
+    "autor": "m4ty1k4",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7402,
+    "url": "https://sketchfab.com/3d-models/none-c43dfbc4d1b84a55b8d3581493965c69",
+    "miniatura": "miniaturas/e_obj_marmoset/c43dfbc4d1b84a55b8d3581493965c69.jpg"
+   },
+   {
+    "uid": "41b54ad4d0ac410c91fbecd18ce199aa",
+    "nombre": "Trafficlight07 - Street Kitbash Collection",
+    "autor": "experiment_studio",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 790768,
+    "url": "https://sketchfab.com/3d-models/none-41b54ad4d0ac410c91fbecd18ce199aa",
+    "miniatura": "miniaturas/e_obj_marmoset/41b54ad4d0ac410c91fbecd18ce199aa.jpg"
+   },
+   {
+    "uid": "8b33ab96b91a45b1bdaa81b3effd7970",
+    "nombre": "Fire Escape",
+    "autor": "KnightFallows",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 28940,
+    "url": "https://sketchfab.com/3d-models/none-8b33ab96b91a45b1bdaa81b3effd7970",
+    "miniatura": "miniaturas/e_obj_marmoset/8b33ab96b91a45b1bdaa81b3effd7970.jpg"
+   },
+   {
+    "uid": "8802f919d5bf455ea716261b18b4fd7b",
+    "nombre": "Lara croft",
+    "autor": "MDUtsho",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 70624,
+    "url": "https://sketchfab.com/3d-models/none-8802f919d5bf455ea716261b18b4fd7b",
+    "miniatura": "miniaturas/e_obj_marmoset/8802f919d5bf455ea716261b18b4fd7b.jpg"
+   },
+   {
+    "uid": "1dc7708fd7bd4ea1b035f4c48dbd7868",
+    "nombre": "Female Leather Jacket - Free Model",
+    "autor": "CG_StudioX",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4947,
+    "url": "https://sketchfab.com/3d-models/none-1dc7708fd7bd4ea1b035f4c48dbd7868",
+    "miniatura": "miniaturas/e_obj_marmoset/1dc7708fd7bd4ea1b035f4c48dbd7868.jpg"
+   },
+   {
+    "uid": "984250852a6648faa9a659d7699caf88",
+    "nombre": "Andlangr Sword (midpoly)",
+    "autor": "dele0n",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9380,
+    "url": "https://sketchfab.com/3d-models/none-984250852a6648faa9a659d7699caf88",
+    "miniatura": "miniaturas/e_obj_marmoset/984250852a6648faa9a659d7699caf88.jpg"
+   },
+   {
+    "uid": "bec41018cdae4280994ce6eed629a312",
+    "nombre": "Church bench",
+    "autor": "Sololopenko",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5598,
+    "url": "https://sketchfab.com/3d-models/none-bec41018cdae4280994ce6eed629a312",
+    "miniatura": "miniaturas/e_obj_marmoset/bec41018cdae4280994ce6eed629a312.jpg"
+   },
+   {
+    "uid": "80419f7e64e24afe97e0931b6aeee612",
+    "nombre": "Shiba Inu Dog",
+    "autor": "Ida..Faber",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8630,
+    "url": "https://sketchfab.com/3d-models/none-80419f7e64e24afe97e0931b6aeee612",
+    "miniatura": "miniaturas/e_obj_marmoset/80419f7e64e24afe97e0931b6aeee612.jpg"
+   },
+   {
+    "uid": "2e8b3685be44458a854e1a2aefdd621f",
+    "nombre": "WF&Co box",
+    "autor": "shepetotec",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9660,
+    "url": "https://sketchfab.com/3d-models/none-2e8b3685be44458a854e1a2aefdd621f",
+    "miniatura": "miniaturas/e_obj_marmoset/2e8b3685be44458a854e1a2aefdd621f.jpg"
+   },
+   {
+    "uid": "51bda25372f944c3a9a023aaeda85d24",
+    "nombre": "Steampunk Gun",
+    "autor": "Batuhan13",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 37438,
+    "url": "https://sketchfab.com/3d-models/none-51bda25372f944c3a9a023aaeda85d24",
+    "miniatura": "miniaturas/e_obj_marmoset/51bda25372f944c3a9a023aaeda85d24.jpg"
+   }
+  ],
+  "e_ani_marmoset": [
+   {
+    "uid": "2d523b639c79407daff09ed23491e706",
+    "nombre": "Needle OC",
+    "autor": "CataRackta",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 62227,
+    "url": "https://sketchfab.com/3d-models/none-2d523b639c79407daff09ed23491e706",
+    "miniatura": "miniaturas/e_ani_marmoset/2d523b639c79407daff09ed23491e706.jpg"
+   },
+   {
+    "uid": "82797367c2b94fb1981e556577a3c898",
+    "nombre": "Industrial Air Conditioner",
+    "autor": "HusarL",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1500,
+    "url": "https://sketchfab.com/3d-models/none-82797367c2b94fb1981e556577a3c898",
+    "miniatura": "miniaturas/e_ani_marmoset/82797367c2b94fb1981e556577a3c898.jpg"
+   },
+   {
+    "uid": "6357bbc094d54cf5ba150ef2951b3750",
+    "nombre": "Living Flesh Blob - Free Organic Horror Asset",
+    "autor": "Tim0",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 9936,
+    "url": "https://sketchfab.com/3d-models/none-6357bbc094d54cf5ba150ef2951b3750",
+    "miniatura": "miniaturas/e_ani_marmoset/6357bbc094d54cf5ba150ef2951b3750.jpg"
+   },
+   {
+    "uid": "788797a8a6284a29a04961cb09072eda",
+    "nombre": "9A-91 Assault Rifle Gameready Lowpoly",
+    "autor": "valterjherson1",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 11192,
+    "url": "https://sketchfab.com/3d-models/none-788797a8a6284a29a04961cb09072eda",
+    "miniatura": "miniaturas/e_ani_marmoset/788797a8a6284a29a04961cb09072eda.jpg"
+   },
+   {
+    "uid": "4173249254954513bfa1e5785fb40dd5",
+    "nombre": "DRAGO 3D MODEL FREE BY Oscar Creativo",
+    "autor": "oscar_creativo",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 337289,
+    "url": "https://sketchfab.com/3d-models/none-4173249254954513bfa1e5785fb40dd5",
+    "miniatura": "miniaturas/e_ani_marmoset/4173249254954513bfa1e5785fb40dd5.jpg"
+   },
+   {
+    "uid": "81c37685c47c4f98a33738127e8a75c1",
+    "nombre": "Emerald Bat",
+    "autor": "CataRackta",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4948,
+    "url": "https://sketchfab.com/3d-models/none-81c37685c47c4f98a33738127e8a75c1",
+    "miniatura": "miniaturas/e_ani_marmoset/81c37685c47c4f98a33738127e8a75c1.jpg"
+   },
+   {
+    "uid": "e2c072b89454484bace2b7675f7577a2",
+    "nombre": "Improvised Lightgun",
+    "autor": "ChristianRudorff",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 32558,
+    "url": "https://sketchfab.com/3d-models/none-e2c072b89454484bace2b7675f7577a2",
+    "miniatura": "miniaturas/e_ani_marmoset/e2c072b89454484bace2b7675f7577a2.jpg"
+   },
+   {
+    "uid": "d0cc472209ef4bfbab8cf4f22b69f68d",
+    "nombre": "PP-91 «KEDR» Machine Pistol Midpoly Gameready",
+    "autor": "valterjherson1",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 29324,
+    "url": "https://sketchfab.com/3d-models/none-d0cc472209ef4bfbab8cf4f22b69f68d",
+    "miniatura": "miniaturas/e_ani_marmoset/d0cc472209ef4bfbab8cf4f22b69f68d.jpg"
+   },
+   {
+    "uid": "0730705327e045bd8cb98a888bd0f954",
+    "nombre": "Windmill",
+    "autor": "Tim0",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 2947,
+    "url": "https://sketchfab.com/3d-models/none-0730705327e045bd8cb98a888bd0f954",
+    "miniatura": "miniaturas/e_ani_marmoset/0730705327e045bd8cb98a888bd0f954.jpg"
+   },
+   {
+    "uid": "8934180d821944dea054c8022c0fe4a6",
+    "nombre": "Cinna Bun - alien bunny species",
+    "autor": "LizzyKoopa",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 76628,
+    "url": "https://sketchfab.com/3d-models/none-8934180d821944dea054c8022c0fe4a6",
+    "miniatura": "miniaturas/e_ani_marmoset/8934180d821944dea054c8022c0fe4a6.jpg"
+   },
+   {
+    "uid": "51a65d90e9a141f480ba38939ec9a050",
+    "nombre": "Dalaran #FantasyIslandChallenge",
+    "autor": "Batuhan13",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 49685,
+    "url": "https://sketchfab.com/3d-models/none-51a65d90e9a141f480ba38939ec9a050",
+    "miniatura": "miniaturas/e_ani_marmoset/51a65d90e9a141f480ba38939ec9a050.jpg"
+   },
+   {
+    "uid": "234b1772e68746ba855afd95bf7f2f54",
+    "nombre": "Monster Concept",
+    "autor": "Julianoar99",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 24238,
+    "url": "https://sketchfab.com/3d-models/none-234b1772e68746ba855afd95bf7f2f54",
+    "miniatura": "miniaturas/e_ani_marmoset/234b1772e68746ba855afd95bf7f2f54.jpg"
+   },
+   {
+    "uid": "8eb3a8bd0d20478bba149de03c3b91ae",
+    "nombre": "Kindred - League of Legends",
+    "autor": "CataRackta",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 82736,
+    "url": "https://sketchfab.com/3d-models/none-8eb3a8bd0d20478bba149de03c3b91ae",
+    "miniatura": "miniaturas/e_ani_marmoset/8eb3a8bd0d20478bba149de03c3b91ae.jpg"
+   },
+   {
+    "uid": "92f751dab03e4a2792348a21b3673ec1",
+    "nombre": "Windmill",
+    "autor": "BlueHour",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 23983,
+    "url": "https://sketchfab.com/3d-models/none-92f751dab03e4a2792348a21b3673ec1",
+    "miniatura": "miniaturas/e_ani_marmoset/92f751dab03e4a2792348a21b3673ec1.jpg"
+   },
+   {
+    "uid": "01de3d58f22c4f34b056c03cadb4e7d0",
+    "nombre": "Red Expedition (UAZ Hunter)",
+    "autor": "tafooR",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 60059,
+    "url": "https://sketchfab.com/3d-models/none-01de3d58f22c4f34b056c03cadb4e7d0",
+    "miniatura": "miniaturas/e_ani_marmoset/01de3d58f22c4f34b056c03cadb4e7d0.jpg"
+   },
+   {
+    "uid": "1bcc7055a1ba4cd284e181fb38041253",
+    "nombre": "Minette - Skullgirls",
+    "autor": "CataRackta",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 42829,
+    "url": "https://sketchfab.com/3d-models/none-1bcc7055a1ba4cd284e181fb38041253",
+    "miniatura": "miniaturas/e_ani_marmoset/1bcc7055a1ba4cd284e181fb38041253.jpg"
+   },
+   {
+    "uid": "648f6093d6c84777ab335d6c6c4c78b4",
+    "nombre": "Game Low Poly Buildings",
+    "autor": "ishivamfx",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 53904,
+    "url": "https://sketchfab.com/3d-models/none-648f6093d6c84777ab335d6c6c4c78b4",
+    "miniatura": "miniaturas/e_ani_marmoset/648f6093d6c84777ab335d6c6c4c78b4.jpg"
+   },
+   {
+    "uid": "fb9e951263f84af290bfb96ede790d01",
+    "nombre": "CyberRoom || Scifi",
+    "autor": "juliaice",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 33266,
+    "url": "https://sketchfab.com/3d-models/none-fb9e951263f84af290bfb96ede790d01",
+    "miniatura": "miniaturas/e_ani_marmoset/fb9e951263f84af290bfb96ede790d01.jpg"
+   },
+   {
+    "uid": "991a599996b24444b0c783a681b4a9e2",
+    "nombre": "Windmill – Handpainted 3D Environment",
+    "autor": "MorganArt3D",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 95917,
+    "url": "https://sketchfab.com/3d-models/none-991a599996b24444b0c783a681b4a9e2",
+    "miniatura": "miniaturas/e_ani_marmoset/991a599996b24444b0c783a681b4a9e2.jpg"
+   },
+   {
+    "uid": "bd8290074df34eb99f174edb176fcc46",
+    "nombre": "Infernal Magma Hound - Free Lava Creature Asset",
+    "autor": "Tim0",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 12538,
+    "url": "https://sketchfab.com/3d-models/none-bd8290074df34eb99f174edb176fcc46",
+    "miniatura": "miniaturas/e_ani_marmoset/bd8290074df34eb99f174edb176fcc46.jpg"
+   },
+   {
+    "uid": "91f45f5744fa4d1886ab6ce8e8d22c5e",
+    "nombre": "M1897 Trenchgun",
+    "autor": "coldsky",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 45881,
+    "url": "https://sketchfab.com/3d-models/none-91f45f5744fa4d1886ab6ce8e8d22c5e",
+    "miniatura": "miniaturas/e_ani_marmoset/91f45f5744fa4d1886ab6ce8e8d22c5e.jpg"
+   },
+   {
+    "uid": "ec1c6e2250824c3987cde64ea29ccd52",
+    "nombre": "Robin_ Bird",
+    "autor": "Assets_Animated",
+    "licencia": "CC Attribution",
+    "animaciones": 12,
+    "caras": 78024,
+    "url": "https://sketchfab.com/3d-models/none-ec1c6e2250824c3987cde64ea29ccd52",
+    "miniatura": "miniaturas/e_ani_marmoset/ec1c6e2250824c3987cde64ea29ccd52.jpg"
+   },
+   {
+    "uid": "0fbe7f481fd2416cbdad416599c4e3b6",
+    "nombre": "Stylized Orc Warrior",
+    "autor": "eugeen",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 6949,
+    "url": "https://sketchfab.com/3d-models/none-0fbe7f481fd2416cbdad416599c4e3b6",
+    "miniatura": "miniaturas/e_ani_marmoset/0fbe7f481fd2416cbdad416599c4e3b6.jpg"
+   },
+   {
+    "uid": "6232f62123664b8db70a04d6a110f211",
+    "nombre": "Stylized medieval house",
+    "autor": "997senk",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 123813,
+    "url": "https://sketchfab.com/3d-models/none-6232f62123664b8db70a04d6a110f211",
+    "miniatura": "miniaturas/e_ani_marmoset/6232f62123664b8db70a04d6a110f211.jpg"
+   },
+   {
+    "uid": "96c6bfa9eba84191accb773924e03726",
+    "nombre": "Dalek",
+    "autor": "alex.shevchuk",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 42220,
+    "url": "https://sketchfab.com/3d-models/none-96c6bfa9eba84191accb773924e03726",
+    "miniatura": "miniaturas/e_ani_marmoset/96c6bfa9eba84191accb773924e03726.jpg"
+   },
+   {
+    "uid": "e1b77308e1f24d8aa0c5da969971ba30",
+    "nombre": "Volition Fighter",
+    "autor": "CassioFernandes",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 370013,
+    "url": "https://sketchfab.com/3d-models/none-e1b77308e1f24d8aa0c5da969971ba30",
+    "miniatura": "miniaturas/e_ani_marmoset/e1b77308e1f24d8aa0c5da969971ba30.jpg"
+   },
+   {
+    "uid": "d1bdf5065da3415cbbce5f91406bdd70",
+    "nombre": "Beedrill",
+    "autor": "fanaya2001",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10410,
+    "url": "https://sketchfab.com/3d-models/none-d1bdf5065da3415cbbce5f91406bdd70",
+    "miniatura": "miniaturas/e_ani_marmoset/d1bdf5065da3415cbbce5f91406bdd70.jpg"
+   },
+   {
+    "uid": "37719e8018964286b66a55d31fb746f9",
+    "nombre": "Drifting Toyota Crown S150 - Anime patrol car",
+    "autor": "pinkycolada",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 82602,
+    "url": "https://sketchfab.com/3d-models/none-37719e8018964286b66a55d31fb746f9",
+    "miniatura": "miniaturas/e_ani_marmoset/37719e8018964286b66a55d31fb746f9.jpg"
+   },
+   {
+    "uid": "fd6cf361c8534bd3b5d9c3cc7eb2aea6",
+    "nombre": "Vampire case animation",
+    "autor": "1majaxed",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 15092,
+    "url": "https://sketchfab.com/3d-models/none-fd6cf361c8534bd3b5d9c3cc7eb2aea6",
+    "miniatura": "miniaturas/e_ani_marmoset/fd6cf361c8534bd3b5d9c3cc7eb2aea6.jpg"
+   },
+   {
+    "uid": "06c54ca5319a47c8b23ffd39da741848",
+    "nombre": "Telik",
+    "autor": "boriseviav",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6554,
+    "url": "https://sketchfab.com/3d-models/none-06c54ca5319a47c8b23ffd39da741848",
+    "miniatura": "miniaturas/e_ani_marmoset/06c54ca5319a47c8b23ffd39da741848.jpg"
+   },
+   {
+    "uid": "93705b50d327400a8a0cf121c0651719",
+    "nombre": "Furry Rabbit | Demo",
+    "autor": "McPato",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 2,
+    "caras": 46366,
+    "url": "https://sketchfab.com/3d-models/none-93705b50d327400a8a0cf121c0651719",
+    "miniatura": "miniaturas/e_ani_marmoset/93705b50d327400a8a0cf121c0651719.jpg"
+   },
+   {
+    "uid": "5c412c04f5074451a4940eac98325092",
+    "nombre": "Old door",
+    "autor": "bledr",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3216,
+    "url": "https://sketchfab.com/3d-models/none-5c412c04f5074451a4940eac98325092",
+    "miniatura": "miniaturas/e_ani_marmoset/5c412c04f5074451a4940eac98325092.jpg"
+   },
+   {
+    "uid": "18c4a3757552423f9636f30a1fb4ad71",
+    "nombre": "❁DUDE | 3D Character with Handpainted TXT❁",
+    "autor": "nottodayrender",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 18113,
+    "url": "https://sketchfab.com/3d-models/none-18c4a3757552423f9636f30a1fb4ad71",
+    "miniatura": "miniaturas/e_ani_marmoset/18c4a3757552423f9636f30a1fb4ad71.jpg"
+   },
+   {
+    "uid": "577b37fe8a4d46878d1cb8ccec0c805e",
+    "nombre": "Skeletor",
+    "autor": "pan_stasian",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 32458,
+    "url": "https://sketchfab.com/3d-models/none-577b37fe8a4d46878d1cb8ccec0c805e",
+    "miniatura": "miniaturas/e_ani_marmoset/577b37fe8a4d46878d1cb8ccec0c805e.jpg"
+   },
+   {
+    "uid": "402848d2da654330bc9c3f23ec06cf8d",
+    "nombre": "Maw of the Void - Free Creature Asset",
+    "autor": "Tim0",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 13308,
+    "url": "https://sketchfab.com/3d-models/none-402848d2da654330bc9c3f23ec06cf8d",
+    "miniatura": "miniaturas/e_ani_marmoset/402848d2da654330bc9c3f23ec06cf8d.jpg"
+   },
+   {
+    "uid": "42da47ae59574ed5a6b86b49734294cc",
+    "nombre": "Minotaur Berserker - Free Game-Ready Character",
+    "autor": "Tim0",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 7842,
+    "url": "https://sketchfab.com/3d-models/none-42da47ae59574ed5a6b86b49734294cc",
+    "miniatura": "miniaturas/e_ani_marmoset/42da47ae59574ed5a6b86b49734294cc.jpg"
+   },
+   {
+    "uid": "af59df5bb2e0431596c1b0d7071e600f",
+    "nombre": "Wolverine Fan Art - Realtime",
+    "autor": "jcossioart",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 201496,
+    "url": "https://sketchfab.com/3d-models/none-af59df5bb2e0431596c1b0d7071e600f",
+    "miniatura": "miniaturas/e_ani_marmoset/af59df5bb2e0431596c1b0d7071e600f.jpg"
+   },
+   {
+    "uid": "1fbf1b8b17bb4048bbf74f4eba083931",
+    "nombre": "Sci fi box [FREE FOR NON-COMMERCIAL]",
+    "autor": "m4ty1k4",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 77216,
+    "url": "https://sketchfab.com/3d-models/none-1fbf1b8b17bb4048bbf74f4eba083931",
+    "miniatura": "miniaturas/e_ani_marmoset/1fbf1b8b17bb4048bbf74f4eba083931.jpg"
+   },
+   {
+    "uid": "56d65a1c699e4458b48189b57c5d146f",
+    "nombre": "Terracotta Pot and Lid",
+    "autor": "GetDeadEntertainment",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4608,
+    "url": "https://sketchfab.com/3d-models/none-56d65a1c699e4458b48189b57c5d146f",
+    "miniatura": "miniaturas/e_ani_marmoset/56d65a1c699e4458b48189b57c5d146f.jpg"
+   },
+   {
+    "uid": "7fc0ddaee07946afb9c602ef843f6fd6",
+    "nombre": "Robot and fish",
+    "autor": "Aldemona",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5297,
+    "url": "https://sketchfab.com/3d-models/none-7fc0ddaee07946afb9c602ef843f6fd6",
+    "miniatura": "miniaturas/e_ani_marmoset/7fc0ddaee07946afb9c602ef843f6fd6.jpg"
+   }
+  ],
+  "e_obj_proboscis_monkey": [
+   {
+    "uid": "fb8a8bdc2c554b19be8eb73478c38474",
+    "nombre": "Sculptober Day 12: Smell",
+    "autor": "LionRiderKing",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1006492,
+    "url": "https://sketchfab.com/3d-models/none-fb8a8bdc2c554b19be8eb73478c38474",
+    "miniatura": "miniaturas/e_obj_proboscis_monkey/fb8a8bdc2c554b19be8eb73478c38474.jpg"
+   },
+   {
+    "uid": "58e9f1d96e9b418c8439c5622aac33c3",
+    "nombre": "Proboscis Monkey",
+    "autor": "mujahidjohar",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 307217,
+    "url": "https://sketchfab.com/3d-models/none-58e9f1d96e9b418c8439c5622aac33c3",
+    "miniatura": "miniaturas/e_obj_proboscis_monkey/58e9f1d96e9b418c8439c5622aac33c3.jpg"
+   }
+  ],
+  "e_ani_proboscis_monkey": [],
+  "e_obj_gelada": [
+   {
+    "uid": "ee04c93f308e46088790404e6ec6694b",
+    "nombre": "Oxypressure 3.0",
+    "autor": "bruno.ludwig",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 568008,
+    "url": "https://sketchfab.com/3d-models/none-ee04c93f308e46088790404e6ec6694b",
+    "miniatura": "miniaturas/e_obj_gelada/ee04c93f308e46088790404e6ec6694b.jpg"
+   }
+  ],
+  "e_ani_gelada": [],
+  "e_obj_snub-nosed_monkey": [],
+  "e_ani_snub-nosed_monkey": [],
+  "e_obj_colobus": [
+   {
+    "uid": "f7d1489031ce475084e3260a0d0ba289",
+    "nombre": "Santa Maria de Colombo",
+    "autor": "9of9",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 99788,
+    "url": "https://sketchfab.com/3d-models/none-f7d1489031ce475084e3260a0d0ba289",
+    "miniatura": "miniaturas/e_obj_colobus/f7d1489031ce475084e3260a0d0ba289.jpg"
+   },
+   {
+    "uid": "5e51d26d01bd4ae6ae4de46c5ce34eb8",
+    "nombre": "Colossus Rhodius Low-poly 3D model",
+    "autor": "Chernorotbogdan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2493,
+    "url": "https://sketchfab.com/3d-models/none-5e51d26d01bd4ae6ae4de46c5ce34eb8",
+    "miniatura": "miniaturas/e_obj_colobus/5e51d26d01bd4ae6ae4de46c5ce34eb8.jpg"
+   },
+   {
+    "uid": "4ccd381b2d9e48bc8dd7113ce444c030",
+    "nombre": "upgun-gun-colorus-smile",
+    "autor": "garloulou2507",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 967,
+    "url": "https://sketchfab.com/3d-models/none-4ccd381b2d9e48bc8dd7113ce444c030",
+    "miniatura": "miniaturas/e_obj_colobus/4ccd381b2d9e48bc8dd7113ce444c030.jpg"
+   },
+   {
+    "uid": "19bacbf83ff74e4492250ba1ea14eb1b",
+    "nombre": "Western Red Colobus 22-5 Demo",
+    "autor": "jrerkens",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 999890,
+    "url": "https://sketchfab.com/3d-models/none-19bacbf83ff74e4492250ba1ea14eb1b",
+    "miniatura": "miniaturas/e_obj_colobus/19bacbf83ff74e4492250ba1ea14eb1b.jpg"
+   },
+   {
+    "uid": "f8d1ff5c77214c0c8a37d4b59946c38a",
+    "nombre": "Long-tailed Tyrant - Colonia colonus",
+    "autor": "MooreLab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 75542,
+    "url": "https://sketchfab.com/3d-models/none-f8d1ff5c77214c0c8a37d4b59946c38a",
+    "miniatura": "miniaturas/e_obj_colobus/f8d1ff5c77214c0c8a37d4b59946c38a.jpg"
+   }
+  ],
+  "e_ani_colobus": [],
+  "e_obj_tamarin": [
+   {
+    "uid": "b037fdaefe0546f6b485c16253e9429a",
+    "nombre": "Panipuri Cart (indian appetizers)",
+    "autor": "Bongblender",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 725672,
+    "url": "https://sketchfab.com/3d-models/none-b037fdaefe0546f6b485c16253e9429a",
+    "miniatura": "miniaturas/e_obj_tamarin/b037fdaefe0546f6b485c16253e9429a.jpg"
+   },
+   {
+    "uid": "eb132567326042439625b91d17429758",
+    "nombre": "The tablet",
+    "autor": "TatariN_174",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 3470,
+    "url": "https://sketchfab.com/3d-models/none-eb132567326042439625b91d17429758",
+    "miniatura": "miniaturas/e_obj_tamarin/eb132567326042439625b91d17429758.jpg"
+   },
+   {
+    "uid": "bd8a50ef7f4848339a02371edc07e5af",
+    "nombre": "Frying pan",
+    "autor": "TatariN_174",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1824,
+    "url": "https://sketchfab.com/3d-models/none-bd8a50ef7f4848339a02371edc07e5af",
+    "miniatura": "miniaturas/e_obj_tamarin/bd8a50ef7f4848339a02371edc07e5af.jpg"
+   },
+   {
+    "uid": "75debbf3bfe14c259bd0db21581924de",
+    "nombre": "Cupaniopsis Anacardioides Leaf",
+    "autor": "OpusPoly",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9999,
+    "url": "https://sketchfab.com/3d-models/none-75debbf3bfe14c259bd0db21581924de",
+    "miniatura": "miniaturas/e_obj_tamarin/75debbf3bfe14c259bd0db21581924de.jpg"
+   },
+   {
+    "uid": "33e77d5d0d564af0964b390193b772c9",
+    "nombre": "Tamarin Monkey Jaw",
+    "autor": "RISDNaturelab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 66880,
+    "url": "https://sketchfab.com/3d-models/none-33e77d5d0d564af0964b390193b772c9",
+    "miniatura": "miniaturas/e_obj_tamarin/33e77d5d0d564af0964b390193b772c9.jpg"
+   },
+   {
+    "uid": "1fd99e3986d74554a8ad2b70b4b22a0f",
+    "nombre": "Cast iron cauldron",
+    "autor": "TatariN_174",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 14412,
+    "url": "https://sketchfab.com/3d-models/none-1fd99e3986d74554a8ad2b70b4b22a0f",
+    "miniatura": "miniaturas/e_obj_tamarin/1fd99e3986d74554a8ad2b70b4b22a0f.jpg"
+   },
+   {
+    "uid": "34a4a6e3362b442f8f0bc571bdb74dd8",
+    "nombre": "Tamarin",
+    "autor": "RISDNaturelab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 341348,
+    "url": "https://sketchfab.com/3d-models/none-34a4a6e3362b442f8f0bc571bdb74dd8",
+    "miniatura": "miniaturas/e_obj_tamarin/34a4a6e3362b442f8f0bc571bdb74dd8.jpg"
+   },
+   {
+    "uid": "d96375cba6924dca9e4e07dc8eed287f",
+    "nombre": "Grill",
+    "autor": "TatariN_174",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5592,
+    "url": "https://sketchfab.com/3d-models/none-d96375cba6924dca9e4e07dc8eed287f",
+    "miniatura": "miniaturas/e_obj_tamarin/d96375cba6924dca9e4e07dc8eed287f.jpg"
+   },
+   {
+    "uid": "54b70d40ec49426aa81e92d43a6db42d",
+    "nombre": "Auditorium - Hochschule Osnabrück",
+    "autor": "van1",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 129760,
+    "url": "https://sketchfab.com/3d-models/none-54b70d40ec49426aa81e92d43a6db42d",
+    "miniatura": "miniaturas/e_obj_tamarin/54b70d40ec49426aa81e92d43a6db42d.jpg"
+   },
+   {
+    "uid": "1f22757ccdb24e368d702f9370dfeff3",
+    "nombre": "Ise Udon and Beef bawl at Wakakusa-Dou",
+    "autor": "atsushinoguchi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 150367,
+    "url": "https://sketchfab.com/3d-models/none-1f22757ccdb24e368d702f9370dfeff3",
+    "miniatura": "miniaturas/e_obj_tamarin/1f22757ccdb24e368d702f9370dfeff3.jpg"
+   },
+   {
+    "uid": "a654f304b2f5453d9274a89b7b898012",
+    "nombre": "Rocks",
+    "autor": "anshumansinghr",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 326540,
+    "url": "https://sketchfab.com/3d-models/none-a654f304b2f5453d9274a89b7b898012",
+    "miniatura": "miniaturas/e_obj_tamarin/a654f304b2f5453d9274a89b7b898012.jpg"
+   },
+   {
+    "uid": "d19d414de8714bc1905a84392b2c90d7",
+    "nombre": "Scanned Tamaris Pumps",
+    "autor": "3digify",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 175822,
+    "url": "https://sketchfab.com/3d-models/none-d19d414de8714bc1905a84392b2c90d7",
+    "miniatura": "miniaturas/e_obj_tamarin/d19d414de8714bc1905a84392b2c90d7.jpg"
+   },
+   {
+    "uid": "0c6de56d4c1c41bcb39d0c5a0e862a18",
+    "nombre": "Wooden box",
+    "autor": "TatariN_174",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 4480,
+    "url": "https://sketchfab.com/3d-models/none-0c6de56d4c1c41bcb39d0c5a0e862a18",
+    "miniatura": "miniaturas/e_obj_tamarin/0c6de56d4c1c41bcb39d0c5a0e862a18.jpg"
+   },
+   {
+    "uid": "9188bbd153f84f2f81185dcdef480ab6",
+    "nombre": "Old Refrigerator",
+    "autor": "TatariN_174",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 4337,
+    "url": "https://sketchfab.com/3d-models/none-9188bbd153f84f2f81185dcdef480ab6",
+    "miniatura": "miniaturas/e_obj_tamarin/9188bbd153f84f2f81185dcdef480ab6.jpg"
+   },
+   {
+    "uid": "c085752f5c1f42d48de99cd95c2c771e",
+    "nombre": "The Cathedral of the Immaculate Conception",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-c085752f5c1f42d48de99cd95c2c771e",
+    "miniatura": "miniaturas/e_obj_tamarin/c085752f5c1f42d48de99cd95c2c771e.jpg"
+   },
+   {
+    "uid": "f6b112778a7e438896171f210e7c61d2",
+    "nombre": "Paviland Cave",
+    "autor": "Tamorin",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 150001,
+    "url": "https://sketchfab.com/3d-models/none-f6b112778a7e438896171f210e7c61d2",
+    "miniatura": "miniaturas/e_obj_tamarin/f6b112778a7e438896171f210e7c61d2.jpg"
+   },
+   {
+    "uid": "2818f7bf504841c69165d801e97cb412",
+    "nombre": "Chestnut Tree Leaves",
+    "autor": "Tamorin",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 150000,
+    "url": "https://sketchfab.com/3d-models/none-2818f7bf504841c69165d801e97cb412",
+    "miniatura": "miniaturas/e_obj_tamarin/2818f7bf504841c69165d801e97cb412.jpg"
+   },
+   {
+    "uid": "f2edbc378ee4467385dabaca7e2173da",
+    "nombre": "Lantern",
+    "autor": "Tamorin",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 150000,
+    "url": "https://sketchfab.com/3d-models/none-f2edbc378ee4467385dabaca7e2173da",
+    "miniatura": "miniaturas/e_obj_tamarin/f2edbc378ee4467385dabaca7e2173da.jpg"
+   },
+   {
+    "uid": "cd1d2729ed9d4c40b4bd8724501e6507",
+    "nombre": "58 Piccadilly Street, Port of Spain",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-cd1d2729ed9d4c40b4bd8724501e6507",
+    "miniatura": "miniaturas/e_obj_tamarin/cd1d2729ed9d4c40b4bd8724501e6507.jpg"
+   },
+   {
+    "uid": "c1e8553a9ec44d8b8ccf57a5dfa968d8",
+    "nombre": "Watering Can",
+    "autor": "Tamorin",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 150001,
+    "url": "https://sketchfab.com/3d-models/none-c1e8553a9ec44d8b8ccf57a5dfa968d8",
+    "miniatura": "miniaturas/e_obj_tamarin/c1e8553a9ec44d8b8ccf57a5dfa968d8.jpg"
+   },
+   {
+    "uid": "68ef79a751484c63a63fabea435899ad",
+    "nombre": "Los Titíes de San Juan (Reserva Natural)",
+    "autor": "lemuearth",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12454,
+    "url": "https://sketchfab.com/3d-models/none-68ef79a751484c63a63fabea435899ad",
+    "miniatura": "miniaturas/e_obj_tamarin/68ef79a751484c63a63fabea435899ad.jpg"
+   },
+   {
+    "uid": "5bbfbcfbd07b48f2ac468857cc1f73eb",
+    "nombre": "200349 SCI Les Tamaris",
+    "autor": "JLZ38",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15158,
+    "url": "https://sketchfab.com/3d-models/none-5bbfbcfbd07b48f2ac468857cc1f73eb",
+    "miniatura": "miniaturas/e_obj_tamarin/5bbfbcfbd07b48f2ac468857cc1f73eb.jpg"
+   },
+   {
+    "uid": "91064186512d4806b510b634c49c679f",
+    "nombre": "Rhubarb Flower",
+    "autor": "Tamorin",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 150001,
+    "url": "https://sketchfab.com/3d-models/none-91064186512d4806b510b634c49c679f",
+    "miniatura": "miniaturas/e_obj_tamarin/91064186512d4806b510b634c49c679f.jpg"
+   },
+   {
+    "uid": "2541a04ca2f84e6cad3181102f66b48f",
+    "nombre": "Tomato's in the Sun",
+    "autor": "Tamorin",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 150000,
+    "url": "https://sketchfab.com/3d-models/none-2541a04ca2f84e6cad3181102f66b48f",
+    "miniatura": "miniaturas/e_obj_tamarin/2541a04ca2f84e6cad3181102f66b48f.jpg"
+   }
+  ],
+  "e_ani_tamarin": [
+   {
+    "uid": "260e9e39e94f45cfa70219df7334b5c7",
+    "nombre": "Cartoony Instagram Robot",
+    "autor": "pablotamariz",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 18722,
+    "url": "https://sketchfab.com/3d-models/none-260e9e39e94f45cfa70219df7334b5c7",
+    "miniatura": "miniaturas/e_ani_tamarin/260e9e39e94f45cfa70219df7334b5c7.jpg"
+   },
+   {
+    "uid": "2bca01815ecd4ffa9a24bb30a33c1d8e",
+    "nombre": "Tortured Tamarin Models",
+    "autor": "CBVR",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 83092,
+    "url": "https://sketchfab.com/3d-models/none-2bca01815ecd4ffa9a24bb30a33c1d8e",
+    "miniatura": "miniaturas/e_ani_tamarin/2bca01815ecd4ffa9a24bb30a33c1d8e.jpg"
+   }
+  ],
+  "e_obj_squirrel_monkey": [
+   {
+    "uid": "15dbe386d8df4c40abbe893bf1241eea",
+    "nombre": "Squirrel Monkey",
+    "autor": "RISDNaturelab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 488090,
+    "url": "https://sketchfab.com/3d-models/none-15dbe386d8df4c40abbe893bf1241eea",
+    "miniatura": "miniaturas/e_obj_squirrel_monkey/15dbe386d8df4c40abbe893bf1241eea.jpg"
+   },
+   {
+    "uid": "9d71b33754d44adf8c6b7ed0d066030e",
+    "nombre": "Amazonian Flying Spider Lemur",
+    "autor": "hamiltonimaginations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 52600,
+    "url": "https://sketchfab.com/3d-models/none-9d71b33754d44adf8c6b7ed0d066030e",
+    "miniatura": "miniaturas/e_obj_squirrel_monkey/9d71b33754d44adf8c6b7ed0d066030e.jpg"
+   },
+   {
+    "uid": "417005a58d9c4c47a5836bea8bca3fef",
+    "nombre": "Squirrel Monkey",
+    "autor": "neutralize",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1346,
+    "url": "https://sketchfab.com/3d-models/none-417005a58d9c4c47a5836bea8bca3fef",
+    "miniatura": "miniaturas/e_obj_squirrel_monkey/417005a58d9c4c47a5836bea8bca3fef.jpg"
+   },
+   {
+    "uid": "862153aa6df74587a71c6c3b33c7cf03",
+    "nombre": "Cartoon squirrel monkey",
+    "autor": "saltoc",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3794,
+    "url": "https://sketchfab.com/3d-models/none-862153aa6df74587a71c6c3b33c7cf03",
+    "miniatura": "miniaturas/e_obj_squirrel_monkey/862153aa6df74587a71c6c3b33c7cf03.jpg"
+   },
+   {
+    "uid": "290236047e5d4d248ef93ac3463ecbc8",
+    "nombre": "Squirrel monkey from Poly by Google",
+    "autor": "ie-niels",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1346,
+    "url": "https://sketchfab.com/3d-models/none-290236047e5d4d248ef93ac3463ecbc8",
+    "miniatura": "miniaturas/e_obj_squirrel_monkey/290236047e5d4d248ef93ac3463ecbc8.jpg"
+   }
+  ],
+  "e_ani_squirrel_monkey": [
+   {
+    "uid": "862153aa6df74587a71c6c3b33c7cf03",
+    "nombre": "Cartoon squirrel monkey",
+    "autor": "saltoc",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3794,
+    "url": "https://sketchfab.com/3d-models/none-862153aa6df74587a71c6c3b33c7cf03",
+    "miniatura": "miniaturas/e_ani_squirrel_monkey/862153aa6df74587a71c6c3b33c7cf03.jpg"
+   }
+  ],
+  "e_obj_capuchin_monkey": [
+   {
+    "uid": "18e40b3f8d9a4c5f97e8d6c4f6f6e75e",
+    "nombre": "Capuchin monkey skeleton",
+    "autor": "digitalindy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1222010,
+    "url": "https://sketchfab.com/3d-models/none-18e40b3f8d9a4c5f97e8d6c4f6f6e75e",
+    "miniatura": "miniaturas/e_obj_capuchin_monkey/18e40b3f8d9a4c5f97e8d6c4f6f6e75e.jpg"
+   }
+  ],
+  "e_ani_capuchin_monkey": [
+   {
+    "uid": "31dc06f769fc4fc0bb81f959e4a87eeb",
+    "nombre": "Running dave credits  lethal monk",
+    "autor": "SponkeyIsInVR",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5136,
+    "url": "https://sketchfab.com/3d-models/none-31dc06f769fc4fc0bb81f959e4a87eeb",
+    "miniatura": "miniaturas/e_ani_capuchin_monkey/31dc06f769fc4fc0bb81f959e4a87eeb.jpg"
+   }
+  ],
+  "e_obj_chimpanzee_realistic": [],
+  "e_ani_chimpanzee_realistic": [],
+  "e_obj_gorilla_realistic_rigged": [],
+  "e_ani_gorilla_realistic_rigged": [],
+  "e_obj_monkey_realistic_rigged": [
+   {
+    "uid": "d1ea9030180a4a51ac4cdac2538fa35c",
+    "nombre": "Greater Bilby (Macrotis lagotis)",
+    "autor": "FirewingTheWyvern",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 8484,
+    "url": "https://sketchfab.com/3d-models/none-d1ea9030180a4a51ac4cdac2538fa35c",
+    "miniatura": "miniaturas/e_obj_monkey_realistic_rigged/d1ea9030180a4a51ac4cdac2538fa35c.jpg"
+   }
+  ],
+  "e_ani_monkey_realistic_rigged": [
+   {
+    "uid": "165f755e44fc477fbc4ee41085606dd1",
+    "nombre": "ULTIMATE ANIMAL PACK |100 ANIMALS | 50% OFF",
+    "autor": "WildMesh_3D",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 2,
+    "caras": 409847,
+    "url": "https://sketchfab.com/3d-models/none-165f755e44fc477fbc4ee41085606dd1",
+    "miniatura": "miniaturas/e_ani_monkey_realistic_rigged/165f755e44fc477fbc4ee41085606dd1.jpg"
+   },
+   {
+    "uid": "7f6ff3c4a27c4b169220fa15e44eb61a",
+    "nombre": "ape monkey in sport suit",
+    "autor": "edovvsky",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 110557,
+    "url": "https://sketchfab.com/3d-models/none-7f6ff3c4a27c4b169220fa15e44eb61a",
+    "miniatura": "miniaturas/e_ani_monkey_realistic_rigged/7f6ff3c4a27c4b169220fa15e44eb61a.jpg"
+   }
+  ],
+  "e_obj_macaque_animated": [],
+  "e_ani_macaque_animated": [],
+  "e_obj_ape_rigged": [
+   {
+    "uid": "87bf3a69d6a848d3a38dcbeabf9a80cd",
+    "nombre": "Kong_2021__ animated",
+    "autor": "bensimulator1",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 260123,
+    "url": "https://sketchfab.com/3d-models/none-87bf3a69d6a848d3a38dcbeabf9a80cd",
+    "miniatura": "miniaturas/e_obj_ape_rigged/87bf3a69d6a848d3a38dcbeabf9a80cd.jpg"
+   },
+   {
+    "uid": "c2f52afa064f44a6a8aa1e73bf92b4ae",
+    "nombre": "Monkey",
+    "autor": "tomkranis",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5679,
+    "url": "https://sketchfab.com/3d-models/none-c2f52afa064f44a6a8aa1e73bf92b4ae",
+    "miniatura": "miniaturas/e_obj_ape_rigged/c2f52afa064f44a6a8aa1e73bf92b4ae.jpg"
+   },
+   {
+    "uid": "573e13159e7a4b2cad3fe34a1c754dcc",
+    "nombre": "Ape-like Goblin (Gameready)",
+    "autor": "Livagof",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 5998,
+    "url": "https://sketchfab.com/3d-models/none-573e13159e7a4b2cad3fe34a1c754dcc",
+    "miniatura": "miniaturas/e_obj_ape_rigged/573e13159e7a4b2cad3fe34a1c754dcc.jpg"
+   }
+  ],
+  "e_ani_ape_rigged": [
+   {
+    "uid": "87bf3a69d6a848d3a38dcbeabf9a80cd",
+    "nombre": "Kong_2021__ animated",
+    "autor": "bensimulator1",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 260123,
+    "url": "https://sketchfab.com/3d-models/none-87bf3a69d6a848d3a38dcbeabf9a80cd",
+    "miniatura": "miniaturas/e_ani_ape_rigged/87bf3a69d6a848d3a38dcbeabf9a80cd.jpg"
+   },
+   {
+    "uid": "67b38b4bab214da9a847d62e057173ad",
+    "nombre": "Arcee - Transformers Earth Wars",
+    "autor": "Angel300Animations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 21048,
+    "url": "https://sketchfab.com/3d-models/none-67b38b4bab214da9a847d62e057173ad",
+    "miniatura": "miniaturas/e_ani_ape_rigged/67b38b4bab214da9a847d62e057173ad.jpg"
+   },
+   {
+    "uid": "c23101cf5b3349668ef320e94e041b4d",
+    "nombre": "Alligator walking upright",
+    "autor": "jungle_jim",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 25654,
+    "url": "https://sketchfab.com/3d-models/none-c23101cf5b3349668ef320e94e041b4d",
+    "miniatura": "miniaturas/e_ani_ape_rigged/c23101cf5b3349668ef320e94e041b4d.jpg"
+   },
+   {
+    "uid": "f1bb168f54854e92b605b57d6009f50d",
+    "nombre": "Barricade - Transformers Earth Wars",
+    "autor": "Angel300Animations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 23124,
+    "url": "https://sketchfab.com/3d-models/none-f1bb168f54854e92b605b57d6009f50d",
+    "miniatura": "miniaturas/e_ani_ape_rigged/f1bb168f54854e92b605b57d6009f50d.jpg"
+   },
+   {
+    "uid": "d08c4fa593de4a0fb8469d667bf6f7a8",
+    "nombre": "Baroness (Gi.Joe) - Transformers Earth Wars",
+    "autor": "Angel300Animations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 31930,
+    "url": "https://sketchfab.com/3d-models/none-d08c4fa593de4a0fb8469d667bf6f7a8",
+    "miniatura": "miniaturas/e_ani_ape_rigged/d08c4fa593de4a0fb8469d667bf6f7a8.jpg"
+   },
+   {
+    "uid": "095d946a4a8443b1850cf8c4502f11c1",
+    "nombre": "Air Raid - Transformers Earth Wars",
+    "autor": "Angel300Animations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 11662,
+    "url": "https://sketchfab.com/3d-models/none-095d946a4a8443b1850cf8c4502f11c1",
+    "miniatura": "miniaturas/e_ani_ape_rigged/095d946a4a8443b1850cf8c4502f11c1.jpg"
+   },
+   {
+    "uid": "3048d416a708469096a528bee104d7ad",
+    "nombre": "Blackarachnia - Transformers Earth Wars",
+    "autor": "Angel300Animations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 27544,
+    "url": "https://sketchfab.com/3d-models/none-3048d416a708469096a528bee104d7ad",
+    "miniatura": "miniaturas/e_ani_ape_rigged/3048d416a708469096a528bee104d7ad.jpg"
+   },
+   {
+    "uid": "0c166c498a814adb8e37316845cdd07f",
+    "nombre": "Astrotrain - Transformers Earth Wars",
+    "autor": "Angel300Animations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 31180,
+    "url": "https://sketchfab.com/3d-models/none-0c166c498a814adb8e37316845cdd07f",
+    "miniatura": "miniaturas/e_ani_ape_rigged/0c166c498a814adb8e37316845cdd07f.jpg"
+   },
+   {
+    "uid": "c7ea664425fe48509b37177376019cd1",
+    "nombre": "Alpha Bravo -Transformers Earth Wars",
+    "autor": "Angel300Animations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 20628,
+    "url": "https://sketchfab.com/3d-models/none-c7ea664425fe48509b37177376019cd1",
+    "miniatura": "miniaturas/e_ani_ape_rigged/c7ea664425fe48509b37177376019cd1.jpg"
+   },
+   {
+    "uid": "c2f52afa064f44a6a8aa1e73bf92b4ae",
+    "nombre": "Monkey",
+    "autor": "tomkranis",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5679,
+    "url": "https://sketchfab.com/3d-models/none-c2f52afa064f44a6a8aa1e73bf92b4ae",
+    "miniatura": "miniaturas/e_ani_ape_rigged/c2f52afa064f44a6a8aa1e73bf92b4ae.jpg"
+   },
+   {
+    "uid": "e05a65d3410c402c8d74ff7767f601a6",
+    "nombre": "Dinobot - Transformers Earth Wars",
+    "autor": "Angel300Animations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 34550,
+    "url": "https://sketchfab.com/3d-models/none-e05a65d3410c402c8d74ff7767f601a6",
+    "miniatura": "miniaturas/e_ani_ape_rigged/e05a65d3410c402c8d74ff7767f601a6.jpg"
+   },
+   {
+    "uid": "31a665d412b64e3485985ccc5d26ab37",
+    "nombre": "Afterbreaker - Transformers Earth Wars",
+    "autor": "Angel300Animations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 13120,
+    "url": "https://sketchfab.com/3d-models/none-31a665d412b64e3485985ccc5d26ab37",
+    "miniatura": "miniaturas/e_ani_ape_rigged/31a665d412b64e3485985ccc5d26ab37.jpg"
+   },
+   {
+    "uid": "7f6ff3c4a27c4b169220fa15e44eb61a",
+    "nombre": "ape monkey in sport suit",
+    "autor": "edovvsky",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 110557,
+    "url": "https://sketchfab.com/3d-models/none-7f6ff3c4a27c4b169220fa15e44eb61a",
+    "miniatura": "miniaturas/e_ani_ape_rigged/7f6ff3c4a27c4b169220fa15e44eb61a.jpg"
+   },
+   {
+    "uid": "765eff16d6a0445bac6447fd8deaa237",
+    "nombre": "Alpha Trion - Transformers Earth Wars",
+    "autor": "Angel300Animations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 56064,
+    "url": "https://sketchfab.com/3d-models/none-765eff16d6a0445bac6447fd8deaa237",
+    "miniatura": "miniaturas/e_ani_ape_rigged/765eff16d6a0445bac6447fd8deaa237.jpg"
+   },
+   {
+    "uid": "53671d99d04a4473887d2f29e6e31c84",
+    "nombre": "Blades -Transformers Earth Wars",
+    "autor": "Angel300Animations",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 21912,
+    "url": "https://sketchfab.com/3d-models/none-53671d99d04a4473887d2f29e6e31c84",
+    "miniatura": "miniaturas/e_ani_ape_rigged/53671d99d04a4473887d2f29e6e31c84.jpg"
+   },
+   {
+    "uid": "2b74e87f32a848c992e17d0785c4b4bf",
+    "nombre": "Kup - Transformers Earth Wars",
+    "autor": "Angel300Animations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 9897,
+    "url": "https://sketchfab.com/3d-models/none-2b74e87f32a848c992e17d0785c4b4bf",
+    "miniatura": "miniaturas/e_ani_ape_rigged/2b74e87f32a848c992e17d0785c4b4bf.jpg"
+   },
+   {
+    "uid": "cf90d5c2b3d843998f98465aa4ca93f8",
+    "nombre": "Blast Off - Transformers Earth Wars",
+    "autor": "Angel300Animations",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10980,
+    "url": "https://sketchfab.com/3d-models/none-cf90d5c2b3d843998f98465aa4ca93f8",
+    "miniatura": "miniaturas/e_ani_ape_rigged/cf90d5c2b3d843998f98465aa4ca93f8.jpg"
+   },
+   {
+    "uid": "c6ffbd84dcc84589b0c1e8f13dcfd12e",
+    "nombre": "Acid Storm - Transformers Earth Wars",
+    "autor": "Angel300Animations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 19976,
+    "url": "https://sketchfab.com/3d-models/none-c6ffbd84dcc84589b0c1e8f13dcfd12e",
+    "miniatura": "miniaturas/e_ani_ape_rigged/c6ffbd84dcc84589b0c1e8f13dcfd12e.jpg"
+   },
+   {
+    "uid": "573e13159e7a4b2cad3fe34a1c754dcc",
+    "nombre": "Ape-like Goblin (Gameready)",
+    "autor": "Livagof",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 5998,
+    "url": "https://sketchfab.com/3d-models/none-573e13159e7a4b2cad3fe34a1c754dcc",
+    "miniatura": "miniaturas/e_ani_ape_rigged/573e13159e7a4b2cad3fe34a1c754dcc.jpg"
+   },
+   {
+    "uid": "912e7506ba4941c09b7253bdc4a1e029",
+    "nombre": "lethal ape ik rig",
+    "autor": "OrionBot4",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 12244,
+    "url": "https://sketchfab.com/3d-models/none-912e7506ba4941c09b7253bdc4a1e029",
+    "miniatura": "miniaturas/e_ani_ape_rigged/912e7506ba4941c09b7253bdc4a1e029.jpg"
+   },
+   {
+    "uid": "584a74796510425cac05f0af0c5d4fd5",
+    "nombre": "Lethal Ape Playermodel IK Rig",
+    "autor": "huggywuggybudgie",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 9584,
+    "url": "https://sketchfab.com/3d-models/none-584a74796510425cac05f0af0c5d4fd5",
+    "miniatura": "miniaturas/e_ani_ape_rigged/584a74796510425cac05f0af0c5d4fd5.jpg"
+   },
+   {
+    "uid": "715fca4f834846a489ea7ce93e0649b1",
+    "nombre": "Ash Lethal Ape Redux Rigged",
+    "autor": "OreoDev",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 44532,
+    "url": "https://sketchfab.com/3d-models/none-715fca4f834846a489ea7ce93e0649b1",
+    "miniatura": "miniaturas/e_ani_ape_rigged/715fca4f834846a489ea7ce93e0649b1.jpg"
+   },
+   {
+    "uid": "20ec9e29ec3942d087996e6aabfc301b",
+    "nombre": "Lethal Ape Deluxe Burk Rig",
+    "autor": "PhillWP",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 17342,
+    "url": "https://sketchfab.com/3d-models/none-20ec9e29ec3942d087996e6aabfc301b",
+    "miniatura": "miniaturas/e_ani_ape_rigged/20ec9e29ec3942d087996e6aabfc301b.jpg"
+   },
+   {
+    "uid": "2d3b6f6a436f484fbef5e82526a12c39",
+    "nombre": "Simon",
+    "autor": "FlipONER_",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 9567,
+    "url": "https://sketchfab.com/3d-models/none-2d3b6f6a436f484fbef5e82526a12c39",
+    "miniatura": "miniaturas/e_ani_ape_rigged/2d3b6f6a436f484fbef5e82526a12c39.jpg"
+   },
+   {
+    "uid": "c53e8ca04bb54d5e8649d95b437e2ca3",
+    "nombre": "Male Chimpanzee Hairless: Rigged, Animated",
+    "autor": "animalanimator",
+    "licencia": "CC Attribution",
+    "animaciones": 5,
+    "caras": 48228,
+    "url": "https://sketchfab.com/3d-models/none-c53e8ca04bb54d5e8649d95b437e2ca3",
+    "miniatura": "miniaturas/e_ani_ape_rigged/c53e8ca04bb54d5e8649d95b437e2ca3.jpg"
+   },
+   {
+    "uid": "95d59e2d1c974b0a8556a8c1abf0058b",
+    "nombre": "Sandman Lethal Ape Redux Ripped By Oreo (RIGGED)",
+    "autor": "OreoDev",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 29908,
+    "url": "https://sketchfab.com/3d-models/none-95d59e2d1c974b0a8556a8c1abf0058b",
+    "miniatura": "miniaturas/e_ani_ape_rigged/95d59e2d1c974b0a8556a8c1abf0058b.jpg"
+   },
+   {
+    "uid": "ef203f0f1ab9457381e0c10a20905448",
+    "nombre": "lethal_ape_redux_player_model_rigged_fixed (2)",
+    "autor": "landgr4",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 16068,
+    "url": "https://sketchfab.com/3d-models/none-ef203f0f1ab9457381e0c10a20905448",
+    "miniatura": "miniaturas/e_ani_ape_rigged/ef203f0f1ab9457381e0c10a20905448.jpg"
+   }
+  ],
+  "e_obj_primate_rigged": [
+   {
+    "uid": "191c3175ea344c16813f7b335ec6d8f8",
+    "nombre": "Gullion Ring-Dyke, Camlough Quarry.",
+    "autor": "mcg3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 205574,
+    "url": "https://sketchfab.com/3d-models/none-191c3175ea344c16813f7b335ec6d8f8",
+    "miniatura": "miniaturas/e_obj_primate_rigged/191c3175ea344c16813f7b335ec6d8f8.jpg"
+   },
+   {
+    "uid": "b6a87326689545728e1725c62693a9a2",
+    "nombre": "Milanese Rapier",
+    "autor": "oakeshott",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 97664,
+    "url": "https://sketchfab.com/3d-models/none-b6a87326689545728e1725c62693a9a2",
+    "miniatura": "miniaturas/e_obj_primate_rigged/b6a87326689545728e1725c62693a9a2.jpg"
+   },
+   {
+    "uid": "2fd3356ea04b43169591dc7d60f9847e",
+    "nombre": "Timber trusses for a private house in Latvia",
+    "autor": "freimans",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12364,
+    "url": "https://sketchfab.com/3d-models/none-2fd3356ea04b43169591dc7d60f9847e",
+    "miniatura": "miniaturas/e_obj_primate_rigged/2fd3356ea04b43169591dc7d60f9847e.jpg"
+   },
+   {
+    "uid": "29e0514acc0a44199f0402718fa74215",
+    "nombre": "Deimon Devil Bats",
+    "autor": "pesawatkertas",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 153800,
+    "url": "https://sketchfab.com/3d-models/none-29e0514acc0a44199f0402718fa74215",
+    "miniatura": "miniaturas/e_obj_primate_rigged/29e0514acc0a44199f0402718fa74215.jpg"
+   },
+   {
+    "uid": "e86eb4208bce440fb49fe27dfead1240",
+    "nombre": "Tea's Oryx Set FINISH",
+    "autor": "teabeepea",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1504,
+    "url": "https://sketchfab.com/3d-models/none-e86eb4208bce440fb49fe27dfead1240",
+    "miniatura": "miniaturas/e_obj_primate_rigged/e86eb4208bce440fb49fe27dfead1240.jpg"
+   },
+   {
+    "uid": "29a621d88f1648f09b793d9ba9633be5",
+    "nombre": "Vtuber Major 'Deez Knuts' Diesel Knudsen",
+    "autor": "chadmanning1989",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 990,
+    "url": "https://sketchfab.com/3d-models/none-29a621d88f1648f09b793d9ba9633be5",
+    "miniatura": "miniaturas/e_obj_primate_rigged/29a621d88f1648f09b793d9ba9633be5.jpg"
+   },
+   {
+    "uid": "c7dbcdc6ba1348a38caf1e961ca2fda2",
+    "nombre": "Effigy Vessel / Chupícuaro Culture, México",
+    "autor": "jorgenarvaez",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 345135,
+    "url": "https://sketchfab.com/3d-models/none-c7dbcdc6ba1348a38caf1e961ca2fda2",
+    "miniatura": "miniaturas/e_obj_primate_rigged/c7dbcdc6ba1348a38caf1e961ca2fda2.jpg"
+   },
+   {
+    "uid": "1f7dc1c9b1ee42159d20daf7f3a7f8fb",
+    "nombre": "Hellenistic Lamp",
+    "autor": "spelthornemuseum",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 159329,
+    "url": "https://sketchfab.com/3d-models/none-1f7dc1c9b1ee42159d20daf7f3a7f8fb",
+    "miniatura": "miniaturas/e_obj_primate_rigged/1f7dc1c9b1ee42159d20daf7f3a7f8fb.jpg"
+   },
+   {
+    "uid": "d2f762dcff6a4a2ea4cdaa50b4e78286",
+    "nombre": "CO131-039_Ballybane West-02_Area-01",
+    "autor": "archaeology.ucc",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 2508135,
+    "url": "https://sketchfab.com/3d-models/none-d2f762dcff6a4a2ea4cdaa50b4e78286",
+    "miniatura": "miniaturas/e_obj_primate_rigged/d2f762dcff6a4a2ea4cdaa50b4e78286.jpg"
+   },
+   {
+    "uid": "3b7d11a4253440338094d29e2bfa6d3f",
+    "nombre": "CO131-040_Ballybane West-01",
+    "autor": "archaeology.ucc",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 6119389,
+    "url": "https://sketchfab.com/3d-models/none-3b7d11a4253440338094d29e2bfa6d3f",
+    "miniatura": "miniaturas/e_obj_primate_rigged/3b7d11a4253440338094d29e2bfa6d3f.jpg"
+   },
+   {
+    "uid": "d94e9f83e5394423bedd659784f64ad2",
+    "nombre": "Ablenook (tiny house version)",
+    "autor": "Kesiana",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12850,
+    "url": "https://sketchfab.com/3d-models/none-d94e9f83e5394423bedd659784f64ad2",
+    "miniatura": "miniaturas/e_obj_primate_rigged/d94e9f83e5394423bedd659784f64ad2.jpg"
+   },
+   {
+    "uid": "f27df8a10b3345198d8e2fd5ed24b0fd",
+    "nombre": "Clown Robot",
+    "autor": "deslab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22538,
+    "url": "https://sketchfab.com/3d-models/none-f27df8a10b3345198d8e2fd5ed24b0fd",
+    "miniatura": "miniaturas/e_obj_primate_rigged/f27df8a10b3345198d8e2fd5ed24b0fd.jpg"
+   }
+  ],
+  "e_ani_primate_rigged": [
+   {
+    "uid": "6132cf6cad8b4d8fa51bf4ee024952ab",
+    "nombre": "👑💪Uber Soldier (1961) - Wolf. New Colossus",
+    "autor": "Hot-Dog_1947",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 24,
+    "caras": 59168,
+    "url": "https://sketchfab.com/3d-models/none-6132cf6cad8b4d8fa51bf4ee024952ab",
+    "miniatura": "miniaturas/e_ani_primate_rigged/6132cf6cad8b4d8fa51bf4ee024952ab.jpg"
+   },
+   {
+    "uid": "a6723a072f44494bae90ffd4d90acff3",
+    "nombre": "👑💪 Super Soldier (1961 E) - Wolf. New Colossus",
+    "autor": "Hot-Dog_1947",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 61,
+    "caras": 73546,
+    "url": "https://sketchfab.com/3d-models/none-a6723a072f44494bae90ffd4d90acff3",
+    "miniatura": "miniaturas/e_ani_primate_rigged/a6723a072f44494bae90ffd4d90acff3.jpg"
+   },
+   {
+    "uid": "465badf1051c4c27923f981d78d1343c",
+    "nombre": "👑💪 Zitadelle (1961) - Wolf. New Colossus",
+    "autor": "Hot-Dog_1947",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 59,
+    "caras": 189103,
+    "url": "https://sketchfab.com/3d-models/none-465badf1051c4c27923f981d78d1343c",
+    "miniatura": "miniaturas/e_ani_primate_rigged/465badf1051c4c27923f981d78d1343c.jpg"
+   },
+   {
+    "uid": "ed6e4288c1494fc383a23868200eb82a",
+    "nombre": "Private Investigator (Detective)",
+    "autor": "jungle_jim",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 23796,
+    "url": "https://sketchfab.com/3d-models/none-ed6e4288c1494fc383a23868200eb82a",
+    "miniatura": "miniaturas/e_ani_primate_rigged/ed6e4288c1494fc383a23868200eb82a.jpg"
+   },
+   {
+    "uid": "fb427492331d495194f48d0ee459f4e3",
+    "nombre": "Bubba Bubbaphant (GMOD)",
+    "autor": "Portycraft",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 6,
+    "caras": 64337,
+    "url": "https://sketchfab.com/3d-models/none-fb427492331d495194f48d0ee459f4e3",
+    "miniatura": "miniaturas/e_ani_primate_rigged/fb427492331d495194f48d0ee459f4e3.jpg"
+   },
+   {
+    "uid": "25f0f1141cd24b3d9ad37d69fcb259c8",
+    "nombre": "Dino Crisis 3 - Kornephoros",
+    "autor": "ziggertron",
+    "licencia": "CC Attribution",
+    "animaciones": 144,
+    "caras": 3495,
+    "url": "https://sketchfab.com/3d-models/none-25f0f1141cd24b3d9ad37d69fcb259c8",
+    "miniatura": "miniaturas/e_ani_primate_rigged/25f0f1141cd24b3d9ad37d69fcb259c8.jpg"
+   },
+   {
+    "uid": "b467c7f3a4794c42b755618e94605b68",
+    "nombre": "The War of the Worlds | Fighting Machine",
+    "autor": "TheTripodGuy",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 18778,
+    "url": "https://sketchfab.com/3d-models/none-b467c7f3a4794c42b755618e94605b68",
+    "miniatura": "miniaturas/e_ani_primate_rigged/b467c7f3a4794c42b755618e94605b68.jpg"
+   },
+   {
+    "uid": "6fdcf094fa4b42bfa99e168b4715bb66",
+    "nombre": "Dark Speakerman",
+    "autor": "Hydrax.",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 57315,
+    "url": "https://sketchfab.com/3d-models/none-6fdcf094fa4b42bfa99e168b4715bb66",
+    "miniatura": "miniaturas/e_ani_primate_rigged/6fdcf094fa4b42bfa99e168b4715bb66.jpg"
+   },
+   {
+    "uid": "72da2fd251354f10bddecbc7f9078068",
+    "nombre": "Chimpanzee V2",
+    "autor": "Player1TheSFMAnimator",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 30935,
+    "url": "https://sketchfab.com/3d-models/none-72da2fd251354f10bddecbc7f9078068",
+    "miniatura": "miniaturas/e_ani_primate_rigged/72da2fd251354f10bddecbc7f9078068.jpg"
+   },
+   {
+    "uid": "c53e8ca04bb54d5e8649d95b437e2ca3",
+    "nombre": "Male Chimpanzee Hairless: Rigged, Animated",
+    "autor": "animalanimator",
+    "licencia": "CC Attribution",
+    "animaciones": 5,
+    "caras": 48228,
+    "url": "https://sketchfab.com/3d-models/none-c53e8ca04bb54d5e8649d95b437e2ca3",
+    "miniatura": "miniaturas/e_ani_primate_rigged/c53e8ca04bb54d5e8649d95b437e2ca3.jpg"
+   },
+   {
+    "uid": "1f8f5ba8fb9f4da6baf09fcc5bf72189",
+    "nombre": "Chimpanzee V3",
+    "autor": "Player1TheSFMAnimator",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 30935,
+    "url": "https://sketchfab.com/3d-models/none-1f8f5ba8fb9f4da6baf09fcc5bf72189",
+    "miniatura": "miniaturas/e_ani_primate_rigged/1f8f5ba8fb9f4da6baf09fcc5bf72189.jpg"
+   }
+  ],
+  "e_obj_animal_monkey": [
+   {
+    "uid": "87bf3a69d6a848d3a38dcbeabf9a80cd",
+    "nombre": "Kong_2021__ animated",
+    "autor": "bensimulator1",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 260123,
+    "url": "https://sketchfab.com/3d-models/none-87bf3a69d6a848d3a38dcbeabf9a80cd",
+    "miniatura": "miniaturas/e_obj_animal_monkey/87bf3a69d6a848d3a38dcbeabf9a80cd.jpg"
+   },
+   {
+    "uid": "a75d91ceeba4440981d488cf1e670773",
+    "nombre": "kong-2021-animated-run",
+    "autor": "bensimulator1",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 260123,
+    "url": "https://sketchfab.com/3d-models/none-a75d91ceeba4440981d488cf1e670773",
+    "miniatura": "miniaturas/e_obj_animal_monkey/a75d91ceeba4440981d488cf1e670773.jpg"
+   },
+   {
+    "uid": "3ba199e0a78546598f868e86d78495a0",
+    "nombre": "Simio Monkey dancing",
+    "autor": "pepetrincado",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 23912,
+    "url": "https://sketchfab.com/3d-models/none-3ba199e0a78546598f868e86d78495a0",
+    "miniatura": "miniaturas/e_obj_animal_monkey/3ba199e0a78546598f868e86d78495a0.jpg"
+   },
+   {
+    "uid": "c3c338d01d5b47929b847feb2e3a6f10",
+    "nombre": "Paulie \"Big Ape\" Fontini",
+    "autor": "glucat",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4910,
+    "url": "https://sketchfab.com/3d-models/none-c3c338d01d5b47929b847feb2e3a6f10",
+    "miniatura": "miniaturas/e_obj_animal_monkey/c3c338d01d5b47929b847feb2e3a6f10.jpg"
+   },
+   {
+    "uid": "3a8ef7b2452846488fa04d696afedfd2",
+    "nombre": "Gremlynx",
+    "autor": "robotninjabread",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 33172,
+    "url": "https://sketchfab.com/3d-models/none-3a8ef7b2452846488fa04d696afedfd2",
+    "miniatura": "miniaturas/e_obj_animal_monkey/3a8ef7b2452846488fa04d696afedfd2.jpg"
+   },
+   {
+    "uid": "50e4b1da03494429b1265fc095f2c530",
+    "nombre": "Realsitic Monkey",
+    "autor": "TdoubleU8",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 35248,
+    "url": "https://sketchfab.com/3d-models/none-50e4b1da03494429b1265fc095f2c530",
+    "miniatura": "miniaturas/e_obj_animal_monkey/50e4b1da03494429b1265fc095f2c530.jpg"
+   },
+   {
+    "uid": "eef3750f2be048bc9c5be7f75ee4239e",
+    "nombre": "Wing Shoes",
+    "autor": "DizzyEngine",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15400,
+    "url": "https://sketchfab.com/3d-models/none-eef3750f2be048bc9c5be7f75ee4239e",
+    "miniatura": "miniaturas/e_obj_animal_monkey/eef3750f2be048bc9c5be7f75ee4239e.jpg"
+   },
+   {
+    "uid": "ad28003205884841a028e80edb4089ef",
+    "nombre": "Free Gorilla",
+    "autor": "filip.hans.nyberg",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 44328,
+    "url": "https://sketchfab.com/3d-models/none-ad28003205884841a028e80edb4089ef",
+    "miniatura": "miniaturas/e_obj_animal_monkey/ad28003205884841a028e80edb4089ef.jpg"
+   },
+   {
+    "uid": "c2f52afa064f44a6a8aa1e73bf92b4ae",
+    "nombre": "Monkey",
+    "autor": "tomkranis",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5679,
+    "url": "https://sketchfab.com/3d-models/none-c2f52afa064f44a6a8aa1e73bf92b4ae",
+    "miniatura": "miniaturas/e_obj_animal_monkey/c2f52afa064f44a6a8aa1e73bf92b4ae.jpg"
+   },
+   {
+    "uid": "2e660a43215f4728902715b171302b34",
+    "nombre": "Pigeon Rigged",
+    "autor": "Dragon_monkey",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 14150,
+    "url": "https://sketchfab.com/3d-models/none-2e660a43215f4728902715b171302b34",
+    "miniatura": "miniaturas/e_obj_animal_monkey/2e660a43215f4728902715b171302b34.jpg"
+   },
+   {
+    "uid": "9d71b33754d44adf8c6b7ed0d066030e",
+    "nombre": "Amazonian Flying Spider Lemur",
+    "autor": "hamiltonimaginations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 52600,
+    "url": "https://sketchfab.com/3d-models/none-9d71b33754d44adf8c6b7ed0d066030e",
+    "miniatura": "miniaturas/e_obj_animal_monkey/9d71b33754d44adf8c6b7ed0d066030e.jpg"
+   },
+   {
+    "uid": "059ddf8d773748a0aa32c778897e711e",
+    "nombre": "Kako",
+    "autor": "manoeldarochadeoliveira",
+    "licencia": "CC Attribution",
+    "animaciones": 8,
+    "caras": 2732,
+    "url": "https://sketchfab.com/3d-models/none-059ddf8d773748a0aa32c778897e711e",
+    "miniatura": "miniaturas/e_obj_animal_monkey/059ddf8d773748a0aa32c778897e711e.jpg"
+   },
+   {
+    "uid": "62ce16bdcf0744a6af26f7b1d9558d1b",
+    "nombre": "Affe",
+    "autor": "www.noe-3d.at",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 580766,
+    "url": "https://sketchfab.com/3d-models/none-62ce16bdcf0744a6af26f7b1d9558d1b",
+    "miniatura": "miniaturas/e_obj_animal_monkey/62ce16bdcf0744a6af26f7b1d9558d1b.jpg"
+   },
+   {
+    "uid": "89ab7009766b4915ac5a6209da857488",
+    "nombre": "#3DSM5 - Three Wise Monkeys Totem",
+    "autor": "jerno_bill",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4006,
+    "url": "https://sketchfab.com/3d-models/none-89ab7009766b4915ac5a6209da857488",
+    "miniatura": "miniaturas/e_obj_animal_monkey/89ab7009766b4915ac5a6209da857488.jpg"
+   },
+   {
+    "uid": "6026e2e8f883497b9b5548c8c238daac",
+    "nombre": "Monkey with a gun",
+    "autor": "Nafta",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 26629,
+    "url": "https://sketchfab.com/3d-models/none-6026e2e8f883497b9b5548c8c238daac",
+    "miniatura": "miniaturas/e_obj_animal_monkey/6026e2e8f883497b9b5548c8c238daac.jpg"
+   },
+   {
+    "uid": "0d6d1864ec8a4ac2ae15e519e393793c",
+    "nombre": "Aladdin on LEGO IDEAS",
+    "autor": "siuliano",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 753218,
+    "url": "https://sketchfab.com/3d-models/none-0d6d1864ec8a4ac2ae15e519e393793c",
+    "miniatura": "miniaturas/e_obj_animal_monkey/0d6d1864ec8a4ac2ae15e519e393793c.jpg"
+   },
+   {
+    "uid": "0a4252ef405a43faa11872aa83311141",
+    "nombre": "Chinese jar with dragon-and-tiger motif",
+    "autor": "dluo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 323255,
+    "url": "https://sketchfab.com/3d-models/none-0a4252ef405a43faa11872aa83311141",
+    "miniatura": "miniaturas/e_obj_animal_monkey/0a4252ef405a43faa11872aa83311141.jpg"
+   },
+   {
+    "uid": "1534c1b10378454697ea2f2aa888270c",
+    "nombre": "King Monkey",
+    "autor": "TdoubleU8",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 42501,
+    "url": "https://sketchfab.com/3d-models/none-1534c1b10378454697ea2f2aa888270c",
+    "miniatura": "miniaturas/e_obj_animal_monkey/1534c1b10378454697ea2f2aa888270c.jpg"
+   },
+   {
+    "uid": "94768884d4c940709d87a2862489cb17",
+    "nombre": "Bufkin | The Wolf Among Us",
+    "autor": "Dreday5365",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 17951,
+    "url": "https://sketchfab.com/3d-models/none-94768884d4c940709d87a2862489cb17",
+    "miniatura": "miniaturas/e_obj_animal_monkey/94768884d4c940709d87a2862489cb17.jpg"
+   },
+   {
+    "uid": "ec43bd941ecc447e86a89b442a1f344a",
+    "nombre": "Free Base Chimp",
+    "autor": "lawlordp",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 111898,
+    "url": "https://sketchfab.com/3d-models/none-ec43bd941ecc447e86a89b442a1f344a",
+    "miniatura": "miniaturas/e_obj_animal_monkey/ec43bd941ecc447e86a89b442a1f344a.jpg"
+   },
+   {
+    "uid": "9338582032f348a49da8be159a650699",
+    "nombre": "Lone Wanderer",
+    "autor": "amagangstayo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22228,
+    "url": "https://sketchfab.com/3d-models/none-9338582032f348a49da8be159a650699",
+    "miniatura": "miniaturas/e_obj_animal_monkey/9338582032f348a49da8be159a650699.jpg"
+   },
+   {
+    "uid": "50dab8a3d71a4929937c511536414011",
+    "nombre": "Low Poly Baboon",
+    "autor": "DylanSpin",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3184,
+    "url": "https://sketchfab.com/3d-models/none-50dab8a3d71a4929937c511536414011",
+    "miniatura": "miniaturas/e_obj_animal_monkey/50dab8a3d71a4929937c511536414011.jpg"
+   },
+   {
+    "uid": "57424cb6a4b14f169c2605d1e7d41ef2",
+    "nombre": "Monkey in the monitor",
+    "autor": "Nafta",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8013,
+    "url": "https://sketchfab.com/3d-models/none-57424cb6a4b14f169c2605d1e7d41ef2",
+    "miniatura": "miniaturas/e_obj_animal_monkey/57424cb6a4b14f169c2605d1e7d41ef2.jpg"
+   },
+   {
+    "uid": "3d8a3d1177424af182e0737a1afc8bb7",
+    "nombre": "Old Chimpanzee skull",
+    "autor": "svtavernier",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 34998,
+    "url": "https://sketchfab.com/3d-models/none-3d8a3d1177424af182e0737a1afc8bb7",
+    "miniatura": "miniaturas/e_obj_animal_monkey/3d8a3d1177424af182e0737a1afc8bb7.jpg"
+   },
+   {
+    "uid": "9906e5863a89474da4ee4e178a2daa28",
+    "nombre": "Monkey",
+    "autor": "saranav",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8436,
+    "url": "https://sketchfab.com/3d-models/none-9906e5863a89474da4ee4e178a2daa28",
+    "miniatura": "miniaturas/e_obj_animal_monkey/9906e5863a89474da4ee4e178a2daa28.jpg"
+   },
+   {
+    "uid": "8f699146d9db458bbd28deb4e38df49d",
+    "nombre": "NeKappa in Kappabashi Shopping Arcade：かっぱ橋の河童",
+    "autor": "kazugoru",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 426773,
+    "url": "https://sketchfab.com/3d-models/none-8f699146d9db458bbd28deb4e38df49d",
+    "miniatura": "miniaturas/e_obj_animal_monkey/8f699146d9db458bbd28deb4e38df49d.jpg"
+   },
+   {
+    "uid": "7e497a2d7e0a45848d07a83ff1f30caf",
+    "nombre": "chimpanzee skull",
+    "autor": "svtavernier",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 40321,
+    "url": "https://sketchfab.com/3d-models/none-7e497a2d7e0a45848d07a83ff1f30caf",
+    "miniatura": "miniaturas/e_obj_animal_monkey/7e497a2d7e0a45848d07a83ff1f30caf.jpg"
+   },
+   {
+    "uid": "8bf88578f7d046e19d326ff152d311a8",
+    "nombre": "KOB",
+    "autor": "danielberkstein",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 696866,
+    "url": "https://sketchfab.com/3d-models/none-8bf88578f7d046e19d326ff152d311a8",
+    "miniatura": "miniaturas/e_obj_animal_monkey/8bf88578f7d046e19d326ff152d311a8.jpg"
+   },
+   {
+    "uid": "b5ad68523dc04634985267d2ed56e110",
+    "nombre": "Hear-no-evil",
+    "autor": "davidvferguson",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 200000,
+    "url": "https://sketchfab.com/3d-models/none-b5ad68523dc04634985267d2ed56e110",
+    "miniatura": "miniaturas/e_obj_animal_monkey/b5ad68523dc04634985267d2ed56e110.jpg"
+   }
+  ],
+  "e_ani_animal_monkey": [
+   {
+    "uid": "87bf3a69d6a848d3a38dcbeabf9a80cd",
+    "nombre": "Kong_2021__ animated",
+    "autor": "bensimulator1",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 260123,
+    "url": "https://sketchfab.com/3d-models/none-87bf3a69d6a848d3a38dcbeabf9a80cd",
+    "miniatura": "miniaturas/e_ani_animal_monkey/87bf3a69d6a848d3a38dcbeabf9a80cd.jpg"
+   },
+   {
+    "uid": "a75d91ceeba4440981d488cf1e670773",
+    "nombre": "kong-2021-animated-run",
+    "autor": "bensimulator1",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 260123,
+    "url": "https://sketchfab.com/3d-models/none-a75d91ceeba4440981d488cf1e670773",
+    "miniatura": "miniaturas/e_ani_animal_monkey/a75d91ceeba4440981d488cf1e670773.jpg"
+   },
+   {
+    "uid": "3ba199e0a78546598f868e86d78495a0",
+    "nombre": "Simio Monkey dancing",
+    "autor": "pepetrincado",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 23912,
+    "url": "https://sketchfab.com/3d-models/none-3ba199e0a78546598f868e86d78495a0",
+    "miniatura": "miniaturas/e_ani_animal_monkey/3ba199e0a78546598f868e86d78495a0.jpg"
+   },
+   {
+    "uid": "c3c338d01d5b47929b847feb2e3a6f10",
+    "nombre": "Paulie \"Big Ape\" Fontini",
+    "autor": "glucat",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4910,
+    "url": "https://sketchfab.com/3d-models/none-c3c338d01d5b47929b847feb2e3a6f10",
+    "miniatura": "miniaturas/e_ani_animal_monkey/c3c338d01d5b47929b847feb2e3a6f10.jpg"
+   },
+   {
+    "uid": "165f755e44fc477fbc4ee41085606dd1",
+    "nombre": "ULTIMATE ANIMAL PACK |100 ANIMALS | 50% OFF",
+    "autor": "WildMesh_3D",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 2,
+    "caras": 409847,
+    "url": "https://sketchfab.com/3d-models/none-165f755e44fc477fbc4ee41085606dd1",
+    "miniatura": "miniaturas/e_ani_animal_monkey/165f755e44fc477fbc4ee41085606dd1.jpg"
+   },
+   {
+    "uid": "c2f52afa064f44a6a8aa1e73bf92b4ae",
+    "nombre": "Monkey",
+    "autor": "tomkranis",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5679,
+    "url": "https://sketchfab.com/3d-models/none-c2f52afa064f44a6a8aa1e73bf92b4ae",
+    "miniatura": "miniaturas/e_ani_animal_monkey/c2f52afa064f44a6a8aa1e73bf92b4ae.jpg"
+   },
+   {
+    "uid": "dfa60c2109bb4723b8b10ae52a98f85e",
+    "nombre": "Monkey DJ (Animated)",
+    "autor": "jungle_jim",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 156424,
+    "url": "https://sketchfab.com/3d-models/none-dfa60c2109bb4723b8b10ae52a98f85e",
+    "miniatura": "miniaturas/e_ani_animal_monkey/dfa60c2109bb4723b8b10ae52a98f85e.jpg"
+   },
+   {
+    "uid": "2e660a43215f4728902715b171302b34",
+    "nombre": "Pigeon Rigged",
+    "autor": "Dragon_monkey",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 14150,
+    "url": "https://sketchfab.com/3d-models/none-2e660a43215f4728902715b171302b34",
+    "miniatura": "miniaturas/e_ani_animal_monkey/2e660a43215f4728902715b171302b34.jpg"
+   },
+   {
+    "uid": "059ddf8d773748a0aa32c778897e711e",
+    "nombre": "Kako",
+    "autor": "manoeldarochadeoliveira",
+    "licencia": "CC Attribution",
+    "animaciones": 8,
+    "caras": 2732,
+    "url": "https://sketchfab.com/3d-models/none-059ddf8d773748a0aa32c778897e711e",
+    "miniatura": "miniaturas/e_ani_animal_monkey/059ddf8d773748a0aa32c778897e711e.jpg"
+   },
+   {
+    "uid": "62ea29193ca14f7fb65c5876bfc2ea66",
+    "nombre": "Free Low Poly Cartoon Koi Fish",
+    "autor": "MarkoJantti",
+    "licencia": "CC Attribution",
+    "animaciones": 6,
+    "caras": 4330,
+    "url": "https://sketchfab.com/3d-models/none-62ea29193ca14f7fb65c5876bfc2ea66",
+    "miniatura": "miniaturas/e_ani_animal_monkey/62ea29193ca14f7fb65c5876bfc2ea66.jpg"
+   },
+   {
+    "uid": "6b70b31add5e4f78a87c5e8b87119936",
+    "nombre": "Monkey - Animated Low Poly",
+    "autor": "WildPoly3D",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 9,
+    "caras": 1546,
+    "url": "https://sketchfab.com/3d-models/none-6b70b31add5e4f78a87c5e8b87119936",
+    "miniatura": "miniaturas/e_ani_animal_monkey/6b70b31add5e4f78a87c5e8b87119936.jpg"
+   },
+   {
+    "uid": "fad37033d1b345759a590f34a200973a",
+    "nombre": "Monkey Chef Run",
+    "autor": "LostModels2025",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 8015,
+    "url": "https://sketchfab.com/3d-models/none-fad37033d1b345759a590f34a200973a",
+    "miniatura": "miniaturas/e_ani_animal_monkey/fad37033d1b345759a590f34a200973a.jpg"
+   },
+   {
+    "uid": "67818ed7370d49a1841fd10e527216ba",
+    "nombre": "Gorilla",
+    "autor": "voltairevillela",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 5500,
+    "url": "https://sketchfab.com/3d-models/none-67818ed7370d49a1841fd10e527216ba",
+    "miniatura": "miniaturas/e_ani_animal_monkey/67818ed7370d49a1841fd10e527216ba.jpg"
+   },
+   {
+    "uid": "4fdf8c9df57c4846876294d85ef8aed1",
+    "nombre": "Gorrillatag",
+    "autor": "Kryph",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1448,
+    "url": "https://sketchfab.com/3d-models/none-4fdf8c9df57c4846876294d85ef8aed1",
+    "miniatura": "miniaturas/e_ani_animal_monkey/4fdf8c9df57c4846876294d85ef8aed1.jpg"
+   },
+   {
+    "uid": "0560ce7d141342bba89cdba69facd8a3",
+    "nombre": "Rigged Stylized Monkey\"",
+    "autor": "ummehaani719",
+    "licencia": "CC Attribution",
+    "animaciones": 9,
+    "caras": 56666,
+    "url": "https://sketchfab.com/3d-models/none-0560ce7d141342bba89cdba69facd8a3",
+    "miniatura": "miniaturas/e_ani_animal_monkey/0560ce7d141342bba89cdba69facd8a3.jpg"
+   },
+   {
+    "uid": "502fec1288904499b705a7c3ca247233",
+    "nombre": "Monkey",
+    "autor": "nav91",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6742,
+    "url": "https://sketchfab.com/3d-models/none-502fec1288904499b705a7c3ca247233",
+    "miniatura": "miniaturas/e_ani_animal_monkey/502fec1288904499b705a7c3ca247233.jpg"
+   }
+  ]
+ }
+}
