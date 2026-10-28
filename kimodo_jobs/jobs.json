@@ -1,122 +1,38 @@
 [
  {
-  "name": "ch01_palanca_una_a",
+  "name": "cs01_anotar_tablilla_a",
   "frames": 150,
-  "seed": 5101,
-  "prompt": "A person squats low on the floor, reaches forward with the right hand and pushes a small lever down once, then pulls the hand back to the knee."
+  "seed": 6100,
+  "prompt": "A person stands holding a clipboard with the left hand at chest height and writes on it with the right hand, looking down at the clipboard and then up in front of them, then writes again."
  },
  {
-  "name": "ch01_palanca_una_b",
+  "name": "cs01_anotar_tablilla_b",
   "frames": 150,
-  "seed": 5201,
-  "prompt": "A person crouching on the floor presses down a handle in front of them with the right hand one time and rests again."
+  "seed": 6200,
+  "prompt": "A person stands holding a clipboard with the left hand at chest height and writes on it with the right hand, looking down at the clipboard and then up in front of them, then writes again."
  },
  {
-  "name": "ch02_reposo_mirar_a",
-  "frames": 300,
-  "seed": 5102,
-  "prompt": "A person squats low on the floor with the forearms resting on the knees, breathing calmly and slowly looking around."
- },
- {
-  "name": "ch02_reposo_mirar_b",
-  "frames": 300,
-  "seed": 5202,
-  "prompt": "A person crouches on the floor, arms resting on the knees, looking slowly to the left and to the right, calm."
- },
- {
-  "name": "ch03_palanca_rapido_a",
-  "frames": 240,
-  "seed": 5103,
-  "prompt": "A person squats low on the floor and quickly pushes a lever down in front of them with the right hand again and again, many times."
- },
- {
-  "name": "ch03_palanca_rapido_b",
-  "frames": 240,
-  "seed": 5203,
-  "prompt": "A crouching person repeatedly presses down a handle in front of them with the right hand, fast and compulsive."
- },
- {
-  "name": "ch04_dudar_a",
+  "name": "cs02_ajustar_aparato_a",
   "frames": 150,
-  "seed": 5104,
-  "prompt": "A person squatting on the floor looks to the left, then to the right, then to the left again, hesitating."
+  "seed": 6101,
+  "prompt": "A person stands in front of a machine on the wall and adjusts small knobs on it with both hands at chest height, leaning slightly forward and looking at it."
  },
  {
-  "name": "ch04_dudar_b",
+  "name": "cs02_ajustar_aparato_b",
   "frames": 150,
-  "seed": 5204,
-  "prompt": "A crouching person turns the head left and right between two things, unable to decide."
+  "seed": 6201,
+  "prompt": "A person stands in front of a machine on the wall and adjusts small knobs on it with both hands at chest height, leaning slightly forward and looking at it."
  },
  {
-  "name": "ch05_rascar_brazo_a",
-  "frames": 120,
-  "seed": 5105,
-  "prompt": "A person squatting on the floor scratches the left forearm with the right hand."
- },
- {
-  "name": "ch05_rascar_brazo_b",
-  "frames": 120,
-  "seed": 5205,
-  "prompt": "A crouching person rubs and scratches the left arm with the right hand, nervous."
- },
- {
-  "name": "ch06_manotear_a",
-  "frames": 120,
-  "seed": 5106,
-  "prompt": "A person squatting on the floor suddenly looks up scared and swats at the air in front of the face with the right hand twice."
- },
- {
-  "name": "ch06_manotear_b",
-  "frames": 120,
-  "seed": 5206,
-  "prompt": "A crouching person flinches and waves the right hand in front of the face as if hitting something invisible."
- },
- {
-  "name": "ch07_morder_dedos_a",
-  "frames": 120,
-  "seed": 5107,
-  "prompt": "A person squatting on the floor brings the right hand to the mouth and nervously bites the fingers."
- },
- {
-  "name": "ch07_morder_dedos_b",
-  "frames": 120,
-  "seed": 5207,
-  "prompt": "A crouching person chews the fingertips of the right hand, anxious."
- },
- {
-  "name": "ch08_convulsion_a",
+  "name": "cs03_observar_anotar_a",
   "frames": 150,
-  "seed": 5108,
-  "prompt": "A person squatting on the floor starts shaking violently, falls over onto the side and lies still on the floor."
+  "seed": 6102,
+  "prompt": "A person stands still, observing something on the floor in front of them with interest, leaning forward a little, then nods and writes a note on a clipboard held in the left hand."
  },
  {
-  "name": "ch08_convulsion_b",
+  "name": "cs03_observar_anotar_b",
   "frames": 150,
-  "seed": 5208,
-  "prompt": "A crouching person trembles hard all over, collapses sideways to the ground and stops moving."
- },
- {
-  "name": "ch09_ladear_cabeza_a",
-  "frames": 120,
-  "seed": 5109,
-  "prompt": "A person squatting on the floor tilts the head to the side with curiosity, looking at something in front."
- },
- {
-  "name": "ch09_ladear_cabeza_b",
-  "frames": 120,
-  "seed": 5209,
-  "prompt": "A crouching person looks forward curiously and slowly tilts the head to one side."
- },
- {
-  "name": "ch10_mecerse_a",
-  "frames": 120,
-  "seed": 5110,
-  "prompt": "A person squatting on the floor rocks back and forth nervously."
- },
- {
-  "name": "ch10_mecerse_b",
-  "frames": 120,
-  "seed": 5210,
-  "prompt": "A crouching person sways forward and backward, restless."
+  "seed": 6202,
+  "prompt": "A person stands still, observing something on the floor in front of them with interest, leaning forward a little, then nods and writes a note on a clipboard held in the left hand."
  }
 ]
