@@ -1,10 +1,10 @@
 {
- "total_seconds": 138.8,
+ "total_seconds": 179.2,
  "jobs": [
   {
-   "name": "sv08_correr_potente_a",
+   "name": "ch06_manotear_a",
    "response": "OK\t120\t30",
-   "seconds": 138.7,
+   "seconds": 179.0,
    "frames": 120
   }
  ]
