@@ -1,78 +1,78 @@
 {
  "catalogo": false,
- "informe": "informe_velocidad_v7_gente.json",
- "sketchfab_buscar": [
+ "informe": "informe_velocidad_v7_gente_bajada.json",
+ "objaverse": [
   {
-   "clave": "gente_caminando",
-   "q": "walking man animated",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "animado": true,
-   "max": 18
+   "uid": "bbaa566445074509a32ef5059a9d0bc2",
+   "nombre": "pareja_caminando",
+   "titulo": "Man Woman Walk",
+   "autor": "iko.gazette",
+   "licencia": "CC Attribution",
+   "caras": 16231,
+   "anim": 1
   },
   {
-   "clave": "mujer_caminando",
-   "q": "woman walking animation",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "animado": true,
-   "max": 18
+   "uid": "c0dc08ae287a46bd9724a3acf5776bf0",
+   "nombre": "mujer_telefono",
+   "titulo": "Android Bug",
+   "autor": "lazercar",
+   "licencia": "CC Attribution-ShareAlike",
+   "caras": 9472,
+   "anim": 1
   },
   {
-   "clave": "hablar_telefono",
-   "q": "talking on phone animation",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "animado": true,
-   "max": 18
+   "uid": "b4d00bf20dd84b3d9842fdb1744555be",
+   "nombre": "hombre_telefono",
+   "titulo": "Mia Talking On Phone",
+   "autor": "instideal2019",
+   "licencia": "CC Attribution",
+   "caras": 35821,
+   "anim": 1
   },
   {
-   "clave": "correr_persona",
-   "q": "running man animated",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "animado": true,
-   "max": 18
+   "uid": "b69d149f87a94a058fc4e8adb58ebbbf",
+   "nombre": "hombre_telefono_camina",
+   "titulo": "Mr Man Talking On A Cell Phone",
+   "autor": "instideal2019",
+   "licencia": "CC Attribution",
+   "caras": 41407,
+   "anim": 1
   },
   {
-   "clave": "saltar_persona",
-   "q": "jumping animation character",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "animado": true,
-   "max": 18
+   "uid": "ed3d7a4b8b124e1591be83ccb4c02dcd",
+   "nombre": "hombre_corriendo",
+   "titulo": "Male Running (20 frames loop)",
+   "autor": "denysalmaral",
+   "licencia": "Free Standard",
+   "caras": 1552,
+   "anim": 1
   },
   {
-   "clave": "beber",
-   "q": "drinking animation character",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "animado": true,
-   "max": 18
+   "uid": "d3f65ad04ec845b197a689db48ec4329",
+   "nombre": "mujer_caminando",
+   "titulo": "Nilda Female Character Walk Animation",
+   "autor": "kelvin-carvalho",
+   "licencia": "CC Attribution",
+   "caras": 12352,
+   "anim": 1
   },
   {
-   "clave": "gente_rigged",
-   "q": "people rigged animated realistic",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "animado": true,
-   "max": 18
+   "uid": "d3a292ede4954c9aaf88e9c58d364a15",
+   "nombre": "hombre_caminando_verde",
+   "titulo": "Character test - Walking",
+   "autor": "leoskateman",
+   "licencia": "CC Attribution",
+   "caras": 26196,
+   "anim": 1
   },
   {
-   "clave": "peaton",
-   "q": "pedestrian animated",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "animado": true,
-   "max": 18
-  },
-  {
-   "clave": "mixamo_personaje",
-   "q": "mixamo character animated",
-   "paginas": 3,
-   "solo_objaverse": true,
-   "animado": true,
-   "max": 18
+   "uid": "05d9dd5bdddd4157bd46dc179781ee6e",
+   "nombre": "hombre_casual",
+   "titulo": "Casual Man Character",
+   "autor": "strielecki",
+   "licencia": "CC Attribution",
+   "caras": 10962,
+   "anim": 1
   }
  ]
 }
