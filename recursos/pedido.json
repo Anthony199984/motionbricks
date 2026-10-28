@@ -1,76 +1,188 @@
 {
  "catalogo": false,
- "informe": "informe_objaverse3.json",
- "objaverse": [
+ "informe": "informe_mono_busqueda1.json",
+ "polyhaven": [
   {
-   "uid": "cf7b9b312db4400c9d99ed40739b411a",
-   "nombre": "gente_pack",
-   "titulo": "All Characters",
-   "autor": "RachelC04",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-cf7b9b312db4400c9d99ed40739b411a",
-   "caras": 20213,
-   "anim": 0
+   "id": "hospital_room",
+   "res": "2k"
   },
   {
-   "uid": "27f0f72c5f464e0e9081557db353df47",
-   "nombre": "mujer_sentada_parada",
-   "titulo": "Woman (Sitting Standing Clap)",
-   "autor": "nonny",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-27f0f72c5f464e0e9081557db353df47",
-   "caras": 87437,
-   "anim": 1
+   "id": "hospital_room_2",
+   "res": "2k"
   },
   {
-   "uid": "c9ca01094c8c45f484df83a61e8f1ef3",
-   "nombre": "chica_parada",
-   "titulo": "Girl Standing Animation",
-   "autor": "dhunu53",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-c9ca01094c8c45f484df83a61e8f1ef3",
-   "caras": 70423,
-   "anim": 1
+   "id": "bananas",
+   "res": "1k"
   },
   {
-   "uid": "0f7535dc9dd1492e842cd6b2d23f4885",
-   "nombre": "senor_caminando",
-   "titulo": "Old man walking",
-   "autor": "norgeotloic",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-0f7535dc9dd1492e842cd6b2d23f4885",
-   "caras": 3636,
-   "anim": 0
+   "id": "vintage_microscope",
+   "res": "1k"
   },
   {
-   "uid": "00322ad15e1e4e5d9b626336f582f7f0",
-   "nombre": "hombre_negocios",
-   "titulo": "Character of business man",
-   "autor": "Aksgamer",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-00322ad15e1e4e5d9b626336f582f7f0",
-   "caras": 15732,
-   "anim": 0
+   "id": "chemistry_set",
+   "res": "1k"
   },
   {
-   "uid": "05d9dd5bdddd4157bd46dc179781ee6e",
-   "nombre": "hombre_casual",
-   "titulo": "Casual Man Character",
-   "autor": "strielecki",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-05d9dd5bdddd4157bd46dc179781ee6e",
-   "caras": 10962,
-   "anim": 1
+   "id": "clipboard",
+   "res": "1k"
   },
   {
-   "uid": "9aa5d0921ccb41fea29ec426e3b53610",
-   "nombre": "mujer_parada",
-   "titulo": "Woman Standing Idle_Kinstyuri",
-   "autor": "yuriannoue",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-9aa5d0921ccb41fea29ec426e3b53610",
-   "caras": 9087,
-   "anim": 1
+   "id": "metal_office_desk",
+   "res": "1k"
+  },
+  {
+   "id": "steel_frame_shelves_01",
+   "res": "1k"
+  },
+  {
+   "id": "medical_box",
+   "res": "1k"
+  },
+  {
+   "id": "vintage_cabinet_01",
+   "res": "1k"
+  },
+  {
+   "id": "drawer_cabinet",
+   "res": "1k"
+  },
+  {
+   "id": "desk_lamp_arm_01",
+   "res": "1k"
+  },
+  {
+   "id": "power_box_01",
+   "res": "1k"
+  },
+  {
+   "id": "long_white_tiles",
+   "res": "1k"
+  },
+  {
+   "id": "old_linoleum_flooring_01",
+   "res": "1k"
+  },
+  {
+   "id": "interior_tiles",
+   "res": "1k"
+  },
+  {
+   "id": "painted_concrete",
+   "res": "1k"
+  }
+ ],
+ "sketchfab_buscar": [
+  {
+   "clave": "mono_rhesus",
+   "q": "rhesus macaque",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mono_macaco",
+   "q": "macaque",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mono_anim",
+   "q": "monkey",
+   "animado": true,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mono_real",
+   "q": "realistic monkey",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mono_rig",
+   "q": "monkey rigged",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mono_babuino",
+   "q": "baboon",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "cerebro",
+   "q": "brain anatomy",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "neurona",
+   "q": "neuron",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "chocolate",
+   "q": "chocolate bar",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "jeringa",
+   "q": "syringe",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "bomba",
+   "q": "infusion pump",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "botella_agua",
+   "q": "water bottle",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "jaula",
+   "q": "animal cage",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "palanca",
+   "q": "lever",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40
   }
  ]
 }
