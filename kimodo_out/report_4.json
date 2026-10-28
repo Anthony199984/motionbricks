@@ -1,0 +1,17 @@
+{
+ "total_seconds": 777.2,
+ "jobs": [
+  {
+   "name": "g03_manos_a_la_cabeza_a",
+   "response": "OK\t90\t30",
+   "seconds": 367.8,
+   "frames": 90
+  },
+  {
+   "name": "g13_brazos_cruzados_impaciente_a",
+   "response": "OK\t105\t30",
+   "seconds": 409.3,
+   "frames": 105
+  }
+ ]
+}
