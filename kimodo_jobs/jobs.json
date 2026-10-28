@@ -1,0 +1,12 @@
+[
+  {"name": "01_sentarse", "frames": 105, "seed": 11,
+   "prompt": "A person standing turns around and slowly sits down on a chair, then settles back comfortably."},
+  {"name": "02_mirar_reloj", "frames": 120, "seed": 12,
+   "prompt": "A person sitting on a chair raises the left wrist and looks at the wristwatch, then shakes the head impatiently."},
+  {"name": "03_levantarse_estirarse", "frames": 135, "seed": 13,
+   "prompt": "A person sitting on a chair stands up and stretches both arms high above the head, arching the back."},
+  {"name": "04_pechadas", "frames": 165, "seed": 14,
+   "prompt": "A person standing gets down onto the floor and does several push-ups."},
+  {"name": "05_levantarse_correr", "frames": 120, "seed": 15,
+   "prompt": "A person lying face down on the floor quickly gets up and starts running forward."}
+]
