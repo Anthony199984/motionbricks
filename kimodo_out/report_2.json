@@ -1,17 +1,17 @@
 {
- "total_seconds": 578.6,
+ "total_seconds": 642.3,
  "jobs": [
   {
-   "name": "04a_pechadas",
-   "response": "OK\t150\t30",
-   "seconds": 315.7,
-   "frames": 150
+   "name": "g02_mano_barbilla_pensando_a",
+   "response": "OK\t90\t30",
+   "seconds": 336.1,
+   "frames": 90
   },
   {
-   "name": "05b_correr",
-   "response": "OK\t120\t30",
-   "seconds": 262.9,
-   "frames": 120
+   "name": "g12_aplaudir_a",
+   "response": "OK\t75\t30",
+   "seconds": 306.1,
+   "frames": 75
   }
  ]
 }
