@@ -80,9 +80,14 @@ def sketchfab_buscar(b):
     q = b["q"]; params = {"type": "models", "q": q, "downloadable": "true", "count": 24, "sort_by": b.get("orden", "-likeCount")}
     if b.get("animado"): params["animated"] = "true"
     url = "https://api.sketchfab.com/v3/search?" + urllib.parse.urlencode(params)
-    res = json.loads(leer(url)).get("results", [])
+    res = []
+    for _ in range(b.get("paginas", 1)):                 # varias páginas (la API da 24 por página)
+        d = json.loads(leer(url)); res += d.get("results", []); url = d.get("next")
+        if not url: break
+    if b.get("solo_objaverse"):                         # solo los que se pueden bajar sin cuenta (están en Objaverse)
+        rutas = objaverse_rutas(); res = [m for m in res if m["uid"] in rutas]
     out = []
-    for m in res:
+    for m in res[:b.get("max", 40)]:
         lic = (m.get("license") or {}).get("label") or (m.get("license") or {}).get("slug")
         th = sorted((m.get("thumbnails") or {}).get("images", []), key=lambda i: abs(i.get("width", 0) - 256))
         c = dict(uid=m["uid"], nombre=m.get("name"), autor=(m.get("user") or {}).get("username"), licencia=lic,
