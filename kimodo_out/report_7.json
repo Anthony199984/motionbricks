@@ -1,11 +1,11 @@
 {
- "total_seconds": 174.1,
+ "total_seconds": 283.1,
  "jobs": [
   {
-   "name": "sv06_mirar_cielo",
-   "response": "OK\t90\t30",
-   "seconds": 174.0,
-   "frames": 90
+   "name": "sv19_mira_ojos_b",
+   "response": "OK\t180\t30",
+   "seconds": 283.0,
+   "frames": 180
   }
  ]
 }
