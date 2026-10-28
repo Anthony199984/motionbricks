@@ -75,7 +75,9 @@ jobs:
           # todo en procesador: cuda -> cpu, float16 -> float32
           sed -i 's/device: "cuda"/device: "cpu"/; s/dtype: "float16"/dtype: "float32"/' examples/custom_rig/inference.yaml
           mkdir -p Truebone_Z-OO/MonoRhesus videos
-          /home/runner/blender/blender -b -P $GITHUB_WORKSPACE/mocap/glb_a_fbx.py -- $GITHUB_WORKSPACE/mocap/MonoRhesus.glb Truebone_Z-OO/MonoRhesus
+          mkdir -p $GITHUB_WORKSPACE/mocap/logs
+          /home/runner/blender/blender -b -P $GITHUB_WORKSPACE/mocap/glb_a_fbx.py -- $GITHUB_WORKSPACE/mocap/MonoRhesus.glb Truebone_Z-OO/MonoRhesus > $GITHUB_WORKSPACE/mocap/logs/0_fbx.txt 2>&1 || (tail -40 $GITHUB_WORKSPACE/mocap/logs/0_fbx.txt; exit 1)
+          ls -la Truebone_Z-OO/MonoRhesus
           for v in $GITHUB_WORKSPACE/mocap/videos/*.mp4; do n=$(basename "$v" .mp4); ffmpeg -loglevel error -y -i "$v" -vf "fps=15,scale=-2:512" "videos/MonoRhesus#$n.mp4"; done
           ls videos
           if [ -d $GITHUB_WORKSPACE/mocap/zoo/species_info_dict.npy ] || [ -f $GITHUB_WORKSPACE/mocap/zoo/species_info_dict.npy ]; then
@@ -83,7 +85,8 @@ jobs:
           else
             mkdir -p examples/custom_rig/align_ref/MonoRhesus
             python -c "import numpy as np; np.save('examples/custom_rig/align_ref/MonoRhesus/front.npy', np.array([0.,0.,1.]))"
-            ALIGN_REF_DIR=examples/custom_rig/align_ref bash examples/custom_rig/run.sh MonoRhesus 2>&1 | tail -60
+            ALIGN_REF_DIR=examples/custom_rig/align_ref bash examples/custom_rig/run.sh MonoRhesus > $GITHUB_WORKSPACE/mocap/logs/1_preparar.txt 2>&1 || (tail -80 $GITHUB_WORKSPACE/mocap/logs/1_preparar.txt; exit 1)
+            tail -30 $GITHUB_WORKSPACE/mocap/logs/1_preparar.txt
             mkdir -p $GITHUB_WORKSPACE/mocap/zoo
             cp -r zoo/species_info_dict.npy zoo/cache zoo/characters_face_zplus zoo/bvh zoo/bvh_pose zoo/npz_train_image_only $GITHUB_WORKSPACE/mocap/zoo/ 2>/dev/null || true
           fi
@@ -94,7 +97,8 @@ jobs:
           BLENDER_BIN: /home/runner/blender/blender
         run: |
           set -e
-          python -m inference.video2pose2rot --config examples/custom_rig/inference.yaml 2>&1 | tail -80
+          mkdir -p $GITHUB_WORKSPACE/mocap/logs
+          python -m inference.video2pose2rot --config examples/custom_rig/inference.yaml > $GITHUB_WORKSPACE/mocap/logs/2_captura.txt 2>&1 || (tail -80 $GITHUB_WORKSPACE/mocap/logs/2_captura.txt; exit 1)
           ls -R outputs | head -80
           mkdir -p $GITHUB_WORKSPACE/mocap/salida
           cp -r outputs/custom_rig/. $GITHUB_WORKSPACE/mocap/salida/
@@ -106,7 +110,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add mocap/salida mocap/zoo || true
+          git add mocap/salida mocap/zoo mocap/logs || true
           git commit -m "Mocap listo [skip ci]" || echo "nada nuevo"
           git pull --rebase origin mocap || true
           git push origin HEAD:mocap
