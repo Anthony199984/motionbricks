@@ -1,11 +1,11 @@
 {
- "total_seconds": 172.7,
+ "total_seconds": 251.2,
  "jobs": [
   {
-   "name": "mn03_inclina_mirar",
-   "response": "OK\t120\t30",
-   "seconds": 172.7,
-   "frames": 120
+   "name": "sv17_espantar_mosca_b",
+   "response": "OK\t150\t30",
+   "seconds": 251.1,
+   "frames": 150
   }
  ]
 }
