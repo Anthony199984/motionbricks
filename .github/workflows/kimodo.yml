@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: kimodo
+  cancel-in-progress: true
+
 defaults:
   run:
     shell: bash -eo pipefail {0}
@@ -51,15 +55,25 @@ jobs:
         uses: actions/cache@v4
         with:
           path: weights
-          key: kimodo-soma-rp-v1.1-q8_0-v1
+          key: kimodo-soma-rp-v1.1-q8_0-v2
 
       - name: Descargar pesos
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
           exec > >(tee -a "$GITHUB_WORKSPACE/kimodo_log.txt") 2>&1; date
-          pip install -q "huggingface_hub[cli]"
-          bash kcpp/scripts/download_gguf_weights.sh --output "$PWD/weights" --model soma-rp-v1.1 --text-quantization q8_0
-          du -sh weights; find weights -name "*.gguf" -exec ls -la {} \;
+          pip install -q huggingface_hub
+          bash kcpp/scripts/download_gguf_weights.sh --output "$PWD/weights" --model soma-rp-v1.1 --motion-only
+          echo "--- manifiesto del texto ---"
+          hf download LocalAI-io/Llama-3-Kimodo-GGML --include MANIFEST.json --local-dir weights/text_manifest
+          head -c 3000 weights/text_manifest/MANIFEST.json; echo
+          echo "--- archivos del repo de texto ---"
+          python3 -c "from huggingface_hub import list_repo_files as l; [print(f) for f in l('LocalAI-io/Llama-3-Kimodo-GGML')]"
+          hf download LocalAI-io/Llama-3-Kimodo-GGML --include "*Q8_0*.gguf" "*tokenizer*.gguf" --local-dir weights
+          find weights -name "*.gguf" -exec ls -la {} \;
+          Q8=$(find weights -name "Llama-3-Kimodo-Q8_0.gguf" | head -1)
+          TOK=$(find weights -name "tokenizer.gguf" | head -1)
+          [ -f "$(dirname "$Q8")/tokenizer.gguf" ] || cp "$TOK" "$(dirname "$Q8")/tokenizer.gguf"
+          du -sh weights
 
       - name: Generar animaciones
         run: |
@@ -77,4 +91,5 @@ jobs:
           git config user.name "kimodo-bot"; git config user.email "actions@users.noreply.github.com"
           git add kimodo_out
           git commit -m "Resultados Kimodo [skip ci]" || echo "nada que guardar"
+          git pull --rebase origin kimodo-jobs || true
           git push origin HEAD:kimodo-jobs
