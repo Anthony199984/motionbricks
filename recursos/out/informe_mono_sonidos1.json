@@ -1,0 +1,1403 @@
+{
+ "bajados": [
+  {
+   "destino": "sonidos/mn_mk_click/Camera_shutter_click_1133-preview.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mn_mk_click/Fast_double_click_on_mouse_275-preview.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mn_mk_click/Select_click_1109-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mn_mk_click/Sci_fi_click_900-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mn_mk_click/Typing_on_a_laptop_keyboard_2531-preview.mp3",
+   "mb": 0.49
+  },
+  {
+   "destino": "sonidos/mn_mk_click/Modern_technology_select_3124-preview.mp3",
+   "mb": 0.0
+  },
+  {
+   "destino": "sonidos/mn_mk_click/Cool_interface_click_tone_2568-preview.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mn_mk_click/Mouse_click_close_1113-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mn_mk_click/Handgun_click_1660-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mn_mk_click/Classic_click_1117-preview.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mn_mk_switch/On_or_off_light_switch_tap_2585-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mn_mk_switch/Light_switch_sound_2579-preview.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mn_mk_switch/Quick_bass_switch_2301-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mn_mk_switch/Quick_switch_click_2582-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mn_mk_switch/Electric_switch_1808-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mn_mk_switch/Tape_switch_3096-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mn_mk_switch/Light_pull_switch_1891-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mn_mk_machine/Fast_tape_rewind_cinematic_transition_1092-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mn_mk_machine/Coins_handling_1939-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mn_mk_machine/Reel_to_reel_rewind_1095-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mn_mk_machine/Magical_coin_win_1936-preview.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/mn_mk_machine/Tech_weird_glitch_2685-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mn_mk_machine/Slot_machine_win_alert_1931-preview.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/mn_mk_machine/Melodic_bonus_collect_1938-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mn_mk_machine/Payout_award_1934-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mn_mk_machine/Slot_machine_wheel_1932-preview.mp3",
+   "mb": 0.18
+  },
+  {
+   "destino": "sonidos/mn_mk_machine/Futuristic_machine_starting_2689-preview.mp3",
+   "mb": 0.25
+  },
+  {
+   "destino": "sonidos/mn_mk_clock/Tick_tock_clock_close_up_1059-preview.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/mn_mk_clock/Tick_tock_clock_timer_1045-preview.mp3",
+   "mb": 0.5
+  },
+  {
+   "destino": "sonidos/mn_mk_clock/Wall_clock_tick_tock_1060-preview.mp3",
+   "mb": 0.54
+  },
+  {
+   "destino": "sonidos/mn_mk_clock/Alarm_clock_beep_988-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mn_mk_clock/Fast_wall_clock_ticking_1063-preview.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mn_mk_clock/Clock_ticker_single_1061-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mn_mk_clock/Bell_tick_tock_timer_1046-preview.mp3",
+   "mb": 1.44
+  },
+  {
+   "destino": "sonidos/mn_mk_clock/Ticking_timer_1056-preview.mp3",
+   "mb": 0.3
+  },
+  {
+   "destino": "sonidos/mn_mk_clock/Percussion_tick-tock_timer_1047-preview.mp3",
+   "mb": 0.75
+  },
+  {
+   "destino": "sonidos/mn_mk_clock/Old_clock_pendulum_ticking_1072-preview.mp3",
+   "mb": 1.82
+  },
+  {
+   "destino": "sonidos/mn_mk_drop/Heavy_rain_drops_2399-preview.mp3",
+   "mb": 0.37
+  },
+  {
+   "destino": "sonidos/mn_mk_drop/Small_wood_plank_pile_drop_3141-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mn_mk_drop/Money_bag_drop_1989-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mn_mk_drop/Stones_and_rocks_falling_400-preview.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/mn_mk_drop/Dropping_keys_in_the_floor_2839-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mn_mk_drop/Thin_metal_plate_drop_3158-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mn_mk_drop/Ball_bouncing_to_a_stop_2089-preview.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/mn_mk_drop/Metal_tools_box_browsing_3202-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mn_mk_drop/Golf_ball_bouncing_2075-preview.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/mn_mk_drop/Pull_and_drop_gym_machine_2115-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mn_mk_bite/8-bit_explosion_gun_2779-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mn_mk_bite/8-bit_game_shots_2778-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mn_mk_bite/Phone_keyboard_bit_2535-preview.mp3",
+   "mb": 0.26
+  },
+  {
+   "destino": "sonidos/mn_mk_bite/8-Bit_bomb_explosion_2811-preview.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mn_mk_bite/Human_bites_a_juicy_sausage_117-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mn_mk_bite/Bit_war_suprise_item_3162-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mn_mk_bite/8_bit_lose_2031-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mn_mk_crunch/Crunchy_road_fast_walking_loop_1274-preview.mp3",
+   "mb": 0.73
+  },
+  {
+   "destino": "sonidos/mn_mk_crunch/Chewing_something_crunchy_2244-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mn_mk_crunch/Eating_crunchy_food_with_mouth_open_120-preview.mp3",
+   "mb": 0.4
+  },
+  {
+   "destino": "sonidos/mn_mk_crunch/Crunchy_footsteps_loop_535-preview.mp3",
+   "mb": 0.32
+  },
+  {
+   "destino": "sonidos/mn_mk_crunch/Eating_and_biting_crunchy_food_118-preview.mp3",
+   "mb": 0.5
+  },
+  {
+   "destino": "sonidos/mn_mk_monkey/Cartoon_monkey_mocking_and_giggling_108-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mn_mk_monkey/Cartoon_monkey_mocking_laugh_107-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mn_mk_monkey/Monkey_excited_screech_105-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mn_mk_monkey/Cartoon_monkey_applause_103-preview.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/mn_mk_monkey/Little_monkey_screech_104-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mn_mk_monkey/Scared_monkey_thumping_chest_98-preview.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mn_mk_monkey/Cartoon_baby_monkey_laugh_102-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mn_mk_monkey/Cartoon_creature_pain_scream_101-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mn_mk_monkey/Excited_monkey_grunt_99-preview.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mn_mk_monkey/Cartoon_monkey_laugh_100-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mn_mk_heartbeat/Cinematic_transition_swoosh_heartbeat_trailer_488-preview.mp3",
+   "mb": 0.23
+  },
+  {
+   "destino": "sonidos/mn_mk_heartbeat/Cinematic_mystery_heartbeat_transition_492-preview.mp3",
+   "mb": 1.99
+  },
+  {
+   "destino": "sonidos/mn_mk_heartbeat/Hard_horror_hit_drum_565-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mn_mk_heartbeat/Cinematic_heartbeat_ambience_497-preview.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/mn_mk_heartbeat/Cinematic_horror_heartbeat_transition_489-preview.mp3",
+   "mb": 1.29
+  },
+  {
+   "destino": "sonidos/mn_mk_heartbeat/Human_single_heart_beat_490-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mn_mk_heartbeat/Horror_deep_drum_heartbeat_559-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mn_mk_heartbeat/Slow_heartbeat_494-preview.mp3",
+   "mb": 1.24
+  },
+  {
+   "destino": "sonidos/mn_mk_heartbeat/Fast_Heartbeat_493-preview.mp3",
+   "mb": 0.3
+  },
+  {
+   "destino": "sonidos/mn_mk_heartbeat/Heartbeat_medium_speed_495-preview.mp3",
+   "mb": 0.67
+  },
+  {
+   "destino": "sonidos/mn_mk_button/Light_button_2580-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mn_mk_button/Alien_technology_button_3118-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mn_mk_button/Metal_button_radio_ping_2544-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mn_mk_button/Metal_button_push_1830-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mn_mk_motor/Tactical_drone_ambience_2744-preview.mp3",
+   "mb": 1.47
+  },
+  {
+   "destino": "sonidos/mn_mk_motor/Motocross_motorcycle_engine_2727-preview.mp3",
+   "mb": 0.57
+  },
+  {
+   "destino": "sonidos/mn_mk_motor/Engine_slow_spinning_whoosh_2650-preview.mp3",
+   "mb": 0.22
+  },
+  {
+   "destino": "sonidos/mn_mk_motor/Motorcycle_hum_passing_by_2732-preview.mp3",
+   "mb": 0.26
+  },
+  {
+   "destino": "sonidos/mn_mk_motor/Helicopter_propellers_in_the_sky_2704-preview.mp3",
+   "mb": 0.55
+  },
+  {
+   "destino": "sonidos/mn_mk_motor/Low_drone_engine_hum_2745-preview.mp3",
+   "mb": 1.97
+  },
+  {
+   "destino": "sonidos/mn_mk_motor/Motorcycle_engine_doing_gearshift_2725-preview.mp3",
+   "mb": 0.43
+  },
+  {
+   "destino": "sonidos/mn_mk_motor/Drone_terror_ambience_2749-preview.mp3",
+   "mb": 2.1
+  },
+  {
+   "destino": "sonidos/mn_mk_motor/Tech_weird_glitch_2685-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mn_mk_motor/Racing_motorcycle_speeding_up_2724-preview.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/mn_mk_eat/Chewing_something_crunchy_2244-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mn_mk_eat/Eating_crunchy_food_with_mouth_open_120-preview.mp3",
+   "mb": 0.4
+  },
+  {
+   "destino": "sonidos/mn_mk_eat/Eating_crispy_cookies_122-preview.mp3",
+   "mb": 0.54
+  },
+  {
+   "destino": "sonidos/mn_mk_eat/Animal_eating_juicy_meat_2246-preview.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/mn_mk_eat/Human_eating_a_potato_chip_131-preview.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/mn_mk_eat/Hungry_man_eating_2252-preview.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mn_mk_eat/Human_male_enjoy_humm_129-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mn_mk_eat/Animal_eating_herb_2241-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mn_mk_eat/Farm_pig_drinking_water_2242-preview.mp3",
+   "mb": 0.33
+  },
+  {
+   "destino": "sonidos/mn_mk_eat/Human_eating_dry_cereal_130-preview.mp3",
+   "mb": 0.41
+  },
+  {
+   "destino": "sonidos/mn_c_reloj/2000_Body_s_24_Hour_Clock_by_Bill_Nye_for_National_Science_Foundation..oga",
+   "mb": 0.5
+  },
+  {
+   "destino": "sonidos/mn_c_reloj/Alarm_clock_ticking.ogg",
+   "mb": 0.26
+  },
+  {
+   "destino": "sonidos/mn_c_reloj/Alarmclock-mechanical.ogg",
+   "mb": 0.24
+  },
+  {
+   "destino": "sonidos/mn_c_reloj/Clock_ticking.ogg",
+   "mb": 0.48
+  },
+  {
+   "destino": "sonidos/mn_c_reloj/En-au-clock_is_ticking.ogg",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mn_c_reloj/Grandfather_Clock_Ticking.ogg",
+   "mb": 0.29
+  },
+  {
+   "destino": "sonidos/mn_c_reloj/LA2_kitchen_clock.ogg",
+   "mb": 0.26
+  },
+  {
+   "destino": "sonidos/mn_c_reloj/WWS_Wallclockwithweightticking.ogg",
+   "mb": 0.43
+  },
+  {
+   "destino": "sonidos/mn_c_latido/Athletic_bradycardia_wav.wav",
+   "mb": 1.84
+  },
+  {
+   "destino": "sonidos/mn_c_latido/Heartbeat_mitral_valve_150_bpm.ogg",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/mn_c_latido/Heartbeat_speedsup.wav",
+   "mb": 0.4
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "mixkit": {
+  "mn_mk_click": [
+   {
+    "titulo": "Camera shutter click",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1133/1133-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_click/Camera_shutter_click_1133-preview.mp3"
+   },
+   {
+    "titulo": "Fast double click on mouse",
+    "url": "https://assets.mixkit.co/active_storage/sfx/275/275-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_click/Fast_double_click_on_mouse_275-preview.mp3"
+   },
+   {
+    "titulo": "Select click",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1109/1109-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_click/Select_click_1109-preview.mp3"
+   },
+   {
+    "titulo": "Sci fi click",
+    "url": "https://assets.mixkit.co/active_storage/sfx/900/900-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_click/Sci_fi_click_900-preview.mp3"
+   },
+   {
+    "titulo": "Typing on a laptop keyboard",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2531/2531-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_click/Typing_on_a_laptop_keyboard_2531-preview.mp3"
+   },
+   {
+    "titulo": "Modern technology select",
+    "url": "https://assets.mixkit.co/active_storage/sfx/3124/3124-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_click/Modern_technology_select_3124-preview.mp3"
+   },
+   {
+    "titulo": "Cool interface click tone",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2568/2568-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_click/Cool_interface_click_tone_2568-preview.mp3"
+   },
+   {
+    "titulo": "Mouse click close",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1113/1113-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_click/Mouse_click_close_1113-preview.mp3"
+   },
+   {
+    "titulo": "Handgun click",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1660/1660-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_click/Handgun_click_1660-preview.mp3"
+   },
+   {
+    "titulo": "Classic click",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1117/1117-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_click/Classic_click_1117-preview.mp3"
+   }
+  ],
+  "mn_mk_switch": [
+   {
+    "titulo": "On or off light switch tap",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2585/2585-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_switch/On_or_off_light_switch_tap_2585-preview.mp3"
+   },
+   {
+    "titulo": "Light switch sound",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2579/2579-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_switch/Light_switch_sound_2579-preview.mp3"
+   },
+   {
+    "titulo": "Quick bass switch",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2301/2301-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_switch/Quick_bass_switch_2301-preview.mp3"
+   },
+   {
+    "titulo": "Quick switch click",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2582/2582-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_switch/Quick_switch_click_2582-preview.mp3"
+   },
+   {
+    "titulo": "Electric switch",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1808/1808-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_switch/Electric_switch_1808-preview.mp3"
+   },
+   {
+    "titulo": "Tape switch",
+    "url": "https://assets.mixkit.co/active_storage/sfx/3096/3096-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_switch/Tape_switch_3096-preview.mp3"
+   },
+   {
+    "titulo": "Light pull switch",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1891/1891-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_switch/Light_pull_switch_1891-preview.mp3"
+   }
+  ],
+  "mn_mk_machine": [
+   {
+    "titulo": "Fast tape rewind cinematic transition",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1092/1092-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_machine/Fast_tape_rewind_cinematic_transition_1092-preview.mp3"
+   },
+   {
+    "titulo": "Coins handling",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1939/1939-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_machine/Coins_handling_1939-preview.mp3"
+   },
+   {
+    "titulo": "Reel to reel rewind",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1095/1095-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_machine/Reel_to_reel_rewind_1095-preview.mp3"
+   },
+   {
+    "titulo": "Magical coin win",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1936/1936-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_machine/Magical_coin_win_1936-preview.mp3"
+   },
+   {
+    "titulo": "Tech weird glitch",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2685/2685-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_machine/Tech_weird_glitch_2685-preview.mp3"
+   },
+   {
+    "titulo": "Slot machine win alert",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1931/1931-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_machine/Slot_machine_win_alert_1931-preview.mp3"
+   },
+   {
+    "titulo": "Melodic bonus collect",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1938/1938-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_machine/Melodic_bonus_collect_1938-preview.mp3"
+   },
+   {
+    "titulo": "Payout award",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1934/1934-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_machine/Payout_award_1934-preview.mp3"
+   },
+   {
+    "titulo": "Slot machine wheel",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1932/1932-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_machine/Slot_machine_wheel_1932-preview.mp3"
+   },
+   {
+    "titulo": "Futuristic machine starting",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2689/2689-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_machine/Futuristic_machine_starting_2689-preview.mp3"
+   }
+  ],
+  "mn_mk_clock": [
+   {
+    "titulo": "Tick tock clock close up",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1059/1059-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_clock/Tick_tock_clock_close_up_1059-preview.mp3"
+   },
+   {
+    "titulo": "Tick tock clock timer",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1045/1045-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_clock/Tick_tock_clock_timer_1045-preview.mp3"
+   },
+   {
+    "titulo": "Wall clock tick tock",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1060/1060-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_clock/Wall_clock_tick_tock_1060-preview.mp3"
+   },
+   {
+    "titulo": "Alarm clock beep",
+    "url": "https://assets.mixkit.co/active_storage/sfx/988/988-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_clock/Alarm_clock_beep_988-preview.mp3"
+   },
+   {
+    "titulo": "Fast wall clock ticking",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1063/1063-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_clock/Fast_wall_clock_ticking_1063-preview.mp3"
+   },
+   {
+    "titulo": "Clock ticker single",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1061/1061-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_clock/Clock_ticker_single_1061-preview.mp3"
+   },
+   {
+    "titulo": "Bell tick tock timer",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1046/1046-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_clock/Bell_tick_tock_timer_1046-preview.mp3"
+   },
+   {
+    "titulo": "Ticking timer",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1056/1056-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_clock/Ticking_timer_1056-preview.mp3"
+   },
+   {
+    "titulo": "Percussion tick-tock timer",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1047/1047-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_clock/Percussion_tick-tock_timer_1047-preview.mp3"
+   },
+   {
+    "titulo": "Old clock pendulum ticking",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1072/1072-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_clock/Old_clock_pendulum_ticking_1072-preview.mp3"
+   }
+  ],
+  "mn_mk_drop": [
+   {
+    "titulo": "Heavy rain drops",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2399/2399-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_drop/Heavy_rain_drops_2399-preview.mp3"
+   },
+   {
+    "titulo": "Small wood plank pile drop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/3141/3141-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_drop/Small_wood_plank_pile_drop_3141-preview.mp3"
+   },
+   {
+    "titulo": "Money bag drop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1989/1989-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_drop/Money_bag_drop_1989-preview.mp3"
+   },
+   {
+    "titulo": "Stones and rocks falling",
+    "url": "https://assets.mixkit.co/active_storage/sfx/400/400-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_drop/Stones_and_rocks_falling_400-preview.mp3"
+   },
+   {
+    "titulo": "Dropping keys in the floor",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2839/2839-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_drop/Dropping_keys_in_the_floor_2839-preview.mp3"
+   },
+   {
+    "titulo": "Thin metal plate drop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/3158/3158-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_drop/Thin_metal_plate_drop_3158-preview.mp3"
+   },
+   {
+    "titulo": "Ball bouncing to a stop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2089/2089-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_drop/Ball_bouncing_to_a_stop_2089-preview.mp3"
+   },
+   {
+    "titulo": "Metal tools box browsing",
+    "url": "https://assets.mixkit.co/active_storage/sfx/3202/3202-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_drop/Metal_tools_box_browsing_3202-preview.mp3"
+   },
+   {
+    "titulo": "Golf ball bouncing",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2075/2075-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_drop/Golf_ball_bouncing_2075-preview.mp3"
+   },
+   {
+    "titulo": "Pull and drop gym machine",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2115/2115-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_drop/Pull_and_drop_gym_machine_2115-preview.mp3"
+   }
+  ],
+  "mn_mk_bite": [
+   {
+    "titulo": "8-bit explosion gun",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2779/2779-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_bite/8-bit_explosion_gun_2779-preview.mp3"
+   },
+   {
+    "titulo": "8-bit game shots",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2778/2778-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_bite/8-bit_game_shots_2778-preview.mp3"
+   },
+   {
+    "titulo": "Phone keyboard bit",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2535/2535-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_bite/Phone_keyboard_bit_2535-preview.mp3"
+   },
+   {
+    "titulo": "8-Bit bomb explosion",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2811/2811-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_bite/8-Bit_bomb_explosion_2811-preview.mp3"
+   },
+   {
+    "titulo": "Human bites a juicy sausage",
+    "url": "https://assets.mixkit.co/active_storage/sfx/117/117-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_bite/Human_bites_a_juicy_sausage_117-preview.mp3"
+   },
+   {
+    "titulo": "Bit war suprise item",
+    "url": "https://assets.mixkit.co/active_storage/sfx/3162/3162-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_bite/Bit_war_suprise_item_3162-preview.mp3"
+   },
+   {
+    "titulo": "8 bit lose",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2031/2031-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_bite/8_bit_lose_2031-preview.mp3"
+   }
+  ],
+  "mn_mk_crunch": [
+   {
+    "titulo": "Crunchy road fast walking loop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1274/1274-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_crunch/Crunchy_road_fast_walking_loop_1274-preview.mp3"
+   },
+   {
+    "titulo": "Chewing something crunchy",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2244/2244-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_crunch/Chewing_something_crunchy_2244-preview.mp3"
+   },
+   {
+    "titulo": "Eating crunchy food with mouth open",
+    "url": "https://assets.mixkit.co/active_storage/sfx/120/120-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_crunch/Eating_crunchy_food_with_mouth_open_120-preview.mp3"
+   },
+   {
+    "titulo": "Crunchy footsteps loop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/535/535-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_crunch/Crunchy_footsteps_loop_535-preview.mp3"
+   },
+   {
+    "titulo": "Eating and biting crunchy food",
+    "url": "https://assets.mixkit.co/active_storage/sfx/118/118-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_crunch/Eating_and_biting_crunchy_food_118-preview.mp3"
+   }
+  ],
+  "mn_mk_monkey": [
+   {
+    "titulo": "Cartoon monkey mocking and giggling",
+    "url": "https://assets.mixkit.co/active_storage/sfx/108/108-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_monkey/Cartoon_monkey_mocking_and_giggling_108-preview.mp3"
+   },
+   {
+    "titulo": "Cartoon monkey mocking laugh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/107/107-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_monkey/Cartoon_monkey_mocking_laugh_107-preview.mp3"
+   },
+   {
+    "titulo": "Monkey excited screech",
+    "url": "https://assets.mixkit.co/active_storage/sfx/105/105-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_monkey/Monkey_excited_screech_105-preview.mp3"
+   },
+   {
+    "titulo": "Cartoon monkey applause",
+    "url": "https://assets.mixkit.co/active_storage/sfx/103/103-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_monkey/Cartoon_monkey_applause_103-preview.mp3"
+   },
+   {
+    "titulo": "Little monkey screech",
+    "url": "https://assets.mixkit.co/active_storage/sfx/104/104-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_monkey/Little_monkey_screech_104-preview.mp3"
+   },
+   {
+    "titulo": "Scared monkey thumping chest",
+    "url": "https://assets.mixkit.co/active_storage/sfx/98/98-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_monkey/Scared_monkey_thumping_chest_98-preview.mp3"
+   },
+   {
+    "titulo": "Cartoon baby monkey laugh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/102/102-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_monkey/Cartoon_baby_monkey_laugh_102-preview.mp3"
+   },
+   {
+    "titulo": "Cartoon creature pain scream",
+    "url": "https://assets.mixkit.co/active_storage/sfx/101/101-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_monkey/Cartoon_creature_pain_scream_101-preview.mp3"
+   },
+   {
+    "titulo": "Excited monkey grunt",
+    "url": "https://assets.mixkit.co/active_storage/sfx/99/99-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_monkey/Excited_monkey_grunt_99-preview.mp3"
+   },
+   {
+    "titulo": "Cartoon monkey laugh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/100/100-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_monkey/Cartoon_monkey_laugh_100-preview.mp3"
+   }
+  ],
+  "mn_mk_heartbeat": [
+   {
+    "titulo": "Cinematic transition swoosh heartbeat trailer",
+    "url": "https://assets.mixkit.co/active_storage/sfx/488/488-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_heartbeat/Cinematic_transition_swoosh_heartbeat_trailer_488-preview.mp3"
+   },
+   {
+    "titulo": "Cinematic mystery heartbeat transition",
+    "url": "https://assets.mixkit.co/active_storage/sfx/492/492-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_heartbeat/Cinematic_mystery_heartbeat_transition_492-preview.mp3"
+   },
+   {
+    "titulo": "Hard horror hit drum",
+    "url": "https://assets.mixkit.co/active_storage/sfx/565/565-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_heartbeat/Hard_horror_hit_drum_565-preview.mp3"
+   },
+   {
+    "titulo": "Cinematic heartbeat ambience",
+    "url": "https://assets.mixkit.co/active_storage/sfx/497/497-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_heartbeat/Cinematic_heartbeat_ambience_497-preview.mp3"
+   },
+   {
+    "titulo": "Cinematic horror heartbeat transition",
+    "url": "https://assets.mixkit.co/active_storage/sfx/489/489-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_heartbeat/Cinematic_horror_heartbeat_transition_489-preview.mp3"
+   },
+   {
+    "titulo": "Human single heart beat",
+    "url": "https://assets.mixkit.co/active_storage/sfx/490/490-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_heartbeat/Human_single_heart_beat_490-preview.mp3"
+   },
+   {
+    "titulo": "Horror deep drum heartbeat",
+    "url": "https://assets.mixkit.co/active_storage/sfx/559/559-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_heartbeat/Horror_deep_drum_heartbeat_559-preview.mp3"
+   },
+   {
+    "titulo": "Slow heartbeat",
+    "url": "https://assets.mixkit.co/active_storage/sfx/494/494-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_heartbeat/Slow_heartbeat_494-preview.mp3"
+   },
+   {
+    "titulo": "Fast Heartbeat",
+    "url": "https://assets.mixkit.co/active_storage/sfx/493/493-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_heartbeat/Fast_Heartbeat_493-preview.mp3"
+   },
+   {
+    "titulo": "Heartbeat medium speed",
+    "url": "https://assets.mixkit.co/active_storage/sfx/495/495-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_heartbeat/Heartbeat_medium_speed_495-preview.mp3"
+   }
+  ],
+  "mn_mk_button": [
+   {
+    "titulo": "Light button",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2580/2580-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_button/Light_button_2580-preview.mp3"
+   },
+   {
+    "titulo": "Alien technology button",
+    "url": "https://assets.mixkit.co/active_storage/sfx/3118/3118-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_button/Alien_technology_button_3118-preview.mp3"
+   },
+   {
+    "titulo": "Metal button radio ping",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2544/2544-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_button/Metal_button_radio_ping_2544-preview.mp3"
+   },
+   {
+    "titulo": "Metal button push",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1830/1830-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_button/Metal_button_push_1830-preview.mp3"
+   }
+  ],
+  "mn_mk_motor": [
+   {
+    "titulo": "Tactical drone ambience",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2744/2744-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_motor/Tactical_drone_ambience_2744-preview.mp3"
+   },
+   {
+    "titulo": "Motocross motorcycle engine",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2727/2727-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_motor/Motocross_motorcycle_engine_2727-preview.mp3"
+   },
+   {
+    "titulo": "Engine slow spinning whoosh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2650/2650-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_motor/Engine_slow_spinning_whoosh_2650-preview.mp3"
+   },
+   {
+    "titulo": "Motorcycle hum passing by",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2732/2732-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_motor/Motorcycle_hum_passing_by_2732-preview.mp3"
+   },
+   {
+    "titulo": "Helicopter propellers in the sky",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2704/2704-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_motor/Helicopter_propellers_in_the_sky_2704-preview.mp3"
+   },
+   {
+    "titulo": "Low drone engine hum",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2745/2745-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_motor/Low_drone_engine_hum_2745-preview.mp3"
+   },
+   {
+    "titulo": "Motorcycle engine doing gearshift",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2725/2725-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_motor/Motorcycle_engine_doing_gearshift_2725-preview.mp3"
+   },
+   {
+    "titulo": "Drone terror ambience",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2749/2749-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_motor/Drone_terror_ambience_2749-preview.mp3"
+   },
+   {
+    "titulo": "Tech weird glitch",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2685/2685-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_motor/Tech_weird_glitch_2685-preview.mp3"
+   },
+   {
+    "titulo": "Racing motorcycle speeding up",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2724/2724-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_motor/Racing_motorcycle_speeding_up_2724-preview.mp3"
+   }
+  ],
+  "mn_mk_eat": [
+   {
+    "titulo": "Chewing something crunchy",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2244/2244-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_eat/Chewing_something_crunchy_2244-preview.mp3"
+   },
+   {
+    "titulo": "Eating crunchy food with mouth open",
+    "url": "https://assets.mixkit.co/active_storage/sfx/120/120-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_eat/Eating_crunchy_food_with_mouth_open_120-preview.mp3"
+   },
+   {
+    "titulo": "Eating crispy cookies",
+    "url": "https://assets.mixkit.co/active_storage/sfx/122/122-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_eat/Eating_crispy_cookies_122-preview.mp3"
+   },
+   {
+    "titulo": "Animal eating juicy meat",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2246/2246-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_eat/Animal_eating_juicy_meat_2246-preview.mp3"
+   },
+   {
+    "titulo": "Human eating a potato chip",
+    "url": "https://assets.mixkit.co/active_storage/sfx/131/131-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_eat/Human_eating_a_potato_chip_131-preview.mp3"
+   },
+   {
+    "titulo": "Hungry man eating",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2252/2252-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_eat/Hungry_man_eating_2252-preview.mp3"
+   },
+   {
+    "titulo": "Human male enjoy humm",
+    "url": "https://assets.mixkit.co/active_storage/sfx/129/129-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_eat/Human_male_enjoy_humm_129-preview.mp3"
+   },
+   {
+    "titulo": "Animal eating herb",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2241/2241-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_eat/Animal_eating_herb_2241-preview.mp3"
+   },
+   {
+    "titulo": "Farm pig drinking water",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2242/2242-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_eat/Farm_pig_drinking_water_2242-preview.mp3"
+   },
+   {
+    "titulo": "Human eating dry cereal",
+    "url": "https://assets.mixkit.co/active_storage/sfx/130/130-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mn_mk_eat/Human_eating_dry_cereal_130-preview.mp3"
+   }
+  ]
+ },
+ "commons": {
+  "mn_c_palanca": [],
+  "mn_c_contador": [],
+  "mn_c_motor": [],
+  "mn_c_reloj": [
+   {
+    "titulo": "File:2000 Body's 24 Hour Clock by Bill Nye for National Science Foundation.oga",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/2000_Body%27s_24_Hour_Clock_by_Bill_Nye_for_National_Science_Foundation.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.5,
+    "mime": "application/ogg",
+    "licencia": "Public domain",
+    "autor": "National Science Foundation",
+    "pagina": "https://commons.wikimedia.org/wiki/File:2000_Body%27s_24_Hour_Clock_by_Bill_Nye_for_National_Science_Foundation.oga",
+    "archivo": "sonidos/mn_c_reloj/2000_Body_s_24_Hour_Clock_by_Bill_Nye_for_National_Science_Foundation."
+   },
+   {
+    "titulo": "File:223959 klankbeeld pendulum-slow-ten-o-clock.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/223959_klankbeeld_pendulum-slow-ten-o-clock.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 67.84,
+    "mime": "audio/wav",
+    "licencia": "CC BY 4.0",
+    "autor": "klankbeeld",
+    "pagina": "https://commons.wikimedia.org/wiki/File:223959_klankbeeld_pendulum-slow-ten-o-clock.wav"
+   },
+   {
+    "titulo": "File:Alarm clock ticking.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Alarm_clock_ticking.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.26,
+    "mime": "application/ogg",
+    "licencia": "Public domain",
+    "autor": "ezwa",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Alarm_clock_ticking.ogg",
+    "archivo": "sonidos/mn_c_reloj/Alarm_clock_ticking.ogg"
+   },
+   {
+    "titulo": "File:Alarmclock-mechanical.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Alarmclock-mechanical.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.24,
+    "mime": "application/ogg",
+    "licencia": "CC BY-SA 3.0",
+    "autor": "Dub",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Alarmclock-mechanical.ogg",
+    "archivo": "sonidos/mn_c_reloj/Alarmclock-mechanical.ogg"
+   },
+   {
+    "titulo": "File:Clock ticking.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Clock_ticking.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.48,
+    "mime": "application/ogg",
+    "licencia": "Public domain",
+    "autor": "natalie",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Clock_ticking.ogg",
+    "archivo": "sonidos/mn_c_reloj/Clock_ticking.ogg"
+   },
+   {
+    "titulo": "File:En-au-clock is ticking.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/En-au-clock_is_ticking.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.03,
+    "mime": "application/ogg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Commander Keane",
+    "pagina": "https://commons.wikimedia.org/wiki/File:En-au-clock_is_ticking.ogg",
+    "archivo": "sonidos/mn_c_reloj/En-au-clock_is_ticking.ogg"
+   },
+   {
+    "titulo": "File:Grandfather Clock Ticking.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Grandfather_Clock_Ticking.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.29,
+    "mime": "application/ogg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Jud McCranie",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Grandfather_Clock_Ticking.ogg",
+    "archivo": "sonidos/mn_c_reloj/Grandfather_Clock_Ticking.ogg"
+   },
+   {
+    "titulo": "File:LA2 kitchen clock.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/LA2_kitchen_clock.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.26,
+    "mime": "application/ogg",
+    "licencia": "Public domain",
+    "autor": "LA2",
+    "pagina": "https://commons.wikimedia.org/wiki/File:LA2_kitchen_clock.ogg",
+    "archivo": "sonidos/mn_c_reloj/LA2_kitchen_clock.ogg"
+   },
+   {
+    "titulo": "File:RAVAG-Pausenzeichen.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/RAVAG-Pausenzeichen.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.31,
+    "mime": "application/ogg",
+    "licencia": "Public domain",
+    "autor": "none",
+    "pagina": "https://commons.wikimedia.org/wiki/File:RAVAG-Pausenzeichen.ogg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Tick2.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Tick2.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 2.89,
+    "mime": "application/ogg",
+    "licencia": "CC0",
+    "autor": "Marble Toast",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Tick2.ogg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:WWS Alarmclockticking.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/WWS_Alarmclockticking.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.5,
+    "mime": "application/ogg",
+    "licencia": "CC BY 4.0",
+    "autor": "Work With Sounds / Technical Museum of Slovenia",
+    "pagina": "https://commons.wikimedia.org/wiki/File:WWS_Alarmclockticking.ogg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:WWS Wallclockwithweightticking.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/WWS_Wallclockwithweightticking.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.43,
+    "mime": "application/ogg",
+    "licencia": "CC BY 4.0",
+    "autor": "Work With Sounds / Technical Museum of Slovenia",
+    "pagina": "https://commons.wikimedia.org/wiki/File:WWS_Wallclockwithweightticking.ogg",
+    "archivo": "sonidos/mn_c_reloj/WWS_Wallclockwithweightticking.ogg"
+   }
+  ],
+  "mn_c_gota": [],
+  "mn_c_mordida": [],
+  "mn_c_mono": [
+   {
+    "titulo": "File:De-Rhesusaffe.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/De-Rhesusaffe.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.02,
+    "mime": "application/ogg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Jeuwre",
+    "pagina": "https://commons.wikimedia.org/wiki/File:De-Rhesusaffe.ogg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:En-Rhesus.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/En-Rhesus.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.04,
+    "mime": "application/ogg",
+    "licencia": "CC0",
+    "autor": "GogaAbdulazeez",
+    "pagina": "https://commons.wikimedia.org/wiki/File:En-Rhesus.ogg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:LL-Q150 (fra)-WikiLucas00-rhésus.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/LL-Q150_%28fra%29-WikiLucas00-rh%C3%A9sus.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.1,
+    "mime": "audio/wav",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Speaker: WikiLucas00\nRecorder: WikiLucas00",
+    "pagina": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-rh%C3%A9sus.wav",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:LL-Q1860 (eng)-Vealhurl-rhesus.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/LL-Q1860_%28eng%29-Vealhurl-rhesus.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.1,
+    "mime": "audio/wav",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Speaker: Vealhurl\nRecorder: Vealhurl",
+    "pagina": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Vealhurl-rhesus.wav",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:LL-Q1860 (eng)-Vealhurl-rhesus macaque.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/LL-Q1860_%28eng%29-Vealhurl-rhesus_macaque.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.12,
+    "mime": "audio/wav",
+    "licencia": "CC0",
+    "autor": "Speaker: Vealhurl\nRecorder: Vealhurl",
+    "pagina": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Vealhurl-rhesus_macaque.wav",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   }
+  ],
+  "mn_c_latido": [
+   {
+    "titulo": "File:Athletic bradycardia wav.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Athletic_bradycardia_wav.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 1.84,
+    "mime": "audio/wav",
+    "licencia": "CC0",
+    "autor": "Athletearrhythmia",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Athletic_bradycardia_wav.wav",
+    "archivo": "sonidos/mn_c_latido/Athletic_bradycardia_wav.wav"
+   },
+   {
+    "titulo": "File:Fetal doppler recording heartbeat and movement.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Fetal_doppler_recording_heartbeat_and_movement.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.31,
+    "mime": "application/ogg",
+    "licencia": "CC BY-SA 3.0",
+    "autor": "Cannona",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Fetal_doppler_recording_heartbeat_and_movement.ogg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Heartbeat after breathholds.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Heartbeat_after_breathholds.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 51.99,
+    "mime": "audio/wav",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Alexander Rahm",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Heartbeat_after_breathholds.wav"
+   },
+   {
+    "titulo": "File:Heartbeat after pressure at pulmonary valve.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Heartbeat_after_pressure_at_pulmonary_valve.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 12.19,
+    "mime": "audio/wav",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Alexander Rahm",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Heartbeat_after_pressure_at_pulmonary_valve.wav"
+   },
+   {
+    "titulo": "File:Heartbeat mitral valve 150 bpm.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Heartbeat_mitral_valve_150_bpm.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.08,
+    "mime": "application/ogg",
+    "licencia": "Public domain",
+    "autor": "ezwa",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Heartbeat_mitral_valve_150_bpm.ogg",
+    "archivo": "sonidos/mn_c_latido/Heartbeat_mitral_valve_150_bpm.ogg"
+   },
+   {
+    "titulo": "File:Heartbeat speedsup.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Heartbeat_speedsup.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.4,
+    "mime": "audio/wav",
+    "licencia": "CC BY 4.0",
+    "autor": "Bob Smaude",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Heartbeat_speedsup.wav",
+    "archivo": "sonidos/mn_c_latido/Heartbeat_speedsup.wav"
+   },
+   {
+    "titulo": "File:Heartbeat under pressure at mitral point.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Heartbeat_under_pressure_at_mitral_point.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 18.7,
+    "mime": "audio/wav",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Alexander Rahm",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Heartbeat_under_pressure_at_mitral_point.wav"
+   },
+   {
+    "titulo": "File:In a Heartbeat (ISRC USUAN1100197).mp3",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/In_a_Heartbeat_%28ISRC_USUAN1100197%29.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 8.42,
+    "mime": "audio/mpeg",
+    "licencia": "CC BY 3.0",
+    "autor": "Kevin MacLeod",
+    "pagina": "https://commons.wikimedia.org/wiki/File:In_a_Heartbeat_(ISRC_USUAN1100197).mp3"
+   },
+   {
+    "titulo": "File:Laura's heartbeat after exercise.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Laura%27s_heartbeat_after_exercise.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 1.69,
+    "mime": "audio/wav",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "EmilyHopeS",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Laura%27s_heartbeat_after_exercise.wav",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Laura's heartbeat after exercise 2.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Laura%27s_heartbeat_after_exercise_2.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 4.52,
+    "mime": "audio/wav",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "EmilyHopeS",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Laura%27s_heartbeat_after_exercise_2.wav"
+   },
+   {
+    "titulo": "File:Laura's heartbeat after exercise 3.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Laura%27s_heartbeat_after_exercise_3.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 2.28,
+    "mime": "audio/wav",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "EmilyHopeS",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Laura%27s_heartbeat_after_exercise_3.wav",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Todd Rokita on the Heartbeat Protection Act.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Todd_Rokita_on_the_Heartbeat_Protection_Act.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 1.55,
+    "mime": "application/ogg",
+    "licencia": "Public domain",
+    "autor": "C-SPAN",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Todd_Rokita_on_the_Heartbeat_Protection_Act.ogg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   }
+  ]
+ }
+}
