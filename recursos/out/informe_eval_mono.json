@@ -7,7 +7,7 @@
     "salida": "transcripcion_eval_mono.json",
     "modelo": "small"
    },
-   "error": "ModuleNotFoundError(\"No module named 'faster_whisper'\")"
+   "error": "CalledProcessError(1, ['/usr/bin/python3', '-c', \"import json,sys\\nfrom faster_whisper import WhisperModel\\nm=WhisperModel('small',device='cpu',compute_type='int8')\\nsegs,info=m.transcribe('recursos/entrada/eval_mono.mp3',language='es')\\nout=[dict(ini=round(s.start,2),fin=round(s.end,2),texto=s.text"
   }
  ],
  "saltados": []
