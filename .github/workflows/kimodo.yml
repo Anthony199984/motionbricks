@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+defaults:
+  run:
+    shell: bash -eo pipefail {0}
+
 jobs:
   generate:
     runs-on: ubuntu-24.04
@@ -21,17 +25,20 @@ jobs:
 
       - name: Liberar disco
         run: |
+          exec > >(tee -a "$GITHUB_WORKSPACE/kimodo_log.txt") 2>&1; date
           sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL || true
           df -h /
 
       - name: Descargar kimodo.cpp
         run: |
+          exec > >(tee -a "$GITHUB_WORKSPACE/kimodo_log.txt") 2>&1; date
           git clone https://github.com/localai-org/kimodo.cpp kcpp
           cd kcpp && git checkout ed8a931aedb132f768190f6931c365855caba74c
           git submodule update --init --recursive
 
       - name: Compilar (CPU)
         run: |
+          exec > >(tee -a "$GITHUB_WORKSPACE/kimodo_log.txt") 2>&1; date
           sudo apt-get update -qq && sudo apt-get install -y -qq ninja-build g++-14
           cd kcpp
           cmake -B build -G Ninja -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_COMPILER=g++-14 -DCMAKE_C_COMPILER=gcc-14 \
@@ -49,12 +56,14 @@ jobs:
       - name: Descargar pesos
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
+          exec > >(tee -a "$GITHUB_WORKSPACE/kimodo_log.txt") 2>&1; date
           pip install -q "huggingface_hub[cli]"
           bash kcpp/scripts/download_gguf_weights.sh --output "$PWD/weights" --model soma-rp-v1.1 --text-quantization q8_0
           du -sh weights; find weights -name "*.gguf" -exec ls -la {} \;
 
       - name: Generar animaciones
         run: |
+          exec > >(tee -a "$GITHUB_WORKSPACE/kimodo_log.txt") 2>&1; date
           GEN=$(find kcpp/build -name kmd-generate -type f | head -1)
           TEXT=$(find weights -name "Llama-3-Kimodo-Q8_0.gguf" | head -1)
           MOTION=$(find weights -name "kimodo-soma-rp-v1.1-f32.gguf" | head -1)
@@ -64,7 +73,7 @@ jobs:
       - name: Guardar resultados en el repositorio
         if: always()
         run: |
-          mkdir -p kimodo_out && cp -r out/. kimodo_out/ 2>/dev/null || true
+          mkdir -p kimodo_out && cp -r out/. kimodo_out/ 2>/dev/null || true; cp kimodo_log.txt kimodo_out/ 2>/dev/null || true
           git config user.name "kimodo-bot"; git config user.email "actions@users.noreply.github.com"
           git add kimodo_out
           git commit -m "Resultados Kimodo [skip ci]" || echo "nada que guardar"
