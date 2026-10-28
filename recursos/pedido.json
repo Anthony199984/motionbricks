@@ -1,110 +1,76 @@
 {
  "catalogo": false,
- "polyhaven": [
+ "informe": "informe_busqueda1.json",
+ "sketchfab_buscar": [
   {
-   "id": "red_wall",
-   "res": "2k"
+   "clave": "perro_pastor",
+   "q": "german shepherd dog",
+   "animado": true
   },
   {
-   "id": "german_town_street",
-   "res": "2k"
+   "clave": "perro_pastor_b",
+   "q": "german shepherd",
+   "animado": false
   },
   {
-   "id": "tears_of_steel_bridge",
-   "res": "2k"
+   "clave": "murcielago",
+   "q": "bat flying",
+   "animado": true
   },
   {
-   "id": "brick_wall_02",
-   "res": "1k"
+   "clave": "mosca",
+   "q": "housefly fly insect",
+   "animado": false
   },
   {
-   "id": "brick_wall_10",
-   "res": "1k"
+   "clave": "mosca_anim",
+   "q": "fly insect",
+   "animado": true
   },
   {
-   "id": "red_brick_03",
-   "res": "1k"
+   "clave": "paloma",
+   "q": "pigeon",
+   "animado": true
   },
   {
-   "id": "asphalt_02",
-   "res": "1k"
+   "clave": "paloma_b",
+   "q": "pigeon bird",
+   "animado": false
   },
   {
-   "id": "brick_pavement_02",
-   "res": "1k"
+   "clave": "donas",
+   "q": "donut",
+   "animado": false
   },
   {
-   "id": "concrete_pavers",
-   "res": "1k"
+   "clave": "donas_b",
+   "q": "doughnut glazed",
+   "animado": false
   },
   {
-   "id": "blue_plaster_wall",
-   "res": "1k"
+   "clave": "vaso_cafe",
+   "q": "coffee cup takeaway paper",
+   "animado": false
   },
   {
-   "id": "oak_veneer_01",
-   "res": "1k"
+   "clave": "vaso_cafe_b",
+   "q": "paper coffee cup lid",
+   "animado": false
   },
   {
-   "id": "street_lamp_01",
-   "res": "1k"
+   "clave": "arbol_otono",
+   "q": "autumn tree",
+   "animado": false
   },
   {
-   "id": "street_lamp_02",
-   "res": "1k"
+   "clave": "arbol_otono_b",
+   "q": "tree low poly realistic",
+   "animado": false
   },
   {
-   "id": "outdoor_table_chair_set_01",
-   "res": "1k"
-  },
-  {
-   "id": "bar_chair_round_01",
-   "res": "1k"
-  },
-  {
-   "id": "metal_stool_02",
-   "res": "1k"
-  },
-  {
-   "id": "fire_hydrant",
-   "res": "1k"
-  },
-  {
-   "id": "metal_trash_can",
-   "res": "1k"
-  },
-  {
-   "id": "CoffeeCart_01",
-   "res": "1k"
-  },
-  {
-   "id": "croissant",
-   "res": "1k"
-  },
-  {
-   "id": "strawberry_chocolate_cake",
-   "res": "1k"
-  },
-  {
-   "id": "carrot_cake",
-   "res": "1k"
-  },
-  {
-   "id": "modular_street_seating",
-   "res": "1k"
-  },
-  {
-   "id": "potted_plant_01",
-   "res": "1k"
-  },
-  {
-   "id": "potted_plant_02",
-   "res": "1k"
-  },
-  {
-   "id": "planter_box_01",
-   "res": "1k"
+   "clave": "arbol_calle",
+   "q": "street tree",
+   "animado": false
   }
- ],
- "urls": []
+ ]
 }
