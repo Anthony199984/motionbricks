@@ -1,16 +1,10 @@
 {
- "total_seconds": 370.4,
+ "total_seconds": 185.7,
  "jobs": [
   {
-   "name": "sv01_sostener_vaso_a",
+   "name": "sv11b_barriga_a",
    "response": "OK\t90\t30",
-   "seconds": 184.1,
-   "frames": 90
-  },
-  {
-   "name": "sv14_agacharse_recoger_a",
-   "response": "OK\t90\t30",
-   "seconds": 186.2,
+   "seconds": 185.6,
    "frames": 90
   }
  ]
