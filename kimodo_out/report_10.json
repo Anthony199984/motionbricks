@@ -1,17 +1,11 @@
 {
- "total_seconds": 554.0,
+ "total_seconds": 138.8,
  "jobs": [
   {
-   "name": "g06_asentir_a",
-   "response": "OK\t75\t30",
-   "seconds": 261.5,
-   "frames": 75
-  },
-  {
-   "name": "g16_espera_respirando_a",
-   "response": "OK\t90\t30",
-   "seconds": 292.4,
-   "frames": 90
+   "name": "sv08_correr_potente_a",
+   "response": "OK\t120\t30",
+   "seconds": 138.7,
+   "frames": 120
   }
  ]
 }
