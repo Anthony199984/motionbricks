@@ -1,23 +1,11 @@
 {
- "total_seconds": 826.2,
+ "total_seconds": 210.5,
  "jobs": [
   {
-   "name": "g01_rascarse_cabeza_confundido_b",
+   "name": "g10_mano_en_la_cara_d",
    "response": "OK\t90\t30",
-   "seconds": 335.4,
+   "seconds": 210.5,
    "frames": 90
-  },
-  {
-   "name": "g11_mirar_alrededor_nervioso_b",
-   "response": "OK\t90\t30",
-   "seconds": 335.7,
-   "frames": 90
-  },
-  {
-   "name": "t50_g12_aplaudir",
-   "response": "OK\t75\t30",
-   "seconds": 155.1,
-   "frames": 75
   }
  ]
 }
