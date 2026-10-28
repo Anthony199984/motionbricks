@@ -1,205 +1,94 @@
 {
  "catalogo": false,
- "informe": "informe_velocidad_v6_busqueda.json",
- "freesound_buscar": [
+ "informe": "informe_velocidad_v6_modelos.json",
+ "objaverse": [
   {
-   "clave": "fs_bat_wings",
-   "q": "bat wings flapping",
-   "max": 6
+   "uid": "b4cc15417d58445ebb698229d6161e61",
+   "nombre": "hamburguesa_real",
+   "titulo": "HAMBURGER",
+   "autor": "rodrigogelmi",
+   "licencia": "CC Attribution",
+   "caras": 71181
   },
   {
-   "clave": "fs_bat_call",
-   "q": "bat call",
-   "max": 6
+   "uid": "7de0fd39416e4910a28fc23d3c887d53",
+   "nombre": "pizza_rebanada",
+   "titulo": "Pizza Slice - Optimized",
+   "autor": "polarathene",
+   "licencia": "CC Attribution",
+   "caras": 17648
   },
   {
-   "clave": "fs_fly",
-   "q": "housefly buzzing",
-   "max": 6
+   "uid": "bef5383eb98b48528b2d82d8887b5bb4",
+   "nombre": "papas_y_refresco",
+   "titulo": "French Fries - FREE",
+   "autor": "Devden",
+   "licencia": "CC Attribution",
+   "caras": 5416
   },
   {
-   "clave": "fs_pasos_correr",
-   "q": "running footsteps concrete sneakers",
-   "max": 6
+   "uid": "6e922d8eed31401db5b179bfd1e68c55",
+   "nombre": "menu_comida_rapida",
+   "titulo": "Mcdonald menu",
+   "autor": "adresen",
+   "licencia": "CC Attribution",
+   "caras": 128618
   },
   {
-   "clave": "fs_pasos_correr2",
-   "q": "footsteps running pavement",
-   "max": 6
+   "uid": "e0a7acc2ec9f459a8cfe94f461a077ce",
+   "nombre": "papas_bandeja",
+   "titulo": "Francesinha",
+   "autor": "shahriyarshahrabi",
+   "licencia": "CC Attribution",
+   "caras": 149950
   },
   {
-   "clave": "fs_concreto",
-   "q": "concrete crack break impact",
-   "max": 6
+   "uid": "5e9898a1ac2048d89fbcdfdb55f8c6b0",
+   "nombre": "maniqui_mujer",
+   "titulo": "Mannequin Female",
+   "autor": "sketchpunk",
+   "licencia": "CC Attribution",
+   "caras": 30350
   },
   {
-   "clave": "fs_escombros",
-   "q": "rubble debris falling",
-   "max": 6
+   "uid": "08eadd84d8584641852295c6fd7c9c4a",
+   "nombre": "maniqui_vestido",
+   "titulo": "G2F Dress Mannequin",
+   "autor": "suparioamateur",
+   "licencia": "CC Attribution-NonCommercial-ShareAlike",
+   "caras": 79772
   },
   {
-   "clave": "fs_vidrio",
-   "q": "window glass shatter",
-   "max": 6
+   "uid": "775375ae59be45dc9d7dcde1bc87a07f",
+   "nombre": "perchero_ropa",
+   "titulo": "clothing-rack",
+   "autor": "Sflex",
+   "licencia": "CC Attribution",
+   "caras": 14212
   },
   {
-   "clave": "fs_vidrio2",
-   "q": "glass breaking large",
-   "max": 6
+   "uid": "4aeb9d62cde942a9804172af11321d2c",
+   "nombre": "estante_tienda",
+   "titulo": "Store Wall Shelving",
+   "autor": "jimbogies",
+   "licencia": "CC Attribution",
+   "caras": 16112
   },
   {
-   "clave": "fs_whoosh",
-   "q": "whoosh pass by fast",
-   "max": 6
+   "uid": "6hiH0iyDqXqtdD9wbqSbyLLhKmz",
+   "nombre": "camisa_corta",
+   "titulo": "FREE GMC Motorhome reimagined low poly",
+   "autor": "lionsharp",
+   "licencia": "CC Attribution",
+   "caras": 43401
   },
   {
-   "clave": "fs_sonic",
-   "q": "sonic boom",
-   "max": 6
-  },
-  {
-   "clave": "fs_viento",
-   "q": "strong wind gust",
-   "max": 6
-  },
-  {
-   "clave": "fs_derrape",
-   "q": "shoe skid squeak",
-   "max": 6
-  },
-  {
-   "clave": "fs_frenazo",
-   "q": "sliding stop gravel feet",
-   "max": 6
-  },
-  {
-   "clave": "fs_comer",
-   "q": "eating crunchy chewing",
-   "max": 6
-  },
-  {
-   "clave": "fs_perro",
-   "q": "dog bark",
-   "max": 6
-  },
-  {
-   "clave": "fs_latido",
-   "q": "heartbeat",
-   "max": 6
-  },
-  {
-   "clave": "fs_reloj",
-   "q": "clock ticking",
-   "max": 6
-  },
-  {
-   "clave": "fs_calle",
-   "q": "city street ambience",
-   "max": 6
-  },
-  {
-   "clave": "fs_explosion_aire",
-   "q": "air blast shockwave",
-   "max": 6
-  },
-  {
-   "clave": "fs_tela",
-   "q": "clothes flapping wind",
-   "max": 6
-  },
-  {
-   "clave": "fs_cafe",
-   "q": "liquid splash small",
-   "max": 6
-  },
-  {
-   "clave": "fs_atrapar",
-   "q": "catch paper cup",
-   "max": 6
-  }
- ],
- "sketchfab_buscar": [
-  {
-   "clave": "hamburguesa",
-   "q": "hamburger",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 16
-  },
-  {
-   "clave": "pizza",
-   "q": "pizza slice",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 16
-  },
-  {
-   "clave": "refresco",
-   "q": "soda cup straw",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 16
-  },
-  {
-   "clave": "papas",
-   "q": "french fries",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 16
-  },
-  {
-   "clave": "hotdog",
-   "q": "hot dog",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 16
-  },
-  {
-   "clave": "maniqui",
-   "q": "mannequin",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 16
-  },
-  {
-   "clave": "tienda_ropa",
-   "q": "clothing rack",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 16
-  },
-  {
-   "clave": "estante",
-   "q": "store shelf products",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 16
-  },
-  {
-   "clave": "tienda",
-   "q": "shop interior",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 16
-  },
-  {
-   "clave": "zapatos_tienda",
-   "q": "shoe store display",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 16
-  }
- ],
- "commons_buscar": [
-  {
-   "clave": "cm_bat",
-   "q": "bat echolocation recording",
-   "n": 10
-  },
-  {
-   "clave": "cm_pasos",
-   "q": "running footsteps",
-   "n": 10
+   "uid": "f15037dd5fcd4f09b13fb9f2ce9e21cc",
+   "nombre": "percheros_abrigos",
+   "titulo": "Lamborghini Centenario LP-770 Baby Blue SDC",
+   "autor": "Lambo_SC04",
+   "licencia": "CC Attribution",
+   "caras": 325715
   }
  ]
 }
