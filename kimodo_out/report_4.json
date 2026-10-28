@@ -1,10 +1,10 @@
 {
- "total_seconds": 303.0,
+ "total_seconds": 157.0,
  "jobs": [
   {
    "name": "g20_limpiarse_sudor_frente_c",
    "response": "OK\t75\t30",
-   "seconds": 303.0,
+   "seconds": 157.0,
    "frames": 75
   }
  ]
