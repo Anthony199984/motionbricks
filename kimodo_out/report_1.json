@@ -1,11 +1,11 @@
 {
- "total_seconds": 213.2,
+ "total_seconds": 164.0,
  "jobs": [
   {
-   "name": "sv16_resbalar_fuerte_b",
-   "response": "OK\t120\t30",
-   "seconds": 213.1,
-   "frames": 120
+   "name": "ch01_palanca_una_b",
+   "response": "OK\t150\t30",
+   "seconds": 163.9,
+   "frames": 150
   }
  ]
 }
