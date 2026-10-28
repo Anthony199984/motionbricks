@@ -1,17 +1,11 @@
 {
- "total_seconds": 395.1,
+ "total_seconds": 140.4,
  "jobs": [
   {
-   "name": "g04_encogerse_hombros_a",
-   "response": "OK\t75\t30",
-   "seconds": 198.2,
-   "frames": 75
-  },
-  {
-   "name": "g14_sorpresa_retroceder_a",
-   "response": "OK\t75\t30",
-   "seconds": 196.8,
-   "frames": 75
+   "name": "sv05_mirar_mosca_b",
+   "response": "OK\t120\t30",
+   "seconds": 140.3,
+   "frames": 120
   }
  ]
 }
