@@ -1,0 +1,17 @@
+{
+ "total_seconds": 666.8,
+ "jobs": [
+  {
+   "name": "03b_estirarse",
+   "response": "OK\t105\t30",
+   "seconds": 320.9,
+   "frames": 105
+  },
+  {
+   "name": "05a_correr",
+   "response": "OK\t120\t30",
+   "seconds": 345.8,
+   "frames": 120
+  }
+ ]
+}
