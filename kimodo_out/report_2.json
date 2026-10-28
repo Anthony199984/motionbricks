@@ -1,11 +1,11 @@
 {
- "total_seconds": 175.9,
+ "total_seconds": 210.4,
  "jobs": [
   {
-   "name": "sv10b_mirar_atras_a",
-   "response": "OK\t90\t30",
-   "seconds": 175.8,
-   "frames": 90
+   "name": "mn02_mastica_sonrie",
+   "response": "OK\t120\t30",
+   "seconds": 210.3,
+   "frames": 120
   }
  ]
 }
