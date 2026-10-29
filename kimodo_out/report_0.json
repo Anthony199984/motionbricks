@@ -1,11 +1,11 @@
 {
- "total_seconds": 214.0,
+ "total_seconds": 255.3,
  "jobs": [
   {
-   "name": "cm01_acostado_forcejea_a",
-   "response": "OK\t150\t30",
-   "seconds": 213.8,
-   "frames": 150
+   "name": "g13v2_1a",
+   "response": "OK\t120\t30",
+   "seconds": 255.2,
+   "frames": 120
   }
  ]
 }
