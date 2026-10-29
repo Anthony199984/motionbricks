@@ -1,11 +1,11 @@
 {
- "total_seconds": 179.2,
+ "total_seconds": 248.3,
  "jobs": [
   {
-   "name": "ch06_manotear_a",
-   "response": "OK\t120\t30",
-   "seconds": 179.0,
-   "frames": 120
+   "name": "mq08_espantar_nube_b",
+   "response": "OK\t150\t30",
+   "seconds": 248.2,
+   "frames": 150
   }
  ]
 }
