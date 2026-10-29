@@ -1,10 +1,20 @@
 {
  "catalogo": false,
- "informe": "informe_mono_camilla3.json",
- "objaverse": [
+ "informe": "informe_mono_espacio.json",
+ "commons_buscar": [
   {
-   "uid": "5e0b59240cf54660a585ba38b53af5d2",
-   "nombre": "h_bomba_iv"
+   "clave": "mt_tierra",
+   "q": "Blue Marble NASA Earth from space whole",
+   "n": 12,
+   "tipo": "bitmap",
+   "max_mb": 9
+  },
+  {
+   "clave": "mt_tierra2",
+   "q": "Earth Western Hemisphere Blue Marble 2002",
+   "n": 8,
+   "tipo": "bitmap",
+   "max_mb": 9
   }
  ]
 }

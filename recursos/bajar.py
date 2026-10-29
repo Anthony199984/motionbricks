@@ -125,7 +125,7 @@ def commons_buscar(b):
     """Busca audios en Wikimedia Commons y baja los cortos (licencias libres: CC0, CC BY, CC BY-SA, dominio público)."""
     api = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode({
         "action": "query", "format": "json", "generator": "search", "gsrnamespace": 6, "gsrlimit": b.get("n", 15),
-        "gsrsearch": b["q"] + " filetype:audio", "prop": "imageinfo", "iiprop": "url|size|mime|extmetadata"})
+        "gsrsearch": b["q"] + " filetype:" + b.get("tipo", "audio"), "prop": "imageinfo", "iiprop": "url|size|mime|extmetadata"})
     d = json.loads(leer(api)); out = []
     for pg in (d.get("query", {}).get("pages", {}) or {}).values():
         ii = (pg.get("imageinfo") or [{}])[0]; em = ii.get("extmetadata", {})
@@ -136,7 +136,8 @@ def commons_buscar(b):
             ext = os.path.splitext(urllib.parse.urlparse(c["url"]).path)[1]
             nombre = re.sub(r"[^A-Za-z0-9_.-]+", "_", pg.get("title", "x").replace("File:", ""))[:70]
             try:
-                guardar(c["url"], f"sonidos/{b['clave']}/{nombre}" + ("" if nombre.endswith(ext) else ext)); c["archivo"] = f"sonidos/{b['clave']}/{nombre}"
+                carp = "sonidos" if b.get("tipo", "audio") == "audio" else "texturas"
+                guardar(c["url"], f"{carp}/{b['clave']}/{nombre}" + ("" if nombre.endswith(ext) else ext)); c["archivo"] = f"{carp}/{b['clave']}/{nombre}"
             except Exception as e:                    # noqa: BLE001
                 c["error"] = repr(e)[:100]
         out.append(c)
