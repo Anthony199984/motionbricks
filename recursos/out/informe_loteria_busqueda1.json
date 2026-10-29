@@ -1,0 +1,5842 @@
+{
+ "bajados": [
+  {
+   "destino": "sonidos/s_escaner/Store_Scanner_Beep_by_zerolagtime_144418.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/s_escaner/scanner_beep.wav_by_kalisemorrison_202530.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/s_escaner/Scanner_beeping_sound_by_suhral_347300.mp3",
+   "mb": 0.35
+  },
+  {
+   "destino": "sonidos/s_escaner/Supermarket_Checkout_Line_by_ianslattery_216469.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/s_campanita/shop_door_bell.wav_by_3bagbrew_57743.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/s_campanita/Shop_door_bell.wav_by_775noise_494565.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/s_campanita/sh_shop_door_bell_openclose.wav_by_shall555_72197.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/s_campanita/Shop_Bell_by_NachtmahrTV_556710.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/s_campanita/Ryuuzan_shop_door_bell00.wav_by_ryuuzan_192761.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/s_campanita/7_x27_11_Sliding_Door_by_plasterbrain_399092.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/s_basura/Cardboard_box_small_manipulated_moved_on_surface_9_561498.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/s_basura/DOORMetl_Heavy_door_creaks_open_and_shut_in_open-a_869315.mp3",
+   "mb": 0.34
+  },
+  {
+   "destino": "sonidos/s_basura/junkyard_smash_garbage_move_trash_2_MKH_416_by_Geo_778664.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/s_basura/Rummage_through_trash_angry.wav_by_bodallasfan888_682459.mp3",
+   "mb": 0.24
+  },
+  {
+   "destino": "sonidos/s_firma/Hyacinthe_ball_point_pen_signature_writing_hard_su_557344.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/s_firma/pen-signature.wav_by_deameon1427_173081.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/s_firma/pen_writing.wav_by_braffe2_83746.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/s_firma/01322_writing_signature_1.wav_by_Robinhood76_82498.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/s_firma/pen_writing.wav_by_Mikes-MultiMedia_349703.mp3",
+   "mb": 0.26
+  },
+  {
+   "destino": "sonidos/s_firma/PEN_SIGNATURE_SIGNING_2.wav_by_ListenTonyBoy_326961.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/s_fuegos/fireworks_medium_slapback_echo_reflection4_Montrea_453116.mp3",
+   "mb": 0.24
+  },
+  {
+   "destino": "sonidos/s_fuegos/Fireworks_3_by_JacksonML_434205.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/s_fuegos/fireworks_at_international_fireworks_competition_b_582216.mp3",
+   "mb": 0.32
+  },
+  {
+   "destino": "sonidos/s_fuegos/161112_02_distant_fireworks2.wav_by_AlienXXX_368417.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/s_fuegos/fireworks_far_101_AM_260101_0061_by_klankbeeld_844150.mp3",
+   "mb": 0.41
+  },
+  {
+   "destino": "sonidos/s_fuegos/spinner_fireworks_mkh3040_061105.wav_by_ermine_25778.mp3",
+   "mb": 0.29
+  },
+  {
+   "destino": "sonidos/s_motor/Small_Motorbike_Passing_By_by_IENBA_828204.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/s_motor/car_passing_behind_house_0819_220804_0475.wav_by_k_671986.mp3",
+   "mb": 0.39
+  },
+  {
+   "destino": "sonidos/s_motor/TwoCars.wav_by_kwahmah_02_262898.mp3",
+   "mb": 0.33
+  },
+  {
+   "destino": "sonidos/s_motor/racingcarV.wav_by_Tito_Lahaye_319393.mp3",
+   "mb": 0.28
+  },
+  {
+   "destino": "sonidos/s_motor/Volkswagen_passing_by_by_chiliwau_772240.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/s_motor/ulice_klidna_kroky_prujezd_auto_rychlejsi_MS.wav_b_621087.mp3",
+   "mb": 0.41
+  },
+  {
+   "destino": "sonidos/s_tictac/Ticking_Smiths_car_clock_by_nightcustard_675681.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/s_tictac/ClockTicks.wav_by_daveincamas_27077.mp3",
+   "mb": 0.4
+  },
+  {
+   "destino": "sonidos/s_tictac/Old_clock_ticking_by_giddster_414469.mp3",
+   "mb": 0.28
+  },
+  {
+   "destino": "sonidos/s_tictac/Old_Scots_Clock_-_Ticking.wav_by_fauxpress_42139.mp3",
+   "mb": 0.21
+  },
+  {
+   "destino": "sonidos/s_tictac/MantelClockTicks.wav_by_daveincamas_27086.mp3",
+   "mb": 0.33
+  },
+  {
+   "destino": "sonidos/s_tictac/Clock_Ticks_Loopable_by_se2001_511967.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/s_puerta/open_close_door_10m_150903_0759_ST.wav_by_klankbee_565187.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/s_puerta/Opening_closing_bedroom1_door.wav_by_WaveAdventure_182035.mp3",
+   "mb": 0.43
+  },
+  {
+   "destino": "sonidos/s_puerta/heavy_door_open_close_outside_to_inside.wav_by_igg_673236.mp3",
+   "mb": 0.32
+  },
+  {
+   "destino": "sonidos/s_puerta/FX_SaSc_Door_13_Old_Wood_Apartment_Livingroom_Ratt_583238.mp3",
+   "mb": 0.27
+  },
+  {
+   "destino": "sonidos/s_puerta/Wardrobe_Sliding_Door_open_close_Slow_metal_006.ai_208722.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/s_puerta/Open_then_close_squeaky_door.wav_by_CastIronCarous_216874.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/s_esposas/Handcuff_clicks.wav_by_Timbre_100211.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/s_esposas/Locking_Handcuffs.wav_by_ScottHurly_366563.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/s_esposas/Handcuffs_Closing_by_Fissile_764388.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/s_esposas/zaklapnut_pout_by_JIRI_PICHL_740454.mp3",
+   "mb": 0.33
+  },
+  {
+   "destino": "sonidos/s_esposas/Deep_Fried_Siren_by_zeigle_656966.mp3",
+   "mb": 0.23
+  },
+  {
+   "destino": "sonidos/s_esposas/police_siren.wav_by_vlammenos_52906.mp3",
+   "mb": 0.55
+  },
+  {
+   "destino": "sonidos/s_polaroid/Polaroid_Camera_Shutter_by_StevenMyat__676387.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/s_polaroid/COMCam-Blue_Snowball_Microphone_CU_Polaroid_Camera_805373.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/s_polaroid/Polaroid_Spirit_600_quot_Shutter_quot_WAV_by_James_151800.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/s_polaroid/Polaroid_Camera.wav_by_Riaan3ignite_543087.mp3",
+   "mb": 0.24
+  },
+  {
+   "destino": "sonidos/s_polaroid/Polaroid_Camera_Shot.wav_by_paultherocker3000_366496.mp3",
+   "mb": 0.3
+  },
+  {
+   "destino": "sonidos/s_polaroid/taking_a_Polaroid_photo_by_larspriebe_444682.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/s_imprenta/printer_printing.wav_by_hdrck16_135009.mp3",
+   "mb": 0.35
+  },
+  {
+   "destino": "sonidos/s_imprenta/Printer_printing_paper_OWI.wav_by_JaredPaulOW_595071.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/s_imprenta/Inkjet_Printer_Printing_at_Normal_Speed_by_KLEBER__529987.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/s_imprenta/printer_printing_one_page_by_locedo3137_827486.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/s_imprenta/Printer_Printing_Office_Sounds_by_deleted_user_714_383879.mp3",
+   "mb": 0.29
+  },
+  {
+   "destino": "sonidos/s_imprenta/Printer_Printing.wav_by_Jeanet_Henning_328906.mp3",
+   "mb": 0.39
+  },
+  {
+   "destino": "sonidos/s_pasos/Footsteps_Mountain_Boots_Rock_Run_Sequence_Mono.wa_558471.mp3",
+   "mb": 0.41
+  },
+  {
+   "destino": "sonidos/s_pasos/Footsteps_while_running_on_wood_by_florianreichelt_459965.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/s_pasos/Footsteps_Running_On_Stairs.wav_by_theplax_547385.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/s_pasos/Running_footsteps_on_wood.WAV_by_thomasanthony321_682772.mp3",
+   "mb": 0.32
+  },
+  {
+   "destino": "sonidos/s_pasos/Cartoon_Running_Footsteps_by_qubodup_219556.mp3",
+   "mb": 0.28
+  },
+  {
+   "destino": "sonidos/s_pasos/Running_Footsteps.wav_by_Nitromonkey101_689180.mp3",
+   "mb": 0.3
+  },
+  {
+   "destino": "sonidos/s_aplauso/Small_applause_by_Breviceps_462362.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/s_aplauso/Applause_1.mp3_by_bowlingballout_481646.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/s_aplauso/smallAudienceLaughsThenClaps.wav_by_oniwe_32868.mp3",
+   "mb": 0.34
+  },
+  {
+   "destino": "sonidos/s_aplauso/Small_Crowd_Applause_by_miuziqa_858309.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/s_aplauso/Light_slow_uncomfortable_clapping_by_TurboFool_561020.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/s_aplauso/small_crowd_cheering_and_clapping_3.aif_by_Tomlija_100904.mp3",
+   "mb": 0.35
+  },
+  {
+   "destino": "miniaturas/escaner/88317b5bfc0b4c14a5004c6d109c815b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/esposas/896c8ac4c8304e2b9de8716400463d39.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/esposas/fc1339e225b7408caec82681be2746c5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/esposas/2dd23f53a90f45088a4521bdfb150a7b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/esposas/bd481fe4f5eb44ad9f9f64786ae7f56f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/esposas/29c9de709fa042c4b92ee6dac0e0adb1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/esposas/7c7780bc2c0345fc8b09f28865d78218.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/esposas/a208763e2eba4de4ace12977843313e4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/esposas/3c705cd9cd0b436dbc2987fac27af7aa.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/esposas/0efbe9209268499caddeaf8f0c4ae853.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/esposas/8bdbe3dbca7b49b488026595937f5009.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/esposas/ffda7dd42cc4465c8f5211f7c0ce5acd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/esposas/7a5897bc1b3a40b29b25b010cfa8d4f0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/esposas/3586c8adb0fb45fa927b81264c8e8d1c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/esposas/3fd2e262e37b4872867c543433e69269.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/placa/283ad36c25c7438299922707fc17690e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/placa/3a9880373b4d494a8e9b76f6ac1cce45.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/placa/39eaa5f15fd6467d9991f16936e5b01c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/placa/af0d2503545a4b3fa0fb443304da0939.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/placa/7df906184d214602b6a62305a30f9a14.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/placa/2b9aca9f99d8495bbb11ed26f42c1a61.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/placa/6d9c7ce385034f7a8a315528b18c61aa.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/8e920e8b129842718099a3f772cec024.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/174a3fc826414bfc9693d9b00f43fe57.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/2e964ac0242e4b1789adfd9549c653dc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/reloj_pared/07859442442f4d24995ab93e1533106f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/634a04c45ef04bc68c5240ae265f8537.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/143e8602ebc84f88b08f63f6b1fb4cf6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/9bd21849d1d04837b4a317d1d5ac6a9e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/reloj_pared/2533ef500ece4fcc804872c706df036b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/0860a86d4d644b2184e301bab28b5267.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/reloj_pared/ef8e6a7a1adc4f659ffdd20495b72056.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/459dc1bd4a904836b12856659841183b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/8c95c5e879f24f8294d9c8c25804ab95.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/b622c0b530fe4257ae0f1b91d80fe055.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/29f2859da57b491dbca907164a8014f0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/d297d2136d8340dda88086bce6af5905.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/reloj_pared/ca8b97fcac68457c96a891ff2ac3670e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/reloj_pared/2c759000b56347bdb5adf8ce83eeada1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/ba594695a3ef4032980a75d21174600c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/cf3b899186a6403a8b694e894931885a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/9c3ab906c6af4abbb4af600ba6466dfd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/29a3f59a59204285b745f8acc8e09a19.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/reloj_pared/16781ab16ccf4bdf872cdc00fa612485.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/reloj_pared/4e3c07e44550443388abd3e0e7bb8d64.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/reloj_pared/41f3f411c9a245aaa5ff2ed8fae0f6ad.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/09101179ca374ecb8d1dfae7c13d0dd6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/a9f4d19a7ee84db794a5e7528df6f142.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/ca69fdd81e634048b77932b4851115bc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/255ba21a6789455bbd780e5912367be3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/76d3050b6c2646278feaa28007d180cb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/ca13bdd67bb14e0a9f9579ae3152d1d3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/392270b6df534e7f84669a1dfaab459d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/boligrafo/202a0bed656f4ad291d58e936e3161a0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/80c7b553985347adafe784cd6166b3c5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/5727def143fd4e28bd885b49ee6e929e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/boligrafo/968c587c84734a14b441b0dfe36d458c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/8760a14500c7487d82790f18fe5c5540.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/1d0ea7244b9045919d22fdc14024b4e7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/79d6b48df96f4e79af0bf879b4831727.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/100aba3dbb124819aded5be4ecbf978f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/2ba5faad749b4d8a89572611e6788cb9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/1c199b97bd5a4af9b416bc7a2d0441ce.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/ab39152e6e144adb8186a1e603b97717.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/boligrafo/12d0c9bd14c4441cb97533a752f3521e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/f206c6292a0e44c3a6f374124b592b78.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/c210364d40554146b5d619d64c29c251.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/41cf506d123d4907be05a225ceb08bd9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/4ee125a2ab7b4df1acd469212d33be88.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/boligrafo/ca62678728d04773b7056ca664d6084e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/yate/ce4d6915e1d041459e08f2d8da521e86.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/yate/248adfea566f4b29b4b2fae772a588c9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/yate/0dd451f295d049cea20c17d3ffa87ee3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/yate/0c121fdfa4f744f9851def9427d372c2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/yate/09a9fc4a0061464fba1bc3ba76848869.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/yate/137498e7aabb47dfaee3fe2652fadefa.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/yate/66c18ecd7a834d4a99dabc46b5ee6e4a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/yate/9832dd05d16e4e0dbdbcd2b1c45563b6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/yate/1f320f9e96cd4a9d961d7b1553a2feed.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/yate/14564c5ec6ee4f11a3ea8e213b981cb1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/yate/17bd8188447b48baab75125b9ad20788.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/yate/751174e48b764e829410cd323144833c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/yate/cb6dee6d3d964b69ba50c95b220e4f9e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/yate/0bdd7a0de7254426890bb5745bb7da6d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/yate/4c903a14567f47fcb9d1bbf3e38ca502.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/yate/21bcd49240a54f2b879dd3f91de4fca3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/yate/655477231d7d4ee7bcac0c1714385dc5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/yate/5c29921a556346f09684eadfbc51a91d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/yate/98aeec3157124afe8ae14d399a6ade0c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/yate/86d6c06d0251403795b843153baa06e5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/yate/f3a335b3e6194aea810608caf32db43c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/yate/8fd630ce74c54fe986a792c3ebb5d57b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/yate/0a09b04cb88941a7ab5f2f95352a2fca.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/yate/b6c410c5fc7044bc93a47ddf978697b0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mansion/e215b6fd60ca48ddabaa77373f35176c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/392fc123a68844779636004af5209e74.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/cf93dfd6da1640f08ebe051ba280426d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/dbb02bf8f5ed4851b05dd97a1784a1fb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/bf38a87d03834065a5f25c29a1cd7273.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mansion/c549d24b60f74d8f85c7a5cbd2f55d0f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mansion/91a01eae9ada489a9bc76ecf21881237.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/a26bde27281641eba1b889e927d138e5.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/8a6c396bc9584fd6b700ad669fb41471.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/c8114604c1be434bbcbd8215efe47da8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/d5549e1a837e47659dee64d12ce0bb30.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mansion/5aed0887ead74f0ba2988a3de7d61bd7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/c68044a625e9429f9ca6c11fc1756037.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mansion/c9d13217f4cc4f098d8c221a9dbbbc27.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/41c7f913b99643d695f0b3b09bab8382.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mansion/9b68a138839d4c929ac222c67cff0d5a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/4f470b5761734dbabba5b9e1920abda2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/84d56e0512a44e8bbbb8d8e80ff29a45.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/30b40452eb384e59953ef9e772caa18f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/2a75286422e64948b1d6626bc9c6d47d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mansion/959bc21f62964c068e441622e8d1103a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/4d62825f6e6c44468e80b1ab846ce4bd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/fcdc99cbf8644673ac57ce575b08da4d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mansion/6f5a66deecf348c1a6ebed0ce38b810d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/carro/a5737bf3cc9b4179a6e5ebe173ff70d9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/663a0953c038434a918cb85725c88ffa.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/632d4eb3ebbd4796b1353e5691c92edd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/80854ba302034431b517f523db328129.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/00f6f2c0d6ed44ae933fafac90ca16a6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/3be03b6a43aa41898c9ca806b8787052.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/edd1c604e1e045a0a2a552ddd9a293e6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/1a950b81ee274a0eb8014bd84ba047f5.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/67c84e4d30ae42fda22c0a0c7526df26.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/4a81b064873749f8a62e97583f658f41.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/4977fa3e5dec432ea4173f910c74805a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/c94daeb210b244729d634975c9ed0c5b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/e61a7547e3c6408baddad87fb1d96d5e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/carro/b97884f0730d42a68c1a6a9a9874159d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/b07e82ed61d145d5a3294d74f6183368.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/carro/7fd6e15785fa4aa9bfd6e31eb7c97ba6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/21b2a6e1b7bd4851bdc5a1688b99a64d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/4a1ada9d2847461db4bc99c35194a55c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/cb8835765c4b4c37bdb3d34f19b3fa5b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/carro/53f199e35f9944dc830493e3a21293eb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/b49688ffec6943c7b77cafdb1286e079.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/ebe7c5e98a7448b5abb2eaf0cb22b766.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/carro/ea61677def5849eb821bcb6de9a38b9c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/carro/1f26e13076a740cd99ec3d0f556dc479.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/imprenta/42c694acac9840679692ab06db4ce98e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/imprenta/f6763bd2c00d4ff784dca33a31adea08.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/imprenta/6cc09116bb514e4993007ec319705128.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/imprenta/e2e5f953924e4e9aacc3c29f6194bf34.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/imprenta/2f80891c2e494134822db52136f5450c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/imprenta/df031fbaa23442e3961f70d0472ded48.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/imprenta/3810f538665c4acca4007f71414efc48.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/imprenta/f1ac055a9b2e4ad6913aefd0a7eb37f1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/imprenta/5576a93b89a84873b7b051c28fea293a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/imprenta/15e8a24d38384220a20debda3aa7843b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/imprenta/9f7122a470944d679e8e62f03c986caa.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/imprenta/9a682a6ce78243ecb2a2edc28eeab148.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/imprenta/d1bfc62172c2490780088019f36e329e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/imprenta/65b9784e46cb43c1866b5ecdf80e566d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/imprenta/89b005c24c8942839d9710a8b45b7feb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/imprenta/5251a258127d4122944944846dad83c3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/imprenta/078b3ac9ba3c40e1895af31b82ad39f7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/imprenta/85e7572489f045f487d97178663960b0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/imprenta/7f9771c6a403412e8a586c48644055d8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/imprenta/96d051c1c6af44ae86f63b0ed96506d8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/imprenta/71f943101fba4fa9b21600fab3edfb07.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/imprenta/34a49861e7744acfb71de471a755e917.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/7ef191da28bc4428b8ede2f62562f1ac.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/anzuelo/209706089c414a73b4c2907f2d34024d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/anzuelo/934c3cb6ed06462e8afee848b7942d6e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/8f35a109a817478084053110de4839f9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/anzuelo/fd72f17bbc374932a58a0193535f284f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/06c7515f62b64fb48c3546acad0a53b2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/67a4cf8b00964ade98e4680e447095ef.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/ff868f7cdf59459f89d5d80826b038d0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/bff4bdc29a9b4e0784c5281344e2be9a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/553938ac49f349a2a8a3db93581dea97.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/2c44a4a9632041599ad59b30c79356a0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/anzuelo/12e9f9541be94eb39909427d244a5078.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/c5b689568ce04479ba7470383133e04b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/6d6500ec93c346128f1c2ecc86635281.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/anzuelo/415b9aea9b9e4511adf2912f68679163.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/f8ffe5b327ce479f8e2c29fadfe9becf.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/449cccc7bf9841f0be40bf9eee0eb87b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/da2a46b2e3814cab98dc52230a0786ca.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/86e810dbcad943eca1abd9af4453b4b7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/b3bec980e90d47b4a98715b169aa74eb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/anzuelo/1027a2d31ee94d4b8246811253888dc9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/35762c5a787e40c8b1daae410c1429de.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/628a1dba139849b282f7280feec1f2a0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/ae11104237314463a61251fd46ded4b4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/c8d08012886f49798a0fb5ffbd5b2feb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/1fd5aaf7ede3441986d193403aa36893.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/27dd41060e8b4c9dae8590b0f47cf855.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/a6cc78ad3aa24b2580f212fca0c7abd5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/d4c035d5857f4b49baf2ee27f7051a16.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/524fb36768e54ed8b3ac8722843b54ff.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/ddd1c24620814c2eb022b97c90c7df2f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/7650791a41224e5eac2d0969a387d2f2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/ea77c49785fc4802b697bde0f7cfda8f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/1e5369c7bee349478117b30a6b5842d9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/c7fae4880bfe49f897fa9860a4bbc67b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/caeb3d64bc4a43c09a13265a18d12b1f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/7b6d3f01815f406c90b9378790286b22.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/bdfe83823bd145c6a9642f5d31963b96.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/6dc7928d6f6b475abced6ccf88ccf912.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/d474c853449f423f8d4b57d8370ec5f8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/46f1c9fe07a54df8b4403264ced97ba0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/73f3f09789014ceb8372aaa2b3efa253.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/844cdbde4f2243838edaedcad3f2467a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/02b85ff3fe884335b951e809fb7d2c44.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/puerta_vidrio/5842bba9467d46afb52536af59b834ca.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/47f8b7948e8640e3ab51330f74d3a6de.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/eca4af6667264e9eb06271bbdcb111f0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/af85c1c516fb4ca48300ce1058dd2777.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/d68b70073c964afdbe3c94c6a789ce15.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/7c982c66dade4967961f13e1fea6c07a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/6a47cbc4e3904833aede3d3b68e07ba5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/a45fbe9ffaeb4c7f850c7d26406af55b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/f671b486002848adbfe2f3771f3266e3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/d9409a567b73419181feee7a3319c747.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/054be7a9dac340189ee29f3f15b4943e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/d9cd316a305a42debc41e9803c07d6bc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/dbbfbc88af1d49e0a2e9b7e6579abdda.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/830e08c5ee214e20ac094ffa186c62fb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/df29f653b40e46018715452bd8d5e6e7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/059da749a90044049f375d29ed997113.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/e1e3c96046d349c09eaab7a0db86fb16.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/16ef1dc2db434be1a6a8bb6f225fa47d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/fb701caed7344f93b1ee3490390115fe.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/a63b4ae12476450bb0e2e3acdd417561.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/b7763a7d62424ae1a3f3b41daed92700.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/3cededaf14294199ac9585fc80222f75.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/b06fa41e81614026acb9e74a3eba11cf.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/e5383c5856ec4ff6ac7fbd0ec7b08c5e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cascara/c7fd163741614859ba02f302ce0bce32.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cascara/cad5da0a14ae43759cd9221dd6099bb9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cascara/60a3ba892429433d9b580998b1036c55.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cascara/6837ff9043d94451926b22987f3dacde.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cascara/77c6c8ce9199433d8f81cd77f99ba978.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cascara/df7e6bc337d7472ab12fe3ec5004409c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cascara/c05c98f523df45b78d50913b4917e9fe.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cascara/00563686d14a41e0b07203d2ea09688f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cascara/b48b3cd3f8c94deebafdff7123c42e83.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cascara/26c74e7dfba841198cc7f441c44ca018.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cascara/2e5faea64b4841c68c01bde24674a380.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cascara/8573ac46b3be4942a2c81dd2fc34d7f0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cascara/95112baabfa44ee5b442bbcf5f6a117a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cascara/fc3b954f3eaa4421bb18c0aadc0ea06b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/polaroid/8fdc1e32d83b43d0b8daf83e863e639f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/polaroid/606912cf09074dcbb35f6c4a3842d528.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/polaroid/86ec49cdf4c34c66a786cbb768b8e6d3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/polaroid/c11303a31f4b4018880b8b53ce361f02.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/polaroid/41e2229d4fbe4cc7846753d19e6a202f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/polaroid/dc12a29c4e074952952ae6d2bcaece31.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/polaroid/98e59c092cd04755a89b62cb9b385006.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sillas_espera/eca1dcae26e94bdca36ff4be9f7503a9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/sillas_espera/baaa4ec5d6d34ad49004e4d151b43aa2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sillas_espera/fd6f2c8d76ef4a1a8b932516284d50b0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sillas_espera/9caadc93b6a34c769e90ea31b2ff3473.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sillas_espera/735a0bc9e0544443addc5b3965c1e18b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sillas_espera/5f91e4e9ceb6442ab47fef3602d1385c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sillas_espera/8e0350dafc774e319775c03cc0f04c35.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sillas_espera/e30ad52a20b44be492b739b427f5adf2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sillas_espera/b47d109548a442778c12742a200aba53.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/09b8b458fbad4986b6fd44698f5bc6dc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/40d4b38ab2244f29a4ca0862d6ca8b0f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cama/81ada0e24e1647d8a0d6d0708a696f84.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cama/97e361e8beda4112ac5b1b5bcd388cdf.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/1f9d820a0aea42f28af55346d188e0cd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/b57ac42eb50d4a31bb644bf2afa70658.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cama/44201e70ddd844abbc45938221dcfc34.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cama/14084f216e834241a7f152cdfa4e5d59.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/e55d174b2f064deeb05c5da71b850465.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/b547d81073b64d3e97200fd3ae9a74af.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/d6c582aaa3e34238a601ce1d738055a4.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cama/e71b6efc029448e0b883b6b45ee7943d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/c7bea79b8c7a4b7c9ec5eadfa2529b9a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/df64476b23824a049614adda81d42e67.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/0ab93a870e934ee1ac8f42631a0e6ec3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/4aeeb06b84774044a1a413010574a75f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/a78a0efc84fa4cc8aca3bed47b85419a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/065347b3aeb146489835300d265a7ce5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/45aadaaac37f447cb18bb242e1a5743b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cama/c7e0c3672f314e29ae55f457e300d7cc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/c4a4e67c40e74686b2d0a2d38d54b6de.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cama/367b4725c0dc4ee7935b251be6f96bbc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cama/137a236d4e4740a5aa296dca367e5d45.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cama/447d911267624c858ab25a203980b44c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/72a4804f8a4d4de18e59abb60b81c54f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/zafacon/3836ff67877248c2a820e6a969984aac.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/cd134204748b4e28a9e3494638cc595f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/zafacon/8166f60247344c47b9354b6b3730e38d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/zafacon/6bf3267787494d5283db04cd9aa6ff20.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/zafacon/b0d0304c927b450d904163fa43978519.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/zafacon/26f01d69ac8c49b2a4c34e21b68c656f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/zafacon/093e5b05faa947729b1be24c013e563b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/zafacon/576e6bcadb764bb5ad91bf48d93a95a5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/33dbd28d8f894f1091e7a4112ee20e3b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/0ad3407cd8104ba58f71885c0e58ca9a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/f61aeec14ff441abb0f6add5485a2e90.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/27a6775c51e44bfda8e1ac8725eb3e9e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/a4ca1a1764e841cc9ce9259e699aebd9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/831dd489b8044ba8bb77f0ca253dcfde.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/aca52679c57142ca9c92fa31b4690b35.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/c5d23e21daef4fc2a62704149f5f9af6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/259fa8a5720a4170a76edff4e1b89985.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/f0e7ff79b95d461bb69f5e927b5db062.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/9044ac8d545747e3959278fbe36fce8b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/f336a10e46084212ab33de0ff811bd78.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/b9909021fc8e467f9e34741db3f389e0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/zafacon/dd939d6e5f5d478ead53622ddaa120c7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zafacon/08be81ca5fa74718b5d95ac6a5a928f2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/CashRegister_01/CashRegister_01_1k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/CashRegister_01/textures/CashRegister_01_arm_1k.jpg",
+   "mb": 0.2
+  },
+  {
+   "destino": "modelos/CashRegister_01/textures/CashRegister_01_nor_gl_1k.jpg",
+   "mb": 0.14
+  },
+  {
+   "destino": "modelos/CashRegister_01/textures/CashRegister_01_diff_1k.jpg",
+   "mb": 0.13
+  },
+  {
+   "destino": "modelos/CashRegister_01/textures/CashRegister_01_glass_arm_1k.jpg",
+   "mb": 0.07
+  },
+  {
+   "destino": "modelos/CashRegister_01/CashRegister_01.bin",
+   "mb": 0.34
+  },
+  {
+   "destino": "modelos/CashRegister_01/textures/CashRegister_01_glass_nor_gl_1k.jpg",
+   "mb": 0.02
+  },
+  {
+   "destino": "modelos/CashRegister_01/textures/CashRegister_01_glass_diff_1k.jpg",
+   "mb": 0.1
+  },
+  {
+   "destino": "modelos/fishermans_hat/fishermans_hat_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/fishermans_hat/textures/fishermans_hat_nor_gl_1k.jpg",
+   "mb": 0.79
+  },
+  {
+   "destino": "modelos/fishermans_hat/textures/fishermans_hat_diff_1k.jpg",
+   "mb": 0.44
+  },
+  {
+   "destino": "modelos/fishermans_hat/textures/fishermans_hat_arm_1k.jpg",
+   "mb": 0.74
+  },
+  {
+   "destino": "modelos/fishermans_hat/fishermans_hat.bin",
+   "mb": 0.26
+  },
+  {
+   "destino": "modelos/cardboard_box_01/cardboard_box_01_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/cardboard_box_01/textures/cardboard_box_01_arm_1k.jpg",
+   "mb": 0.38
+  },
+  {
+   "destino": "modelos/cardboard_box_01/cardboard_box_01.bin",
+   "mb": 0.36
+  },
+  {
+   "destino": "modelos/cardboard_box_01/textures/cardboard_box_01_diff_1k.jpg",
+   "mb": 0.54
+  },
+  {
+   "destino": "modelos/cardboard_box_01/textures/cardboard_box_01_nor_gl_1k.jpg",
+   "mb": 0.78
+  },
+  {
+   "destino": "modelos/hanging_industrial_lamp/hanging_industrial_lamp_1k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/hanging_industrial_lamp/textures/hanging_industrial_lamp_emissive_1k.jpg",
+   "mb": 0.04
+  },
+  {
+   "destino": "modelos/hanging_industrial_lamp/textures/hanging_industrial_lamp_nor_gl_1k.jpg",
+   "mb": 0.72
+  },
+  {
+   "destino": "modelos/hanging_industrial_lamp/textures/hanging_industrial_lamp_diff_1k.jpg",
+   "mb": 0.68
+  },
+  {
+   "destino": "modelos/hanging_industrial_lamp/textures/hanging_industrial_lamp_arm_1k.jpg",
+   "mb": 0.8
+  },
+  {
+   "destino": "modelos/hanging_industrial_lamp/textures/hanging_industrial_lamp_glass_nor_gl_1k.jpg",
+   "mb": 0.53
+  },
+  {
+   "destino": "modelos/hanging_industrial_lamp/hanging_industrial_lamp.bin",
+   "mb": 0.33
+  },
+  {
+   "destino": "modelos/Shelf_01/Shelf_01_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/Shelf_01/textures/Shelf_01_diff_1k.jpg",
+   "mb": 0.15
+  },
+  {
+   "destino": "modelos/Shelf_01/Shelf_01.bin",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/Shelf_01/textures/Shelf_01_nor_gl_1k.jpg",
+   "mb": 0.22
+  },
+  {
+   "destino": "modelos/Shelf_01/textures/Shelf_01_arm_1k.jpg",
+   "mb": 0.2
+  },
+  {
+   "destino": "modelos/plastic_monobloc_chair_01/plastic_monobloc_chair_01_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/plastic_monobloc_chair_01/plastic_monobloc_chair_01.bin",
+   "mb": 0.12
+  },
+  {
+   "destino": "modelos/plastic_monobloc_chair_01/textures/plastic_monobloc_chair_01_arm_1k.jpg",
+   "mb": 0.6
+  },
+  {
+   "destino": "modelos/plastic_monobloc_chair_01/textures/plastic_monobloc_chair_01_diff_1k.jpg",
+   "mb": 0.53
+  },
+  {
+   "destino": "modelos/plastic_monobloc_chair_01/textures/plastic_monobloc_chair_01_nor_gl_1k.jpg",
+   "mb": 0.6
+  },
+  {
+   "destino": "modelos/old_bed_frame/old_bed_frame_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/old_bed_frame/textures/old_bed_frame_nor_gl_1k.jpg",
+   "mb": 0.61
+  },
+  {
+   "destino": "modelos/old_bed_frame/textures/old_bed_frame_diff_1k.jpg",
+   "mb": 0.67
+  },
+  {
+   "destino": "modelos/old_bed_frame/textures/old_bed_frame_arm_1k.jpg",
+   "mb": 0.79
+  },
+  {
+   "destino": "modelos/old_bed_frame/old_bed_frame.bin",
+   "mb": 1.78
+  },
+  {
+   "destino": "modelos/security_camera_01/security_camera_01_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/security_camera_01/security_camera_01.bin",
+   "mb": 0.37
+  },
+  {
+   "destino": "modelos/security_camera_01/textures/security_camera_01_diff_1k.jpg",
+   "mb": 0.5
+  },
+  {
+   "destino": "modelos/security_camera_01/textures/security_camera_01_arm_1k.jpg",
+   "mb": 0.51
+  },
+  {
+   "destino": "modelos/security_camera_01/textures/security_camera_01_nor_gl_1k.jpg",
+   "mb": 0.3
+  },
+  {
+   "destino": "modelos/plastic_crate_01/plastic_crate_01_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/plastic_crate_01/textures/plastic_crate_01_nor_gl_1k.jpg",
+   "mb": 0.84
+  },
+  {
+   "destino": "modelos/plastic_crate_01/textures/plastic_crate_01_diff_1k.jpg",
+   "mb": 0.49
+  },
+  {
+   "destino": "modelos/plastic_crate_01/textures/plastic_crate_01_arm_1k.jpg",
+   "mb": 0.95
+  },
+  {
+   "destino": "modelos/plastic_crate_01/plastic_crate_01.bin",
+   "mb": 0.75
+  },
+  {
+   "destino": "modelos/office_notepads/office_notepads_1k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/office_notepads/textures/office_notepads_nor_gl_1k.jpg",
+   "mb": 0.38
+  },
+  {
+   "destino": "modelos/office_notepads/textures/office_notepads_diff_1k.jpg",
+   "mb": 0.44
+  },
+  {
+   "destino": "modelos/office_notepads/textures/office_notepads_arm_1k.jpg",
+   "mb": 0.42
+  },
+  {
+   "destino": "modelos/office_notepads/office_notepads.bin",
+   "mb": 0.02
+  },
+  {
+   "destino": "modelos/mounted_fluorescent_lights/mounted_fluorescent_lights_1k.gltf",
+   "mb": 0.02
+  },
+  {
+   "destino": "modelos/mounted_fluorescent_lights/textures/mounted_fluorescent_lights_nor_gl_1k.jpg",
+   "mb": 0.26
+  },
+  {
+   "destino": "modelos/mounted_fluorescent_lights/textures/mounted_fluorescent_lights_diff_1k.jpg",
+   "mb": 0.29
+  },
+  {
+   "destino": "modelos/mounted_fluorescent_lights/textures/mounted_fluorescent_lights_arm_1k.jpg",
+   "mb": 0.62
+  },
+  {
+   "destino": "modelos/mounted_fluorescent_lights/textures/mounted_fluorescent_lights_emission_1k.jpg",
+   "mb": 0.07
+  },
+  {
+   "destino": "modelos/mounted_fluorescent_lights/mounted_fluorescent_lights.bin",
+   "mb": 0.53
+  },
+  {
+   "destino": "modelos/modern_ceiling_lamp_01/modern_ceiling_lamp_01_1k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/modern_ceiling_lamp_01/textures/modern_ceiling_lamp_01_arm_1k.jpg",
+   "mb": 0.12
+  },
+  {
+   "destino": "modelos/modern_ceiling_lamp_01/textures/modern_ceiling_lamp_01_diff_1k.jpg",
+   "mb": 0.08
+  },
+  {
+   "destino": "modelos/modern_ceiling_lamp_01/modern_ceiling_lamp_01.bin",
+   "mb": 0.14
+  },
+  {
+   "destino": "modelos/modern_ceiling_lamp_01/textures/modern_ceiling_lamp_01_nor_gl_1k.jpg",
+   "mb": 0.08
+  },
+  {
+   "destino": "modelos/WetFloorSign_01/WetFloorSign_01_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/WetFloorSign_01/textures/WetFloorSign_01_arm_1k.jpg",
+   "mb": 0.12
+  },
+  {
+   "destino": "modelos/WetFloorSign_01/textures/WetFloorSign_01_nor_gl_1k.jpg",
+   "mb": 0.08
+  },
+  {
+   "destino": "modelos/WetFloorSign_01/textures/WetFloorSign_01_diff_1k.jpg",
+   "mb": 0.04
+  },
+  {
+   "destino": "modelos/WetFloorSign_01/WetFloorSign_01.bin",
+   "mb": 0.01
+  },
+  {
+   "destino": "texturas/terrazzo_tiles/terrazzo_tiles_Diffuse_1k.jpg",
+   "mb": 1.11
+  },
+  {
+   "destino": "texturas/terrazzo_tiles/terrazzo_tiles_nor_gl_1k.jpg",
+   "mb": 0.07
+  },
+  {
+   "destino": "texturas/terrazzo_tiles/terrazzo_tiles_Rough_1k.jpg",
+   "mb": 0.44
+  },
+  {
+   "destino": "texturas/terrazzo_tiles/terrazzo_tiles_AO_1k.jpg",
+   "mb": 0.31
+  },
+  {
+   "destino": "texturas/terrazzo_tiles/terrazzo_tiles_Displacement_1k.jpg",
+   "mb": 0.09
+  },
+  {
+   "destino": "texturas/terrazzo_tiles/terrazzo_tiles_arm_1k.jpg",
+   "mb": 0.46
+  },
+  {
+   "destino": "texturas/marble_tiles/marble_tiles_Diffuse_1k.jpg",
+   "mb": 0.91
+  },
+  {
+   "destino": "texturas/marble_tiles/marble_tiles_nor_gl_1k.jpg",
+   "mb": 0.57
+  },
+  {
+   "destino": "texturas/marble_tiles/marble_tiles_Rough_1k.jpg",
+   "mb": 0.72
+  },
+  {
+   "destino": "texturas/marble_tiles/marble_tiles_AO_1k.jpg",
+   "mb": 0.52
+  },
+  {
+   "destino": "texturas/marble_tiles/marble_tiles_Displacement_1k.jpg",
+   "mb": 0.37
+  },
+  {
+   "destino": "texturas/marble_tiles/marble_tiles_arm_1k.jpg",
+   "mb": 0.87
+  },
+  {
+   "destino": "texturas/wood_table_001/wood_table_001_Diffuse_1k.jpg",
+   "mb": 0.21
+  },
+  {
+   "destino": "texturas/wood_table_001/wood_table_001_nor_gl_1k.jpg",
+   "mb": 0.05
+  },
+  {
+   "destino": "texturas/wood_table_001/wood_table_001_Rough_1k.jpg",
+   "mb": 0.23
+  },
+  {
+   "destino": "texturas/wood_table_001/wood_table_001_AO_1k.jpg",
+   "mb": 0.16
+  },
+  {
+   "destino": "texturas/wood_table_001/wood_table_001_Displacement_1k.jpg",
+   "mb": 0.26
+  },
+  {
+   "destino": "texturas/wood_table_001/wood_table_001_arm_1k.jpg",
+   "mb": 0.2
+  },
+  {
+   "destino": "texturas/checkered_pavement_tiles/checkered_pavement_tiles_Diffuse_1k.jpg",
+   "mb": 0.6
+  },
+  {
+   "destino": "texturas/checkered_pavement_tiles/checkered_pavement_tiles_nor_gl_1k.jpg",
+   "mb": 0.26
+  },
+  {
+   "destino": "texturas/checkered_pavement_tiles/checkered_pavement_tiles_Rough_1k.jpg",
+   "mb": 0.48
+  },
+  {
+   "destino": "texturas/checkered_pavement_tiles/checkered_pavement_tiles_AO_1k.jpg",
+   "mb": 0.23
+  },
+  {
+   "destino": "texturas/checkered_pavement_tiles/checkered_pavement_tiles_Displacement_1k.jpg",
+   "mb": 0.27
+  },
+  {
+   "destino": "texturas/checkered_pavement_tiles/checkered_pavement_tiles_arm_1k.jpg",
+   "mb": 0.52
+  },
+  {
+   "destino": "hdri/clarens_night_01_2k.hdr",
+   "mb": 6.47
+  },
+  {
+   "destino": "hdri/blue_lagoon_night_2k.hdr",
+   "mb": 6.01
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "freesound": {
+  "s_escaner": [
+   {
+    "id": "144418",
+    "autor": "zerolagtime",
+    "pagina": "https://freesound.org/people/zerolagtime/sounds/144418/",
+    "titulo": "Store Scanner Beep by zerolagtime",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_escaner/Store_Scanner_Beep_by_zerolagtime_144418.mp3"
+   },
+   {
+    "id": "202530",
+    "autor": "kalisemorrison",
+    "pagina": "https://freesound.org/people/kalisemorrison/sounds/202530/",
+    "titulo": "scanner beep.wav by kalisemorrison",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_escaner/scanner_beep.wav_by_kalisemorrison_202530.mp3"
+   },
+   {
+    "id": "347300",
+    "autor": "suhral",
+    "pagina": "https://freesound.org/people/suhral/sounds/347300/",
+    "titulo": "Scanner beeping sound by suhral",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_escaner/Scanner_beeping_sound_by_suhral_347300.mp3"
+   },
+   {
+    "id": "216469",
+    "autor": "ianslattery",
+    "pagina": "https://freesound.org/people/ianslattery/sounds/216469/",
+    "titulo": "Supermarket Checkout Line by ianslattery",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_escaner/Supermarket_Checkout_Line_by_ianslattery_216469.mp3"
+   }
+  ],
+  "s_campanita": [
+   {
+    "id": "57743",
+    "autor": "3bagbrew",
+    "pagina": "https://freesound.org/people/3bagbrew/sounds/57743/",
+    "titulo": "shop_door_bell.wav by 3bagbrew",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_campanita/shop_door_bell.wav_by_3bagbrew_57743.mp3"
+   },
+   {
+    "id": "494565",
+    "autor": "775noise",
+    "pagina": "https://freesound.org/people/775noise/sounds/494565/",
+    "titulo": "Shop door bell.wav by 775noise",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_campanita/Shop_door_bell.wav_by_775noise_494565.mp3"
+   },
+   {
+    "id": "72197",
+    "autor": "shall555",
+    "pagina": "https://freesound.org/people/shall555/sounds/72197/",
+    "titulo": "sh_shop_door_bell_openclose.wav by shall555",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_campanita/sh_shop_door_bell_openclose.wav_by_shall555_72197.mp3"
+   },
+   {
+    "id": "556710",
+    "autor": "NachtmahrTV",
+    "pagina": "https://freesound.org/people/NachtmahrTV/sounds/556710/",
+    "titulo": "Shop Bell by NachtmahrTV",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_campanita/Shop_Bell_by_NachtmahrTV_556710.mp3"
+   },
+   {
+    "id": "192761",
+    "autor": "ryuuzan",
+    "pagina": "https://freesound.org/people/ryuuzan/sounds/192761/",
+    "titulo": "Ryuuzan_shop_door_bell00.wav by ryuuzan",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_campanita/Ryuuzan_shop_door_bell00.wav_by_ryuuzan_192761.mp3"
+   },
+   {
+    "id": "399092",
+    "autor": "plasterbrain",
+    "pagina": "https://freesound.org/people/plasterbrain/sounds/399092/",
+    "titulo": "7&#x27;11 Sliding Door by plasterbrain",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_campanita/7_x27_11_Sliding_Door_by_plasterbrain_399092.mp3"
+   }
+  ],
+  "s_basura": [
+   {
+    "id": "561498",
+    "autor": "MattRuthSound",
+    "pagina": "https://freesound.org/people/MattRuthSound/sounds/561498/",
+    "titulo": "Cardboard box small manipulated, moved on surface_96Khz_Mono_ZoomH4n_NT5-002.wav by MattRuthSound",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/s_basura/Cardboard_box_small_manipulated_moved_on_surface_9_561498.mp3"
+   },
+   {
+    "id": "869315",
+    "autor": "HushAndHarmonyNow",
+    "pagina": "https://freesound.org/people/HushAndHarmonyNow/sounds/869315/",
+    "titulo": "DOORMetl_Heavy door creaks open and shut in open-air hall by HushAndHarmonyNow",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_basura/DOORMetl_Heavy_door_creaks_open_and_shut_in_open-a_869315.mp3"
+   },
+   {
+    "id": "778664",
+    "autor": "Geoff-Bremner-Audio",
+    "pagina": "https://freesound.org/people/Geoff-Bremner-Audio/sounds/778664/",
+    "titulo": "junkyard smash garbage move trash 2 MKH 416 by Geoff-Bremner-Audio",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/s_basura/junkyard_smash_garbage_move_trash_2_MKH_416_by_Geo_778664.mp3"
+   },
+   {
+    "id": "682459",
+    "autor": "bodallasfan888",
+    "pagina": "https://freesound.org/people/bodallasfan888/sounds/682459/",
+    "titulo": "Rummage through trash; angry.wav by bodallasfan888",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_basura/Rummage_through_trash_angry.wav_by_bodallasfan888_682459.mp3"
+   }
+  ],
+  "s_firma": [
+   {
+    "id": "557344",
+    "autor": "launchsite",
+    "pagina": "https://freesound.org/people/launchsite/sounds/557344/",
+    "titulo": "Hyacinthe_ball point pen signature writing hard surface_edited.wav by launchsite",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_firma/Hyacinthe_ball_point_pen_signature_writing_hard_su_557344.mp3"
+   },
+   {
+    "id": "173081",
+    "autor": "deameon1427",
+    "pagina": "https://freesound.org/people/deameon1427/sounds/173081/",
+    "titulo": "pen-signature.wav by deameon1427",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_firma/pen-signature.wav_by_deameon1427_173081.mp3"
+   },
+   {
+    "id": "83746",
+    "autor": "braffe2",
+    "pagina": "https://freesound.org/people/braffe2/sounds/83746/",
+    "titulo": "pen_writing.wav by braffe2",
+    "licencia": "?",
+    "archivo": "sonidos/s_firma/pen_writing.wav_by_braffe2_83746.mp3"
+   },
+   {
+    "id": "82498",
+    "autor": "Robinhood76",
+    "pagina": "https://freesound.org/people/Robinhood76/sounds/82498/",
+    "titulo": "01322 writing signature 1.wav by Robinhood76",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/s_firma/01322_writing_signature_1.wav_by_Robinhood76_82498.mp3"
+   },
+   {
+    "id": "349703",
+    "autor": "Mikes-MultiMedia",
+    "pagina": "https://freesound.org/people/Mikes-MultiMedia/sounds/349703/",
+    "titulo": "pen writing.wav by Mikes-MultiMedia",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_firma/pen_writing.wav_by_Mikes-MultiMedia_349703.mp3"
+   },
+   {
+    "id": "326961",
+    "autor": "ListenTonyBoy",
+    "pagina": "https://freesound.org/people/ListenTonyBoy/sounds/326961/",
+    "titulo": "PEN SIGNATURE SIGNING 2.wav by ListenTonyBoy",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_firma/PEN_SIGNATURE_SIGNING_2.wav_by_ListenTonyBoy_326961.mp3"
+   }
+  ],
+  "s_fuegos": [
+   {
+    "id": "453116",
+    "autor": "kyles",
+    "pagina": "https://freesound.org/people/kyles/sounds/453116/",
+    "titulo": "fireworks medium +slapback echo reflection4 Montreal, Canada.flac by kyles",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_fuegos/fireworks_medium_slapback_echo_reflection4_Montrea_453116.mp3"
+   },
+   {
+    "id": "434205",
+    "autor": "JacksonML",
+    "pagina": "https://freesound.org/people/JacksonML/sounds/434205/",
+    "titulo": "Fireworks 3 by JacksonML",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_fuegos/Fireworks_3_by_JacksonML_434205.mp3"
+   },
+   {
+    "id": "582216",
+    "autor": "Martina_Leitschuh",
+    "pagina": "https://freesound.org/people/Martina_Leitschuh/sounds/582216/",
+    "titulo": "fireworks at international fireworks competition+background music.wav by Martina_Leitschuh",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_fuegos/fireworks_at_international_fireworks_competition_b_582216.mp3"
+   },
+   {
+    "id": "368417",
+    "autor": "AlienXXX",
+    "pagina": "https://freesound.org/people/AlienXXX/sounds/368417/",
+    "titulo": "161112_02_distant fireworks2.wav by AlienXXX",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/s_fuegos/161112_02_distant_fireworks2.wav_by_AlienXXX_368417.mp3"
+   },
+   {
+    "id": "844150",
+    "autor": "klankbeeld",
+    "pagina": "https://freesound.org/people/klankbeeld/sounds/844150/",
+    "titulo": "fireworks far 101 AM 260101_0061 by klankbeeld",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_fuegos/fireworks_far_101_AM_260101_0061_by_klankbeeld_844150.mp3"
+   },
+   {
+    "id": "25778",
+    "autor": "ermine",
+    "pagina": "https://freesound.org/people/ermine/sounds/25778/",
+    "titulo": "spinner_fireworks_mkh3040_061105.wav by ermine",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/s_fuegos/spinner_fireworks_mkh3040_061105.wav_by_ermine_25778.mp3"
+   }
+  ],
+  "s_motor": [
+   {
+    "id": "828204",
+    "autor": "IENBA",
+    "pagina": "https://freesound.org/people/IENBA/sounds/828204/",
+    "titulo": "Small Motorbike Passing By by IENBA",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_motor/Small_Motorbike_Passing_By_by_IENBA_828204.mp3"
+   },
+   {
+    "id": "671986",
+    "autor": "klankbeeld",
+    "pagina": "https://freesound.org/people/klankbeeld/sounds/671986/",
+    "titulo": "car passing behind house 0819 220804_0475.wav by klankbeeld",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_motor/car_passing_behind_house_0819_220804_0475.wav_by_k_671986.mp3"
+   },
+   {
+    "id": "262898",
+    "autor": "kwahmah_02",
+    "pagina": "https://freesound.org/people/kwahmah_02/sounds/262898/",
+    "titulo": "TwoCars.wav by kwahmah_02",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_motor/TwoCars.wav_by_kwahmah_02_262898.mp3"
+   },
+   {
+    "id": "319393",
+    "autor": "Tito%20Lahaye",
+    "pagina": "https://freesound.org/people/Tito%20Lahaye/sounds/319393/",
+    "titulo": "racingcarV.wav by Tito Lahaye",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_motor/racingcarV.wav_by_Tito_Lahaye_319393.mp3"
+   },
+   {
+    "id": "772240",
+    "autor": "chiliwau",
+    "pagina": "https://freesound.org/people/chiliwau/sounds/772240/",
+    "titulo": "Volkswagen passing by by chiliwau",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_motor/Volkswagen_passing_by_by_chiliwau_772240.mp3"
+   },
+   {
+    "id": "621087",
+    "autor": "ozvuk",
+    "pagina": "https://freesound.org/people/ozvuk/sounds/621087/",
+    "titulo": "ulice klidna kroky prujezd auto rychlejsi MS.wav by ozvuk",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_motor/ulice_klidna_kroky_prujezd_auto_rychlejsi_MS.wav_b_621087.mp3"
+   }
+  ],
+  "s_tictac": [
+   {
+    "id": "675681",
+    "autor": "nightcustard",
+    "pagina": "https://freesound.org/people/nightcustard/sounds/675681/",
+    "titulo": "Ticking Smiths car clock by nightcustard",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_tictac/Ticking_Smiths_car_clock_by_nightcustard_675681.mp3"
+   },
+   {
+    "id": "27077",
+    "autor": "daveincamas",
+    "pagina": "https://freesound.org/people/daveincamas/sounds/27077/",
+    "titulo": "ClockTicks.wav by daveincamas",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_tictac/ClockTicks.wav_by_daveincamas_27077.mp3"
+   },
+   {
+    "id": "414469",
+    "autor": "giddster",
+    "pagina": "https://freesound.org/people/giddster/sounds/414469/",
+    "titulo": "Old clock ticking by giddster",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_tictac/Old_clock_ticking_by_giddster_414469.mp3"
+   },
+   {
+    "id": "42139",
+    "autor": "fauxpress",
+    "pagina": "https://freesound.org/people/fauxpress/sounds/42139/",
+    "titulo": "Old Scots Clock - Ticking.wav by fauxpress",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_tictac/Old_Scots_Clock_-_Ticking.wav_by_fauxpress_42139.mp3"
+   },
+   {
+    "id": "27086",
+    "autor": "daveincamas",
+    "pagina": "https://freesound.org/people/daveincamas/sounds/27086/",
+    "titulo": "MantelClockTicks.wav by daveincamas",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_tictac/MantelClockTicks.wav_by_daveincamas_27086.mp3"
+   },
+   {
+    "id": "511967",
+    "autor": "se2001",
+    "pagina": "https://freesound.org/people/se2001/sounds/511967/",
+    "titulo": "Clock Ticks (Loopable!) by se2001",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_tictac/Clock_Ticks_Loopable_by_se2001_511967.mp3"
+   }
+  ],
+  "s_puerta": [
+   {
+    "id": "565187",
+    "autor": "klankbeeld",
+    "pagina": "https://freesound.org/people/klankbeeld/sounds/565187/",
+    "titulo": "open close door 10m 150903_0759 ST.wav by klankbeeld",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_puerta/open_close_door_10m_150903_0759_ST.wav_by_klankbee_565187.mp3"
+   },
+   {
+    "id": "182035",
+    "autor": "WaveAdventurer",
+    "pagina": "https://freesound.org/people/WaveAdventurer/sounds/182035/",
+    "titulo": "Opening closing bedroom1 door.wav by WaveAdventurer",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_puerta/Opening_closing_bedroom1_door.wav_by_WaveAdventure_182035.mp3"
+   },
+   {
+    "id": "673236",
+    "autor": "iggy1345",
+    "pagina": "https://freesound.org/people/iggy1345/sounds/673236/",
+    "titulo": "heavy door open close outside to inside.wav by iggy1345",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_puerta/heavy_door_open_close_outside_to_inside.wav_by_igg_673236.mp3"
+   },
+   {
+    "id": "583238",
+    "autor": "Profispiesser",
+    "pagina": "https://freesound.org/people/Profispiesser/sounds/583238/",
+    "titulo": "FX SaSc Door 13 Old Wood Apartment Livingroom Rattle Open Close 4 Versions Far.wav by Profispiesser",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_puerta/FX_SaSc_Door_13_Old_Wood_Apartment_Livingroom_Ratt_583238.mp3"
+   },
+   {
+    "id": "208722",
+    "autor": "tompallant",
+    "pagina": "https://freesound.org/people/tompallant/sounds/208722/",
+    "titulo": "Wardrobe_Sliding_Door_open_close_Slow_metal_006.aif by tompallant",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_puerta/Wardrobe_Sliding_Door_open_close_Slow_metal_006.ai_208722.mp3"
+   },
+   {
+    "id": "216874",
+    "autor": "CastIronCarousel",
+    "pagina": "https://freesound.org/people/CastIronCarousel/sounds/216874/",
+    "titulo": "Open then close squeaky door.wav by CastIronCarousel",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_puerta/Open_then_close_squeaky_door.wav_by_CastIronCarous_216874.mp3"
+   }
+  ],
+  "s_esposas": [
+   {
+    "id": "100211",
+    "autor": "Timbre",
+    "pagina": "https://freesound.org/people/Timbre/sounds/100211/",
+    "titulo": "Handcuff clicks.wav by Timbre",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/s_esposas/Handcuff_clicks.wav_by_Timbre_100211.mp3"
+   },
+   {
+    "id": "366563",
+    "autor": "ScottHurly",
+    "pagina": "https://freesound.org/people/ScottHurly/sounds/366563/",
+    "titulo": "Locking Handcuffs.wav by ScottHurly",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/s_esposas/Locking_Handcuffs.wav_by_ScottHurly_366563.mp3"
+   },
+   {
+    "id": "764388",
+    "autor": "Fissile",
+    "pagina": "https://freesound.org/people/Fissile/sounds/764388/",
+    "titulo": "Handcuffs Closing by Fissile",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/s_esposas/Handcuffs_Closing_by_Fissile_764388.mp3"
+   },
+   {
+    "id": "740454",
+    "autor": "JIRI_PICHL",
+    "pagina": "https://freesound.org/people/JIRI_PICHL/sounds/740454/",
+    "titulo": "zaklapnutí pout by JIRI_PICHL",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_esposas/zaklapnut_pout_by_JIRI_PICHL_740454.mp3"
+   },
+   {
+    "id": "656966",
+    "autor": "zeigle",
+    "pagina": "https://freesound.org/people/zeigle/sounds/656966/",
+    "titulo": "Deep Fried Siren by zeigle",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/s_esposas/Deep_Fried_Siren_by_zeigle_656966.mp3"
+   },
+   {
+    "id": "52906",
+    "autor": "vlammenos",
+    "pagina": "https://freesound.org/people/vlammenos/sounds/52906/",
+    "titulo": "police siren.wav by vlammenos",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_esposas/police_siren.wav_by_vlammenos_52906.mp3"
+   }
+  ],
+  "s_polaroid": [
+   {
+    "id": "676387",
+    "autor": "StevenMyat_",
+    "pagina": "https://freesound.org/people/StevenMyat_/sounds/676387/",
+    "titulo": "Polaroid Camera Shutter by StevenMyat_",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_polaroid/Polaroid_Camera_Shutter_by_StevenMyat__676387.mp3"
+   },
+   {
+    "id": "805373",
+    "autor": "designerschoice",
+    "pagina": "https://freesound.org/people/designerschoice/sounds/805373/",
+    "titulo": "COMCam-Blue Snowball Microphone, CU_Polaroid Camera, Take Picture, Shoot, Dispense Picture_Nicholas Judy_TDC by designerschoice",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_polaroid/COMCam-Blue_Snowball_Microphone_CU_Polaroid_Camera_805373.mp3"
+   },
+   {
+    "id": "151800",
+    "autor": "JamesMontour",
+    "pagina": "https://freesound.org/people/JamesMontour/sounds/151800/",
+    "titulo": "Polaroid Spirit 600 &quot;Shutter&quot; (WAV) by JamesMontour",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_polaroid/Polaroid_Spirit_600_quot_Shutter_quot_WAV_by_James_151800.mp3"
+   },
+   {
+    "id": "543087",
+    "autor": "Riaan3ignite",
+    "pagina": "https://freesound.org/people/Riaan3ignite/sounds/543087/",
+    "titulo": "Polaroid Camera.wav by Riaan3ignite",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_polaroid/Polaroid_Camera.wav_by_Riaan3ignite_543087.mp3"
+   },
+   {
+    "id": "366496",
+    "autor": "paultherocker3000",
+    "pagina": "https://freesound.org/people/paultherocker3000/sounds/366496/",
+    "titulo": "Polaroid Camera Shot.wav by paultherocker3000",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/s_polaroid/Polaroid_Camera_Shot.wav_by_paultherocker3000_366496.mp3"
+   },
+   {
+    "id": "444682",
+    "autor": "larspriebe",
+    "pagina": "https://freesound.org/people/larspriebe/sounds/444682/",
+    "titulo": "taking a Polaroid photo by larspriebe",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_polaroid/taking_a_Polaroid_photo_by_larspriebe_444682.mp3"
+   }
+  ],
+  "s_imprenta": [
+   {
+    "id": "135009",
+    "autor": "hdrck16",
+    "pagina": "https://freesound.org/people/hdrck16/sounds/135009/",
+    "titulo": "printer printing.wav by hdrck16",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_imprenta/printer_printing.wav_by_hdrck16_135009.mp3"
+   },
+   {
+    "id": "595071",
+    "autor": "JaredPaulOW",
+    "pagina": "https://freesound.org/people/JaredPaulOW/sounds/595071/",
+    "titulo": "Printer printing paper,OWI.wav by JaredPaulOW",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_imprenta/Printer_printing_paper_OWI.wav_by_JaredPaulOW_595071.mp3"
+   },
+   {
+    "id": "529987",
+    "autor": "Kleber_KGF",
+    "pagina": "https://freesound.org/people/Kleber_KGF/sounds/529987/",
+    "titulo": "Inkjet Printer Printing at Normal Speed by KLEBER KGF by Kleber_KGF",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_imprenta/Inkjet_Printer_Printing_at_Normal_Speed_by_KLEBER__529987.mp3"
+   },
+   {
+    "id": "827486",
+    "autor": "locedo3137",
+    "pagina": "https://freesound.org/people/locedo3137/sounds/827486/",
+    "titulo": "printer printing one page by locedo3137",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/s_imprenta/printer_printing_one_page_by_locedo3137_827486.mp3"
+   },
+   {
+    "id": "383879",
+    "autor": "deleted_user_7146007",
+    "pagina": "https://freesound.org/people/deleted_user_7146007/sounds/383879/",
+    "titulo": "Printer Printing Office Sounds by deleted_user_7146007",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_imprenta/Printer_Printing_Office_Sounds_by_deleted_user_714_383879.mp3"
+   },
+   {
+    "id": "328906",
+    "autor": "Jeanet_Henning",
+    "pagina": "https://freesound.org/people/Jeanet_Henning/sounds/328906/",
+    "titulo": "Printer Printing.wav by Jeanet_Henning",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/s_imprenta/Printer_Printing.wav_by_Jeanet_Henning_328906.mp3"
+   }
+  ],
+  "s_pasos": [
+   {
+    "id": "558471",
+    "autor": "Nox_Sound",
+    "pagina": "https://freesound.org/people/Nox_Sound/sounds/558471/",
+    "titulo": "Footsteps_Mountain_Boots_Rock_Run_Sequence_Mono.wav by Nox_Sound",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_pasos/Footsteps_Mountain_Boots_Rock_Run_Sequence_Mono.wa_558471.mp3"
+   },
+   {
+    "id": "459965",
+    "autor": "florianreichelt",
+    "pagina": "https://freesound.org/people/florianreichelt/sounds/459965/",
+    "titulo": "Footsteps while running on wood by florianreichelt",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_pasos/Footsteps_while_running_on_wood_by_florianreichelt_459965.mp3"
+   },
+   {
+    "id": "547385",
+    "autor": "theplax",
+    "pagina": "https://freesound.org/people/theplax/sounds/547385/",
+    "titulo": "Footsteps, Running On Stairs.wav by theplax",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_pasos/Footsteps_Running_On_Stairs.wav_by_theplax_547385.mp3"
+   },
+   {
+    "id": "682772",
+    "autor": "thomasanthony321",
+    "pagina": "https://freesound.org/people/thomasanthony321/sounds/682772/",
+    "titulo": "Running footsteps on wood.WAV by thomasanthony321",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_pasos/Running_footsteps_on_wood.WAV_by_thomasanthony321_682772.mp3"
+   },
+   {
+    "id": "219556",
+    "autor": "qubodup",
+    "pagina": "https://freesound.org/people/qubodup/sounds/219556/",
+    "titulo": "Cartoon Running Footsteps by qubodup",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_pasos/Cartoon_Running_Footsteps_by_qubodup_219556.mp3"
+   },
+   {
+    "id": "689180",
+    "autor": "Nitromonkey101",
+    "pagina": "https://freesound.org/people/Nitromonkey101/sounds/689180/",
+    "titulo": "Running_Footsteps.wav by Nitromonkey101",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_pasos/Running_Footsteps.wav_by_Nitromonkey101_689180.mp3"
+   }
+  ],
+  "s_papel": [],
+  "s_aplauso": [
+   {
+    "id": "462362",
+    "autor": "Breviceps",
+    "pagina": "https://freesound.org/people/Breviceps/sounds/462362/",
+    "titulo": "Small applause by Breviceps",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_aplauso/Small_applause_by_Breviceps_462362.mp3"
+   },
+   {
+    "id": "481646",
+    "autor": "bowlingballout",
+    "pagina": "https://freesound.org/people/bowlingballout/sounds/481646/",
+    "titulo": "Applause 1.mp3 by bowlingballout",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_aplauso/Applause_1.mp3_by_bowlingballout_481646.mp3"
+   },
+   {
+    "id": "32868",
+    "autor": "oniwe",
+    "pagina": "https://freesound.org/people/oniwe/sounds/32868/",
+    "titulo": "smallAudienceLaughsThenClaps.wav by oniwe",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/s_aplauso/smallAudienceLaughsThenClaps.wav_by_oniwe_32868.mp3"
+   },
+   {
+    "id": "858309",
+    "autor": "miuziqa",
+    "pagina": "https://freesound.org/people/miuziqa/sounds/858309/",
+    "titulo": "Small Crowd Applause by miuziqa",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_aplauso/Small_Crowd_Applause_by_miuziqa_858309.mp3"
+   },
+   {
+    "id": "561020",
+    "autor": "TurboFool",
+    "pagina": "https://freesound.org/people/TurboFool/sounds/561020/",
+    "titulo": "Light, slow uncomfortable clapping by TurboFool",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/s_aplauso/Light_slow_uncomfortable_clapping_by_TurboFool_561020.mp3"
+   },
+   {
+    "id": "100904",
+    "autor": "Tomlija",
+    "pagina": "https://freesound.org/people/Tomlija/sounds/100904/",
+    "titulo": "small crowd cheering and clapping 3.aif by Tomlija",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/s_aplauso/small_crowd_cheering_and_clapping_3.aif_by_Tomlija_100904.mp3"
+   }
+  ]
+ },
+ "sketchfab": {
+  "escaner": [
+   {
+    "uid": "88317b5bfc0b4c14a5004c6d109c815b",
+    "nombre": "Handheld Barcode Scanner, by Afinia ES360",
+    "autor": "afinia3dprint",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 962162,
+    "url": "https://sketchfab.com/3d-models/none-88317b5bfc0b4c14a5004c6d109c815b",
+    "miniatura": "miniaturas/escaner/88317b5bfc0b4c14a5004c6d109c815b.jpg"
+   }
+  ],
+  "esposas": [
+   {
+    "uid": "896c8ac4c8304e2b9de8716400463d39",
+    "nombre": "Hand- Cuffs",
+    "autor": "Medhatelo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10336,
+    "url": "https://sketchfab.com/3d-models/none-896c8ac4c8304e2b9de8716400463d39",
+    "miniatura": "miniaturas/esposas/896c8ac4c8304e2b9de8716400463d39.jpg"
+   },
+   {
+    "uid": "fc1339e225b7408caec82681be2746c5",
+    "nombre": "Medieval Punishment",
+    "autor": "yamagsummi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4672,
+    "url": "https://sketchfab.com/3d-models/none-fc1339e225b7408caec82681be2746c5",
+    "miniatura": "miniaturas/esposas/fc1339e225b7408caec82681be2746c5.jpg"
+   },
+   {
+    "uid": "2dd23f53a90f45088a4521bdfb150a7b",
+    "nombre": "Interrogation Room",
+    "autor": "Raystorms",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5180,
+    "url": "https://sketchfab.com/3d-models/none-2dd23f53a90f45088a4521bdfb150a7b",
+    "miniatura": "miniaturas/esposas/2dd23f53a90f45088a4521bdfb150a7b.jpg"
+   },
+   {
+    "uid": "bd481fe4f5eb44ad9f9f64786ae7f56f",
+    "nombre": "Iron Shackles",
+    "autor": "BookBoy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11676,
+    "url": "https://sketchfab.com/3d-models/none-bd481fe4f5eb44ad9f9f64786ae7f56f",
+    "miniatura": "miniaturas/esposas/bd481fe4f5eb44ad9f9f64786ae7f56f.jpg"
+   },
+   {
+    "uid": "29c9de709fa042c4b92ee6dac0e0adb1",
+    "nombre": "lockedUP",
+    "autor": "snjvsngh_negi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 70300,
+    "url": "https://sketchfab.com/3d-models/none-29c9de709fa042c4b92ee6dac0e0adb1",
+    "miniatura": "miniaturas/esposas/29c9de709fa042c4b92ee6dac0e0adb1.jpg"
+   },
+   {
+    "uid": "7c7780bc2c0345fc8b09f28865d78218",
+    "nombre": "Torch and Handcuffs",
+    "autor": "ti.ego",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 17298,
+    "url": "https://sketchfab.com/3d-models/none-7c7780bc2c0345fc8b09f28865d78218",
+    "miniatura": "miniaturas/esposas/7c7780bc2c0345fc8b09f28865d78218.jpg"
+   },
+   {
+    "uid": "a208763e2eba4de4ace12977843313e4",
+    "nombre": "Handcuffs",
+    "autor": "polarb",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 308736,
+    "url": "https://sketchfab.com/3d-models/none-a208763e2eba4de4ace12977843313e4",
+    "miniatura": "miniaturas/esposas/a208763e2eba4de4ace12977843313e4.jpg"
+   },
+   {
+    "uid": "3c705cd9cd0b436dbc2987fac27af7aa",
+    "nombre": "Nederlandse Politie Handboeien",
+    "autor": "andy.heuvel",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8588,
+    "url": "https://sketchfab.com/3d-models/none-3c705cd9cd0b436dbc2987fac27af7aa",
+    "miniatura": "miniaturas/esposas/3c705cd9cd0b436dbc2987fac27af7aa.jpg"
+   },
+   {
+    "uid": "0efbe9209268499caddeaf8f0c4ae853",
+    "nombre": "Handcuffs02",
+    "autor": "anohito",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 25370,
+    "url": "https://sketchfab.com/3d-models/none-0efbe9209268499caddeaf8f0c4ae853",
+    "miniatura": "miniaturas/esposas/0efbe9209268499caddeaf8f0c4ae853.jpg"
+   },
+   {
+    "uid": "8bdbe3dbca7b49b488026595937f5009",
+    "nombre": "Justice V7",
+    "autor": "dlemon",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 86508,
+    "url": "https://sketchfab.com/3d-models/none-8bdbe3dbca7b49b488026595937f5009",
+    "miniatura": "miniaturas/esposas/8bdbe3dbca7b49b488026595937f5009.jpg"
+   },
+   {
+    "uid": "ffda7dd42cc4465c8f5211f7c0ce5acd",
+    "nombre": "Nineveh SW Palace, Room XIV (K) panels 13-15",
+    "autor": "danielpett",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 445968,
+    "url": "https://sketchfab.com/3d-models/none-ffda7dd42cc4465c8f5211f7c0ce5acd",
+    "miniatura": "miniaturas/esposas/ffda7dd42cc4465c8f5211f7c0ce5acd.jpg"
+   },
+   {
+    "uid": "7a5897bc1b3a40b29b25b010cfa8d4f0",
+    "nombre": "handcuffs",
+    "autor": "sovgot",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6987,
+    "url": "https://sketchfab.com/3d-models/none-7a5897bc1b3a40b29b25b010cfa8d4f0",
+    "miniatura": "miniaturas/esposas/7a5897bc1b3a40b29b25b010cfa8d4f0.jpg"
+   },
+   {
+    "uid": "3586c8adb0fb45fa927b81264c8e8d1c",
+    "nombre": "Day 43: 1967 Detroit Riot Gear",
+    "autor": "alexdelker",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 203299,
+    "url": "https://sketchfab.com/3d-models/none-3586c8adb0fb45fa927b81264c8e8d1c",
+    "miniatura": "miniaturas/esposas/3586c8adb0fb45fa927b81264c8e8d1c.jpg"
+   },
+   {
+    "uid": "3fd2e262e37b4872867c543433e69269",
+    "nombre": "Tai Phuong Ring Love Renderred Blender V2 79",
+    "autor": "dinhductai",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2094848,
+    "url": "https://sketchfab.com/3d-models/none-3fd2e262e37b4872867c543433e69269",
+    "miniatura": "miniaturas/esposas/3fd2e262e37b4872867c543433e69269.jpg"
+   }
+  ],
+  "placa": [
+   {
+    "uid": "283ad36c25c7438299922707fc17690e",
+    "nombre": "Police Badge",
+    "autor": "oparaskos",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1204,
+    "url": "https://sketchfab.com/3d-models/none-283ad36c25c7438299922707fc17690e",
+    "miniatura": "miniaturas/placa/283ad36c25c7438299922707fc17690e.jpg"
+   },
+   {
+    "uid": "3a9880373b4d494a8e9b76f6ac1cce45",
+    "nombre": "AD.Police badge",
+    "autor": "kropaman",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 95256,
+    "url": "https://sketchfab.com/3d-models/none-3a9880373b4d494a8e9b76f6ac1cce45",
+    "miniatura": "miniaturas/placa/3a9880373b4d494a8e9b76f6ac1cce45.jpg"
+   },
+   {
+    "uid": "39eaa5f15fd6467d9991f16936e5b01c",
+    "nombre": "Police badge",
+    "autor": "kropaman",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 210608,
+    "url": "https://sketchfab.com/3d-models/none-39eaa5f15fd6467d9991f16936e5b01c",
+    "miniatura": "miniaturas/placa/39eaa5f15fd6467d9991f16936e5b01c.jpg"
+   },
+   {
+    "uid": "af0d2503545a4b3fa0fb443304da0939",
+    "nombre": "Chief Jim Hopper",
+    "autor": "sealandair",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1595,
+    "url": "https://sketchfab.com/3d-models/none-af0d2503545a4b3fa0fb443304da0939",
+    "miniatura": "miniaturas/placa/af0d2503545a4b3fa0fb443304da0939.jpg"
+   },
+   {
+    "uid": "7df906184d214602b6a62305a30f9a14",
+    "nombre": "LSPD Badge",
+    "autor": "GregoryDevelopment",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1552,
+    "url": "https://sketchfab.com/3d-models/none-7df906184d214602b6a62305a30f9a14",
+    "miniatura": "miniaturas/placa/7df906184d214602b6a62305a30f9a14.jpg"
+   },
+   {
+    "uid": "2b9aca9f99d8495bbb11ed26f42c1a61",
+    "nombre": "NYPD Hat Police Badge",
+    "autor": "airstudios3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3034192,
+    "url": "https://sketchfab.com/3d-models/none-2b9aca9f99d8495bbb11ed26f42c1a61",
+    "miniatura": "miniaturas/placa/2b9aca9f99d8495bbb11ed26f42c1a61.jpg"
+   },
+   {
+    "uid": "6d9c7ce385034f7a8a315528b18c61aa",
+    "nombre": "Police Badge",
+    "autor": "SimonMulrennan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 368,
+    "url": "https://sketchfab.com/3d-models/none-6d9c7ce385034f7a8a315528b18c61aa",
+    "miniatura": "miniaturas/placa/6d9c7ce385034f7a8a315528b18c61aa.jpg"
+   }
+  ],
+  "reloj_pared": [
+   {
+    "uid": "8e920e8b129842718099a3f772cec024",
+    "nombre": "Old wall clock",
+    "autor": "AndreiVNK",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1538,
+    "url": "https://sketchfab.com/3d-models/none-8e920e8b129842718099a3f772cec024",
+    "miniatura": "miniaturas/reloj_pared/8e920e8b129842718099a3f772cec024.jpg"
+   },
+   {
+    "uid": "174a3fc826414bfc9693d9b00f43fe57",
+    "nombre": "Antique Wall Clock",
+    "autor": "3DGunsmith",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1970,
+    "url": "https://sketchfab.com/3d-models/none-174a3fc826414bfc9693d9b00f43fe57",
+    "miniatura": "miniaturas/reloj_pared/174a3fc826414bfc9693d9b00f43fe57.jpg"
+   },
+   {
+    "uid": "2e964ac0242e4b1789adfd9549c653dc",
+    "nombre": "Wall Clock",
+    "autor": "felipeprodev",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 798,
+    "url": "https://sketchfab.com/3d-models/none-2e964ac0242e4b1789adfd9549c653dc",
+    "miniatura": "miniaturas/reloj_pared/2e964ac0242e4b1789adfd9549c653dc.jpg"
+   },
+   {
+    "uid": "07859442442f4d24995ab93e1533106f",
+    "nombre": "Wall clock old",
+    "autor": "Artem.Goyko",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1941,
+    "url": "https://sketchfab.com/3d-models/none-07859442442f4d24995ab93e1533106f",
+    "miniatura": "miniaturas/reloj_pared/07859442442f4d24995ab93e1533106f.jpg"
+   },
+   {
+    "uid": "634a04c45ef04bc68c5240ae265f8537",
+    "nombre": "Vintage wall Clock",
+    "autor": "sousinho",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9300,
+    "url": "https://sketchfab.com/3d-models/none-634a04c45ef04bc68c5240ae265f8537",
+    "miniatura": "miniaturas/reloj_pared/634a04c45ef04bc68c5240ae265f8537.jpg"
+   },
+   {
+    "uid": "143e8602ebc84f88b08f63f6b1fb4cf6",
+    "nombre": "Math Clock Realtime Animation | wall clock",
+    "autor": "blackcube4",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1904,
+    "url": "https://sketchfab.com/3d-models/none-143e8602ebc84f88b08f63f6b1fb4cf6",
+    "miniatura": "miniaturas/reloj_pared/143e8602ebc84f88b08f63f6b1fb4cf6.jpg"
+   },
+   {
+    "uid": "9bd21849d1d04837b4a317d1d5ac6a9e",
+    "nombre": "1950s Wall Clock",
+    "autor": "AleixoAlonso",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12440,
+    "url": "https://sketchfab.com/3d-models/none-9bd21849d1d04837b4a317d1d5ac6a9e",
+    "miniatura": "miniaturas/reloj_pared/9bd21849d1d04837b4a317d1d5ac6a9e.jpg"
+   },
+   {
+    "uid": "2533ef500ece4fcc804872c706df036b",
+    "nombre": "(FREE) Wall Clock | ساعة جدارية",
+    "autor": "Ma16.q",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 12850,
+    "url": "https://sketchfab.com/3d-models/none-2533ef500ece4fcc804872c706df036b",
+    "miniatura": "miniaturas/reloj_pared/2533ef500ece4fcc804872c706df036b.jpg"
+   },
+   {
+    "uid": "0860a86d4d644b2184e301bab28b5267",
+    "nombre": "Stylized Workplace",
+    "autor": "santyfrow",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 83748,
+    "url": "https://sketchfab.com/3d-models/none-0860a86d4d644b2184e301bab28b5267",
+    "miniatura": "miniaturas/reloj_pared/0860a86d4d644b2184e301bab28b5267.jpg"
+   },
+   {
+    "uid": "ef8e6a7a1adc4f659ffdd20495b72056",
+    "nombre": "Old Wall Clock [XYZ School Homework]",
+    "autor": "mariaSavels",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7747,
+    "url": "https://sketchfab.com/3d-models/none-ef8e6a7a1adc4f659ffdd20495b72056",
+    "miniatura": "miniaturas/reloj_pared/ef8e6a7a1adc4f659ffdd20495b72056.jpg"
+   },
+   {
+    "uid": "459dc1bd4a904836b12856659841183b",
+    "nombre": "Watch USSR Set ATOM RPG",
+    "autor": "kifir",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7532,
+    "url": "https://sketchfab.com/3d-models/none-459dc1bd4a904836b12856659841183b",
+    "miniatura": "miniaturas/reloj_pared/459dc1bd4a904836b12856659841183b.jpg"
+   },
+   {
+    "uid": "8c95c5e879f24f8294d9c8c25804ab95",
+    "nombre": "CC0 - Wall Clock 3",
+    "autor": "plaggy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2846,
+    "url": "https://sketchfab.com/3d-models/none-8c95c5e879f24f8294d9c8c25804ab95",
+    "miniatura": "miniaturas/reloj_pared/8c95c5e879f24f8294d9c8c25804ab95.jpg"
+   },
+   {
+    "uid": "b622c0b530fe4257ae0f1b91d80fe055",
+    "nombre": "Alarm Clock (e-Bench KH 2216)",
+    "autor": "AleixoAlonso",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5285,
+    "url": "https://sketchfab.com/3d-models/none-b622c0b530fe4257ae0f1b91d80fe055",
+    "miniatura": "miniaturas/reloj_pared/b622c0b530fe4257ae0f1b91d80fe055.jpg"
+   },
+   {
+    "uid": "29f2859da57b491dbca907164a8014f0",
+    "nombre": "Digital Clock",
+    "autor": "oscarherry3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 164,
+    "url": "https://sketchfab.com/3d-models/none-29f2859da57b491dbca907164a8014f0",
+    "miniatura": "miniaturas/reloj_pared/29f2859da57b491dbca907164a8014f0.jpg"
+   },
+   {
+    "uid": "d297d2136d8340dda88086bce6af5905",
+    "nombre": "monochrome bedroom",
+    "autor": "pigeons",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 65679,
+    "url": "https://sketchfab.com/3d-models/none-d297d2136d8340dda88086bce6af5905",
+    "miniatura": "miniaturas/reloj_pared/d297d2136d8340dda88086bce6af5905.jpg"
+   },
+   {
+    "uid": "ca8b97fcac68457c96a891ff2ac3670e",
+    "nombre": "Another Clock",
+    "autor": "mellydeeis",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 31516,
+    "url": "https://sketchfab.com/3d-models/none-ca8b97fcac68457c96a891ff2ac3670e",
+    "miniatura": "miniaturas/reloj_pared/ca8b97fcac68457c96a891ff2ac3670e.jpg"
+   },
+   {
+    "uid": "2c759000b56347bdb5adf8ce83eeada1",
+    "nombre": "Wall Clock",
+    "autor": "malovsky",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1454,
+    "url": "https://sketchfab.com/3d-models/none-2c759000b56347bdb5adf8ce83eeada1",
+    "miniatura": "miniaturas/reloj_pared/2c759000b56347bdb5adf8ce83eeada1.jpg"
+   },
+   {
+    "uid": "ba594695a3ef4032980a75d21174600c",
+    "nombre": "Wall clock",
+    "autor": "itsbroccoletto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 33602,
+    "url": "https://sketchfab.com/3d-models/none-ba594695a3ef4032980a75d21174600c",
+    "miniatura": "miniaturas/reloj_pared/ba594695a3ef4032980a75d21174600c.jpg"
+   },
+   {
+    "uid": "cf3b899186a6403a8b694e894931885a",
+    "nombre": "Long Case Wall Clock",
+    "autor": "Nguyen.Phan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11766,
+    "url": "https://sketchfab.com/3d-models/none-cf3b899186a6403a8b694e894931885a",
+    "miniatura": "miniaturas/reloj_pared/cf3b899186a6403a8b694e894931885a.jpg"
+   },
+   {
+    "uid": "9c3ab906c6af4abbb4af600ba6466dfd",
+    "nombre": "Wall clock",
+    "autor": "roy.3dartist",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11723,
+    "url": "https://sketchfab.com/3d-models/none-9c3ab906c6af4abbb4af600ba6466dfd",
+    "miniatura": "miniaturas/reloj_pared/9c3ab906c6af4abbb4af600ba6466dfd.jpg"
+   },
+   {
+    "uid": "29a3f59a59204285b745f8acc8e09a19",
+    "nombre": "Modern Clock",
+    "autor": "Nathanson",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5230,
+    "url": "https://sketchfab.com/3d-models/none-29a3f59a59204285b745f8acc8e09a19",
+    "miniatura": "miniaturas/reloj_pared/29a3f59a59204285b745f8acc8e09a19.jpg"
+   },
+   {
+    "uid": "16781ab16ccf4bdf872cdc00fa612485",
+    "nombre": "Clock",
+    "autor": "FishyBusiness",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 84,
+    "url": "https://sketchfab.com/3d-models/none-16781ab16ccf4bdf872cdc00fa612485",
+    "miniatura": "miniaturas/reloj_pared/16781ab16ccf4bdf872cdc00fa612485.jpg"
+   },
+   {
+    "uid": "4e3c07e44550443388abd3e0e7bb8d64",
+    "nombre": "Wall Clock",
+    "autor": "jimbogies",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4484,
+    "url": "https://sketchfab.com/3d-models/none-4e3c07e44550443388abd3e0e7bb8d64",
+    "miniatura": "miniaturas/reloj_pared/4e3c07e44550443388abd3e0e7bb8d64.jpg"
+   },
+   {
+    "uid": "41f3f411c9a245aaa5ff2ed8fae0f6ad",
+    "nombre": "70's clock",
+    "autor": "mattpoast",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3230,
+    "url": "https://sketchfab.com/3d-models/none-41f3f411c9a245aaa5ff2ed8fae0f6ad",
+    "miniatura": "miniaturas/reloj_pared/41f3f411c9a245aaa5ff2ed8fae0f6ad.jpg"
+   }
+  ],
+  "boligrafo": [
+   {
+    "uid": "09101179ca374ecb8d1dfae7c13d0dd6",
+    "nombre": "Click pen mechanism",
+    "autor": "cyamahat",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 33426,
+    "url": "https://sketchfab.com/3d-models/none-09101179ca374ecb8d1dfae7c13d0dd6",
+    "miniatura": "miniaturas/boligrafo/09101179ca374ecb8d1dfae7c13d0dd6.jpg"
+   },
+   {
+    "uid": "a9f4d19a7ee84db794a5e7528df6f142",
+    "nombre": "Boring blue ballpoint pen",
+    "autor": "shaul",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6220,
+    "url": "https://sketchfab.com/3d-models/none-a9f4d19a7ee84db794a5e7528df6f142",
+    "miniatura": "miniaturas/boligrafo/a9f4d19a7ee84db794a5e7528df6f142.jpg"
+   },
+   {
+    "uid": "ca69fdd81e634048b77932b4851115bc",
+    "nombre": "Faber Castell Ballpoint Pen",
+    "autor": "chemicalX3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8790,
+    "url": "https://sketchfab.com/3d-models/none-ca69fdd81e634048b77932b4851115bc",
+    "miniatura": "miniaturas/boligrafo/ca69fdd81e634048b77932b4851115bc.jpg"
+   },
+   {
+    "uid": "255ba21a6789455bbd780e5912367be3",
+    "nombre": "BIC Cristal Ballpoint Pens",
+    "autor": "wittybacon",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 95556,
+    "url": "https://sketchfab.com/3d-models/none-255ba21a6789455bbd780e5912367be3",
+    "miniatura": "miniaturas/boligrafo/255ba21a6789455bbd780e5912367be3.jpg"
+   },
+   {
+    "uid": "76d3050b6c2646278feaa28007d180cb",
+    "nombre": "Pen",
+    "autor": "cpenfold",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1598,
+    "url": "https://sketchfab.com/3d-models/none-76d3050b6c2646278feaa28007d180cb",
+    "miniatura": "miniaturas/boligrafo/76d3050b6c2646278feaa28007d180cb.jpg"
+   },
+   {
+    "uid": "ca13bdd67bb14e0a9f9579ae3152d1d3",
+    "nombre": "Ballpoint pen",
+    "autor": "tronlives",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 404,
+    "url": "https://sketchfab.com/3d-models/none-ca13bdd67bb14e0a9f9579ae3152d1d3",
+    "miniatura": "miniaturas/boligrafo/ca13bdd67bb14e0a9f9579ae3152d1d3.jpg"
+   },
+   {
+    "uid": "392270b6df534e7f84669a1dfaab459d",
+    "nombre": "Diplomat Ballpoint Pen and Fountain Pen",
+    "autor": "chemicalX3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 76286,
+    "url": "https://sketchfab.com/3d-models/none-392270b6df534e7f84669a1dfaab459d",
+    "miniatura": "miniaturas/boligrafo/392270b6df534e7f84669a1dfaab459d.jpg"
+   },
+   {
+    "uid": "202a0bed656f4ad291d58e936e3161a0",
+    "nombre": "Ballpoint Pen",
+    "autor": "spendoge",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1184,
+    "url": "https://sketchfab.com/3d-models/none-202a0bed656f4ad291d58e936e3161a0",
+    "miniatura": "miniaturas/boligrafo/202a0bed656f4ad291d58e936e3161a0.jpg"
+   },
+   {
+    "uid": "80c7b553985347adafe784cd6166b3c5",
+    "nombre": "Retractable ballpoint pen(click pen)",
+    "autor": "yucao",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 237720,
+    "url": "https://sketchfab.com/3d-models/none-80c7b553985347adafe784cd6166b3c5",
+    "miniatura": "miniaturas/boligrafo/80c7b553985347adafe784cd6166b3c5.jpg"
+   },
+   {
+    "uid": "5727def143fd4e28bd885b49ee6e929e",
+    "nombre": "Kaweco Copper Pens",
+    "autor": "chemicalX3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 17530,
+    "url": "https://sketchfab.com/3d-models/none-5727def143fd4e28bd885b49ee6e929e",
+    "miniatura": "miniaturas/boligrafo/5727def143fd4e28bd885b49ee6e929e.jpg"
+   },
+   {
+    "uid": "968c587c84734a14b441b0dfe36d458c",
+    "nombre": "Lamy Logo",
+    "autor": "chemicalX3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 17840,
+    "url": "https://sketchfab.com/3d-models/none-968c587c84734a14b441b0dfe36d458c",
+    "miniatura": "miniaturas/boligrafo/968c587c84734a14b441b0dfe36d458c.jpg"
+   },
+   {
+    "uid": "8760a14500c7487d82790f18fe5c5540",
+    "nombre": "3-Color Ballpoint Pen",
+    "autor": "marchal0298",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10810,
+    "url": "https://sketchfab.com/3d-models/none-8760a14500c7487d82790f18fe5c5540",
+    "miniatura": "miniaturas/boligrafo/8760a14500c7487d82790f18fe5c5540.jpg"
+   },
+   {
+    "uid": "1d0ea7244b9045919d22fdc14024b4e7",
+    "nombre": "Steel ballpointpen",
+    "autor": "chemicalX3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7116,
+    "url": "https://sketchfab.com/3d-models/none-1d0ea7244b9045919d22fdc14024b4e7",
+    "miniatura": "miniaturas/boligrafo/1d0ea7244b9045919d22fdc14024b4e7.jpg"
+   },
+   {
+    "uid": "79d6b48df96f4e79af0bf879b4831727",
+    "nombre": "Pen - Ballpoint, Burgandy",
+    "autor": "clintonabbott.art",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 800,
+    "url": "https://sketchfab.com/3d-models/none-79d6b48df96f4e79af0bf879b4831727",
+    "miniatura": "miniaturas/boligrafo/79d6b48df96f4e79af0bf879b4831727.jpg"
+   },
+   {
+    "uid": "100aba3dbb124819aded5be4ecbf978f",
+    "nombre": "Ballpoint pen",
+    "autor": "chemicalX3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2304,
+    "url": "https://sketchfab.com/3d-models/none-100aba3dbb124819aded5be4ecbf978f",
+    "miniatura": "miniaturas/boligrafo/100aba3dbb124819aded5be4ecbf978f.jpg"
+   },
+   {
+    "uid": "2ba5faad749b4d8a89572611e6788cb9",
+    "nombre": "Brauberg automatic ballpoint pen",
+    "autor": "33v1",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 426,
+    "url": "https://sketchfab.com/3d-models/none-2ba5faad749b4d8a89572611e6788cb9",
+    "miniatura": "miniaturas/boligrafo/2ba5faad749b4d8a89572611e6788cb9.jpg"
+   },
+   {
+    "uid": "1c199b97bd5a4af9b416bc7a2d0441ce",
+    "nombre": "Office pen, penna da ufficio",
+    "autor": "Shotfree",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3168,
+    "url": "https://sketchfab.com/3d-models/none-1c199b97bd5a4af9b416bc7a2d0441ce",
+    "miniatura": "miniaturas/boligrafo/1c199b97bd5a4af9b416bc7a2d0441ce.jpg"
+   },
+   {
+    "uid": "ab39152e6e144adb8186a1e603b97717",
+    "nombre": "Ballpoint Pen .glb (v0.9) FREE Low Poly",
+    "autor": "LadyLionStudios",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5394,
+    "url": "https://sketchfab.com/3d-models/none-ab39152e6e144adb8186a1e603b97717",
+    "miniatura": "miniaturas/boligrafo/ab39152e6e144adb8186a1e603b97717.jpg"
+   },
+   {
+    "uid": "12d0c9bd14c4441cb97533a752f3521e",
+    "nombre": "Bamboo Ballpoint Pen Final Model",
+    "autor": "mmellrot",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2600,
+    "url": "https://sketchfab.com/3d-models/none-12d0c9bd14c4441cb97533a752f3521e",
+    "miniatura": "miniaturas/boligrafo/12d0c9bd14c4441cb97533a752f3521e.jpg"
+   },
+   {
+    "uid": "f206c6292a0e44c3a6f374124b592b78",
+    "nombre": "Pentel BK440A WOW! Retractable Ballpoint Pen",
+    "autor": "SpencerCohen",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 10254,
+    "url": "https://sketchfab.com/3d-models/none-f206c6292a0e44c3a6f374124b592b78",
+    "miniatura": "miniaturas/boligrafo/f206c6292a0e44c3a6f374124b592b78.jpg"
+   },
+   {
+    "uid": "c210364d40554146b5d619d64c29c251",
+    "nombre": "Pen",
+    "autor": "richardyeungx",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2448,
+    "url": "https://sketchfab.com/3d-models/none-c210364d40554146b5d619d64c29c251",
+    "miniatura": "miniaturas/boligrafo/c210364d40554146b5d619d64c29c251.jpg"
+   },
+   {
+    "uid": "41cf506d123d4907be05a225ceb08bd9",
+    "nombre": "ballpoint pen",
+    "autor": "liamconway",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9834,
+    "url": "https://sketchfab.com/3d-models/none-41cf506d123d4907be05a225ceb08bd9",
+    "miniatura": "miniaturas/boligrafo/41cf506d123d4907be05a225ceb08bd9.jpg"
+   },
+   {
+    "uid": "4ee125a2ab7b4df1acd469212d33be88",
+    "nombre": "Staedtler Sprint 408",
+    "autor": "nad451",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18944,
+    "url": "https://sketchfab.com/3d-models/none-4ee125a2ab7b4df1acd469212d33be88",
+    "miniatura": "miniaturas/boligrafo/4ee125a2ab7b4df1acd469212d33be88.jpg"
+   },
+   {
+    "uid": "ca62678728d04773b7056ca664d6084e",
+    "nombre": "Ballpoint pen",
+    "autor": "tommydreh",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3558152,
+    "url": "https://sketchfab.com/3d-models/none-ca62678728d04773b7056ca664d6084e",
+    "miniatura": "miniaturas/boligrafo/ca62678728d04773b7056ca664d6084e.jpg"
+   }
+  ],
+  "yate": [
+   {
+    "uid": "ce4d6915e1d041459e08f2d8da521e86",
+    "nombre": "\"Venus\", a Shetland fourareen",
+    "autor": "ScottishMaritimeMuseum",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 49996,
+    "url": "https://sketchfab.com/3d-models/none-ce4d6915e1d041459e08f2d8da521e86",
+    "miniatura": "miniaturas/yate/ce4d6915e1d041459e08f2d8da521e86.jpg"
+   },
+   {
+    "uid": "248adfea566f4b29b4b2fae772a588c9",
+    "nombre": "CAT C32 1417KW Yaght/Marine Engine",
+    "autor": "flatform",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1484882,
+    "url": "https://sketchfab.com/3d-models/none-248adfea566f4b29b4b2fae772a588c9",
+    "miniatura": "miniaturas/yate/248adfea566f4b29b4b2fae772a588c9.jpg"
+   },
+   {
+    "uid": "0dd451f295d049cea20c17d3ffa87ee3",
+    "nombre": "Yacht",
+    "autor": "sergeif",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8534,
+    "url": "https://sketchfab.com/3d-models/none-0dd451f295d049cea20c17d3ffa87ee3",
+    "miniatura": "miniaturas/yate/0dd451f295d049cea20c17d3ffa87ee3.jpg"
+   },
+   {
+    "uid": "0c121fdfa4f744f9851def9427d372c2",
+    "nombre": "SY Carola",
+    "autor": "ScottishMaritimeMuseum",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 501313,
+    "url": "https://sketchfab.com/3d-models/none-0c121fdfa4f744f9851def9427d372c2",
+    "miniatura": "miniaturas/yate/0c121fdfa4f744f9851def9427d372c2.jpg"
+   },
+   {
+    "uid": "09a9fc4a0061464fba1bc3ba76848869",
+    "nombre": "Small Yacht",
+    "autor": "miguelangelo2k",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 264333,
+    "url": "https://sketchfab.com/3d-models/none-09a9fc4a0061464fba1bc3ba76848869",
+    "miniatura": "miniaturas/yate/09a9fc4a0061464fba1bc3ba76848869.jpg"
+   },
+   {
+    "uid": "137498e7aabb47dfaee3fe2652fadefa",
+    "nombre": "Epstein's Yacht (The Expanse)",
+    "autor": "strawfinch",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 334160,
+    "url": "https://sketchfab.com/3d-models/none-137498e7aabb47dfaee3fe2652fadefa",
+    "miniatura": "miniaturas/yate/137498e7aabb47dfaee3fe2652fadefa.jpg"
+   },
+   {
+    "uid": "66c18ecd7a834d4a99dabc46b5ee6e4a",
+    "nombre": "Low Poly Beach Assets",
+    "autor": "Edwin3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12304,
+    "url": "https://sketchfab.com/3d-models/none-66c18ecd7a834d4a99dabc46b5ee6e4a",
+    "miniatura": "miniaturas/yate/66c18ecd7a834d4a99dabc46b5ee6e4a.jpg"
+   },
+   {
+    "uid": "9832dd05d16e4e0dbdbcd2b1c45563b6",
+    "nombre": "Queen Mab",
+    "autor": "ScottishMaritimeMuseum",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 199991,
+    "url": "https://sketchfab.com/3d-models/none-9832dd05d16e4e0dbdbcd2b1c45563b6",
+    "miniatura": "miniaturas/yate/9832dd05d16e4e0dbdbcd2b1c45563b6.jpg"
+   },
+   {
+    "uid": "1f320f9e96cd4a9d961d7b1553a2feed",
+    "nombre": "Swedish royal yacht Amadis",
+    "autor": "Museovirasto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 454692,
+    "url": "https://sketchfab.com/3d-models/none-1f320f9e96cd4a9d961d7b1553a2feed",
+    "miniatura": "miniaturas/yate/1f320f9e96cd4a9d961d7b1553a2feed.jpg"
+   },
+   {
+    "uid": "14564c5ec6ee4f11a3ea8e213b981cb1",
+    "nombre": "2002 Grand Banks",
+    "autor": "boatusfoundation",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 556061,
+    "url": "https://sketchfab.com/3d-models/none-14564c5ec6ee4f11a3ea8e213b981cb1",
+    "miniatura": "miniaturas/yate/14564c5ec6ee4f11a3ea8e213b981cb1.jpg"
+   },
+   {
+    "uid": "17bd8188447b48baab75125b9ad20788",
+    "nombre": "SY Carola (point cloud)",
+    "autor": "ScottishMaritimeMuseum",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-17bd8188447b48baab75125b9ad20788",
+    "miniatura": "miniaturas/yate/17bd8188447b48baab75125b9ad20788.jpg"
+   },
+   {
+    "uid": "751174e48b764e829410cd323144833c",
+    "nombre": "Swedish royal schooner yacht Amphion",
+    "autor": "Museovirasto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 398667,
+    "url": "https://sketchfab.com/3d-models/none-751174e48b764e829410cd323144833c",
+    "miniatura": "miniaturas/yate/751174e48b764e829410cd323144833c.jpg"
+   },
+   {
+    "uid": "cb6dee6d3d964b69ba50c95b220e4f9e",
+    "nombre": "Star Wars: Personal Luxury Yacht 3000",
+    "autor": "DanielAndersson",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 17822,
+    "url": "https://sketchfab.com/3d-models/none-cb6dee6d3d964b69ba50c95b220e4f9e",
+    "miniatura": "miniaturas/yate/cb6dee6d3d964b69ba50c95b220e4f9e.jpg"
+   },
+   {
+    "uid": "0bdd7a0de7254426890bb5745bb7da6d",
+    "nombre": "motoryacht 35",
+    "autor": "angeloraffaelecatalano",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1544449,
+    "url": "https://sketchfab.com/3d-models/none-0bdd7a0de7254426890bb5745bb7da6d",
+    "miniatura": "miniaturas/yate/0bdd7a0de7254426890bb5745bb7da6d.jpg"
+   },
+   {
+    "uid": "4c903a14567f47fcb9d1bbf3e38ca502",
+    "nombre": "\"Venus\", a Shetland fourareen (with base)",
+    "autor": "ScottishMaritimeMuseum",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 19895,
+    "url": "https://sketchfab.com/3d-models/none-4c903a14567f47fcb9d1bbf3e38ca502",
+    "miniatura": "miniaturas/yate/4c903a14567f47fcb9d1bbf3e38ca502.jpg"
+   },
+   {
+    "uid": "21bcd49240a54f2b879dd3f91de4fca3",
+    "nombre": "Antique motorboat",
+    "autor": "trivial.cat",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 26346,
+    "url": "https://sketchfab.com/3d-models/none-21bcd49240a54f2b879dd3f91de4fca3",
+    "miniatura": "miniaturas/yate/21bcd49240a54f2b879dd3f91de4fca3.jpg"
+   },
+   {
+    "uid": "655477231d7d4ee7bcac0c1714385dc5",
+    "nombre": "Silhouette l Силуэт",
+    "autor": "naserus93",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 59147,
+    "url": "https://sketchfab.com/3d-models/none-655477231d7d4ee7bcac0c1714385dc5",
+    "miniatura": "miniaturas/yate/655477231d7d4ee7bcac0c1714385dc5.jpg"
+   },
+   {
+    "uid": "5c29921a556346f09684eadfbc51a91d",
+    "nombre": "ZEFIRO",
+    "autor": "angeloraffaelecatalano",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 84588,
+    "url": "https://sketchfab.com/3d-models/none-5c29921a556346f09684eadfbc51a91d",
+    "miniatura": "miniaturas/yate/5c29921a556346f09684eadfbc51a91d.jpg"
+   },
+   {
+    "uid": "98aeec3157124afe8ae14d399a6ade0c",
+    "nombre": "Crustacea Cape cod",
+    "autor": "angeloraffaelecatalano",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 129235,
+    "url": "https://sketchfab.com/3d-models/none-98aeec3157124afe8ae14d399a6ade0c",
+    "miniatura": "miniaturas/yate/98aeec3157124afe8ae14d399a6ade0c.jpg"
+   },
+   {
+    "uid": "86d6c06d0251403795b843153baa06e5",
+    "nombre": "Yacht Adastra",
+    "autor": "marioSF",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 304139,
+    "url": "https://sketchfab.com/3d-models/none-86d6c06d0251403795b843153baa06e5",
+    "miniatura": "miniaturas/yate/86d6c06d0251403795b843153baa06e5.jpg"
+   },
+   {
+    "uid": "f3a335b3e6194aea810608caf32db43c",
+    "nombre": "Hitman Go - Yacht Diorama",
+    "autor": "mshtk",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 78284,
+    "url": "https://sketchfab.com/3d-models/none-f3a335b3e6194aea810608caf32db43c",
+    "miniatura": "miniaturas/yate/f3a335b3e6194aea810608caf32db43c.jpg"
+   },
+   {
+    "uid": "8fd630ce74c54fe986a792c3ebb5d57b",
+    "nombre": "Finished Cruise Ship",
+    "autor": "siuliano",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 210848,
+    "url": "https://sketchfab.com/3d-models/none-8fd630ce74c54fe986a792c3ebb5d57b",
+    "miniatura": "miniaturas/yate/8fd630ce74c54fe986a792c3ebb5d57b.jpg"
+   },
+   {
+    "uid": "0a09b04cb88941a7ab5f2f95352a2fca",
+    "nombre": "AVA Industries: Ko Ranginui Frigate",
+    "autor": "avaslash",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 237953,
+    "url": "https://sketchfab.com/3d-models/none-0a09b04cb88941a7ab5f2f95352a2fca",
+    "miniatura": "miniaturas/yate/0a09b04cb88941a7ab5f2f95352a2fca.jpg"
+   },
+   {
+    "uid": "b6c410c5fc7044bc93a47ddf978697b0",
+    "nombre": "ZEFIRO",
+    "autor": "angeloraffaelecatalano",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 67221,
+    "url": "https://sketchfab.com/3d-models/none-b6c410c5fc7044bc93a47ddf978697b0",
+    "miniatura": "miniaturas/yate/b6c410c5fc7044bc93a47ddf978697b0.jpg"
+   }
+  ],
+  "mansion": [
+   {
+    "uid": "e215b6fd60ca48ddabaa77373f35176c",
+    "nombre": "TEREM",
+    "autor": "uvnik",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 132174,
+    "url": "https://sketchfab.com/3d-models/none-e215b6fd60ca48ddabaa77373f35176c",
+    "miniatura": "miniaturas/mansion/e215b6fd60ca48ddabaa77373f35176c.jpg"
+   },
+   {
+    "uid": "392fc123a68844779636004af5209e74",
+    "nombre": "The Mansion Gate",
+    "autor": "finaltouch_1a",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 376653,
+    "url": "https://sketchfab.com/3d-models/none-392fc123a68844779636004af5209e74",
+    "miniatura": "miniaturas/mansion/392fc123a68844779636004af5209e74.jpg"
+   },
+   {
+    "uid": "cf93dfd6da1640f08ebe051ba280426d",
+    "nombre": "Shanty | Mansion | Wooden",
+    "autor": "yadrogames",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5150,
+    "url": "https://sketchfab.com/3d-models/none-cf93dfd6da1640f08ebe051ba280426d",
+    "miniatura": "miniaturas/mansion/cf93dfd6da1640f08ebe051ba280426d.jpg"
+   },
+   {
+    "uid": "dbb02bf8f5ed4851b05dd97a1784a1fb",
+    "nombre": "Victorian house",
+    "autor": "greg-l",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 186337,
+    "url": "https://sketchfab.com/3d-models/none-dbb02bf8f5ed4851b05dd97a1784a1fb",
+    "miniatura": "miniaturas/mansion/dbb02bf8f5ed4851b05dd97a1784a1fb.jpg"
+   },
+   {
+    "uid": "bf38a87d03834065a5f25c29a1cd7273",
+    "nombre": "Stone lion",
+    "autor": "D.art",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 22329,
+    "url": "https://sketchfab.com/3d-models/none-bf38a87d03834065a5f25c29a1cd7273",
+    "miniatura": "miniaturas/mansion/bf38a87d03834065a5f25c29a1cd7273.jpg"
+   },
+   {
+    "uid": "c549d24b60f74d8f85c7a5cbd2f55d0f",
+    "nombre": "Mario obj",
+    "autor": "matias029",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 36482,
+    "url": "https://sketchfab.com/3d-models/none-c549d24b60f74d8f85c7a5cbd2f55d0f",
+    "miniatura": "miniaturas/mansion/c549d24b60f74d8f85c7a5cbd2f55d0f.jpg"
+   },
+   {
+    "uid": "91a01eae9ada489a9bc76ecf21881237",
+    "nombre": "Vianden Castle",
+    "autor": "333DDD-oficial",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 419999,
+    "url": "https://sketchfab.com/3d-models/none-91a01eae9ada489a9bc76ecf21881237",
+    "miniatura": "miniaturas/mansion/91a01eae9ada489a9bc76ecf21881237.jpg"
+   },
+   {
+    "uid": "a26bde27281641eba1b889e927d138e5",
+    "nombre": "Mansion 5",
+    "autor": "aitortilla01",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5282,
+    "url": "https://sketchfab.com/3d-models/none-a26bde27281641eba1b889e927d138e5",
+    "miniatura": "miniaturas/mansion/a26bde27281641eba1b889e927d138e5.jpg"
+   },
+   {
+    "uid": "8a6c396bc9584fd6b700ad669fb41471",
+    "nombre": "Japanese-like mansion",
+    "autor": "kozok-3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 362809,
+    "url": "https://sketchfab.com/3d-models/none-8a6c396bc9584fd6b700ad669fb41471",
+    "miniatura": "miniaturas/mansion/8a6c396bc9584fd6b700ad669fb41471.jpg"
+   },
+   {
+    "uid": "c8114604c1be434bbcbd8215efe47da8",
+    "nombre": "Abandoned Mansion  -RAWscan",
+    "autor": "spogna",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1168429,
+    "url": "https://sketchfab.com/3d-models/none-c8114604c1be434bbcbd8215efe47da8",
+    "miniatura": "miniaturas/mansion/c8114604c1be434bbcbd8215efe47da8.jpg"
+   },
+   {
+    "uid": "d5549e1a837e47659dee64d12ce0bb30",
+    "nombre": "Anime Mansion",
+    "autor": "ani111",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4040,
+    "url": "https://sketchfab.com/3d-models/none-d5549e1a837e47659dee64d12ce0bb30",
+    "miniatura": "miniaturas/mansion/d5549e1a837e47659dee64d12ce0bb30.jpg"
+   },
+   {
+    "uid": "5aed0887ead74f0ba2988a3de7d61bd7",
+    "nombre": "Low Poly Mansion",
+    "autor": "Edwin3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 70925,
+    "url": "https://sketchfab.com/3d-models/none-5aed0887ead74f0ba2988a3de7d61bd7",
+    "miniatura": "miniaturas/mansion/5aed0887ead74f0ba2988a3de7d61bd7.jpg"
+   },
+   {
+    "uid": "c68044a625e9429f9ca6c11fc1756037",
+    "nombre": "Mansion 1",
+    "autor": "aitortilla01",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5638,
+    "url": "https://sketchfab.com/3d-models/none-c68044a625e9429f9ca6c11fc1756037",
+    "miniatura": "miniaturas/mansion/c68044a625e9429f9ca6c11fc1756037.jpg"
+   },
+   {
+    "uid": "c9d13217f4cc4f098d8c221a9dbbbc27",
+    "nombre": "Macchiato Mansion",
+    "autor": "DreamingDogg",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 125593,
+    "url": "https://sketchfab.com/3d-models/none-c9d13217f4cc4f098d8c221a9dbbbc27",
+    "miniatura": "miniaturas/mansion/c9d13217f4cc4f098d8c221a9dbbbc27.jpg"
+   },
+   {
+    "uid": "41c7f913b99643d695f0b3b09bab8382",
+    "nombre": "Resident Hill: The Mansion",
+    "autor": "mediochrea",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 53655,
+    "url": "https://sketchfab.com/3d-models/none-41c7f913b99643d695f0b3b09bab8382",
+    "miniatura": "miniaturas/mansion/41c7f913b99643d695f0b3b09bab8382.jpg"
+   },
+   {
+    "uid": "9b68a138839d4c929ac222c67cff0d5a",
+    "nombre": "Residential District",
+    "autor": "kanon14715",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 160788,
+    "url": "https://sketchfab.com/3d-models/none-9b68a138839d4c929ac222c67cff0d5a",
+    "miniatura": "miniaturas/mansion/9b68a138839d4c929ac222c67cff0d5a.jpg"
+   },
+   {
+    "uid": "4f470b5761734dbabba5b9e1920abda2",
+    "nombre": "Swimming Pool - Nouveau Roman Classical 25 m",
+    "autor": "dionstra",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 302490,
+    "url": "https://sketchfab.com/3d-models/none-4f470b5761734dbabba5b9e1920abda2",
+    "miniatura": "miniaturas/mansion/4f470b5761734dbabba5b9e1920abda2.jpg"
+   },
+   {
+    "uid": "84d56e0512a44e8bbbb8d8e80ff29a45",
+    "nombre": "Haunted Mansion Stretching Room",
+    "autor": "pixeldog4ever",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 43356,
+    "url": "https://sketchfab.com/3d-models/none-84d56e0512a44e8bbbb8d8e80ff29a45",
+    "miniatura": "miniaturas/mansion/84d56e0512a44e8bbbb8d8e80ff29a45.jpg"
+   },
+   {
+    "uid": "30b40452eb384e59953ef9e772caa18f",
+    "nombre": "Mansion 2",
+    "autor": "aitortilla01",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5461,
+    "url": "https://sketchfab.com/3d-models/none-30b40452eb384e59953ef9e772caa18f",
+    "miniatura": "miniaturas/mansion/30b40452eb384e59953ef9e772caa18f.jpg"
+   },
+   {
+    "uid": "2a75286422e64948b1d6626bc9c6d47d",
+    "nombre": "PICTURE FRAME 15*20 dimensions",
+    "autor": "FredDrabble",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 194,
+    "url": "https://sketchfab.com/3d-models/none-2a75286422e64948b1d6626bc9c6d47d",
+    "miniatura": "miniaturas/mansion/2a75286422e64948b1d6626bc9c6d47d.jpg"
+   },
+   {
+    "uid": "959bc21f62964c068e441622e8d1103a",
+    "nombre": "Sofa (Game Ready / 2K PBR)",
+    "autor": "meerschaumdigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2734,
+    "url": "https://sketchfab.com/3d-models/none-959bc21f62964c068e441622e8d1103a",
+    "miniatura": "miniaturas/mansion/959bc21f62964c068e441622e8d1103a.jpg"
+   },
+   {
+    "uid": "4d62825f6e6c44468e80b1ab846ce4bd",
+    "nombre": "Hôtel de Bagis, Toulouse (31)",
+    "autor": "archeomatique",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 565070,
+    "url": "https://sketchfab.com/3d-models/none-4d62825f6e6c44468e80b1ab846ce4bd",
+    "miniatura": "miniaturas/mansion/4d62825f6e6c44468e80b1ab846ce4bd.jpg"
+   },
+   {
+    "uid": "fcdc99cbf8644673ac57ce575b08da4d",
+    "nombre": "SHC MANSION 3 TEST",
+    "autor": "denniswoo1993",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 21178,
+    "url": "https://sketchfab.com/3d-models/none-fcdc99cbf8644673ac57ce575b08da4d",
+    "miniatura": "miniaturas/mansion/fcdc99cbf8644673ac57ce575b08da4d.jpg"
+   },
+   {
+    "uid": "6f5a66deecf348c1a6ebed0ce38b810d",
+    "nombre": "Unseen: Bathroom Sink",
+    "autor": "JmCVoyager",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6384,
+    "url": "https://sketchfab.com/3d-models/none-6f5a66deecf348c1a6ebed0ce38b810d",
+    "miniatura": "miniaturas/mansion/6f5a66deecf348c1a6ebed0ce38b810d.jpg"
+   }
+  ],
+  "carro": [
+   {
+    "uid": "a5737bf3cc9b4179a6e5ebe173ff70d9",
+    "nombre": "Toyota AE86 Sprinter Trueno Zenki",
+    "autor": "TinoD2",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 706225,
+    "url": "https://sketchfab.com/3d-models/none-a5737bf3cc9b4179a6e5ebe173ff70d9",
+    "miniatura": "miniaturas/carro/a5737bf3cc9b4179a6e5ebe173ff70d9.jpg"
+   },
+   {
+    "uid": "663a0953c038434a918cb85725c88ffa",
+    "nombre": "LCT 3000 '95 - Low poly model",
+    "autor": "DanielZhabotinsky",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18947,
+    "url": "https://sketchfab.com/3d-models/none-663a0953c038434a918cb85725c88ffa",
+    "miniatura": "miniaturas/carro/663a0953c038434a918cb85725c88ffa.jpg"
+   },
+   {
+    "uid": "632d4eb3ebbd4796b1353e5691c92edd",
+    "nombre": "Ruined Cars (Small Freebie)",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 8450,
+    "url": "https://sketchfab.com/3d-models/none-632d4eb3ebbd4796b1353e5691c92edd",
+    "miniatura": "miniaturas/carro/632d4eb3ebbd4796b1353e5691c92edd.jpg"
+   },
+   {
+    "uid": "80854ba302034431b517f523db328129",
+    "nombre": "Toyota AE86 Black Limited Kouki",
+    "autor": "TinoD2",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 710831,
+    "url": "https://sketchfab.com/3d-models/none-80854ba302034431b517f523db328129",
+    "miniatura": "miniaturas/carro/80854ba302034431b517f523db328129.jpg"
+   },
+   {
+    "uid": "00f6f2c0d6ed44ae933fafac90ca16a6",
+    "nombre": "Fw 190 Airplane to Car Conversion",
+    "autor": "jeandiz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 250415,
+    "url": "https://sketchfab.com/3d-models/none-00f6f2c0d6ed44ae933fafac90ca16a6",
+    "miniatura": "miniaturas/carro/00f6f2c0d6ed44ae933fafac90ca16a6.jpg"
+   },
+   {
+    "uid": "3be03b6a43aa41898c9ca806b8787052",
+    "nombre": "LCT 3000 '07- Low poly model",
+    "autor": "DanielZhabotinsky",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15846,
+    "url": "https://sketchfab.com/3d-models/none-3be03b6a43aa41898c9ca806b8787052",
+    "miniatura": "miniaturas/carro/3be03b6a43aa41898c9ca806b8787052.jpg"
+   },
+   {
+    "uid": "edd1c604e1e045a0a2a552ddd9a293e6",
+    "nombre": "Cartoon Lowpoly Small City Free Pack",
+    "autor": "antonmoek",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 36930,
+    "url": "https://sketchfab.com/3d-models/none-edd1c604e1e045a0a2a552ddd9a293e6",
+    "miniatura": "miniaturas/carro/edd1c604e1e045a0a2a552ddd9a293e6.jpg"
+   },
+   {
+    "uid": "1a950b81ee274a0eb8014bd84ba047f5",
+    "nombre": "Nissan Skyline GT-R C110 Kenmeri '73",
+    "autor": "TinoD2",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 290990,
+    "url": "https://sketchfab.com/3d-models/none-1a950b81ee274a0eb8014bd84ba047f5",
+    "miniatura": "miniaturas/carro/1a950b81ee274a0eb8014bd84ba047f5.jpg"
+   },
+   {
+    "uid": "67c84e4d30ae42fda22c0a0c7526df26",
+    "nombre": "Small price car",
+    "autor": "Oliv1e",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 42294,
+    "url": "https://sketchfab.com/3d-models/none-67c84e4d30ae42fda22c0a0c7526df26",
+    "miniatura": "miniaturas/carro/67c84e4d30ae42fda22c0a0c7526df26.jpg"
+   },
+   {
+    "uid": "4a81b064873749f8a62e97583f658f41",
+    "nombre": "The_Breakers_Yard Part 1 (CC0)",
+    "autor": "britdawgmasterfunk",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3837289,
+    "url": "https://sketchfab.com/3d-models/none-4a81b064873749f8a62e97583f658f41",
+    "miniatura": "miniaturas/carro/4a81b064873749f8a62e97583f658f41.jpg"
+   },
+   {
+    "uid": "4977fa3e5dec432ea4173f910c74805a",
+    "nombre": "Post-Apoc Civilian Cars",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 4374,
+    "url": "https://sketchfab.com/3d-models/none-4977fa3e5dec432ea4173f910c74805a",
+    "miniatura": "miniaturas/carro/4977fa3e5dec432ea4173f910c74805a.jpg"
+   },
+   {
+    "uid": "c94daeb210b244729d634975c9ed0c5b",
+    "nombre": "1995 Lada/VAZ 2107",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 2048,
+    "url": "https://sketchfab.com/3d-models/none-c94daeb210b244729d634975c9ed0c5b",
+    "miniatura": "miniaturas/carro/c94daeb210b244729d634975c9ed0c5b.jpg"
+   },
+   {
+    "uid": "e61a7547e3c6408baddad87fb1d96d5e",
+    "nombre": "Low Poly Camper",
+    "autor": "Suushimi",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 14902,
+    "url": "https://sketchfab.com/3d-models/none-e61a7547e3c6408baddad87fb1d96d5e",
+    "miniatura": "miniaturas/carro/e61a7547e3c6408baddad87fb1d96d5e.jpg"
+   },
+   {
+    "uid": "b97884f0730d42a68c1a6a9a9874159d",
+    "nombre": "Abandoned Soviet Car — IZH-2715 \"Пирожок\"",
+    "autor": "mgv",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 200000,
+    "url": "https://sketchfab.com/3d-models/none-b97884f0730d42a68c1a6a9a9874159d",
+    "miniatura": "miniaturas/carro/b97884f0730d42a68c1a6a9a9874159d.jpg"
+   },
+   {
+    "uid": "b07e82ed61d145d5a3294d74f6183368",
+    "nombre": "Car jack",
+    "autor": "JinhongJeong",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 12916,
+    "url": "https://sketchfab.com/3d-models/none-b07e82ed61d145d5a3294d74f6183368",
+    "miniatura": "miniaturas/carro/b07e82ed61d145d5a3294d74f6183368.jpg"
+   },
+   {
+    "uid": "7fd6e15785fa4aa9bfd6e31eb7c97ba6",
+    "nombre": "Kiri '10 - Low poly model",
+    "autor": "DanielZhabotinsky",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13035,
+    "url": "https://sketchfab.com/3d-models/none-7fd6e15785fa4aa9bfd6e31eb7c97ba6",
+    "miniatura": "miniaturas/carro/7fd6e15785fa4aa9bfd6e31eb7c97ba6.jpg"
+   },
+   {
+    "uid": "21b2a6e1b7bd4851bdc5a1688b99a64d",
+    "nombre": "Low Poly Vehicle Mini Pack 4.3",
+    "autor": "vladek27",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 199461,
+    "url": "https://sketchfab.com/3d-models/none-21b2a6e1b7bd4851bdc5a1688b99a64d",
+    "miniatura": "miniaturas/carro/21b2a6e1b7bd4851bdc5a1688b99a64d.jpg"
+   },
+   {
+    "uid": "4a1ada9d2847461db4bc99c35194a55c",
+    "nombre": "1991 VAZ 21099",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 1960,
+    "url": "https://sketchfab.com/3d-models/none-4a1ada9d2847461db4bc99c35194a55c",
+    "miniatura": "miniaturas/carro/4a1ada9d2847461db4bc99c35194a55c.jpg"
+   },
+   {
+    "uid": "cb8835765c4b4c37bdb3d34f19b3fa5b",
+    "nombre": "Sci-fi Car Lift (Cyberpunk Style)",
+    "autor": "Alister.Dsa",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 13042,
+    "url": "https://sketchfab.com/3d-models/none-cb8835765c4b4c37bdb3d34f19b3fa5b",
+    "miniatura": "miniaturas/carro/cb8835765c4b4c37bdb3d34f19b3fa5b.jpg"
+   },
+   {
+    "uid": "53f199e35f9944dc830493e3a21293eb",
+    "nombre": "car carton",
+    "autor": "shahabahmed",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 76606,
+    "url": "https://sketchfab.com/3d-models/none-53f199e35f9944dc830493e3a21293eb",
+    "miniatura": "miniaturas/carro/53f199e35f9944dc830493e3a21293eb.jpg"
+   },
+   {
+    "uid": "b49688ffec6943c7b77cafdb1286e079",
+    "nombre": "Low Poly Vehicle Mini Pack 4.1",
+    "autor": "vladek27",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 290352,
+    "url": "https://sketchfab.com/3d-models/none-b49688ffec6943c7b77cafdb1286e079",
+    "miniatura": "miniaturas/carro/b49688ffec6943c7b77cafdb1286e079.jpg"
+   },
+   {
+    "uid": "ebe7c5e98a7448b5abb2eaf0cb22b766",
+    "nombre": "Low Poly Small car",
+    "autor": "scailman",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7292,
+    "url": "https://sketchfab.com/3d-models/none-ebe7c5e98a7448b5abb2eaf0cb22b766",
+    "miniatura": "miniaturas/carro/ebe7c5e98a7448b5abb2eaf0cb22b766.jpg"
+   },
+   {
+    "uid": "ea61677def5849eb821bcb6de9a38b9c",
+    "nombre": "Motel Scene",
+    "autor": "hippostance",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 53714,
+    "url": "https://sketchfab.com/3d-models/none-ea61677def5849eb821bcb6de9a38b9c",
+    "miniatura": "miniaturas/carro/ea61677def5849eb821bcb6de9a38b9c.jpg"
+   },
+   {
+    "uid": "1f26e13076a740cd99ec3d0f556dc479",
+    "nombre": "MCRN Dropship (The Expanse)",
+    "autor": "strawfinch",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 201918,
+    "url": "https://sketchfab.com/3d-models/none-1f26e13076a740cd99ec3d0f556dc479",
+    "miniatura": "miniaturas/carro/1f26e13076a740cd99ec3d0f556dc479.jpg"
+   }
+  ],
+  "imprenta": [
+   {
+    "uid": "42c694acac9840679692ab06db4ce98e",
+    "nombre": "Printing press",
+    "autor": "kifir",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 11116,
+    "url": "https://sketchfab.com/3d-models/none-42c694acac9840679692ab06db4ce98e",
+    "miniatura": "miniaturas/imprenta/42c694acac9840679692ab06db4ce98e.jpg"
+   },
+   {
+    "uid": "f6763bd2c00d4ff784dca33a31adea08",
+    "nombre": "Yellow submarine - Beatles",
+    "autor": "RalphEdenbag",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 216606,
+    "url": "https://sketchfab.com/3d-models/none-f6763bd2c00d4ff784dca33a31adea08",
+    "miniatura": "miniaturas/imprenta/f6763bd2c00d4ff784dca33a31adea08.jpg"
+   },
+   {
+    "uid": "6cc09116bb514e4993007ec319705128",
+    "nombre": "IS-Pe_Dolphin(FS) 001",
+    "autor": "ISartstudio",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 64966,
+    "url": "https://sketchfab.com/3d-models/none-6cc09116bb514e4993007ec319705128",
+    "miniatura": "miniaturas/imprenta/6cc09116bb514e4993007ec319705128.jpg"
+   },
+   {
+    "uid": "e2e5f953924e4e9aacc3c29f6194bf34",
+    "nombre": "Uncommon Press",
+    "autor": "arboo",
+    "licencia": "CC Attribution",
+    "animaciones": 7,
+    "caras": 708634,
+    "url": "https://sketchfab.com/3d-models/none-e2e5f953924e4e9aacc3c29f6194bf34",
+    "miniatura": "miniaturas/imprenta/e2e5f953924e4e9aacc3c29f6194bf34.jpg"
+   },
+   {
+    "uid": "2f80891c2e494134822db52136f5450c",
+    "nombre": "Printing Press",
+    "autor": "amethyst",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 16284,
+    "url": "https://sketchfab.com/3d-models/none-2f80891c2e494134822db52136f5450c",
+    "miniatura": "miniaturas/imprenta/2f80891c2e494134822db52136f5450c.jpg"
+   },
+   {
+    "uid": "df031fbaa23442e3961f70d0472ded48",
+    "nombre": "Johannes Gutenberg",
+    "autor": "www.noe-3d.at",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 843799,
+    "url": "https://sketchfab.com/3d-models/none-df031fbaa23442e3961f70d0472ded48",
+    "miniatura": "miniaturas/imprenta/df031fbaa23442e3961f70d0472ded48.jpg"
+   },
+   {
+    "uid": "3810f538665c4acca4007f71414efc48",
+    "nombre": "Vandercook Letter Press Printing Press",
+    "autor": "scbenoit",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 206040,
+    "url": "https://sketchfab.com/3d-models/none-3810f538665c4acca4007f71414efc48",
+    "miniatura": "miniaturas/imprenta/3810f538665c4acca4007f71414efc48.jpg"
+   },
+   {
+    "uid": "f1ac055a9b2e4ad6913aefd0a7eb37f1",
+    "nombre": "Morse code telegraph device",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 179309,
+    "url": "https://sketchfab.com/3d-models/none-f1ac055a9b2e4ad6913aefd0a7eb37f1",
+    "miniatura": "miniaturas/imprenta/f1ac055a9b2e4ad6913aefd0a7eb37f1.jpg"
+   },
+   {
+    "uid": "5576a93b89a84873b7b051c28fea293a",
+    "nombre": "Vintage Printing Press .glb Low Poly",
+    "autor": "LadyLionStudios",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 8810,
+    "url": "https://sketchfab.com/3d-models/none-5576a93b89a84873b7b051c28fea293a",
+    "miniatura": "miniaturas/imprenta/5576a93b89a84873b7b051c28fea293a.jpg"
+   },
+   {
+    "uid": "15e8a24d38384220a20debda3aa7843b",
+    "nombre": "Skyrim Whole Land Map - For 3d Printing",
+    "autor": "JulioSiqueira",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 918694,
+    "url": "https://sketchfab.com/3d-models/none-15e8a24d38384220a20debda3aa7843b",
+    "miniatura": "miniaturas/imprenta/15e8a24d38384220a20debda3aa7843b.jpg"
+   },
+   {
+    "uid": "9f7122a470944d679e8e62f03c986caa",
+    "nombre": "剝皮寮活版印刷特展 鉛字排版",
+    "autor": "areong",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 209686,
+    "url": "https://sketchfab.com/3d-models/none-9f7122a470944d679e8e62f03c986caa",
+    "miniatura": "miniaturas/imprenta/9f7122a470944d679e8e62f03c986caa.jpg"
+   },
+   {
+    "uid": "9a682a6ce78243ecb2a2edc28eeab148",
+    "nombre": "Burnt Printing Machine scans with iPhone12 Pro",
+    "autor": "seirogan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 101733,
+    "url": "https://sketchfab.com/3d-models/none-9a682a6ce78243ecb2a2edc28eeab148",
+    "miniatura": "miniaturas/imprenta/9a682a6ce78243ecb2a2edc28eeab148.jpg"
+   },
+   {
+    "uid": "d1bfc62172c2490780088019f36e329e",
+    "nombre": "Common press",
+    "autor": "silversix65",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 48744,
+    "url": "https://sketchfab.com/3d-models/none-d1bfc62172c2490780088019f36e329e",
+    "miniatura": "miniaturas/imprenta/d1bfc62172c2490780088019f36e329e.jpg"
+   },
+   {
+    "uid": "65b9784e46cb43c1866b5ecdf80e566d",
+    "nombre": "Printing press",
+    "autor": "scbenoit",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 197143,
+    "url": "https://sketchfab.com/3d-models/none-65b9784e46cb43c1866b5ecdf80e566d",
+    "miniatura": "miniaturas/imprenta/65b9784e46cb43c1866b5ecdf80e566d.jpg"
+   },
+   {
+    "uid": "89b005c24c8942839d9710a8b45b7feb",
+    "nombre": "UV LED Single Pass Tile Press",
+    "autor": "adityapatil",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 38012,
+    "url": "https://sketchfab.com/3d-models/none-89b005c24c8942839d9710a8b45b7feb",
+    "miniatura": "miniaturas/imprenta/89b005c24c8942839d9710a8b45b7feb.jpg"
+   },
+   {
+    "uid": "5251a258127d4122944944846dad83c3",
+    "nombre": "Colonial Printing Press",
+    "autor": "morzenmebs",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 337189,
+    "url": "https://sketchfab.com/3d-models/none-5251a258127d4122944944846dad83c3",
+    "miniatura": "miniaturas/imprenta/5251a258127d4122944944846dad83c3.jpg"
+   },
+   {
+    "uid": "078b3ac9ba3c40e1895af31b82ad39f7",
+    "nombre": "剝皮寮活版印刷特展 凸版印刷成品",
+    "autor": "areong",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 262829,
+    "url": "https://sketchfab.com/3d-models/none-078b3ac9ba3c40e1895af31b82ad39f7",
+    "miniatura": "miniaturas/imprenta/078b3ac9ba3c40e1895af31b82ad39f7.jpg"
+   },
+   {
+    "uid": "85e7572489f045f487d97178663960b0",
+    "nombre": "Linotype",
+    "autor": "jovrnalism",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 43287,
+    "url": "https://sketchfab.com/3d-models/none-85e7572489f045f487d97178663960b0",
+    "miniatura": "miniaturas/imprenta/85e7572489f045f487d97178663960b0.jpg"
+   },
+   {
+    "uid": "7f9771c6a403412e8a586c48644055d8",
+    "nombre": "Laurens Janszoon Coster",
+    "autor": "bramkreuger",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 69347,
+    "url": "https://sketchfab.com/3d-models/none-7f9771c6a403412e8a586c48644055d8",
+    "miniatura": "miniaturas/imprenta/7f9771c6a403412e8a586c48644055d8.jpg"
+   },
+   {
+    "uid": "96d051c1c6af44ae86f63b0ed96506d8",
+    "nombre": "Omnibox 3drag V3 Fan",
+    "autor": "giovanni_leoni",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 21530,
+    "url": "https://sketchfab.com/3d-models/none-96d051c1c6af44ae86f63b0ed96506d8",
+    "miniatura": "miniaturas/imprenta/96d051c1c6af44ae86f63b0ed96506d8.jpg"
+   },
+   {
+    "uid": "71f943101fba4fa9b21600fab3edfb07",
+    "nombre": "Vintage printing press",
+    "autor": "jovrnalism",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 67278,
+    "url": "https://sketchfab.com/3d-models/none-71f943101fba4fa9b21600fab3edfb07",
+    "miniatura": "miniaturas/imprenta/71f943101fba4fa9b21600fab3edfb07.jpg"
+   },
+   {
+    "uid": "34a49861e7744acfb71de471a755e917",
+    "nombre": "LOW HS logo - Logo of HS",
+    "autor": "TrafficMuseumsAssociation",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 74994,
+    "url": "https://sketchfab.com/3d-models/none-34a49861e7744acfb71de471a755e917",
+    "miniatura": "miniaturas/imprenta/34a49861e7744acfb71de471a755e917.jpg"
+   }
+  ],
+  "anzuelo": [
+   {
+    "uid": "7ef191da28bc4428b8ede2f62562f1ac",
+    "nombre": "Fishing Boat",
+    "autor": "BuntyS",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 25402,
+    "url": "https://sketchfab.com/3d-models/none-7ef191da28bc4428b8ede2f62562f1ac",
+    "miniatura": "miniaturas/anzuelo/7ef191da28bc4428b8ede2f62562f1ac.jpg"
+   },
+   {
+    "uid": "209706089c414a73b4c2907f2d34024d",
+    "nombre": "Fishing lure Chubby 38 #3",
+    "autor": "Zverev",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 24488,
+    "url": "https://sketchfab.com/3d-models/none-209706089c414a73b4c2907f2d34024d",
+    "miniatura": "miniaturas/anzuelo/209706089c414a73b4c2907f2d34024d.jpg"
+   },
+   {
+    "uid": "934c3cb6ed06462e8afee848b7942d6e",
+    "nombre": "FISHING HOOK V2",
+    "autor": "danchristie25",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 95184,
+    "url": "https://sketchfab.com/3d-models/none-934c3cb6ed06462e8afee848b7942d6e",
+    "miniatura": "miniaturas/anzuelo/934c3cb6ed06462e8afee848b7942d6e.jpg"
+   },
+   {
+    "uid": "8f35a109a817478084053110de4839f9",
+    "nombre": "Fishing lure Chubby 38 #4",
+    "autor": "Zverev",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 24488,
+    "url": "https://sketchfab.com/3d-models/none-8f35a109a817478084053110de4839f9",
+    "miniatura": "miniaturas/anzuelo/8f35a109a817478084053110de4839f9.jpg"
+   },
+   {
+    "uid": "fd72f17bbc374932a58a0193535f284f",
+    "nombre": "Fish Hook",
+    "autor": "varldskulturmuseerna",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 496494,
+    "url": "https://sketchfab.com/3d-models/none-fd72f17bbc374932a58a0193535f284f",
+    "miniatura": "miniaturas/anzuelo/fd72f17bbc374932a58a0193535f284f.jpg"
+   },
+   {
+    "uid": "06c7515f62b64fb48c3546acad0a53b2",
+    "nombre": "Hook",
+    "autor": "3DDomino",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 60078,
+    "url": "https://sketchfab.com/3d-models/none-06c7515f62b64fb48c3546acad0a53b2",
+    "miniatura": "miniaturas/anzuelo/06c7515f62b64fb48c3546acad0a53b2.jpg"
+   },
+   {
+    "uid": "67a4cf8b00964ade98e4680e447095ef",
+    "nombre": "Hook",
+    "autor": "3DDomino",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 60078,
+    "url": "https://sketchfab.com/3d-models/none-67a4cf8b00964ade98e4680e447095ef",
+    "miniatura": "miniaturas/anzuelo/67a4cf8b00964ade98e4680e447095ef.jpg"
+   },
+   {
+    "uid": "ff868f7cdf59459f89d5d80826b038d0",
+    "nombre": "XFP-121 Ivory fish hook barb, Sanak Island, Ak.",
+    "autor": "GlobalDigitalHeritage",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 68096,
+    "url": "https://sketchfab.com/3d-models/none-ff868f7cdf59459f89d5d80826b038d0",
+    "miniatura": "miniaturas/anzuelo/ff868f7cdf59459f89d5d80826b038d0.jpg"
+   },
+   {
+    "uid": "bff4bdc29a9b4e0784c5281344e2be9a",
+    "nombre": "3D Inktober 2019: Bait",
+    "autor": "doneil",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 34944,
+    "url": "https://sketchfab.com/3d-models/none-bff4bdc29a9b4e0784c5281344e2be9a",
+    "miniatura": "miniaturas/anzuelo/bff4bdc29a9b4e0784c5281344e2be9a.jpg"
+   },
+   {
+    "uid": "553938ac49f349a2a8a3db93581dea97",
+    "nombre": "XFP-067 Bone Fish Hook, Sanak Island, Alaska.",
+    "autor": "GlobalDigitalHeritage",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 68224,
+    "url": "https://sketchfab.com/3d-models/none-553938ac49f349a2a8a3db93581dea97",
+    "miniatura": "miniaturas/anzuelo/553938ac49f349a2a8a3db93581dea97.jpg"
+   },
+   {
+    "uid": "2c44a4a9632041599ad59b30c79356a0",
+    "nombre": "Little Red",
+    "autor": "benton",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 740740,
+    "url": "https://sketchfab.com/3d-models/none-2c44a4a9632041599ad59b30c79356a0",
+    "miniatura": "miniaturas/anzuelo/2c44a4a9632041599ad59b30c79356a0.jpg"
+   },
+   {
+    "uid": "12e9f9541be94eb39909427d244a5078",
+    "nombre": "Bait",
+    "autor": "Matt_LeMoine",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4235,
+    "url": "https://sketchfab.com/3d-models/none-12e9f9541be94eb39909427d244a5078",
+    "miniatura": "miniaturas/anzuelo/12e9f9541be94eb39909427d244a5078.jpg"
+   },
+   {
+    "uid": "c5b689568ce04479ba7470383133e04b",
+    "nombre": "XFP-067 Bone fish hook, Sanak Island, Alaska",
+    "autor": "GlobalDigitalHeritage",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 67968,
+    "url": "https://sketchfab.com/3d-models/none-c5b689568ce04479ba7470383133e04b",
+    "miniatura": "miniaturas/anzuelo/c5b689568ce04479ba7470383133e04b.jpg"
+   },
+   {
+    "uid": "6d6500ec93c346128f1c2ecc86635281",
+    "nombre": "Go Fishing - Day 3 #3DInktober2019-Bait",
+    "autor": "mmkh",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 59450,
+    "url": "https://sketchfab.com/3d-models/none-6d6500ec93c346128f1c2ecc86635281",
+    "miniatura": "miniaturas/anzuelo/6d6500ec93c346128f1c2ecc86635281.jpg"
+   },
+   {
+    "uid": "415b9aea9b9e4511adf2912f68679163",
+    "nombre": "Fishing Hook",
+    "autor": "20001341",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 19996,
+    "url": "https://sketchfab.com/3d-models/none-415b9aea9b9e4511adf2912f68679163",
+    "miniatura": "miniaturas/anzuelo/415b9aea9b9e4511adf2912f68679163.jpg"
+   },
+   {
+    "uid": "f8ffe5b327ce479f8e2c29fadfe9becf",
+    "nombre": "S.S. Frank and Hooky",
+    "autor": "RebelliousRobot",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1622,
+    "url": "https://sketchfab.com/3d-models/none-f8ffe5b327ce479f8e2c29fadfe9becf",
+    "miniatura": "miniaturas/anzuelo/f8ffe5b327ce479f8e2c29fadfe9becf.jpg"
+   },
+   {
+    "uid": "449cccc7bf9841f0be40bf9eee0eb87b",
+    "nombre": "77-47-T92 Fishing Barb, Hot Springs Village",
+    "autor": "GlobalDigitalHeritage",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 82414,
+    "url": "https://sketchfab.com/3d-models/none-449cccc7bf9841f0be40bf9eee0eb87b",
+    "miniatura": "miniaturas/anzuelo/449cccc7bf9841f0be40bf9eee0eb87b.jpg"
+   },
+   {
+    "uid": "da2a46b2e3814cab98dc52230a0786ca",
+    "nombre": "Spook2right",
+    "autor": "samodelkin",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4508,
+    "url": "https://sketchfab.com/3d-models/none-da2a46b2e3814cab98dc52230a0786ca",
+    "miniatura": "miniaturas/anzuelo/da2a46b2e3814cab98dc52230a0786ca.jpg"
+   },
+   {
+    "uid": "86e810dbcad943eca1abd9af4453b4b7",
+    "nombre": "Day 3: Bait #bbblocktober",
+    "autor": "MEEP_of_Faith",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1968,
+    "url": "https://sketchfab.com/3d-models/none-86e810dbcad943eca1abd9af4453b4b7",
+    "miniatura": "miniaturas/anzuelo/86e810dbcad943eca1abd9af4453b4b7.jpg"
+   },
+   {
+    "uid": "b3bec980e90d47b4a98715b169aa74eb",
+    "nombre": "Hook",
+    "autor": "rkochstudent",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4900,
+    "url": "https://sketchfab.com/3d-models/none-b3bec980e90d47b4a98715b169aa74eb",
+    "miniatura": "miniaturas/anzuelo/b3bec980e90d47b4a98715b169aa74eb.jpg"
+   },
+   {
+    "uid": "1027a2d31ee94d4b8246811253888dc9",
+    "nombre": "Squiddy O' Lureface",
+    "autor": "ReMau",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7842,
+    "url": "https://sketchfab.com/3d-models/none-1027a2d31ee94d4b8246811253888dc9",
+    "miniatura": "miniaturas/anzuelo/1027a2d31ee94d4b8246811253888dc9.jpg"
+   }
+  ],
+  "puerta_vidrio": [
+   {
+    "uid": "35762c5a787e40c8b1daae410c1429de",
+    "nombre": "LowPoly Stylized Classroom",
+    "autor": "Mumladze28",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 121536,
+    "url": "https://sketchfab.com/3d-models/none-35762c5a787e40c8b1daae410c1429de",
+    "miniatura": "miniaturas/puerta_vidrio/35762c5a787e40c8b1daae410c1429de.jpg"
+   },
+   {
+    "uid": "628a1dba139849b282f7280feec1f2a0",
+    "nombre": "Rose Window - Valencia Cathedral, Spain",
+    "autor": "egiptologo91",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 274819,
+    "url": "https://sketchfab.com/3d-models/none-628a1dba139849b282f7280feec1f2a0",
+    "miniatura": "miniaturas/puerta_vidrio/628a1dba139849b282f7280feec1f2a0.jpg"
+   },
+   {
+    "uid": "ae11104237314463a61251fd46ded4b4",
+    "nombre": "Residential Window",
+    "autor": "AleixoAlonso",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2760,
+    "url": "https://sketchfab.com/3d-models/none-ae11104237314463a61251fd46ded4b4",
+    "miniatura": "miniaturas/puerta_vidrio/ae11104237314463a61251fd46ded4b4.jpg"
+   },
+   {
+    "uid": "c8d08012886f49798a0fb5ffbd5b2feb",
+    "nombre": "Sliding Door",
+    "autor": "roy.3dartist",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2828,
+    "url": "https://sketchfab.com/3d-models/none-c8d08012886f49798a0fb5ffbd5b2feb",
+    "miniatura": "miniaturas/puerta_vidrio/c8d08012886f49798a0fb5ffbd5b2feb.jpg"
+   },
+   {
+    "uid": "1fd5aaf7ede3441986d193403aa36893",
+    "nombre": "Reclaimed TV Stand / Furniture",
+    "autor": "maxsbond.work",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9212,
+    "url": "https://sketchfab.com/3d-models/none-1fd5aaf7ede3441986d193403aa36893",
+    "miniatura": "miniaturas/puerta_vidrio/1fd5aaf7ede3441986d193403aa36893.jpg"
+   },
+   {
+    "uid": "27dd41060e8b4c9dae8590b0f47cf855",
+    "nombre": "Gun Cabinet (FREE)",
+    "autor": "dr.badass2142",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 4508,
+    "url": "https://sketchfab.com/3d-models/none-27dd41060e8b4c9dae8590b0f47cf855",
+    "miniatura": "miniaturas/puerta_vidrio/27dd41060e8b4c9dae8590b0f47cf855.jpg"
+   },
+   {
+    "uid": "a6cc78ad3aa24b2580f212fca0c7abd5",
+    "nombre": "Merchandiser Refrigerator",
+    "autor": "sapwoodstudio",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 46400,
+    "url": "https://sketchfab.com/3d-models/none-a6cc78ad3aa24b2580f212fca0c7abd5",
+    "miniatura": "miniaturas/puerta_vidrio/a6cc78ad3aa24b2580f212fca0c7abd5.jpg"
+   },
+   {
+    "uid": "d4c035d5857f4b49baf2ee27f7051a16",
+    "nombre": "2008 Baird Silver Coronet Taxicab",
+    "autor": "aduong278",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 85369,
+    "url": "https://sketchfab.com/3d-models/none-d4c035d5857f4b49baf2ee27f7051a16",
+    "miniatura": "miniaturas/puerta_vidrio/d4c035d5857f4b49baf2ee27f7051a16.jpg"
+   },
+   {
+    "uid": "524fb36768e54ed8b3ac8722843b54ff",
+    "nombre": "Embellished front door 2",
+    "autor": "anDDDres",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13884,
+    "url": "https://sketchfab.com/3d-models/none-524fb36768e54ed8b3ac8722843b54ff",
+    "miniatura": "miniaturas/puerta_vidrio/524fb36768e54ed8b3ac8722843b54ff.jpg"
+   },
+   {
+    "uid": "ddd1c24620814c2eb022b97c90c7df2f",
+    "nombre": "Handles",
+    "autor": "KarinaOz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 52618,
+    "url": "https://sketchfab.com/3d-models/none-ddd1c24620814c2eb022b97c90c7df2f",
+    "miniatura": "miniaturas/puerta_vidrio/ddd1c24620814c2eb022b97c90c7df2f.jpg"
+   },
+   {
+    "uid": "7650791a41224e5eac2d0969a387d2f2",
+    "nombre": "Metal Door",
+    "autor": "Nihindu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1588,
+    "url": "https://sketchfab.com/3d-models/none-7650791a41224e5eac2d0969a387d2f2",
+    "miniatura": "miniaturas/puerta_vidrio/7650791a41224e5eac2d0969a387d2f2.jpg"
+   },
+   {
+    "uid": "ea77c49785fc4802b697bde0f7cfda8f",
+    "nombre": "Steven Universe House",
+    "autor": "zypheos",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5992,
+    "url": "https://sketchfab.com/3d-models/none-ea77c49785fc4802b697bde0f7cfda8f",
+    "miniatura": "miniaturas/puerta_vidrio/ea77c49785fc4802b697bde0f7cfda8f.jpg"
+   },
+   {
+    "uid": "1e5369c7bee349478117b30a6b5842d9",
+    "nombre": "Embellished front door 1",
+    "autor": "anDDDres",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7244,
+    "url": "https://sketchfab.com/3d-models/none-1e5369c7bee349478117b30a6b5842d9",
+    "miniatura": "miniaturas/puerta_vidrio/1e5369c7bee349478117b30a6b5842d9.jpg"
+   },
+   {
+    "uid": "c7fae4880bfe49f897fa9860a4bbc67b",
+    "nombre": "Diner Door",
+    "autor": "MickChambers",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1656,
+    "url": "https://sketchfab.com/3d-models/none-c7fae4880bfe49f897fa9860a4bbc67b",
+    "miniatura": "miniaturas/puerta_vidrio/c7fae4880bfe49f897fa9860a4bbc67b.jpg"
+   },
+   {
+    "uid": "caeb3d64bc4a43c09a13265a18d12b1f",
+    "nombre": "1975 Cadillac Miller-Meteor",
+    "autor": "DeclanMcCulloch",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 25644,
+    "url": "https://sketchfab.com/3d-models/none-caeb3d64bc4a43c09a13265a18d12b1f",
+    "miniatura": "miniaturas/puerta_vidrio/caeb3d64bc4a43c09a13265a18d12b1f.jpg"
+   },
+   {
+    "uid": "7b6d3f01815f406c90b9378790286b22",
+    "nombre": "Liquor Cabinet",
+    "autor": "brendanp1237",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 3348,
+    "url": "https://sketchfab.com/3d-models/none-7b6d3f01815f406c90b9378790286b22",
+    "miniatura": "miniaturas/puerta_vidrio/7b6d3f01815f406c90b9378790286b22.jpg"
+   },
+   {
+    "uid": "bdfe83823bd145c6a9642f5d31963b96",
+    "nombre": "Emergency glass double door",
+    "autor": "1-3D.com",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 1692,
+    "url": "https://sketchfab.com/3d-models/none-bdfe83823bd145c6a9642f5d31963b96",
+    "miniatura": "miniaturas/puerta_vidrio/bdfe83823bd145c6a9642f5d31963b96.jpg"
+   },
+   {
+    "uid": "6dc7928d6f6b475abced6ccf88ccf912",
+    "nombre": "Embellished front door 3",
+    "autor": "anDDDres",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11904,
+    "url": "https://sketchfab.com/3d-models/none-6dc7928d6f6b475abced6ccf88ccf912",
+    "miniatura": "miniaturas/puerta_vidrio/6dc7928d6f6b475abced6ccf88ccf912.jpg"
+   },
+   {
+    "uid": "d474c853449f423f8d4b57d8370ec5f8",
+    "nombre": "Corner Cupboard",
+    "autor": "AleixoAlonso",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13954,
+    "url": "https://sketchfab.com/3d-models/none-d474c853449f423f8d4b57d8370ec5f8",
+    "miniatura": "miniaturas/puerta_vidrio/d474c853449f423f8d4b57d8370ec5f8.jpg"
+   },
+   {
+    "uid": "46f1c9fe07a54df8b4403264ced97ba0",
+    "nombre": "Leon Cathedral. Door \"Virgen del Dado\"",
+    "autor": "albert_sierra",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 928700,
+    "url": "https://sketchfab.com/3d-models/none-46f1c9fe07a54df8b4403264ced97ba0",
+    "miniatura": "miniaturas/puerta_vidrio/46f1c9fe07a54df8b4403264ced97ba0.jpg"
+   },
+   {
+    "uid": "73f3f09789014ceb8372aaa2b3efa253",
+    "nombre": "St. Bart's Church",
+    "autor": "321Blender",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7149165,
+    "url": "https://sketchfab.com/3d-models/none-73f3f09789014ceb8372aaa2b3efa253",
+    "miniatura": "miniaturas/puerta_vidrio/73f3f09789014ceb8372aaa2b3efa253.jpg"
+   },
+   {
+    "uid": "844cdbde4f2243838edaedcad3f2467a",
+    "nombre": "Luxury Backyard  3d model Atlantic Ventnor city",
+    "autor": "muhammadmuhyuddin",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 178496,
+    "url": "https://sketchfab.com/3d-models/none-844cdbde4f2243838edaedcad3f2467a",
+    "miniatura": "miniaturas/puerta_vidrio/844cdbde4f2243838edaedcad3f2467a.jpg"
+   },
+   {
+    "uid": "02b85ff3fe884335b951e809fb7d2c44",
+    "nombre": "SCP-939 Containment Chamber",
+    "autor": "Yanez-Designs",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20536,
+    "url": "https://sketchfab.com/3d-models/none-02b85ff3fe884335b951e809fb7d2c44",
+    "miniatura": "miniaturas/puerta_vidrio/02b85ff3fe884335b951e809fb7d2c44.jpg"
+   },
+   {
+    "uid": "5842bba9467d46afb52536af59b834ca",
+    "nombre": "Glass door 372",
+    "autor": "1-3D.com",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 3192,
+    "url": "https://sketchfab.com/3d-models/none-5842bba9467d46afb52536af59b834ca",
+    "miniatura": "miniaturas/puerta_vidrio/5842bba9467d46afb52536af59b834ca.jpg"
+   }
+  ],
+  "pizza": [
+   {
+    "uid": "2b251df3fcdf4cf4b483633699928953",
+    "nombre": "Pizza Time!",
+    "autor": "ShivanshSingh",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11871,
+    "url": "https://sketchfab.com/3d-models/none-2b251df3fcdf4cf4b483633699928953",
+    "miniatura": "miniaturas/pizza/2b251df3fcdf4cf4b483633699928953.jpg"
+   },
+   {
+    "uid": "47f8b7948e8640e3ab51330f74d3a6de",
+    "nombre": "Pizza delivery package | FNaF",
+    "autor": "Glitch5970",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 28,
+    "url": "https://sketchfab.com/3d-models/none-47f8b7948e8640e3ab51330f74d3a6de",
+    "miniatura": "miniaturas/pizza/47f8b7948e8640e3ab51330f74d3a6de.jpg"
+   },
+   {
+    "uid": "eca4af6667264e9eb06271bbdcb111f0",
+    "nombre": "Domino's Pizza Box",
+    "autor": "MCHammer3000",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3920,
+    "url": "https://sketchfab.com/3d-models/none-eca4af6667264e9eb06271bbdcb111f0",
+    "miniatura": "miniaturas/pizza/eca4af6667264e9eb06271bbdcb111f0.jpg"
+   },
+   {
+    "uid": "af85c1c516fb4ca48300ce1058dd2777",
+    "nombre": "Pizza Box -Domino's",
+    "autor": "jason.lp.davis",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 562,
+    "url": "https://sketchfab.com/3d-models/none-af85c1c516fb4ca48300ce1058dd2777",
+    "miniatura": "miniaturas/pizza/af85c1c516fb4ca48300ce1058dd2777.jpg"
+   },
+   {
+    "uid": "d68b70073c964afdbe3c94c6a789ce15",
+    "nombre": "Pizza Box (Raw photogrammetry scan)",
+    "autor": "Austin.Beaulier",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 1000,
+    "url": "https://sketchfab.com/3d-models/none-d68b70073c964afdbe3c94c6a789ce15",
+    "miniatura": "miniaturas/pizza/d68b70073c964afdbe3c94c6a789ce15.jpg"
+   },
+   {
+    "uid": "7c982c66dade4967961f13e1fea6c07a",
+    "nombre": "Pizza Box",
+    "autor": "saleviim",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 198,
+    "url": "https://sketchfab.com/3d-models/none-7c982c66dade4967961f13e1fea6c07a",
+    "miniatura": "miniaturas/pizza/7c982c66dade4967961f13e1fea6c07a.jpg"
+   },
+   {
+    "uid": "6a47cbc4e3904833aede3d3b68e07ba5",
+    "nombre": "fnaf pizza box",
+    "autor": "cevans2026",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 28,
+    "url": "https://sketchfab.com/3d-models/none-6a47cbc4e3904833aede3d3b68e07ba5",
+    "miniatura": "miniaturas/pizza/6a47cbc4e3904833aede3d3b68e07ba5.jpg"
+   },
+   {
+    "uid": "a45fbe9ffaeb4c7f850c7d26406af55b",
+    "nombre": "Pizza Box",
+    "autor": "Logansryche",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 36,
+    "url": "https://sketchfab.com/3d-models/none-a45fbe9ffaeb4c7f850c7d26406af55b",
+    "miniatura": "miniaturas/pizza/a45fbe9ffaeb4c7f850c7d26406af55b.jpg"
+   },
+   {
+    "uid": "f671b486002848adbfe2f3771f3266e3",
+    "nombre": "Pizza Box",
+    "autor": "manumagana",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 48,
+    "url": "https://sketchfab.com/3d-models/none-f671b486002848adbfe2f3771f3266e3",
+    "miniatura": "miniaturas/pizza/f671b486002848adbfe2f3771f3266e3.jpg"
+   },
+   {
+    "uid": "d9409a567b73419181feee7a3319c747",
+    "nombre": "Trash Container",
+    "autor": "yorre.detavernier",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1095,
+    "url": "https://sketchfab.com/3d-models/none-d9409a567b73419181feee7a3319c747",
+    "miniatura": "miniaturas/pizza/d9409a567b73419181feee7a3319c747.jpg"
+   },
+   {
+    "uid": "054be7a9dac340189ee29f3f15b4943e",
+    "nombre": "Pizza Box",
+    "autor": "maypassamon",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 156,
+    "url": "https://sketchfab.com/3d-models/none-054be7a9dac340189ee29f3f15b4943e",
+    "miniatura": "miniaturas/pizza/054be7a9dac340189ee29f3f15b4943e.jpg"
+   },
+   {
+    "uid": "d9cd316a305a42debc41e9803c07d6bc",
+    "nombre": "Perfect Pizza with Box",
+    "autor": "Thrazex",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5464,
+    "url": "https://sketchfab.com/3d-models/none-d9cd316a305a42debc41e9803c07d6bc",
+    "miniatura": "miniaturas/pizza/d9cd316a305a42debc41e9803c07d6bc.jpg"
+   },
+   {
+    "uid": "dbbfbc88af1d49e0a2e9b7e6579abdda",
+    "nombre": "Satchels Van Cardboard Model",
+    "autor": "edgonzaleztennant",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1480,
+    "url": "https://sketchfab.com/3d-models/none-dbbfbc88af1d49e0a2e9b7e6579abdda",
+    "miniatura": "miniaturas/pizza/dbbfbc88af1d49e0a2e9b7e6579abdda.jpg"
+   },
+   {
+    "uid": "830e08c5ee214e20ac094ffa186c62fb",
+    "nombre": "Pizza Box",
+    "autor": "Gareos",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13792,
+    "url": "https://sketchfab.com/3d-models/none-830e08c5ee214e20ac094ffa186c62fb",
+    "miniatura": "miniaturas/pizza/830e08c5ee214e20ac094ffa186c62fb.jpg"
+   },
+   {
+    "uid": "df29f653b40e46018715452bd8d5e6e7",
+    "nombre": "Pizza Box",
+    "autor": "Zende",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 75,
+    "url": "https://sketchfab.com/3d-models/none-df29f653b40e46018715452bd8d5e6e7",
+    "miniatura": "miniaturas/pizza/df29f653b40e46018715452bd8d5e6e7.jpg"
+   },
+   {
+    "uid": "059da749a90044049f375d29ed997113",
+    "nombre": "Zucca Box 360",
+    "autor": "Paypercreative",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1316,
+    "url": "https://sketchfab.com/3d-models/none-059da749a90044049f375d29ed997113",
+    "miniatura": "miniaturas/pizza/059da749a90044049f375d29ed997113.jpg"
+   },
+   {
+    "uid": "e1e3c96046d349c09eaab7a0db86fb16",
+    "nombre": "FNaF Pizza Delivery Box",
+    "autor": "Glitch5970",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 68,
+    "url": "https://sketchfab.com/3d-models/none-e1e3c96046d349c09eaab7a0db86fb16",
+    "miniatura": "miniaturas/pizza/e1e3c96046d349c09eaab7a0db86fb16.jpg"
+   },
+   {
+    "uid": "16ef1dc2db434be1a6a8bb6f225fa47d",
+    "nombre": "St. Louis Style Pizza and Fried Ravioli",
+    "autor": "avi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18890,
+    "url": "https://sketchfab.com/3d-models/none-16ef1dc2db434be1a6a8bb6f225fa47d",
+    "miniatura": "miniaturas/pizza/16ef1dc2db434be1a6a8bb6f225fa47d.jpg"
+   },
+   {
+    "uid": "fb701caed7344f93b1ee3490390115fe",
+    "nombre": "Frozen Pizza Box",
+    "autor": "hellfa",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12,
+    "url": "https://sketchfab.com/3d-models/none-fb701caed7344f93b1ee3490390115fe",
+    "miniatura": "miniaturas/pizza/fb701caed7344f93b1ee3490390115fe.jpg"
+   },
+   {
+    "uid": "a63b4ae12476450bb0e2e3acdd417561",
+    "nombre": "Tommy Vercetti",
+    "autor": "davemcdon1997",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1355,
+    "url": "https://sketchfab.com/3d-models/none-a63b4ae12476450bb0e2e3acdd417561",
+    "miniatura": "miniaturas/pizza/a63b4ae12476450bb0e2e3acdd417561.jpg"
+   },
+   {
+    "uid": "b7763a7d62424ae1a3f3b41daed92700",
+    "nombre": "Califlower Pizza Box",
+    "autor": "rentless",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 212,
+    "url": "https://sketchfab.com/3d-models/none-b7763a7d62424ae1a3f3b41daed92700",
+    "miniatura": "miniaturas/pizza/b7763a7d62424ae1a3f3b41daed92700.jpg"
+   },
+   {
+    "uid": "3cededaf14294199ac9585fc80222f75",
+    "nombre": "Pizza in a box",
+    "autor": "animator12",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 198,
+    "url": "https://sketchfab.com/3d-models/none-3cededaf14294199ac9585fc80222f75",
+    "miniatura": "miniaturas/pizza/3cededaf14294199ac9585fc80222f75.jpg"
+   },
+   {
+    "uid": "b06fa41e81614026acb9e74a3eba11cf",
+    "nombre": "Pizza Box pt.2",
+    "autor": "Zende",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 150,
+    "url": "https://sketchfab.com/3d-models/none-b06fa41e81614026acb9e74a3eba11cf",
+    "miniatura": "miniaturas/pizza/b06fa41e81614026acb9e74a3eba11cf.jpg"
+   },
+   {
+    "uid": "e5383c5856ec4ff6ac7fbd0ec7b08c5e",
+    "nombre": "Little Joe's Famine Silo",
+    "autor": "321Blender",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 922655,
+    "url": "https://sketchfab.com/3d-models/none-e5383c5856ec4ff6ac7fbd0ec7b08c5e",
+    "miniatura": "miniaturas/pizza/e5383c5856ec4ff6ac7fbd0ec7b08c5e.jpg"
+   }
+  ],
+  "cascara": [
+   {
+    "uid": "c7fd163741614859ba02f302ce0bce32",
+    "nombre": "Banana Peel (Mario Kart)",
+    "autor": "Yanez-Designs",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5368,
+    "url": "https://sketchfab.com/3d-models/none-c7fd163741614859ba02f302ce0bce32",
+    "miniatura": "miniaturas/cascara/c7fd163741614859ba02f302ce0bce32.jpg"
+   },
+   {
+    "uid": "cad5da0a14ae43759cd9221dd6099bb9",
+    "nombre": "Peeled Banana 22",
+    "autor": "deep3dstudio",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 3000,
+    "url": "https://sketchfab.com/3d-models/none-cad5da0a14ae43759cd9221dd6099bb9",
+    "miniatura": "miniaturas/cascara/cad5da0a14ae43759cd9221dd6099bb9.jpg"
+   },
+   {
+    "uid": "60a3ba892429433d9b580998b1036c55",
+    "nombre": "15th - Fall // Banana Peel",
+    "autor": "ringogunther",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1922,
+    "url": "https://sketchfab.com/3d-models/none-60a3ba892429433d9b580998b1036c55",
+    "miniatura": "miniaturas/cascara/60a3ba892429433d9b580998b1036c55.jpg"
+   },
+   {
+    "uid": "6837ff9043d94451926b22987f3dacde",
+    "nombre": "Banana Peel",
+    "autor": "chin4grci4",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5068,
+    "url": "https://sketchfab.com/3d-models/none-6837ff9043d94451926b22987f3dacde",
+    "miniatura": "miniaturas/cascara/6837ff9043d94451926b22987f3dacde.jpg"
+   },
+   {
+    "uid": "77c6c8ce9199433d8f81cd77f99ba978",
+    "nombre": "Banana photogrammetry | Game ready asset",
+    "autor": "alexey_ra",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5300,
+    "url": "https://sketchfab.com/3d-models/none-77c6c8ce9199433d8f81cd77f99ba978",
+    "miniatura": "miniaturas/cascara/77c6c8ce9199433d8f81cd77f99ba978.jpg"
+   },
+   {
+    "uid": "df7e6bc337d7472ab12fe3ec5004409c",
+    "nombre": "Mario Kart Banana Peel",
+    "autor": "sydd",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 14966,
+    "url": "https://sketchfab.com/3d-models/none-df7e6bc337d7472ab12fe3ec5004409c",
+    "miniatura": "miniaturas/cascara/df7e6bc337d7472ab12fe3ec5004409c.jpg"
+   },
+   {
+    "uid": "c05c98f523df45b78d50913b4917e9fe",
+    "nombre": "Banana Peel",
+    "autor": "sofiaecheverri",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 12493,
+    "url": "https://sketchfab.com/3d-models/none-c05c98f523df45b78d50913b4917e9fe",
+    "miniatura": "miniaturas/cascara/c05c98f523df45b78d50913b4917e9fe.jpg"
+   },
+   {
+    "uid": "00563686d14a41e0b07203d2ea09688f",
+    "nombre": "Banana (Low Poly)",
+    "autor": "leifstroman",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 92,
+    "url": "https://sketchfab.com/3d-models/none-00563686d14a41e0b07203d2ea09688f",
+    "miniatura": "miniaturas/cascara/00563686d14a41e0b07203d2ea09688f.jpg"
+   },
+   {
+    "uid": "b48b3cd3f8c94deebafdff7123c42e83",
+    "nombre": "Wet Banana",
+    "autor": "boring3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 45061,
+    "url": "https://sketchfab.com/3d-models/none-b48b3cd3f8c94deebafdff7123c42e83",
+    "miniatura": "miniaturas/cascara/b48b3cd3f8c94deebafdff7123c42e83.jpg"
+   },
+   {
+    "uid": "26c74e7dfba841198cc7f441c44ca018",
+    "nombre": "Kulit Pisang (banana peel)",
+    "autor": "nandoxun",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 180,
+    "url": "https://sketchfab.com/3d-models/none-26c74e7dfba841198cc7f441c44ca018",
+    "miniatura": "miniaturas/cascara/26c74e7dfba841198cc7f441c44ca018.jpg"
+   },
+   {
+    "uid": "2e5faea64b4841c68c01bde24674a380",
+    "nombre": "Dirt Banana",
+    "autor": "BreakNerp",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2288,
+    "url": "https://sketchfab.com/3d-models/none-2e5faea64b4841c68c01bde24674a380",
+    "miniatura": "miniaturas/cascara/2e5faea64b4841c68c01bde24674a380.jpg"
+   },
+   {
+    "uid": "8573ac46b3be4942a2c81dd2fc34d7f0",
+    "nombre": "Banana Peel (VCU_3D_5159)",
+    "autor": "virtualcurationlab",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 1420223,
+    "url": "https://sketchfab.com/3d-models/none-8573ac46b3be4942a2c81dd2fc34d7f0",
+    "miniatura": "miniaturas/cascara/8573ac46b3be4942a2c81dd2fc34d7f0.jpg"
+   },
+   {
+    "uid": "95112baabfa44ee5b442bbcf5f6a117a",
+    "nombre": "Banana peel",
+    "autor": "shahmirasif",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4880,
+    "url": "https://sketchfab.com/3d-models/none-95112baabfa44ee5b442bbcf5f6a117a",
+    "miniatura": "miniaturas/cascara/95112baabfa44ee5b442bbcf5f6a117a.jpg"
+   },
+   {
+    "uid": "fc3b954f3eaa4421bb18c0aadc0ea06b",
+    "nombre": "Banana peels-based bio-plastic factory",
+    "autor": "Ahmed-Ahmed",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 816018,
+    "url": "https://sketchfab.com/3d-models/none-fc3b954f3eaa4421bb18c0aadc0ea06b",
+    "miniatura": "miniaturas/cascara/fc3b954f3eaa4421bb18c0aadc0ea06b.jpg"
+   }
+  ],
+  "polaroid": [
+   {
+    "uid": "8fdc1e32d83b43d0b8daf83e863e639f",
+    "nombre": "Polaroid 600 Vintage Cool Cam",
+    "autor": "perry_wubben",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12914,
+    "url": "https://sketchfab.com/3d-models/none-8fdc1e32d83b43d0b8daf83e863e639f",
+    "miniatura": "miniaturas/polaroid/8fdc1e32d83b43d0b8daf83e863e639f.jpg"
+   },
+   {
+    "uid": "606912cf09074dcbb35f6c4a3842d528",
+    "nombre": "Instax Mini 8 Instant Camera",
+    "autor": "mariainggrid",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 40000,
+    "url": "https://sketchfab.com/3d-models/none-606912cf09074dcbb35f6c4a3842d528",
+    "miniatura": "miniaturas/polaroid/606912cf09074dcbb35f6c4a3842d528.jpg"
+   },
+   {
+    "uid": "86ec49cdf4c34c66a786cbb768b8e6d3",
+    "nombre": "1977 Polaroid Land Camera OneStep",
+    "autor": "Austin.Beaulier",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 200000,
+    "url": "https://sketchfab.com/3d-models/none-86ec49cdf4c34c66a786cbb768b8e6d3",
+    "miniatura": "miniaturas/polaroid/86ec49cdf4c34c66a786cbb768b8e6d3.jpg"
+   },
+   {
+    "uid": "c11303a31f4b4018880b8b53ce361f02",
+    "nombre": "Poloroid Camera",
+    "autor": "aisaac",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 420,
+    "url": "https://sketchfab.com/3d-models/none-c11303a31f4b4018880b8b53ce361f02",
+    "miniatura": "miniaturas/polaroid/c11303a31f4b4018880b8b53ce361f02.jpg"
+   },
+   {
+    "uid": "41e2229d4fbe4cc7846753d19e6a202f",
+    "nombre": "Polaroid 600",
+    "autor": "nikita.nt.1998",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2614,
+    "url": "https://sketchfab.com/3d-models/none-41e2229d4fbe4cc7846753d19e6a202f",
+    "miniatura": "miniaturas/polaroid/41e2229d4fbe4cc7846753d19e6a202f.jpg"
+   },
+   {
+    "uid": "dc12a29c4e074952952ae6d2bcaece31",
+    "nombre": "Vintage Polaroid 600 Camera MTV Edition",
+    "autor": "berilbaska",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3186,
+    "url": "https://sketchfab.com/3d-models/none-dc12a29c4e074952952ae6d2bcaece31",
+    "miniatura": "miniaturas/polaroid/dc12a29c4e074952952ae6d2bcaece31.jpg"
+   },
+   {
+    "uid": "98e59c092cd04755a89b62cb9b385006",
+    "nombre": "Polaroïd",
+    "autor": "Arthur_mf",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2231,
+    "url": "https://sketchfab.com/3d-models/none-98e59c092cd04755a89b62cb9b385006",
+    "miniatura": "miniaturas/polaroid/98e59c092cd04755a89b62cb9b385006.jpg"
+   }
+  ],
+  "sillas_espera": [
+   {
+    "uid": "eca1dcae26e94bdca36ff4be9f7503a9",
+    "nombre": "Mid Century Dining Room - Game-Ready",
+    "autor": "mediacitygames",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10128,
+    "url": "https://sketchfab.com/3d-models/none-eca1dcae26e94bdca36ff4be9f7503a9",
+    "miniatura": "miniaturas/sillas_espera/eca1dcae26e94bdca36ff4be9f7503a9.jpg"
+   },
+   {
+    "uid": "baaa4ec5d6d34ad49004e4d151b43aa2",
+    "nombre": "Chair Hospital",
+    "autor": "Khafesus",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 134884,
+    "url": "https://sketchfab.com/3d-models/none-baaa4ec5d6d34ad49004e4d151b43aa2",
+    "miniatura": "miniaturas/sillas_espera/baaa4ec5d6d34ad49004e4d151b43aa2.jpg"
+   },
+   {
+    "uid": "fd6f2c8d76ef4a1a8b932516284d50b0",
+    "nombre": "Waiting Room Chairs",
+    "autor": "connorwassall",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9258,
+    "url": "https://sketchfab.com/3d-models/none-fd6f2c8d76ef4a1a8b932516284d50b0",
+    "miniatura": "miniaturas/sillas_espera/fd6f2c8d76ef4a1a8b932516284d50b0.jpg"
+   },
+   {
+    "uid": "9caadc93b6a34c769e90ea31b2ff3473",
+    "nombre": "Low Poly Meeting Room Assets",
+    "autor": "paolo.mercoglia",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 60906,
+    "url": "https://sketchfab.com/3d-models/none-9caadc93b6a34c769e90ea31b2ff3473",
+    "miniatura": "miniaturas/sillas_espera/9caadc93b6a34c769e90ea31b2ff3473.jpg"
+   },
+   {
+    "uid": "735a0bc9e0544443addc5b3965c1e18b",
+    "nombre": "Waiting Room Chairs",
+    "autor": "LeandroN",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 46880,
+    "url": "https://sketchfab.com/3d-models/none-735a0bc9e0544443addc5b3965c1e18b",
+    "miniatura": "miniaturas/sillas_espera/735a0bc9e0544443addc5b3965c1e18b.jpg"
+   },
+   {
+    "uid": "5f91e4e9ceb6442ab47fef3602d1385c",
+    "nombre": "Soft chair",
+    "autor": "a.ring",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 40881,
+    "url": "https://sketchfab.com/3d-models/none-5f91e4e9ceb6442ab47fef3602d1385c",
+    "miniatura": "miniaturas/sillas_espera/5f91e4e9ceb6442ab47fef3602d1385c.jpg"
+   },
+   {
+    "uid": "8e0350dafc774e319775c03cc0f04c35",
+    "nombre": "Chair",
+    "autor": "orphic_oasis8",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 890,
+    "url": "https://sketchfab.com/3d-models/none-8e0350dafc774e319775c03cc0f04c35",
+    "miniatura": "miniaturas/sillas_espera/8e0350dafc774e319775c03cc0f04c35.jpg"
+   },
+   {
+    "uid": "e30ad52a20b44be492b739b427f5adf2",
+    "nombre": "Basic Room",
+    "autor": "hdorsch",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 50230,
+    "url": "https://sketchfab.com/3d-models/none-e30ad52a20b44be492b739b427f5adf2",
+    "miniatura": "miniaturas/sillas_espera/e30ad52a20b44be492b739b427f5adf2.jpg"
+   },
+   {
+    "uid": "b47d109548a442778c12742a200aba53",
+    "nombre": "OutThere Waiting Room Chair",
+    "autor": "Gavin_McAllister",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 690,
+    "url": "https://sketchfab.com/3d-models/none-b47d109548a442778c12742a200aba53",
+    "miniatura": "miniaturas/sillas_espera/b47d109548a442778c12742a200aba53.jpg"
+   }
+  ],
+  "cama": [
+   {
+    "uid": "09b8b458fbad4986b6fd44698f5bc6dc",
+    "nombre": "Furniture set",
+    "autor": "Peter.Nox",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18512,
+    "url": "https://sketchfab.com/3d-models/none-09b8b458fbad4986b6fd44698f5bc6dc",
+    "miniatura": "miniaturas/cama/09b8b458fbad4986b6fd44698f5bc6dc.jpg"
+   },
+   {
+    "uid": "40d4b38ab2244f29a4ca0862d6ca8b0f",
+    "nombre": "Rosedale East Engine Bed close",
+    "autor": "landofiron",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3000000,
+    "url": "https://sketchfab.com/3d-models/none-40d4b38ab2244f29a4ca0862d6ca8b0f",
+    "miniatura": "miniaturas/cama/40d4b38ab2244f29a4ca0862d6ca8b0f.jpg"
+   },
+   {
+    "uid": "81ada0e24e1647d8a0d6d0708a696f84",
+    "nombre": "Single Bed 2",
+    "autor": "rhcreations",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3556,
+    "url": "https://sketchfab.com/3d-models/none-81ada0e24e1647d8a0d6d0708a696f84",
+    "miniatura": "miniaturas/cama/81ada0e24e1647d8a0d6d0708a696f84.jpg"
+   },
+   {
+    "uid": "97e361e8beda4112ac5b1b5bcd388cdf",
+    "nombre": "Soho bed - 3D Model",
+    "autor": "bertosalotti",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 68952,
+    "url": "https://sketchfab.com/3d-models/none-97e361e8beda4112ac5b1b5bcd388cdf",
+    "miniatura": "miniaturas/cama/97e361e8beda4112ac5b1b5bcd388cdf.jpg"
+   },
+   {
+    "uid": "1f9d820a0aea42f28af55346d188e0cd",
+    "nombre": "Haru Single Sofa Bed, Butter Yellow",
+    "autor": "made-it",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 74192,
+    "url": "https://sketchfab.com/3d-models/none-1f9d820a0aea42f28af55346d188e0cd",
+    "miniatura": "miniaturas/cama/1f9d820a0aea42f28af55346d188e0cd.jpg"
+   },
+   {
+    "uid": "b57ac42eb50d4a31bb644bf2afa70658",
+    "nombre": "Heel Farm Barn - AIR BNB",
+    "autor": "blaynejackson",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1000000,
+    "url": "https://sketchfab.com/3d-models/none-b57ac42eb50d4a31bb644bf2afa70658",
+    "miniatura": "miniaturas/cama/b57ac42eb50d4a31bb644bf2afa70658.jpg"
+   },
+   {
+    "uid": "44201e70ddd844abbc45938221dcfc34",
+    "nombre": "Low-Poly Food: Gourmet Breakfast",
+    "autor": "Matt.Explody",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2911,
+    "url": "https://sketchfab.com/3d-models/none-44201e70ddd844abbc45938221dcfc34",
+    "miniatura": "miniaturas/cama/44201e70ddd844abbc45938221dcfc34.jpg"
+   },
+   {
+    "uid": "14084f216e834241a7f152cdfa4e5d59",
+    "nombre": "Single Bed Blanket",
+    "autor": "whewnewacc",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 785,
+    "url": "https://sketchfab.com/3d-models/none-14084f216e834241a7f152cdfa4e5d59",
+    "miniatura": "miniaturas/cama/14084f216e834241a7f152cdfa4e5d59.jpg"
+   },
+   {
+    "uid": "e55d174b2f064deeb05c5da71b850465",
+    "nombre": "Twin Bed",
+    "autor": "dchant",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 218905,
+    "url": "https://sketchfab.com/3d-models/none-e55d174b2f064deeb05c5da71b850465",
+    "miniatura": "miniaturas/cama/e55d174b2f064deeb05c5da71b850465.jpg"
+   },
+   {
+    "uid": "b547d81073b64d3e97200fd3ae9a74af",
+    "nombre": "Bed - Sample",
+    "autor": "mifusaja",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6304,
+    "url": "https://sketchfab.com/3d-models/none-b547d81073b64d3e97200fd3ae9a74af",
+    "miniatura": "miniaturas/cama/b547d81073b64d3e97200fd3ae9a74af.jpg"
+   },
+   {
+    "uid": "d6c582aaa3e34238a601ce1d738055a4",
+    "nombre": "Soviet Novichoke Contaners",
+    "autor": "tonyflanagan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 34978,
+    "url": "https://sketchfab.com/3d-models/none-d6c582aaa3e34238a601ce1d738055a4",
+    "miniatura": "miniaturas/cama/d6c582aaa3e34238a601ce1d738055a4.jpg"
+   },
+   {
+    "uid": "e71b6efc029448e0b883b6b45ee7943d",
+    "nombre": "Bed Squid Game Multiple Slots",
+    "autor": "Maxime66410",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 4520,
+    "url": "https://sketchfab.com/3d-models/none-e71b6efc029448e0b883b6b45ee7943d",
+    "miniatura": "miniaturas/cama/e71b6efc029448e0b883b6b45ee7943d.jpg"
+   },
+   {
+    "uid": "c7bea79b8c7a4b7c9ec5eadfa2529b9a",
+    "nombre": "Single wooden bed",
+    "autor": "franckross",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22964,
+    "url": "https://sketchfab.com/3d-models/none-c7bea79b8c7a4b7c9ec5eadfa2529b9a",
+    "miniatura": "miniaturas/cama/c7bea79b8c7a4b7c9ec5eadfa2529b9a.jpg"
+   },
+   {
+    "uid": "df64476b23824a049614adda81d42e67",
+    "nombre": "BED 30",
+    "autor": "jasirkt",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 199264,
+    "url": "https://sketchfab.com/3d-models/none-df64476b23824a049614adda81d42e67",
+    "miniatura": "miniaturas/cama/df64476b23824a049614adda81d42e67.jpg"
+   },
+   {
+    "uid": "0ab93a870e934ee1ac8f42631a0e6ec3",
+    "nombre": "Bed Squid Game One Slot",
+    "autor": "Maxime66410",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 4508,
+    "url": "https://sketchfab.com/3d-models/none-0ab93a870e934ee1ac8f42631a0e6ec3",
+    "miniatura": "miniaturas/cama/0ab93a870e934ee1ac8f42631a0e6ec3.jpg"
+   },
+   {
+    "uid": "4aeeb06b84774044a1a413010574a75f",
+    "nombre": "IKEA Flexa Single Bed",
+    "autor": "alpaca.",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 169730,
+    "url": "https://sketchfab.com/3d-models/none-4aeeb06b84774044a1a413010574a75f",
+    "miniatura": "miniaturas/cama/4aeeb06b84774044a1a413010574a75f.jpg"
+   },
+   {
+    "uid": "a78a0efc84fa4cc8aca3bed47b85419a",
+    "nombre": "Old Bed",
+    "autor": "coffeecat112",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 80836,
+    "url": "https://sketchfab.com/3d-models/none-a78a0efc84fa4cc8aca3bed47b85419a",
+    "miniatura": "miniaturas/cama/a78a0efc84fa4cc8aca3bed47b85419a.jpg"
+   },
+   {
+    "uid": "065347b3aeb146489835300d265a7ce5",
+    "nombre": "Bed single, with drawers",
+    "autor": "dtm0876",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 226430,
+    "url": "https://sketchfab.com/3d-models/none-065347b3aeb146489835300d265a7ce5",
+    "miniatura": "miniaturas/cama/065347b3aeb146489835300d265a7ce5.jpg"
+   },
+   {
+    "uid": "45aadaaac37f447cb18bb242e1a5743b",
+    "nombre": "Single Bed 4",
+    "autor": "rhcreations",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5841,
+    "url": "https://sketchfab.com/3d-models/none-45aadaaac37f447cb18bb242e1a5743b",
+    "miniatura": "miniaturas/cama/45aadaaac37f447cb18bb242e1a5743b.jpg"
+   },
+   {
+    "uid": "c7e0c3672f314e29ae55f457e300d7cc",
+    "nombre": "Mattress",
+    "autor": "hopelikedmyvibe",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 107520,
+    "url": "https://sketchfab.com/3d-models/none-c7e0c3672f314e29ae55f457e300d7cc",
+    "miniatura": "miniaturas/cama/c7e0c3672f314e29ae55f457e300d7cc.jpg"
+   },
+   {
+    "uid": "c4a4e67c40e74686b2d0a2d38d54b6de",
+    "nombre": "Beds - Single Mattress",
+    "autor": "mattabbfal",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 572124,
+    "url": "https://sketchfab.com/3d-models/none-c4a4e67c40e74686b2d0a2d38d54b6de",
+    "miniatura": "miniaturas/cama/c4a4e67c40e74686b2d0a2d38d54b6de.jpg"
+   },
+   {
+    "uid": "367b4725c0dc4ee7935b251be6f96bbc",
+    "nombre": "Single Bed",
+    "autor": "leandroestrella",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 232,
+    "url": "https://sketchfab.com/3d-models/none-367b4725c0dc4ee7935b251be6f96bbc",
+    "miniatura": "miniaturas/cama/367b4725c0dc4ee7935b251be6f96bbc.jpg"
+   },
+   {
+    "uid": "137a236d4e4740a5aa296dca367e5d45",
+    "nombre": "buddha hooch",
+    "autor": "Bamboojo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 416930,
+    "url": "https://sketchfab.com/3d-models/none-137a236d4e4740a5aa296dca367e5d45",
+    "miniatura": "miniaturas/cama/137a236d4e4740a5aa296dca367e5d45.jpg"
+   },
+   {
+    "uid": "447d911267624c858ab25a203980b44c",
+    "nombre": "Atlantic Conversion",
+    "autor": "tayloredcampervanconversions",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 30598,
+    "url": "https://sketchfab.com/3d-models/none-447d911267624c858ab25a203980b44c",
+    "miniatura": "miniaturas/cama/447d911267624c858ab25a203980b44c.jpg"
+   }
+  ],
+  "zafacon": [
+   {
+    "uid": "72a4804f8a4d4de18e59abb60b81c54f",
+    "nombre": "Old Paper & Cardboard Boxes",
+    "autor": "toomanydemons",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3329,
+    "url": "https://sketchfab.com/3d-models/none-72a4804f8a4d4de18e59abb60b81c54f",
+    "miniatura": "miniaturas/zafacon/72a4804f8a4d4de18e59abb60b81c54f.jpg"
+   },
+   {
+    "uid": "3836ff67877248c2a820e6a969984aac",
+    "nombre": "Trash can",
+    "autor": "bazz4r",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6030,
+    "url": "https://sketchfab.com/3d-models/none-3836ff67877248c2a820e6a969984aac",
+    "miniatura": "miniaturas/zafacon/3836ff67877248c2a820e6a969984aac.jpg"
+   },
+   {
+    "uid": "cd134204748b4e28a9e3494638cc595f",
+    "nombre": "Trash bags",
+    "autor": "ostapblendercg",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6048,
+    "url": "https://sketchfab.com/3d-models/none-cd134204748b4e28a9e3494638cc595f",
+    "miniatura": "miniaturas/zafacon/cd134204748b4e28a9e3494638cc595f.jpg"
+   },
+   {
+    "uid": "8166f60247344c47b9354b6b3730e38d",
+    "nombre": "Concrete trash bin",
+    "autor": "matousekfoto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 351350,
+    "url": "https://sketchfab.com/3d-models/none-8166f60247344c47b9354b6b3730e38d",
+    "miniatura": "miniaturas/zafacon/8166f60247344c47b9354b6b3730e38d.jpg"
+   },
+   {
+    "uid": "6bf3267787494d5283db04cd9aa6ff20",
+    "nombre": "Stylized House",
+    "autor": "vegzavr",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 154392,
+    "url": "https://sketchfab.com/3d-models/none-6bf3267787494d5283db04cd9aa6ff20",
+    "miniatura": "miniaturas/zafacon/6bf3267787494d5283db04cd9aa6ff20.jpg"
+   },
+   {
+    "uid": "b0d0304c927b450d904163fa43978519",
+    "nombre": "Dumpster (CyberPunk) Game Assets",
+    "autor": "design.ruben",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2628,
+    "url": "https://sketchfab.com/3d-models/none-b0d0304c927b450d904163fa43978519",
+    "miniatura": "miniaturas/zafacon/b0d0304c927b450d904163fa43978519.jpg"
+   },
+   {
+    "uid": "26f01d69ac8c49b2a4c34e21b68c656f",
+    "nombre": "Crates and boxes at the back of an Asian store",
+    "autor": "albentan2012",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 45221,
+    "url": "https://sketchfab.com/3d-models/none-26f01d69ac8c49b2a4c34e21b68c656f",
+    "miniatura": "miniaturas/zafacon/26f01d69ac8c49b2a4c34e21b68c656f.jpg"
+   },
+   {
+    "uid": "093e5b05faa947729b1be24c013e563b",
+    "nombre": "LOW POLY - DUMPSTER",
+    "autor": "Colin.Greenall",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6292,
+    "url": "https://sketchfab.com/3d-models/none-093e5b05faa947729b1be24c013e563b",
+    "miniatura": "miniaturas/zafacon/093e5b05faa947729b1be24c013e563b.jpg"
+   },
+   {
+    "uid": "576e6bcadb764bb5ad91bf48d93a95a5",
+    "nombre": "Trash can",
+    "autor": "Holydust",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1924,
+    "url": "https://sketchfab.com/3d-models/none-576e6bcadb764bb5ad91bf48d93a95a5",
+    "miniatura": "miniaturas/zafacon/576e6bcadb764bb5ad91bf48d93a95a5.jpg"
+   },
+   {
+    "uid": "33dbd28d8f894f1091e7a4112ee20e3b",
+    "nombre": "trash can",
+    "autor": "Gleg3002",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1762,
+    "url": "https://sketchfab.com/3d-models/none-33dbd28d8f894f1091e7a4112ee20e3b",
+    "miniatura": "miniaturas/zafacon/33dbd28d8f894f1091e7a4112ee20e3b.jpg"
+   },
+   {
+    "uid": "0ad3407cd8104ba58f71885c0e58ca9a",
+    "nombre": "Trash Can",
+    "autor": "Tim0",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1070,
+    "url": "https://sketchfab.com/3d-models/none-0ad3407cd8104ba58f71885c0e58ca9a",
+    "miniatura": "miniaturas/zafacon/0ad3407cd8104ba58f71885c0e58ca9a.jpg"
+   },
+   {
+    "uid": "f61aeec14ff441abb0f6add5485a2e90",
+    "nombre": "Trash Can",
+    "autor": "longtail",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3920,
+    "url": "https://sketchfab.com/3d-models/none-f61aeec14ff441abb0f6add5485a2e90",
+    "miniatura": "miniaturas/zafacon/f61aeec14ff441abb0f6add5485a2e90.jpg"
+   },
+   {
+    "uid": "27a6775c51e44bfda8e1ac8725eb3e9e",
+    "nombre": "Street and City Props Dumpster Traffic Light",
+    "autor": "spookyghostboo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 16234,
+    "url": "https://sketchfab.com/3d-models/none-27a6775c51e44bfda8e1ac8725eb3e9e",
+    "miniatura": "miniaturas/zafacon/27a6775c51e44bfda8e1ac8725eb3e9e.jpg"
+   },
+   {
+    "uid": "a4ca1a1764e841cc9ce9259e699aebd9",
+    "nombre": "Trash Can 02",
+    "autor": "katykate",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 696,
+    "url": "https://sketchfab.com/3d-models/none-a4ca1a1764e841cc9ce9259e699aebd9",
+    "miniatura": "miniaturas/zafacon/a4ca1a1764e841cc9ce9259e699aebd9.jpg"
+   },
+   {
+    "uid": "831dd489b8044ba8bb77f0ca253dcfde",
+    "nombre": "Trash Can [Minecraft]",
+    "autor": "sedona1029",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 38,
+    "url": "https://sketchfab.com/3d-models/none-831dd489b8044ba8bb77f0ca253dcfde",
+    "miniatura": "miniaturas/zafacon/831dd489b8044ba8bb77f0ca253dcfde.jpg"
+   },
+   {
+    "uid": "aca52679c57142ca9c92fa31b4690b35",
+    "nombre": "Trash can",
+    "autor": "ShekAlena",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 98713,
+    "url": "https://sketchfab.com/3d-models/none-aca52679c57142ca9c92fa31b4690b35",
+    "miniatura": "miniaturas/zafacon/aca52679c57142ca9c92fa31b4690b35.jpg"
+   },
+   {
+    "uid": "c5d23e21daef4fc2a62704149f5f9af6",
+    "nombre": "Green City Trash Can",
+    "autor": "Raffey",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5134,
+    "url": "https://sketchfab.com/3d-models/none-c5d23e21daef4fc2a62704149f5f9af6",
+    "miniatura": "miniaturas/zafacon/c5d23e21daef4fc2a62704149f5f9af6.jpg"
+   },
+   {
+    "uid": "259fa8a5720a4170a76edff4e1b89985",
+    "nombre": "Modern Street Props",
+    "autor": "bpcrews",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 50816,
+    "url": "https://sketchfab.com/3d-models/none-259fa8a5720a4170a76edff4e1b89985",
+    "miniatura": "miniaturas/zafacon/259fa8a5720a4170a76edff4e1b89985.jpg"
+   },
+   {
+    "uid": "f0e7ff79b95d461bb69f5e927b5db062",
+    "nombre": "Bus stop",
+    "autor": "Mentailst",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3404,
+    "url": "https://sketchfab.com/3d-models/none-f0e7ff79b95d461bb69f5e927b5db062",
+    "miniatura": "miniaturas/zafacon/f0e7ff79b95d461bb69f5e927b5db062.jpg"
+   },
+   {
+    "uid": "9044ac8d545747e3959278fbe36fce8b",
+    "nombre": "Garbage Bin",
+    "autor": "dk_artist",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 85632,
+    "url": "https://sketchfab.com/3d-models/none-9044ac8d545747e3959278fbe36fce8b",
+    "miniatura": "miniaturas/zafacon/9044ac8d545747e3959278fbe36fce8b.jpg"
+   },
+   {
+    "uid": "f336a10e46084212ab33de0ff811bd78",
+    "nombre": "City Trash Can",
+    "autor": "_Tempus_",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 510976,
+    "url": "https://sketchfab.com/3d-models/none-f336a10e46084212ab33de0ff811bd78",
+    "miniatura": "miniaturas/zafacon/f336a10e46084212ab33de0ff811bd78.jpg"
+   },
+   {
+    "uid": "b9909021fc8e467f9e34741db3f389e0",
+    "nombre": "Mega Scene",
+    "autor": "VitSh",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 50312,
+    "url": "https://sketchfab.com/3d-models/none-b9909021fc8e467f9e34741db3f389e0",
+    "miniatura": "miniaturas/zafacon/b9909021fc8e467f9e34741db3f389e0.jpg"
+   },
+   {
+    "uid": "dd939d6e5f5d478ead53622ddaa120c7",
+    "nombre": "Barrels",
+    "autor": "katykate",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2880,
+    "url": "https://sketchfab.com/3d-models/none-dd939d6e5f5d478ead53622ddaa120c7",
+    "miniatura": "miniaturas/zafacon/dd939d6e5f5d478ead53622ddaa120c7.jpg"
+   },
+   {
+    "uid": "08be81ca5fa74718b5d95ac6a5a928f2",
+    "nombre": "Soda Can (High Poly)",
+    "autor": "ChrisSweetwood",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 2894,
+    "url": "https://sketchfab.com/3d-models/none-08be81ca5fa74718b5d95ac6a5a928f2",
+    "miniatura": "miniaturas/zafacon/08be81ca5fa74718b5d95ac6a5a928f2.jpg"
+   }
+  ]
+ },
+ "info": {
+  "CashRegister_01": {
+   "nombre": "Cash Register 01",
+   "autores": {
+    "Joe Seabuhr": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "fishermans_hat": {
+   "nombre": "Fishermans Hat",
+   "autores": {
+    "PierreB3D": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "bananas": {
+   "nombre": "Bananas",
+   "autores": {
+    "Alexander Shulha": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "cardboard_box_01": {
+   "nombre": "Cardboard Box 01",
+   "autores": {
+    "Rahul Chaudhary": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "hanging_industrial_lamp": {
+   "nombre": "Hanging Industrial Lamp",
+   "autores": {
+    "Kuutti Siitonen": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "Shelf_01": {
+   "nombre": "Shelf 01",
+   "autores": {
+    "Gabriel Radić": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "plastic_monobloc_chair_01": {
+   "nombre": "Plastic Monobloc Chair 01",
+   "autores": {
+    "Kuutti Siitonen": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "old_bed_frame": {
+   "nombre": "Old Bed Frame",
+   "autores": {
+    "Luca B": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "security_camera_01": {
+   "nombre": "Security Camera 01",
+   "autores": {
+    "Alexander Otterbeck": "Modeling & Texturing",
+    "Yann Kervran": "Rigging"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "plastic_crate_01": {
+   "nombre": "Plastic Crate 01",
+   "autores": {
+    "PierreB3D": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "office_notepads": {
+   "nombre": "Office Notepads",
+   "autores": {
+    "Ulan Cabanilla": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "mounted_fluorescent_lights": {
+   "nombre": "Mounted Fluorescent Lights",
+   "autores": {
+    "Ulan Cabanilla": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "modern_ceiling_lamp_01": {
+   "nombre": "Modern Ceiling Lamp 01",
+   "autores": {
+    "James Ray Cock": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "WetFloorSign_01": {
+   "nombre": "Wet Floor Sign 01",
+   "autores": {
+    "Fran Calvente": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "terrazzo_tiles": {
+   "nombre": "Terrazzo Tiles",
+   "autores": {
+    "Amal Kumar": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "marble_tiles": {
+   "nombre": "Marble Tiles",
+   "autores": {
+    "Charlotte Baglioni": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "wood_table_001": {
+   "nombre": "Wood Table 001",
+   "autores": {
+    "Dimitrios Savva": "Photography",
+    "Rico Cilliers": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "checkered_pavement_tiles": {
+   "nombre": "Checkered Pavement Tiles",
+   "autores": {
+    "Amal Kumar": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "clarens_night_01": {
+   "nombre": "Clarens Night 01",
+   "autores": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "blue_lagoon_night": {
+   "nombre": "Blue Lagoon Night",
+   "autores": {
+    "Greg Zaal": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  }
+ }
+}
