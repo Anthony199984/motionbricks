@@ -1,202 +1,34 @@
 {
  "catalogo": false,
- "informe": "informe_mq_busqueda3.json",
- "sketchfab_buscar": [
+ "informe": "informe_transc_mosquito.json",
+ "transcribir": [
   {
-   "clave": "mq3_reno_real",
-   "q": "reindeer realistic",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 36,
-   "orden": "-likeCount"
-  },
-  {
-   "clave": "mq3_rangifer",
-   "q": "rangifer tarandus",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 36,
-   "orden": "-likeCount"
-  },
-  {
-   "clave": "mq3_ciervo_real",
-   "q": "deer realistic",
-   "animado": true,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 36,
-   "orden": "-likeCount"
-  },
-  {
-   "clave": "mq3_alce_anim",
-   "q": "moose",
-   "animado": true,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 36,
-   "orden": "-likeCount"
-  },
-  {
-   "clave": "mq3_reno_rig",
-   "q": "reindeer rigged",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 36,
-   "orden": "-viewCount"
-  },
-  {
-   "clave": "mq3_polilla2",
-   "q": "moth realistic",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 36,
-   "orden": "-likeCount"
-  },
-  {
-   "clave": "mq3_polilla3",
-   "q": "noctuidae",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 36,
-   "orden": "-likeCount"
-  },
-  {
-   "clave": "mq3_lupa",
-   "q": "magnifying glass",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 36,
-   "orden": "-likeCount"
-  },
-  {
-   "clave": "mq3_cuna",
-   "q": "crib baby",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 36,
-   "orden": "-likeCount"
-  },
-  {
-   "clave": "mq3_mosquitero",
-   "q": "mosquito net",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 36,
-   "orden": "-likeCount"
+   "archivo": "recursos/entrada/mosquito_voz.wav",
+   "salida": "transcripcion_mosquito.json",
+   "modelo": "small",
+   "idioma": "es"
   }
  ],
  "objaverse": [
   {
-   "uid": "0850a4b8afc141b88981c4606cf80415",
-   "nombre": "mq2_rana_4",
-   "titulo": "CC0 \u30a6\u30b7\u30ac\u30a8\u30eb \ud83d\udc38 \u2640 American Bullfrog",
-   "autor": "ffishAsia-and-floraZia",
-   "licencia": "CC0 Public Domain"
-  },
-  {
-   "uid": "12244c1e4f3a4bfdbc217acba90e8baa",
-   "nombre": "mq2_rana_11",
-   "titulo": "CC0 \u30a6\u30b7\u30ac\u30a8\u30eb \ud83d\udc38 American Bullfrog, L. catesbeianus",
-   "autor": "ffishAsia-and-floraZia",
-   "licencia": "CC0 Public Domain"
-  },
-  {
-   "uid": "a9c23391171c4e1abd859b05887e00af",
-   "nombre": "mq2_rana2_0",
-   "titulo": "CC0 \u30e2\u30ea\u30a2\u30aa\u30ac\u30a8\u30eb \ud83d\udc38 \u2642 Forest Green Tree Frog",
-   "autor": "ffishAsia-and-floraZia",
-   "licencia": "CC0 Public Domain"
-  },
-  {
-   "uid": "19500e25af28402ba3ba857adea5f058",
-   "nombre": "mq2_rana2_17",
-   "titulo": "CC0 \u30e2\u30ea\u30a2\u30aa\u30ac\u30a8\u30eb \ud83d\udc38 \u2642 Forest Green Tree Frog",
-   "autor": "ffishAsia-and-floraZia",
-   "licencia": "CC0 Public Domain"
-  },
-  {
-   "uid": "261da75c42d6486189a5ea170285a1f1",
-   "nombre": "mq2_rana3_17",
-   "titulo": "Rana dalmatina",
-   "autor": "yelizegi",
+   "uid": "c601cb15bf794fcc920ddd3b24342dfb",
+   "nombre": "mq3_lupa_10",
+   "titulo": "Realistic Magnifying Glass",
+   "autor": "rikugo.studio",
    "licencia": "CC Attribution"
   },
   {
-   "uid": "6e7c9d916b874a38adf1758dc1af46cf",
-   "nombre": "mq2_ciervo_anim_20",
-   "titulo": "Deer",
-   "autor": "Tomations",
-   "licencia": "CC Attribution-ShareAlike"
-  },
-  {
-   "uid": "347e5d4fbee14e53811c5df2221be8d0",
-   "nombre": "mq2_ciervo_anim_18",
-   "titulo": "Deer Animation",
-   "autor": "DarryleH",
+   "uid": "673789ee204a4dcb9881124d9284932e",
+   "nombre": "mq3_lupa_16",
+   "titulo": "Magnifying glass",
+   "autor": "paraside",
    "licencia": "CC Attribution"
   },
   {
-   "uid": "6bd89c96005d42ba91e5696a5cece020",
-   "nombre": "mq2_alce_4",
-   "titulo": "Elk",
-   "autor": "stacy_666",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "c6dc869ce7c74962ab0ba69d0b2ea30d",
-   "nombre": "mq2_mosquita_2",
-   "titulo": "flying gnat",
-   "autor": "VertaScan",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "215c74ff0fdc4758adc561727c1cc447",
-   "nombre": "mq2_mosca_0",
-   "titulo": "Syrphus ribesii",
-   "autor": "disc3d",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "fafcd79b60964e57a532e74706af6d16",
-   "nombre": "mq2_polilla_1",
-   "titulo": "Moth",
-   "autor": "Amatsukast",
-   "licencia": "CC Attribution-NonCommercial-ShareAlike"
-  },
-  {
-   "uid": "bbfed963b0154e049d82bb48502b3d12",
-   "nombre": "mq2_platanthera_0",
-   "titulo": "Platanthera mandarinorum var. masamunei - \u5c4b\u4e45\u5cf6\u873b\u86c9",
-   "autor": "light-box",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "4892b8f61b0c4b27a65b0dfd489d6af5",
-   "nombre": "mq2_pastilla_0",
-   "titulo": "CC0 - Pill",
-   "autor": "plaggy",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "69d0a671024e4928a12f5ee0d655f0a6",
-   "nombre": "mq2_chocolate_20",
-   "titulo": "Chocolat Bar",
-   "autor": "davimfs7",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "c8675e9eeb34404ca391f6fa915a104d",
-   "nombre": "mq2_chocolate_22",
-   "titulo": "Chocolate",
-   "autor": "CakesForMe",
+   "uid": "29451febdc894682a36a5112fd13f054",
+   "nombre": "mq3_cuna_1",
+   "titulo": "Cotbed",
+   "autor": "roatti",
    "licencia": "CC Attribution"
   }
  ]
