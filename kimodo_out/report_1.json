@@ -1,10 +1,10 @@
 {
- "total_seconds": 308.9,
+ "total_seconds": 211.3,
  "jobs": [
   {
-   "name": "cs01_anotar_tablilla_b",
+   "name": "cm01_acostado_forcejea_b",
    "response": "OK\t150\t30",
-   "seconds": 308.8,
+   "seconds": 211.2,
    "frames": 150
   }
  ]
