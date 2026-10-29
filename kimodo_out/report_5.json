@@ -1,10 +1,10 @@
 {
- "total_seconds": 247.3,
+ "total_seconds": 217.3,
  "jobs": [
   {
-   "name": "mq32_agacharse_acariciar_b",
+   "name": "mq35_morder_barra_b",
    "response": "OK\t150\t30",
-   "seconds": 247.2,
+   "seconds": 217.2,
    "frames": 150
   }
  ]
