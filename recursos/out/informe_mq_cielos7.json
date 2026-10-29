@@ -1,0 +1,149 @@
+{
+ "bajados": [
+  {
+   "destino": "hdri/belfast_sunset_puresky_2k.hdr",
+   "mb": 4.35
+  },
+  {
+   "destino": "hdri/kloppenheim_06_puresky_2k.hdr",
+   "mb": 4.23
+  },
+  {
+   "destino": "hdri/evening_road_01_puresky_2k.hdr",
+   "mb": 4.76
+  },
+  {
+   "destino": "hdri/the_sky_is_on_fire_2k.hdr",
+   "mb": 5.72
+  },
+  {
+   "destino": "hdri/venice_sunset_2k.hdr",
+   "mb": 5.46
+  },
+  {
+   "destino": "hdri/sunflowers_puresky_2k.hdr",
+   "mb": 5.4
+  },
+  {
+   "destino": "hdri/golden_gate_hills_2k.hdr",
+   "mb": 6.2
+  },
+  {
+   "destino": "hdri/spaichingen_hill_2k.hdr",
+   "mb": 6.12
+  },
+  {
+   "destino": "hdri/autumn_field_puresky_2k.hdr",
+   "mb": 4.17
+  },
+  {
+   "destino": "hdri/rustig_koppie_puresky_2k.hdr",
+   "mb": 3.86
+  },
+  {
+   "destino": "hdri/kiara_1_dawn_2k.hdr",
+   "mb": 5.86
+  },
+  {
+   "destino": "hdri/dikhololo_night_2k.hdr",
+   "mb": 6.72
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "info": {
+  "belfast_sunset_puresky": {
+   "nombre": "Belfast Sunset (Pure Sky)",
+   "autores": {
+    "Greg Zaal": "Processing",
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Sky edits"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "kloppenheim_06_puresky": {
+   "nombre": "Kloppenheim 06 (Pure Sky)",
+   "autores": {
+    "Greg Zaal": "Original",
+    "Jarod Guest": "Sky edits"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "evening_road_01_puresky": {
+   "nombre": "Evening Road 01 (Pure Sky)",
+   "autores": {
+    "Jarod Guest": "Sky Edits",
+    "Sergej Majboroda": "Original"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "the_sky_is_on_fire": {
+   "nombre": "The Sky Is On Fire",
+   "autores": {
+    "Greg Zaal": "All",
+    "Rico Cilliers": "Backplates"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "venice_sunset": {
+   "nombre": "Venice Sunset",
+   "autores": {
+    "Greg Zaal": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "sunflowers_puresky": {
+   "nombre": "Sunflowers (Pure Sky)",
+   "autores": {
+    "Jarod Guest": "Sky Edits",
+    "Sergej Majboroda": "Original"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "golden_gate_hills": {
+   "nombre": "Golden Gate Hills",
+   "autores": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "spaichingen_hill": {
+   "nombre": "Spaichingen Hill",
+   "autores": {
+    "Andreas Mischok": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "autumn_field_puresky": {
+   "nombre": "Autumn Field (Pure Sky)",
+   "autores": {
+    "Jarod Guest": "Sky Edits",
+    "Sergej Majboroda": "Original"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "rustig_koppie_puresky": {
+   "nombre": "Rustig Koppie (Pure Sky)",
+   "autores": {
+    "Greg Zaal": "Original",
+    "Jarod Guest": "Sky edits"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "kiara_1_dawn": {
+   "nombre": "Kiara 1 Dawn",
+   "autores": {
+    "Greg Zaal": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "dikhololo_night": {
+   "nombre": "Dikhololo Night",
+   "autores": {
+    "Greg Zaal": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  }
+ }
+}
