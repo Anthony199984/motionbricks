@@ -1,114 +1,54 @@
 {
  "catalogo": false,
- "informe": "informe_mq_busqueda6.json",
- "sketchfab_buscar": [
+ "informe": "informe_mq_cielos7.json",
+ "polyhaven": [
   {
-   "clave": "mq5_tigre",
-   "q": "tiger mosquito",
-   "animado": false,
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40,
-   "orden": "-likeCount"
+   "id": "belfast_sunset_puresky",
+   "res": "2k"
   },
   {
-   "clave": "mq5_albopictus",
-   "q": "aedes albopictus",
-   "animado": false,
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40,
-   "orden": "-likeCount"
+   "id": "kloppenheim_06_puresky",
+   "res": "2k"
   },
   {
-   "clave": "mq5_aedes2",
-   "q": "aedes",
-   "animado": false,
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40,
-   "orden": "-likeCount"
+   "id": "evening_road_01_puresky",
+   "res": "2k"
   },
   {
-   "clave": "mq5_culex",
-   "q": "culex",
-   "animado": false,
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40,
-   "orden": "-likeCount"
+   "id": "the_sky_is_on_fire",
+   "res": "2k"
   },
   {
-   "clave": "mq5_anopheles",
-   "q": "anopheles",
-   "animado": false,
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40,
-   "orden": "-likeCount"
+   "id": "venice_sunset",
+   "res": "2k"
   },
   {
-   "clave": "mq5_mosq_rig",
-   "q": "mosquito rigged",
-   "animado": false,
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40,
-   "orden": "-likeCount"
+   "id": "sunflowers_puresky",
+   "res": "2k"
   },
   {
-   "clave": "mq5_mosq_anim",
-   "q": "mosquito animation",
-   "animado": true,
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40,
-   "orden": "-likeCount"
+   "id": "golden_gate_hills",
+   "res": "2k"
   },
   {
-   "clave": "mq5_mosq_real",
-   "q": "realistic mosquito",
-   "animado": false,
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40,
-   "orden": "-likeCount"
+   "id": "spaichingen_hill",
+   "res": "2k"
   },
   {
-   "clave": "mq5_mosquito_fly",
-   "q": "mosquito flying",
-   "animado": true,
-   "paginas": 6,
-   "solo_objaverse": true,
-   "max": 40,
-   "orden": "-likeCount"
+   "id": "autumn_field_puresky",
+   "res": "2k"
   },
   {
-   "clave": "mq5_insecto_rig",
-   "q": "insect rigged",
-   "animado": true,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 40,
-   "orden": "-likeCount"
+   "id": "rustig_koppie_puresky",
+   "res": "2k"
   },
   {
-   "clave": "mq5_aedes_nuevo",
-   "q": "aedes aegypti",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": false,
-   "max": 40,
-   "orden": "-likeCount"
+   "id": "kiara_1_dawn",
+   "res": "2k"
   },
   {
-   "clave": "mq5_mosq_nuevo",
-   "q": "mosquito",
-   "animado": true,
-   "paginas": 4,
-   "solo_objaverse": false,
-   "max": 40,
-   "orden": "-likeCount"
+   "id": "dikhololo_night",
+   "res": "2k"
   }
  ]
 }
