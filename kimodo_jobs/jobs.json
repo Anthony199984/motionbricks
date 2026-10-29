@@ -1,38 +1,62 @@
 [
  {
-  "name": "cs01_anotar_tablilla_a",
+  "name": "cm01_acostado_forcejea_a",
   "frames": 150,
-  "seed": 6100,
-  "prompt": "A person stands holding a clipboard with the left hand at chest height and writes on it with the right hand, looking down at the clipboard and then up in front of them, then writes again."
+  "seed": 7100,
+  "prompt": "A person lies on their back on a table with the arms at the sides, struggling and pulling the arms and legs as if they are tied down, turning the head left and right."
  },
  {
-  "name": "cs01_anotar_tablilla_b",
+  "name": "cm01_acostado_forcejea_b",
   "frames": 150,
-  "seed": 6200,
-  "prompt": "A person stands holding a clipboard with the left hand at chest height and writes on it with the right hand, looking down at the clipboard and then up in front of them, then writes again."
+  "seed": 7200,
+  "prompt": "A person lies on their back on a table with the arms at the sides, struggling and pulling the arms and legs as if they are tied down, turning the head left and right."
  },
  {
-  "name": "cs02_ajustar_aparato_a",
+  "name": "cm02_acostado_respira_a",
   "frames": 150,
-  "seed": 6101,
-  "prompt": "A person stands in front of a machine on the wall and adjusts small knobs on it with both hands at chest height, leaning slightly forward and looking at it."
+  "seed": 7101,
+  "prompt": "A person lies still on their back on a table, breathing heavily, exhausted, slowly turning the head to one side."
  },
  {
-  "name": "cs02_ajustar_aparato_b",
+  "name": "cm02_acostado_respira_b",
   "frames": 150,
-  "seed": 6201,
-  "prompt": "A person stands in front of a machine on the wall and adjusts small knobs on it with both hands at chest height, leaning slightly forward and looking at it."
+  "seed": 7201,
+  "prompt": "A person lies still on their back on a table, breathing heavily, exhausted, slowly turning the head to one side."
  },
  {
-  "name": "cs03_observar_anotar_a",
+  "name": "en01_inyectar_cuello_a",
   "frames": 150,
-  "seed": 6102,
-  "prompt": "A person stands still, observing something on the floor in front of them with interest, leaning forward a little, then nods and writes a note on a clipboard held in the left hand."
+  "seed": 7102,
+  "prompt": "A person stands beside a table, leans forward and with both hands carefully pushes something small into the neck of someone lying on the table, then holds still and straightens up."
  },
  {
-  "name": "cs03_observar_anotar_b",
+  "name": "en01_inyectar_cuello_b",
   "frames": 150,
-  "seed": 6202,
-  "prompt": "A person stands still, observing something on the floor in front of them with interest, leaning forward a little, then nods and writes a note on a clipboard held in the left hand."
+  "seed": 7202,
+  "prompt": "A person stands beside a table, leans forward and with both hands carefully pushes something small into the neck of someone lying on the table, then holds still and straightens up."
+ },
+ {
+  "name": "ch11_drogado_balanceo_a",
+  "frames": 180,
+  "seed": 7103,
+  "prompt": "A person squatting on the floor sways slowly side to side, head tilting back, relaxed and dazed, arms hanging loose."
+ },
+ {
+  "name": "ch11_drogado_balanceo_b",
+  "frames": 180,
+  "seed": 7203,
+  "prompt": "A person squatting on the floor sways slowly side to side, head tilting back, relaxed and dazed, arms hanging loose."
+ },
+ {
+  "name": "ch12_triste_encorvado_a",
+  "frames": 180,
+  "seed": 7104,
+  "prompt": "A person squats on the floor hunched over with the head down, sad and tired, slowly hugging the knees."
+ },
+ {
+  "name": "ch12_triste_encorvado_b",
+  "frames": 180,
+  "seed": 7204,
+  "prompt": "A person squats on the floor hunched over with the head down, sad and tired, slowly hugging the knees."
  }
 ]
