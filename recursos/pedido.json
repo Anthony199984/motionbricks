@@ -1,25 +1,97 @@
 {
  "catalogo": false,
- "informe": "informe_mono_camilla.json",
+ "informe": "informe_mono_camilla2.json",
+ "objaverse": [
+  {
+   "uid": "f6f350bf2c754644a69dac2ac21e1230",
+   "nombre": "h_camilla_vieja"
+  },
+  {
+   "uid": "43736bb6a0b64fe8a824542bdbace6bc",
+   "nombre": "h_camilla_manicomio"
+  },
+  {
+   "uid": "bd69f5a963714cb2b2c08ee098a03aab",
+   "nombre": "h_camilla_reclinable"
+  },
+  {
+   "uid": "a93a8e70ecd2459c99e7812c6e09b88c",
+   "nombre": "h_suero_soporte"
+  },
+  {
+   "uid": "577ee63d736a44cca98497ed60f8a3c1",
+   "nombre": "h_suero_insumos"
+  },
+  {
+   "uid": "84aa2c97829b4557bc077e8006d97e58",
+   "nombre": "h_monitor_soporte"
+  },
+  {
+   "uid": "295ed50eeaa249e8bbeed7b305d3da71",
+   "nombre": "h_monitor_cortina"
+  },
+  {
+   "uid": "69f883fdc4b54b51aca2864eb4b9c646",
+   "nombre": "h_cateter_venoso"
+  },
+  {
+   "uid": "22e711221a094a48a6ffe826d3fd6185",
+   "nombre": "h_jeringa_vidrio"
+  },
+  {
+   "uid": "31073e7537c14a6e89f509e890582d09",
+   "nombre": "h_craneo_chimp"
+  },
+  {
+   "uid": "6ef86b9a368d4058b67f0c99a7880fb4",
+   "nombre": "h_craneo_chimp_cc0"
+  }
+ ],
  "sketchfab_buscar": [
-  {"clave": "mh_camilla", "q": "hospital stretcher", "solo_objaverse": true, "paginas": 6, "max": 60},
-  {"clave": "mh_camilla2", "q": "hospital gurney", "solo_objaverse": true, "paginas": 4, "max": 40},
-  {"clave": "mh_camilla3", "q": "hospital bed", "solo_objaverse": true, "paginas": 6, "max": 60},
-  {"clave": "mh_bomba", "q": "infusion pump", "solo_objaverse": true, "paginas": 4, "max": 40},
-  {"clave": "mh_monitor", "q": "medical monitor", "solo_objaverse": true, "paginas": 4, "max": 40},
-  {"clave": "mh_suero", "q": "iv drip stand", "solo_objaverse": true, "paginas": 4, "max": 40},
-  {"clave": "mh_suero2", "q": "iv bag", "solo_objaverse": true, "paginas": 4, "max": 40},
-  {"clave": "mh_jeringa", "q": "syringe", "solo_objaverse": true, "paginas": 4, "max": 40},
-  {"clave": "mh_cateter", "q": "catheter", "solo_objaverse": true, "paginas": 3, "max": 30},
-  {"clave": "mh_chimp", "q": "chimpanzee", "solo_objaverse": true, "paginas": 6, "max": 60},
-  {"clave": "mh_chimp2", "q": "chimpanzee face rig", "solo_objaverse": false, "paginas": 3, "max": 30}
+  {
+   "clave": "mh_bomba2",
+   "q": "syringe pump",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 40
+  },
+  {
+   "clave": "mh_bomba3",
+   "q": "iv pump",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 40
+  },
+  {
+   "clave": "mh_equipo",
+   "q": "medical equipment",
+   "solo_objaverse": true,
+   "paginas": 6,
+   "max": 60
+  },
+  {
+   "clave": "mh_correas",
+   "q": "restraint straps",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 30
+  }
  ],
  "freesound_buscar": [
-  {"clave": "mh_correa", "q": "leather strap buckle", "max": 6},
-  {"clave": "mh_camilla_s", "q": "hospital stretcher wheels", "max": 6},
-  {"clave": "mh_monitor_s", "q": "heart monitor beep", "max": 6},
-  {"clave": "mh_aguja", "q": "syringe needle", "max": 6},
-  {"clave": "mh_chimp_miedo", "q": "chimpanzee distress", "max": 6},
-  {"clave": "mh_jaula", "q": "metal cage door close", "max": 6}
+  {
+   "clave": "mh_mono_grito",
+   "q": "monkey scream",
+   "max": 6
+  },
+  {
+   "clave": "mh_jaula2",
+   "q": "cage door metal",
+   "max": 6
+  },
+  {
+   "clave": "mh_camilla_r",
+   "q": "gurney rolling",
+   "max": 6
+  }
  ]
 }
