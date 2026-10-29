@@ -1,10 +1,10 @@
 {
- "total_seconds": 211.5,
+ "total_seconds": 265.2,
  "jobs": [
   {
-   "name": "g13v2_2b",
+   "name": "mq03_sentado_mirar_brazo_a",
    "response": "OK\t120\t30",
-   "seconds": 211.4,
+   "seconds": 265.1,
    "frames": 120
   }
  ]
