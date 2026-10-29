@@ -1,10 +1,10 @@
 {
- "total_seconds": 159.7,
+ "total_seconds": 271.2,
  "jobs": [
   {
-   "name": "mq33_flotar_defender_a",
+   "name": "mq36_agonizar_a",
    "response": "OK\t150\t30",
-   "seconds": 159.6,
+   "seconds": 271.1,
    "frames": 150
   }
  ]
