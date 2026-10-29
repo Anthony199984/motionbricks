@@ -1,0 +1,41 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/mq3_lupa_10.glb",
+   "mb": 0.43
+  },
+  {
+   "destino": "objaverse/mq3_lupa_16.glb",
+   "mb": 0.79
+  },
+  {
+   "destino": "objaverse/mq3_cuna_1.glb",
+   "mb": 5.77
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "mq3_lupa_10": {
+   "uid": "c601cb15bf794fcc920ddd3b24342dfb",
+   "nombre": "mq3_lupa_10",
+   "titulo": "Realistic Magnifying Glass",
+   "autor": "rikugo.studio",
+   "licencia": "CC Attribution"
+  },
+  "mq3_lupa_16": {
+   "uid": "673789ee204a4dcb9881124d9284932e",
+   "nombre": "mq3_lupa_16",
+   "titulo": "Magnifying glass",
+   "autor": "paraside",
+   "licencia": "CC Attribution"
+  },
+  "mq3_cuna_1": {
+   "uid": "29451febdc894682a36a5112fd13f054",
+   "nombre": "mq3_cuna_1",
+   "titulo": "Cotbed",
+   "autor": "roatti",
+   "licencia": "CC Attribution"
+  }
+ }
+}
