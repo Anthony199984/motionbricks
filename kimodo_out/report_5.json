@@ -1,11 +1,11 @@
 {
- "total_seconds": 309.2,
+ "total_seconds": 213.7,
  "jobs": [
   {
-   "name": "en01_inyectar_cuello_b",
-   "response": "OK\t150\t30",
-   "seconds": 309.2,
-   "frames": 150
+   "name": "g13v2_3b",
+   "response": "OK\t120\t30",
+   "seconds": 213.6,
+   "frames": 120
   }
  ]
 }
