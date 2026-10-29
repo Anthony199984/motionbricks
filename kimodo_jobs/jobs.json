@@ -1,62 +1,62 @@
 [
  {
-  "name": "cm01_acostado_forcejea_a",
-  "frames": 150,
-  "seed": 7100,
-  "prompt": "A person lies on their back on a table with the arms at the sides, struggling and pulling the arms and legs as if they are tied down, turning the head left and right."
+  "name": "g13v2_1a",
+  "frames": 120,
+  "seed": 8130,
+  "prompt": "A person stands still with both arms crossed over the chest, waiting impatiently and tapping one foot."
  },
  {
-  "name": "cm01_acostado_forcejea_b",
-  "frames": 150,
-  "seed": 7200,
-  "prompt": "A person lies on their back on a table with the arms at the sides, struggling and pulling the arms and legs as if they are tied down, turning the head left and right."
+  "name": "g13v2_1b",
+  "frames": 120,
+  "seed": 8131,
+  "prompt": "A person stands still with both arms crossed over the chest, waiting impatiently and tapping one foot."
  },
  {
-  "name": "cm02_acostado_respira_a",
-  "frames": 150,
-  "seed": 7101,
-  "prompt": "A person lies still on their back on a table, breathing heavily, exhausted, slowly turning the head to one side."
+  "name": "g13v2_2a",
+  "frames": 120,
+  "seed": 8140,
+  "prompt": "A person folds both arms tightly across the chest and stands waiting, shifting the weight from one foot to the other."
  },
  {
-  "name": "cm02_acostado_respira_b",
-  "frames": 150,
-  "seed": 7201,
-  "prompt": "A person lies still on their back on a table, breathing heavily, exhausted, slowly turning the head to one side."
+  "name": "g13v2_2b",
+  "frames": 120,
+  "seed": 8141,
+  "prompt": "A person folds both arms tightly across the chest and stands waiting, shifting the weight from one foot to the other."
  },
  {
-  "name": "en01_inyectar_cuello_a",
-  "frames": 150,
-  "seed": 7102,
-  "prompt": "A person stands beside a table, leans forward and with both hands carefully pushes something small into the neck of someone lying on the table, then holds still and straightens up."
+  "name": "g13v2_3a",
+  "frames": 120,
+  "seed": 8150,
+  "prompt": "A person stands with the arms crossed in front of the chest, sighs and looks to the side impatiently."
  },
  {
-  "name": "en01_inyectar_cuello_b",
-  "frames": 150,
-  "seed": 7202,
-  "prompt": "A person stands beside a table, leans forward and with both hands carefully pushes something small into the neck of someone lying on the table, then holds still and straightens up."
+  "name": "g13v2_3b",
+  "frames": 120,
+  "seed": 8151,
+  "prompt": "A person stands with the arms crossed in front of the chest, sighs and looks to the side impatiently."
  },
  {
-  "name": "ch11_drogado_balanceo_a",
-  "frames": 180,
-  "seed": 7103,
-  "prompt": "A person squatting on the floor sways slowly side to side, head tilting back, relaxed and dazed, arms hanging loose."
+  "name": "g10v2_1a",
+  "frames": 105,
+  "seed": 8100,
+  "prompt": "A frustrated person raises one hand and covers the eyes with the palm, holds it, then lowers the hand."
  },
  {
-  "name": "ch11_drogado_balanceo_b",
-  "frames": 180,
-  "seed": 7203,
-  "prompt": "A person squatting on the floor sways slowly side to side, head tilting back, relaxed and dazed, arms hanging loose."
+  "name": "g10v2_1b",
+  "frames": 105,
+  "seed": 8101,
+  "prompt": "A frustrated person raises one hand and covers the eyes with the palm, holds it, then lowers the hand."
  },
  {
-  "name": "ch12_triste_encorvado_a",
-  "frames": 180,
-  "seed": 7104,
-  "prompt": "A person squats on the floor hunched over with the head down, sad and tired, slowly hugging the knees."
+  "name": "g10v2_2a",
+  "frames": 105,
+  "seed": 8110,
+  "prompt": "A person facepalms with the right hand, pressing the palm against the forehead, then drops the hand."
  },
  {
-  "name": "ch12_triste_encorvado_b",
-  "frames": 180,
-  "seed": 7204,
-  "prompt": "A person squats on the floor hunched over with the head down, sad and tired, slowly hugging the knees."
+  "name": "g10v2_2b",
+  "frames": 105,
+  "seed": 8111,
+  "prompt": "A person facepalms with the right hand, pressing the palm against the forehead, then drops the hand."
  }
 ]
