@@ -1,11 +1,11 @@
 {
- "total_seconds": 211.7,
+ "total_seconds": 285.2,
  "jobs": [
   {
-   "name": "ch05_rascar_brazo_a",
-   "response": "OK\t120\t30",
-   "seconds": 211.6,
-   "frames": 120
+   "name": "ch12_triste_encorvado_a",
+   "response": "OK\t180\t30",
+   "seconds": 285.1,
+   "frames": 180
   }
  ]
 }
