@@ -1,15 +1,17 @@
-18:40:25 | INFO: Data are loaded, start creating Blender stuff
-18:40:25 | INFO: Blender create Mesh node MonoRhesus
-18:40:25 | INFO: glTF import finished in 0.11s
-
-FBX export starting... 'Truebone_Z-OO/MonoRhesus/MonoRhesus-Idle.fbx'
-(bpy.data.armatures['MonoRhesusRig'], 'POSE')
-export finished in 0.1885 sec.
+18:47:25 | INFO: Data are loaded, start creating Blender stuff
+18:47:25 | INFO: Blender create Mesh node MonoRhesus
+18:47:25 | INFO: glTF import finished in 0.11s
+acciones: ['Idle_MonoRhesusRig']
+acción activa: Idle_MonoRhesusRig (0.0, 47.20000076293945)
 
 FBX export starting... 'Truebone_Z-OO/MonoRhesus/MonoRhesus.fbx'
 (bpy.data.armatures['MonoRhesusRig'], 'POSE')
-export finished in 0.2096 sec.
-FBX listos: Truebone_Z-OO/MonoRhesus/MonoRhesus.fbx Truebone_Z-OO/MonoRhesus/MonoRhesus-Idle.fbx
+export finished in 0.3576 sec.
+
+FBX export starting... 'Truebone_Z-OO/MonoRhesus/MonoRhesus-Idle.fbx'
+(bpy.data.armatures['MonoRhesusRig'], 'POSE')
+export finished in 0.3534 sec.
+FBX listos con movimiento
 Blender 4.2.3 LTS (hash 0e22e4fcea03 built 2024-10-14 23:31:34)
 
 Blender quit

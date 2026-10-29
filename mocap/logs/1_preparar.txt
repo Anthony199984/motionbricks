@@ -10,56 +10,37 @@ Done.
 [2/15] fix_fbx_batch (Blender)
 ============================================================
 ==> Fixing 2 FBX files with 8 workers
-fix_fbx_analyze:   0%|          | 0/2 [00:00<?, ?it/s]Blender 4.2.3 LTS (hash 0e22e4fcea03 built 2024-10-14 23:31:34)
-Traceback (most recent call last):
-  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 600, in <module>
-    main()
-  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 581, in main
-    locator = push_translation_to_root(arm, logger, prefer_bones=prefer_bones)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 434, in push_translation_to_root
-    frame_start, frame_end, main_bone, keep_set = select_translation_bones(
-                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 424, in select_translation_bones
-    frame_start, frame_end, metrics = measure_bone_loc_motion(arm, logger)
-                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 267, in measure_bone_loc_motion
-    raise RuntimeError("Armature has no available action")
-RuntimeError: Armature has no available action
+fix_fbx_analyze:   0%|          | 0/2 [00:00<?, ?it/s]FBX version: 7400
+FBX version: 7400
 Blender 4.2.3 LTS (hash 0e22e4fcea03 built 2024-10-14 23:31:34)
-Traceback (most recent call last):
-  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 600, in <module>
-    main()
-  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 581, in main
-    locator = push_translation_to_root(arm, logger, prefer_bones=prefer_bones)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 434, in push_translation_to_root
-    frame_start, frame_end, main_bone, keep_set = select_translation_bones(
-                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 424, in select_translation_bones
-    frame_start, frame_end, metrics = measure_bone_loc_motion(arm, logger)
-                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/MocapAnything/preprocess/fix_fbx.py", line 267, in measure_bone_loc_motion
-    raise RuntimeError("Armature has no available action")
-RuntimeError: Armature has no available action
-FBX version: 7400
-FBX version: 7400
+Blender 4.2.3 LTS (hash 0e22e4fcea03 built 2024-10-14 23:31:34)
 
 Blender quit
 
 Blender quit
-fix_fbx_analyze:  50%|█████     | 1/2 [00:00<00:00,  1.54it/s]fix_fbx_analyze: 100%|██████████| 2/2 [00:00<00:00,  3.08it/s]
-==> fix_fbx_analyze: success=0, failed=2
-fix_fbx_export: 0it [00:00, ?it/s]fix_fbx_export: 0it [00:00, ?it/s]
-==> fix_fbx_export: success=0, failed=0
+fix_fbx_analyze:  50%|█████     | 1/2 [00:00<00:00,  1.30it/s]fix_fbx_analyze: 100%|██████████| 2/2 [00:00<00:00,  2.60it/s]
+==> fix_fbx_analyze: success=2, failed=0
+fix_fbx_export:   0%|          | 0/2 [00:00<?, ?it/s]FBX version: 7400
+
+FBX export starting... 'zoo/fixed_fbx/MonoRhesus/MonoRhesus.fbx'
+(bpy.data.armatures['MonoRhesus'], 'POSE')
+export finished in 0.3917 sec.
+FBX version: 7400
+
+FBX export starting... 'zoo/fixed_fbx/MonoRhesus/MonoRhesus-Idle.fbx'
+(bpy.data.armatures['MonoRhesus'], 'POSE')
+export finished in 0.3938 sec.
+Blender 4.2.3 LTS (hash 0e22e4fcea03 built 2024-10-14 23:31:34)
+
+Blender quit
+Blender 4.2.3 LTS (hash 0e22e4fcea03 built 2024-10-14 23:31:34)
+
+Blender quit
+fix_fbx_export:  50%|█████     | 1/2 [00:01<00:01,  1.01s/it]fix_fbx_export: 100%|██████████| 2/2 [00:01<00:00,  1.97it/s]
+==> fix_fbx_export: success=2, failed=0
 
 ============================================================
 [3/15] extract_character_from_fbx (Blender)
-============================================================
-⚠️ No FBX files in MonoRhesus, skipping.
-
-============================================================
-[4/15] align_character_face_zplus
 ============================================================
 /home/runner/MocapAnything/utils/bvh.py:151: SyntaxWarning: "\s" is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\s"? A raw string is also an option.
   fmatch = re.match('\s*Frames:\s+(\d+)', line)
@@ -75,19 +56,691 @@ Blender quit
   fmatch = re.match('\s*Frames:\s+(\d+)', line)
 /home/runner/MocapAnything/utils/bvh.py:934: SyntaxWarning: "\s" is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\s"? A raw string is also an option.
   fmatch = re.match('\s*Frame Time:\s+([\d\.]+)', line)
-==> Aligning 0 characters to +Z
-align_characters: 0it [00:00, ?it/s]align_characters: 0it [00:00, ?it/s]
+Writing to zoo/characters_fix_facezplus/MonoRhesus/base_mesh.obj
+Packed image found:'Image_0.png'. Unpack and place the image in the same directory as the .MTL file.
+
+============================================================
+Character : MonoRhesus
+  Base FBX  : MonoRhesus.fbx
+  Animations: 1
+============================================================
+FBX version: 7400
+BVH Exported: zoo/characters_fix_facezplus/MonoRhesus/rest.bvh frames:48
+
+✅ Exported BVH to zoo/characters_fix_facezplus/MonoRhesus/rest.bvh
+FBX version: 7400
+Warning: No mesh data to join
+✅ Merged 1 meshes → MonoRhesusMesh, triangulated
+BVH joints (22): ['Hips', 'Spine', 'Chest', 'Neck', 'Head', 'RightArm', 'RightForeArm', 'RightHand', 'LeftArm', 'LeftForeArm', 'LeftHand', 'RightUpLeg', 'RightLeg', 'RightFoot', 'LeftUpLeg', 'LeftLeg', 'LeftFoot', 'TailBase', 'TailFirst', 'TailSecond', 'TailThird', 'TailTip']
+✅ Skinning weights saved, shape=(19179, 22)
+--- Extracting textures ---
+🖼️ Exported embedded texture: Image_0.png
+✅ Exported base_mesh.obj/.mtl to zoo/characters_fix_facezplus/MonoRhesus
+FBX version: 7400
+BVH Exported: zoo/motions/MonoRhesus#MonoRhesus-Idle.bvh frames:48
+
+✅ Exported BVH to zoo/motions/MonoRhesus#MonoRhesus-Idle.bvh
+✅ Done with MonoRhesus
+
+============================================================
+[4/15] align_character_face_zplus
+============================================================
+==> Aligning 1 characters to +Z
+align_characters:   0%|          | 0/1 [00:00<?, ?it/s]align_characters: 100%|██████████| 1/1 [00:00<00:00,  3.39it/s]align_characters: 100%|██████████| 1/1 [00:00<00:00,  3.39it/s]
+[DONE] MonoRhesus, motions done=1, skip=0
 
 Pipeline complete.
 
-[ERROR] Stage 4 could not align MonoRhesus to +Z:
-        zoo/characters_face_zplus/MonoRhesus/front.npy was not written.
+============================================================
+[5/15] rotate_bvh_parallel
+============================================================
+[rotate_bvh] source: zoo/motions_face_zplus -> zoo/bvh
+==> Processing 12 rotation tasks with 32 workers...
+[rotate_bvh] source: zoo/motions_face_zplus -> zoo/bvh
+Rotating BVH:   0%|          | 0/12 [00:00<?, ?it/s]Rotating BVH: 100%|██████████| 12/12 [00:00<00:00, 281.59it/s]
+[DONE] MonoRhesus#MonoRhesus-Idle.bvh -> y0.bvh
+[DONE] MonoRhesus#MonoRhesus-Idle.bvh -> y15.bvh
+[DONE] MonoRhesus#MonoRhesus-Idle.bvh -> y30.bvh
+[DONE] MonoRhesus#MonoRhesus-Idle.bvh -> y180.bvh
+[DONE] MonoRhesus#MonoRhesus-Idle.bvh -> y45.bvh
+[DONE] MonoRhesus#MonoRhesus-Idle.bvh -> y75.bvh
+[DONE] MonoRhesus#MonoRhesus-Idle.bvh -> y90.bvh
+[DONE] MonoRhesus#MonoRhesus-Idle.bvh -> y270.bvh
+[DONE] MonoRhesus#MonoRhesus-Idle.bvh -> y60.bvh
+[DONE] MonoRhesus#MonoRhesus-Idle.bvh -> y135.bvh
+[DONE] MonoRhesus#MonoRhesus-Idle.bvh -> y225.bvh
+[DONE] MonoRhesus#MonoRhesus-Idle.bvh -> y315.bvh
+==> All BVH rotations completed.
 
-        Supply the facing direction yourself — a unit vector in the rig's own
-        coordinates pointing out of the character's front — and rerun:
+============================================================
+[6/15] extract_bvh_pose
+============================================================
+Processing BVH files:   0%|          | 0/12 [00:00<?, ?it/s]Processing BVH files:   8%|▊         | 1/12 [00:00<00:01,  6.27it/s]Processing BVH files: 100%|██████████| 12/12 [00:00<00:00, 55.81it/s]
 
-          mkdir -p examples/custom_rig/align_ref/MonoRhesus
-          python -c "import numpy as np; np.save('examples/custom_rig/align_ref/MonoRhesus/front.npy', np.array([1.,0.,0.]))"
-          ALIGN_REF_DIR=examples/custom_rig/align_ref bash examples/custom_rig/run.sh MonoRhesus
+============================================================
+[7/15] build_species_info (T5)
+============================================================
+[warn] no joint name map given — joint names will be cleaned automatically.
+       That is correct for obj1k-style data, but it will NOT reproduce the
+       curated canonical names used by the released zoo1030 species_info.
+skeletons:   0%|          | 0/1 [00:00<?, ?it/s]skeletons: 100%|██████████| 1/1 [00:00<00:00, 340.81it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+1 species
+Loading T5 encoder: t5-base on cpu
+Loading weights:   0%|          | 0/99 [00:00<?, ?it/s]Loading weights: 100%|██████████| 99/99 [00:00<00:00, 5536.19it/s]
+species_info:   0%|          | 0/1 [00:00<?, ?it/s]species_info: 100%|██████████| 1/1 [00:00<00:00,  6.30it/s]species_info: 100%|██████████| 1/1 [00:00<00:00,  6.29it/s]
+1 species -> zoo/species_info_dict.npy
 
-        [1,0,0] means the character faces +X; [0,0,1] means it already faces +Z.
+============================================================
+[8/15] build_scale_cache
+============================================================
+[INFO] pos_field = position
+scale cache:   0%|          | 0/1 [00:00<?, ?it/s]scale cache: 100%|██████████| 1/1 [00:00<00:00, 223.27it/s]
+  MonoRhesus       global_scale=0.007079  (npz used=12)
+
+✅ wrote scale cache for 1 species -> zoo/cache/__mesh2pose1002_species_scale_cache.pkl
+
+============================================================
+[9/15] render_bvh_videos_fast (Blender)
+============================================================
+Preparing mesh sequences:   0%|          | 0/12 [00:00<?, ?it/s]
+exporting mesh:   0%|          | 0/48 [00:00<?, ?it/s][A
+exporting mesh:   2%|▏         | 1/48 [00:00<00:07,  6.37it/s][A
+exporting mesh:   4%|▍         | 2/48 [00:00<00:07,  6.52it/s][A
+exporting mesh:   6%|▋         | 3/48 [00:00<00:06,  6.57it/s][A
+exporting mesh:   8%|▊         | 4/48 [00:00<00:06,  6.57it/s][A
+exporting mesh:  10%|█         | 5/48 [00:00<00:06,  6.52it/s][A
+exporting mesh:  12%|█▎        | 6/48 [00:00<00:06,  6.55it/s][A
+exporting mesh:  15%|█▍        | 7/48 [00:01<00:06,  6.55it/s][A
+exporting mesh:  17%|█▋        | 8/48 [00:01<00:06,  6.57it/s][A
+exporting mesh:  19%|█▉        | 9/48 [00:01<00:05,  6.58it/s][A
+exporting mesh:  21%|██        | 10/48 [00:01<00:05,  6.58it/s][A
+exporting mesh:  23%|██▎       | 11/48 [00:01<00:05,  6.59it/s][A
+exporting mesh:  25%|██▌       | 12/48 [00:01<00:05,  6.59it/s][A
+exporting mesh:  27%|██▋       | 13/48 [00:01<00:05,  6.59it/s][A
+exporting mesh:  29%|██▉       | 14/48 [00:02<00:05,  6.60it/s][A
+exporting mesh:  31%|███▏      | 15/48 [00:02<00:04,  6.60it/s][A
+exporting mesh:  33%|███▎      | 16/48 [00:02<00:04,  6.61it/s][A
+exporting mesh:  35%|███▌      | 17/48 [00:02<00:04,  6.60it/s][A
+exporting mesh:  38%|███▊      | 18/48 [00:02<00:04,  6.61it/s][A
+exporting mesh:  40%|███▉      | 19/48 [00:02<00:04,  6.61it/s][A
+exporting mesh:  42%|████▏     | 20/48 [00:03<00:04,  6.61it/s][A
+exporting mesh:  44%|████▍     | 21/48 [00:03<00:04,  6.63it/s][A
+exporting mesh:  46%|████▌     | 22/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  48%|████▊     | 23/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  50%|█████     | 24/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  52%|█████▏    | 25/48 [00:03<00:03,  6.62it/s][A
+exporting mesh:  54%|█████▍    | 26/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  56%|█████▋    | 27/48 [00:04<00:03,  6.63it/s][A
+exporting mesh:  58%|█████▊    | 28/48 [00:04<00:03,  6.63it/s][A
+exporting mesh:  60%|██████    | 29/48 [00:04<00:02,  6.63it/s][A
+exporting mesh:  62%|██████▎   | 30/48 [00:04<00:02,  6.63it/s][A
+exporting mesh:  65%|██████▍   | 31/48 [00:04<00:02,  6.63it/s][A
+exporting mesh:  67%|██████▋   | 32/48 [00:04<00:02,  6.64it/s][A
+exporting mesh:  69%|██████▉   | 33/48 [00:04<00:02,  6.64it/s][A
+exporting mesh:  71%|███████   | 34/48 [00:05<00:02,  6.63it/s][A
+exporting mesh:  73%|███████▎  | 35/48 [00:05<00:01,  6.64it/s][A
+exporting mesh:  75%|███████▌  | 36/48 [00:05<00:01,  6.63it/s][A
+exporting mesh:  77%|███████▋  | 37/48 [00:05<00:01,  6.64it/s][A
+exporting mesh:  79%|███████▉  | 38/48 [00:05<00:01,  6.64it/s][A
+exporting mesh:  81%|████████▏ | 39/48 [00:05<00:01,  6.63it/s][A
+exporting mesh:  83%|████████▎ | 40/48 [00:06<00:01,  6.64it/s][A
+exporting mesh:  85%|████████▌ | 41/48 [00:06<00:01,  6.63it/s][A
+exporting mesh:  88%|████████▊ | 42/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  90%|████████▉ | 43/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  92%|█████████▏| 44/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  94%|█████████▍| 45/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  96%|█████████▌| 46/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  98%|█████████▊| 47/48 [00:07<00:00,  6.63it/s][A
+exporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.63it/s][Aexporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.61it/s]
+Preparing mesh sequences:   8%|▊         | 1/12 [00:07<01:22,  7.48s/it]
+exporting mesh:   0%|          | 0/48 [00:00<?, ?it/s][A
+exporting mesh:   2%|▏         | 1/48 [00:00<00:07,  6.63it/s][A
+exporting mesh:   4%|▍         | 2/48 [00:00<00:06,  6.61it/s][A
+exporting mesh:   6%|▋         | 3/48 [00:00<00:06,  6.59it/s][A
+exporting mesh:   8%|▊         | 4/48 [00:00<00:06,  6.59it/s][A
+exporting mesh:  10%|█         | 5/48 [00:00<00:06,  6.58it/s][A
+exporting mesh:  12%|█▎        | 6/48 [00:00<00:06,  6.58it/s][A
+exporting mesh:  15%|█▍        | 7/48 [00:01<00:06,  6.58it/s][A
+exporting mesh:  17%|█▋        | 8/48 [00:01<00:06,  6.58it/s][A
+exporting mesh:  19%|█▉        | 9/48 [00:01<00:05,  6.57it/s][A
+exporting mesh:  21%|██        | 10/48 [00:01<00:05,  6.56it/s][A
+exporting mesh:  23%|██▎       | 11/48 [00:01<00:05,  6.58it/s][A
+exporting mesh:  25%|██▌       | 12/48 [00:01<00:05,  6.60it/s][A
+exporting mesh:  27%|██▋       | 13/48 [00:01<00:05,  6.60it/s][A
+exporting mesh:  29%|██▉       | 14/48 [00:02<00:05,  6.60it/s][A
+exporting mesh:  31%|███▏      | 15/48 [00:02<00:04,  6.61it/s][A
+exporting mesh:  33%|███▎      | 16/48 [00:02<00:04,  6.61it/s][A
+exporting mesh:  35%|███▌      | 17/48 [00:02<00:04,  6.62it/s][A
+exporting mesh:  38%|███▊      | 18/48 [00:02<00:04,  6.63it/s][A
+exporting mesh:  40%|███▉      | 19/48 [00:02<00:04,  6.63it/s][A
+exporting mesh:  42%|████▏     | 20/48 [00:03<00:04,  6.63it/s][A
+exporting mesh:  44%|████▍     | 21/48 [00:03<00:04,  6.63it/s][A
+exporting mesh:  46%|████▌     | 22/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  48%|████▊     | 23/48 [00:03<00:03,  6.62it/s][A
+exporting mesh:  50%|█████     | 24/48 [00:03<00:03,  6.62it/s][A
+exporting mesh:  52%|█████▏    | 25/48 [00:03<00:03,  6.62it/s][A
+exporting mesh:  54%|█████▍    | 26/48 [00:03<00:03,  6.62it/s][A
+exporting mesh:  56%|█████▋    | 27/48 [00:04<00:03,  6.61it/s][A
+exporting mesh:  58%|█████▊    | 28/48 [00:04<00:03,  6.61it/s][A
+exporting mesh:  60%|██████    | 29/48 [00:04<00:02,  6.59it/s][A
+exporting mesh:  62%|██████▎   | 30/48 [00:04<00:02,  6.59it/s][A
+exporting mesh:  65%|██████▍   | 31/48 [00:04<00:02,  6.60it/s][A
+exporting mesh:  67%|██████▋   | 32/48 [00:04<00:02,  6.60it/s][A
+exporting mesh:  69%|██████▉   | 33/48 [00:04<00:02,  6.61it/s][A
+exporting mesh:  71%|███████   | 34/48 [00:05<00:02,  6.62it/s][A
+exporting mesh:  73%|███████▎  | 35/48 [00:05<00:01,  6.61it/s][A
+exporting mesh:  75%|███████▌  | 36/48 [00:05<00:01,  6.60it/s][A
+exporting mesh:  77%|███████▋  | 37/48 [00:05<00:01,  6.60it/s][A
+exporting mesh:  79%|███████▉  | 38/48 [00:05<00:01,  6.60it/s][A
+exporting mesh:  81%|████████▏ | 39/48 [00:05<00:01,  6.60it/s][A
+exporting mesh:  83%|████████▎ | 40/48 [00:06<00:01,  6.60it/s][A
+exporting mesh:  85%|████████▌ | 41/48 [00:06<00:01,  6.61it/s][A
+exporting mesh:  88%|████████▊ | 42/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  90%|████████▉ | 43/48 [00:06<00:00,  6.61it/s][A
+exporting mesh:  92%|█████████▏| 44/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  94%|█████████▍| 45/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  96%|█████████▌| 46/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  98%|█████████▊| 47/48 [00:07<00:00,  6.61it/s][A
+exporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.61it/s][Aexporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.61it/s]
+Preparing mesh sequences:  17%|█▋        | 2/12 [00:14<01:14,  7.49s/it]
+exporting mesh:   0%|          | 0/48 [00:00<?, ?it/s][A
+exporting mesh:   2%|▏         | 1/48 [00:00<00:07,  6.64it/s][A
+exporting mesh:   4%|▍         | 2/48 [00:00<00:06,  6.63it/s][A
+exporting mesh:   6%|▋         | 3/48 [00:00<00:06,  6.64it/s][A
+exporting mesh:   8%|▊         | 4/48 [00:00<00:06,  6.64it/s][A
+exporting mesh:  10%|█         | 5/48 [00:00<00:06,  6.65it/s][A
+exporting mesh:  12%|█▎        | 6/48 [00:00<00:06,  6.64it/s][A
+exporting mesh:  15%|█▍        | 7/48 [00:01<00:06,  6.65it/s][A
+exporting mesh:  17%|█▋        | 8/48 [00:01<00:06,  6.65it/s][A
+exporting mesh:  19%|█▉        | 9/48 [00:01<00:05,  6.65it/s][A
+exporting mesh:  21%|██        | 10/48 [00:01<00:05,  6.64it/s][A
+exporting mesh:  23%|██▎       | 11/48 [00:01<00:05,  6.64it/s][A
+exporting mesh:  25%|██▌       | 12/48 [00:01<00:05,  6.64it/s][A
+exporting mesh:  27%|██▋       | 13/48 [00:01<00:05,  6.65it/s][A
+exporting mesh:  29%|██▉       | 14/48 [00:02<00:05,  6.65it/s][A
+exporting mesh:  31%|███▏      | 15/48 [00:02<00:04,  6.64it/s][A
+exporting mesh:  33%|███▎      | 16/48 [00:02<00:04,  6.64it/s][A
+exporting mesh:  35%|███▌      | 17/48 [00:02<00:04,  6.63it/s][A
+exporting mesh:  38%|███▊      | 18/48 [00:02<00:04,  6.64it/s][A
+exporting mesh:  40%|███▉      | 19/48 [00:02<00:04,  6.64it/s][A
+exporting mesh:  42%|████▏     | 20/48 [00:03<00:04,  6.63it/s][A
+exporting mesh:  44%|████▍     | 21/48 [00:03<00:04,  6.63it/s][A
+exporting mesh:  46%|████▌     | 22/48 [00:03<00:03,  6.65it/s][A
+exporting mesh:  48%|████▊     | 23/48 [00:03<00:03,  6.64it/s][A
+exporting mesh:  50%|█████     | 24/48 [00:03<00:03,  6.64it/s][A
+exporting mesh:  52%|█████▏    | 25/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  54%|█████▍    | 26/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  56%|█████▋    | 27/48 [00:04<00:03,  6.63it/s][A
+exporting mesh:  58%|█████▊    | 28/48 [00:04<00:03,  6.63it/s][A
+exporting mesh:  60%|██████    | 29/48 [00:04<00:02,  6.63it/s][A
+exporting mesh:  62%|██████▎   | 30/48 [00:04<00:02,  6.63it/s][A
+exporting mesh:  65%|██████▍   | 31/48 [00:04<00:02,  6.62it/s][A
+exporting mesh:  67%|██████▋   | 32/48 [00:04<00:02,  6.61it/s][A
+exporting mesh:  69%|██████▉   | 33/48 [00:04<00:02,  6.62it/s][A
+exporting mesh:  71%|███████   | 34/48 [00:05<00:02,  6.64it/s][A
+exporting mesh:  73%|███████▎  | 35/48 [00:05<00:01,  6.65it/s][A
+exporting mesh:  75%|███████▌  | 36/48 [00:05<00:01,  6.65it/s][A
+exporting mesh:  77%|███████▋  | 37/48 [00:05<00:01,  6.65it/s][A
+exporting mesh:  79%|███████▉  | 38/48 [00:05<00:01,  6.65it/s][A
+exporting mesh:  81%|████████▏ | 39/48 [00:05<00:01,  6.66it/s][A
+exporting mesh:  83%|████████▎ | 40/48 [00:06<00:01,  6.66it/s][A
+exporting mesh:  85%|████████▌ | 41/48 [00:06<00:01,  6.67it/s][A
+exporting mesh:  88%|████████▊ | 42/48 [00:06<00:00,  6.66it/s][A
+exporting mesh:  90%|████████▉ | 43/48 [00:06<00:00,  6.66it/s][A
+exporting mesh:  92%|█████████▏| 44/48 [00:06<00:00,  6.64it/s][A
+exporting mesh:  94%|█████████▍| 45/48 [00:06<00:00,  6.64it/s][A
+exporting mesh:  96%|█████████▌| 46/48 [00:06<00:00,  6.63it/s][A
+exporting mesh:  98%|█████████▊| 47/48 [00:07<00:00,  6.64it/s][A
+exporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.65it/s][Aexporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.64it/s]
+Preparing mesh sequences:  25%|██▌       | 3/12 [00:22<01:07,  7.45s/it]
+exporting mesh:   0%|          | 0/48 [00:00<?, ?it/s][A
+exporting mesh:   2%|▏         | 1/48 [00:00<00:07,  6.69it/s][A
+exporting mesh:   4%|▍         | 2/48 [00:00<00:06,  6.68it/s][A
+exporting mesh:   6%|▋         | 3/48 [00:00<00:06,  6.67it/s][A
+exporting mesh:   8%|▊         | 4/48 [00:00<00:06,  6.66it/s][A
+exporting mesh:  10%|█         | 5/48 [00:00<00:06,  6.65it/s][A
+exporting mesh:  12%|█▎        | 6/48 [00:00<00:06,  6.65it/s][A
+exporting mesh:  15%|█▍        | 7/48 [00:01<00:06,  6.65it/s][A
+exporting mesh:  17%|█▋        | 8/48 [00:01<00:06,  6.64it/s][A
+exporting mesh:  19%|█▉        | 9/48 [00:01<00:05,  6.64it/s][A
+exporting mesh:  21%|██        | 10/48 [00:01<00:05,  6.64it/s][A
+exporting mesh:  23%|██▎       | 11/48 [00:01<00:05,  6.63it/s][A
+exporting mesh:  25%|██▌       | 12/48 [00:01<00:05,  6.64it/s][A
+exporting mesh:  27%|██▋       | 13/48 [00:01<00:05,  6.64it/s][A
+exporting mesh:  29%|██▉       | 14/48 [00:02<00:05,  6.64it/s][A
+exporting mesh:  31%|███▏      | 15/48 [00:02<00:04,  6.63it/s][A
+exporting mesh:  33%|███▎      | 16/48 [00:02<00:04,  6.64it/s][A
+exporting mesh:  35%|███▌      | 17/48 [00:02<00:04,  6.64it/s][A
+exporting mesh:  38%|███▊      | 18/48 [00:02<00:04,  6.64it/s][A
+exporting mesh:  40%|███▉      | 19/48 [00:02<00:04,  6.63it/s][A
+exporting mesh:  42%|████▏     | 20/48 [00:03<00:04,  6.63it/s][A
+exporting mesh:  44%|████▍     | 21/48 [00:03<00:04,  6.64it/s][A
+exporting mesh:  46%|████▌     | 22/48 [00:03<00:03,  6.65it/s][A
+exporting mesh:  48%|████▊     | 23/48 [00:03<00:03,  6.65it/s][A
+exporting mesh:  50%|█████     | 24/48 [00:03<00:03,  6.65it/s][A
+exporting mesh:  52%|█████▏    | 25/48 [00:03<00:03,  6.65it/s][A
+exporting mesh:  54%|█████▍    | 26/48 [00:03<00:03,  6.62it/s][A
+exporting mesh:  56%|█████▋    | 27/48 [00:04<00:03,  6.62it/s][A
+exporting mesh:  58%|█████▊    | 28/48 [00:04<00:03,  6.61it/s][A
+exporting mesh:  60%|██████    | 29/48 [00:04<00:02,  6.61it/s][A
+exporting mesh:  62%|██████▎   | 30/48 [00:04<00:02,  6.61it/s][A
+exporting mesh:  65%|██████▍   | 31/48 [00:04<00:02,  6.61it/s][A
+exporting mesh:  67%|██████▋   | 32/48 [00:04<00:02,  6.61it/s][A
+exporting mesh:  69%|██████▉   | 33/48 [00:04<00:02,  6.62it/s][A
+exporting mesh:  71%|███████   | 34/48 [00:05<00:02,  6.61it/s][A
+exporting mesh:  73%|███████▎  | 35/48 [00:05<00:01,  6.61it/s][A
+exporting mesh:  75%|███████▌  | 36/48 [00:05<00:01,  6.62it/s][A
+exporting mesh:  77%|███████▋  | 37/48 [00:05<00:01,  6.63it/s][A
+exporting mesh:  79%|███████▉  | 38/48 [00:05<00:01,  6.64it/s][A
+exporting mesh:  81%|████████▏ | 39/48 [00:05<00:01,  6.63it/s][A
+exporting mesh:  83%|████████▎ | 40/48 [00:06<00:01,  6.63it/s][A
+exporting mesh:  85%|████████▌ | 41/48 [00:06<00:01,  6.64it/s][A
+exporting mesh:  88%|████████▊ | 42/48 [00:06<00:00,  6.63it/s][A
+exporting mesh:  90%|████████▉ | 43/48 [00:06<00:00,  6.64it/s][A
+exporting mesh:  92%|█████████▏| 44/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  94%|█████████▍| 45/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  96%|█████████▌| 46/48 [00:06<00:00,  6.63it/s][A
+exporting mesh:  98%|█████████▊| 47/48 [00:07<00:00,  6.64it/s][A
+exporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.64it/s][Aexporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.63it/s]
+Preparing mesh sequences:  33%|███▎      | 4/12 [00:29<00:59,  7.44s/it]
+exporting mesh:   0%|          | 0/48 [00:00<?, ?it/s][A
+exporting mesh:   2%|▏         | 1/48 [00:00<00:07,  6.67it/s][A
+exporting mesh:   4%|▍         | 2/48 [00:00<00:06,  6.67it/s][A
+exporting mesh:   6%|▋         | 3/48 [00:00<00:06,  6.67it/s][A
+exporting mesh:   8%|▊         | 4/48 [00:00<00:06,  6.51it/s][A
+exporting mesh:  10%|█         | 5/48 [00:00<00:06,  6.55it/s][A
+exporting mesh:  12%|█▎        | 6/48 [00:00<00:06,  6.58it/s][A
+exporting mesh:  15%|█▍        | 7/48 [00:01<00:06,  6.59it/s][A
+exporting mesh:  17%|█▋        | 8/48 [00:01<00:06,  6.61it/s][A
+exporting mesh:  19%|█▉        | 9/48 [00:01<00:05,  6.61it/s][A
+exporting mesh:  21%|██        | 10/48 [00:01<00:05,  6.63it/s][A
+exporting mesh:  23%|██▎       | 11/48 [00:01<00:05,  6.63it/s][A
+exporting mesh:  25%|██▌       | 12/48 [00:01<00:05,  6.63it/s][A
+exporting mesh:  27%|██▋       | 13/48 [00:01<00:05,  6.54it/s][A
+exporting mesh:  29%|██▉       | 14/48 [00:02<00:05,  6.56it/s][A
+exporting mesh:  31%|███▏      | 15/48 [00:02<00:05,  6.57it/s][A
+exporting mesh:  33%|███▎      | 16/48 [00:02<00:04,  6.59it/s][A
+exporting mesh:  35%|███▌      | 17/48 [00:02<00:04,  6.60it/s][A
+exporting mesh:  38%|███▊      | 18/48 [00:02<00:04,  6.62it/s][A
+exporting mesh:  40%|███▉      | 19/48 [00:02<00:04,  6.63it/s][A
+exporting mesh:  42%|████▏     | 20/48 [00:03<00:04,  6.62it/s][A
+exporting mesh:  44%|████▍     | 21/48 [00:03<00:04,  6.63it/s][A
+exporting mesh:  46%|████▌     | 22/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  48%|████▊     | 23/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  50%|█████     | 24/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  52%|█████▏    | 25/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  54%|█████▍    | 26/48 [00:03<00:03,  6.64it/s][A
+exporting mesh:  56%|█████▋    | 27/48 [00:04<00:03,  6.64it/s][A
+exporting mesh:  58%|█████▊    | 28/48 [00:04<00:03,  6.64it/s][A
+exporting mesh:  60%|██████    | 29/48 [00:04<00:02,  6.64it/s][A
+exporting mesh:  62%|██████▎   | 30/48 [00:04<00:02,  6.64it/s][A
+exporting mesh:  65%|██████▍   | 31/48 [00:04<00:02,  6.63it/s][A
+exporting mesh:  67%|██████▋   | 32/48 [00:04<00:02,  6.62it/s][A
+exporting mesh:  69%|██████▉   | 33/48 [00:04<00:02,  6.62it/s][A
+exporting mesh:  71%|███████   | 34/48 [00:05<00:02,  6.61it/s][A
+exporting mesh:  73%|███████▎  | 35/48 [00:05<00:01,  6.61it/s][A
+exporting mesh:  75%|███████▌  | 36/48 [00:05<00:01,  6.60it/s][A
+exporting mesh:  77%|███████▋  | 37/48 [00:05<00:01,  6.60it/s][A
+exporting mesh:  79%|███████▉  | 38/48 [00:05<00:01,  6.60it/s][A
+exporting mesh:  81%|████████▏ | 39/48 [00:05<00:01,  6.62it/s][A
+exporting mesh:  83%|████████▎ | 40/48 [00:06<00:01,  6.62it/s][A
+exporting mesh:  85%|████████▌ | 41/48 [00:06<00:01,  6.62it/s][A
+exporting mesh:  88%|████████▊ | 42/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  90%|████████▉ | 43/48 [00:06<00:00,  6.60it/s][A
+exporting mesh:  92%|█████████▏| 44/48 [00:06<00:00,  6.61it/s][A
+exporting mesh:  94%|█████████▍| 45/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  96%|█████████▌| 46/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  98%|█████████▊| 47/48 [00:07<00:00,  6.57it/s][A
+exporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.58it/s][Aexporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.61it/s]
+Preparing mesh sequences:  42%|████▏     | 5/12 [00:37<00:52,  7.46s/it]
+exporting mesh:   0%|          | 0/48 [00:00<?, ?it/s][A
+exporting mesh:   2%|▏         | 1/48 [00:00<00:07,  6.70it/s][A
+exporting mesh:   4%|▍         | 2/48 [00:00<00:06,  6.67it/s][A
+exporting mesh:   6%|▋         | 3/48 [00:00<00:06,  6.66it/s][A
+exporting mesh:   8%|▊         | 4/48 [00:00<00:06,  6.66it/s][A
+exporting mesh:  10%|█         | 5/48 [00:00<00:06,  6.65it/s][A
+exporting mesh:  12%|█▎        | 6/48 [00:00<00:06,  6.64it/s][A
+exporting mesh:  15%|█▍        | 7/48 [00:01<00:06,  6.65it/s][A
+exporting mesh:  17%|█▋        | 8/48 [00:01<00:06,  6.65it/s][A
+exporting mesh:  19%|█▉        | 9/48 [00:01<00:05,  6.65it/s][A
+exporting mesh:  21%|██        | 10/48 [00:01<00:05,  6.65it/s][A
+exporting mesh:  23%|██▎       | 11/48 [00:01<00:05,  6.65it/s][A
+exporting mesh:  25%|██▌       | 12/48 [00:01<00:05,  6.64it/s][A
+exporting mesh:  27%|██▋       | 13/48 [00:01<00:05,  6.65it/s][A
+exporting mesh:  29%|██▉       | 14/48 [00:02<00:05,  6.65it/s][A
+exporting mesh:  31%|███▏      | 15/48 [00:02<00:04,  6.65it/s][A
+exporting mesh:  33%|███▎      | 16/48 [00:02<00:04,  6.64it/s][A
+exporting mesh:  35%|███▌      | 17/48 [00:02<00:04,  6.62it/s][A
+exporting mesh:  38%|███▊      | 18/48 [00:02<00:04,  6.65it/s][A
+exporting mesh:  40%|███▉      | 19/48 [00:02<00:04,  6.65it/s][A
+exporting mesh:  42%|████▏     | 20/48 [00:03<00:04,  6.65it/s][A
+exporting mesh:  44%|████▍     | 21/48 [00:03<00:04,  6.64it/s][A
+exporting mesh:  46%|████▌     | 22/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  48%|████▊     | 23/48 [00:03<00:03,  6.64it/s][A
+exporting mesh:  50%|█████     | 24/48 [00:03<00:03,  6.64it/s][A
+exporting mesh:  52%|█████▏    | 25/48 [00:03<00:03,  6.65it/s][A
+exporting mesh:  54%|█████▍    | 26/48 [00:03<00:03,  6.65it/s][A
+exporting mesh:  56%|█████▋    | 27/48 [00:04<00:03,  6.66it/s][A
+exporting mesh:  58%|█████▊    | 28/48 [00:04<00:03,  6.65it/s][A
+exporting mesh:  60%|██████    | 29/48 [00:04<00:02,  6.65it/s][A
+exporting mesh:  62%|██████▎   | 30/48 [00:04<00:02,  6.65it/s][A
+exporting mesh:  65%|██████▍   | 31/48 [00:04<00:02,  6.64it/s][A
+exporting mesh:  67%|██████▋   | 32/48 [00:04<00:02,  6.65it/s][A
+exporting mesh:  69%|██████▉   | 33/48 [00:04<00:02,  6.66it/s][A
+exporting mesh:  71%|███████   | 34/48 [00:05<00:02,  6.66it/s][A
+exporting mesh:  73%|███████▎  | 35/48 [00:05<00:01,  6.66it/s][A
+exporting mesh:  75%|███████▌  | 36/48 [00:05<00:01,  6.66it/s][A
+exporting mesh:  77%|███████▋  | 37/48 [00:05<00:01,  6.66it/s][A
+exporting mesh:  79%|███████▉  | 38/48 [00:05<00:01,  6.66it/s][A
+exporting mesh:  81%|████████▏ | 39/48 [00:05<00:01,  6.65it/s][A
+exporting mesh:  83%|████████▎ | 40/48 [00:06<00:01,  6.66it/s][A
+exporting mesh:  85%|████████▌ | 41/48 [00:06<00:01,  6.67it/s][A
+exporting mesh:  88%|████████▊ | 42/48 [00:06<00:00,  6.66it/s][A
+exporting mesh:  90%|████████▉ | 43/48 [00:06<00:00,  6.67it/s][A
+exporting mesh:  92%|█████████▏| 44/48 [00:06<00:00,  6.67it/s][A
+exporting mesh:  94%|█████████▍| 45/48 [00:06<00:00,  6.67it/s][A
+exporting mesh:  96%|█████████▌| 46/48 [00:06<00:00,  6.66it/s][A
+exporting mesh:  98%|█████████▊| 47/48 [00:07<00:00,  6.66it/s][A
+exporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.66it/s][Aexporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.65it/s]
+Preparing mesh sequences:  50%|█████     | 6/12 [00:44<00:44,  7.43s/it]
+exporting mesh:   0%|          | 0/48 [00:00<?, ?it/s][A
+exporting mesh:   2%|▏         | 1/48 [00:00<00:07,  6.70it/s][A
+exporting mesh:   4%|▍         | 2/48 [00:00<00:06,  6.69it/s][A
+exporting mesh:   6%|▋         | 3/48 [00:00<00:06,  6.68it/s][A
+exporting mesh:   8%|▊         | 4/48 [00:00<00:06,  6.68it/s][A
+exporting mesh:  10%|█         | 5/48 [00:00<00:06,  6.67it/s][A
+exporting mesh:  12%|█▎        | 6/48 [00:00<00:06,  6.67it/s][A
+exporting mesh:  15%|█▍        | 7/48 [00:01<00:06,  6.67it/s][A
+exporting mesh:  17%|█▋        | 8/48 [00:01<00:05,  6.67it/s][A
+exporting mesh:  19%|█▉        | 9/48 [00:01<00:05,  6.66it/s][A
+exporting mesh:  21%|██        | 10/48 [00:01<00:05,  6.66it/s][A
+exporting mesh:  23%|██▎       | 11/48 [00:01<00:05,  6.62it/s][A
+exporting mesh:  25%|██▌       | 12/48 [00:01<00:05,  6.62it/s][A
+exporting mesh:  27%|██▋       | 13/48 [00:01<00:05,  6.62it/s][A
+exporting mesh:  29%|██▉       | 14/48 [00:02<00:05,  6.62it/s][A
+exporting mesh:  31%|███▏      | 15/48 [00:02<00:04,  6.62it/s][A
+exporting mesh:  33%|███▎      | 16/48 [00:02<00:04,  6.62it/s][A
+exporting mesh:  35%|███▌      | 17/48 [00:02<00:04,  6.56it/s][A
+exporting mesh:  38%|███▊      | 18/48 [00:02<00:04,  6.59it/s][A
+exporting mesh:  40%|███▉      | 19/48 [00:02<00:04,  6.61it/s][A
+exporting mesh:  42%|████▏     | 20/48 [00:03<00:04,  6.62it/s][A
+exporting mesh:  44%|████▍     | 21/48 [00:03<00:04,  6.62it/s][A
+exporting mesh:  46%|████▌     | 22/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  48%|████▊     | 23/48 [00:03<00:03,  6.64it/s][A
+exporting mesh:  50%|█████     | 24/48 [00:03<00:03,  6.64it/s][A
+exporting mesh:  52%|█████▏    | 25/48 [00:03<00:03,  6.65it/s][A
+exporting mesh:  54%|█████▍    | 26/48 [00:03<00:03,  6.65it/s][A
+exporting mesh:  56%|█████▋    | 27/48 [00:04<00:03,  6.65it/s][A
+exporting mesh:  58%|█████▊    | 28/48 [00:04<00:03,  6.66it/s][A
+exporting mesh:  60%|██████    | 29/48 [00:04<00:02,  6.65it/s][A
+exporting mesh:  62%|██████▎   | 30/48 [00:04<00:02,  6.65it/s][A
+exporting mesh:  65%|██████▍   | 31/48 [00:04<00:02,  6.65it/s][A
+exporting mesh:  67%|██████▋   | 32/48 [00:04<00:02,  6.66it/s][A
+exporting mesh:  69%|██████▉   | 33/48 [00:04<00:02,  6.65it/s][A
+exporting mesh:  71%|███████   | 34/48 [00:05<00:02,  6.64it/s][A
+exporting mesh:  73%|███████▎  | 35/48 [00:05<00:01,  6.64it/s][A
+exporting mesh:  75%|███████▌  | 36/48 [00:05<00:01,  6.63it/s][A
+exporting mesh:  77%|███████▋  | 37/48 [00:05<00:01,  6.64it/s][A
+exporting mesh:  79%|███████▉  | 38/48 [00:05<00:01,  6.62it/s][A
+exporting mesh:  81%|████████▏ | 39/48 [00:05<00:01,  6.62it/s][A
+exporting mesh:  83%|████████▎ | 40/48 [00:06<00:01,  6.62it/s][A
+exporting mesh:  85%|████████▌ | 41/48 [00:06<00:01,  6.63it/s][A
+exporting mesh:  88%|████████▊ | 42/48 [00:06<00:00,  6.63it/s][A
+exporting mesh:  90%|████████▉ | 43/48 [00:06<00:00,  6.63it/s][A
+exporting mesh:  92%|█████████▏| 44/48 [00:06<00:00,  6.63it/s][A
+exporting mesh:  94%|█████████▍| 45/48 [00:06<00:00,  6.63it/s][A
+exporting mesh:  96%|█████████▌| 46/48 [00:06<00:00,  6.63it/s][A
+exporting mesh:  98%|█████████▊| 47/48 [00:07<00:00,  6.63it/s][A
+exporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.64it/s][Aexporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.64it/s]
+Preparing mesh sequences:  58%|█████▊    | 7/12 [00:52<00:37,  7.44s/it]
+exporting mesh:   0%|          | 0/48 [00:00<?, ?it/s][A
+exporting mesh:   2%|▏         | 1/48 [00:00<00:07,  6.64it/s][A
+exporting mesh:   4%|▍         | 2/48 [00:00<00:07,  6.53it/s][A
+exporting mesh:   6%|▋         | 3/48 [00:00<00:06,  6.57it/s][A
+exporting mesh:   8%|▊         | 4/48 [00:00<00:06,  6.59it/s][A
+exporting mesh:  10%|█         | 5/48 [00:00<00:06,  6.60it/s][A
+exporting mesh:  12%|█▎        | 6/48 [00:00<00:06,  6.61it/s][A
+exporting mesh:  15%|█▍        | 7/48 [00:01<00:06,  6.61it/s][A
+exporting mesh:  17%|█▋        | 8/48 [00:01<00:06,  6.62it/s][A
+exporting mesh:  19%|█▉        | 9/48 [00:01<00:05,  6.61it/s][A
+exporting mesh:  21%|██        | 10/48 [00:01<00:05,  6.61it/s][A
+exporting mesh:  23%|██▎       | 11/48 [00:01<00:05,  6.61it/s][A
+exporting mesh:  25%|██▌       | 12/48 [00:01<00:05,  6.62it/s][A
+exporting mesh:  27%|██▋       | 13/48 [00:01<00:05,  6.62it/s][A
+exporting mesh:  29%|██▉       | 14/48 [00:02<00:05,  6.62it/s][A
+exporting mesh:  31%|███▏      | 15/48 [00:02<00:04,  6.62it/s][A
+exporting mesh:  33%|███▎      | 16/48 [00:02<00:04,  6.62it/s][A
+exporting mesh:  35%|███▌      | 17/48 [00:02<00:04,  6.62it/s][A
+exporting mesh:  38%|███▊      | 18/48 [00:02<00:04,  6.62it/s][A
+exporting mesh:  40%|███▉      | 19/48 [00:02<00:04,  6.63it/s][A
+exporting mesh:  42%|████▏     | 20/48 [00:03<00:04,  6.63it/s][A
+exporting mesh:  44%|████▍     | 21/48 [00:03<00:04,  6.63it/s][A
+exporting mesh:  46%|████▌     | 22/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  48%|████▊     | 23/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  50%|█████     | 24/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  52%|█████▏    | 25/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  54%|█████▍    | 26/48 [00:03<00:03,  6.63it/s][A
+exporting mesh:  56%|█████▋    | 27/48 [00:04<00:03,  6.63it/s][A
+exporting mesh:  58%|█████▊    | 28/48 [00:04<00:03,  6.62it/s][A
+exporting mesh:  60%|██████    | 29/48 [00:04<00:02,  6.62it/s][A
+exporting mesh:  62%|██████▎   | 30/48 [00:04<00:02,  6.62it/s][A
+exporting mesh:  65%|██████▍   | 31/48 [00:04<00:02,  6.62it/s][A
+exporting mesh:  67%|██████▋   | 32/48 [00:04<00:02,  6.62it/s][A
+exporting mesh:  69%|██████▉   | 33/48 [00:04<00:02,  6.62it/s][A
+exporting mesh:  71%|███████   | 34/48 [00:05<00:02,  6.62it/s][A
+exporting mesh:  73%|███████▎  | 35/48 [00:05<00:01,  6.61it/s][A
+exporting mesh:  75%|███████▌  | 36/48 [00:05<00:01,  6.56it/s][A
+exporting mesh:  77%|███████▋  | 37/48 [00:05<00:01,  6.59it/s][A
+exporting mesh:  79%|███████▉  | 38/48 [00:05<00:01,  6.60it/s][A
+exporting mesh:  81%|████████▏ | 39/48 [00:05<00:01,  6.61it/s][A
+exporting mesh:  83%|████████▎ | 40/48 [00:06<00:01,  6.61it/s][A
+exporting mesh:  85%|████████▌ | 41/48 [00:06<00:01,  6.62it/s][A
+exporting mesh:  88%|████████▊ | 42/48 [00:06<00:00,  6.63it/s][A
+exporting mesh:  90%|████████▉ | 43/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  92%|█████████▏| 44/48 [00:06<00:00,  6.63it/s][A
+exporting mesh:  94%|█████████▍| 45/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  96%|█████████▌| 46/48 [00:06<00:00,  6.61it/s][A
+exporting mesh:  98%|█████████▊| 47/48 [00:07<00:00,  6.62it/s][A
+exporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.61it/s][Aexporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.61it/s]
+Preparing mesh sequences:  67%|██████▋   | 8/12 [00:59<00:29,  7.44s/it]
+exporting mesh:   0%|          | 0/48 [00:00<?, ?it/s][A
+exporting mesh:   2%|▏         | 1/48 [00:00<00:07,  6.68it/s][A
+exporting mesh:   4%|▍         | 2/48 [00:00<00:06,  6.67it/s][A
+exporting mesh:   6%|▋         | 3/48 [00:00<00:06,  6.68it/s][A
+exporting mesh:   8%|▊         | 4/48 [00:00<00:06,  6.68it/s][A
+exporting mesh:  10%|█         | 5/48 [00:00<00:06,  6.69it/s][A
+exporting mesh:  12%|█▎        | 6/48 [00:00<00:06,  6.68it/s][A
+exporting mesh:  15%|█▍        | 7/48 [00:01<00:06,  6.68it/s][A
+exporting mesh:  17%|█▋        | 8/48 [00:01<00:05,  6.68it/s][A
+exporting mesh:  19%|█▉        | 9/48 [00:01<00:05,  6.68it/s][A
+exporting mesh:  21%|██        | 10/48 [00:01<00:05,  6.67it/s][A
+exporting mesh:  23%|██▎       | 11/48 [00:01<00:05,  6.67it/s][A
+exporting mesh:  25%|██▌       | 12/48 [00:01<00:05,  6.67it/s][A
+exporting mesh:  27%|██▋       | 13/48 [00:01<00:05,  6.67it/s][A
+exporting mesh:  29%|██▉       | 14/48 [00:02<00:05,  6.66it/s][A
+exporting mesh:  31%|███▏      | 15/48 [00:02<00:04,  6.66it/s][A
+exporting mesh:  33%|███▎      | 16/48 [00:02<00:04,  6.66it/s][A
+exporting mesh:  35%|███▌      | 17/48 [00:02<00:04,  6.66it/s][A
+exporting mesh:  38%|███▊      | 18/48 [00:02<00:04,  6.67it/s][A
+exporting mesh:  40%|███▉      | 19/48 [00:02<00:04,  6.67it/s][A
+exporting mesh:  42%|████▏     | 20/48 [00:02<00:04,  6.64it/s][A
+exporting mesh:  44%|████▍     | 21/48 [00:03<00:04,  6.64it/s][A
+exporting mesh:  46%|████▌     | 22/48 [00:03<00:03,  6.65it/s][A
+exporting mesh:  48%|████▊     | 23/48 [00:03<00:03,  6.65it/s][A
+exporting mesh:  50%|█████     | 24/48 [00:03<00:03,  6.65it/s][A
+exporting mesh:  52%|█████▏    | 25/48 [00:03<00:03,  6.66it/s][A
+exporting mesh:  54%|█████▍    | 26/48 [00:03<00:03,  6.66it/s][A
+exporting mesh:  56%|█████▋    | 27/48 [00:04<00:03,  6.65it/s][A
+exporting mesh:  58%|█████▊    | 28/48 [00:04<00:03,  6.64it/s][A
+exporting mesh:  60%|██████    | 29/48 [00:04<00:02,  6.64it/s][A
+exporting mesh:  62%|██████▎   | 30/48 [00:04<00:02,  6.64it/s][A
+exporting mesh:  65%|██████▍   | 31/48 [00:04<00:02,  6.66it/s][A
+exporting mesh:  67%|██████▋   | 32/48 [00:04<00:02,  6.66it/s][A
+exporting mesh:  69%|██████▉   | 33/48 [00:04<00:02,  6.67it/s][A
+exporting mesh:  71%|███████   | 34/48 [00:05<00:02,  6.67it/s][A
+exporting mesh:  73%|███████▎  | 35/48 [00:05<00:01,  6.66it/s][A
+exporting mesh:  75%|███████▌  | 36/48 [00:05<00:01,  6.67it/s][A
+exporting mesh:  77%|███████▋  | 37/48 [00:05<00:01,  6.67it/s][A
+exporting mesh:  79%|███████▉  | 38/48 [00:05<00:01,  6.66it/s][A
+exporting mesh:  81%|████████▏ | 39/48 [00:05<00:01,  6.66it/s][A
+exporting mesh:  83%|████████▎ | 40/48 [00:06<00:01,  6.66it/s][A
+exporting mesh:  85%|████████▌ | 41/48 [00:06<00:01,  6.65it/s][A
+exporting mesh:  88%|████████▊ | 42/48 [00:06<00:00,  6.65it/s][A
+exporting mesh:  90%|████████▉ | 43/48 [00:06<00:00,  6.66it/s][A
+exporting mesh:  92%|█████████▏| 44/48 [00:06<00:00,  6.66it/s][A
+exporting mesh:  94%|█████████▍| 45/48 [00:06<00:00,  6.66it/s][A
+exporting mesh:  96%|█████████▌| 46/48 [00:06<00:00,  6.66it/s][A
+exporting mesh:  98%|█████████▊| 47/48 [00:07<00:00,  6.66it/s][A
+exporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.66it/s][Aexporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.66it/s]
+Preparing mesh sequences:  75%|███████▌  | 9/12 [01:06<00:22,  7.42s/it]
+exporting mesh:   0%|          | 0/48 [00:00<?, ?it/s][A
+exporting mesh:   2%|▏         | 1/48 [00:00<00:07,  6.69it/s][A
+exporting mesh:   4%|▍         | 2/48 [00:00<00:06,  6.68it/s][A
+exporting mesh:   6%|▋         | 3/48 [00:00<00:06,  6.67it/s][A
+exporting mesh:   8%|▊         | 4/48 [00:00<00:06,  6.67it/s][A
+exporting mesh:  10%|█         | 5/48 [00:00<00:06,  6.58it/s][A
+exporting mesh:  12%|█▎        | 6/48 [00:00<00:06,  6.60it/s][A
+exporting mesh:  15%|█▍        | 7/48 [00:01<00:06,  6.63it/s][A
+exporting mesh:  17%|█▋        | 8/48 [00:01<00:06,  6.64it/s][A
+exporting mesh:  19%|█▉        | 9/48 [00:01<00:05,  6.65it/s][A
+exporting mesh:  21%|██        | 10/48 [00:01<00:05,  6.66it/s][A
+exporting mesh:  23%|██▎       | 11/48 [00:01<00:05,  6.66it/s][A
+exporting mesh:  25%|██▌       | 12/48 [00:01<00:05,  6.66it/s][A
+exporting mesh:  27%|██▋       | 13/48 [00:01<00:05,  6.67it/s][A
+exporting mesh:  29%|██▉       | 14/48 [00:02<00:05,  6.67it/s][A
+exporting mesh:  31%|███▏      | 15/48 [00:02<00:04,  6.67it/s][A
+exporting mesh:  33%|███▎      | 16/48 [00:02<00:04,  6.68it/s][A
+exporting mesh:  35%|███▌      | 17/48 [00:02<00:04,  6.68it/s][A
+exporting mesh:  38%|███▊      | 18/48 [00:02<00:04,  6.67it/s][A
+exporting mesh:  40%|███▉      | 19/48 [00:02<00:04,  6.67it/s][A
+exporting mesh:  42%|████▏     | 20/48 [00:03<00:04,  6.68it/s][A
+exporting mesh:  44%|████▍     | 21/48 [00:03<00:04,  6.68it/s][A
+exporting mesh:  46%|████▌     | 22/48 [00:03<00:03,  6.68it/s][A
+exporting mesh:  48%|████▊     | 23/48 [00:03<00:03,  6.68it/s][A
+exporting mesh:  50%|█████     | 24/48 [00:03<00:03,  6.68it/s][A
+exporting mesh:  52%|█████▏    | 25/48 [00:03<00:03,  6.68it/s][A
+exporting mesh:  54%|█████▍    | 26/48 [00:03<00:03,  6.66it/s][A
+exporting mesh:  56%|█████▋    | 27/48 [00:04<00:03,  6.67it/s][A
+exporting mesh:  58%|█████▊    | 28/48 [00:04<00:03,  6.66it/s][A
+exporting mesh:  60%|██████    | 29/48 [00:04<00:02,  6.66it/s][A
+exporting mesh:  62%|██████▎   | 30/48 [00:04<00:02,  6.66it/s][A
+exporting mesh:  65%|██████▍   | 31/48 [00:04<00:02,  6.66it/s][A
+exporting mesh:  67%|██████▋   | 32/48 [00:04<00:02,  6.67it/s][A
+exporting mesh:  69%|██████▉   | 33/48 [00:04<00:02,  6.67it/s][A
+exporting mesh:  71%|███████   | 34/48 [00:05<00:02,  6.67it/s][A
+exporting mesh:  73%|███████▎  | 35/48 [00:05<00:01,  6.66it/s][A
+exporting mesh:  75%|███████▌  | 36/48 [00:05<00:01,  6.66it/s][A
+exporting mesh:  77%|███████▋  | 37/48 [00:05<00:01,  6.66it/s][A
+exporting mesh:  79%|███████▉  | 38/48 [00:05<00:01,  6.66it/s][A
+exporting mesh:  81%|████████▏ | 39/48 [00:05<00:01,  6.65it/s][A
+exporting mesh:  83%|████████▎ | 40/48 [00:06<00:01,  6.65it/s][A
+exporting mesh:  85%|████████▌ | 41/48 [00:06<00:01,  6.66it/s][A
+exporting mesh:  88%|████████▊ | 42/48 [00:06<00:00,  6.66it/s][A
+exporting mesh:  90%|████████▉ | 43/48 [00:06<00:00,  6.65it/s][A
+exporting mesh:  92%|█████████▏| 44/48 [00:06<00:00,  6.66it/s][A
+exporting mesh:  94%|█████████▍| 45/48 [00:06<00:00,  6.66it/s][A
+exporting mesh:  96%|█████████▌| 46/48 [00:06<00:00,  6.67it/s][A
+exporting mesh:  98%|█████████▊| 47/48 [00:07<00:00,  6.67it/s][A
+exporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.67it/s][Aexporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.66it/s]
+Preparing mesh sequences:  83%|████████▎ | 10/12 [01:14<00:14,  7.42s/it]
+exporting mesh:   0%|          | 0/48 [00:00<?, ?it/s][A
+exporting mesh:   2%|▏         | 1/48 [00:00<00:06,  6.72it/s][A
+exporting mesh:   4%|▍         | 2/48 [00:00<00:06,  6.70it/s][A
+exporting mesh:   6%|▋         | 3/48 [00:00<00:06,  6.69it/s][A
+exporting mesh:   8%|▊         | 4/48 [00:00<00:06,  6.69it/s][A
+exporting mesh:  10%|█         | 5/48 [00:00<00:06,  6.68it/s][A
+exporting mesh:  12%|█▎        | 6/48 [00:00<00:06,  6.68it/s][A
+exporting mesh:  15%|█▍        | 7/48 [00:01<00:06,  6.69it/s][A
+exporting mesh:  17%|█▋        | 8/48 [00:01<00:05,  6.68it/s][A
+exporting mesh:  19%|█▉        | 9/48 [00:01<00:05,  6.68it/s][A
+exporting mesh:  21%|██        | 10/48 [00:01<00:05,  6.69it/s][A
+exporting mesh:  23%|██▎       | 11/48 [00:01<00:05,  6.68it/s][A
+exporting mesh:  25%|██▌       | 12/48 [00:01<00:05,  6.69it/s][A
+exporting mesh:  27%|██▋       | 13/48 [00:01<00:05,  6.67it/s][A
+exporting mesh:  29%|██▉       | 14/48 [00:02<00:05,  6.66it/s][A
+exporting mesh:  31%|███▏      | 15/48 [00:02<00:04,  6.66it/s][A
+exporting mesh:  33%|███▎      | 16/48 [00:02<00:04,  6.67it/s][A
+exporting mesh:  35%|███▌      | 17/48 [00:02<00:04,  6.67it/s][A
+exporting mesh:  38%|███▊      | 18/48 [00:02<00:04,  6.66it/s][A
+exporting mesh:  40%|███▉      | 19/48 [00:02<00:04,  6.66it/s][A
+exporting mesh:  42%|████▏     | 20/48 [00:02<00:04,  6.67it/s][A
+exporting mesh:  44%|████▍     | 21/48 [00:03<00:04,  6.67it/s][A
+exporting mesh:  46%|████▌     | 22/48 [00:03<00:03,  6.66it/s][A
+exporting mesh:  48%|████▊     | 23/48 [00:03<00:03,  6.67it/s][A
+exporting mesh:  50%|█████     | 24/48 [00:03<00:03,  6.67it/s][A
+exporting mesh:  52%|█████▏    | 25/48 [00:03<00:03,  6.68it/s][A
+exporting mesh:  54%|█████▍    | 26/48 [00:03<00:03,  6.68it/s][A
+exporting mesh:  56%|█████▋    | 27/48 [00:04<00:03,  6.67it/s][A
+exporting mesh:  58%|█████▊    | 28/48 [00:04<00:02,  6.68it/s][A
+exporting mesh:  60%|██████    | 29/48 [00:04<00:02,  6.67it/s][A
+exporting mesh:  62%|██████▎   | 30/48 [00:04<00:02,  6.66it/s][A
+exporting mesh:  65%|██████▍   | 31/48 [00:04<00:02,  6.66it/s][A
+exporting mesh:  67%|██████▋   | 32/48 [00:04<00:02,  6.67it/s][A
+exporting mesh:  69%|██████▉   | 33/48 [00:04<00:02,  6.67it/s][A
+exporting mesh:  71%|███████   | 34/48 [00:05<00:02,  6.67it/s][A
+exporting mesh:  73%|███████▎  | 35/48 [00:05<00:01,  6.67it/s][A
+exporting mesh:  75%|███████▌  | 36/48 [00:05<00:01,  6.67it/s][A
+exporting mesh:  77%|███████▋  | 37/48 [00:05<00:01,  6.66it/s][A
+exporting mesh:  79%|███████▉  | 38/48 [00:05<00:01,  6.67it/s][A
+exporting mesh:  81%|████████▏ | 39/48 [00:05<00:01,  6.67it/s][A
+exporting mesh:  83%|████████▎ | 40/48 [00:05<00:01,  6.67it/s][A
+exporting mesh:  85%|████████▌ | 41/48 [00:06<00:01,  6.68it/s][A
+exporting mesh:  88%|████████▊ | 42/48 [00:06<00:00,  6.67it/s][A
+exporting mesh:  90%|████████▉ | 43/48 [00:06<00:00,  6.66it/s][A
+exporting mesh:  92%|█████████▏| 44/48 [00:06<00:00,  6.66it/s][A
+exporting mesh:  94%|█████████▍| 45/48 [00:06<00:00,  6.65it/s][A
+exporting mesh:  96%|█████████▌| 46/48 [00:06<00:00,  6.65it/s][A
+exporting mesh:  98%|█████████▊| 47/48 [00:07<00:00,  6.65it/s][A
+exporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.65it/s][Aexporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.67it/s]
+Preparing mesh sequences:  92%|█████████▏| 11/12 [01:21<00:07,  7.41s/it]
+exporting mesh:   0%|          | 0/48 [00:00<?, ?it/s][A
+exporting mesh:   2%|▏         | 1/48 [00:00<00:07,  6.69it/s][A
+exporting mesh:   4%|▍         | 2/48 [00:00<00:06,  6.70it/s][A
+exporting mesh:   6%|▋         | 3/48 [00:00<00:06,  6.68it/s][A
+exporting mesh:   8%|▊         | 4/48 [00:00<00:06,  6.65it/s][A
+exporting mesh:  10%|█         | 5/48 [00:00<00:06,  6.65it/s][A
+exporting mesh:  12%|█▎        | 6/48 [00:00<00:06,  6.66it/s][A
+exporting mesh:  15%|█▍        | 7/48 [00:01<00:06,  6.66it/s][A
+exporting mesh:  17%|█▋        | 8/48 [00:01<00:06,  6.66it/s][A
+exporting mesh:  19%|█▉        | 9/48 [00:01<00:05,  6.58it/s][A
+exporting mesh:  21%|██        | 10/48 [00:01<00:05,  6.60it/s][A
+exporting mesh:  23%|██▎       | 11/48 [00:01<00:05,  6.63it/s][A
+exporting mesh:  25%|██▌       | 12/48 [00:01<00:05,  6.63it/s][A
+exporting mesh:  27%|██▋       | 13/48 [00:01<00:05,  6.64it/s][A
+exporting mesh:  29%|██▉       | 14/48 [00:02<00:05,  6.64it/s][A
+exporting mesh:  31%|███▏      | 15/48 [00:02<00:04,  6.64it/s][A
+exporting mesh:  33%|███▎      | 16/48 [00:02<00:04,  6.64it/s][A
+exporting mesh:  35%|███▌      | 17/48 [00:02<00:04,  6.65it/s][A
+exporting mesh:  38%|███▊      | 18/48 [00:02<00:04,  6.65it/s][A
+exporting mesh:  40%|███▉      | 19/48 [00:02<00:04,  6.66it/s][A
+exporting mesh:  42%|████▏     | 20/48 [00:03<00:04,  6.65it/s][A
+exporting mesh:  44%|████▍     | 21/48 [00:03<00:04,  6.66it/s][A
+exporting mesh:  46%|████▌     | 22/48 [00:03<00:03,  6.66it/s][A
+exporting mesh:  48%|████▊     | 23/48 [00:03<00:03,  6.67it/s][A
+exporting mesh:  50%|█████     | 24/48 [00:03<00:03,  6.66it/s][A
+exporting mesh:  52%|█████▏    | 25/48 [00:03<00:03,  6.66it/s][A
+exporting mesh:  54%|█████▍    | 26/48 [00:03<00:03,  6.65it/s][A
+exporting mesh:  56%|█████▋    | 27/48 [00:04<00:03,  6.66it/s][A
+exporting mesh:  58%|█████▊    | 28/48 [00:04<00:03,  6.66it/s][A
+exporting mesh:  60%|██████    | 29/48 [00:04<00:02,  6.66it/s][A
+exporting mesh:  62%|██████▎   | 30/48 [00:04<00:02,  6.66it/s][A
+exporting mesh:  65%|██████▍   | 31/48 [00:04<00:02,  6.66it/s][A
+exporting mesh:  67%|██████▋   | 32/48 [00:04<00:02,  6.66it/s][A
+exporting mesh:  69%|██████▉   | 33/48 [00:04<00:02,  6.66it/s][A
+exporting mesh:  71%|███████   | 34/48 [00:05<00:02,  6.67it/s][A
+exporting mesh:  73%|███████▎  | 35/48 [00:05<00:01,  6.67it/s][A
+exporting mesh:  75%|███████▌  | 36/48 [00:05<00:01,  6.66it/s][A
+exporting mesh:  77%|███████▋  | 37/48 [00:05<00:01,  6.67it/s][A
+exporting mesh:  79%|███████▉  | 38/48 [00:05<00:01,  6.66it/s][A
+exporting mesh:  81%|████████▏ | 39/48 [00:05<00:01,  6.56it/s][A
+exporting mesh:  83%|████████▎ | 40/48 [00:06<00:01,  6.47it/s][A
+exporting mesh:  85%|████████▌ | 41/48 [00:06<00:01,  6.54it/s][A
+exporting mesh:  88%|████████▊ | 42/48 [00:06<00:00,  6.58it/s][A
+exporting mesh:  90%|████████▉ | 43/48 [00:06<00:00,  6.60it/s][A
+exporting mesh:  92%|█████████▏| 44/48 [00:06<00:00,  6.62it/s][A
+exporting mesh:  94%|█████████▍| 45/48 [00:06<00:00,  6.63it/s][A
+exporting mesh:  96%|█████████▌| 46/48 [00:06<00:00,  6.63it/s][A
+exporting mesh:  98%|█████████▊| 47/48 [00:07<00:00,  6.64it/s][A
+exporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.65it/s][Aexporting mesh: 100%|██████████| 48/48 [00:07<00:00,  6.64it/s]
+Preparing mesh sequences: 100%|██████████| 12/12 [01:29<00:00,  7.41s/it]Preparing mesh sequences: 100%|██████████| 12/12 [01:29<00:00,  7.43s/it]
