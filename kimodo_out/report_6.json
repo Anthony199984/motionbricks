@@ -1,11 +1,11 @@
 {
- "total_seconds": 247.6,
+ "total_seconds": 283.4,
  "jobs": [
   {
-   "name": "mq05_despertar_estirarse_a",
-   "response": "OK\t150\t30",
-   "seconds": 247.5,
-   "frames": 150
+   "name": "mq17_agachado_lupa_a",
+   "response": "OK\t180\t30",
+   "seconds": 283.3,
+   "frames": 180
   }
  ]
 }
