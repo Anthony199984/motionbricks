@@ -1,62 +1,86 @@
 [
  {
-  "name": "g13v2_1a",
+  "name": "mq01_sentado_rascar_a",
+  "frames": 150,
+  "seed": 5101,
+  "prompt": "A person sitting on a chair scratches their left forearm repeatedly with the fingers of the right hand."
+ },
+ {
+  "name": "mq01_sentado_rascar_b",
+  "frames": 150,
+  "seed": 5201,
+  "prompt": "A seated person keeps scratching the left forearm with the right hand, annoyed."
+ },
+ {
+  "name": "mq02_sentado_palmada_a",
   "frames": 120,
-  "seed": 8130,
-  "prompt": "A person stands still with both arms crossed over the chest, waiting impatiently and tapping one foot."
+  "seed": 5102,
+  "prompt": "A seated person suddenly slaps their own left forearm with the right hand, then looks at the right palm."
  },
  {
-  "name": "g13v2_1b",
+  "name": "mq03_sentado_mirar_brazo_a",
   "frames": 120,
-  "seed": 8131,
-  "prompt": "A person stands still with both arms crossed over the chest, waiting impatiently and tapping one foot."
+  "seed": 5103,
+  "prompt": "A seated person lifts the left forearm and looks at it closely, puzzled."
  },
  {
-  "name": "g13v2_2a",
+  "name": "mq04_dormir_a",
+  "frames": 180,
+  "seed": 5104,
+  "prompt": "A person lies on their back sleeping peacefully, breathing slowly."
+ },
+ {
+  "name": "mq04_dormir_b",
+  "frames": 180,
+  "seed": 5204,
+  "prompt": "A person is lying down on the back, asleep and still, chest rising slowly."
+ },
+ {
+  "name": "mq05_despertar_estirarse_a",
+  "frames": 150,
+  "seed": 5105,
+  "prompt": "A person lying on their back wakes up and stretches both arms above the head."
+ },
+ {
+  "name": "mq06_acariciar_perro_a",
+  "frames": 180,
+  "seed": 5106,
+  "prompt": "A person crouches down and pets a dog's head with the right hand."
+ },
+ {
+  "name": "mq06_acariciar_perro_b",
+  "frames": 180,
+  "seed": 5206,
+  "prompt": "A person kneels down and gently strokes something in front of them with the right hand."
+ },
+ {
+  "name": "mq08_espantar_nube_a",
+  "frames": 150,
+  "seed": 5108,
+  "prompt": "A person frantically swats around their head and face with both hands, as if attacked by a swarm of insects."
+ },
+ {
+  "name": "mq08_espantar_nube_b",
+  "frames": 150,
+  "seed": 5208,
+  "prompt": "A person waves both arms wildly around the head, swatting at bugs."
+ },
+ {
+  "name": "mq09_correr_cuesta_a",
   "frames": 120,
-  "seed": 8140,
-  "prompt": "A person folds both arms tightly across the chest and stands waiting, shifting the weight from one foot to the other."
+  "seed": 5109,
+  "prompt": "A person runs uphill fast, leaning forward."
  },
  {
-  "name": "g13v2_2b",
-  "frames": 120,
-  "seed": 8141,
-  "prompt": "A person folds both arms tightly across the chest and stands waiting, shifting the weight from one foot to the other."
+  "name": "mq10_comer_chocolate_a",
+  "frames": 150,
+  "seed": 5110,
+  "prompt": "A standing person brings a bar to the mouth with the right hand, takes a bite and chews happily."
  },
  {
-  "name": "g13v2_3a",
-  "frames": 120,
-  "seed": 8150,
-  "prompt": "A person stands with the arms crossed in front of the chest, sighs and looks to the side impatiently."
- },
- {
-  "name": "g13v2_3b",
-  "frames": 120,
-  "seed": 8151,
-  "prompt": "A person stands with the arms crossed in front of the chest, sighs and looks to the side impatiently."
- },
- {
-  "name": "g10v2_1a",
-  "frames": 105,
-  "seed": 8100,
-  "prompt": "A frustrated person raises one hand and covers the eyes with the palm, holds it, then lowers the hand."
- },
- {
-  "name": "g10v2_1b",
-  "frames": 105,
-  "seed": 8101,
-  "prompt": "A frustrated person raises one hand and covers the eyes with the palm, holds it, then lowers the hand."
- },
- {
-  "name": "g10v2_2a",
-  "frames": 105,
-  "seed": 8110,
-  "prompt": "A person facepalms with the right hand, pressing the palm against the forehead, then drops the hand."
- },
- {
-  "name": "g10v2_2b",
-  "frames": 105,
-  "seed": 8111,
-  "prompt": "A person facepalms with the right hand, pressing the palm against the forehead, then drops the hand."
+  "name": "mq13_sentado_cafe_a",
+  "frames": 150,
+  "seed": 5113,
+  "prompt": "A seated person lifts a cup with the right hand, takes a sip and puts it down."
  }
 ]
