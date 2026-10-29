@@ -1,295 +1,405 @@
 {
  "catalogo": false,
- "informe": "informe_mq_busqueda1.json",
+ "informe": "informe_mq_busqueda2.json",
  "sketchfab_buscar": [
   {
-   "clave": "mq_mosquito",
-   "q": "mosquito",
+   "clave": "mq2_rana",
+   "q": "bullfrog",
    "animado": false,
    "paginas": 4,
    "solo_objaverse": true,
-   "max": 40
+   "max": 36
   },
   {
-   "clave": "mq_mosquito_anim",
-   "q": "mosquito",
-   "animado": true,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "mq_aedes",
-   "q": "aedes aegypti",
+   "clave": "mq2_rana2",
+   "q": "tree frog",
    "animado": false,
    "paginas": 4,
    "solo_objaverse": true,
-   "max": 40
+   "max": 36
   },
   {
-   "clave": "mq_rana",
-   "q": "frog realistic",
+   "clave": "mq2_rana3",
+   "q": "frog scan",
    "animado": false,
    "paginas": 4,
    "solo_objaverse": true,
-   "max": 40
+   "max": 36
   },
   {
-   "clave": "mq_rana_anim",
-   "q": "frog",
-   "animado": true,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "mq_orquidea",
-   "q": "orchid",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "mq_cacao",
-   "q": "cacao pod",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "mq_cacao_arbol",
-   "q": "cocoa tree",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "mq_reno",
+   "clave": "mq2_reno",
    "q": "reindeer",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 36
+  },
+  {
+   "clave": "mq2_ciervo_anim",
+   "q": "deer",
    "animado": true,
    "paginas": 4,
    "solo_objaverse": true,
-   "max": 40
+   "max": 36
   },
   {
-   "clave": "mq_caribu",
-   "q": "caribou",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "mq_tiburon",
-   "q": "great white shark",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "mq_tiburon_anim",
-   "q": "shark",
+   "clave": "mq2_alce",
+   "q": "elk",
    "animado": true,
    "paginas": 4,
    "solo_objaverse": true,
-   "max": 40
+   "max": 36
   },
   {
-   "clave": "mq_nenufar",
-   "q": "lily pad",
+   "clave": "mq2_polilla",
+   "q": "moth",
    "animado": false,
    "paginas": 4,
    "solo_objaverse": true,
-   "max": 40
+   "max": 36
   },
   {
-   "clave": "mq_junco",
-   "q": "cattail reed",
+   "clave": "mq2_mosquita",
+   "q": "gnat",
    "animado": false,
    "paginas": 4,
    "solo_objaverse": true,
-   "max": 40
+   "max": 36
   },
   {
-   "clave": "mq_mosquito_mosca",
-   "q": "midge insect",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "mq_corazon",
-   "q": "heart anatomy",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "mq_cama",
-   "q": "bed realistic",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "mq_cronometro",
-   "q": "stopwatch",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "mq_murcielago",
-   "q": "bat",
+   "clave": "mq2_mosca",
+   "q": "fly insect",
    "animado": true,
    "paginas": 4,
    "solo_objaverse": true,
-   "max": 40
+   "max": 36
   },
   {
-   "clave": "mq_libelula",
-   "q": "dragonfly",
+   "clave": "mq2_orquidea_verde",
+   "q": "green orchid",
    "animado": false,
    "paginas": 4,
    "solo_objaverse": true,
-   "max": 40
+   "max": 36
   },
   {
-   "clave": "mq_piel",
-   "q": "skin cross section",
+   "clave": "mq2_platanthera",
+   "q": "platanthera",
    "animado": false,
    "paginas": 4,
    "solo_objaverse": true,
-   "max": 40
+   "max": 36
   },
   {
-   "clave": "mq_celula",
-   "q": "mast cell",
+   "clave": "mq2_cacao_planta",
+   "q": "cocoa plant",
    "animado": false,
    "paginas": 4,
    "solo_objaverse": true,
-   "max": 40
+   "max": 36
   },
   {
-   "clave": "mq_perro",
-   "q": "dog realistic",
+   "clave": "mq2_chocolate",
+   "q": "chocolate bar",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 36
+  },
+  {
+   "clave": "mq2_tundra",
+   "q": "tundra",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 36
+  },
+  {
+   "clave": "mq2_pastilla",
+   "q": "pill tablet",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 36
+  },
+  {
+   "clave": "mq2_gusano",
+   "q": "worm",
    "animado": true,
    "paginas": 4,
    "solo_objaverse": true,
-   "max": 40
+   "max": 36
   },
   {
-   "clave": "mq_tierra",
-   "q": "earth globe",
+   "clave": "mq2_murcielago_real",
+   "q": "bat realistic",
    "animado": false,
    "paginas": 4,
    "solo_objaverse": true,
-   "max": 40
+   "max": 36
   }
  ],
  "freesound_buscar": [
   {
-   "clave": "mq_zumbido",
-   "q": "mosquito buzz",
+   "clave": "mq2_viento",
+   "q": "strong wind",
    "max": 8
   },
   {
-   "clave": "mq_zumbido2",
-   "q": "mosquito flying ear",
+   "clave": "mq2_viento2",
+   "q": "wind gust",
    "max": 8
   },
   {
-   "clave": "mq_rascar",
-   "q": "scratching skin",
+   "clave": "mq2_reno",
+   "q": "deer snort",
    "max": 8
   },
   {
-   "clave": "mq_palmada",
-   "q": "slap skin",
+   "clave": "mq2_cafe",
+   "q": "restaurant terrace ambience",
    "max": 8
   },
   {
-   "clave": "mq_rana",
-   "q": "frog croak",
+   "clave": "mq2_rana",
+   "q": "bullfrog",
    "max": 8
   },
   {
-   "clave": "mq_lengua",
-   "q": "frog tongue",
+   "clave": "mq2_murcielago",
+   "q": "bat squeak",
    "max": 8
   },
   {
-   "clave": "mq_lago",
-   "q": "pond ambience",
+   "clave": "mq2_polilla",
+   "q": "moth wings",
    "max": 8
+  }
+ ],
+ "objaverse": [
+  {
+   "uid": "fce3bbae949c4966a6cfd9d757deba9b",
+   "nombre": "mq_mosquito_13",
+   "titulo": "MOSQUITO",
+   "autor": "Branislav",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "mq_murcielago",
-   "q": "bat flapping wings",
-   "max": 8
+   "uid": "120237636bc14d6fa28dbd86b1095c42",
+   "nombre": "mq_mosquito_15",
+   "titulo": "MOSQUITO",
+   "autor": "herenciablanes",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "mq_viento",
-   "q": "wind ridge mountain",
-   "max": 8
+   "uid": "4c7a80f402b54d7b9cc5a19fdbe9cbdd",
+   "nombre": "mq_mosquito_20",
+   "titulo": "A mosquito",
+   "autor": "0x00019913",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "mq_reno",
-   "q": "reindeer grunt",
-   "max": 8
+   "uid": "a5c175f6c208415cb704033afcf5cb4c",
+   "nombre": "mq_mosquito_23",
+   "titulo": "Aedes Aegypti",
+   "autor": "fabio.brooks",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "mq_cafe",
-   "q": "cafe ambience outdoor",
-   "max": 8
+   "uid": "8e429052939a4677861d0d550a0e27cd",
+   "nombre": "mq_tiburon_0",
+   "titulo": "White Pointer",
+   "autor": "vfxstevenz",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "mq_tictac",
-   "q": "stopwatch ticking",
-   "max": 8
+   "uid": "297ed35c6a5f43749b0ae189d991a3f1",
+   "nombre": "mq_tiburon_2",
+   "titulo": "Animated Swimming Great White Shark Loop",
+   "autor": "LasquetiSpice",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "mq_latido",
-   "q": "heartbeat",
-   "max": 8
+   "uid": "c8058878254646bfabf3b55cbea6175b",
+   "nombre": "mq_tiburon_27",
+   "titulo": "Great White Shark 3D Model",
+   "autor": "canyutsai1",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "mq_perro",
-   "q": "dog panting",
-   "max": 8
+   "uid": "28a8b7050a5e4951abbfb588015abf41",
+   "nombre": "mq_cama_15",
+   "titulo": "Bed Wood Oak PBR",
+   "autor": "inven2000",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "mq_cama",
-   "q": "bed sheets rustle",
-   "max": 8
+   "uid": "b385666043e243d3993c00b37dcb5645",
+   "nombre": "mq_cama_18",
+   "titulo": "Bed PBR",
+   "autor": "inven2000",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "mq_woosh",
-   "q": "whoosh soft",
-   "max": 8
+   "uid": "9bed8516b3264d0fa505609c1d19ccf0",
+   "nombre": "mq_cronometro_3",
+   "titulo": "Stopwatch",
+   "autor": "upto21",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "mq_insectos",
-   "q": "insect swarm",
-   "max": 8
+   "uid": "52be3edac347411e8b4b040ab9c650fc",
+   "nombre": "mq_cronometro_4",
+   "titulo": "stopwatch-284",
+   "autor": "jonmariano21",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "mq_burbuja",
-   "q": "liquid squish",
-   "max": 8
+   "uid": "2d4d77ac85604a1ab61b934b19d301c8",
+   "nombre": "mq_cronometro_16",
+   "titulo": "Stopwatch",
+   "autor": "nia_gamesty",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "mq_pajaros",
-   "q": "birds morning",
-   "max": 8
+   "uid": "3342c8c438904ee2b3b6b68fedf30531",
+   "nombre": "mq_corazon_26",
+   "titulo": "Human heart",
+   "autor": "Freddan755",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "30f93d9dae4948fe85cd4d60ac40c23f",
+   "nombre": "mq_corazon_9",
+   "titulo": "Human Heart",
+   "autor": "sahilseth",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "3f5d39aba2c142e38895cba7f7dfd924",
+   "nombre": "mq_tierra_24",
+   "titulo": "Earth",
+   "autor": "maskutfab",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "557135f737c7437a9e6d3c51d98b094d",
+   "nombre": "mq_tierra_28",
+   "titulo": "Earth",
+   "autor": "DerekHoffmann",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "8657b36b528147f499c26cec5b5e0907",
+   "nombre": "mq_cacao_1",
+   "titulo": "Cocoa Pod",
+   "autor": "RISDNaturelab",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "9658da2f9def44d9bdb342034e419243",
+   "nombre": "mq_nenufar_5",
+   "titulo": "Lily Pad",
+   "autor": "AmadorCosta",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "695d23db452744e2bc0bc90f6c95b5cb",
+   "nombre": "mq_nenufar_2",
+   "titulo": "Lily pads",
+   "autor": "kkay1456",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "2e9ee98545be45a8a0dfe459e3c5837c",
+   "nombre": "mq_rana_anim_6",
+   "titulo": "Frog",
+   "autor": "timsblends",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "5902f063c7a4406aa6f93f9da56a0510",
+   "nombre": "mq_rana_anim_7",
+   "titulo": "Green Frog",
+   "autor": "lawtrigg",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "b3fb06508c5649fd8ecb30d79e2b9050",
+   "nombre": "mq_rana_anim_9",
+   "titulo": "Frog",
+   "autor": "gooseg489",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "55f9ba0b464345d393c97511d37544b6",
+   "nombre": "mq_rana_anim_31",
+   "titulo": "Swimming Frog Pulling Wooden Toy",
+   "autor": "trinityscsp",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "e42292df3bbc474f843443a78a1c5843",
+   "nombre": "mq_orquidea_17",
+   "titulo": "White Orchid",
+   "autor": "gottalovehana",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "23c639ca701d4713a8c7f6480d0a8797",
+   "nombre": "mq_orquidea_26",
+   "titulo": "Torch Orchids",
+   "autor": "etribe",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "6e6e2ac8986e4fc1bb7c046208e2dacd",
+   "nombre": "mq_orquidea_8",
+   "titulo": "Orchid",
+   "autor": "fakefurfetishferre",
+   "licencia": "CC Attribution"
+  }
+ ],
+ "polyhaven": [
+  {
+   "id": "ClassicNightstand_01",
+   "res": "1k"
+  },
+  {
+   "id": "alarm_clock_01",
+   "res": "1k"
+  },
+  {
+   "id": "throw_pillows_01",
+   "res": "1k"
+  },
+  {
+   "id": "painted_wooden_nightstand",
+   "res": "1k"
+  },
+  {
+   "id": "grass_medium_01",
+   "res": "1k"
+  },
+  {
+   "id": "rock_moss_set_01",
+   "res": "1k"
+  },
+  {
+   "id": "fern_02",
+   "res": "1k"
+  },
+  {
+   "id": "moss_01",
+   "res": "1k"
+  },
+  {
+   "id": "dandelion_01",
+   "res": "1k"
+  },
+  {
+   "id": "celandine_01",
+   "res": "1k"
   }
  ]
 }
