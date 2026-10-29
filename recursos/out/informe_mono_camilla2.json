@@ -1,0 +1,905 @@
+{
+ "bajados": [
+  {
+   "destino": "sonidos/mh_mono_grito/monkey_scream.wav_by_saraonsins_219816.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/mh_mono_grito/Monkey_toy_with_cymbals.wav_by_Archeos_325550.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mh_mono_grito/screaming_monkey_or_bird.wav_by_sethlind_332726.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mh_mono_grito/monkey-scream-long.wav_by_befig_455531.mp3",
+   "mb": 0.21
+  },
+  {
+   "destino": "sonidos/mh_mono_grito/monkey_angry_by_riippumattog_833439.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/mh_mono_grito/apes-scream_remix_of_Mings_x27_s_Freesound_160380__405404.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/mh_jaula2/purely_synthesised_metal_clang_with_long_reverb.fl_232450.mp3",
+   "mb": 0.18
+  },
+  {
+   "destino": "sonidos/mh_jaula2/pet_cage_noise_-_rattle_straw_and_door_squeak.wav__669049.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/mh_jaula2/jangling_pet_cage.wav_by_vestibule-door_669705.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "miniaturas/mh_bomba3/5e0b59240cf54660a585ba38b53af5d2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_bomba3/13f212e23d7942c2815f07c9138bef80.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_bomba3/ff215cd7b51848a298b5db2b19b26d40.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/22e711221a094a48a6ffe826d3fd6185.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/42afc71afb2943078c61b183898eca9d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_equipo/c9069bdc2e044d0da38ea6aa8e67c50b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/31c09ab8b098489b8c46712650e45bac.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/107a137acfb243bea28c76daa7064670.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_equipo/17aa217cd9e4469cb2834d5fe9c09f72.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/42ce532dd6314b179765fa4c2ac2368d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/7ff695d5041640b9a6aedb88016af31e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/c76e7b073f24428cbfa786fc48998961.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/e16d1661b7d44949b52d8dbf44168b14.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_equipo/ce1ba77195dd4746841e58346864c059.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/a4d9e55fccbb4ae48b0ecb2108c04f2d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/63442b49792745dcaf51a046354d2f9a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/39952207102d44e48e2877d51085ad39.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/d2d4aaa1ee20445cb132e628e9487e40.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/8c9b86c14f6e418d86b54fb7ecaae167.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/9c71ecea8e0941af9f0e7b59895f7fd4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/02af0e65a9314145af8fed498b2a6e64.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/8a3851a3c6234ce6af7eed9dec67ec78.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/61836dc49b92461790312d99e117e6d1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/d98366cb754c448aa392848c210bfef2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/515398aef6014357a5218ace38ef0b9b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_equipo/65112fe39b944ba6b6b375e57062e5cc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/0c7064c2bc624c769013aa437412df27.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/5584999f982f4a9fbeac140816b9de44.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/746e2cc9c6794364b440c724a9908e5e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/d8c9b896ab424da09a5f925674278864.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/a76bd38f0af1422d96add0d9606e5fee.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/34f41e2382fb4b66a9732cbebc8e872d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/1b46e01c3ea043d381059f8018943888.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/1acbd29fc7534048874aebc4ae9cba85.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/a7fa5ec2f0ea488987197138935c255f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/ac37dc7bf18e481d9e81653cf5fbbeeb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_equipo/e3544806eddf4c83867d0a32fd7090e3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/cca69bb2fd0343b193545fc7ff792ca0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_equipo/f0c56729477f4de0833df3b67d23af20.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_equipo/dcd26a4ec93a49de8f6ca2fe4484762a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/e862286dded745e2afbf696fb2f053ed.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_equipo/5a2f7ced134546a9beae10f28038f2c4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/d47d792bdaa24dcaa8e6f341cc9f5938.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/3765bb838cf74a8cbdc981325b6ad825.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/c1f139c72d1b4504b17b99ea68187254.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/34d7c9420cdf41faa0bf79ed60e5f7ba.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/dfb86fbc206d410a88200c6d6dc5630c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/a3994e8b236d441c9775b2669046bd29.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_equipo/c93acd5558564d4ab2c2c8b5a3cbc73e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "objaverse/h_camilla_vieja.glb",
+   "mb": 1.29
+  },
+  {
+   "destino": "objaverse/h_camilla_manicomio.glb",
+   "mb": 2.2
+  },
+  {
+   "destino": "objaverse/h_camilla_reclinable.glb",
+   "mb": 3.14
+  },
+  {
+   "destino": "objaverse/h_suero_soporte.glb",
+   "mb": 0.3
+  },
+  {
+   "destino": "objaverse/h_suero_insumos.glb",
+   "mb": 2.55
+  },
+  {
+   "destino": "objaverse/h_monitor_soporte.glb",
+   "mb": 1.17
+  },
+  {
+   "destino": "objaverse/h_monitor_cortina.glb",
+   "mb": 3.73
+  },
+  {
+   "destino": "objaverse/h_cateter_venoso.glb",
+   "mb": 0.65
+  },
+  {
+   "destino": "objaverse/h_jeringa_vidrio.glb",
+   "mb": 1.77
+  },
+  {
+   "destino": "objaverse/h_craneo_chimp.glb",
+   "mb": 17.87
+  },
+  {
+   "destino": "objaverse/h_craneo_chimp_cc0.glb",
+   "mb": 61.71
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "freesound": {
+  "mh_mono_grito": [
+   {
+    "id": "219816",
+    "autor": "saraonsins",
+    "pagina": "https://freesound.org/people/saraonsins/sounds/219816/",
+    "titulo": "monkey scream.wav by saraonsins",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mh_mono_grito/monkey_scream.wav_by_saraonsins_219816.mp3"
+   },
+   {
+    "id": "325550",
+    "autor": "Archeos",
+    "pagina": "https://freesound.org/people/Archeos/sounds/325550/",
+    "titulo": "Monkey toy with cymbals.wav by Archeos",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mh_mono_grito/Monkey_toy_with_cymbals.wav_by_Archeos_325550.mp3"
+   },
+   {
+    "id": "332726",
+    "autor": "sethlind",
+    "pagina": "https://freesound.org/people/sethlind/sounds/332726/",
+    "titulo": "screaming monkey or bird.wav by sethlind",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mh_mono_grito/screaming_monkey_or_bird.wav_by_sethlind_332726.mp3"
+   },
+   {
+    "id": "455531",
+    "autor": "befig",
+    "pagina": "https://freesound.org/people/befig/sounds/455531/",
+    "titulo": "monkey-scream-long.wav by befig",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mh_mono_grito/monkey-scream-long.wav_by_befig_455531.mp3"
+   },
+   {
+    "id": "833439",
+    "autor": "riippumattog",
+    "pagina": "https://freesound.org/people/riippumattog/sounds/833439/",
+    "titulo": "monkey angry by riippumattog",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mh_mono_grito/monkey_angry_by_riippumattog_833439.mp3"
+   },
+   {
+    "id": "405404",
+    "autor": "Timbre",
+    "pagina": "https://freesound.org/people/Timbre/sounds/405404/",
+    "titulo": "apes-scream (remix of Mings&#x27;s Freesound #160380).flac by Timbre",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mh_mono_grito/apes-scream_remix_of_Mings_x27_s_Freesound_160380__405404.mp3"
+   }
+  ],
+  "mh_jaula2": [
+   {
+    "id": "232450",
+    "autor": "Timbre",
+    "pagina": "https://freesound.org/people/Timbre/sounds/232450/",
+    "titulo": "purely synthesised metal clang with long reverb.flac by Timbre",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mh_jaula2/purely_synthesised_metal_clang_with_long_reverb.fl_232450.mp3"
+   },
+   {
+    "id": "669049",
+    "autor": "vestibule-door",
+    "pagina": "https://freesound.org/people/vestibule-door/sounds/669049/",
+    "titulo": "pet cage noise - rattle, straw and door squeak.wav by vestibule-door",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mh_jaula2/pet_cage_noise_-_rattle_straw_and_door_squeak.wav__669049.mp3"
+   },
+   {
+    "id": "669705",
+    "autor": "vestibule-door",
+    "pagina": "https://freesound.org/people/vestibule-door/sounds/669705/",
+    "titulo": "jangling pet cage.wav by vestibule-door",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mh_jaula2/jangling_pet_cage.wav_by_vestibule-door_669705.mp3"
+   }
+  ],
+  "mh_camilla_r": []
+ },
+ "sketchfab": {
+  "mh_bomba2": [],
+  "mh_bomba3": [
+   {
+    "uid": "5e0b59240cf54660a585ba38b53af5d2",
+    "nombre": "IV Pump, Blood Vials, and Pill Packet",
+    "autor": "EDIIIC",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1014,
+    "url": "https://sketchfab.com/3d-models/none-5e0b59240cf54660a585ba38b53af5d2",
+    "miniatura": "miniaturas/mh_bomba3/5e0b59240cf54660a585ba38b53af5d2.jpg"
+   },
+   {
+    "uid": "13f212e23d7942c2815f07c9138bef80",
+    "nombre": "Fragments of wooden water pipes",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 199999,
+    "url": "https://sketchfab.com/3d-models/none-13f212e23d7942c2815f07c9138bef80",
+    "miniatura": "miniaturas/mh_bomba3/13f212e23d7942c2815f07c9138bef80.jpg"
+   },
+   {
+    "uid": "ff215cd7b51848a298b5db2b19b26d40",
+    "nombre": "V.E.P. IV: Water Collection & Purification Hub",
+    "autor": "kevinmercer",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2648,
+    "url": "https://sketchfab.com/3d-models/none-ff215cd7b51848a298b5db2b19b26d40",
+    "miniatura": "miniaturas/mh_bomba3/ff215cd7b51848a298b5db2b19b26d40.jpg"
+   }
+  ],
+  "mh_equipo": [
+   {
+    "uid": "22e711221a094a48a6ffe826d3fd6185",
+    "nombre": "Medical Syringe",
+    "autor": "AlexOlTroi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6996,
+    "url": "https://sketchfab.com/3d-models/none-22e711221a094a48a6ffe826d3fd6185",
+    "miniatura": "miniaturas/mh_equipo/22e711221a094a48a6ffe826d3fd6185.jpg"
+   },
+   {
+    "uid": "42afc71afb2943078c61b183898eca9d",
+    "nombre": "First Aid Kit Molle Pouch",
+    "autor": "jeandiz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 93924,
+    "url": "https://sketchfab.com/3d-models/none-42afc71afb2943078c61b183898eca9d",
+    "miniatura": "miniaturas/mh_equipo/42afc71afb2943078c61b183898eca9d.jpg"
+   },
+   {
+    "uid": "c9069bdc2e044d0da38ea6aa8e67c50b",
+    "nombre": "COVID-19 Oral Vaccine Inhaler Prototype",
+    "autor": "re1monsen",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 97076,
+    "url": "https://sketchfab.com/3d-models/none-c9069bdc2e044d0da38ea6aa8e67c50b",
+    "miniatura": "miniaturas/mh_equipo/c9069bdc2e044d0da38ea6aa8e67c50b.jpg"
+   },
+   {
+    "uid": "31c09ab8b098489b8c46712650e45bac",
+    "nombre": "Doctor",
+    "autor": "Nasser_",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 25917,
+    "url": "https://sketchfab.com/3d-models/none-31c09ab8b098489b8c46712650e45bac",
+    "miniatura": "miniaturas/mh_equipo/31c09ab8b098489b8c46712650e45bac.jpg"
+   },
+   {
+    "uid": "107a137acfb243bea28c76daa7064670",
+    "nombre": "Medical Examination Room",
+    "autor": "DotBow",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7522,
+    "url": "https://sketchfab.com/3d-models/none-107a137acfb243bea28c76daa7064670",
+    "miniatura": "miniaturas/mh_equipo/107a137acfb243bea28c76daa7064670.jpg"
+   },
+   {
+    "uid": "17aa217cd9e4469cb2834d5fe9c09f72",
+    "nombre": "Samsung SonoAce - Ultrasound Machine",
+    "autor": "MateoParra",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 47557,
+    "url": "https://sketchfab.com/3d-models/none-17aa217cd9e4469cb2834d5fe9c09f72",
+    "miniatura": "miniaturas/mh_equipo/17aa217cd9e4469cb2834d5fe9c09f72.jpg"
+   },
+   {
+    "uid": "42ce532dd6314b179765fa4c2ac2368d",
+    "nombre": "Sci-Fi Medical Scanner2",
+    "autor": "dradnon",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1294,
+    "url": "https://sketchfab.com/3d-models/none-42ce532dd6314b179765fa4c2ac2368d",
+    "miniatura": "miniaturas/mh_equipo/42ce532dd6314b179765fa4c2ac2368d.jpg"
+   },
+   {
+    "uid": "7ff695d5041640b9a6aedb88016af31e",
+    "nombre": "The Medical Bag",
+    "autor": "ezgibakim",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1870,
+    "url": "https://sketchfab.com/3d-models/none-7ff695d5041640b9a6aedb88016af31e",
+    "miniatura": "miniaturas/mh_equipo/7ff695d5041640b9a6aedb88016af31e.jpg"
+   },
+   {
+    "uid": "c76e7b073f24428cbfa786fc48998961",
+    "nombre": "Syringe",
+    "autor": "Carlos.Maciel",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15089,
+    "url": "https://sketchfab.com/3d-models/none-c76e7b073f24428cbfa786fc48998961",
+    "miniatura": "miniaturas/mh_equipo/c76e7b073f24428cbfa786fc48998961.jpg"
+   },
+   {
+    "uid": "e16d1661b7d44949b52d8dbf44168b14",
+    "nombre": "Hospital",
+    "autor": "neominigan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1102614,
+    "url": "https://sketchfab.com/3d-models/none-e16d1661b7d44949b52d8dbf44168b14",
+    "miniatura": "miniaturas/mh_equipo/e16d1661b7d44949b52d8dbf44168b14.jpg"
+   },
+   {
+    "uid": "ce1ba77195dd4746841e58346864c059",
+    "nombre": "Stethoscope",
+    "autor": "pstephen",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 42000,
+    "url": "https://sketchfab.com/3d-models/none-ce1ba77195dd4746841e58346864c059",
+    "miniatura": "miniaturas/mh_equipo/ce1ba77195dd4746841e58346864c059.jpg"
+   },
+   {
+    "uid": "a4d9e55fccbb4ae48b0ecb2108c04f2d",
+    "nombre": "Medical container",
+    "autor": "leoskateman",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1040,
+    "url": "https://sketchfab.com/3d-models/none-a4d9e55fccbb4ae48b0ecb2108c04f2d",
+    "miniatura": "miniaturas/mh_equipo/a4d9e55fccbb4ae48b0ecb2108c04f2d.jpg"
+   },
+   {
+    "uid": "63442b49792745dcaf51a046354d2f9a",
+    "nombre": "Military Sci-Fi Flask",
+    "autor": "BatonyRobson",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3178,
+    "url": "https://sketchfab.com/3d-models/none-63442b49792745dcaf51a046354d2f9a",
+    "miniatura": "miniaturas/mh_equipo/63442b49792745dcaf51a046354d2f9a.jpg"
+   },
+   {
+    "uid": "39952207102d44e48e2877d51085ad39",
+    "nombre": "The Paramadic Bag (with Substance Painter)",
+    "autor": "ezgibakim",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 674,
+    "url": "https://sketchfab.com/3d-models/none-39952207102d44e48e2877d51085ad39",
+    "miniatura": "miniaturas/mh_equipo/39952207102d44e48e2877d51085ad39.jpg"
+   },
+   {
+    "uid": "d2d4aaa1ee20445cb132e628e9487e40",
+    "nombre": "PPE VISOR",
+    "autor": "lanzaboy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13398,
+    "url": "https://sketchfab.com/3d-models/none-d2d4aaa1ee20445cb132e628e9487e40",
+    "miniatura": "miniaturas/mh_equipo/d2d4aaa1ee20445cb132e628e9487e40.jpg"
+   },
+   {
+    "uid": "8c9b86c14f6e418d86b54fb7ecaae167",
+    "nombre": "COVID-19 PPE",
+    "autor": "AVL",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2182309,
+    "url": "https://sketchfab.com/3d-models/none-8c9b86c14f6e418d86b54fb7ecaae167",
+    "miniatura": "miniaturas/mh_equipo/8c9b86c14f6e418d86b54fb7ecaae167.jpg"
+   },
+   {
+    "uid": "9c71ecea8e0941af9f0e7b59895f7fd4",
+    "nombre": "CC0 - Funnel 3",
+    "autor": "plaggy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1440,
+    "url": "https://sketchfab.com/3d-models/none-9c71ecea8e0941af9f0e7b59895f7fd4",
+    "miniatura": "miniaturas/mh_equipo/9c71ecea8e0941af9f0e7b59895f7fd4.jpg"
+   },
+   {
+    "uid": "02af0e65a9314145af8fed498b2a6e64",
+    "nombre": "CC0 - Dental Sickle Probe 3",
+    "autor": "plaggy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 576,
+    "url": "https://sketchfab.com/3d-models/none-02af0e65a9314145af8fed498b2a6e64",
+    "miniatura": "miniaturas/mh_equipo/02af0e65a9314145af8fed498b2a6e64.jpg"
+   },
+   {
+    "uid": "8a3851a3c6234ce6af7eed9dec67ec78",
+    "nombre": "hand sanitiser spray",
+    "autor": "sorsor",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7930,
+    "url": "https://sketchfab.com/3d-models/none-8a3851a3c6234ce6af7eed9dec67ec78",
+    "miniatura": "miniaturas/mh_equipo/8a3851a3c6234ce6af7eed9dec67ec78.jpg"
+   },
+   {
+    "uid": "61836dc49b92461790312d99e117e6d1",
+    "nombre": "3D Inktober 2019 Day29: Injured",
+    "autor": "pasipes",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6808,
+    "url": "https://sketchfab.com/3d-models/none-61836dc49b92461790312d99e117e6d1",
+    "miniatura": "miniaturas/mh_equipo/61836dc49b92461790312d99e117e6d1.jpg"
+   },
+   {
+    "uid": "d98366cb754c448aa392848c210bfef2",
+    "nombre": "Tongue Depressors",
+    "autor": "simonpasi96",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1532,
+    "url": "https://sketchfab.com/3d-models/none-d98366cb754c448aa392848c210bfef2",
+    "miniatura": "miniaturas/mh_equipo/d98366cb754c448aa392848c210bfef2.jpg"
+   },
+   {
+    "uid": "515398aef6014357a5218ace38ef0b9b",
+    "nombre": "Advanced Medical Scanner 3",
+    "autor": "dradnon",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 28766,
+    "url": "https://sketchfab.com/3d-models/none-515398aef6014357a5218ace38ef0b9b",
+    "miniatura": "miniaturas/mh_equipo/515398aef6014357a5218ace38ef0b9b.jpg"
+   },
+   {
+    "uid": "65112fe39b944ba6b6b375e57062e5cc",
+    "nombre": "A medical bag used by miners",
+    "autor": "3dnederlandsmijnmuseum",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 591138,
+    "url": "https://sketchfab.com/3d-models/none-65112fe39b944ba6b6b375e57062e5cc",
+    "miniatura": "miniaturas/mh_equipo/65112fe39b944ba6b6b375e57062e5cc.jpg"
+   },
+   {
+    "uid": "0c7064c2bc624c769013aa437412df27",
+    "nombre": "Corinthian Helmet",
+    "autor": "lord_hypersonic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1812,
+    "url": "https://sketchfab.com/3d-models/none-0c7064c2bc624c769013aa437412df27",
+    "miniatura": "miniaturas/mh_equipo/0c7064c2bc624c769013aa437412df27.jpg"
+   },
+   {
+    "uid": "5584999f982f4a9fbeac140816b9de44",
+    "nombre": "Microscope",
+    "autor": "Icefyre24",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 629216,
+    "url": "https://sketchfab.com/3d-models/none-5584999f982f4a9fbeac140816b9de44",
+    "miniatura": "miniaturas/mh_equipo/5584999f982f4a9fbeac140816b9de44.jpg"
+   },
+   {
+    "uid": "746e2cc9c6794364b440c724a9908e5e",
+    "nombre": "Gd57_Naveen_Balam_MOD2",
+    "autor": "sainikhil273",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 101908,
+    "url": "https://sketchfab.com/3d-models/none-746e2cc9c6794364b440c724a9908e5e",
+    "miniatura": "miniaturas/mh_equipo/746e2cc9c6794364b440c724a9908e5e.jpg"
+   },
+   {
+    "uid": "d8c9b896ab424da09a5f925674278864",
+    "nombre": "Nitrox Boosted",
+    "autor": "dmigul",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 170110,
+    "url": "https://sketchfab.com/3d-models/none-d8c9b896ab424da09a5f925674278864",
+    "miniatura": "miniaturas/mh_equipo/d8c9b896ab424da09a5f925674278864.jpg"
+   },
+   {
+    "uid": "a76bd38f0af1422d96add0d9606e5fee",
+    "nombre": "PCR machine",
+    "autor": "orphic_oasis8",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1388,
+    "url": "https://sketchfab.com/3d-models/none-a76bd38f0af1422d96add0d9606e5fee",
+    "miniatura": "miniaturas/mh_equipo/a76bd38f0af1422d96add0d9606e5fee.jpg"
+   },
+   {
+    "uid": "34f41e2382fb4b66a9732cbebc8e872d",
+    "nombre": "Suction-canister",
+    "autor": "Dwayne.Barnett",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 31260,
+    "url": "https://sketchfab.com/3d-models/none-34f41e2382fb4b66a9732cbebc8e872d",
+    "miniatura": "miniaturas/mh_equipo/34f41e2382fb4b66a9732cbebc8e872d.jpg"
+   },
+   {
+    "uid": "1b46e01c3ea043d381059f8018943888",
+    "nombre": "Medical Apparatus using simple shapes",
+    "autor": "edthompson174",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 916,
+    "url": "https://sketchfab.com/3d-models/none-1b46e01c3ea043d381059f8018943888",
+    "miniatura": "miniaturas/mh_equipo/1b46e01c3ea043d381059f8018943888.jpg"
+   },
+   {
+    "uid": "1acbd29fc7534048874aebc4ae9cba85",
+    "nombre": "millitary medical bag",
+    "autor": "kythulu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 884,
+    "url": "https://sketchfab.com/3d-models/none-1acbd29fc7534048874aebc4ae9cba85",
+    "miniatura": "miniaturas/mh_equipo/1acbd29fc7534048874aebc4ae9cba85.jpg"
+   },
+   {
+    "uid": "a7fa5ec2f0ea488987197138935c255f",
+    "nombre": "Health Station (Variant)",
+    "autor": "jcvalentinart",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8974,
+    "url": "https://sketchfab.com/3d-models/none-a7fa5ec2f0ea488987197138935c255f",
+    "miniatura": "miniaturas/mh_equipo/a7fa5ec2f0ea488987197138935c255f.jpg"
+   },
+   {
+    "uid": "ac37dc7bf18e481d9e81653cf5fbbeeb",
+    "nombre": "CARGO COMMODITIES [MEDICAL EQUIPMENT]",
+    "autor": "Binkley-Piratepants",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 54138,
+    "url": "https://sketchfab.com/3d-models/none-ac37dc7bf18e481d9e81653cf5fbbeeb",
+    "miniatura": "miniaturas/mh_equipo/ac37dc7bf18e481d9e81653cf5fbbeeb.jpg"
+   },
+   {
+    "uid": "e3544806eddf4c83867d0a32fd7090e3",
+    "nombre": "Medical Exam Table",
+    "autor": "thekaisanofficial",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 240,
+    "url": "https://sketchfab.com/3d-models/none-e3544806eddf4c83867d0a32fd7090e3",
+    "miniatura": "miniaturas/mh_equipo/e3544806eddf4c83867d0a32fd7090e3.jpg"
+   },
+   {
+    "uid": "cca69bb2fd0343b193545fc7ff792ca0",
+    "nombre": "Sci-Fi Based Hospital Lock",
+    "autor": "dradnon",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 619,
+    "url": "https://sketchfab.com/3d-models/none-cca69bb2fd0343b193545fc7ff792ca0",
+    "miniatura": "miniaturas/mh_equipo/cca69bb2fd0343b193545fc7ff792ca0.jpg"
+   },
+   {
+    "uid": "f0c56729477f4de0833df3b67d23af20",
+    "nombre": "Antique Medical Set",
+    "autor": "Aloeveraninja",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1766,
+    "url": "https://sketchfab.com/3d-models/none-f0c56729477f4de0833df3b67d23af20",
+    "miniatura": "miniaturas/mh_equipo/f0c56729477f4de0833df3b67d23af20.jpg"
+   },
+   {
+    "uid": "dcd26a4ec93a49de8f6ca2fe4484762a",
+    "nombre": "Infrared thermometer",
+    "autor": "arion3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4554,
+    "url": "https://sketchfab.com/3d-models/none-dcd26a4ec93a49de8f6ca2fe4484762a",
+    "miniatura": "miniaturas/mh_equipo/dcd26a4ec93a49de8f6ca2fe4484762a.jpg"
+   },
+   {
+    "uid": "e862286dded745e2afbf696fb2f053ed",
+    "nombre": "Otolaryngology Box",
+    "autor": "iusmlib",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 190954,
+    "url": "https://sketchfab.com/3d-models/none-e862286dded745e2afbf696fb2f053ed",
+    "miniatura": "miniaturas/mh_equipo/e862286dded745e2afbf696fb2f053ed.jpg"
+   },
+   {
+    "uid": "5a2f7ced134546a9beae10f28038f2c4",
+    "nombre": "Improvised ventilator filters",
+    "autor": "AVL",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 341847,
+    "url": "https://sketchfab.com/3d-models/none-5a2f7ced134546a9beae10f28038f2c4",
+    "miniatura": "miniaturas/mh_equipo/5a2f7ced134546a9beae10f28038f2c4.jpg"
+   },
+   {
+    "uid": "d47d792bdaa24dcaa8e6f341cc9f5938",
+    "nombre": "Patient Rest Bed",
+    "autor": "thekaisanofficial",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5000,
+    "url": "https://sketchfab.com/3d-models/none-d47d792bdaa24dcaa8e6f341cc9f5938",
+    "miniatura": "miniaturas/mh_equipo/d47d792bdaa24dcaa8e6f341cc9f5938.jpg"
+   },
+   {
+    "uid": "3765bb838cf74a8cbdc981325b6ad825",
+    "nombre": "Improvised ventilator parts",
+    "autor": "AVL",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 206033,
+    "url": "https://sketchfab.com/3d-models/none-3765bb838cf74a8cbdc981325b6ad825",
+    "miniatura": "miniaturas/mh_equipo/3765bb838cf74a8cbdc981325b6ad825.jpg"
+   },
+   {
+    "uid": "c1f139c72d1b4504b17b99ea68187254",
+    "nombre": "Face-shield-assembly-1",
+    "autor": "structuretree",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 81292,
+    "url": "https://sketchfab.com/3d-models/none-c1f139c72d1b4504b17b99ea68187254",
+    "miniatura": "miniaturas/mh_equipo/c1f139c72d1b4504b17b99ea68187254.jpg"
+   },
+   {
+    "uid": "34d7c9420cdf41faa0bf79ed60e5f7ba",
+    "nombre": "First Aid kit.Free Game ready asset.",
+    "autor": "Papusz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 32847,
+    "url": "https://sketchfab.com/3d-models/none-34d7c9420cdf41faa0bf79ed60e5f7ba",
+    "miniatura": "miniaturas/mh_equipo/34d7c9420cdf41faa0bf79ed60e5f7ba.jpg"
+   },
+   {
+    "uid": "dfb86fbc206d410a88200c6d6dc5630c",
+    "nombre": "Portable Neuromodulation Stimulator",
+    "autor": "TonySv",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 311047,
+    "url": "https://sketchfab.com/3d-models/none-dfb86fbc206d410a88200c6d6dc5630c",
+    "miniatura": "miniaturas/mh_equipo/dfb86fbc206d410a88200c6d6dc5630c.jpg"
+   },
+   {
+    "uid": "a3994e8b236d441c9775b2669046bd29",
+    "nombre": "Micro Medical Micro CO Monitor",
+    "autor": "johnpaullucero",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 30372,
+    "url": "https://sketchfab.com/3d-models/none-a3994e8b236d441c9775b2669046bd29",
+    "miniatura": "miniaturas/mh_equipo/a3994e8b236d441c9775b2669046bd29.jpg"
+   },
+   {
+    "uid": "c93acd5558564d4ab2c2c8b5a3cbc73e",
+    "nombre": "Over Bed-table",
+    "autor": "Dwayne.Barnett",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 568,
+    "url": "https://sketchfab.com/3d-models/none-c93acd5558564d4ab2c2c8b5a3cbc73e",
+    "miniatura": "miniaturas/mh_equipo/c93acd5558564d4ab2c2c8b5a3cbc73e.jpg"
+   }
+  ],
+  "mh_correas": []
+ },
+ "objaverse": {
+  "h_camilla_vieja": {
+   "uid": "f6f350bf2c754644a69dac2ac21e1230",
+   "nombre": "h_camilla_vieja"
+  },
+  "h_camilla_manicomio": {
+   "uid": "43736bb6a0b64fe8a824542bdbace6bc",
+   "nombre": "h_camilla_manicomio"
+  },
+  "h_camilla_reclinable": {
+   "uid": "bd69f5a963714cb2b2c08ee098a03aab",
+   "nombre": "h_camilla_reclinable"
+  },
+  "h_suero_soporte": {
+   "uid": "a93a8e70ecd2459c99e7812c6e09b88c",
+   "nombre": "h_suero_soporte"
+  },
+  "h_suero_insumos": {
+   "uid": "577ee63d736a44cca98497ed60f8a3c1",
+   "nombre": "h_suero_insumos"
+  },
+  "h_monitor_soporte": {
+   "uid": "84aa2c97829b4557bc077e8006d97e58",
+   "nombre": "h_monitor_soporte"
+  },
+  "h_monitor_cortina": {
+   "uid": "295ed50eeaa249e8bbeed7b305d3da71",
+   "nombre": "h_monitor_cortina"
+  },
+  "h_cateter_venoso": {
+   "uid": "69f883fdc4b54b51aca2864eb4b9c646",
+   "nombre": "h_cateter_venoso"
+  },
+  "h_jeringa_vidrio": {
+   "uid": "22e711221a094a48a6ffe826d3fd6185",
+   "nombre": "h_jeringa_vidrio"
+  },
+  "h_craneo_chimp": {
+   "uid": "31073e7537c14a6e89f509e890582d09",
+   "nombre": "h_craneo_chimp"
+  },
+  "h_craneo_chimp_cc0": {
+   "uid": "6ef86b9a368d4058b67f0c99a7880fb4",
+   "nombre": "h_craneo_chimp_cc0"
+  }
+ }
+}
