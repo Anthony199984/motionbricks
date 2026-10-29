@@ -1,44 +1,8 @@
 [
- {
-  "name": "mq14_sentado_chocolate_a",
-  "frames": 150,
-  "seed": 6101,
-  "prompt": "A seated person brings a bar to the mouth with the right hand, bites it and chews happily."
- },
- {
-  "name": "mq14_sentado_chocolate_b",
-  "frames": 150,
-  "seed": 6201,
-  "prompt": "A person sitting at a table takes a bite of a snack held in the right hand and smiles while chewing."
- },
- {
-  "name": "mq15_agachado_tirar_a",
-  "frames": 150,
-  "seed": 6102,
-  "prompt": "A crouching person looks at a small object in the left hand, then tosses it away over the shoulder."
- },
- {
-  "name": "mq15_agachado_tirar_b",
-  "frames": 150,
-  "seed": 6202,
-  "prompt": "A person squatting down throws something away with the left hand and smiles."
- },
- {
-  "name": "mq16_dormido_manotazo_a",
-  "frames": 150,
-  "seed": 6103,
-  "prompt": "A person lying on their back asleep swats near their ear with one hand, then lies still again."
- },
- {
-  "name": "mq16_dormido_manotazo_b",
-  "frames": 150,
-  "seed": 6203,
-  "prompt": "A sleeping person lying down waves a hand next to the head, annoyed, then relaxes."
- },
- {
-  "name": "mq17_agachado_lupa_a",
-  "frames": 180,
-  "seed": 6104,
-  "prompt": "A crouching person holds a magnifying glass with the right hand and looks closely at the ground, moving it slowly."
- }
+ {"name": "mq20_parado_mirar_brazo_a", "frames": 150, "seed": 7101, "prompt": "A person standing lifts the left forearm in front of the chest and looks down at it closely, puzzled."},
+ {"name": "mq20_parado_mirar_brazo_b", "frames": 150, "seed": 7201, "prompt": "A standing person raises the left arm bent in front of the body and stares at the forearm curiously."},
+ {"name": "mq21_parado_rascar_a", "frames": 180, "seed": 7102, "prompt": "A person standing scratches the left forearm repeatedly with the fingers of the right hand, annoyed."},
+ {"name": "mq21_parado_rascar_b", "frames": 180, "seed": 7202, "prompt": "A standing person keeps scratching the left forearm in front of the chest with the right hand."},
+ {"name": "mq22_parado_rascar_encoger_a", "frames": 150, "seed": 7103, "prompt": "A standing person scratches the left forearm with the right hand, then looks forward and shrugs the shoulders."},
+ {"name": "mq22_parado_rascar_encoger_b", "frames": 150, "seed": 7203, "prompt": "A person stands rubbing the left arm with the right hand, then stops and shrugs with a puzzled face."}
 ]
