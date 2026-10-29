@@ -1,0 +1,16 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/h_bomba_iv.glb",
+   "mb": 1.26
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "h_bomba_iv": {
+   "uid": "5e0b59240cf54660a585ba38b53af5d2",
+   "nombre": "h_bomba_iv"
+  }
+ }
+}
