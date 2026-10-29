@@ -1,10 +1,10 @@
 {
- "total_seconds": 211.7,
+ "total_seconds": 211.5,
  "jobs": [
   {
-   "name": "g13v2_2a",
+   "name": "mq02_sentado_palmada_a",
    "response": "OK\t120\t30",
-   "seconds": 211.5,
+   "seconds": 211.3,
    "frames": 120
   }
  ]
