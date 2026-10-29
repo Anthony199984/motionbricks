@@ -1,10 +1,10 @@
 {
- "total_seconds": 208.9,
+ "total_seconds": 250.8,
  "jobs": [
   {
-   "name": "mq31_hincado_acariciar_d",
+   "name": "mq34_susto_manos_b",
    "response": "OK\t150\t30",
-   "seconds": 208.8,
+   "seconds": 250.6,
    "frames": 150
   }
  ]
