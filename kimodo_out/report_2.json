@@ -1,11 +1,11 @@
 {
- "total_seconds": 211.5,
+ "total_seconds": 254.4,
  "jobs": [
   {
-   "name": "mq02_sentado_palmada_a",
-   "response": "OK\t120\t30",
-   "seconds": 211.3,
-   "frames": 120
+   "name": "mq15_agachado_tirar_a",
+   "response": "OK\t150\t30",
+   "seconds": 254.4,
+   "frames": 150
   }
  ]
 }
