@@ -1,10 +1,10 @@
 {
- "total_seconds": 164.0,
+ "total_seconds": 308.9,
  "jobs": [
   {
-   "name": "ch01_palanca_una_b",
+   "name": "cs01_anotar_tablilla_b",
    "response": "OK\t150\t30",
-   "seconds": 163.9,
+   "seconds": 308.8,
    "frames": 150
   }
  ]
