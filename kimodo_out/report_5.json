@@ -1,10 +1,10 @@
 {
- "total_seconds": 208.9,
+ "total_seconds": 248.5,
  "jobs": [
   {
-   "name": "mq16_dormido_manotazo_b",
+   "name": "mq22_parado_rascar_encoger_b",
    "response": "OK\t150\t30",
-   "seconds": 208.8,
+   "seconds": 248.4,
    "frames": 150
   }
  ]
