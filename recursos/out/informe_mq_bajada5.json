@@ -1,0 +1,85 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/mq4_junco_1.glb",
+   "mb": 4.33
+  },
+  {
+   "destino": "objaverse/mq4_junco_4.glb",
+   "mb": 0.04
+  },
+  {
+   "destino": "objaverse/mq4_pasto_alto_11.glb",
+   "mb": 3.62
+  },
+  {
+   "destino": "objaverse/mq4_pasto_alto_5.glb",
+   "mb": 13.76
+  },
+  {
+   "destino": "objaverse/mq4_pasto_alto_13.glb",
+   "mb": 13.85
+  },
+  {
+   "destino": "objaverse/mq_libelula_11.glb",
+   "mb": 10.98
+  },
+  {
+   "destino": "objaverse/mq_libelula_7.glb",
+   "mb": 8.88
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "mq4_junco_1": {
+   "uid": "bc77ea5218e44f2dbc23b2a4aef0c898",
+   "nombre": "mq4_junco_1",
+   "titulo": "Reed Plants Pack",
+   "autor": "Nicholas01",
+   "licencia": "CC Attribution"
+  },
+  "mq4_junco_4": {
+   "uid": "a8923e7b4fd44c2c9ba7f006fb952626",
+   "nombre": "mq4_junco_4",
+   "titulo": "Reeds low poly",
+   "autor": "daniel.2U",
+   "licencia": "CC Attribution"
+  },
+  "mq4_pasto_alto_11": {
+   "uid": "d0389dbd06be4f8e98ededa619ebafa8",
+   "nombre": "mq4_pasto_alto_11",
+   "titulo": "Tall Grass",
+   "autor": "Somersby",
+   "licencia": "CC Attribution-NonCommercial"
+  },
+  "mq4_pasto_alto_5": {
+   "uid": "4f6fdcedd61d4783a5862f92282e72a8",
+   "nombre": "mq4_pasto_alto_5",
+   "titulo": "Red Baron",
+   "autor": "Somersby",
+   "licencia": "CC Attribution-NonCommercial"
+  },
+  "mq4_pasto_alto_13": {
+   "uid": "dde6238094054c42bfd0e0d32335a36c",
+   "nombre": "mq4_pasto_alto_13",
+   "titulo": "Small Patch of Grass",
+   "autor": "Somersby",
+   "licencia": "CC Attribution-NonCommercial"
+  },
+  "mq_libelula_11": {
+   "uid": "a2b49d2142c1498cb91566bd0841200b",
+   "nombre": "mq_libelula_11",
+   "titulo": "CC0 オニヤンマ ♀ Golden-ringed Dragonfly",
+   "autor": "ffishAsia-and-floraZia",
+   "licencia": "CC0 Public Domain"
+  },
+  "mq_libelula_7": {
+   "uid": "b8b1543c32964c49943bb1d8ac1db9b2",
+   "nombre": "mq_libelula_7",
+   "titulo": "CC0 チョウトンボ Butterfly Dragonfly, R. fuliginosa",
+   "autor": "ffishAsia-and-floraZia",
+   "licencia": "CC0 Public Domain"
+  }
+ }
+}
