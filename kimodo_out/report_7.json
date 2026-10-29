@@ -1,11 +1,11 @@
 {
- "total_seconds": 124.1,
+ "total_seconds": 283.0,
  "jobs": [
   {
-   "name": "g10v2_1b",
-   "response": "OK\t105\t30",
-   "seconds": 124.0,
-   "frames": 105
+   "name": "mq06_acariciar_perro_a",
+   "response": "OK\t180\t30",
+   "seconds": 282.8,
+   "frames": 180
   }
  ]
 }
