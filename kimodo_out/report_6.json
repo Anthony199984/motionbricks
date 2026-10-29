@@ -1,11 +1,11 @@
 {
- "total_seconds": 197.5,
+ "total_seconds": 247.6,
  "jobs": [
   {
-   "name": "g10v2_1a",
-   "response": "OK\t105\t30",
-   "seconds": 197.4,
-   "frames": 105
+   "name": "mq05_despertar_estirarse_a",
+   "response": "OK\t150\t30",
+   "seconds": 247.5,
+   "frames": 150
   }
  ]
 }
