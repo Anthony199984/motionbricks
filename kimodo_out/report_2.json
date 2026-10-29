@@ -1,11 +1,11 @@
 {
- "total_seconds": 434.3,
+ "total_seconds": 163.5,
  "jobs": [
   {
-   "name": "ch02_reposo_mirar_a",
-   "response": "OK\t300\t30",
-   "seconds": 434.1,
-   "frames": 300
+   "name": "cs02_ajustar_aparato_a",
+   "response": "OK\t150\t30",
+   "seconds": 163.4,
+   "frames": 150
   }
  ]
 }
