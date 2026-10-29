@@ -1,11 +1,11 @@
 {
- "total_seconds": 209.2,
+ "total_seconds": 284.3,
  "jobs": [
   {
-   "name": "ch04_dudar_b",
-   "response": "OK\t150\t30",
-   "seconds": 209.1,
-   "frames": 150
+   "name": "ch11_drogado_balanceo_b",
+   "response": "OK\t180\t30",
+   "seconds": 284.2,
+   "frames": 180
   }
  ]
 }
