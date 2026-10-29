@@ -1,11 +1,11 @@
 {
- "total_seconds": 213.2,
+ "total_seconds": 298.9,
  "jobs": [
   {
-   "name": "ch07_morder_dedos_b",
-   "response": "OK\t120\t30",
-   "seconds": 213.1,
-   "frames": 120
+   "name": "mq13_sentado_cafe_a",
+   "response": "OK\t150\t30",
+   "seconds": 298.8,
+   "frames": 150
   }
  ]
 }
