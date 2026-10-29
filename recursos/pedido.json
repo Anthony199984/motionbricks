@@ -1,54 +1,279 @@
 {
  "catalogo": false,
- "informe": "informe_mq_cielos7.json",
+ "informe": "informe_loteria_busqueda1.json",
  "polyhaven": [
   {
-   "id": "belfast_sunset_puresky",
+   "id": "CashRegister_01",
+   "res": "1k"
+  },
+  {
+   "id": "fishermans_hat",
+   "res": "1k"
+  },
+  {
+   "id": "bananas",
+   "res": "1k"
+  },
+  {
+   "id": "cardboard_box_01",
+   "res": "1k"
+  },
+  {
+   "id": "hanging_industrial_lamp",
+   "res": "1k"
+  },
+  {
+   "id": "Shelf_01",
+   "res": "1k"
+  },
+  {
+   "id": "plastic_monobloc_chair_01",
+   "res": "1k"
+  },
+  {
+   "id": "old_bed_frame",
+   "res": "1k"
+  },
+  {
+   "id": "security_camera_01",
+   "res": "1k"
+  },
+  {
+   "id": "plastic_crate_01",
+   "res": "1k"
+  },
+  {
+   "id": "office_notepads",
+   "res": "1k"
+  },
+  {
+   "id": "mounted_fluorescent_lights",
+   "res": "1k"
+  },
+  {
+   "id": "modern_ceiling_lamp_01",
+   "res": "1k"
+  },
+  {
+   "id": "WetFloorSign_01",
+   "res": "1k"
+  },
+  {
+   "id": "terrazzo_tiles",
+   "res": "1k"
+  },
+  {
+   "id": "marble_tiles",
+   "res": "1k"
+  },
+  {
+   "id": "wood_table_001",
+   "res": "1k"
+  },
+  {
+   "id": "checkered_pavement_tiles",
+   "res": "1k"
+  },
+  {
+   "id": "clarens_night_01",
    "res": "2k"
   },
   {
-   "id": "kloppenheim_06_puresky",
+   "id": "blue_lagoon_night",
    "res": "2k"
+  }
+ ],
+ "sketchfab_buscar": [
+  {
+   "clave": "escaner",
+   "q": "barcode scanner handheld",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
   },
   {
-   "id": "evening_road_01_puresky",
-   "res": "2k"
+   "clave": "esposas",
+   "q": "handcuffs",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
   },
   {
-   "id": "the_sky_is_on_fire",
-   "res": "2k"
+   "clave": "placa",
+   "q": "police badge",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
   },
   {
-   "id": "venice_sunset",
-   "res": "2k"
+   "clave": "reloj_pared",
+   "q": "wall clock",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
   },
   {
-   "id": "sunflowers_puresky",
-   "res": "2k"
+   "clave": "boligrafo",
+   "q": "ballpoint pen",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
   },
   {
-   "id": "golden_gate_hills",
-   "res": "2k"
+   "clave": "yate",
+   "q": "yacht",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
   },
   {
-   "id": "spaichingen_hill",
-   "res": "2k"
+   "clave": "mansion",
+   "q": "mansion",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
   },
   {
-   "id": "autumn_field_puresky",
-   "res": "2k"
+   "clave": "carro",
+   "q": "small car",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
   },
   {
-   "id": "rustig_koppie_puresky",
-   "res": "2k"
+   "clave": "imprenta",
+   "q": "printing press",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
   },
   {
-   "id": "kiara_1_dawn",
-   "res": "2k"
+   "clave": "anzuelo",
+   "q": "fishing hook",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
   },
   {
-   "id": "dikhololo_night",
-   "res": "2k"
+   "clave": "puerta_vidrio",
+   "q": "glass door",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
+  },
+  {
+   "clave": "pizza",
+   "q": "pizza box",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
+  },
+  {
+   "clave": "cascara",
+   "q": "banana peel",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
+  },
+  {
+   "clave": "polaroid",
+   "q": "polaroid photo",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
+  },
+  {
+   "clave": "sillas_espera",
+   "q": "waiting room chairs",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
+  },
+  {
+   "clave": "cama",
+   "q": "single bed",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
+  },
+  {
+   "clave": "zafacon",
+   "q": "trash can",
+   "paginas": 3,
+   "max": 24,
+   "solo_objaverse": true
+  }
+ ],
+ "freesound_buscar": [
+  {
+   "clave": "s_escaner",
+   "q": "barcode scanner beep",
+   "max": 6
+  },
+  {
+   "clave": "s_campanita",
+   "q": "shop door bell",
+   "max": 6
+  },
+  {
+   "clave": "s_basura",
+   "q": "rummaging trash",
+   "max": 6
+  },
+  {
+   "clave": "s_firma",
+   "q": "pen writing signature",
+   "max": 6
+  },
+  {
+   "clave": "s_fuegos",
+   "q": "fireworks",
+   "max": 6
+  },
+  {
+   "clave": "s_motor",
+   "q": "small car passing",
+   "max": 6
+  },
+  {
+   "clave": "s_tictac",
+   "q": "clock ticking",
+   "max": 6
+  },
+  {
+   "clave": "s_puerta",
+   "q": "door open close",
+   "max": 6
+  },
+  {
+   "clave": "s_esposas",
+   "q": "handcuffs",
+   "max": 6
+  },
+  {
+   "clave": "s_polaroid",
+   "q": "polaroid camera",
+   "max": 6
+  },
+  {
+   "clave": "s_imprenta",
+   "q": "printer printing",
+   "max": 6
+  },
+  {
+   "clave": "s_pasos",
+   "q": "running footsteps",
+   "max": 6
+  },
+  {
+   "clave": "s_papel",
+   "q": "paper pin board",
+   "max": 6
+  },
+  {
+   "clave": "s_aplauso",
+   "q": "small applause",
+   "max": 6
   }
  ]
 }
