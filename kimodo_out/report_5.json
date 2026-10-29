@@ -1,11 +1,11 @@
 {
- "total_seconds": 213.7,
+ "total_seconds": 306.6,
  "jobs": [
   {
-   "name": "g13v2_3b",
-   "response": "OK\t120\t30",
-   "seconds": 213.6,
-   "frames": 120
+   "name": "mq04_dormir_b",
+   "response": "OK\t180\t30",
+   "seconds": 306.5,
+   "frames": 180
   }
  ]
 }
