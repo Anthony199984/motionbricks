@@ -1,11 +1,11 @@
 {
- "total_seconds": 361.8,
+ "total_seconds": 164.7,
  "jobs": [
   {
-   "name": "ch03_palanca_rapido_b",
-   "response": "OK\t240\t30",
-   "seconds": 361.6,
-   "frames": 240
+   "name": "cs03_observar_anotar_b",
+   "response": "OK\t150\t30",
+   "seconds": 164.6,
+   "frames": 150
   }
  ]
 }
