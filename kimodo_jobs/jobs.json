@@ -1,8 +1,38 @@
 [
- {"name": "mq20_parado_mirar_brazo_a", "frames": 150, "seed": 7101, "prompt": "A person standing lifts the left forearm in front of the chest and looks down at it closely, puzzled."},
- {"name": "mq20_parado_mirar_brazo_b", "frames": 150, "seed": 7201, "prompt": "A standing person raises the left arm bent in front of the body and stares at the forearm curiously."},
- {"name": "mq21_parado_rascar_a", "frames": 180, "seed": 7102, "prompt": "A person standing scratches the left forearm repeatedly with the fingers of the right hand, annoyed."},
- {"name": "mq21_parado_rascar_b", "frames": 180, "seed": 7202, "prompt": "A standing person keeps scratching the left forearm in front of the chest with the right hand."},
- {"name": "mq22_parado_rascar_encoger_a", "frames": 150, "seed": 7103, "prompt": "A standing person scratches the left forearm with the right hand, then looks forward and shrugs the shoulders."},
- {"name": "mq22_parado_rascar_encoger_b", "frames": 150, "seed": 7203, "prompt": "A person stands rubbing the left arm with the right hand, then stops and shrugs with a puzzled face."}
+ {
+  "name": "mq30_hincado_acariciar_a",
+  "frames": 150,
+  "seed": 8101,
+  "prompt": "A person kneels on one knee and gently pets a dog in front of them with the right hand."
+ },
+ {
+  "name": "mq30_hincado_acariciar_b",
+  "frames": 150,
+  "seed": 8201,
+  "prompt": "A person kneels on one knee and gently pets a dog in front of them with the right hand."
+ },
+ {
+  "name": "mq31_hincado_acariciar_c",
+  "frames": 150,
+  "seed": 8102,
+  "prompt": "A person kneeling on one knee strokes the back of a dog slowly with the right hand, smiling."
+ },
+ {
+  "name": "mq31_hincado_acariciar_d",
+  "frames": 150,
+  "seed": 8202,
+  "prompt": "A person kneeling on one knee strokes the back of a dog slowly with the right hand, smiling."
+ },
+ {
+  "name": "mq32_agacharse_acariciar_a",
+  "frames": 150,
+  "seed": 8103,
+  "prompt": "A person crouches down next to a dog and pets its head and back with the right hand."
+ },
+ {
+  "name": "mq32_agacharse_acariciar_b",
+  "frames": 150,
+  "seed": 8203,
+  "prompt": "A person crouches down next to a dog and pets its head and back with the right hand."
+ }
 ]
