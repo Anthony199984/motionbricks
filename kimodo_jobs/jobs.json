@@ -1,38 +1,26 @@
 [
  {
-  "name": "mq33_flotar_defender_a",
+  "name": "mq36_agonizar_a",
   "frames": 150,
-  "seed": 8301,
-  "prompt": "A person treading water in deep water, panicking, kicking the legs and raising both hands in front of the face to defend against an attack."
+  "seed": 8501,
+  "prompt": "A sick person holds their head with both hands in pain, grows weak, sways and slowly sinks down to their knees, exhausted."
  },
  {
-  "name": "mq33_flotar_defender_b",
+  "name": "mq36_agonizar_b",
   "frames": 150,
-  "seed": 8401,
-  "prompt": "A person treading water in deep water, panicking, kicking the legs and raising both hands in front of the face to defend against an attack."
+  "seed": 8601,
+  "prompt": "A sick person holds their head with both hands in pain, grows weak, sways and slowly sinks down to their knees, exhausted."
  },
  {
-  "name": "mq34_susto_manos_a",
+  "name": "mq37_desmayo_a",
   "frames": 150,
-  "seed": 8302,
-  "prompt": "A terrified person leans back and pushes both open hands forward in front of the face, as if a huge animal is about to bite them."
+  "seed": 8502,
+  "prompt": "A dizzy person feels faint, hunches forward with one hand on the head, knees buckle and they slowly drop to their knees."
  },
  {
-  "name": "mq34_susto_manos_b",
+  "name": "mq37_desmayo_b",
   "frames": 150,
-  "seed": 8402,
-  "prompt": "A terrified person leans back and pushes both open hands forward in front of the face, as if a huge animal is about to bite them."
- },
- {
-  "name": "mq35_morder_barra_a",
-  "frames": 150,
-  "seed": 8303,
-  "prompt": "A person holds a chocolate bar in the right hand, brings the end of the bar straight to the mouth, takes a bite and chews happily."
- },
- {
-  "name": "mq35_morder_barra_b",
-  "frames": 150,
-  "seed": 8403,
-  "prompt": "A person holds a chocolate bar in the right hand, brings the end of the bar straight to the mouth, takes a bite and chews happily."
+  "seed": 8602,
+  "prompt": "A dizzy person feels faint, hunches forward with one hand on the head, knees buckle and they slowly drop to their knees."
  }
 ]
