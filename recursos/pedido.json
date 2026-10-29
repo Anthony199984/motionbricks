@@ -1,7 +1,295 @@
 {
  "catalogo": false,
- "informe": "informe_transc_ref88782.json",
- "transcribir": [
-  {"archivo": "recursos/entrada/ref_88782.wav", "salida": "transcripcion_ref_88782.json", "modelo": "small", "idioma": "en"}
+ "informe": "informe_mq_busqueda1.json",
+ "sketchfab_buscar": [
+  {
+   "clave": "mq_mosquito",
+   "q": "mosquito",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_mosquito_anim",
+   "q": "mosquito",
+   "animado": true,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_aedes",
+   "q": "aedes aegypti",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_rana",
+   "q": "frog realistic",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_rana_anim",
+   "q": "frog",
+   "animado": true,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_orquidea",
+   "q": "orchid",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_cacao",
+   "q": "cacao pod",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_cacao_arbol",
+   "q": "cocoa tree",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_reno",
+   "q": "reindeer",
+   "animado": true,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_caribu",
+   "q": "caribou",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_tiburon",
+   "q": "great white shark",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_tiburon_anim",
+   "q": "shark",
+   "animado": true,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_nenufar",
+   "q": "lily pad",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_junco",
+   "q": "cattail reed",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_mosquito_mosca",
+   "q": "midge insect",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_corazon",
+   "q": "heart anatomy",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_cama",
+   "q": "bed realistic",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_cronometro",
+   "q": "stopwatch",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_murcielago",
+   "q": "bat",
+   "animado": true,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_libelula",
+   "q": "dragonfly",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_piel",
+   "q": "skin cross section",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_celula",
+   "q": "mast cell",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_perro",
+   "q": "dog realistic",
+   "animado": true,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "mq_tierra",
+   "q": "earth globe",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40
+  }
+ ],
+ "freesound_buscar": [
+  {
+   "clave": "mq_zumbido",
+   "q": "mosquito buzz",
+   "max": 8
+  },
+  {
+   "clave": "mq_zumbido2",
+   "q": "mosquito flying ear",
+   "max": 8
+  },
+  {
+   "clave": "mq_rascar",
+   "q": "scratching skin",
+   "max": 8
+  },
+  {
+   "clave": "mq_palmada",
+   "q": "slap skin",
+   "max": 8
+  },
+  {
+   "clave": "mq_rana",
+   "q": "frog croak",
+   "max": 8
+  },
+  {
+   "clave": "mq_lengua",
+   "q": "frog tongue",
+   "max": 8
+  },
+  {
+   "clave": "mq_lago",
+   "q": "pond ambience",
+   "max": 8
+  },
+  {
+   "clave": "mq_murcielago",
+   "q": "bat flapping wings",
+   "max": 8
+  },
+  {
+   "clave": "mq_viento",
+   "q": "wind ridge mountain",
+   "max": 8
+  },
+  {
+   "clave": "mq_reno",
+   "q": "reindeer grunt",
+   "max": 8
+  },
+  {
+   "clave": "mq_cafe",
+   "q": "cafe ambience outdoor",
+   "max": 8
+  },
+  {
+   "clave": "mq_tictac",
+   "q": "stopwatch ticking",
+   "max": 8
+  },
+  {
+   "clave": "mq_latido",
+   "q": "heartbeat",
+   "max": 8
+  },
+  {
+   "clave": "mq_perro",
+   "q": "dog panting",
+   "max": 8
+  },
+  {
+   "clave": "mq_cama",
+   "q": "bed sheets rustle",
+   "max": 8
+  },
+  {
+   "clave": "mq_woosh",
+   "q": "whoosh soft",
+   "max": 8
+  },
+  {
+   "clave": "mq_insectos",
+   "q": "insect swarm",
+   "max": 8
+  },
+  {
+   "clave": "mq_burbuja",
+   "q": "liquid squish",
+   "max": 8
+  },
+  {
+   "clave": "mq_pajaros",
+   "q": "birds morning",
+   "max": 8
+  }
  ]
 }
