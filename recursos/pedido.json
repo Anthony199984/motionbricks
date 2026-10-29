@@ -1,55 +1,114 @@
 {
  "catalogo": false,
- "informe": "informe_mq_bajada5.json",
- "objaverse": [
+ "informe": "informe_mq_busqueda6.json",
+ "sketchfab_buscar": [
   {
-   "uid": "bc77ea5218e44f2dbc23b2a4aef0c898",
-   "nombre": "mq4_junco_1",
-   "titulo": "Reed Plants Pack",
-   "autor": "Nicholas01",
-   "licencia": "CC Attribution"
+   "clave": "mq5_tigre",
+   "q": "tiger mosquito",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40,
+   "orden": "-likeCount"
   },
   {
-   "uid": "a8923e7b4fd44c2c9ba7f006fb952626",
-   "nombre": "mq4_junco_4",
-   "titulo": "Reeds low poly",
-   "autor": "daniel.2U",
-   "licencia": "CC Attribution"
+   "clave": "mq5_albopictus",
+   "q": "aedes albopictus",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40,
+   "orden": "-likeCount"
   },
   {
-   "uid": "d0389dbd06be4f8e98ededa619ebafa8",
-   "nombre": "mq4_pasto_alto_11",
-   "titulo": "Tall Grass",
-   "autor": "Somersby",
-   "licencia": "CC Attribution-NonCommercial"
+   "clave": "mq5_aedes2",
+   "q": "aedes",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40,
+   "orden": "-likeCount"
   },
   {
-   "uid": "4f6fdcedd61d4783a5862f92282e72a8",
-   "nombre": "mq4_pasto_alto_5",
-   "titulo": "Red Baron",
-   "autor": "Somersby",
-   "licencia": "CC Attribution-NonCommercial"
+   "clave": "mq5_culex",
+   "q": "culex",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40,
+   "orden": "-likeCount"
   },
   {
-   "uid": "dde6238094054c42bfd0e0d32335a36c",
-   "nombre": "mq4_pasto_alto_13",
-   "titulo": "Small Patch of Grass",
-   "autor": "Somersby",
-   "licencia": "CC Attribution-NonCommercial"
+   "clave": "mq5_anopheles",
+   "q": "anopheles",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40,
+   "orden": "-likeCount"
   },
   {
-   "uid": "a2b49d2142c1498cb91566bd0841200b",
-   "nombre": "mq_libelula_11",
-   "titulo": "CC0 \u30aa\u30cb\u30e4\u30f3\u30de \u2640 Golden-ringed Dragonfly",
-   "autor": "ffishAsia-and-floraZia",
-   "licencia": "CC0 Public Domain"
+   "clave": "mq5_mosq_rig",
+   "q": "mosquito rigged",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40,
+   "orden": "-likeCount"
   },
   {
-   "uid": "b8b1543c32964c49943bb1d8ac1db9b2",
-   "nombre": "mq_libelula_7",
-   "titulo": "CC0 \u30c1\u30e7\u30a6\u30c8\u30f3\u30dc Butterfly Dragonfly, R. fuliginosa",
-   "autor": "ffishAsia-and-floraZia",
-   "licencia": "CC0 Public Domain"
+   "clave": "mq5_mosq_anim",
+   "q": "mosquito animation",
+   "animado": true,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40,
+   "orden": "-likeCount"
+  },
+  {
+   "clave": "mq5_mosq_real",
+   "q": "realistic mosquito",
+   "animado": false,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40,
+   "orden": "-likeCount"
+  },
+  {
+   "clave": "mq5_mosquito_fly",
+   "q": "mosquito flying",
+   "animado": true,
+   "paginas": 6,
+   "solo_objaverse": true,
+   "max": 40,
+   "orden": "-likeCount"
+  },
+  {
+   "clave": "mq5_insecto_rig",
+   "q": "insect rigged",
+   "animado": true,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 40,
+   "orden": "-likeCount"
+  },
+  {
+   "clave": "mq5_aedes_nuevo",
+   "q": "aedes aegypti",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": false,
+   "max": 40,
+   "orden": "-likeCount"
+  },
+  {
+   "clave": "mq5_mosq_nuevo",
+   "q": "mosquito",
+   "animado": true,
+   "paginas": 4,
+   "solo_objaverse": false,
+   "max": 40,
+   "orden": "-likeCount"
   }
  ]
 }
