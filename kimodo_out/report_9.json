@@ -1,11 +1,11 @@
 {
- "total_seconds": 177.5,
+ "total_seconds": 158.3,
  "jobs": [
   {
-   "name": "g10v2_2b",
-   "response": "OK\t105\t30",
-   "seconds": 177.5,
-   "frames": 105
+   "name": "mq08_espantar_nube_a",
+   "response": "OK\t150\t30",
+   "seconds": 158.2,
+   "frames": 150
   }
  ]
 }
