@@ -1,11 +1,10 @@
 {
  "catalogo": false,
- "informe": "informe_transc_velocidad.json",
- "transcribir": [
+ "informe": "informe_mono_camilla3.json",
+ "objaverse": [
   {
-   "archivo": "recursos/entrada/super_velocidad.wav",
-   "salida": "transcripcion_super_velocidad.json",
-   "modelo": "small"
+   "uid": "5e0b59240cf54660a585ba38b53af5d2",
+   "nombre": "h_bomba_iv"
   }
  ]
 }
