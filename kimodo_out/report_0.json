@@ -1,11 +1,11 @@
 {
- "total_seconds": 255.3,
+ "total_seconds": 249.4,
  "jobs": [
   {
-   "name": "g13v2_1a",
-   "response": "OK\t120\t30",
-   "seconds": 255.2,
-   "frames": 120
+   "name": "mq01_sentado_rascar_a",
+   "response": "OK\t150\t30",
+   "seconds": 249.3,
+   "frames": 150
   }
  ]
 }
