@@ -1,11 +1,11 @@
 {
- "total_seconds": 265.2,
+ "total_seconds": 248.9,
  "jobs": [
   {
-   "name": "mq03_sentado_mirar_brazo_a",
-   "response": "OK\t120\t30",
-   "seconds": 265.1,
-   "frames": 120
+   "name": "mq15_agachado_tirar_b",
+   "response": "OK\t150\t30",
+   "seconds": 248.8,
+   "frames": 150
   }
  ]
 }
