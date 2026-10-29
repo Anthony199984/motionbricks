@@ -1,279 +1,237 @@
 {
  "catalogo": false,
- "informe": "informe_loteria_busqueda1.json",
- "polyhaven": [
+ "informe": "informe_loteria_bajada2.json",
+ "objaverse": [
   {
-   "id": "CashRegister_01",
-   "res": "1k"
+   "uid": "88317b5bfc0b4c14a5004c6d109c815b",
+   "nombre": "escaner_0",
+   "titulo": "Handheld Barcode Scanner, by Afinia ES360",
+   "autor": "afinia3dprint",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "fishermans_hat",
-   "res": "1k"
+   "uid": "896c8ac4c8304e2b9de8716400463d39",
+   "nombre": "esposas_0",
+   "titulo": "Hand- Cuffs",
+   "autor": "Medhatelo",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "bananas",
-   "res": "1k"
+   "uid": "a208763e2eba4de4ace12977843313e4",
+   "nombre": "esposas_6",
+   "titulo": "Handcuffs",
+   "autor": "polarb",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "cardboard_box_01",
-   "res": "1k"
+   "uid": "283ad36c25c7438299922707fc17690e",
+   "nombre": "placa_0",
+   "titulo": "Police Badge",
+   "autor": "oparaskos",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "hanging_industrial_lamp",
-   "res": "1k"
+   "uid": "39eaa5f15fd6467d9991f16936e5b01c",
+   "nombre": "placa_2",
+   "titulo": "Police badge",
+   "autor": "kropaman",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "Shelf_01",
-   "res": "1k"
+   "uid": "2e964ac0242e4b1789adfd9549c653dc",
+   "nombre": "reloj_pared_2",
+   "titulo": "Wall Clock",
+   "autor": "felipeprodev",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "plastic_monobloc_chair_01",
-   "res": "1k"
+   "uid": "ba594695a3ef4032980a75d21174600c",
+   "nombre": "reloj_pared_17",
+   "titulo": "Wall clock",
+   "autor": "itsbroccoletto",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "old_bed_frame",
-   "res": "1k"
+   "uid": "a9f4d19a7ee84db794a5e7528df6f142",
+   "nombre": "boligrafo_1",
+   "titulo": "Boring blue ballpoint pen",
+   "autor": "shaul",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "security_camera_01",
-   "res": "1k"
+   "uid": "76d3050b6c2646278feaa28007d180cb",
+   "nombre": "boligrafo_4",
+   "titulo": "Pen",
+   "autor": "cpenfold",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "plastic_crate_01",
-   "res": "1k"
+   "uid": "0dd451f295d049cea20c17d3ffa87ee3",
+   "nombre": "yate_2",
+   "titulo": "Yacht",
+   "autor": "sergeif",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "office_notepads",
-   "res": "1k"
+   "uid": "09a9fc4a0061464fba1bc3ba76848869",
+   "nombre": "yate_4",
+   "titulo": "Small Yacht",
+   "autor": "miguelangelo2k",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "mounted_fluorescent_lights",
-   "res": "1k"
+   "uid": "91a01eae9ada489a9bc76ecf21881237",
+   "nombre": "mansion_6",
+   "titulo": "Vianden Castle",
+   "autor": "333DDD-oficial",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "modern_ceiling_lamp_01",
-   "res": "1k"
+   "uid": "30b40452eb384e59953ef9e772caa18f",
+   "nombre": "mansion_18",
+   "titulo": "Mansion 2",
+   "autor": "aitortilla01",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "WetFloorSign_01",
-   "res": "1k"
+   "uid": "7fd6e15785fa4aa9bfd6e31eb7c97ba6",
+   "nombre": "carro_15",
+   "titulo": "Kiri '10 - Low poly model",
+   "autor": "DanielZhabotinsky",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "terrazzo_tiles",
-   "res": "1k"
+   "uid": "67c84e4d30ae42fda22c0a0c7526df26",
+   "nombre": "carro_8",
+   "titulo": "Small price car",
+   "autor": "Oliv1e",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "marble_tiles",
-   "res": "1k"
+   "uid": "2f80891c2e494134822db52136f5450c",
+   "nombre": "imprenta_4",
+   "titulo": "Printing Press",
+   "autor": "amethyst",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "wood_table_001",
-   "res": "1k"
+   "uid": "65b9784e46cb43c1866b5ecdf80e566d",
+   "nombre": "imprenta_13",
+   "titulo": "Printing press",
+   "autor": "scbenoit",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "checkered_pavement_tiles",
-   "res": "1k"
+   "uid": "415b9aea9b9e4511adf2912f68679163",
+   "nombre": "anzuelo_14",
+   "titulo": "Fishing Hook",
+   "autor": "20001341",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "clarens_night_01",
-   "res": "2k"
+   "uid": "934c3cb6ed06462e8afee848b7942d6e",
+   "nombre": "anzuelo_2",
+   "titulo": "FISHING HOOK V2",
+   "autor": "danchristie25",
+   "licencia": "CC Attribution"
   },
   {
-   "id": "blue_lagoon_night",
-   "res": "2k"
-  }
- ],
- "sketchfab_buscar": [
-  {
-   "clave": "escaner",
-   "q": "barcode scanner handheld",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
+   "uid": "c8d08012886f49798a0fb5ffbd5b2feb",
+   "nombre": "puerta_vidrio_3",
+   "titulo": "Sliding Door",
+   "autor": "roy.3dartist",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "esposas",
-   "q": "handcuffs",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
+   "uid": "ae11104237314463a61251fd46ded4b4",
+   "nombre": "puerta_vidrio_2",
+   "titulo": "Residential Window",
+   "autor": "AleixoAlonso",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "placa",
-   "q": "police badge",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
+   "uid": "d9cd316a305a42debc41e9803c07d6bc",
+   "nombre": "pizza_11",
+   "titulo": "Perfect Pizza with Box",
+   "autor": "Thrazex",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "reloj_pared",
-   "q": "wall clock",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
+   "uid": "2b251df3fcdf4cf4b483633699928953",
+   "nombre": "pizza_0",
+   "titulo": "Pizza Time!",
+   "autor": "ShivanshSingh",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "boligrafo",
-   "q": "ballpoint pen",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
+   "uid": "6837ff9043d94451926b22987f3dacde",
+   "nombre": "cascara_3",
+   "titulo": "Banana Peel",
+   "autor": "chin4grci4",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "yate",
-   "q": "yacht",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
+   "uid": "60a3ba892429433d9b580998b1036c55",
+   "nombre": "cascara_2",
+   "titulo": "15th - Fall // Banana Peel",
+   "autor": "ringogunther",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "mansion",
-   "q": "mansion",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
+   "uid": "98e59c092cd04755a89b62cb9b385006",
+   "nombre": "polaroid_6",
+   "titulo": "Polaroïd",
+   "autor": "Arthur_mf",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "carro",
-   "q": "small car",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
+   "uid": "c11303a31f4b4018880b8b53ce361f02",
+   "nombre": "polaroid_3",
+   "titulo": "Poloroid Camera",
+   "autor": "aisaac",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "imprenta",
-   "q": "printing press",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
+   "uid": "baaa4ec5d6d34ad49004e4d151b43aa2",
+   "nombre": "sillas_espera_1",
+   "titulo": "Chair Hospital",
+   "autor": "Khafesus",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "anzuelo",
-   "q": "fishing hook",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
+   "uid": "735a0bc9e0544443addc5b3965c1e18b",
+   "nombre": "sillas_espera_4",
+   "titulo": "Waiting Room Chairs",
+   "autor": "LeandroN",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "puerta_vidrio",
-   "q": "glass door",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
+   "uid": "b547d81073b64d3e97200fd3ae9a74af",
+   "nombre": "cama_9",
+   "titulo": "Bed - Sample",
+   "autor": "mifusaja",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "pizza",
-   "q": "pizza box",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
+   "uid": "81ada0e24e1647d8a0d6d0708a696f84",
+   "nombre": "cama_2",
+   "titulo": "Single Bed 2",
+   "autor": "rhcreations",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "cascara",
-   "q": "banana peel",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
+   "uid": "0ad3407cd8104ba58f71885c0e58ca9a",
+   "nombre": "zafacon_10",
+   "titulo": "Trash Can",
+   "autor": "Tim0",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "polaroid",
-   "q": "polaroid photo",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
-  },
-  {
-   "clave": "sillas_espera",
-   "q": "waiting room chairs",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
-  },
-  {
-   "clave": "cama",
-   "q": "single bed",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
-  },
-  {
-   "clave": "zafacon",
-   "q": "trash can",
-   "paginas": 3,
-   "max": 24,
-   "solo_objaverse": true
-  }
- ],
- "freesound_buscar": [
-  {
-   "clave": "s_escaner",
-   "q": "barcode scanner beep",
-   "max": 6
-  },
-  {
-   "clave": "s_campanita",
-   "q": "shop door bell",
-   "max": 6
-  },
-  {
-   "clave": "s_basura",
-   "q": "rummaging trash",
-   "max": 6
-  },
-  {
-   "clave": "s_firma",
-   "q": "pen writing signature",
-   "max": 6
-  },
-  {
-   "clave": "s_fuegos",
-   "q": "fireworks",
-   "max": 6
-  },
-  {
-   "clave": "s_motor",
-   "q": "small car passing",
-   "max": 6
-  },
-  {
-   "clave": "s_tictac",
-   "q": "clock ticking",
-   "max": 6
-  },
-  {
-   "clave": "s_puerta",
-   "q": "door open close",
-   "max": 6
-  },
-  {
-   "clave": "s_esposas",
-   "q": "handcuffs",
-   "max": 6
-  },
-  {
-   "clave": "s_polaroid",
-   "q": "polaroid camera",
-   "max": 6
-  },
-  {
-   "clave": "s_imprenta",
-   "q": "printer printing",
-   "max": 6
-  },
-  {
-   "clave": "s_pasos",
-   "q": "running footsteps",
-   "max": 6
-  },
-  {
-   "clave": "s_papel",
-   "q": "paper pin board",
-   "max": 6
-  },
-  {
-   "clave": "s_aplauso",
-   "q": "small applause",
-   "max": 6
+   "uid": "a4ca1a1764e841cc9ce9259e699aebd9",
+   "nombre": "zafacon_13",
+   "titulo": "Trash Can 02",
+   "autor": "katykate",
+   "licencia": "CC Attribution"
   }
  ]
 }
