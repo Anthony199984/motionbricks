@@ -1,11 +1,11 @@
 {
- "total_seconds": 250.7,
+ "total_seconds": 211.7,
  "jobs": [
   {
-   "name": "cm02_acostado_respira_a",
-   "response": "OK\t150\t30",
-   "seconds": 250.6,
-   "frames": 150
+   "name": "g13v2_2a",
+   "response": "OK\t120\t30",
+   "seconds": 211.5,
+   "frames": 120
   }
  ]
 }
