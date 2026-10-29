@@ -1,10 +1,10 @@
 {
- "total_seconds": 249.4,
+ "total_seconds": 248.7,
  "jobs": [
   {
-   "name": "mq20_parado_mirar_brazo_a",
+   "name": "mq30_hincado_acariciar_a",
    "response": "OK\t150\t30",
-   "seconds": 249.3,
+   "seconds": 248.6,
    "frames": 150
   }
  ]
