@@ -1,65 +1,33 @@
 {
  "catalogo": false,
- "informe": "informe_mq8_bebe_tiburon.json",
- "sketchfab_buscar": [
-  {
-   "clave": "mq8_bebe",
-   "q": "baby",
-   "paginas": 4,
-   "solo_objaverse": true
-  },
-  {
-   "clave": "mq8_bebe_dormido",
-   "q": "sleeping baby",
-   "paginas": 3,
-   "solo_objaverse": true
-  },
-  {
-   "clave": "mq8_infante",
-   "q": "infant newborn",
-   "paginas": 3,
-   "solo_objaverse": true
-  },
-  {
-   "clave": "mq8_bebe_rig",
-   "q": "baby rigged",
-   "paginas": 2,
-   "solo_objaverse": true
-  },
-  {
-   "clave": "mq8_tiburon_anim",
-   "q": "great white shark animated",
-   "animado": true,
-   "paginas": 4,
-   "solo_objaverse": true
-  },
-  {
-   "clave": "mq8_tiburon_nada",
-   "q": "shark swimming",
-   "animado": true,
-   "paginas": 3,
-   "solo_objaverse": true
-  },
-  {
-   "clave": "mq8_mosquito",
-   "q": "mosquito realistic",
-   "paginas": 3,
-   "solo_objaverse": true
-  }
- ],
+ "informe": "informe_mq8_bajada2.json",
  "objaverse": [
   {
-   "uid": "297ed35c6a5f43749b0ae189d991a3f1",
-   "nombre": "mq8_tiburon_nadando",
-   "titulo": "Animated Swimming Great White Shark Loop",
-   "autor": "?",
+   "uid": "452ee1d9783e49f2a480fca806014b91",
+   "nombre": "mq8_bebe_rig",
+   "titulo": "Baby",
+   "autor": "darksoundlab",
    "licencia": "CC Attribution"
   },
   {
-   "uid": "936d4110b39945f5a46cb2d831ece920",
-   "nombre": "mq8_tiburon_mordida",
-   "titulo": "Great White Shark Attack Bite Animation Loop",
-   "autor": "?",
+   "uid": "f78e6c976e8847f0a574c69d3d0ed256",
+   "nombre": "mq8_bebe_baile",
+   "titulo": "Dancing Baby Model (v2)",
+   "autor": "Punkinob",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "e4f107a6d87b424fb165aba9a53d0665",
+   "nombre": "mq8_tiburon_mehrus",
+   "titulo": "Great White Shark",
+   "autor": "Mehrus",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "69d7911ee12f44889c6ae9c9c2a99ba0",
+   "nombre": "mq8_tiburon_mehrus2",
+   "titulo": "Great White Shark",
+   "autor": "Mehrus",
    "licencia": "CC Attribution"
   }
  ]
