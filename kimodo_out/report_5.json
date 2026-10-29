@@ -1,10 +1,10 @@
 {
- "total_seconds": 164.7,
+ "total_seconds": 309.2,
  "jobs": [
   {
-   "name": "cs03_observar_anotar_b",
+   "name": "en01_inyectar_cuello_b",
    "response": "OK\t150\t30",
-   "seconds": 164.6,
+   "seconds": 309.2,
    "frames": 150
   }
  ]
