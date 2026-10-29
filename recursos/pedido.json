@@ -1,35 +1,177 @@
 {
  "catalogo": false,
- "informe": "informe_transc_mosquito.json",
- "transcribir": [
+ "informe": "informe_mq_busqueda4.json",
+ "polyhaven": [
   {
-   "archivo": "recursos/entrada/mosquito_voz.wav",
-   "salida": "transcripcion_mosquito.json",
-   "modelo": "small",
-   "idioma": "es"
+   "id": "pond",
+   "res": "2k"
+  },
+  {
+   "id": "lakeside_sunrise",
+   "res": "2k"
+  },
+  {
+   "id": "rocky_ridge_puresky",
+   "res": "2k"
+  },
+  {
+   "id": "snowy_hillside",
+   "res": "2k"
+  },
+  {
+   "id": "qwantani_morning_puresky",
+   "res": "2k"
+  },
+  {
+   "id": "kloofendal_48d_partly_cloudy_puresky",
+   "res": "2k"
+  },
+  {
+   "id": "leafy_grass",
+   "res": "2k"
+  },
+  {
+   "id": "withered_grass",
+   "res": "2k"
+  },
+  {
+   "id": "sparse_grass",
+   "res": "2k"
+  },
+  {
+   "id": "lichen_rock",
+   "res": "2k"
+  },
+  {
+   "id": "snow_02",
+   "res": "2k"
+  },
+  {
+   "id": "brown_mud",
+   "res": "2k"
+  },
+  {
+   "id": "forest_floor",
+   "res": "2k"
+  },
+  {
+   "id": "rough_linen",
+   "res": "2k"
+  },
+  {
+   "id": "cotton_jersey",
+   "res": "2k"
+  },
+  {
+   "id": "laminate_floor",
+   "res": "2k"
+  },
+  {
+   "id": "mossy_rock",
+   "res": "2k"
+  },
+  {
+   "id": "aerial_grass_rock",
+   "res": "2k"
+  },
+  {
+   "id": "grass_medium_02",
+   "res": "1k"
+  },
+  {
+   "id": "rock_moss_set_02",
+   "res": "1k"
+  },
+  {
+   "id": "shrub_01",
+   "res": "1k"
+  },
+  {
+   "id": "shrub_02",
+   "res": "1k"
+  },
+  {
+   "id": "fern_02",
+   "res": "1k"
   }
  ],
- "objaverse": [
+ "sketchfab_buscar": [
   {
-   "uid": "c601cb15bf794fcc920ddd3b24342dfb",
-   "nombre": "mq3_lupa_10",
-   "titulo": "Realistic Magnifying Glass",
-   "autor": "rikugo.studio",
-   "licencia": "CC Attribution"
+   "clave": "mq4_junco",
+   "q": "reeds",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 36
   },
   {
-   "uid": "673789ee204a4dcb9881124d9284932e",
-   "nombre": "mq3_lupa_16",
-   "titulo": "Magnifying glass",
-   "autor": "paraside",
-   "licencia": "CC Attribution"
+   "clave": "mq4_totora",
+   "q": "bulrush",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 36
   },
   {
-   "uid": "29451febdc894682a36a5112fd13f054",
-   "nombre": "mq3_cuna_1",
-   "titulo": "Cotbed",
-   "autor": "roatti",
-   "licencia": "CC Attribution"
+   "clave": "mq4_enea",
+   "q": "typha",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 36
+  },
+  {
+   "clave": "mq4_pasto_alto",
+   "q": "tall grass",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 36
+  },
+  {
+   "clave": "mq4_mosquitero",
+   "q": "bed net",
+   "animado": false,
+   "paginas": 4,
+   "solo_objaverse": true,
+   "max": 36
+  }
+ ],
+ "freesound_buscar": [
+  {
+   "clave": "mq4_zumbido_oreja",
+   "q": "mosquito buzzing close",
+   "max": 8
+  },
+  {
+   "clave": "mq4_lengua_rana",
+   "q": "sticky tongue",
+   "max": 8
+  },
+  {
+   "clave": "mq4_pastilla",
+   "q": "pill drop",
+   "max": 8
+  },
+  {
+   "clave": "mq4_chocolate",
+   "q": "chocolate bar snap",
+   "max": 8
+  },
+  {
+   "clave": "mq4_sabanas",
+   "q": "sheets rustle bed",
+   "max": 8
+  },
+  {
+   "clave": "mq4_burbujas",
+   "q": "underwater bubbles",
+   "max": 8
+  },
+  {
+   "clave": "mq4_viento_fuerte",
+   "q": "howling wind",
+   "max": 8
   }
  ]
 }
