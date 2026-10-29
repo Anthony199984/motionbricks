@@ -1,11 +1,11 @@
 {
- "total_seconds": 285.9,
+ "total_seconds": 177.5,
  "jobs": [
   {
-   "name": "ch12_triste_encorvado_b",
-   "response": "OK\t180\t30",
-   "seconds": 285.7,
-   "frames": 180
+   "name": "g10v2_2b",
+   "response": "OK\t105\t30",
+   "seconds": 177.5,
+   "frames": 105
   }
  ]
 }
