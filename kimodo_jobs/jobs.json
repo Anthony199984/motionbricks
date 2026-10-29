@@ -1,86 +1,44 @@
 [
  {
-  "name": "mq01_sentado_rascar_a",
+  "name": "mq14_sentado_chocolate_a",
   "frames": 150,
-  "seed": 5101,
-  "prompt": "A person sitting on a chair scratches their left forearm repeatedly with the fingers of the right hand."
+  "seed": 6101,
+  "prompt": "A seated person brings a bar to the mouth with the right hand, bites it and chews happily."
  },
  {
-  "name": "mq01_sentado_rascar_b",
+  "name": "mq14_sentado_chocolate_b",
   "frames": 150,
-  "seed": 5201,
-  "prompt": "A seated person keeps scratching the left forearm with the right hand, annoyed."
+  "seed": 6201,
+  "prompt": "A person sitting at a table takes a bite of a snack held in the right hand and smiles while chewing."
  },
  {
-  "name": "mq02_sentado_palmada_a",
-  "frames": 120,
-  "seed": 5102,
-  "prompt": "A seated person suddenly slaps their own left forearm with the right hand, then looks at the right palm."
+  "name": "mq15_agachado_tirar_a",
+  "frames": 150,
+  "seed": 6102,
+  "prompt": "A crouching person looks at a small object in the left hand, then tosses it away over the shoulder."
  },
  {
-  "name": "mq03_sentado_mirar_brazo_a",
-  "frames": 120,
-  "seed": 5103,
-  "prompt": "A seated person lifts the left forearm and looks at it closely, puzzled."
+  "name": "mq15_agachado_tirar_b",
+  "frames": 150,
+  "seed": 6202,
+  "prompt": "A person squatting down throws something away with the left hand and smiles."
  },
  {
-  "name": "mq04_dormir_a",
+  "name": "mq16_dormido_manotazo_a",
+  "frames": 150,
+  "seed": 6103,
+  "prompt": "A person lying on their back asleep swats near their ear with one hand, then lies still again."
+ },
+ {
+  "name": "mq16_dormido_manotazo_b",
+  "frames": 150,
+  "seed": 6203,
+  "prompt": "A sleeping person lying down waves a hand next to the head, annoyed, then relaxes."
+ },
+ {
+  "name": "mq17_agachado_lupa_a",
   "frames": 180,
-  "seed": 5104,
-  "prompt": "A person lies on their back sleeping peacefully, breathing slowly."
- },
- {
-  "name": "mq04_dormir_b",
-  "frames": 180,
-  "seed": 5204,
-  "prompt": "A person is lying down on the back, asleep and still, chest rising slowly."
- },
- {
-  "name": "mq05_despertar_estirarse_a",
-  "frames": 150,
-  "seed": 5105,
-  "prompt": "A person lying on their back wakes up and stretches both arms above the head."
- },
- {
-  "name": "mq06_acariciar_perro_a",
-  "frames": 180,
-  "seed": 5106,
-  "prompt": "A person crouches down and pets a dog's head with the right hand."
- },
- {
-  "name": "mq06_acariciar_perro_b",
-  "frames": 180,
-  "seed": 5206,
-  "prompt": "A person kneels down and gently strokes something in front of them with the right hand."
- },
- {
-  "name": "mq08_espantar_nube_a",
-  "frames": 150,
-  "seed": 5108,
-  "prompt": "A person frantically swats around their head and face with both hands, as if attacked by a swarm of insects."
- },
- {
-  "name": "mq08_espantar_nube_b",
-  "frames": 150,
-  "seed": 5208,
-  "prompt": "A person waves both arms wildly around the head, swatting at bugs."
- },
- {
-  "name": "mq09_correr_cuesta_a",
-  "frames": 120,
-  "seed": 5109,
-  "prompt": "A person runs uphill fast, leaning forward."
- },
- {
-  "name": "mq10_comer_chocolate_a",
-  "frames": 150,
-  "seed": 5110,
-  "prompt": "A standing person brings a bar to the mouth with the right hand, takes a bite and chews happily."
- },
- {
-  "name": "mq13_sentado_cafe_a",
-  "frames": 150,
-  "seed": 5113,
-  "prompt": "A seated person lifts a cup with the right hand, takes a sip and puts it down."
+  "seed": 6104,
+  "prompt": "A crouching person holds a magnifying glass with the right hand and looks closely at the ground, moving it slowly."
  }
 ]
