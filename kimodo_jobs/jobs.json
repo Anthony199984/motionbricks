@@ -1,38 +1,38 @@
 [
  {
-  "name": "mq30_hincado_acariciar_a",
+  "name": "mq33_flotar_defender_a",
   "frames": 150,
-  "seed": 8101,
-  "prompt": "A person kneels on one knee and gently pets a dog in front of them with the right hand."
+  "seed": 8301,
+  "prompt": "A person treading water in deep water, panicking, kicking the legs and raising both hands in front of the face to defend against an attack."
  },
  {
-  "name": "mq30_hincado_acariciar_b",
+  "name": "mq33_flotar_defender_b",
   "frames": 150,
-  "seed": 8201,
-  "prompt": "A person kneels on one knee and gently pets a dog in front of them with the right hand."
+  "seed": 8401,
+  "prompt": "A person treading water in deep water, panicking, kicking the legs and raising both hands in front of the face to defend against an attack."
  },
  {
-  "name": "mq31_hincado_acariciar_c",
+  "name": "mq34_susto_manos_a",
   "frames": 150,
-  "seed": 8102,
-  "prompt": "A person kneeling on one knee strokes the back of a dog slowly with the right hand, smiling."
+  "seed": 8302,
+  "prompt": "A terrified person leans back and pushes both open hands forward in front of the face, as if a huge animal is about to bite them."
  },
  {
-  "name": "mq31_hincado_acariciar_d",
+  "name": "mq34_susto_manos_b",
   "frames": 150,
-  "seed": 8202,
-  "prompt": "A person kneeling on one knee strokes the back of a dog slowly with the right hand, smiling."
+  "seed": 8402,
+  "prompt": "A terrified person leans back and pushes both open hands forward in front of the face, as if a huge animal is about to bite them."
  },
  {
-  "name": "mq32_agacharse_acariciar_a",
+  "name": "mq35_morder_barra_a",
   "frames": 150,
-  "seed": 8103,
-  "prompt": "A person crouches down next to a dog and pets its head and back with the right hand."
+  "seed": 8303,
+  "prompt": "A person holds a chocolate bar in the right hand, brings the end of the bar straight to the mouth, takes a bite and chews happily."
  },
  {
-  "name": "mq32_agacharse_acariciar_b",
+  "name": "mq35_morder_barra_b",
   "frames": 150,
-  "seed": 8203,
-  "prompt": "A person crouches down next to a dog and pets its head and back with the right hand."
+  "seed": 8403,
+  "prompt": "A person holds a chocolate bar in the right hand, brings the end of the bar straight to the mouth, takes a bite and chews happily."
  }
 ]
