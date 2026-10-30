@@ -1,11 +1,11 @@
 {
- "total_seconds": 149.6,
+ "total_seconds": 263.1,
  "jobs": [
   {
-   "name": "ek11_senalar_piso_reir_a",
-   "response": "OK\t150\t30",
-   "seconds": 149.5,
-   "frames": 150
+   "name": "ek22_tocar_codo_a",
+   "response": "OK\t120\t30",
+   "seconds": 263.0,
+   "frames": 120
   }
  ]
 }
