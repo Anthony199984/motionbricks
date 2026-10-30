@@ -1,11 +1,11 @@
 {
- "total_seconds": 238.1,
+ "total_seconds": 203.4,
  "jobs": [
   {
-   "name": "mq06_acariciar_perro_b",
-   "response": "OK\t180\t30",
-   "seconds": 238.0,
-   "frames": 180
+   "name": "ek28_correr_saltar_a",
+   "response": "OK\t120\t30",
+   "seconds": 203.3,
+   "frames": 120
   }
  ]
 }
