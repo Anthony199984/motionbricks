@@ -1,11 +1,11 @@
 {
- "total_seconds": 148.2,
+ "total_seconds": 307.0,
  "jobs": [
   {
-   "name": "ek22_tocar_codo_b",
-   "response": "OK\t90\t30",
-   "seconds": 148.1,
-   "frames": 90
+   "name": "ek41_flexiones_a",
+   "response": "OK\t180\t30",
+   "seconds": 306.8,
+   "frames": 180
   }
  ]
 }
