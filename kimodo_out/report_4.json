@@ -1,11 +1,11 @@
 {
- "total_seconds": 151.7,
+ "total_seconds": 289.5,
  "jobs": [
   {
-   "name": "ek26_mostrar_algo_pequeno_b",
-   "response": "OK\t90\t30",
-   "seconds": 151.6,
-   "frames": 90
+   "name": "ek42_baile_gracioso_a",
+   "response": "OK\t180\t30",
+   "seconds": 289.4,
+   "frames": 180
   }
  ]
 }
