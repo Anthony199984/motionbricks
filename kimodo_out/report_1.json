@@ -1,11 +1,11 @@
 {
- "total_seconds": 209.6,
+ "total_seconds": 211.7,
  "jobs": [
   {
-   "name": "ek02_esqueleto_despide_a",
-   "response": "OK\t150\t30",
-   "seconds": 209.5,
-   "frames": 150
+   "name": "ek04_caer_de_lado_b",
+   "response": "OK\t120\t30",
+   "seconds": 211.6,
+   "frames": 120
   }
  ]
 }
