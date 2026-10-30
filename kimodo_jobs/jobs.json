@@ -1,62 +1,50 @@
 [
  {
-  "name": "ek21_jalar_cuerda_caer_b",
+  "name": "ek40_helado_a",
   "frames": 150,
-  "seed": 9600,
-  "prompt": "A person pulls a rope hand over hand with great effort, the rope snaps and they fall backwards onto the ground, sitting."
+  "seed": 9700,
+  "prompt": "A person stands and licks an ice cream cone held in the right hand, enjoying it."
  },
  {
-  "name": "ek21_jalar_cuerda_caer_c",
+  "name": "ek40_helado_b",
   "frames": 150,
-  "seed": 9601,
-  "prompt": "A person tugs hard on a rope, then loses balance and falls down on their back."
+  "seed": 9701,
+  "prompt": "A person happily eats an ice cream cone, holding it with the right hand near the mouth."
  },
  {
-  "name": "ek22_tocar_codo_b",
+  "name": "ek41_flexiones_a",
+  "frames": 180,
+  "seed": 9702,
+  "prompt": "A person drops to the ground and does push-ups quickly."
+ },
+ {
+  "name": "ek41_flexiones_b",
+  "frames": 180,
+  "seed": 9703,
+  "prompt": "A person does push-ups on the floor."
+ },
+ {
+  "name": "ek42_baile_gracioso_a",
+  "frames": 180,
+  "seed": 9704,
+  "prompt": "A person does a silly funny dance, wiggling the hips and waving the arms."
+ },
+ {
+  "name": "ek42_baile_gracioso_b",
+  "frames": 180,
+  "seed": 9705,
+  "prompt": "A person dances the floss dance."
+ },
+ {
+  "name": "ek43_baile_robot_a",
+  "frames": 150,
+  "seed": 9706,
+  "prompt": "A person does a robot dance."
+ },
+ {
+  "name": "ek44_saludo_militar_a",
   "frames": 90,
-  "seed": 9602,
-  "prompt": "A person bends the left arm and taps the left elbow several times with the right index finger."
- },
- {
-  "name": "ek22_tocar_codo_c",
-  "frames": 90,
-  "seed": 9603,
-  "prompt": "A person raises the left elbow and points at it with the right hand."
- },
- {
-  "name": "ek26_mostrar_algo_pequeno_b",
-  "frames": 90,
-  "seed": 9604,
-  "prompt": "A person raises the right hand to eye level, pinching something tiny between the fingers, and looks at it."
- },
- {
-  "name": "ek29_senalarse_b",
-  "frames": 90,
-  "seed": 9605,
-  "prompt": "A person points at their own chest with the right index finger several times."
- },
- {
-  "name": "ek31_encogerse_hombros_a",
-  "frames": 60,
-  "seed": 9606,
-  "prompt": "A person shrugs both shoulders with palms up."
- },
- {
-  "name": "ek31_encogerse_hombros_b",
-  "frames": 60,
-  "seed": 9607,
-  "prompt": "A person shrugs, raising the shoulders and turning the palms up, then lowers them."
- },
- {
-  "name": "ek32_carcajada_a",
-  "frames": 90,
-  "seed": 9608,
-  "prompt": "A person laughs hard, bending forward and slapping their knee."
- },
- {
-  "name": "ek33_senalar_abajo_a",
-  "frames": 90,
-  "seed": 9609,
-  "prompt": "A person points down at the ground with the right hand and laughs."
+  "seed": 9707,
+  "prompt": "A person salutes and then laughs."
  }
 ]
