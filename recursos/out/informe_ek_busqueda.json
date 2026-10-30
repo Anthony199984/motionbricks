@@ -1,0 +1,945 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/ek_ardilla/15eb40daea3044e589f498e1cb768c77.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla/f442c20ca7dd4a988a17a12604556672.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla/76601be4d07840cf96664f2642910e7e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla/2b9320dbc9f749fca4958cc78bd4a07d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla/862153aa6df74587a71c6c3b33c7cf03.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla/3ba7449325b34b0eaaf6ce66cc26a214.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla/0a9e6f9caaa54e8f8302f35ef69e1966.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla/a58334a7d2694de185d4c02d3e8379e9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla/ffcdfa436a474887985528882131a0bb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla/ee6f8e3700494df7b9a73974fd065e4c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla/d6eee8fc869c49a3bf87c23cda9da1ab.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_pato/54a6276ce06c4cc88fd497c8f1b8eb66.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_pato/415584bc3224484fba20a482592e2157.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/4081cd6ccfd044af831a813334b42ffb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/0242fe38361c4bdabadcfddb42eb3325.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/b78442de2bc542ef9393608c40664aa1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/9a13e1cfa6cd4ecb855dbea11877a52b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/8b9086eed6a048f8967044fa92a65c4a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/d1414dcda3224a34ab9879fd2ef6be0b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_pato/46968e0766794022810032819f762555.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_pato/ad1f86104e5d4133a2ac3d99c0bc241f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/1fa3c0b99afe48118b232390c98ec2ca.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/50fd19cae9e346348276691970dbdb5e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_pato/c918a3a7fdd44a21875b13d793c57dd6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/012898daf2ea4a1eb4716c582031e7c6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_pato/f1dacc2627224cbe9ec4bfb57fc5b6cf.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/e7b9137d63814d689feb84d701cf0fde.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/587a3126c032440e887de425c37e095b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/316c4891b78048e6801631cbc7bf9c55.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/a38d3e0ca7ae4ccfb7a90a09211bda76.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/55fa532622724865aa32888e60d785c7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/81dd427b2a584b8387da186676f82a94.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/e25be6a5c3b849daac9be94a979415fc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/85f7e55c67974a3585eeed345fbbd972.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/4eb10d02d46e471d8e00eabebf393690.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/529ea8441fdf435591d81ce5e165a38b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_pato/0a7d1c1ee7674be398e10f4091eb15a2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/38f89db1ace845df824bd72ff12ee10f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/a41a7b63e86541b89a452e537e4b4e00.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/24562b2f121b475182a4a85428311e6f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/b5c9d06f19be4c92a1708515f6655573.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/63690fe3b3044d379ded4e7318e9d0b5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/88b8946fbd2b4152ab381a26a5348298.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/a234226273754e77a893e2d74731c662.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/dfbf954b7d8b4f15b3c1f25e63981f69.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/25a3ba929d924d53b749d577ddb3a0ca.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/9187f71b16d647f0b34fbb1505146416.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/b439b24046064ee19e7e34c5b2bd503e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/1a64898996d8470e8366acd3222496c4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/b2145f9600f342c7923502fdc8038c52.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_pato/1f83b971e0974b84a2f0f41a191408ed.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_perro_corre/18d8fbe184c5448283762893b6ea9752.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_perro_corre/32da3e0b5ee34491b94d5a28332fd93e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_perro_corre/ad4bf01b86fc43ac82565780e40470bf.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_perro_corre/afa5da84a12d40fcbbb68cf66805bc9c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_perro_corre/0a0b504f51a94d95a2d492d3c372ebe5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_perro_corre/5cc0075d0aa645c398c51316236ff156.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_perro_corre/c02ad0532b694890b4f9d15f8350a6a6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_golden/a43ed994cafc43ebae92dad0440c246b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_huesecillos/f80bda64666c4b8aaac8f63b7b82a0a0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_huesecillos/36418178e0cf499694ac21e82ab2e77c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_huesecillos/3f4f63cdc8ae449da5f444eebc5d31e5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_huesecillos/6c43cefab9094417a334b332043c032c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_huesecillos/6259b35c09a74e678b4aaae54af254dd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_huesecillos/6c3d87649a61478d852e67670c77bced.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_huesecillos/8dc7b1607aec4d4eb9a2a68ef38d794e.jpg",
+   "mb": 0.0
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "ek_ardilla": [
+   {
+    "uid": "15eb40daea3044e589f498e1cb768c77",
+    "nombre": "Makeshift 1911",
+    "autor": "csheffield",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 1,
+    "caras": 16086,
+    "url": "https://sketchfab.com/3d-models/none-15eb40daea3044e589f498e1cb768c77",
+    "miniatura": "miniaturas/ek_ardilla/15eb40daea3044e589f498e1cb768c77.jpg"
+   },
+   {
+    "uid": "f442c20ca7dd4a988a17a12604556672",
+    "nombre": "Squirrel",
+    "autor": "Kovonic",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 4136,
+    "url": "https://sketchfab.com/3d-models/none-f442c20ca7dd4a988a17a12604556672",
+    "miniatura": "miniaturas/ek_ardilla/f442c20ca7dd4a988a17a12604556672.jpg"
+   },
+   {
+    "uid": "76601be4d07840cf96664f2642910e7e",
+    "nombre": "Sandy Cheeks",
+    "autor": "YuriMayori",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 2,
+    "caras": 40223,
+    "url": "https://sketchfab.com/3d-models/none-76601be4d07840cf96664f2642910e7e",
+    "miniatura": "miniaturas/ek_ardilla/76601be4d07840cf96664f2642910e7e.jpg"
+   },
+   {
+    "uid": "2b9320dbc9f749fca4958cc78bd4a07d",
+    "nombre": "SCRAT ICE AGE",
+    "autor": "BlueMesh",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10442,
+    "url": "https://sketchfab.com/3d-models/none-2b9320dbc9f749fca4958cc78bd4a07d",
+    "miniatura": "miniaturas/ek_ardilla/2b9320dbc9f749fca4958cc78bd4a07d.jpg"
+   },
+   {
+    "uid": "862153aa6df74587a71c6c3b33c7cf03",
+    "nombre": "Cartoon squirrel monkey",
+    "autor": "saltoc",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3794,
+    "url": "https://sketchfab.com/3d-models/none-862153aa6df74587a71c6c3b33c7cf03",
+    "miniatura": "miniaturas/ek_ardilla/862153aa6df74587a71c6c3b33c7cf03.jpg"
+   },
+   {
+    "uid": "3ba7449325b34b0eaaf6ce66cc26a214",
+    "nombre": "Ardilla presumida",
+    "autor": "nanorage",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1101,
+    "url": "https://sketchfab.com/3d-models/none-3ba7449325b34b0eaaf6ce66cc26a214",
+    "miniatura": "miniaturas/ek_ardilla/3ba7449325b34b0eaaf6ce66cc26a214.jpg"
+   },
+   {
+    "uid": "0a9e6f9caaa54e8f8302f35ef69e1966",
+    "nombre": "Squirrel",
+    "autor": "graunder",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4994,
+    "url": "https://sketchfab.com/3d-models/none-0a9e6f9caaa54e8f8302f35ef69e1966",
+    "miniatura": "miniaturas/ek_ardilla/0a9e6f9caaa54e8f8302f35ef69e1966.jpg"
+   },
+   {
+    "uid": "a58334a7d2694de185d4c02d3e8379e9",
+    "nombre": "Ardilla Sexy",
+    "autor": "nanorage",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1045,
+    "url": "https://sketchfab.com/3d-models/none-a58334a7d2694de185d4c02d3e8379e9",
+    "miniatura": "miniaturas/ek_ardilla/a58334a7d2694de185d4c02d3e8379e9.jpg"
+   },
+   {
+    "uid": "ffcdfa436a474887985528882131a0bb",
+    "nombre": "Fofordi",
+    "autor": "nanorage",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 989,
+    "url": "https://sketchfab.com/3d-models/none-ffcdfa436a474887985528882131a0bb",
+    "miniatura": "miniaturas/ek_ardilla/ffcdfa436a474887985528882131a0bb.jpg"
+   },
+   {
+    "uid": "ee6f8e3700494df7b9a73974fd065e4c",
+    "nombre": "Llerri el prota",
+    "autor": "nanorage",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 997,
+    "url": "https://sketchfab.com/3d-models/none-ee6f8e3700494df7b9a73974fd065e4c",
+    "miniatura": "miniaturas/ek_ardilla/ee6f8e3700494df7b9a73974fd065e4c.jpg"
+   },
+   {
+    "uid": "d6eee8fc869c49a3bf87c23cda9da1ab",
+    "nombre": "Ardilla Alcalde",
+    "autor": "nanorage",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1469,
+    "url": "https://sketchfab.com/3d-models/none-d6eee8fc869c49a3bf87c23cda9da1ab",
+    "miniatura": "miniaturas/ek_ardilla/d6eee8fc869c49a3bf87c23cda9da1ab.jpg"
+   }
+  ],
+  "ek_ardilla_rig": [],
+  "ek_pato": [
+   {
+    "uid": "54a6276ce06c4cc88fd497c8f1b8eb66",
+    "nombre": "Shuba Duck",
+    "autor": "LironHero",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 27710,
+    "url": "https://sketchfab.com/3d-models/none-54a6276ce06c4cc88fd497c8f1b8eb66",
+    "miniatura": "miniaturas/ek_pato/54a6276ce06c4cc88fd497c8f1b8eb66.jpg"
+   },
+   {
+    "uid": "415584bc3224484fba20a482592e2157",
+    "nombre": "Duck_Walk (Free)",
+    "autor": "Nyilonelycompany",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 20828,
+    "url": "https://sketchfab.com/3d-models/none-415584bc3224484fba20a482592e2157",
+    "miniatura": "miniaturas/ek_pato/415584bc3224484fba20a482592e2157.jpg"
+   },
+   {
+    "uid": "4081cd6ccfd044af831a813334b42ffb",
+    "nombre": "Duck follows Attitude",
+    "autor": "SuperMam",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1224420,
+    "url": "https://sketchfab.com/3d-models/none-4081cd6ccfd044af831a813334b42ffb",
+    "miniatura": "miniaturas/ek_pato/4081cd6ccfd044af831a813334b42ffb.jpg"
+   },
+   {
+    "uid": "0242fe38361c4bdabadcfddb42eb3325",
+    "nombre": "Lowpoly Duck (animated)",
+    "autor": "wisdom3D",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 652,
+    "url": "https://sketchfab.com/3d-models/none-0242fe38361c4bdabadcfddb42eb3325",
+    "miniatura": "miniaturas/ek_pato/0242fe38361c4bdabadcfddb42eb3325.jpg"
+   },
+   {
+    "uid": "b78442de2bc542ef9393608c40664aa1",
+    "nombre": "Duck",
+    "autor": "kitsuneko_3d",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 472,
+    "url": "https://sketchfab.com/3d-models/none-b78442de2bc542ef9393608c40664aa1",
+    "miniatura": "miniaturas/ek_pato/b78442de2bc542ef9393608c40664aa1.jpg"
+   },
+   {
+    "uid": "9a13e1cfa6cd4ecb855dbea11877a52b",
+    "nombre": "Duck Quick Quack animated",
+    "autor": "pepetrincado",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 29908,
+    "url": "https://sketchfab.com/3d-models/none-9a13e1cfa6cd4ecb855dbea11877a52b",
+    "miniatura": "miniaturas/ek_pato/9a13e1cfa6cd4ecb855dbea11877a52b.jpg"
+   },
+   {
+    "uid": "8b9086eed6a048f8967044fa92a65c4a",
+    "nombre": "Barber's scissors",
+    "autor": "ABSTRACT_DUCK",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6728,
+    "url": "https://sketchfab.com/3d-models/none-8b9086eed6a048f8967044fa92a65c4a",
+    "miniatura": "miniaturas/ek_pato/8b9086eed6a048f8967044fa92a65c4a.jpg"
+   },
+   {
+    "uid": "d1414dcda3224a34ab9879fd2ef6be0b",
+    "nombre": "UberPionier",
+    "autor": "ABSTRACT_DUCK",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 107400,
+    "url": "https://sketchfab.com/3d-models/none-d1414dcda3224a34ab9879fd2ef6be0b",
+    "miniatura": "miniaturas/ek_pato/d1414dcda3224a34ab9879fd2ef6be0b.jpg"
+   },
+   {
+    "uid": "46968e0766794022810032819f762555",
+    "nombre": "#StudyGirlChallenge Entry",
+    "autor": "Friendl-e-Duck",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 2304,
+    "url": "https://sketchfab.com/3d-models/none-46968e0766794022810032819f762555",
+    "miniatura": "miniaturas/ek_pato/46968e0766794022810032819f762555.jpg"
+   },
+   {
+    "uid": "ad1f86104e5d4133a2ac3d99c0bc241f",
+    "nombre": "[Download] Low Poly Giraffe",
+    "autor": "Friendl-e-Duck",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 508,
+    "url": "https://sketchfab.com/3d-models/none-ad1f86104e5d4133a2ac3d99c0bc241f",
+    "miniatura": "miniaturas/ek_pato/ad1f86104e5d4133a2ac3d99c0bc241f.jpg"
+   },
+   {
+    "uid": "1fa3c0b99afe48118b232390c98ec2ca",
+    "nombre": "Dark Deception: Dread Ducky",
+    "autor": "GreekLearn",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 7603,
+    "url": "https://sketchfab.com/3d-models/none-1fa3c0b99afe48118b232390c98ec2ca",
+    "miniatura": "miniaturas/ek_pato/1fa3c0b99afe48118b232390c98ec2ca.jpg"
+   },
+   {
+    "uid": "50fd19cae9e346348276691970dbdb5e",
+    "nombre": "Conwing L-16 / Sea Duck / Tale Spin",
+    "autor": "UlissesVinicios",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4896,
+    "url": "https://sketchfab.com/3d-models/none-50fd19cae9e346348276691970dbdb5e",
+    "miniatura": "miniaturas/ek_pato/50fd19cae9e346348276691970dbdb5e.jpg"
+   },
+   {
+    "uid": "c918a3a7fdd44a21875b13d793c57dd6",
+    "nombre": "3D Chrome Dino Duck-Walking",
+    "autor": "MayMax",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1156,
+    "url": "https://sketchfab.com/3d-models/none-c918a3a7fdd44a21875b13d793c57dd6",
+    "miniatura": "miniaturas/ek_pato/c918a3a7fdd44a21875b13d793c57dd6.jpg"
+   },
+   {
+    "uid": "012898daf2ea4a1eb4716c582031e7c6",
+    "nombre": "GiRL",
+    "autor": "imitate",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 16188,
+    "url": "https://sketchfab.com/3d-models/none-012898daf2ea4a1eb4716c582031e7c6",
+    "miniatura": "miniaturas/ek_pato/012898daf2ea4a1eb4716c582031e7c6.jpg"
+   },
+   {
+    "uid": "f1dacc2627224cbe9ec4bfb57fc5b6cf",
+    "nombre": "MailBox Phone!",
+    "autor": "cuadot",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 85712,
+    "url": "https://sketchfab.com/3d-models/none-f1dacc2627224cbe9ec4bfb57fc5b6cf",
+    "miniatura": "miniaturas/ek_pato/f1dacc2627224cbe9ec4bfb57fc5b6cf.jpg"
+   },
+   {
+    "uid": "e7b9137d63814d689feb84d701cf0fde",
+    "nombre": "Dancing Goose",
+    "autor": "miimosa",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 716,
+    "url": "https://sketchfab.com/3d-models/none-e7b9137d63814d689feb84d701cf0fde",
+    "miniatura": "miniaturas/ek_pato/e7b9137d63814d689feb84d701cf0fde.jpg"
+   },
+   {
+    "uid": "587a3126c032440e887de425c37e095b",
+    "nombre": "Baby Elephant",
+    "autor": "Marco_Kueng",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 13490,
+    "url": "https://sketchfab.com/3d-models/none-587a3126c032440e887de425c37e095b",
+    "miniatura": "miniaturas/ek_pato/587a3126c032440e887de425c37e095b.jpg"
+   },
+   {
+    "uid": "316c4891b78048e6801631cbc7bf9c55",
+    "nombre": "Dancing Swan",
+    "autor": "miimosa",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 768,
+    "url": "https://sketchfab.com/3d-models/none-316c4891b78048e6801631cbc7bf9c55",
+    "miniatura": "miniaturas/ek_pato/316c4891b78048e6801631cbc7bf9c55.jpg"
+   },
+   {
+    "uid": "a38d3e0ca7ae4ccfb7a90a09211bda76",
+    "nombre": "Duck Float Test",
+    "autor": "DanDare",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 137152,
+    "url": "https://sketchfab.com/3d-models/none-a38d3e0ca7ae4ccfb7a90a09211bda76",
+    "miniatura": "miniaturas/ek_pato/a38d3e0ca7ae4ccfb7a90a09211bda76.jpg"
+   },
+   {
+    "uid": "55fa532622724865aa32888e60d785c7",
+    "nombre": "Duck_and_Cat.",
+    "autor": "kazukisakamoto",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3877,
+    "url": "https://sketchfab.com/3d-models/none-55fa532622724865aa32888e60d785c7",
+    "miniatura": "miniaturas/ek_pato/55fa532622724865aa32888e60d785c7.jpg"
+   },
+   {
+    "uid": "81dd427b2a584b8387da186676f82a94",
+    "nombre": "Duck Non-commercial  Duckduckgo.com OFFICIAL",
+    "autor": "hephaestusbasketballgreece",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 19315,
+    "url": "https://sketchfab.com/3d-models/none-81dd427b2a584b8387da186676f82a94",
+    "miniatura": "miniaturas/ek_pato/81dd427b2a584b8387da186676f82a94.jpg"
+   },
+   {
+    "uid": "e25be6a5c3b849daac9be94a979415fc",
+    "nombre": "QUACK ANIMATED",
+    "autor": "yolteotl_art",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 111672,
+    "url": "https://sketchfab.com/3d-models/none-e25be6a5c3b849daac9be94a979415fc",
+    "miniatura": "miniaturas/ek_pato/e25be6a5c3b849daac9be94a979415fc.jpg"
+   },
+   {
+    "uid": "85f7e55c67974a3585eeed345fbbd972",
+    "nombre": "Balisong",
+    "autor": "ABSTRACT_DUCK",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 2738,
+    "url": "https://sketchfab.com/3d-models/none-85f7e55c67974a3585eeed345fbbd972",
+    "miniatura": "miniaturas/ek_pato/85f7e55c67974a3585eeed345fbbd972.jpg"
+   },
+   {
+    "uid": "4eb10d02d46e471d8e00eabebf393690",
+    "nombre": "Charging handle mod",
+    "autor": "ABSTRACT_DUCK",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 27270,
+    "url": "https://sketchfab.com/3d-models/none-4eb10d02d46e471d8e00eabebf393690",
+    "miniatura": "miniaturas/ek_pato/4eb10d02d46e471d8e00eabebf393690.jpg"
+   },
+   {
+    "uid": "529ea8441fdf435591d81ce5e165a38b",
+    "nombre": "Quack Quack",
+    "autor": "dartuchiwa",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 297944,
+    "url": "https://sketchfab.com/3d-models/none-529ea8441fdf435591d81ce5e165a38b",
+    "miniatura": "miniaturas/ek_pato/529ea8441fdf435591d81ce5e165a38b.jpg"
+   },
+   {
+    "uid": "0a7d1c1ee7674be398e10f4091eb15a2",
+    "nombre": "Duck eye",
+    "autor": "daxnorman",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 1,
+    "caras": 2440,
+    "url": "https://sketchfab.com/3d-models/none-0a7d1c1ee7674be398e10f4091eb15a2",
+    "miniatura": "miniaturas/ek_pato/0a7d1c1ee7674be398e10f4091eb15a2.jpg"
+   },
+   {
+    "uid": "38f89db1ace845df824bd72ff12ee10f",
+    "nombre": "Animated Duck",
+    "autor": "futurexyz",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 14122,
+    "url": "https://sketchfab.com/3d-models/none-38f89db1ace845df824bd72ff12ee10f",
+    "miniatura": "miniaturas/ek_pato/38f89db1ace845df824bd72ff12ee10f.jpg"
+   },
+   {
+    "uid": "a41a7b63e86541b89a452e537e4b4e00",
+    "nombre": "Hubs Duck",
+    "autor": "sagefreeman",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 476,
+    "url": "https://sketchfab.com/3d-models/none-a41a7b63e86541b89a452e537e4b4e00",
+    "miniatura": "miniaturas/ek_pato/a41a7b63e86541b89a452e537e4b4e00.jpg"
+   },
+   {
+    "uid": "24562b2f121b475182a4a85428311e6f",
+    "nombre": "Pato Pocoyó",
+    "autor": "MariaDvi",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 784,
+    "url": "https://sketchfab.com/3d-models/none-24562b2f121b475182a4a85428311e6f",
+    "miniatura": "miniaturas/ek_pato/24562b2f121b475182a4a85428311e6f.jpg"
+   },
+   {
+    "uid": "b5c9d06f19be4c92a1708515f6655573",
+    "nombre": "Ducky baked FIXED textures.c4d",
+    "autor": "Daniel.Tocik",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 15486,
+    "url": "https://sketchfab.com/3d-models/none-b5c9d06f19be4c92a1708515f6655573",
+    "miniatura": "miniaturas/ek_pato/b5c9d06f19be4c92a1708515f6655573.jpg"
+   },
+   {
+    "uid": "63690fe3b3044d379ded4e7318e9d0b5",
+    "nombre": "Duck (Coin) 🦆",
+    "autor": "RomualdDubois",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1480,
+    "url": "https://sketchfab.com/3d-models/none-63690fe3b3044d379ded4e7318e9d0b5",
+    "miniatura": "miniaturas/ek_pato/63690fe3b3044d379ded4e7318e9d0b5.jpg"
+   },
+   {
+    "uid": "88b8946fbd2b4152ab381a26a5348298",
+    "nombre": "The moment millions ducked",
+    "autor": "jbabs",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 14888,
+    "url": "https://sketchfab.com/3d-models/none-88b8946fbd2b4152ab381a26a5348298",
+    "miniatura": "miniaturas/ek_pato/88b8946fbd2b4152ab381a26a5348298.jpg"
+   },
+   {
+    "uid": "a234226273754e77a893e2d74731c662",
+    "nombre": "Fox Wild Duck",
+    "autor": "Guguneto",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 526192,
+    "url": "https://sketchfab.com/3d-models/none-a234226273754e77a893e2d74731c662",
+    "miniatura": "miniaturas/ek_pato/a234226273754e77a893e2d74731c662.jpg"
+   },
+   {
+    "uid": "dfbf954b7d8b4f15b3c1f25e63981f69",
+    "nombre": "Duck animation",
+    "autor": "tomkranis",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 2242,
+    "url": "https://sketchfab.com/3d-models/none-dfbf954b7d8b4f15b3c1f25e63981f69",
+    "miniatura": "miniaturas/ek_pato/dfbf954b7d8b4f15b3c1f25e63981f69.jpg"
+   },
+   {
+    "uid": "25a3ba929d924d53b749d577ddb3a0ca",
+    "nombre": "DC360 – Ducky Duvara Dayalı Klozet",
+    "autor": "creavit",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1681981,
+    "url": "https://sketchfab.com/3d-models/none-25a3ba929d924d53b749d577ddb3a0ca",
+    "miniatura": "miniaturas/ek_pato/25a3ba929d924d53b749d577ddb3a0ca.jpg"
+   },
+   {
+    "uid": "9187f71b16d647f0b34fbb1505146416",
+    "nombre": "Cybernetic Duck",
+    "autor": "tlogrady",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 2246,
+    "url": "https://sketchfab.com/3d-models/none-9187f71b16d647f0b34fbb1505146416",
+    "miniatura": "miniaturas/ek_pato/9187f71b16d647f0b34fbb1505146416.jpg"
+   },
+   {
+    "uid": "b439b24046064ee19e7e34c5b2bd503e",
+    "nombre": "Duck Boi",
+    "autor": "scriver",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4196,
+    "url": "https://sketchfab.com/3d-models/none-b439b24046064ee19e7e34c5b2bd503e",
+    "miniatura": "miniaturas/ek_pato/b439b24046064ee19e7e34c5b2bd503e.jpg"
+   },
+   {
+    "uid": "1a64898996d8470e8366acd3222496c4",
+    "nombre": "28_ Duck from Duck Hunt Flying",
+    "autor": "acharlie2019",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 830,
+    "url": "https://sketchfab.com/3d-models/none-1a64898996d8470e8366acd3222496c4",
+    "miniatura": "miniaturas/ek_pato/1a64898996d8470e8366acd3222496c4.jpg"
+   },
+   {
+    "uid": "b2145f9600f342c7923502fdc8038c52",
+    "nombre": "27_ Dog from Duck Hunt Crawling",
+    "autor": "acharlie2019",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 944,
+    "url": "https://sketchfab.com/3d-models/none-b2145f9600f342c7923502fdc8038c52",
+    "miniatura": "miniaturas/ek_pato/b2145f9600f342c7923502fdc8038c52.jpg"
+   },
+   {
+    "uid": "1f83b971e0974b84a2f0f41a191408ed",
+    "nombre": "YamaPosedContrapposto",
+    "autor": "DesleyDesigns",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 27160,
+    "url": "https://sketchfab.com/3d-models/none-1f83b971e0974b84a2f0f41a191408ed",
+    "miniatura": "miniaturas/ek_pato/1f83b971e0974b84a2f0f41a191408ed.jpg"
+   }
+  ],
+  "ek_perro_corre": [
+   {
+    "uid": "18d8fbe184c5448283762893b6ea9752",
+    "nombre": "Stylized Low Poly German Shepherd",
+    "autor": "DreamNoms",
+    "licencia": "CC Attribution",
+    "animaciones": 13,
+    "caras": 852,
+    "url": "https://sketchfab.com/3d-models/none-18d8fbe184c5448283762893b6ea9752",
+    "miniatura": "miniaturas/ek_perro_corre/18d8fbe184c5448283762893b6ea9752.jpg"
+   },
+   {
+    "uid": "32da3e0b5ee34491b94d5a28332fd93e",
+    "nombre": "dog run cycle test",
+    "autor": "eliut",
+    "licencia": "CC Attribution",
+    "animaciones": 9,
+    "caras": 81606,
+    "url": "https://sketchfab.com/3d-models/none-32da3e0b5ee34491b94d5a28332fd93e",
+    "miniatura": "miniaturas/ek_perro_corre/32da3e0b5ee34491b94d5a28332fd93e.jpg"
+   },
+   {
+    "uid": "ad4bf01b86fc43ac82565780e40470bf",
+    "nombre": "Shibu doggy Character",
+    "autor": "LizzyKoopa",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 102222,
+    "url": "https://sketchfab.com/3d-models/none-ad4bf01b86fc43ac82565780e40470bf",
+    "miniatura": "miniaturas/ek_perro_corre/ad4bf01b86fc43ac82565780e40470bf.jpg"
+   },
+   {
+    "uid": "afa5da84a12d40fcbbb68cf66805bc9c",
+    "nombre": "IN THE CORNER Rough Draft",
+    "autor": "LizzyKoopa",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 24352,
+    "url": "https://sketchfab.com/3d-models/none-afa5da84a12d40fcbbb68cf66805bc9c",
+    "miniatura": "miniaturas/ek_perro_corre/afa5da84a12d40fcbbb68cf66805bc9c.jpg"
+   },
+   {
+    "uid": "0a0b504f51a94d95a2d492d3c372ebe5",
+    "nombre": "Puppy Border Collie Poly Art",
+    "autor": "Jack.LaLonde",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 1218,
+    "url": "https://sketchfab.com/3d-models/none-0a0b504f51a94d95a2d492d3c372ebe5",
+    "miniatura": "miniaturas/ek_perro_corre/0a0b504f51a94d95a2d492d3c372ebe5.jpg"
+   },
+   {
+    "uid": "5cc0075d0aa645c398c51316236ff156",
+    "nombre": "Dog corgi animated",
+    "autor": "zinaida",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 6224,
+    "url": "https://sketchfab.com/3d-models/none-5cc0075d0aa645c398c51316236ff156",
+    "miniatura": "miniaturas/ek_perro_corre/5cc0075d0aa645c398c51316236ff156.jpg"
+   },
+   {
+    "uid": "c02ad0532b694890b4f9d15f8350a6a6",
+    "nombre": "Dog-run-cycle-test",
+    "autor": "FlyingEmperor38",
+    "licencia": "CC Attribution",
+    "animaciones": 9,
+    "caras": 163212,
+    "url": "https://sketchfab.com/3d-models/none-c02ad0532b694890b4f9d15f8350a6a6",
+    "miniatura": "miniaturas/ek_perro_corre/c02ad0532b694890b4f9d15f8350a6a6.jpg"
+   }
+  ],
+  "ek_labrador": [],
+  "ek_golden": [
+   {
+    "uid": "a43ed994cafc43ebae92dad0440c246b",
+    "nombre": "Dog from Lamps",
+    "autor": "Flightyfelon",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6009,
+    "url": "https://sketchfab.com/3d-models/none-a43ed994cafc43ebae92dad0440c246b",
+    "miniatura": "miniaturas/ek_golden/a43ed994cafc43ebae92dad0440c246b.jpg"
+   }
+  ],
+  "ek_huesecillos": [
+   {
+    "uid": "f80bda64666c4b8aaac8f63b7b82a0a0",
+    "nombre": "Anatomy of the Inner Ear",
+    "autor": "tilt",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 11398,
+    "url": "https://sketchfab.com/3d-models/none-f80bda64666c4b8aaac8f63b7b82a0a0",
+    "miniatura": "miniaturas/ek_huesecillos/f80bda64666c4b8aaac8f63b7b82a0a0.jpg"
+   },
+   {
+    "uid": "36418178e0cf499694ac21e82ab2e77c",
+    "nombre": "Structures of the Ear",
+    "autor": "anatomary",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 118231,
+    "url": "https://sketchfab.com/3d-models/none-36418178e0cf499694ac21e82ab2e77c",
+    "miniatura": "miniaturas/ek_huesecillos/36418178e0cf499694ac21e82ab2e77c.jpg"
+   },
+   {
+    "uid": "3f4f63cdc8ae449da5f444eebc5d31e5",
+    "nombre": "Alligator Stapes",
+    "autor": "holliday",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 2196,
+    "url": "https://sketchfab.com/3d-models/none-3f4f63cdc8ae449da5f444eebc5d31e5",
+    "miniatura": "miniaturas/ek_huesecillos/3f4f63cdc8ae449da5f444eebc5d31e5.jpg"
+   },
+   {
+    "uid": "6c43cefab9094417a334b332043c032c",
+    "nombre": "Tige de crinoïde",
+    "autor": "ENSGeologie",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18306,
+    "url": "https://sketchfab.com/3d-models/none-6c43cefab9094417a334b332043c032c",
+    "miniatura": "miniaturas/ek_huesecillos/6c43cefab9094417a334b332043c032c.jpg"
+   },
+   {
+    "uid": "6259b35c09a74e678b4aaae54af254dd",
+    "nombre": "Ossicles",
+    "autor": "jeb246",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 251245,
+    "url": "https://sketchfab.com/3d-models/none-6259b35c09a74e678b4aaae54af254dd",
+    "miniatura": "miniaturas/ek_huesecillos/6259b35c09a74e678b4aaae54af254dd.jpg"
+   },
+   {
+    "uid": "6c3d87649a61478d852e67670c77bced",
+    "nombre": "Calcaire avec oursin et entroques",
+    "autor": "ENSGeologie",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 316670,
+    "url": "https://sketchfab.com/3d-models/none-6c3d87649a61478d852e67670c77bced",
+    "miniatura": "miniaturas/ek_huesecillos/6c3d87649a61478d852e67670c77bced.jpg"
+   },
+   {
+    "uid": "8dc7b1607aec4d4eb9a2a68ef38d794e",
+    "nombre": "WSC16505 6 Invictarx Thoracic Ossicle",
+    "autor": "WesternScienceCenter",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1522344,
+    "url": "https://sketchfab.com/3d-models/none-8dc7b1607aec4d4eb9a2a68ef38d794e",
+    "miniatura": "miniaturas/ek_huesecillos/8dc7b1607aec4d4eb9a2a68ef38d794e.jpg"
+   }
+  ],
+  "ek_oido": []
+ }
+}
