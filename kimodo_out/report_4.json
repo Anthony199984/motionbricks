@@ -1,10 +1,10 @@
 {
- "total_seconds": 289.5,
+ "total_seconds": 237.1,
  "jobs": [
   {
-   "name": "ek42_baile_gracioso_a",
+   "name": "ek51_perreo_c",
    "response": "OK\t180\t30",
-   "seconds": 289.4,
+   "seconds": 236.9,
    "frames": 180
   }
  ]
