@@ -1,10 +1,10 @@
 {
- "total_seconds": 212.9,
+ "total_seconds": 211.0,
  "jobs": [
   {
-   "name": "ek03_desplomarse_b",
+   "name": "ek13_burla_orejas_a",
    "response": "OK\t120\t30",
-   "seconds": 212.7,
+   "seconds": 210.9,
    "frames": 120
   }
  ]
