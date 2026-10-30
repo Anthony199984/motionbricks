@@ -1,11 +1,11 @@
 {
- "total_seconds": 250.8,
+ "total_seconds": 212.9,
  "jobs": [
   {
-   "name": "mq35_morder_barra_a",
-   "response": "OK\t150\t30",
-   "seconds": 250.7,
-   "frames": 150
+   "name": "ek03_desplomarse_b",
+   "response": "OK\t120\t30",
+   "seconds": 212.7,
+   "frames": 120
   }
  ]
 }
