@@ -1,10 +1,10 @@
 {
- "total_seconds": 174.3,
+ "total_seconds": 112.6,
  "jobs": [
   {
-   "name": "ek29_senalarse_a",
+   "name": "ek33_senalar_abajo_a",
    "response": "OK\t90\t30",
-   "seconds": 174.2,
+   "seconds": 112.4,
    "frames": 90
   }
  ]
