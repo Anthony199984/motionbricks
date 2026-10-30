@@ -1,0 +1,724 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/ek_ardilla2/7983c9e011ad427fab0c428ff84b3ddb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla2/3e2cb0a8ec7a4bfba5b48bd24e8bb2f2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla2/a579a5740fcf4d9d902351911bc3ada5.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla2/fc3d00b514c7421a894a084a1b36765e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla2/815887f8be7544bf850dc351d910a850.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla2/ec779cb0a48f44b2a516fc7df5ba0515.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla2/ede80c860ea64d3c8f11b6d03b7bc456.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla2/7871c039c2e7403b81f0471897158c16.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla4/9d71b33754d44adf8c6b7ed0d066030e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla4/b104816b90c9411c9144e2c443e6edf7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla4/027ac47bca6d4478bce058a96b9534b6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla4/805ce46464b14baa8bf035c728fde732.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla4/871a80f891c44ccebf1697d34a24c9db.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla4/61ff9026107a4f1399509c913c0f7dca.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/3eb292974d63479d958a3374116f8011.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/2859a3fdb9a9423aafe0b031af8ffa81.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/fe08dda7769249459877130bf1126760.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/638b297a82fa42678e29d49268cfdafe.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/760da98c1f9643bc900b806f6038ff75.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/0e4b0d594fe845d38dbff70a7c461246.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/8a416e3d42e34b559378bb0cb96f9f89.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/2b6d64cdfb9541438c4eb2d651909e37.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/6c669ba60149498b932fb21f5b4c26bf.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/50364ec3c0d24e7b9b45c9a13200cd01.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/c28d868bd9d64e6b939ca88b1c7932fe.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/f70de4ea7a2443a8ade24216ee999c51.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/61ff9026107a4f1399509c913c0f7dca.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/2dfb3779d0954024ad9a2d869035b6a7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/caa648f620344206b55c1d3d5589a5b9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/4d876488e0d3451d9bd8c90cf2e6d7c1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/b9130973e1e54020b88feae9af5cfbdd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/7d969e61a4f04166956b9a17fa300d08.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/50ad7b8e7278408bb105242092b41840.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/412b4e789a4143f9a16d4b9f6deb605e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/1a372234b8184ba2a44d2a9938f5e863.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/05d61666629f4ca1ab638ce2acc76ef7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/ba50acf743b3472681dc34d384fd6f50.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/9a0796150336438c94c858f96ed4c63c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/a383d5b4351d4a8e96b99502f561c09e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/063ef5271db04d60bd37c5e4e7e763cd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/22cc46238d4046a5b11f68acc231f55a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/bdb42041518d46aba7b17105abff7043.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/6db32e5aa2fc4a60b823e61742043fd5.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/d3ea29887bd048ddbae987a2990cc154.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/d0c84423082a4960a08d0ffae77ebeac.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/d11d7421cd144a99a2aeb050ab04f8c1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/8857e7638e3c4c9c95ec73e16a57afdc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_ardilla5/27774440b2d74b15a32f4a609e53f73a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "objaverse/ek_pato_camina.glb",
+   "mb": 2.38
+  },
+  {
+   "destino": "objaverse/ek_huesecillos.glb",
+   "mb": 7.14
+  },
+  {
+   "destino": "hdri/sunny_vondelpark_4k.hdr",
+   "mb": 27.96
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "ek_ardilla2": [
+   {
+    "uid": "7983c9e011ad427fab0c428ff84b3ddb",
+    "nombre": "Low-Poly Squirrel Character (Game-Ready, Rigged)",
+    "autor": "somenortherner",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7484,
+    "url": "https://sketchfab.com/3d-models/none-7983c9e011ad427fab0c428ff84b3ddb",
+    "miniatura": "miniaturas/ek_ardilla2/7983c9e011ad427fab0c428ff84b3ddb.jpg"
+   },
+   {
+    "uid": "3e2cb0a8ec7a4bfba5b48bd24e8bb2f2",
+    "nombre": "Sciurus vulgaris (Red squirrel) (Wiewiórka)",
+    "autor": "MammalResearchInstitutePAS",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2210289,
+    "url": "https://sketchfab.com/3d-models/none-3e2cb0a8ec7a4bfba5b48bd24e8bb2f2",
+    "miniatura": "miniaturas/ek_ardilla2/3e2cb0a8ec7a4bfba5b48bd24e8bb2f2.jpg"
+   },
+   {
+    "uid": "a579a5740fcf4d9d902351911bc3ada5",
+    "nombre": "Spermophilus suslicus (Speckled ground squirrel)",
+    "autor": "MammalResearchInstitutePAS",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1123833,
+    "url": "https://sketchfab.com/3d-models/none-a579a5740fcf4d9d902351911bc3ada5",
+    "miniatura": "miniaturas/ek_ardilla2/a579a5740fcf4d9d902351911bc3ada5.jpg"
+   },
+   {
+    "uid": "fc3d00b514c7421a894a084a1b36765e",
+    "nombre": "Sciurus vulgaris, skull",
+    "autor": "laboratorinatura",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1203626,
+    "url": "https://sketchfab.com/3d-models/none-fc3d00b514c7421a894a084a1b36765e",
+    "miniatura": "miniaturas/ek_ardilla2/fc3d00b514c7421a894a084a1b36765e.jpg"
+   },
+   {
+    "uid": "815887f8be7544bf850dc351d910a850",
+    "nombre": "Sciurus vulgaris, mandible",
+    "autor": "laboratorinatura",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 474282,
+    "url": "https://sketchfab.com/3d-models/none-815887f8be7544bf850dc351d910a850",
+    "miniatura": "miniaturas/ek_ardilla2/815887f8be7544bf850dc351d910a850.jpg"
+   },
+   {
+    "uid": "ec779cb0a48f44b2a516fc7df5ba0515",
+    "nombre": "Sciurus vulgaris, skull",
+    "autor": "laboratorinatura",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1416939,
+    "url": "https://sketchfab.com/3d-models/none-ec779cb0a48f44b2a516fc7df5ba0515",
+    "miniatura": "miniaturas/ek_ardilla2/ec779cb0a48f44b2a516fc7df5ba0515.jpg"
+   },
+   {
+    "uid": "ede80c860ea64d3c8f11b6d03b7bc456",
+    "nombre": "Photogrammetry Shoot- Squirrel Skull",
+    "autor": "eccendigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 515700,
+    "url": "https://sketchfab.com/3d-models/none-ede80c860ea64d3c8f11b6d03b7bc456",
+    "miniatura": "miniaturas/ek_ardilla2/ede80c860ea64d3c8f11b6d03b7bc456.jpg"
+   },
+   {
+    "uid": "7871c039c2e7403b81f0471897158c16",
+    "nombre": "Sciurus vulgaris, mandible",
+    "autor": "laboratorinatura",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 383182,
+    "url": "https://sketchfab.com/3d-models/none-7871c039c2e7403b81f0471897158c16",
+    "miniatura": "miniaturas/ek_ardilla2/7871c039c2e7403b81f0471897158c16.jpg"
+   }
+  ],
+  "ek_ardilla3": [],
+  "ek_ardilla4": [
+   {
+    "uid": "9d71b33754d44adf8c6b7ed0d066030e",
+    "nombre": "Amazonian Flying Spider Lemur",
+    "autor": "hamiltonimaginations",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 52600,
+    "url": "https://sketchfab.com/3d-models/none-9d71b33754d44adf8c6b7ed0d066030e",
+    "miniatura": "miniaturas/ek_ardilla4/9d71b33754d44adf8c6b7ed0d066030e.jpg"
+   },
+   {
+    "uid": "b104816b90c9411c9144e2c443e6edf7",
+    "nombre": "Low Poly Barbecue",
+    "autor": "jafetmorales",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 37386,
+    "url": "https://sketchfab.com/3d-models/none-b104816b90c9411c9144e2c443e6edf7",
+    "miniatura": "miniaturas/ek_ardilla4/b104816b90c9411c9144e2c443e6edf7.jpg"
+   },
+   {
+    "uid": "027ac47bca6d4478bce058a96b9534b6",
+    "nombre": "Western Gray Squirrel - FW2138",
+    "autor": "OSU.Multimedia",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2447244,
+    "url": "https://sketchfab.com/3d-models/none-027ac47bca6d4478bce058a96b9534b6",
+    "miniatura": "miniaturas/ek_ardilla4/027ac47bca6d4478bce058a96b9534b6.jpg"
+   },
+   {
+    "uid": "805ce46464b14baa8bf035c728fde732",
+    "nombre": "Eastern Grey Squirrel (Sciurus carolinensis)",
+    "autor": "M3DLR",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1024457,
+    "url": "https://sketchfab.com/3d-models/none-805ce46464b14baa8bf035c728fde732",
+    "miniatura": "miniaturas/ek_ardilla4/805ce46464b14baa8bf035c728fde732.jpg"
+   },
+   {
+    "uid": "871a80f891c44ccebf1697d34a24c9db",
+    "nombre": "Eastern Gray Squirrel",
+    "autor": "cmp_innovation_studio",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 50688,
+    "url": "https://sketchfab.com/3d-models/none-871a80f891c44ccebf1697d34a24c9db",
+    "miniatura": "miniaturas/ek_ardilla4/871a80f891c44ccebf1697d34a24c9db.jpg"
+   },
+   {
+    "uid": "61ff9026107a4f1399509c913c0f7dca",
+    "nombre": "Day 070: Giant Puffball Mushroom",
+    "autor": "uttamg911",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 105276,
+    "url": "https://sketchfab.com/3d-models/none-61ff9026107a4f1399509c913c0f7dca",
+    "miniatura": "miniaturas/ek_ardilla4/61ff9026107a4f1399509c913c0f7dca.jpg"
+   }
+  ],
+  "ek_ardilla5": [
+   {
+    "uid": "3eb292974d63479d958a3374116f8011",
+    "nombre": "Old oak tree in the grounds of West Dean Gardens",
+    "autor": "kungphil",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-3eb292974d63479d958a3374116f8011",
+    "miniatura": "miniaturas/ek_ardilla5/3eb292974d63479d958a3374116f8011.jpg"
+   },
+   {
+    "uid": "2859a3fdb9a9423aafe0b031af8ffa81",
+    "nombre": "Squirrel and Acorn Figure - Metashape app",
+    "autor": "hideyoshi_0715",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 99068,
+    "url": "https://sketchfab.com/3d-models/none-2859a3fdb9a9423aafe0b031af8ffa81",
+    "miniatura": "miniaturas/ek_ardilla5/2859a3fdb9a9423aafe0b031af8ffa81.jpg"
+   },
+   {
+    "uid": "fe08dda7769249459877130bf1126760",
+    "nombre": "Footprints in the Snow",
+    "autor": "terrielsimmons",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 269250,
+    "url": "https://sketchfab.com/3d-models/none-fe08dda7769249459877130bf1126760",
+    "miniatura": "miniaturas/ek_ardilla5/fe08dda7769249459877130bf1126760.jpg"
+   },
+   {
+    "uid": "638b297a82fa42678e29d49268cfdafe",
+    "nombre": "The Mythical Squirrel-icorn / Uni-quirrel",
+    "autor": "daniel-packard",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 50000,
+    "url": "https://sketchfab.com/3d-models/none-638b297a82fa42678e29d49268cfdafe",
+    "miniatura": "miniaturas/ek_ardilla5/638b297a82fa42678e29d49268cfdafe.jpg"
+   },
+   {
+    "uid": "760da98c1f9643bc900b806f6038ff75",
+    "nombre": "Stone Squirrel (2)",
+    "autor": "edemaistre",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 32044,
+    "url": "https://sketchfab.com/3d-models/none-760da98c1f9643bc900b806f6038ff75",
+    "miniatura": "miniaturas/ek_ardilla5/760da98c1f9643bc900b806f6038ff75.jpg"
+   },
+   {
+    "uid": "0e4b0d594fe845d38dbff70a7c461246",
+    "nombre": "Squirrel on tree 3D scan",
+    "autor": "openscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 340044,
+    "url": "https://sketchfab.com/3d-models/none-0e4b0d594fe845d38dbff70a7c461246",
+    "miniatura": "miniaturas/ek_ardilla5/0e4b0d594fe845d38dbff70a7c461246.jpg"
+   },
+   {
+    "uid": "8a416e3d42e34b559378bb0cb96f9f89",
+    "nombre": "Ollantaytambo Megalithic Wall",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 19283,
+    "url": "https://sketchfab.com/3d-models/none-8a416e3d42e34b559378bb0cb96f9f89",
+    "miniatura": "miniaturas/ek_ardilla5/8a416e3d42e34b559378bb0cb96f9f89.jpg"
+   },
+   {
+    "uid": "2b6d64cdfb9541438c4eb2d651909e37",
+    "nombre": "Squirrel",
+    "autor": "ChemicalArgtist",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 816854,
+    "url": "https://sketchfab.com/3d-models/none-2b6d64cdfb9541438c4eb2d651909e37",
+    "miniatura": "miniaturas/ek_ardilla5/2b6d64cdfb9541438c4eb2d651909e37.jpg"
+   },
+   {
+    "uid": "6c669ba60149498b932fb21f5b4c26bf",
+    "nombre": "Ñaupa Iglesia Altar",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 21819,
+    "url": "https://sketchfab.com/3d-models/none-6c669ba60149498b932fb21f5b4c26bf",
+    "miniatura": "miniaturas/ek_ardilla5/6c669ba60149498b932fb21f5b4c26bf.jpg"
+   },
+   {
+    "uid": "50364ec3c0d24e7b9b45c9a13200cd01",
+    "nombre": "Quenuani Steps",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 61737,
+    "url": "https://sketchfab.com/3d-models/none-50364ec3c0d24e7b9b45c9a13200cd01",
+    "miniatura": "miniaturas/ek_ardilla5/50364ec3c0d24e7b9b45c9a13200cd01.jpg"
+   },
+   {
+    "uid": "c28d868bd9d64e6b939ca88b1c7932fe",
+    "nombre": "Squirrel with Crown",
+    "autor": "julia.creates",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1000000,
+    "url": "https://sketchfab.com/3d-models/none-c28d868bd9d64e6b939ca88b1c7932fe",
+    "miniatura": "miniaturas/ek_ardilla5/c28d868bd9d64e6b939ca88b1c7932fe.jpg"
+   },
+   {
+    "uid": "f70de4ea7a2443a8ade24216ee999c51",
+    "nombre": "Bird and Squirrel Footprints",
+    "autor": "terrielsimmons",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 159997,
+    "url": "https://sketchfab.com/3d-models/none-f70de4ea7a2443a8ade24216ee999c51",
+    "miniatura": "miniaturas/ek_ardilla5/f70de4ea7a2443a8ade24216ee999c51.jpg"
+   },
+   {
+    "uid": "61ff9026107a4f1399509c913c0f7dca",
+    "nombre": "Day 070: Giant Puffball Mushroom",
+    "autor": "uttamg911",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 105276,
+    "url": "https://sketchfab.com/3d-models/none-61ff9026107a4f1399509c913c0f7dca",
+    "miniatura": "miniaturas/ek_ardilla5/61ff9026107a4f1399509c913c0f7dca.jpg"
+   },
+   {
+    "uid": "2dfb3779d0954024ad9a2d869035b6a7",
+    "nombre": "Stone Squirrel",
+    "autor": "edemaistre",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 378562,
+    "url": "https://sketchfab.com/3d-models/none-2dfb3779d0954024ad9a2d869035b6a7",
+    "miniatura": "miniaturas/ek_ardilla5/2dfb3779d0954024ad9a2d869035b6a7.jpg"
+   },
+   {
+    "uid": "caa648f620344206b55c1d3d5589a5b9",
+    "nombre": "Ollantaytambo Megalithic Block",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 7672,
+    "url": "https://sketchfab.com/3d-models/none-caa648f620344206b55c1d3d5589a5b9",
+    "miniatura": "miniaturas/ek_ardilla5/caa648f620344206b55c1d3d5589a5b9.jpg"
+   },
+   {
+    "uid": "4d876488e0d3451d9bd8c90cf2e6d7c1",
+    "nombre": "Squirrel Plush Toy from Centra Park",
+    "autor": "ocruznathalia",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4138,
+    "url": "https://sketchfab.com/3d-models/none-4d876488e0d3451d9bd8c90cf2e6d7c1",
+    "miniatura": "miniaturas/ek_ardilla5/4d876488e0d3451d9bd8c90cf2e6d7c1.jpg"
+   },
+   {
+    "uid": "b9130973e1e54020b88feae9af5cfbdd",
+    "nombre": "Ollantaytambo Temple of The Sun Front",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 35345,
+    "url": "https://sketchfab.com/3d-models/none-b9130973e1e54020b88feae9af5cfbdd",
+    "miniatura": "miniaturas/ek_ardilla5/b9130973e1e54020b88feae9af5cfbdd.jpg"
+   },
+   {
+    "uid": "7d969e61a4f04166956b9a17fa300d08",
+    "nombre": "Ollantaytambo Megalithic Niche",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 4856,
+    "url": "https://sketchfab.com/3d-models/none-7d969e61a4f04166956b9a17fa300d08",
+    "miniatura": "miniaturas/ek_ardilla5/7d969e61a4f04166956b9a17fa300d08.jpg"
+   },
+   {
+    "uid": "50ad7b8e7278408bb105242092b41840",
+    "nombre": "Qoricancha Buildings",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 71530,
+    "url": "https://sketchfab.com/3d-models/none-50ad7b8e7278408bb105242092b41840",
+    "miniatura": "miniaturas/ek_ardilla5/50ad7b8e7278408bb105242092b41840.jpg"
+   },
+   {
+    "uid": "412b4e789a4143f9a16d4b9f6deb605e",
+    "nombre": "Squirrel",
+    "autor": "rvscanners",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 500000,
+    "url": "https://sketchfab.com/3d-models/none-412b4e789a4143f9a16d4b9f6deb605e",
+    "miniatura": "miniaturas/ek_ardilla5/412b4e789a4143f9a16d4b9f6deb605e.jpg"
+   },
+   {
+    "uid": "1a372234b8184ba2a44d2a9938f5e863",
+    "nombre": "Cowboy Squirrel",
+    "autor": "fahad.alneama",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 446088,
+    "url": "https://sketchfab.com/3d-models/none-1a372234b8184ba2a44d2a9938f5e863",
+    "miniatura": "miniaturas/ek_ardilla5/1a372234b8184ba2a44d2a9938f5e863.jpg"
+   },
+   {
+    "uid": "05d61666629f4ca1ab638ce2acc76ef7",
+    "nombre": "Sachsayhuaman Sherman’s Stone",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 5311,
+    "url": "https://sketchfab.com/3d-models/none-05d61666629f4ca1ab638ce2acc76ef7",
+    "miniatura": "miniaturas/ek_ardilla5/05d61666629f4ca1ab638ce2acc76ef7.jpg"
+   },
+   {
+    "uid": "ba50acf743b3472681dc34d384fd6f50",
+    "nombre": "Squirrel",
+    "autor": "Lily.Qin1",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 500000,
+    "url": "https://sketchfab.com/3d-models/none-ba50acf743b3472681dc34d384fd6f50",
+    "miniatura": "miniaturas/ek_ardilla5/ba50acf743b3472681dc34d384fd6f50.jpg"
+   },
+   {
+    "uid": "9a0796150336438c94c858f96ed4c63c",
+    "nombre": "Cusco Corner",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 18545,
+    "url": "https://sketchfab.com/3d-models/none-9a0796150336438c94c858f96ed4c63c",
+    "miniatura": "miniaturas/ek_ardilla5/9a0796150336438c94c858f96ed4c63c.jpg"
+   },
+   {
+    "uid": "a383d5b4351d4a8e96b99502f561c09e",
+    "nombre": "Qoricancha Shaped Niche",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 9558,
+    "url": "https://sketchfab.com/3d-models/none-a383d5b4351d4a8e96b99502f561c09e",
+    "miniatura": "miniaturas/ek_ardilla5/a383d5b4351d4a8e96b99502f561c09e.jpg"
+   },
+   {
+    "uid": "063ef5271db04d60bd37c5e4e7e763cd",
+    "nombre": "Ñaupa Iglesia Door",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 26381,
+    "url": "https://sketchfab.com/3d-models/none-063ef5271db04d60bd37c5e4e7e763cd",
+    "miniatura": "miniaturas/ek_ardilla5/063ef5271db04d60bd37c5e4e7e763cd.jpg"
+   },
+   {
+    "uid": "22cc46238d4046a5b11f68acc231f55a",
+    "nombre": "Chewed Pumpkin",
+    "autor": "terrielsimmons",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 178326,
+    "url": "https://sketchfab.com/3d-models/none-22cc46238d4046a5b11f68acc231f55a",
+    "miniatura": "miniaturas/ek_ardilla5/22cc46238d4046a5b11f68acc231f55a.jpg"
+   },
+   {
+    "uid": "bdb42041518d46aba7b17105abff7043",
+    "nombre": "Squirrel",
+    "autor": "dwigfor",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 10076,
+    "url": "https://sketchfab.com/3d-models/none-bdb42041518d46aba7b17105abff7043",
+    "miniatura": "miniaturas/ek_ardilla5/bdb42041518d46aba7b17105abff7043.jpg"
+   },
+   {
+    "uid": "6db32e5aa2fc4a60b823e61742043fd5",
+    "nombre": "Amaru Muru Lower Section",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 49245,
+    "url": "https://sketchfab.com/3d-models/none-6db32e5aa2fc4a60b823e61742043fd5",
+    "miniatura": "miniaturas/ek_ardilla5/6db32e5aa2fc4a60b823e61742043fd5.jpg"
+   },
+   {
+    "uid": "d3ea29887bd048ddbae987a2990cc154",
+    "nombre": "Killarumiyuq Carved Rock",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 41292,
+    "url": "https://sketchfab.com/3d-models/none-d3ea29887bd048ddbae987a2990cc154",
+    "miniatura": "miniaturas/ek_ardilla5/d3ea29887bd048ddbae987a2990cc154.jpg"
+   },
+   {
+    "uid": "d0c84423082a4960a08d0ffae77ebeac",
+    "nombre": "Sachsayhuaman Nubs",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 6811,
+    "url": "https://sketchfab.com/3d-models/none-d0c84423082a4960a08d0ffae77ebeac",
+    "miniatura": "miniaturas/ek_ardilla5/d0c84423082a4960a08d0ffae77ebeac.jpg"
+   },
+   {
+    "uid": "d11d7421cd144a99a2aeb050ab04f8c1",
+    "nombre": "Sachsayhuaman Corner",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 50843,
+    "url": "https://sketchfab.com/3d-models/none-d11d7421cd144a99a2aeb050ab04f8c1",
+    "miniatura": "miniaturas/ek_ardilla5/d11d7421cd144a99a2aeb050ab04f8c1.jpg"
+   },
+   {
+    "uid": "8857e7638e3c4c9c95ec73e16a57afdc",
+    "nombre": "Cusco Megalithic Wall 1",
+    "autor": "zeptepi",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 60951,
+    "url": "https://sketchfab.com/3d-models/none-8857e7638e3c4c9c95ec73e16a57afdc",
+    "miniatura": "miniaturas/ek_ardilla5/8857e7638e3c4c9c95ec73e16a57afdc.jpg"
+   },
+   {
+    "uid": "27774440b2d74b15a32f4a609e53f73a",
+    "nombre": "Squirrel Scanning by CR-Scan Lizard",
+    "autor": "CrealityEcosystem",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 622052,
+    "url": "https://sketchfab.com/3d-models/none-27774440b2d74b15a32f4a609e53f73a",
+    "miniatura": "miniaturas/ek_ardilla5/27774440b2d74b15a32f4a609e53f73a.jpg"
+   }
+  ]
+ },
+ "objaverse": {
+  "ek_pato_camina": {
+   "uid": "415584bc3224484fba20a482592e2157",
+   "nombre": "ek_pato_camina",
+   "titulo": "Duck_Walk (Free)",
+   "autor": "Nyilonelycompany",
+   "licencia": "CC Attribution"
+  },
+  "ek_huesecillos": {
+   "uid": "6259b35c09a74e678b4aaae54af254dd",
+   "nombre": "ek_huesecillos",
+   "titulo": "Ossicles",
+   "autor": "jeb246",
+   "licencia": "CC Attribution"
+  }
+ },
+ "info": {
+  "sunny_vondelpark": {
+   "nombre": "Sunny Vondelpark",
+   "autores": {
+    "Greg Zaal": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  }
+ }
+}
