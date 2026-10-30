@@ -1,10 +1,10 @@
 {
- "total_seconds": 127.1,
+ "total_seconds": 190.6,
  "jobs": [
   {
-   "name": "ek05_parar_saludar_b",
+   "name": "ek12_negar_manos_cintura_a",
    "response": "OK\t120\t30",
-   "seconds": 127.0,
+   "seconds": 190.6,
    "frames": 120
   }
  ]
