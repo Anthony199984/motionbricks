@@ -1,26 +1,10 @@
 [
- {
-  "name": "ek04_caer_de_lado_a",
-  "frames": 120,
-  "seed": 9304,
-  "prompt": "A jogging person suddenly goes limp and crumples sideways to the ground, ending lying on their side."
- },
- {
-  "name": "ek04_caer_de_lado_b",
-  "frames": 120,
-  "seed": 9404,
-  "prompt": "A jogging person suddenly goes limp and crumples sideways to the ground, ending lying on their side."
- },
- {
-  "name": "ek05_parar_saludar_a",
-  "frames": 120,
-  "seed": 9305,
-  "prompt": "A person jogs, slows down, stops and waves goodbye with one hand raised high."
- },
- {
-  "name": "ek05_parar_saludar_b",
-  "frames": 120,
-  "seed": 9405,
-  "prompt": "A person jogs, slows down, stops and waves goodbye with one hand raised high."
- }
+ {"name": "ek10_bailar_a", "frames": 180, "seed": 9510, "prompt": "A person dances happily in place, swinging the hips and arms."},
+ {"name": "ek10_bailar_b", "frames": 180, "seed": 9610, "prompt": "A person dances happily in place, swinging the hips and arms."},
+ {"name": "ek11_senalar_piso_reir_a", "frames": 150, "seed": 9511, "prompt": "A person points down at the ground and laughs mockingly."},
+ {"name": "ek12_negar_manos_cintura_a", "frames": 120, "seed": 9512, "prompt": "A person puts hands on hips and shakes the head disapprovingly."},
+ {"name": "ek13_burla_orejas_a", "frames": 120, "seed": 9513, "prompt": "A person taunts by putting thumbs on the ears and wiggling the fingers."},
+ {"name": "ek14_baile_victoria_a", "frames": 150, "seed": 9514, "prompt": "A person does a silly victory dance, pumping both fists."},
+ {"name": "ek15_reir_doblado_a", "frames": 120, "seed": 9515, "prompt": "A person bends over laughing hard, holding the belly."},
+ {"name": "ek16_flexionar_brazos_a", "frames": 120, "seed": 9516, "prompt": "A person shows off by flexing both arm muscles proudly."}
 ]
