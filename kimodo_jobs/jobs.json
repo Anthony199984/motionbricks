@@ -1,26 +1,32 @@
 [
  {
-  "name": "mq36_agonizar_a",
-  "frames": 150,
-  "seed": 8501,
-  "prompt": "A sick person holds their head with both hands in pain, grows weak, sways and slowly sinks down to their knees, exhausted."
+  "name": "ek01_trotar_a",
+  "frames": 180,
+  "seed": 9101,
+  "prompt": "A person jogs forward at an easy, relaxed pace."
  },
  {
-  "name": "mq36_agonizar_b",
+  "name": "ek02_esqueleto_despide_a",
   "frames": 150,
-  "seed": 8601,
-  "prompt": "A sick person holds their head with both hands in pain, grows weak, sways and slowly sinks down to their knees, exhausted."
+  "seed": 9102,
+  "prompt": "A person jogs forward, slows down to a stop, turns around to face back and waves goodbye with one hand."
  },
  {
-  "name": "mq37_desmayo_a",
+  "name": "ek02_esqueleto_despide_b",
   "frames": 150,
-  "seed": 8502,
-  "prompt": "A dizzy person feels faint, hunches forward with one hand on the head, knees buckle and they slowly drop to their knees."
+  "seed": 9202,
+  "prompt": "A person jogs forward, slows down to a stop, turns around to face back and waves goodbye with one hand."
  },
  {
-  "name": "mq37_desmayo_b",
-  "frames": 150,
-  "seed": 8602,
-  "prompt": "A dizzy person feels faint, hunches forward with one hand on the head, knees buckle and they slowly drop to their knees."
+  "name": "ek03_desplomarse_a",
+  "frames": 120,
+  "seed": 9103,
+  "prompt": "A person jogging suddenly goes limp, the knees buckle and they collapse forward onto the ground like a rag doll."
+ },
+ {
+  "name": "ek03_desplomarse_b",
+  "frames": 120,
+  "seed": 9203,
+  "prompt": "A person jogging suddenly goes limp, the knees buckle and they collapse forward onto the ground like a rag doll."
  }
 ]
