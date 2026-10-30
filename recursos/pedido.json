@@ -1,34 +1,61 @@
 {
  "catalogo": false,
- "informe": "informe_ek_esqueleto2.json",
- "objaverse": [
+ "informe": "informe_ek_parque_sonidos.json",
+ "mixkit": [
   {
-   "uid": "2b1936a5356e44eda6ca4bc22ba959af",
-   "nombre": "ek_esq_lasqueti",
-   "titulo": "Animated Skeleton Casts Spell with Hands",
-   "autor": "LasquetiSpice",
-   "licencia": "CC Attribution"
+   "clave": "ek_pajaros_mixkit",
+   "pagina": "https://mixkit.co/free-sound-effects/birds/",
+   "max": 14
   },
   {
-   "uid": "72dbc65f27d449d19fb1c3cf95857ccc",
-   "nombre": "ek_esq_grumpy",
-   "titulo": "Grumpy Skeleton Walk Cycle",
-   "autor": "TK_Pong",
-   "licencia": "CC Attribution"
+   "clave": "ek_parque_mixkit",
+   "pagina": "https://mixkit.co/free-sound-effects/park/",
+   "max": 10
+  }
+ ],
+ "freesound_buscar": [
+  {
+   "clave": "ek_parque_fs",
+   "q": "park ambience birds morning",
+   "filtro": "duration:[20 TO 180]",
+   "max": 6
   },
   {
-   "uid": "d0c9919aec004fd39d65ce7a7960969b",
-   "nombre": "ek_esq_pbr",
-   "titulo": "Free low-poly PBR / BSDF textured human skeleton",
-   "autor": "aaolson817",
-   "licencia": "CC Attribution"
+   "clave": "ek_pajaros_fs",
+   "q": "birdsong park",
+   "filtro": "duration:[15 TO 180]",
+   "max": 6
+  }
+ ],
+ "commons_buscar": [
+  {
+   "clave": "ek_pajaros_commons",
+   "q": "birdsong park",
+   "n": 12,
+   "max_mb": 6
+  }
+ ],
+ "sketchfab_buscar": [
+  {
+   "clave": "ek_gente_camina",
+   "q": "man walking animated realistic",
+   "animado": true,
+   "paginas": 3,
+   "solo_objaverse": true
   },
   {
-   "uid": "ee87f94159cf4767b1977659db3fb7aa",
-   "nombre": "ek_esq_rig_cm",
-   "titulo": "Skeleton Rig",
-   "autor": "CreativeMachine",
-   "licencia": "CC Attribution"
+   "clave": "ek_gente_trota",
+   "q": "woman jogging animated",
+   "animado": true,
+   "paginas": 3,
+   "solo_objaverse": true
+  },
+  {
+   "clave": "ek_gente_sentada",
+   "q": "person sitting bench realistic",
+   "animado": false,
+   "paginas": 2,
+   "solo_objaverse": true
   }
  ]
 }
