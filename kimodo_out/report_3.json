@@ -1,10 +1,10 @@
 {
- "total_seconds": 302.9,
+ "total_seconds": 287.2,
  "jobs": [
   {
-   "name": "ek41_flexiones_b",
+   "name": "ek51_perreo_b",
    "response": "OK\t180\t30",
-   "seconds": 302.8,
+   "seconds": 287.1,
    "frames": 180
   }
  ]
