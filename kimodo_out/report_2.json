@@ -1,11 +1,11 @@
 {
- "total_seconds": 210.4,
+ "total_seconds": 149.6,
  "jobs": [
   {
-   "name": "ek05_parar_saludar_a",
-   "response": "OK\t120\t30",
-   "seconds": 210.3,
-   "frames": 120
+   "name": "ek11_senalar_piso_reir_a",
+   "response": "OK\t150\t30",
+   "seconds": 149.5,
+   "frames": 150
   }
  ]
 }
