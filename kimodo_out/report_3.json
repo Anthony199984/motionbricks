@@ -1,10 +1,10 @@
 {
- "total_seconds": 212.8,
+ "total_seconds": 127.1,
  "jobs": [
   {
-   "name": "ek03_desplomarse_a",
+   "name": "ek05_parar_saludar_b",
    "response": "OK\t120\t30",
-   "seconds": 212.7,
+   "seconds": 127.0,
    "frames": 120
   }
  ]
