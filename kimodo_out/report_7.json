@@ -1,11 +1,11 @@
 {
- "total_seconds": 140.2,
+ "total_seconds": 114.0,
  "jobs": [
   {
-   "name": "ek31_encogerse_hombros_b",
-   "response": "OK\t60\t30",
-   "seconds": 140.1,
-   "frames": 60
+   "name": "ek44_saludo_militar_a",
+   "response": "OK\t90\t30",
+   "seconds": 113.9,
+   "frames": 90
   }
  ]
 }
