@@ -1,11 +1,11 @@
 {
- "total_seconds": 271.2,
+ "total_seconds": 277.0,
  "jobs": [
   {
-   "name": "mq36_agonizar_a",
-   "response": "OK\t150\t30",
-   "seconds": 271.1,
-   "frames": 150
+   "name": "ek01_trotar_a",
+   "response": "OK\t180\t30",
+   "seconds": 276.9,
+   "frames": 180
   }
  ]
 }
