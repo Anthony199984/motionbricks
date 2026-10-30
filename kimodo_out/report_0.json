@@ -1,11 +1,11 @@
 {
- "total_seconds": 280.8,
+ "total_seconds": 212.4,
  "jobs": [
   {
-   "name": "ek10_bailar_a",
-   "response": "OK\t180\t30",
-   "seconds": 280.7,
-   "frames": 180
+   "name": "ek20_exprimir_toalla_a",
+   "response": "OK\t120\t30",
+   "seconds": 212.3,
+   "frames": 120
   }
  ]
 }
