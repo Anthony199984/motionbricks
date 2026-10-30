@@ -1,0 +1,52 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/ek_esq_lasqueti.glb",
+   "mb": 6.11
+  },
+  {
+   "destino": "objaverse/ek_esq_grumpy.glb",
+   "mb": 12.98
+  },
+  {
+   "destino": "objaverse/ek_esq_pbr.glb",
+   "mb": 33.64
+  },
+  {
+   "destino": "objaverse/ek_esq_rig_cm.glb",
+   "mb": 14.65
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "ek_esq_lasqueti": {
+   "uid": "2b1936a5356e44eda6ca4bc22ba959af",
+   "nombre": "ek_esq_lasqueti",
+   "titulo": "Animated Skeleton Casts Spell with Hands",
+   "autor": "LasquetiSpice",
+   "licencia": "CC Attribution"
+  },
+  "ek_esq_grumpy": {
+   "uid": "72dbc65f27d449d19fb1c3cf95857ccc",
+   "nombre": "ek_esq_grumpy",
+   "titulo": "Grumpy Skeleton Walk Cycle",
+   "autor": "TK_Pong",
+   "licencia": "CC Attribution"
+  },
+  "ek_esq_pbr": {
+   "uid": "d0c9919aec004fd39d65ce7a7960969b",
+   "nombre": "ek_esq_pbr",
+   "titulo": "Free low-poly PBR / BSDF textured human skeleton",
+   "autor": "aaolson817",
+   "licencia": "CC Attribution"
+  },
+  "ek_esq_rig_cm": {
+   "uid": "ee87f94159cf4767b1977659db3fb7aa",
+   "nombre": "ek_esq_rig_cm",
+   "titulo": "Skeleton Rig",
+   "autor": "CreativeMachine",
+   "licencia": "CC Attribution"
+  }
+ }
+}
