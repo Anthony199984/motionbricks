@@ -1,11 +1,11 @@
 {
- "total_seconds": 211.7,
+ "total_seconds": 183.8,
  "jobs": [
   {
-   "name": "ek04_caer_de_lado_b",
-   "response": "OK\t120\t30",
-   "seconds": 211.6,
-   "frames": 120
+   "name": "ek10_bailar_b",
+   "response": "OK\t180\t30",
+   "seconds": 183.7,
+   "frames": 180
   }
  ]
 }
