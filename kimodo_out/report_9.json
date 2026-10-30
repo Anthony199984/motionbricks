@@ -1,11 +1,11 @@
 {
- "total_seconds": 158.3,
+ "total_seconds": 174.3,
  "jobs": [
   {
-   "name": "mq08_espantar_nube_a",
-   "response": "OK\t150\t30",
-   "seconds": 158.2,
-   "frames": 150
+   "name": "ek29_senalarse_a",
+   "response": "OK\t90\t30",
+   "seconds": 174.2,
+   "frames": 90
   }
  ]
 }
