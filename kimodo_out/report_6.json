@@ -1,11 +1,11 @@
 {
- "total_seconds": 225.9,
+ "total_seconds": 188.7,
  "jobs": [
   {
-   "name": "ek15_reir_doblado_a",
-   "response": "OK\t120\t30",
-   "seconds": 225.7,
-   "frames": 120
+   "name": "ek26_mostrar_algo_pequeno_a",
+   "response": "OK\t90\t30",
+   "seconds": 188.5,
+   "frames": 90
   }
  ]
 }
