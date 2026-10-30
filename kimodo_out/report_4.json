@@ -1,10 +1,10 @@
 {
- "total_seconds": 113.1,
+ "total_seconds": 151.7,
  "jobs": [
   {
-   "name": "ek24_mirar_reloj_a",
+   "name": "ek26_mostrar_algo_pequeno_b",
    "response": "OK\t90\t30",
-   "seconds": 113.0,
+   "seconds": 151.6,
    "frames": 90
   }
  ]
