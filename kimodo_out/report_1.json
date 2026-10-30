@@ -1,11 +1,11 @@
 {
- "total_seconds": 183.8,
+ "total_seconds": 134.3,
  "jobs": [
   {
-   "name": "ek10_bailar_b",
-   "response": "OK\t180\t30",
-   "seconds": 183.7,
-   "frames": 180
+   "name": "ek21_jalar_cuerda_caer_a",
+   "response": "OK\t120\t30",
+   "seconds": 134.2,
+   "frames": 120
   }
  ]
 }
