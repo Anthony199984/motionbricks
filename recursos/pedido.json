@@ -1,14 +1,52 @@
 {
  "catalogo": false,
- "informe": "informe_ek_busqueda.json",
+ "informe": "informe_ek_bajada1.json",
+ "polyhaven": [
+  {
+   "id": "sunny_vondelpark",
+   "res": "4k"
+  }
+ ],
+ "objaverse": [
+  {
+   "uid": "415584bc3224484fba20a482592e2157",
+   "nombre": "ek_pato_camina",
+   "titulo": "Duck_Walk (Free)",
+   "autor": "Nyilonelycompany",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "6259b35c09a74e678b4aaae54af254dd",
+   "nombre": "ek_huesecillos",
+   "titulo": "Ossicles",
+   "autor": "jeb246",
+   "licencia": "CC Attribution"
+  }
+ ],
  "sketchfab_buscar": [
-  {"clave": "ek_ardilla", "q": "squirrel", "animado": true, "paginas": 6, "solo_objaverse": true},
-  {"clave": "ek_ardilla_rig", "q": "squirrel rigged realistic", "paginas": 4, "solo_objaverse": true},
-  {"clave": "ek_pato", "q": "duck", "animado": true, "paginas": 6, "solo_objaverse": true},
-  {"clave": "ek_perro_corre", "q": "dog run", "animado": true, "paginas": 6, "solo_objaverse": true},
-  {"clave": "ek_labrador", "q": "labrador retriever", "animado": true, "paginas": 4, "solo_objaverse": true},
-  {"clave": "ek_golden", "q": "golden retriever", "animado": true, "paginas": 4, "solo_objaverse": true},
-  {"clave": "ek_huesecillos", "q": "ossicles", "paginas": 3, "solo_objaverse": true},
-  {"clave": "ek_oido", "q": "middle ear anatomy", "paginas": 3, "solo_objaverse": true}
+  {
+   "clave": "ek_ardilla2",
+   "q": "red squirrel",
+   "paginas": 5,
+   "solo_objaverse": true
+  },
+  {
+   "clave": "ek_ardilla3",
+   "q": "squirrel realistic",
+   "paginas": 5,
+   "solo_objaverse": true
+  },
+  {
+   "clave": "ek_ardilla4",
+   "q": "gray squirrel",
+   "paginas": 4,
+   "solo_objaverse": true
+  },
+  {
+   "clave": "ek_ardilla5",
+   "q": "squirrel scan",
+   "paginas": 3,
+   "solo_objaverse": true
+  }
  ]
 }
