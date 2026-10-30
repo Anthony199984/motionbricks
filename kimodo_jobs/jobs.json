@@ -1,50 +1,50 @@
 [
  {
-  "name": "ek40_helado_a",
-  "frames": 150,
-  "seed": 9700,
-  "prompt": "A person stands and licks an ice cream cone held in the right hand, enjoying it."
- },
- {
-  "name": "ek40_helado_b",
-  "frames": 150,
-  "seed": 9701,
-  "prompt": "A person happily eats an ice cream cone, holding it with the right hand near the mouth."
- },
- {
-  "name": "ek41_flexiones_a",
-  "frames": 180,
-  "seed": 9702,
-  "prompt": "A person drops to the ground and does push-ups quickly."
- },
- {
-  "name": "ek41_flexiones_b",
-  "frames": 180,
-  "seed": 9703,
-  "prompt": "A person does push-ups on the floor."
- },
- {
-  "name": "ek42_baile_gracioso_a",
-  "frames": 180,
-  "seed": 9704,
-  "prompt": "A person does a silly funny dance, wiggling the hips and waving the arms."
- },
- {
-  "name": "ek42_baile_gracioso_b",
-  "frames": 180,
-  "seed": 9705,
-  "prompt": "A person dances the floss dance."
- },
- {
-  "name": "ek43_baile_robot_a",
-  "frames": 150,
-  "seed": 9706,
-  "prompt": "A person does a robot dance."
- },
- {
-  "name": "ek44_saludo_militar_a",
+  "name": "ek50_empujon_a",
   "frames": 90,
-  "seed": 9707,
-  "prompt": "A person salutes and then laughs."
+  "seed": 9800,
+  "prompt": "A person running forward stops suddenly and shoves hard forward with both hands."
+ },
+ {
+  "name": "ek50_empujon_b",
+  "frames": 90,
+  "seed": 9801,
+  "prompt": "A person pushes someone in front of them hard with both hands, then laughs."
+ },
+ {
+  "name": "ek51_perreo_a",
+  "frames": 180,
+  "seed": 9802,
+  "prompt": "A person squats low with knees bent and shakes the hips side to side, dancing reggaeton."
+ },
+ {
+  "name": "ek51_perreo_b",
+  "frames": 180,
+  "seed": 9803,
+  "prompt": "A person dances in a low squat with bent knees, rhythmically moving the hips back and forth."
+ },
+ {
+  "name": "ek51_perreo_c",
+  "frames": 180,
+  "seed": 9804,
+  "prompt": "A person bends the knees and twerks, shaking the hips."
+ },
+ {
+  "name": "ek52_pesar_a",
+  "frames": 150,
+  "seed": 9805,
+  "prompt": "A person holds both hands out in front, palms up, and moves them up and down alternately like a balance scale."
+ },
+ {
+  "name": "ek52_pesar_b",
+  "frames": 150,
+  "seed": 9806,
+  "prompt": "A person stands and weighs two objects, one in each open hand, lifting one hand while lowering the other."
+ },
+ {
+  "name": "ek53_flexiones_rapidas_a",
+  "frames": 150,
+  "seed": 9807,
+  "prompt": "A person does very fast push-ups on the floor."
  }
 ]
