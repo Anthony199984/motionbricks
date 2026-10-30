@@ -1,34 +1,18 @@
 {
  "catalogo": false,
- "informe": "informe_mq8_bajada2.json",
- "objaverse": [
-  {
-   "uid": "452ee1d9783e49f2a480fca806014b91",
-   "nombre": "mq8_bebe_rig",
-   "titulo": "Baby",
-   "autor": "darksoundlab",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "f78e6c976e8847f0a574c69d3d0ed256",
-   "nombre": "mq8_bebe_baile",
-   "titulo": "Dancing Baby Model (v2)",
-   "autor": "Punkinob",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "e4f107a6d87b424fb165aba9a53d0665",
-   "nombre": "mq8_tiburon_mehrus",
-   "titulo": "Great White Shark",
-   "autor": "Mehrus",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "69d7911ee12f44889c6ae9c9c2a99ba0",
-   "nombre": "mq8_tiburon_mehrus2",
-   "titulo": "Great White Shark",
-   "autor": "Mehrus",
-   "licencia": "CC Attribution"
-  }
+ "informe": "informe_ek_parque.json",
+ "polyhaven": [
+  {"id": "island_tree_01", "res": "4k"},
+  {"id": "island_tree_02", "res": "4k"},
+  {"id": "island_tree_03", "res": "4k"},
+  {"id": "jacaranda_tree", "res": "4k"},
+  {"id": "street_lamp_01", "res": "4k"},
+  {"id": "modular_street_seating", "res": "4k"},
+  {"id": "metal_trash_can", "res": "4k"},
+  {"id": "modular_urban_apartments_facade", "res": "2k"},
+  {"id": "grass_medium_01", "res": "4k"},
+  {"id": "dandelion_01", "res": "4k"},
+  {"id": "celandine_01", "res": "4k"},
+  {"id": "sunny_vondelpark", "res": "8k"}
  ]
 }
