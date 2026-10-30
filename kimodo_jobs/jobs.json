@@ -1,10 +1,13 @@
 [
- {"name": "ek10_bailar_a", "frames": 180, "seed": 9510, "prompt": "A person dances happily in place, swinging the hips and arms."},
- {"name": "ek10_bailar_b", "frames": 180, "seed": 9610, "prompt": "A person dances happily in place, swinging the hips and arms."},
- {"name": "ek11_senalar_piso_reir_a", "frames": 150, "seed": 9511, "prompt": "A person points down at the ground and laughs mockingly."},
- {"name": "ek12_negar_manos_cintura_a", "frames": 120, "seed": 9512, "prompt": "A person puts hands on hips and shakes the head disapprovingly."},
- {"name": "ek13_burla_orejas_a", "frames": 120, "seed": 9513, "prompt": "A person taunts by putting thumbs on the ears and wiggling the fingers."},
- {"name": "ek14_baile_victoria_a", "frames": 150, "seed": 9514, "prompt": "A person does a silly victory dance, pumping both fists."},
- {"name": "ek15_reir_doblado_a", "frames": 120, "seed": 9515, "prompt": "A person bends over laughing hard, holding the belly."},
- {"name": "ek16_flexionar_brazos_a", "frames": 120, "seed": 9516, "prompt": "A person shows off by flexing both arm muscles proudly."}
+ {"name": "ek20_exprimir_toalla_a", "frames": 120, "seed": 9520, "prompt": "A person mimes wringing out a wet towel with both hands, then laughs."},
+ {"name": "ek21_jalar_cuerda_caer_a", "frames": 120, "seed": 9521, "prompt": "A person mimes pulling a heavy rope, then the rope slips and they stumble backwards."},
+ {"name": "ek22_tocar_codo_a", "frames": 120, "seed": 9522, "prompt": "A person taps their own elbow with the other hand and laughs."},
+ {"name": "ek23_tocar_cabeza_a", "frames": 120, "seed": 9523, "prompt": "A person knocks on the top of their own head with the knuckles."},
+ {"name": "ek24_mirar_reloj_a", "frames": 90, "seed": 9524, "prompt": "A person looks at a wristwatch on the left wrist, surprised."},
+ {"name": "ek25_mano_oreja_a", "frames": 90, "seed": 9525, "prompt": "A person cups a hand behind the ear as if trying to hear something."},
+ {"name": "ek26_mostrar_algo_pequeno_a", "frames": 90, "seed": 9526, "prompt": "A person holds up something tiny between the thumb and index finger to show it."},
+ {"name": "ek27_mirarse_cuerpo_a", "frames": 90, "seed": 9527, "prompt": "A person looks down at their own body, surprised, then shrugs."},
+ {"name": "ek28_correr_saltar_a", "frames": 120, "seed": 9528, "prompt": "A person runs forward and jumps, landing standing still with arms out."},
+ {"name": "ek29_senalarse_a", "frames": 90, "seed": 9529, "prompt": "A person proudly points at themselves with both thumbs."},
+ {"name": "ek30_senalar_nariz_a", "frames": 90, "seed": 9530, "prompt": "A person points at their own nose and then at their ear."}
 ]
