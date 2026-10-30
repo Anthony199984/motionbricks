@@ -1,13 +1,62 @@
 [
- {"name": "ek20_exprimir_toalla_a", "frames": 120, "seed": 9520, "prompt": "A person mimes wringing out a wet towel with both hands, then laughs."},
- {"name": "ek21_jalar_cuerda_caer_a", "frames": 120, "seed": 9521, "prompt": "A person mimes pulling a heavy rope, then the rope slips and they stumble backwards."},
- {"name": "ek22_tocar_codo_a", "frames": 120, "seed": 9522, "prompt": "A person taps their own elbow with the other hand and laughs."},
- {"name": "ek23_tocar_cabeza_a", "frames": 120, "seed": 9523, "prompt": "A person knocks on the top of their own head with the knuckles."},
- {"name": "ek24_mirar_reloj_a", "frames": 90, "seed": 9524, "prompt": "A person looks at a wristwatch on the left wrist, surprised."},
- {"name": "ek25_mano_oreja_a", "frames": 90, "seed": 9525, "prompt": "A person cups a hand behind the ear as if trying to hear something."},
- {"name": "ek26_mostrar_algo_pequeno_a", "frames": 90, "seed": 9526, "prompt": "A person holds up something tiny between the thumb and index finger to show it."},
- {"name": "ek27_mirarse_cuerpo_a", "frames": 90, "seed": 9527, "prompt": "A person looks down at their own body, surprised, then shrugs."},
- {"name": "ek28_correr_saltar_a", "frames": 120, "seed": 9528, "prompt": "A person runs forward and jumps, landing standing still with arms out."},
- {"name": "ek29_senalarse_a", "frames": 90, "seed": 9529, "prompt": "A person proudly points at themselves with both thumbs."},
- {"name": "ek30_senalar_nariz_a", "frames": 90, "seed": 9530, "prompt": "A person points at their own nose and then at their ear."}
+ {
+  "name": "ek21_jalar_cuerda_caer_b",
+  "frames": 150,
+  "seed": 9600,
+  "prompt": "A person pulls a rope hand over hand with great effort, the rope snaps and they fall backwards onto the ground, sitting."
+ },
+ {
+  "name": "ek21_jalar_cuerda_caer_c",
+  "frames": 150,
+  "seed": 9601,
+  "prompt": "A person tugs hard on a rope, then loses balance and falls down on their back."
+ },
+ {
+  "name": "ek22_tocar_codo_b",
+  "frames": 90,
+  "seed": 9602,
+  "prompt": "A person bends the left arm and taps the left elbow several times with the right index finger."
+ },
+ {
+  "name": "ek22_tocar_codo_c",
+  "frames": 90,
+  "seed": 9603,
+  "prompt": "A person raises the left elbow and points at it with the right hand."
+ },
+ {
+  "name": "ek26_mostrar_algo_pequeno_b",
+  "frames": 90,
+  "seed": 9604,
+  "prompt": "A person raises the right hand to eye level, pinching something tiny between the fingers, and looks at it."
+ },
+ {
+  "name": "ek29_senalarse_b",
+  "frames": 90,
+  "seed": 9605,
+  "prompt": "A person points at their own chest with the right index finger several times."
+ },
+ {
+  "name": "ek31_encogerse_hombros_a",
+  "frames": 60,
+  "seed": 9606,
+  "prompt": "A person shrugs both shoulders with palms up."
+ },
+ {
+  "name": "ek31_encogerse_hombros_b",
+  "frames": 60,
+  "seed": 9607,
+  "prompt": "A person shrugs, raising the shoulders and turning the palms up, then lowers them."
+ },
+ {
+  "name": "ek32_carcajada_a",
+  "frames": 90,
+  "seed": 9608,
+  "prompt": "A person laughs hard, bending forward and slapping their knee."
+ },
+ {
+  "name": "ek33_senalar_abajo_a",
+  "frames": 90,
+  "seed": 9609,
+  "prompt": "A person points down at the ground with the right hand and laughs."
+ }
 ]
