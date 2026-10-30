@@ -1,10 +1,10 @@
 {
- "total_seconds": 190.6,
+ "total_seconds": 212.3,
  "jobs": [
   {
-   "name": "ek12_negar_manos_cintura_a",
+   "name": "ek23_tocar_cabeza_a",
    "response": "OK\t120\t30",
-   "seconds": 190.6,
+   "seconds": 212.2,
    "frames": 120
   }
  ]
