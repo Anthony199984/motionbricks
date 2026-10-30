@@ -1,11 +1,11 @@
 {
- "total_seconds": 203.4,
+ "total_seconds": 175.2,
  "jobs": [
   {
-   "name": "ek28_correr_saltar_a",
-   "response": "OK\t120\t30",
-   "seconds": 203.3,
-   "frames": 120
+   "name": "ek32_carcajada_a",
+   "response": "OK\t90\t30",
+   "seconds": 175.1,
+   "frames": 90
   }
  ]
 }
