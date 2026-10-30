@@ -1,11 +1,11 @@
 {
- "total_seconds": 283.4,
+ "total_seconds": 225.9,
  "jobs": [
   {
-   "name": "mq17_agachado_lupa_a",
-   "response": "OK\t180\t30",
-   "seconds": 283.3,
-   "frames": 180
+   "name": "ek15_reir_doblado_a",
+   "response": "OK\t120\t30",
+   "seconds": 225.7,
+   "frames": 120
   }
  ]
 }
