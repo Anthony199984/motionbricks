@@ -1,11 +1,11 @@
 {
- "total_seconds": 143.3,
+ "total_seconds": 174.7,
  "jobs": [
   {
-   "name": "ek16_flexionar_brazos_a",
-   "response": "OK\t120\t30",
-   "seconds": 143.1,
-   "frames": 120
+   "name": "ek27_mirarse_cuerpo_a",
+   "response": "OK\t90\t30",
+   "seconds": 174.6,
+   "frames": 90
   }
  ]
 }
