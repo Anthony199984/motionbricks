@@ -1,10 +1,10 @@
 {
- "total_seconds": 174.8,
+ "total_seconds": 176.0,
  "jobs": [
   {
-   "name": "ek25_mano_oreja_a",
+   "name": "ek29_senalarse_b",
    "response": "OK\t90\t30",
-   "seconds": 174.7,
+   "seconds": 175.9,
    "frames": 90
   }
  ]
