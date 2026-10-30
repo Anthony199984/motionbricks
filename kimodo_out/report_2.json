@@ -1,10 +1,10 @@
 {
- "total_seconds": 251.4,
+ "total_seconds": 250.0,
  "jobs": [
   {
-   "name": "mq37_desmayo_a",
+   "name": "ek02_esqueleto_despide_b",
    "response": "OK\t150\t30",
-   "seconds": 251.3,
+   "seconds": 249.8,
    "frames": 150
   }
  ]
