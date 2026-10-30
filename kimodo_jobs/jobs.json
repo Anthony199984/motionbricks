@@ -1,32 +1,26 @@
 [
  {
-  "name": "ek01_trotar_a",
-  "frames": 180,
-  "seed": 9101,
-  "prompt": "A person jogs forward at an easy, relaxed pace."
- },
- {
-  "name": "ek02_esqueleto_despide_a",
-  "frames": 150,
-  "seed": 9102,
-  "prompt": "A person jogs forward, slows down to a stop, turns around to face back and waves goodbye with one hand."
- },
- {
-  "name": "ek02_esqueleto_despide_b",
-  "frames": 150,
-  "seed": 9202,
-  "prompt": "A person jogs forward, slows down to a stop, turns around to face back and waves goodbye with one hand."
- },
- {
-  "name": "ek03_desplomarse_a",
+  "name": "ek04_caer_de_lado_a",
   "frames": 120,
-  "seed": 9103,
-  "prompt": "A person jogging suddenly goes limp, the knees buckle and they collapse forward onto the ground like a rag doll."
+  "seed": 9304,
+  "prompt": "A jogging person suddenly goes limp and crumples sideways to the ground, ending lying on their side."
  },
  {
-  "name": "ek03_desplomarse_b",
+  "name": "ek04_caer_de_lado_b",
   "frames": 120,
-  "seed": 9203,
-  "prompt": "A person jogging suddenly goes limp, the knees buckle and they collapse forward onto the ground like a rag doll."
+  "seed": 9404,
+  "prompt": "A jogging person suddenly goes limp and crumples sideways to the ground, ending lying on their side."
+ },
+ {
+  "name": "ek05_parar_saludar_a",
+  "frames": 120,
+  "seed": 9305,
+  "prompt": "A person jogs, slows down, stops and waves goodbye with one hand raised high."
+ },
+ {
+  "name": "ek05_parar_saludar_b",
+  "frames": 120,
+  "seed": 9405,
+  "prompt": "A person jogs, slows down, stops and waves goodbye with one hand raised high."
  }
 ]
