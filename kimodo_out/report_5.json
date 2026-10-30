@@ -1,11 +1,11 @@
 {
- "total_seconds": 176.0,
+ "total_seconds": 282.7,
  "jobs": [
   {
-   "name": "ek29_senalarse_b",
-   "response": "OK\t90\t30",
-   "seconds": 175.9,
-   "frames": 90
+   "name": "ek42_baile_gracioso_b",
+   "response": "OK\t180\t30",
+   "seconds": 282.6,
+   "frames": 180
   }
  ]
 }
