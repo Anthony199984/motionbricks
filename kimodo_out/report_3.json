@@ -1,11 +1,11 @@
 {
- "total_seconds": 117.8,
+ "total_seconds": 177.4,
  "jobs": [
   {
-   "name": "cp23_brindar_alto_b",
-   "response": "OK\t60\t30",
-   "seconds": 117.7,
-   "frames": 60
+   "name": "av02_explosion_lanzado_b",
+   "response": "OK\t90\t30",
+   "seconds": 177.3,
+   "frames": 90
   }
  ]
 }
