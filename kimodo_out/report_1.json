@@ -1,11 +1,11 @@
 {
- "total_seconds": 132.6,
+ "total_seconds": 113.6,
  "jobs": [
   {
-   "name": "cp22_caminar_relajado_b",
-   "response": "OK\t120\t30",
-   "seconds": 132.5,
-   "frames": 120
+   "name": "av01_luz_cubrir_ojos_b",
+   "response": "OK\t90\t30",
+   "seconds": 113.5,
+   "frames": 90
   }
  ]
 }
