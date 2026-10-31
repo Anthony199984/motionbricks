@@ -1,11 +1,17 @@
 {
- "total_seconds": 150.3,
+ "total_seconds": 278.6,
  "jobs": [
   {
-   "name": "ch08_convulsion_b",
-   "response": "OK\t150\t30",
-   "seconds": 150.2,
-   "frames": 150
+   "name": "cp10_agacharse_miedo_b",
+   "response": "OK\t60\t30",
+   "seconds": 140.0,
+   "frames": 60
+  },
+  {
+   "name": "cp21_saltar_cuerda_b",
+   "response": "OK\t60\t30",
+   "seconds": 138.5,
+   "frames": 60
   }
  ]
 }
