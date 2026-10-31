@@ -1,10 +1,10 @@
 {
- "total_seconds": 177.2,
+ "total_seconds": 178.2,
  "jobs": [
   {
-   "name": "ek50_empujon_a",
+   "name": "prueba_saludo",
    "response": "OK\t90\t30",
-   "seconds": 177.1,
+   "seconds": 178.1,
    "frames": 90
   }
  ]
