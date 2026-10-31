@@ -1,11 +1,17 @@
 {
- "total_seconds": 220.0,
+ "total_seconds": 425.7,
  "jobs": [
   {
-   "name": "av04_mirar_arriba_miedo_a",
-   "response": "OK\t90\t30",
-   "seconds": 219.9,
-   "frames": 90
+   "name": "cp44_pasos_cuidado_a",
+   "response": "OK\t120\t30",
+   "seconds": 213.3,
+   "frames": 120
+  },
+  {
+   "name": "cp57_empujon_nuca_b",
+   "response": "OK\t120\t30",
+   "seconds": 212.3,
+   "frames": 120
   }
  ]
 }
