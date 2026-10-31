@@ -1,12 +1,62 @@
 {
  "catalogo": false,
- "informe": "informe_an_busqueda1.json",
- "sketchfab_buscar": [
-  {"clave": "an_vaca_animada", "q": "cow", "animado": true, "paginas": 6, "solo_objaverse": true, "max": 40},
-  {"clave": "an_vaca_realista", "q": "realistic cow holstein", "paginas": 4, "solo_objaverse": true, "max": 30},
-  {"clave": "an_balanza", "q": "antique balance scale brass", "paginas": 3, "solo_objaverse": true, "max": 20},
-  {"clave": "an_senal_alto", "q": "stop sign", "paginas": 3, "solo_objaverse": true, "max": 20},
-  {"clave": "an_lentes", "q": "sunglasses", "paginas": 3, "solo_objaverse": true, "max": 20},
-  {"clave": "an_vaso_cafe", "q": "coffee cup paper takeaway", "paginas": 3, "solo_objaverse": true, "max": 20}
+ "informe": "informe_an_bajada1.json",
+ "objaverse": [
+  {
+   "uid": "c5782e43dcf442718a25b49bed00f582",
+   "nombre": "an_vaca_0",
+   "titulo": "Cow frame test",
+   "autor": "Nyilonelycompany",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "88d26e80e6c54a05827959d54b03f4e6",
+   "nombre": "an_vaca_15",
+   "titulo": "Cowlander",
+   "autor": "nickflatt",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "0a1b304aadda4b259e210a657e6cef7b",
+   "nombre": "an_vaca_17",
+   "titulo": "Polish cow",
+   "autor": "Gummibargumybear",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "e62ce0517f9543fd97ab859bc551b96e",
+   "nombre": "an_vaca_28",
+   "titulo": "Cow Run",
+   "autor": "fazlulkarimrabby",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "00d1cb5aa82745228a3b764c97f867de",
+   "nombre": "an_lentes_3",
+   "titulo": "Aviator sunglasses",
+   "autor": "Kimppo",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "eeec9fbb427246959acee4e4266b0f0a",
+   "nombre": "an_lentes_7",
+   "titulo": "Mustang Sunglasses - MU 1683",
+   "autor": "berkgedik",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "27a6775c51e44bfda8e1ac8725eb3e9e",
+   "nombre": "an_calle_3",
+   "titulo": "Street and City Props Dumpster Traffic Light",
+   "autor": "spookyghostboo",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "2225bb40891b4ed083a75bd17e447dd0",
+   "nombre": "an_calle_7",
+   "titulo": "Rusty Stop Sign",
+   "autor": "Yanez-Designs",
+   "licencia": "CC Attribution"
+  }
  ]
 }
