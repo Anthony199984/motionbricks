@@ -1,11 +1,11 @@
 {
- "total_seconds": 180.4,
+ "total_seconds": 246.6,
  "jobs": [
   {
-   "name": "av08_inclinarse_mirar_rascar_a",
-   "response": "OK\t120\t30",
-   "seconds": 180.3,
-   "frames": 120
+   "name": "cp61_parado_tranquilo_a",
+   "response": "OK\t150\t30",
+   "seconds": 246.5,
+   "frames": 150
   }
  ]
 }
