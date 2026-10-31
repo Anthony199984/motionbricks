@@ -1,17 +1,17 @@
 {
- "total_seconds": 317.1,
+ "total_seconds": 387.2,
  "jobs": [
   {
-   "name": "cp04_subir_bascula_a",
+   "name": "an04_sacudirse_mirar_a",
    "response": "OK\t90\t30",
-   "seconds": 176.5,
+   "seconds": 176.0,
    "frames": 90
   },
   {
-   "name": "cp15_tomar_de_perro_b",
-   "response": "OK\t60\t30",
-   "seconds": 140.5,
-   "frames": 60
+   "name": "ae02_colgado_barra_a",
+   "response": "OK\t120\t30",
+   "seconds": 211.1,
+   "frames": 120
   }
  ]
 }
