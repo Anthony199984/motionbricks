@@ -1,11 +1,11 @@
 {
- "total_seconds": 174.1,
+ "total_seconds": 160.5,
  "jobs": [
   {
-   "name": "an14_ponerse_lentes_a",
-   "response": "OK\t90\t30",
-   "seconds": 174.0,
-   "frames": 90
+   "name": "cp27_agacharse_recoger_b",
+   "response": "OK\t75\t30",
+   "seconds": 160.4,
+   "frames": 75
   }
  ]
 }
