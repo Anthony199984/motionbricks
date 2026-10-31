@@ -1,11 +1,11 @@
 {
- "total_seconds": 216.1,
+ "total_seconds": 139.5,
  "jobs": [
   {
-   "name": "an17_empujado_atras_a",
-   "response": "OK\t90\t30",
-   "seconds": 216.0,
-   "frames": 90
+   "name": "cp29_saltar_alto_b",
+   "response": "OK\t60\t30",
+   "seconds": 139.4,
+   "frames": 60
   }
  ]
 }
