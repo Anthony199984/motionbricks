@@ -1,17 +1,17 @@
 {
- "total_seconds": 296.3,
+ "total_seconds": 264.7,
  "jobs": [
   {
-   "name": "cp06_agachado_impaciente_a",
-   "response": "OK\t90\t30",
-   "seconds": 149.1,
-   "frames": 90
+   "name": "an06_cargar_tierra_b",
+   "response": "OK\t120\t30",
+   "seconds": 130.9,
+   "frames": 120
   },
   {
-   "name": "cp17_reir_senalar_a",
-   "response": "OK\t90\t30",
-   "seconds": 147.1,
-   "frames": 90
+   "name": "ae05_montado_saluda_a",
+   "response": "OK\t120\t30",
+   "seconds": 133.7,
+   "frames": 120
   }
  ]
 }
