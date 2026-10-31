@@ -1,7 +1,7 @@
-Sat Oct 31 03:39:41 UTC 2026
+Sat Oct 31 12:39:41 UTC 2026
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/root       145G   41G  104G  29% /
-Sat Oct 31 03:41:17 UTC 2026
+Sat Oct 31 12:40:36 UTC 2026
 Cloning into 'kcpp'...
 Note: switching to 'ed8a931aedb132f768190f6931c365855caba74c'.
 
@@ -24,7 +24,7 @@ HEAD is now at ed8a931 Add LocalAI attribution and badge to README
 Submodule 'ggml' (https://github.com/ggml-org/ggml.git) registered for path 'ggml'
 Cloning into '/home/runner/work/motionbricks/motionbricks/kcpp/ggml'...
 Submodule path 'ggml': checked out '8c63e70982c95ceb862e3a1073a2c1beef75d60a'
-Sat Oct 31 03:41:23 UTC 2026
+Sat Oct 31 12:40:43 UTC 2026
 Selecting previously unselected package ninja-build.
 (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 215504 files and directories currently installed.)
 Preparing to unpack .../ninja-build_1.11.1-2_amd64.deb ...
@@ -70,7 +70,7 @@ No VM guests are running outdated hypervisor (qemu) binaries on this host.
 -- Adding CPU backend variant ggml-cpu: -msse4.2;-mf16c;-mfma;-mbmi2;-mavx;-mavx2 GGML_SSE42;GGML_F16C;GGML_FMA;GGML_BMI2;GGML_AVX;GGML_AVX2
 -- ggml version: 0.20.2
 -- ggml commit:  8c63e709
--- Configuring done (10.1s)
+-- Configuring done (9.2s)
 -- Generating done (0.0s)
 -- Build files have been written to: /home/runner/work/motionbricks/motionbricks/kcpp/build
 [1/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml.cpp.o
@@ -95,11 +95,11 @@ No VM guests are running outdated hypervisor (qemu) binaries on this host.
 [20/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/vec.cpp.o
 [21/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/unary-ops.cpp.o
 [22/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/quants.c.o
-[23/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/repack.cpp.o
-[24/45] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-dl.cpp.o
-[25/45] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-reg.cpp.o
-[26/45] Building CXX object CMakeFiles/kimodo.dir/src/capi.cpp.o
-[27/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/repack.cpp.o
+[23/45] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-dl.cpp.o
+[24/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/repack.cpp.o
+[25/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/repack.cpp.o
+[26/45] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-reg.cpp.o
+[27/45] Building CXX object CMakeFiles/kimodo.dir/src/capi.cpp.o
 [28/45] Building CXX object CMakeFiles/kimodo.dir/src/diffusion.cpp.o
 [29/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_rep.cpp.o
 [30/45] Building CXX object CMakeFiles/kimodo.dir/src/gguf.cpp.o
@@ -137,10 +137,10 @@ In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/llm_t
 [44/45] Linking CXX static library libkimodo.a
 [45/45] Linking CXX executable kmd-generate
 build/kmd-generate
-Sat Oct 31 03:43:53 UTC 2026
+Sat Oct 31 12:42:55 UTC 2026
 gen=kcpp/build/kmd-generate text=weights/Llama-3-Kimodo-Q8_0.gguf motion=weights/models/kimodo-soma-rp-v1.1-f32.gguf
                total        used        free      shared  buff/cache   available
 Mem:              15           0           4           0          10          14
 Swap:              2           0           2
 4
-cp27_agacharse_recoger_b: OK	75	30 (160.4s)
+av06_mirar_arriba_sudar_b: OK	90	30 (178.1s)
