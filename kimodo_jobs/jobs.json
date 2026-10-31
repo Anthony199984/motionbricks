@@ -1,176 +1,50 @@
 [
 {
-"name": "cp40_banco_tomar_cafe_a",
+"name": "av07_caminar_normal_a",
 "frames": 120,
-"seed": 13100,
-"prompt": "A person sits relaxed on a bench and slowly drinks from a cup held in the right hand, smiling contentedly."
+"seed": 12600,
+"prompt": "A person walks forward at a normal relaxed pace, heels landing first and feet rolling flat on the ground, arms swinging naturally."
 },
 {
-"name": "cp40_banco_tomar_cafe_b",
+"name": "av07_caminar_normal_b",
 "frames": 120,
-"seed": 13101,
-"prompt": "A person sits relaxed on a bench and slowly drinks from a cup held in the right hand, smiling contentedly."
+"seed": 12601,
+"prompt": "A person walks forward at a normal relaxed pace, heels landing first and feet rolling flat on the ground, arms swinging naturally."
 },
 {
-"name": "cp41_levantarse_caminar_a",
-"frames": 150,
-"seed": 13102,
-"prompt": "A person sitting on a bench stands up and starts walking forward calmly, holding a cup in the right hand."
-},
-{
-"name": "cp41_levantarse_caminar_b",
-"frames": 150,
-"seed": 13103,
-"prompt": "A person sitting on a bench stands up and starts walking forward calmly, holding a cup in the right hand."
-},
-{
-"name": "cp42_caminar_cafe_mirar_a",
-"frames": 180,
-"seed": 13104,
-"prompt": "A person walks slowly holding a cup at chest height in the right hand, looking around happily at the scenery."
-},
-{
-"name": "cp43_brindis_atardecer_a",
+"name": "av08_inclinarse_mirar_rascar_a",
 "frames": 120,
-"seed": 13105,
-"prompt": "A person stops walking and raises a cup toward the sky in a happy toast, then takes a sip from it."
+"seed": 12602,
+"prompt": "A person bends forward at the waist and stares closely at a tiny object floating in front of the face, then scratches the head with the right hand, puzzled."
 },
 {
-"name": "cp44_pasos_cuidado_a",
+"name": "av08_inclinarse_mirar_rascar_b",
 "frames": 120,
-"seed": 13106,
-"prompt": "A person takes very careful slow steps with the arms slightly out to the sides for balance, looking nervous."
+"seed": 12603,
+"prompt": "A person bends forward at the waist and stares closely at a tiny object floating in front of the face, then scratches the head with the right hand, puzzled."
 },
 {
-"name": "cp45_bascula_leer_a",
-"frames": 150,
-"seed": 13107,
-"prompt": "A person steps onto a bathroom scale, leans forward to read it, then shrugs with both palms up, confused."
-},
-{
-"name": "cp45_bascula_leer_b",
-"frames": 150,
-"seed": 13108,
-"prompt": "A person steps onto a bathroom scale, leans forward to read it, then shrugs with both palms up, confused."
-},
-{
-"name": "cp46_soltar_taza_a",
-"frames": 75,
-"seed": 13109,
-"prompt": "A person accidentally lets go of a cup held in the right hand and looks down at it in surprise."
-},
-{
-"name": "cp47_agachado_esperar_a",
-"frames": 150,
-"seed": 13110,
-"prompt": "A person crouches down, rests the chin on one hand and waits impatiently, tapping the fingers of the other hand on the knee."
-},
-{
-"name": "cp47_agachado_esperar_b",
-"frames": 150,
-"seed": 13111,
-"prompt": "A person crouches down, rests the chin on one hand and waits impatiently, tapping the fingers of the other hand on the knee."
-},
-{
-"name": "cp48_paso_salir_volando_a",
+"name": "av09_mirar_congelado_a",
 "frames": 120,
-"seed": 13112,
-"prompt": "A person takes one step forward, jumps straight up and flails the arms and legs in panic."
+"seed": 12604,
+"prompt": "A person slowly turns around in amazement, looking at objects frozen in the air all around, and reaches out to gently touch one with the right index finger."
 },
 {
-"name": "cp48_paso_salir_volando_b",
+"name": "av09_mirar_congelado_b",
 "frames": 120,
-"seed": 13113,
-"prompt": "A person takes one step forward, jumps straight up and flails the arms and legs in panic."
+"seed": 12605,
+"prompt": "A person slowly turns around in amazement, looking at objects frozen in the air all around, and reaches out to gently touch one with the right index finger."
 },
 {
-"name": "cp49_flotar_pataleando_a",
-"frames": 150,
-"seed": 13114,
-"prompt": "A person floats in the air, slowly flailing the arms and legs in panic."
-},
-{
-"name": "cp49_flotar_pataleando_b",
-"frames": 150,
-"seed": 13115,
-"prompt": "A person floats in the air, slowly flailing the arms and legs in panic."
-},
-{
-"name": "cp50_mirar_suelo_curioso_a",
-"frames": 120,
-"seed": 13116,
-"prompt": "A person bends forward with the hands on the knees and looks down at the ground curiously."
-},
-{
-"name": "cp51_senalar_abajo_asombro_a",
+"name": "av10_mirar_arriba_calor_a",
 "frames": 90,
-"seed": 13117,
-"prompt": "A person points down at the ground in amazement and takes a step back."
+"seed": 12606,
+"prompt": "A person stands looking straight up at something very bright and hot above, shielding the face with the forearm, leaning back."
 },
 {
-"name": "cp52_sacudirse_polvo_a",
-"frames": 120,
-"seed": 13118,
-"prompt": "A person brushes dust off the shirt and pants with both hands, then shrugs and looks at the camera."
-},
-{
-"name": "cp52_sacudirse_polvo_b",
-"frames": 120,
-"seed": 13119,
-"prompt": "A person brushes dust off the shirt and pants with both hands, then shrugs and looks at the camera."
-},
-{
-"name": "cp53_aguantar_aire_a",
-"frames": 120,
-"seed": 13120,
-"prompt": "A person gasps, puffs out the cheeks holding the breath, and presses both hands on the chest in panic."
-},
-{
-"name": "cp53_aguantar_aire_b",
-"frames": 120,
-"seed": 13121,
-"prompt": "A person gasps, puffs out the cheeks holding the breath, and presses both hands on the chest in panic."
-},
-{
-"name": "cp54_pulgar_arriba_a",
-"frames": 75,
-"seed": 13122,
-"prompt": "A person smiles and gives a big thumbs up with the right hand."
-},
-{
-"name": "cp55_bascula_de_pie_a",
-"frames": 120,
-"seed": 13123,
-"prompt": "A person stands still looking down at the feet, then puts the hands on the hips, puzzled."
-},
-{
-"name": "cp56_acostado_preguntar_a",
+"name": "av10_mirar_arriba_calor_b",
 "frames": 90,
-"seed": 13124,
-"prompt": "A person lying on the back turns the head to the side and raises one hand palm up, as if asking why."
-},
-{
-"name": "cp57_empujon_nuca_a",
-"frames": 120,
-"seed": 13125,
-"prompt": "A person is hit from behind, stumbles two steps forward, then turns around looking behind, confused."
-},
-{
-"name": "cp57_empujon_nuca_b",
-"frames": 120,
-"seed": 13126,
-"prompt": "A person is hit from behind, stumbles two steps forward, then turns around looking behind, confused."
-},
-{
-"name": "cp58_seguir_con_vista_a",
-"frames": 150,
-"seed": 13127,
-"prompt": "A person turns around in place following something flying around him, pointing at it and laughing."
-},
-{
-"name": "cp59_lanzar_pase_a",
-"frames": 75,
-"seed": 13128,
-"prompt": "A person throws a ball forward with one hand like a normal pass."
+"seed": 12607,
+"prompt": "A person stands looking straight up at something very bright and hot above, shielding the face with the forearm, leaning back."
 }
 ]
