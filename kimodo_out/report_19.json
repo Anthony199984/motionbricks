@@ -1,11 +1,11 @@
 {
- "total_seconds": 249.2,
+ "total_seconds": 227.1,
  "jobs": [
   {
-   "name": "an19_caminar_tocar_a",
-   "response": "OK\t150\t30",
-   "seconds": 249.1,
-   "frames": 150
+   "name": "cp31_caminar_taza_pecho_b",
+   "response": "OK\t120\t30",
+   "seconds": 227.0,
+   "frames": 120
   }
  ]
 }
