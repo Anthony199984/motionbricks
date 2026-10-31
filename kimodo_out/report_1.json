@@ -1,16 +1,10 @@
 {
- "total_seconds": 425.8,
+ "total_seconds": 214.1,
  "jobs": [
   {
-   "name": "cp40_banco_tomar_cafe_b",
+   "name": "av07_caminar_normal_b",
    "response": "OK\t120\t30",
-   "seconds": 213.8,
-   "frames": 120
-  },
-  {
-   "name": "cp53_aguantar_aire_b",
-   "response": "OK\t120\t30",
-   "seconds": 212.0,
+   "seconds": 213.9,
    "frames": 120
   }
  ]
