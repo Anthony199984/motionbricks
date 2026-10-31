@@ -1,16 +1,16 @@
 {
- "total_seconds": 337.8,
+ "total_seconds": 320.6,
  "jobs": [
   {
-   "name": "cp03_equilibrio_a",
-   "response": "OK\t75\t30",
-   "seconds": 161.7,
-   "frames": 75
+   "name": "an03_aterrizar_a",
+   "response": "OK\t60\t30",
+   "seconds": 142.4,
+   "frames": 60
   },
   {
-   "name": "cp14_levantarse_caminar_b",
+   "name": "an21_palmear_bolsillo_b",
    "response": "OK\t90\t30",
-   "seconds": 176.0,
+   "seconds": 178.1,
    "frames": 90
   }
  ]
