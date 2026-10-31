@@ -1,10 +1,10 @@
 {
- "total_seconds": 175.5,
+ "total_seconds": 149.6,
  "jobs": [
   {
-   "name": "cp30_acostarse_desde_pie_b",
+   "name": "cp51_senalar_abajo_asombro_a",
    "response": "OK\t90\t30",
-   "seconds": 175.4,
+   "seconds": 149.5,
    "frames": 90
   }
  ]
