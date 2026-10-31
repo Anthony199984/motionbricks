@@ -1,11 +1,17 @@
 {
- "total_seconds": 112.6,
+ "total_seconds": 296.0,
  "jobs": [
   {
-   "name": "ek33_senalar_abajo_a",
-   "response": "OK\t90\t30",
-   "seconds": 112.4,
-   "frames": 90
+   "name": "cp07_flotar_a",
+   "response": "OK\t120\t30",
+   "seconds": 178.5,
+   "frames": 120
+  },
+  {
+   "name": "cp18_golpe_nuca_a",
+   "response": "OK\t60\t30",
+   "seconds": 117.4,
+   "frames": 60
   }
  ]
 }
