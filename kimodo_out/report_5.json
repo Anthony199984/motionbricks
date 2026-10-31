@@ -1,17 +1,11 @@
 {
- "total_seconds": 387.0,
+ "total_seconds": 170.6,
  "jobs": [
   {
-   "name": "an05_moneda_pinza_a",
-   "response": "OK\t90\t30",
-   "seconds": 176.2,
-   "frames": 90
-  },
-  {
-   "name": "ae02_colgado_barra_b",
-   "response": "OK\t120\t30",
-   "seconds": 210.7,
-   "frames": 120
+   "name": "cp24_subir_escalon_b",
+   "response": "OK\t75\t30",
+   "seconds": 170.5,
+   "frames": 75
   }
  ]
 }
