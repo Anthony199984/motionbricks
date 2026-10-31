@@ -1,11 +1,11 @@
 {
- "total_seconds": 140.1,
+ "total_seconds": 245.5,
  "jobs": [
   {
-   "name": "cp26_pulgar_arriba_b",
-   "response": "OK\t60\t30",
-   "seconds": 140.0,
-   "frames": 60
+   "name": "av05_tirado_levantarse_b",
+   "response": "OK\t120\t30",
+   "seconds": 245.4,
+   "frames": 120
   }
  ]
 }
