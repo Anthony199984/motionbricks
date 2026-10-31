@@ -1,10 +1,10 @@
 {
- "total_seconds": 139.9,
+ "total_seconds": 139.7,
  "jobs": [
   {
-   "name": "an09_esquivar_a",
+   "name": "cp26_pulgar_arriba_a",
    "response": "OK\t60\t30",
-   "seconds": 139.8,
+   "seconds": 139.6,
    "frames": 60
   }
  ]
