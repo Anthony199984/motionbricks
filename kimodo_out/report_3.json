@@ -1,11 +1,17 @@
 {
- "total_seconds": 287.2,
+ "total_seconds": 302.1,
  "jobs": [
   {
-   "name": "ek51_perreo_b",
-   "response": "OK\t180\t30",
-   "seconds": 287.1,
-   "frames": 180
+   "name": "cp03_equilibrio_b",
+   "response": "OK\t75\t30",
+   "seconds": 161.0,
+   "frames": 75
+  },
+  {
+   "name": "cp15_tomar_de_perro_a",
+   "response": "OK\t60\t30",
+   "seconds": 140.9,
+   "frames": 60
   }
  ]
 }
