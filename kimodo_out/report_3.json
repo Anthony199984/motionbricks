@@ -1,16 +1,10 @@
 {
- "total_seconds": 460.1,
+ "total_seconds": 244.8,
  "jobs": [
   {
-   "name": "cp41_levantarse_caminar_b",
-   "response": "OK\t150\t30",
-   "seconds": 248.8,
-   "frames": 150
-  },
-  {
-   "name": "cp55_bascula_de_pie_a",
+   "name": "av08_inclinarse_mirar_rascar_b",
    "response": "OK\t120\t30",
-   "seconds": 211.3,
+   "seconds": 244.7,
    "frames": 120
   }
  ]
