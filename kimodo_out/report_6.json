@@ -1,11 +1,17 @@
 {
- "total_seconds": 160.1,
+ "total_seconds": 298.8,
  "jobs": [
   {
-   "name": "ek52_pesar_b",
-   "response": "OK\t150\t30",
-   "seconds": 160.0,
-   "frames": 150
+   "name": "cp05_soltar_taza_b",
+   "response": "OK\t60\t30",
+   "seconds": 150.2,
+   "frames": 60
+  },
+  {
+   "name": "cp16_lanzar_b",
+   "response": "OK\t60\t30",
+   "seconds": 148.5,
+   "frames": 60
   }
  ]
 }
