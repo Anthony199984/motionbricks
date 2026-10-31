@@ -1,11 +1,11 @@
 {
- "total_seconds": 140.6,
+ "total_seconds": 220.0,
  "jobs": [
   {
-   "name": "cp25_se_le_cae_a",
-   "response": "OK\t60\t30",
-   "seconds": 140.4,
-   "frames": 60
+   "name": "av04_mirar_arriba_miedo_a",
+   "response": "OK\t90\t30",
+   "seconds": 219.9,
+   "frames": 90
   }
  ]
 }
