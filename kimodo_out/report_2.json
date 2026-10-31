@@ -1,11 +1,17 @@
 {
- "total_seconds": 149.5,
+ "total_seconds": 407.5,
  "jobs": [
   {
-   "name": "av02_explosion_lanzado_a",
-   "response": "OK\t90\t30",
-   "seconds": 149.4,
-   "frames": 90
+   "name": "cp41_levantarse_caminar_a",
+   "response": "OK\t150\t30",
+   "seconds": 248.9,
+   "frames": 150
+  },
+  {
+   "name": "cp54_pulgar_arriba_a",
+   "response": "OK\t75\t30",
+   "seconds": 158.4,
+   "frames": 75
   }
  ]
 }
