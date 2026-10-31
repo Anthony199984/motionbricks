@@ -1,10 +1,16 @@
 {
- "total_seconds": 214.5,
+ "total_seconds": 422.7,
  "jobs": [
   {
-   "name": "av03_agachado_mirar_cerca_b",
+   "name": "cp43_brindis_atardecer_a",
    "response": "OK\t120\t30",
-   "seconds": 214.3,
+   "seconds": 211.8,
+   "frames": 120
+  },
+  {
+   "name": "cp57_empujon_nuca_a",
+   "response": "OK\t120\t30",
+   "seconds": 210.7,
    "frames": 120
   }
  ]
