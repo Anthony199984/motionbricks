@@ -1,17 +1,11 @@
 {
- "total_seconds": 178.9,
+ "total_seconds": 189.0,
  "jobs": [
   {
-   "name": "cp08_aterrizar_b",
-   "response": "OK\t75\t30",
-   "seconds": 101.6,
-   "frames": 75
-  },
-  {
-   "name": "cp20_saltito_torpe_a",
-   "response": "OK\t45\t30",
-   "seconds": 77.2,
-   "frames": 45
+   "name": "an14_ponerse_lentes_b",
+   "response": "OK\t90\t30",
+   "seconds": 188.9,
+   "frames": 90
   }
  ]
 }
