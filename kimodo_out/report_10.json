@@ -1,11 +1,11 @@
 {
- "total_seconds": 160.6,
+ "total_seconds": 177.1,
  "jobs": [
   {
-   "name": "cp27_agacharse_recoger_a",
-   "response": "OK\t75\t30",
-   "seconds": 160.5,
-   "frames": 75
+   "name": "av06_mirar_arriba_sudar_a",
+   "response": "OK\t90\t30",
+   "seconds": 177.0,
+   "frames": 90
   }
  ]
 }
