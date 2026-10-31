@@ -1,7 +1,7 @@
 {
  "catalogo": false,
- "informe": "informe_transc_agujero.json",
+ "informe": "informe_transc_voz_agujero.json",
  "transcribir": [
-  {"archivo": "recursos/entrada/ref_agujero_negro.wav", "salida": "transc_agujero_negro_en.json", "idioma": "en", "modelo": "medium"}
+  {"archivo": "recursos/entrada/voz_agujero_negro.wav", "salida": "transc_voz_agujero_negro.json", "idioma": "es", "modelo": "medium", "palabras": true}
  ]
 }

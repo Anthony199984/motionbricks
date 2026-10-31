@@ -201,8 +201,8 @@ def transcribir(b):
     cod = ("import json,sys\nfrom faster_whisper import WhisperModel\n"
            f"m=WhisperModel({b.get('modelo','small')!r},device='cpu',compute_type='int8')\n"
            "import wave,numpy as np\nw=wave.open(" + repr(b['archivo']) + ")\na=np.frombuffer(w.readframes(w.getnframes()),np.int16).astype(np.float32)/32768\n"
-           f"segs,info=m.transcribe(a,language={b.get('idioma','es')!r})\n"
-           "out=[dict(ini=round(s.start,2),fin=round(s.end,2),texto=s.text.strip()) for s in segs]\n"
+           f"segs,info=m.transcribe(a,language={b.get('idioma','es')!r},word_timestamps={bool(b.get('palabras',False))!r})\n"
+           "out=[dict(ini=round(s.start,2),fin=round(s.end,2),texto=s.text.strip(),palabras=[dict(p=w.word.strip(),ini=round(w.start,3),fin=round(w.end,3)) for w in (s.words or [])]) for s in segs]\n"
            f"json.dump(out,open({(OUT + '/' + b['salida'])!r},'w'),ensure_ascii=False,indent=1)\nprint('transcrito',len(out))\n")
     r = subprocess.run([sys.executable, "-c", cod], capture_output=True, text=True)
     if r.returncode: raise RuntimeError((r.stderr or r.stdout)[-1500:])
