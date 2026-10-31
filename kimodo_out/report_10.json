@@ -1,11 +1,17 @@
 {
- "total_seconds": 214.5,
+ "total_seconds": 224.2,
  "jobs": [
   {
-   "name": "ek30_senalar_nariz_a",
-   "response": "OK\t90\t30",
-   "seconds": 214.4,
-   "frames": 90
+   "name": "cp07_flotar_b",
+   "response": "OK\t120\t30",
+   "seconds": 135.0,
+   "frames": 120
+  },
+  {
+   "name": "cp18_golpe_nuca_b",
+   "response": "OK\t60\t30",
+   "seconds": 89.0,
+   "frames": 60
   }
  ]
 }
