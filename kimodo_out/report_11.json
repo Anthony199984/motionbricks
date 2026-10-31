@@ -1,11 +1,11 @@
 {
- "total_seconds": 178.2,
+ "total_seconds": 249.7,
  "jobs": [
   {
-   "name": "av06_mirar_arriba_sudar_b",
-   "response": "OK\t90\t30",
-   "seconds": 178.1,
-   "frames": 90
+   "name": "cp47_agachado_esperar_b",
+   "response": "OK\t150\t30",
+   "seconds": 249.6,
+   "frames": 150
   }
  ]
 }
