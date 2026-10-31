@@ -1,50 +1,20 @@
 [
 {
-"name": "av07_caminar_normal_a",
+"name": "cp60_dedo_arriba_camara_a",
 "frames": 120,
-"seed": 12600,
-"prompt": "A person walks forward at a normal relaxed pace, heels landing first and feet rolling flat on the ground, arms swinging naturally."
+"seed": 13200,
+"prompt": "A person stands facing forward, raises the right index finger and explains something while smiling and nodding."
 },
 {
-"name": "av07_caminar_normal_b",
+"name": "cp60_dedo_arriba_camara_b",
 "frames": 120,
-"seed": 12601,
-"prompt": "A person walks forward at a normal relaxed pace, heels landing first and feet rolling flat on the ground, arms swinging naturally."
+"seed": 13201,
+"prompt": "A person stands facing forward, raises the right index finger and explains something while smiling and nodding."
 },
 {
-"name": "av08_inclinarse_mirar_rascar_a",
-"frames": 120,
-"seed": 12602,
-"prompt": "A person bends forward at the waist and stares closely at a tiny object floating in front of the face, then scratches the head with the right hand, puzzled."
-},
-{
-"name": "av08_inclinarse_mirar_rascar_b",
-"frames": 120,
-"seed": 12603,
-"prompt": "A person bends forward at the waist and stares closely at a tiny object floating in front of the face, then scratches the head with the right hand, puzzled."
-},
-{
-"name": "av09_mirar_congelado_a",
-"frames": 120,
-"seed": 12604,
-"prompt": "A person slowly turns around in amazement, looking at objects frozen in the air all around, and reaches out to gently touch one with the right index finger."
-},
-{
-"name": "av09_mirar_congelado_b",
-"frames": 120,
-"seed": 12605,
-"prompt": "A person slowly turns around in amazement, looking at objects frozen in the air all around, and reaches out to gently touch one with the right index finger."
-},
-{
-"name": "av10_mirar_arriba_calor_a",
-"frames": 90,
-"seed": 12606,
-"prompt": "A person stands looking straight up at something very bright and hot above, shielding the face with the forearm, leaning back."
-},
-{
-"name": "av10_mirar_arriba_calor_b",
-"frames": 90,
-"seed": 12607,
-"prompt": "A person stands looking straight up at something very bright and hot above, shielding the face with the forearm, leaning back."
+"name": "cp61_parado_tranquilo_a",
+"frames": 150,
+"seed": 13202,
+"prompt": "A person stands still and relaxed, breathing calmly, looking forward."
 }
 ]
