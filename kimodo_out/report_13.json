@@ -1,11 +1,11 @@
 {
- "total_seconds": 188.5,
+ "total_seconds": 86.7,
  "jobs": [
   {
-   "name": "an15_sorbo_parado_a",
-   "response": "OK\t90\t30",
-   "seconds": 188.4,
-   "frames": 90
+   "name": "cp28_golpe_cabeza_b",
+   "response": "OK\t60\t30",
+   "seconds": 86.6,
+   "frames": 60
   }
  ]
 }
