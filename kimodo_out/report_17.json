@@ -1,11 +1,11 @@
 {
- "total_seconds": 171.5,
+ "total_seconds": 175.1,
  "jobs": [
   {
-   "name": "cp11_sacudirse_b",
-   "response": "OK\t75\t30",
-   "seconds": 171.4,
-   "frames": 75
+   "name": "an18a_levantarse_a",
+   "response": "OK\t90\t30",
+   "seconds": 175.0,
+   "frames": 90
   }
  ]
 }
