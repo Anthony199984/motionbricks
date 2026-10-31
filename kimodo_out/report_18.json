@@ -1,10 +1,10 @@
 {
- "total_seconds": 139.8,
+ "total_seconds": 117.8,
  "jobs": [
   {
-   "name": "cp12_pulgar_a",
+   "name": "an18b_chasquear_a",
    "response": "OK\t60\t30",
-   "seconds": 139.7,
+   "seconds": 117.7,
    "frames": 60
   }
  ]
