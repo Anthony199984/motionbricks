@@ -1,11 +1,17 @@
 {
- "total_seconds": 190.4,
+ "total_seconds": 538.8,
  "jobs": [
   {
-   "name": "av04_mirar_arriba_miedo_b",
-   "response": "OK\t90\t30",
-   "seconds": 190.3,
-   "frames": 90
+   "name": "cp45_bascula_leer_a",
+   "response": "OK\t150\t30",
+   "seconds": 270.5,
+   "frames": 150
+  },
+  {
+   "name": "cp58_seguir_con_vista_a",
+   "response": "OK\t150\t30",
+   "seconds": 268.2,
+   "frames": 150
   }
  ]
 }
