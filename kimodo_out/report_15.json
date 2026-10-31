@@ -1,17 +1,11 @@
 {
- "total_seconds": 278.6,
+ "total_seconds": 216.1,
  "jobs": [
   {
-   "name": "cp10_agacharse_miedo_b",
-   "response": "OK\t60\t30",
-   "seconds": 140.0,
-   "frames": 60
-  },
-  {
-   "name": "cp21_saltar_cuerda_b",
-   "response": "OK\t60\t30",
-   "seconds": 138.5,
-   "frames": 60
+   "name": "an17_empujado_atras_a",
+   "response": "OK\t90\t30",
+   "seconds": 216.0,
+   "frames": 90
   }
  ]
 }
