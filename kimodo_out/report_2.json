@@ -1,17 +1,11 @@
 {
- "total_seconds": 407.5,
+ "total_seconds": 180.4,
  "jobs": [
   {
-   "name": "cp41_levantarse_caminar_a",
-   "response": "OK\t150\t30",
-   "seconds": 248.9,
-   "frames": 150
-  },
-  {
-   "name": "cp54_pulgar_arriba_a",
-   "response": "OK\t75\t30",
-   "seconds": 158.4,
-   "frames": 75
+   "name": "av08_inclinarse_mirar_rascar_a",
+   "response": "OK\t120\t30",
+   "seconds": 180.3,
+   "frames": 120
   }
  ]
 }
