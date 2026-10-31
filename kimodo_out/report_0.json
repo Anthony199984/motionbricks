@@ -1,11 +1,17 @@
 {
- "total_seconds": 178.2,
+ "total_seconds": 369.7,
  "jobs": [
   {
-   "name": "prueba_saludo",
-   "response": "OK\t90\t30",
-   "seconds": 178.1,
-   "frames": 90
+   "name": "cp01_caminar_taza_a",
+   "response": "OK\t120\t30",
+   "seconds": 210.1,
+   "frames": 120
+  },
+  {
+   "name": "cp13_acostarse_b",
+   "response": "OK\t75\t30",
+   "seconds": 159.4,
+   "frames": 75
   }
  ]
 }
