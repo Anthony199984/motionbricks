@@ -1,11 +1,11 @@
 {
- "total_seconds": 175.1,
+ "total_seconds": 212.8,
  "jobs": [
   {
-   "name": "cp30_acostarse_desde_pie_a",
-   "response": "OK\t90\t30",
-   "seconds": 174.9,
-   "frames": 90
+   "name": "cp50_mirar_suelo_curioso_a",
+   "response": "OK\t120\t30",
+   "seconds": 212.7,
+   "frames": 120
   }
  ]
 }
