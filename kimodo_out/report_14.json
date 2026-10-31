@@ -1,10 +1,10 @@
 {
- "total_seconds": 138.5,
+ "total_seconds": 83.5,
  "jobs": [
   {
-   "name": "an16_quitarse_lentes_a",
+   "name": "cp29_saltar_alto_a",
    "response": "OK\t60\t30",
-   "seconds": 138.3,
+   "seconds": 83.4,
    "frames": 60
   }
  ]
