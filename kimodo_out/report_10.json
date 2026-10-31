@@ -1,16 +1,10 @@
 {
- "total_seconds": 224.2,
+ "total_seconds": 118.2,
  "jobs": [
   {
-   "name": "cp07_flotar_b",
-   "response": "OK\t120\t30",
-   "seconds": 135.0,
-   "frames": 120
-  },
-  {
-   "name": "cp18_golpe_nuca_b",
+   "name": "an11_mirar_lado_a",
    "response": "OK\t60\t30",
-   "seconds": 89.0,
+   "seconds": 118.1,
    "frames": 60
   }
  ]
