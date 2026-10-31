@@ -1,17 +1,11 @@
 {
- "total_seconds": 389.2,
+ "total_seconds": 211.0,
  "jobs": [
   {
-   "name": "an01_caminar_sorbo_a",
-   "response": "OK\t150\t30",
-   "seconds": 249.8,
-   "frames": 150
-  },
-  {
-   "name": "an20_senalar_arriba_a",
-   "response": "OK\t60\t30",
-   "seconds": 139.2,
-   "frames": 60
+   "name": "cp22_caminar_relajado_a",
+   "response": "OK\t120\t30",
+   "seconds": 210.9,
+   "frames": 120
   }
  ]
 }
