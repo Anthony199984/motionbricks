@@ -1,11 +1,17 @@
 {
- "total_seconds": 178.2,
+ "total_seconds": 407.6,
  "jobs": [
   {
-   "name": "av05_tirado_levantarse_a",
-   "response": "OK\t120\t30",
-   "seconds": 178.1,
-   "frames": 120
+   "name": "cp45_bascula_leer_b",
+   "response": "OK\t150\t30",
+   "seconds": 248.4,
+   "frames": 150
+  },
+  {
+   "name": "cp59_lanzar_pase_a",
+   "response": "OK\t75\t30",
+   "seconds": 159.1,
+   "frames": 75
   }
  ]
 }
