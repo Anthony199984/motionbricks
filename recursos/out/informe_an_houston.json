@@ -1,0 +1,171 @@
+{
+ "bajados": [
+  {
+   "destino": "houston/s2_0_0.jpg",
+   "mb": 0.75
+  },
+  {
+   "destino": "houston/s2_0_1.jpg",
+   "mb": 0.39
+  },
+  {
+   "destino": "houston/s2_0_2.jpg",
+   "mb": 0.07
+  },
+  {
+   "destino": "houston/s2_0_3.jpg",
+   "mb": 0.02
+  },
+  {
+   "destino": "houston/s2_1_0.jpg",
+   "mb": 0.9
+  },
+  {
+   "destino": "houston/s2_1_1.jpg",
+   "mb": 0.94
+  },
+  {
+   "destino": "houston/s2_1_2.jpg",
+   "mb": 0.68
+  },
+  {
+   "destino": "houston/s2_1_3.jpg",
+   "mb": 0.29
+  },
+  {
+   "destino": "houston/s2_2_0.jpg",
+   "mb": 1.0
+  },
+  {
+   "destino": "houston/s2_2_1.jpg",
+   "mb": 1.07
+  },
+  {
+   "destino": "houston/s2_2_2.jpg",
+   "mb": 0.93
+  },
+  {
+   "destino": "houston/s2_2_3.jpg",
+   "mb": 0.96
+  },
+  {
+   "destino": "houston/s2_3_0.jpg",
+   "mb": 1.05
+  },
+  {
+   "destino": "houston/s2_3_1.jpg",
+   "mb": 0.96
+  },
+  {
+   "destino": "houston/s2_3_2.jpg",
+   "mb": 0.76
+  },
+  {
+   "destino": "houston/s2_3_3.jpg",
+   "mb": 0.76
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N27_00_W097_00_DEM.tif",
+   "mb": 0.07
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N27_00_W098_00_DEM.tif",
+   "mb": 3.75
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N28_00_W096_00_DEM.tif",
+   "mb": 1.03
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N28_00_W097_00_DEM.tif",
+   "mb": 3.14
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N28_00_W098_00_DEM.tif",
+   "mb": 5.15
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N29_00_W094_00_DEM.tif",
+   "mb": 1.33
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N29_00_W095_00_DEM.tif",
+   "mb": 2.47
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N29_00_W096_00_DEM.tif",
+   "mb": 5.27
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N29_00_W097_00_DEM.tif",
+   "mb": 5.15
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N29_00_W098_00_DEM.tif",
+   "mb": 5.16
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N30_00_W094_00_DEM.tif",
+   "mb": 5.58
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N30_00_W095_00_DEM.tif",
+   "mb": 5.47
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N30_00_W096_00_DEM.tif",
+   "mb": 5.18
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N30_00_W097_00_DEM.tif",
+   "mb": 5.21
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N30_00_W098_00_DEM.tif",
+   "mb": 4.99
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N31_00_W094_00_DEM.tif",
+   "mb": 5.11
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N31_00_W095_00_DEM.tif",
+   "mb": 5.21
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N31_00_W096_00_DEM.tif",
+   "mb": 5.35
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N31_00_W097_00_DEM.tif",
+   "mb": 5.08
+  },
+  {
+   "destino": "houston/dem/Copernicus_DSM_COG_30_N31_00_W098_00_DEM.tif",
+   "mb": 4.87
+  }
+ ],
+ "errores": [
+  {
+   "url": "https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N27_00_W094_00_DEM/Copernicus_DSM_COG_30_N27_00_W094_00_DEM.tif",
+   "error": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+   "url": "https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N27_00_W095_00_DEM/Copernicus_DSM_COG_30_N27_00_W095_00_DEM.tif",
+   "error": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+   "url": "https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N27_00_W096_00_DEM/Copernicus_DSM_COG_30_N27_00_W096_00_DEM.tif",
+   "error": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+   "url": "https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N28_00_W094_00_DEM/Copernicus_DSM_COG_30_N28_00_W094_00_DEM.tif",
+   "error": "<HTTPError 404: 'Not Found'>"
+  },
+  {
+   "url": "https://copernicus-dem-90m.s3.amazonaws.com/Copernicus_DSM_COG_30_N28_00_W095_00_DEM/Copernicus_DSM_COG_30_N28_00_W095_00_DEM.tif",
+   "error": "<HTTPError 404: 'Not Found'>"
+  }
+ ],
+ "saltados": []
+}
