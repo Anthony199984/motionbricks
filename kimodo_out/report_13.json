@@ -1,17 +1,11 @@
 {
- "total_seconds": 298.9,
+ "total_seconds": 188.5,
  "jobs": [
   {
-   "name": "cp09_asomarse_a",
+   "name": "an15_sorbo_parado_a",
    "response": "OK\t90\t30",
-   "seconds": 176.6,
+   "seconds": 188.4,
    "frames": 90
-  },
-  {
-   "name": "cp20_saltito_torpe_b",
-   "response": "OK\t45\t30",
-   "seconds": 122.1,
-   "frames": 45
   }
  ]
 }
