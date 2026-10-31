@@ -1,11 +1,17 @@
 {
- "total_seconds": 112.9,
+ "total_seconds": 357.9,
  "jobs": [
   {
-   "name": "av01_luz_cubrir_ojos_a",
-   "response": "OK\t90\t30",
-   "seconds": 112.7,
-   "frames": 90
+   "name": "cp40_banco_tomar_cafe_a",
+   "response": "OK\t120\t30",
+   "seconds": 179.3,
+   "frames": 120
+  },
+  {
+   "name": "cp53_aguantar_aire_a",
+   "response": "OK\t120\t30",
+   "seconds": 178.5,
+   "frames": 120
   }
  ]
 }
