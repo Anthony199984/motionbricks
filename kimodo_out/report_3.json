@@ -1,17 +1,11 @@
 {
- "total_seconds": 387.0,
+ "total_seconds": 117.8,
  "jobs": [
   {
-   "name": "an03_aterrizar_b",
+   "name": "cp23_brindar_alto_b",
    "response": "OK\t60\t30",
-   "seconds": 140.2,
+   "seconds": 117.7,
    "frames": 60
-  },
-  {
-   "name": "ae01_banco_helado_a",
-   "response": "OK\t150\t30",
-   "seconds": 246.7,
-   "frames": 150
   }
  ]
 }
