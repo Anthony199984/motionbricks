@@ -1,11 +1,11 @@
 {
- "total_seconds": 83.5,
+ "total_seconds": 248.8,
  "jobs": [
   {
-   "name": "cp29_saltar_alto_a",
-   "response": "OK\t60\t30",
-   "seconds": 83.4,
-   "frames": 60
+   "name": "cp49_flotar_pataleando_a",
+   "response": "OK\t150\t30",
+   "seconds": 248.6,
+   "frames": 150
   }
  ]
 }
