@@ -1,11 +1,11 @@
 {
- "total_seconds": 159.9,
+ "total_seconds": 179.6,
  "jobs": [
   {
-   "name": "cp24_subir_escalon_a",
-   "response": "OK\t75\t30",
-   "seconds": 159.8,
-   "frames": 75
+   "name": "av03_agachado_mirar_cerca_a",
+   "response": "OK\t120\t30",
+   "seconds": 179.5,
+   "frames": 120
   }
  ]
 }
