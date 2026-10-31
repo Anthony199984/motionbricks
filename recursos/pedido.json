@@ -1,61 +1,7 @@
 {
  "catalogo": false,
- "informe": "informe_ek_parque_sonidos.json",
- "mixkit": [
-  {
-   "clave": "ek_pajaros_mixkit",
-   "pagina": "https://mixkit.co/free-sound-effects/birds/",
-   "max": 14
-  },
-  {
-   "clave": "ek_parque_mixkit",
-   "pagina": "https://mixkit.co/free-sound-effects/park/",
-   "max": 10
-  }
- ],
- "freesound_buscar": [
-  {
-   "clave": "ek_parque_fs",
-   "q": "park ambience birds morning",
-   "filtro": "duration:[20 TO 180]",
-   "max": 6
-  },
-  {
-   "clave": "ek_pajaros_fs",
-   "q": "birdsong park",
-   "filtro": "duration:[15 TO 180]",
-   "max": 6
-  }
- ],
- "commons_buscar": [
-  {
-   "clave": "ek_pajaros_commons",
-   "q": "birdsong park",
-   "n": 12,
-   "max_mb": 6
-  }
- ],
- "sketchfab_buscar": [
-  {
-   "clave": "ek_gente_camina",
-   "q": "man walking animated realistic",
-   "animado": true,
-   "paginas": 3,
-   "solo_objaverse": true
-  },
-  {
-   "clave": "ek_gente_trota",
-   "q": "woman jogging animated",
-   "animado": true,
-   "paginas": 3,
-   "solo_objaverse": true
-  },
-  {
-   "clave": "ek_gente_sentada",
-   "q": "person sitting bench realistic",
-   "animado": false,
-   "paginas": 2,
-   "solo_objaverse": true
-  }
+ "informe": "informe_transc_agujero.json",
+ "transcribir": [
+  {"archivo": "recursos/entrada/ref_agujero_negro.wav", "salida": "transc_agujero_negro_en.json", "idioma": "en", "modelo": "medium"}
  ]
 }
