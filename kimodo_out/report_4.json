@@ -1,11 +1,17 @@
 {
- "total_seconds": 179.6,
+ "total_seconds": 458.8,
  "jobs": [
   {
-   "name": "av03_agachado_mirar_cerca_a",
-   "response": "OK\t120\t30",
-   "seconds": 179.5,
-   "frames": 120
+   "name": "cp42_caminar_cafe_mirar_a",
+   "response": "OK\t180\t30",
+   "seconds": 281.5,
+   "frames": 180
+  },
+  {
+   "name": "cp56_acostado_preguntar_a",
+   "response": "OK\t90\t30",
+   "seconds": 177.2,
+   "frames": 90
   }
  ]
 }
