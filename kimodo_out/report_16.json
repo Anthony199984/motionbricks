@@ -1,11 +1,11 @@
 {
- "total_seconds": 213.5,
+ "total_seconds": 160.0,
  "jobs": [
   {
-   "name": "ch09_ladear_cabeza_a",
-   "response": "OK\t120\t30",
-   "seconds": 213.4,
-   "frames": 120
+   "name": "cp11_sacudirse_a",
+   "response": "OK\t75\t30",
+   "seconds": 159.9,
+   "frames": 75
   }
  ]
 }
