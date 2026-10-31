@@ -1,17 +1,11 @@
 {
- "total_seconds": 425.7,
+ "total_seconds": 177.3,
  "jobs": [
   {
-   "name": "cp44_pasos_cuidado_a",
-   "response": "OK\t120\t30",
-   "seconds": 213.3,
-   "frames": 120
-  },
-  {
-   "name": "cp57_empujon_nuca_b",
-   "response": "OK\t120\t30",
-   "seconds": 212.3,
-   "frames": 120
+   "name": "av10_mirar_arriba_calor_a",
+   "response": "OK\t90\t30",
+   "seconds": 177.1,
+   "frames": 90
   }
  ]
 }
