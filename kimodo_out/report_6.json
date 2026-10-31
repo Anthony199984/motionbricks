@@ -1,17 +1,17 @@
 {
- "total_seconds": 298.8,
+ "total_seconds": 325.4,
  "jobs": [
   {
-   "name": "cp05_soltar_taza_b",
-   "response": "OK\t60\t30",
-   "seconds": 150.2,
-   "frames": 60
+   "name": "an06_cargar_tierra_a",
+   "response": "OK\t120\t30",
+   "seconds": 178.0,
+   "frames": 120
   },
   {
-   "name": "cp16_lanzar_b",
-   "response": "OK\t60\t30",
-   "seconds": 148.5,
-   "frames": 60
+   "name": "ae03_ofrecer_helado_a",
+   "response": "OK\t90\t30",
+   "seconds": 147.3,
+   "frames": 90
   }
  ]
 }
