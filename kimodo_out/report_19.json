@@ -1,10 +1,10 @@
 {
- "total_seconds": 227.1,
+ "total_seconds": 248.4,
  "jobs": [
   {
-   "name": "cp31_caminar_taza_pecho_b",
+   "name": "cp52_sacudirse_polvo_b",
    "response": "OK\t120\t30",
-   "seconds": 227.0,
+   "seconds": 248.3,
    "frames": 120
   }
  ]
