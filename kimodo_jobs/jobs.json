@@ -1,50 +1,8 @@
 [
  {
-  "name": "ek50_empujon_a",
+  "name": "prueba_saludo",
   "frames": 90,
-  "seed": 9800,
-  "prompt": "A person running forward stops suddenly and shoves hard forward with both hands."
- },
- {
-  "name": "ek50_empujon_b",
-  "frames": 90,
-  "seed": 9801,
-  "prompt": "A person pushes someone in front of them hard with both hands, then laughs."
- },
- {
-  "name": "ek51_perreo_a",
-  "frames": 180,
-  "seed": 9802,
-  "prompt": "A person squats low with knees bent and shakes the hips side to side, dancing reggaeton."
- },
- {
-  "name": "ek51_perreo_b",
-  "frames": 180,
-  "seed": 9803,
-  "prompt": "A person dances in a low squat with bent knees, rhythmically moving the hips back and forth."
- },
- {
-  "name": "ek51_perreo_c",
-  "frames": 180,
-  "seed": 9804,
-  "prompt": "A person bends the knees and twerks, shaking the hips."
- },
- {
-  "name": "ek52_pesar_a",
-  "frames": 150,
-  "seed": 9805,
-  "prompt": "A person holds both hands out in front, palms up, and moves them up and down alternately like a balance scale."
- },
- {
-  "name": "ek52_pesar_b",
-  "frames": 150,
-  "seed": 9806,
-  "prompt": "A person stands and weighs two objects, one in each open hand, lifting one hand while lowering the other."
- },
- {
-  "name": "ek53_flexiones_rapidas_a",
-  "frames": 150,
-  "seed": 9807,
-  "prompt": "A person does very fast push-ups on the floor."
+  "seed": 1,
+  "prompt": "A person waves hello with the right hand."
  }
 ]
