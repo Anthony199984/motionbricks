@@ -1,11 +1,11 @@
 {
- "total_seconds": 212.3,
+ "total_seconds": 194.8,
  "jobs": [
   {
-   "name": "ch10_mecerse_b",
-   "response": "OK\t120\t30",
-   "seconds": 212.1,
-   "frames": 120
+   "name": "cp13_acostarse_a",
+   "response": "OK\t75\t30",
+   "seconds": 194.7,
+   "frames": 75
   }
  ]
 }
