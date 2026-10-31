@@ -1,11 +1,11 @@
 {
- "total_seconds": 142.1,
+ "total_seconds": 135.2,
  "jobs": [
   {
-   "name": "cp28_golpe_cabeza_a",
-   "response": "OK\t60\t30",
-   "seconds": 142.0,
-   "frames": 60
+   "name": "cp48_paso_salir_volando_a",
+   "response": "OK\t120\t30",
+   "seconds": 135.1,
+   "frames": 120
   }
  ]
 }
