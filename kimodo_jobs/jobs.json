@@ -1,122 +1,74 @@
 [
- {
-  "name": "cp22_caminar_relajado_a",
-  "frames": 120,
-  "seed": 11100,
-  "prompt": "A person walks forward slowly and relaxed, arms swinging gently."
- },
- {
-  "name": "cp22_caminar_relajado_b",
-  "frames": 120,
-  "seed": 11101,
-  "prompt": "A person walks forward slowly and relaxed, arms swinging gently."
- },
- {
-  "name": "cp23_brindar_alto_a",
-  "frames": 60,
-  "seed": 11102,
-  "prompt": "A person raises the right arm high above the head, smiling."
- },
- {
-  "name": "cp23_brindar_alto_b",
-  "frames": 60,
-  "seed": 11103,
-  "prompt": "A person raises the right arm high above the head, smiling."
- },
- {
-  "name": "cp24_subir_escalon_a",
-  "frames": 75,
-  "seed": 11104,
-  "prompt": "A person steps up onto a low step and stands on it."
- },
- {
-  "name": "cp24_subir_escalon_b",
-  "frames": 75,
-  "seed": 11105,
-  "prompt": "A person steps up onto a low step and stands on it."
- },
- {
-  "name": "cp25_se_le_cae_a",
-  "frames": 60,
-  "seed": 11106,
-  "prompt": "A person fumbles and drops something, then reaches forward with both hands to grab it."
- },
- {
-  "name": "cp25_se_le_cae_b",
-  "frames": 60,
-  "seed": 11107,
-  "prompt": "A person fumbles and drops something, then reaches forward with both hands to grab it."
- },
- {
-  "name": "cp26_pulgar_arriba_a",
-  "frames": 60,
-  "seed": 11108,
-  "prompt": "A person gives a big thumbs up with the right hand held in front of the chest."
- },
- {
-  "name": "cp26_pulgar_arriba_b",
-  "frames": 60,
-  "seed": 11109,
-  "prompt": "A person gives a big thumbs up with the right hand held in front of the chest."
- },
- {
-  "name": "cp27_agacharse_recoger_a",
-  "frames": 75,
-  "seed": 11110,
-  "prompt": "A person bends down and picks something up from the ground with the right hand."
- },
- {
-  "name": "cp27_agacharse_recoger_b",
-  "frames": 75,
-  "seed": 11111,
-  "prompt": "A person bends down and picks something up from the ground with the right hand."
- },
- {
-  "name": "cp28_golpe_cabeza_a",
-  "frames": 60,
-  "seed": 11112,
-  "prompt": "A person is hit hard on the back of the head, lurches forward and grabs the back of the head with both hands."
- },
- {
-  "name": "cp28_golpe_cabeza_b",
-  "frames": 60,
-  "seed": 11113,
-  "prompt": "A person is hit hard on the back of the head, lurches forward and grabs the back of the head with both hands."
- },
- {
-  "name": "cp29_saltar_alto_a",
-  "frames": 60,
-  "seed": 11114,
-  "prompt": "A person jumps up high with both feet together and lands."
- },
- {
-  "name": "cp29_saltar_alto_b",
-  "frames": 60,
-  "seed": 11115,
-  "prompt": "A person jumps up high with both feet together and lands."
- },
- {
-  "name": "cp30_acostarse_desde_pie_a",
-  "frames": 90,
-  "seed": 11116,
-  "prompt": "A person standing lies down on the floor on their back."
- },
- {
-  "name": "cp30_acostarse_desde_pie_b",
-  "frames": 90,
-  "seed": 11117,
-  "prompt": "A person standing lies down on the floor on their back."
- },
- {
-  "name": "cp31_caminar_taza_pecho_a",
-  "frames": 120,
-  "seed": 11118,
-  "prompt": "A person walks forward holding a cup in the right hand at chest height."
- },
- {
-  "name": "cp31_caminar_taza_pecho_b",
-  "frames": 120,
-  "seed": 11119,
-  "prompt": "A person walks forward holding a cup in the right hand at chest height."
- }
+{
+"name": "av01_luz_cubrir_ojos_a",
+"frames": 90,
+"seed": 12400,
+"prompt": "A person looks up at a blinding light above and shields their eyes with the right hand, leaning back slightly."
+},
+{
+"name": "av01_luz_cubrir_ojos_b",
+"frames": 90,
+"seed": 12401,
+"prompt": "A person looks up at a blinding light above and shields their eyes with the right hand, leaning back slightly."
+},
+{
+"name": "av02_explosion_lanzado_a",
+"frames": 90,
+"seed": 12402,
+"prompt": "A person standing is hit by a powerful blast from the front and is thrown backwards, falling onto their back on the floor."
+},
+{
+"name": "av02_explosion_lanzado_b",
+"frames": 90,
+"seed": 12403,
+"prompt": "A person standing is hit by a powerful blast from the front and is thrown backwards, falling onto their back on the floor."
+},
+{
+"name": "av03_agachado_mirar_cerca_a",
+"frames": 120,
+"seed": 12404,
+"prompt": "A person squats down low and looks closely at a small object on the floor in front of them, curious, forearms resting on the knees."
+},
+{
+"name": "av03_agachado_mirar_cerca_b",
+"frames": 120,
+"seed": 12405,
+"prompt": "A person squats down low and looks closely at a small object on the floor in front of them, curious, forearms resting on the knees."
+},
+{
+"name": "av04_mirar_arriba_miedo_a",
+"frames": 90,
+"seed": 12406,
+"prompt": "A person looks straight up at something huge above and slowly steps back in fear, hands raised in front of the chest."
+},
+{
+"name": "av04_mirar_arriba_miedo_b",
+"frames": 90,
+"seed": 12407,
+"prompt": "A person looks straight up at something huge above and slowly steps back in fear, hands raised in front of the chest."
+},
+{
+"name": "av05_tirado_levantarse_a",
+"frames": 120,
+"seed": 12408,
+"prompt": "A person lying on their back on the floor gets up to standing and looks around, dazed."
+},
+{
+"name": "av05_tirado_levantarse_b",
+"frames": 120,
+"seed": 12409,
+"prompt": "A person lying on their back on the floor gets up to standing and looks around, dazed."
+},
+{
+"name": "av06_mirar_arriba_sudar_a",
+"frames": 90,
+"seed": 12410,
+"prompt": "A person looks up, squints and wipes sweat from the forehead with the back of the right hand, suffering from the heat."
+},
+{
+"name": "av06_mirar_arriba_sudar_b",
+"frames": 90,
+"seed": 12411,
+"prompt": "A person looks up, squints and wipes sweat from the forehead with the back of the right hand, suffering from the heat."
+}
 ]
