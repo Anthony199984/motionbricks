@@ -1,218 +1,170 @@
 [
  {
-  "name": "cp01_caminar_taza_a",
+  "name": "an01_caminar_sorbo_a",
+  "frames": 150,
+  "seed": 12000,
+  "prompt": "A person walks forward slowly while taking a sip from a cup held in the right hand."
+ },
+ {
+  "name": "an01_caminar_sorbo_b",
+  "frames": 150,
+  "seed": 12001,
+  "prompt": "A person walks forward slowly while taking a sip from a cup held in the right hand."
+ },
+ {
+  "name": "an03_aterrizar_a",
+  "frames": 60,
+  "seed": 12002,
+  "prompt": "A person drops down from above and lands on their feet, bending the knees."
+ },
+ {
+  "name": "an03_aterrizar_b",
+  "frames": 60,
+  "seed": 12003,
+  "prompt": "A person drops down from above and lands on their feet, bending the knees."
+ },
+ {
+  "name": "an04_sacudirse_mirar_a",
+  "frames": 90,
+  "seed": 12004,
+  "prompt": "A person brushes off their clothes with both hands and looks around in confusion."
+ },
+ {
+  "name": "an05_moneda_pinza_a",
+  "frames": 90,
+  "seed": 12005,
+  "prompt": "A person holds up a small coin between thumb and index finger and looks at it closely."
+ },
+ {
+  "name": "an06_cargar_tierra_a",
   "frames": 120,
-  "seed": 11000,
-  "prompt": "A person walks slowly and relaxed, holding a cup in the right hand."
+  "seed": 12006,
+  "prompt": "A person carries a heavy ball with both hands and places it down onto a table."
  },
  {
-  "name": "cp02_brindar_a",
-  "frames": 60,
-  "seed": 11001,
-  "prompt": "A person stands and raises a cup in the right hand in a toast toward the horizon, smiling."
- },
- {
-  "name": "cp03_equilibrio_a",
-  "frames": 75,
-  "seed": 11002,
-  "prompt": "A person stands very carefully, balancing with both arms out to the sides, nervous."
- },
- {
-  "name": "cp03_equilibrio_b",
-  "frames": 75,
-  "seed": 11003,
-  "prompt": "A person stands very carefully, balancing with both arms out to the sides, nervous."
- },
- {
-  "name": "cp04_subir_bascula_a",
-  "frames": 90,
-  "seed": 11004,
-  "prompt": "A person steps up onto a bathroom scale and looks down at it."
- },
- {
-  "name": "cp05_soltar_taza_a",
-  "frames": 60,
-  "seed": 11005,
-  "prompt": "A person drops a cup from the right hand and quickly tries to catch it."
- },
- {
-  "name": "cp05_soltar_taza_b",
-  "frames": 60,
-  "seed": 11006,
-  "prompt": "A person drops a cup from the right hand and quickly tries to catch it."
- },
- {
-  "name": "cp06_agachado_impaciente_a",
-  "frames": 90,
-  "seed": 11007,
-  "prompt": "A person crouches down and impatiently waves a hand under something floating in front of them."
- },
- {
-  "name": "cp06_agachado_impaciente_b",
-  "frames": 90,
-  "seed": 11008,
-  "prompt": "A person crouches down and impatiently waves a hand under something floating in front of them."
- },
- {
-  "name": "cp07_flotar_a",
+  "name": "an06_cargar_tierra_b",
   "frames": 120,
-  "seed": 11009,
-  "prompt": "A person floats in zero gravity, slowly flailing arms and legs."
+  "seed": 12007,
+  "prompt": "A person carries a heavy ball with both hands and places it down onto a table."
  },
  {
-  "name": "cp07_flotar_b",
+  "name": "an09_esquivar_a",
+  "frames": 60,
+  "seed": 12008,
+  "prompt": "A person quickly ducks and leans to the side to dodge something flying at them."
+ },
+ {
+  "name": "an09_esquivar_b",
+  "frames": 60,
+  "seed": 12009,
+  "prompt": "A person quickly ducks and leans to the side to dodge something flying at them."
+ },
+ {
+  "name": "an11_mirar_lado_a",
+  "frames": 60,
+  "seed": 12010,
+  "prompt": "A person turns their head to look at someone beside them and steps back slightly."
+ },
+ {
+  "name": "an14_ponerse_lentes_a",
+  "frames": 90,
+  "seed": 12011,
+  "prompt": "A person takes sunglasses from their shirt collar and puts them on."
+ },
+ {
+  "name": "an14_ponerse_lentes_b",
+  "frames": 90,
+  "seed": 12012,
+  "prompt": "A person takes sunglasses from their shirt collar and puts them on."
+ },
+ {
+  "name": "an15_sorbo_parado_a",
+  "frames": 90,
+  "seed": 12013,
+  "prompt": "A person stands relaxed and takes a sip from a cup held in the right hand."
+ },
+ {
+  "name": "an16_quitarse_lentes_a",
+  "frames": 60,
+  "seed": 12014,
+  "prompt": "A person takes off their sunglasses with one hand, surprised."
+ },
+ {
+  "name": "an17_empujado_atras_a",
+  "frames": 90,
+  "seed": 12015,
+  "prompt": "A person is blown backwards by an explosion and falls onto their back."
+ },
+ {
+  "name": "an17_empujado_atras_b",
+  "frames": 90,
+  "seed": 12016,
+  "prompt": "A person is blown backwards by an explosion and falls onto their back."
+ },
+ {
+  "name": "an18a_levantarse_a",
+  "frames": 90,
+  "seed": 12017,
+  "prompt": "A person gets up from lying on their back on the ground."
+ },
+ {
+  "name": "an18b_chasquear_a",
+  "frames": 60,
+  "seed": 12018,
+  "prompt": "A person snaps their fingers with the right hand."
+ },
+ {
+  "name": "an19_caminar_tocar_a",
+  "frames": 150,
+  "seed": 12019,
+  "prompt": "A person walks slowly looking around curiously and touches something in front of them with one finger."
+ },
+ {
+  "name": "an20_senalar_arriba_a",
+  "frames": 60,
+  "seed": 12020,
+  "prompt": "A person looks forward and points up with one hand."
+ },
+ {
+  "name": "an21_palmear_bolsillo_a",
+  "frames": 90,
+  "seed": 12021,
+  "prompt": "A person stands relaxed and gently pats their right front pocket twice."
+ },
+ {
+  "name": "an21_palmear_bolsillo_b",
+  "frames": 90,
+  "seed": 12022,
+  "prompt": "A person stands relaxed and gently pats their right front pocket twice."
+ },
+ {
+  "name": "ae01_banco_helado_a",
+  "frames": 150,
+  "seed": 12023,
+  "prompt": "A person sits on a bench eating an ice cream cone."
+ },
+ {
+  "name": "ae02_colgado_barra_a",
   "frames": 120,
-  "seed": 11010,
-  "prompt": "A person floats in zero gravity, slowly flailing arms and legs."
+  "seed": 12024,
+  "prompt": "A person hangs from a horizontal bar with both hands, legs swinging."
  },
  {
-  "name": "cp08_aterrizar_a",
-  "frames": 75,
-  "seed": 11011,
-  "prompt": "A person falls from above, lands on both feet bending the knees, and stands up."
+  "name": "ae02_colgado_barra_b",
+  "frames": 120,
+  "seed": 12025,
+  "prompt": "A person hangs from a horizontal bar with both hands, legs swinging."
  },
  {
-  "name": "cp08_aterrizar_b",
-  "frames": 75,
-  "seed": 11012,
-  "prompt": "A person falls from above, lands on both feet bending the knees, and stands up."
- },
- {
-  "name": "cp09_asomarse_a",
+  "name": "ae03_ofrecer_helado_a",
   "frames": 90,
-  "seed": 11013,
-  "prompt": "A person leans forward to look down at the ground with one hand on the chin, curious."
+  "seed": 12026,
+  "prompt": "A person holds out an ice cream cone toward someone next to them."
  },
  {
-  "name": "cp10_agacharse_miedo_a",
-  "frames": 60,
-  "seed": 11014,
-  "prompt": "A person crouches down in fear, hugging something close to the body."
- },
- {
-  "name": "cp10_agacharse_miedo_b",
-  "frames": 60,
-  "seed": 11015,
-  "prompt": "A person crouches down in fear, hugging something close to the body."
- },
- {
-  "name": "cp11_sacudirse_a",
-  "frames": 75,
-  "seed": 11016,
-  "prompt": "A person brushes dust off their shirt with both hands, then shrugs."
- },
- {
-  "name": "cp11_sacudirse_b",
-  "frames": 75,
-  "seed": 11017,
-  "prompt": "A person brushes dust off their shirt with both hands, then shrugs."
- },
- {
-  "name": "cp12_pulgar_a",
-  "frames": 60,
-  "seed": 11018,
-  "prompt": "A person gives a thumbs up with the right hand and a big smile."
- },
- {
-  "name": "cp13_acostarse_a",
-  "frames": 75,
-  "seed": 11019,
-  "prompt": "A person lies down on their back on the floor."
- },
- {
-  "name": "cp13_acostarse_b",
-  "frames": 75,
-  "seed": 11020,
-  "prompt": "A person lies down on their back on the floor."
- },
- {
-  "name": "cp14_levantarse_caminar_a",
-  "frames": 90,
-  "seed": 11021,
-  "prompt": "A person gets up from lying on their back and walks forward."
- },
- {
-  "name": "cp14_levantarse_caminar_b",
-  "frames": 90,
-  "seed": 11022,
-  "prompt": "A person gets up from lying on their back and walks forward."
- },
- {
-  "name": "cp15_tomar_de_perro_a",
-  "frames": 60,
-  "seed": 11023,
-  "prompt": "A person bends down and takes a ball from a dog's mouth with the right hand."
- },
- {
-  "name": "cp15_tomar_de_perro_b",
-  "frames": 60,
-  "seed": 11024,
-  "prompt": "A person bends down and takes a ball from a dog's mouth with the right hand."
- },
- {
-  "name": "cp16_lanzar_a",
-  "frames": 60,
-  "seed": 11025,
-  "prompt": "A person throws a ball overhand forward with the right hand."
- },
- {
-  "name": "cp16_lanzar_b",
-  "frames": 60,
-  "seed": 11026,
-  "prompt": "A person throws a ball overhand forward with the right hand."
- },
- {
-  "name": "cp17_reir_senalar_a",
-  "frames": 90,
-  "seed": 11027,
-  "prompt": "A person laughs and points at something circling around them, turning to follow it."
- },
- {
-  "name": "cp17_reir_senalar_b",
-  "frames": 90,
-  "seed": 11028,
-  "prompt": "A person laughs and points at something circling around them, turning to follow it."
- },
- {
-  "name": "cp18_golpe_nuca_a",
-  "frames": 60,
-  "seed": 11029,
-  "prompt": "A person gets hit on the back of the head and stumbles forward."
- },
- {
-  "name": "cp18_golpe_nuca_b",
-  "frames": 60,
-  "seed": 11030,
-  "prompt": "A person gets hit on the back of the head and stumbles forward."
- },
- {
-  "name": "cp19_sobar_nuca_a",
-  "frames": 60,
-  "seed": 11031,
-  "prompt": "A person rubs the back of the head with the right hand while looking behind."
- },
- {
-  "name": "cp20_saltito_torpe_a",
-  "frames": 45,
-  "seed": 11032,
-  "prompt": "A person hops awkwardly to avoid something passing at their feet."
- },
- {
-  "name": "cp20_saltito_torpe_b",
-  "frames": 45,
-  "seed": 11033,
-  "prompt": "A person hops awkwardly to avoid something passing at their feet."
- },
- {
-  "name": "cp21_saltar_cuerda_a",
-  "frames": 60,
-  "seed": 11034,
-  "prompt": "A person jumps with both feet together like jumping rope, confidently."
- },
- {
-  "name": "cp21_saltar_cuerda_b",
-  "frames": 60,
-  "seed": 11035,
-  "prompt": "A person jumps with both feet together like jumping rope, confidently."
+  "name": "ae05_montado_saluda_a",
+  "frames": 120,
+  "seed": 12027,
+  "prompt": "A person sits as if riding a horse and waves one hand."
  }
 ]
