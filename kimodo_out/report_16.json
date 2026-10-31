@@ -1,10 +1,10 @@
 {
- "total_seconds": 175.4,
+ "total_seconds": 175.1,
  "jobs": [
   {
-   "name": "an17_empujado_atras_b",
+   "name": "cp30_acostarse_desde_pie_a",
    "response": "OK\t90\t30",
-   "seconds": 175.3,
+   "seconds": 174.9,
    "frames": 90
   }
  ]
