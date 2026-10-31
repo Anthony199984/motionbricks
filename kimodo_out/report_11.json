@@ -1,11 +1,17 @@
 {
- "total_seconds": 210.1,
+ "total_seconds": 359.0,
  "jobs": [
   {
-   "name": "mq09_correr_cuesta_a",
-   "response": "OK\t120\t30",
-   "seconds": 210.0,
-   "frames": 120
+   "name": "cp08_aterrizar_a",
+   "response": "OK\t75\t30",
+   "seconds": 190.6,
+   "frames": 75
+  },
+  {
+   "name": "cp19_sobar_nuca_a",
+   "response": "OK\t60\t30",
+   "seconds": 168.3,
+   "frames": 60
   }
  ]
 }
