@@ -1,0 +1,1059 @@
+[
+ {
+  "ini": 0.0,
+  "fin": 5.5,
+  "texto": "Si un agujero negro del tamaño de una moneda apareciera en tu bolsillo durante 5 segundos,",
+  "palabras": [
+   {
+    "p": "Si",
+    "ini": 0.0,
+    "fin": 0.26
+   },
+   {
+    "p": "un",
+    "ini": 0.26,
+    "fin": 0.48
+   },
+   {
+    "p": "agujero",
+    "ini": 0.48,
+    "fin": 0.92
+   },
+   {
+    "p": "negro",
+    "ini": 0.92,
+    "fin": 1.28
+   },
+   {
+    "p": "del",
+    "ini": 1.28,
+    "fin": 1.5
+   },
+   {
+    "p": "tamaño",
+    "ini": 1.5,
+    "fin": 1.96
+   },
+   {
+    "p": "de",
+    "ini": 1.96,
+    "fin": 2.12
+   },
+   {
+    "p": "una",
+    "ini": 2.12,
+    "fin": 2.32
+   },
+   {
+    "p": "moneda",
+    "ini": 2.32,
+    "fin": 2.76
+   },
+   {
+    "p": "apareciera",
+    "ini": 2.76,
+    "fin": 3.3
+   },
+   {
+    "p": "en",
+    "ini": 3.3,
+    "fin": 3.38
+   },
+   {
+    "p": "tu",
+    "ini": 3.38,
+    "fin": 3.56
+   },
+   {
+    "p": "bolsillo",
+    "ini": 3.56,
+    "fin": 4.0
+   },
+   {
+    "p": "durante",
+    "ini": 4.0,
+    "fin": 4.48
+   },
+   {
+    "p": "5",
+    "ini": 4.48,
+    "fin": 4.9
+   },
+   {
+    "p": "segundos,",
+    "ini": 4.9,
+    "fin": 5.5
+   }
+  ]
+ },
+ {
+  "ini": 5.86,
+  "fin": 10.36,
+  "texto": "caerías dentro de tu propio bolsillo en menos de una millonésima de segundo.",
+  "palabras": [
+   {
+    "p": "caerías",
+    "ini": 5.86,
+    "fin": 6.24
+   },
+   {
+    "p": "dentro",
+    "ini": 6.24,
+    "fin": 6.58
+   },
+   {
+    "p": "de",
+    "ini": 6.58,
+    "fin": 6.8
+   },
+   {
+    "p": "tu",
+    "ini": 6.8,
+    "fin": 7.02
+   },
+   {
+    "p": "propio",
+    "ini": 7.02,
+    "fin": 7.32
+   },
+   {
+    "p": "bolsillo",
+    "ini": 7.32,
+    "fin": 7.94
+   },
+   {
+    "p": "en",
+    "ini": 7.94,
+    "fin": 8.22
+   },
+   {
+    "p": "menos",
+    "ini": 8.22,
+    "fin": 8.42
+   },
+   {
+    "p": "de",
+    "ini": 8.42,
+    "fin": 8.68
+   },
+   {
+    "p": "una",
+    "ini": 8.68,
+    "fin": 8.94
+   },
+   {
+    "p": "millonésima",
+    "ini": 8.94,
+    "fin": 9.72
+   },
+   {
+    "p": "de",
+    "ini": 9.72,
+    "fin": 10.04
+   },
+   {
+    "p": "segundo.",
+    "ini": 10.04,
+    "fin": 10.36
+   }
+  ]
+ },
+ {
+  "ini": 10.54,
+  "fin": 12.58,
+  "texto": "Tan rápido que ni te darías cuenta.",
+  "palabras": [
+   {
+    "p": "Tan",
+    "ini": 10.54,
+    "fin": 10.8
+   },
+   {
+    "p": "rápido",
+    "ini": 10.8,
+    "fin": 11.28
+   },
+   {
+    "p": "que",
+    "ini": 11.28,
+    "fin": 11.52
+   },
+   {
+    "p": "ni",
+    "ini": 11.52,
+    "fin": 11.68
+   },
+   {
+    "p": "te",
+    "ini": 11.68,
+    "fin": 11.88
+   },
+   {
+    "p": "darías",
+    "ini": 11.88,
+    "fin": 12.16
+   },
+   {
+    "p": "cuenta.",
+    "ini": 12.16,
+    "fin": 12.58
+   }
+  ]
+ },
+ {
+  "ini": 12.82,
+  "fin": 17.36,
+  "texto": "Porque un agujero negro así de chiquito pesa lo mismo que la Tierra entera.",
+  "palabras": [
+   {
+    "p": "Porque",
+    "ini": 12.82,
+    "fin": 13.06
+   },
+   {
+    "p": "un",
+    "ini": 13.06,
+    "fin": 13.26
+   },
+   {
+    "p": "agujero",
+    "ini": 13.26,
+    "fin": 13.66
+   },
+   {
+    "p": "negro",
+    "ini": 13.66,
+    "fin": 13.96
+   },
+   {
+    "p": "así",
+    "ini": 13.96,
+    "fin": 14.38
+   },
+   {
+    "p": "de",
+    "ini": 14.38,
+    "fin": 14.62
+   },
+   {
+    "p": "chiquito",
+    "ini": 14.62,
+    "fin": 15.1
+   },
+   {
+    "p": "pesa",
+    "ini": 15.1,
+    "fin": 15.46
+   },
+   {
+    "p": "lo",
+    "ini": 15.46,
+    "fin": 15.74
+   },
+   {
+    "p": "mismo",
+    "ini": 15.74,
+    "fin": 16.04
+   },
+   {
+    "p": "que",
+    "ini": 16.04,
+    "fin": 16.22
+   },
+   {
+    "p": "la",
+    "ini": 16.22,
+    "fin": 16.44
+   },
+   {
+    "p": "Tierra",
+    "ini": 16.44,
+    "fin": 16.72
+   },
+   {
+    "p": "entera.",
+    "ini": 16.72,
+    "fin": 17.36
+   }
+  ]
+ },
+ {
+  "ini": 17.46,
+  "fin": 22.68,
+  "texto": "Así que hasta a 6.000 kilómetros tu bolsillo jalaría más fuerte que todo el planeta.",
+  "palabras": [
+   {
+    "p": "Así",
+    "ini": 17.46,
+    "fin": 17.7
+   },
+   {
+    "p": "que",
+    "ini": 17.7,
+    "fin": 18.04
+   },
+   {
+    "p": "hasta",
+    "ini": 18.04,
+    "fin": 18.28
+   },
+   {
+    "p": "a",
+    "ini": 18.28,
+    "fin": 18.6
+   },
+   {
+    "p": "6",
+    "ini": 18.6,
+    "fin": 18.74
+   },
+   {
+    "p": ".000",
+    "ini": 18.74,
+    "fin": 19.02
+   },
+   {
+    "p": "kilómetros",
+    "ini": 19.02,
+    "fin": 19.66
+   },
+   {
+    "p": "tu",
+    "ini": 19.66,
+    "fin": 19.84
+   },
+   {
+    "p": "bolsillo",
+    "ini": 19.84,
+    "fin": 20.32
+   },
+   {
+    "p": "jalaría",
+    "ini": 20.32,
+    "fin": 20.82
+   },
+   {
+    "p": "más",
+    "ini": 20.82,
+    "fin": 21.14
+   },
+   {
+    "p": "fuerte",
+    "ini": 21.14,
+    "fin": 21.5
+   },
+   {
+    "p": "que",
+    "ini": 21.5,
+    "fin": 21.84
+   },
+   {
+    "p": "todo",
+    "ini": 21.84,
+    "fin": 22.1
+   },
+   {
+    "p": "el",
+    "ini": 22.1,
+    "fin": 22.34
+   },
+   {
+    "p": "planeta.",
+    "ini": 22.34,
+    "fin": 22.68
+   }
+  ]
+ },
+ {
+  "ini": 22.96,
+  "fin": 24.74,
+  "texto": "Y abajo dejaría de ser abajo.",
+  "palabras": [
+   {
+    "p": "Y",
+    "ini": 22.96,
+    "fin": 23.1
+   },
+   {
+    "p": "abajo",
+    "ini": 23.1,
+    "fin": 23.48
+   },
+   {
+    "p": "dejaría",
+    "ini": 23.48,
+    "fin": 24.08
+   },
+   {
+    "p": "de",
+    "ini": 24.08,
+    "fin": 24.26
+   },
+   {
+    "p": "ser",
+    "ini": 24.26,
+    "fin": 24.38
+   },
+   {
+    "p": "abajo.",
+    "ini": 24.38,
+    "fin": 24.74
+   }
+  ]
+ },
+ {
+  "ini": 24.74,
+  "fin": 31.22,
+  "texto": "Y en esos 5 segundos todo lo que esté a 200 kilómetros hasta el mismo suelo caería detrás de ti.",
+  "palabras": [
+   {
+    "p": "Y",
+    "ini": 24.74,
+    "fin": 25.06
+   },
+   {
+    "p": "en",
+    "ini": 25.06,
+    "fin": 25.22
+   },
+   {
+    "p": "esos",
+    "ini": 25.22,
+    "fin": 25.46
+   },
+   {
+    "p": "5",
+    "ini": 25.46,
+    "fin": 25.8
+   },
+   {
+    "p": "segundos",
+    "ini": 25.8,
+    "fin": 26.42
+   },
+   {
+    "p": "todo",
+    "ini": 26.42,
+    "fin": 26.78
+   },
+   {
+    "p": "lo",
+    "ini": 26.78,
+    "fin": 26.96
+   },
+   {
+    "p": "que",
+    "ini": 26.96,
+    "fin": 27.12
+   },
+   {
+    "p": "esté",
+    "ini": 27.12,
+    "fin": 27.26
+   },
+   {
+    "p": "a",
+    "ini": 27.26,
+    "fin": 27.52
+   },
+   {
+    "p": "200",
+    "ini": 27.52,
+    "fin": 27.92
+   },
+   {
+    "p": "kilómetros",
+    "ini": 27.92,
+    "fin": 28.64
+   },
+   {
+    "p": "hasta",
+    "ini": 28.64,
+    "fin": 29.04
+   },
+   {
+    "p": "el",
+    "ini": 29.04,
+    "fin": 29.2
+   },
+   {
+    "p": "mismo",
+    "ini": 29.2,
+    "fin": 29.5
+   },
+   {
+    "p": "suelo",
+    "ini": 29.5,
+    "fin": 29.96
+   },
+   {
+    "p": "caería",
+    "ini": 29.96,
+    "fin": 30.54
+   },
+   {
+    "p": "detrás",
+    "ini": 30.54,
+    "fin": 30.9
+   },
+   {
+    "p": "de",
+    "ini": 30.9,
+    "fin": 31.1
+   },
+   {
+    "p": "ti.",
+    "ini": 31.1,
+    "fin": 31.22
+   }
+  ]
+ },
+ {
+  "ini": 31.46,
+  "fin": 35.48,
+  "texto": "Pero un agujero tan chiquito no puede tragarse tanto tan rápido.",
+  "palabras": [
+   {
+    "p": "Pero",
+    "ini": 31.46,
+    "fin": 31.64
+   },
+   {
+    "p": "un",
+    "ini": 31.64,
+    "fin": 31.86
+   },
+   {
+    "p": "agujero",
+    "ini": 31.86,
+    "fin": 32.32
+   },
+   {
+    "p": "tan",
+    "ini": 32.32,
+    "fin": 32.68
+   },
+   {
+    "p": "chiquito",
+    "ini": 32.68,
+    "fin": 33.2
+   },
+   {
+    "p": "no",
+    "ini": 33.2,
+    "fin": 33.46
+   },
+   {
+    "p": "puede",
+    "ini": 33.46,
+    "fin": 33.74
+   },
+   {
+    "p": "tragarse",
+    "ini": 33.74,
+    "fin": 34.34
+   },
+   {
+    "p": "tanto",
+    "ini": 34.34,
+    "fin": 34.68
+   },
+   {
+    "p": "tan",
+    "ini": 34.68,
+    "fin": 35.0
+   },
+   {
+    "p": "rápido.",
+    "ini": 35.0,
+    "fin": 35.48
+   }
+  ]
+ },
+ {
+  "ini": 35.68,
+  "fin": 36.86,
+  "texto": "Así que se atraganta.",
+  "palabras": [
+   {
+    "p": "Así",
+    "ini": 35.68,
+    "fin": 35.94
+   },
+   {
+    "p": "que",
+    "ini": 35.94,
+    "fin": 36.16
+   },
+   {
+    "p": "se",
+    "ini": 36.16,
+    "fin": 36.3
+   },
+   {
+    "p": "atraganta.",
+    "ini": 36.3,
+    "fin": 36.86
+   }
+  ]
+ },
+ {
+  "ini": 37.18,
+  "fin": 41.12,
+  "texto": "Y todo ese montón se aprieta y se calienta a millones de grados",
+  "palabras": [
+   {
+    "p": "Y",
+    "ini": 37.18,
+    "fin": 37.42
+   },
+   {
+    "p": "todo",
+    "ini": 37.42,
+    "fin": 37.58
+   },
+   {
+    "p": "ese",
+    "ini": 37.58,
+    "fin": 37.8
+   },
+   {
+    "p": "montón",
+    "ini": 37.8,
+    "fin": 38.16
+   },
+   {
+    "p": "se",
+    "ini": 38.16,
+    "fin": 38.6
+   },
+   {
+    "p": "aprieta",
+    "ini": 38.6,
+    "fin": 39.0
+   },
+   {
+    "p": "y",
+    "ini": 39.0,
+    "fin": 39.18
+   },
+   {
+    "p": "se",
+    "ini": 39.18,
+    "fin": 39.4
+   },
+   {
+    "p": "calienta",
+    "ini": 39.4,
+    "fin": 39.86
+   },
+   {
+    "p": "a",
+    "ini": 39.86,
+    "fin": 40.06
+   },
+   {
+    "p": "millones",
+    "ini": 40.06,
+    "fin": 40.44
+   },
+   {
+    "p": "de",
+    "ini": 40.44,
+    "fin": 40.72
+   },
+   {
+    "p": "grados",
+    "ini": 40.72,
+    "fin": 41.12
+   }
+  ]
+ },
+ {
+  "ini": 41.12,
+  "fin": 44.1,
+  "texto": "hasta volverse un segundo sol donde estaba tu ciudad.",
+  "palabras": [
+   {
+    "p": "hasta",
+    "ini": 41.12,
+    "fin": 41.36
+   },
+   {
+    "p": "volverse",
+    "ini": 41.36,
+    "fin": 41.8
+   },
+   {
+    "p": "un",
+    "ini": 41.8,
+    "fin": 42.06
+   },
+   {
+    "p": "segundo",
+    "ini": 42.06,
+    "fin": 42.62
+   },
+   {
+    "p": "sol",
+    "ini": 42.62,
+    "fin": 42.92
+   },
+   {
+    "p": "donde",
+    "ini": 42.92,
+    "fin": 43.28
+   },
+   {
+    "p": "estaba",
+    "ini": 43.28,
+    "fin": 43.52
+   },
+   {
+    "p": "tu",
+    "ini": 43.52,
+    "fin": 43.74
+   },
+   {
+    "p": "ciudad.",
+    "ini": 43.74,
+    "fin": 44.1
+   }
+  ]
+ },
+ {
+  "ini": 44.42,
+  "fin": 47.02,
+  "texto": "A los 5 segundos el agujero desaparece.",
+  "palabras": [
+   {
+    "p": "A",
+    "ini": 44.42,
+    "fin": 44.56
+   },
+   {
+    "p": "los",
+    "ini": 44.56,
+    "fin": 44.76
+   },
+   {
+    "p": "5",
+    "ini": 44.76,
+    "fin": 45.0
+   },
+   {
+    "p": "segundos",
+    "ini": 45.0,
+    "fin": 45.52
+   },
+   {
+    "p": "el",
+    "ini": 45.52,
+    "fin": 45.78
+   },
+   {
+    "p": "agujero",
+    "ini": 45.78,
+    "fin": 46.2
+   },
+   {
+    "p": "desaparece.",
+    "ini": 46.2,
+    "fin": 47.02
+   }
+  ]
+ },
+ {
+  "ini": 47.1,
+  "fin": 51.08,
+  "texto": "Y toda esa materia aplastada y ardiendo explota hacia afuera",
+  "palabras": [
+   {
+    "p": "Y",
+    "ini": 47.1,
+    "fin": 47.46
+   },
+   {
+    "p": "toda",
+    "ini": 47.46,
+    "fin": 47.6
+   },
+   {
+    "p": "esa",
+    "ini": 47.6,
+    "fin": 47.86
+   },
+   {
+    "p": "materia",
+    "ini": 47.86,
+    "fin": 48.24
+   },
+   {
+    "p": "aplastada",
+    "ini": 48.24,
+    "fin": 49.0
+   },
+   {
+    "p": "y",
+    "ini": 49.0,
+    "fin": 49.18
+   },
+   {
+    "p": "ardiendo",
+    "ini": 49.18,
+    "fin": 49.7
+   },
+   {
+    "p": "explota",
+    "ini": 49.7,
+    "fin": 50.4
+   },
+   {
+    "p": "hacia",
+    "ini": 50.4,
+    "fin": 50.74
+   },
+   {
+    "p": "afuera",
+    "ini": 50.74,
+    "fin": 51.08
+   }
+  ]
+ },
+ {
+  "ini": 51.08,
+  "fin": 54.72,
+  "texto": "y deja un cráter el doble de grande que el que acabó con los dinosaurios.",
+  "palabras": [
+   {
+    "p": "y",
+    "ini": 51.08,
+    "fin": 51.3
+   },
+   {
+    "p": "deja",
+    "ini": 51.3,
+    "fin": 51.52
+   },
+   {
+    "p": "un",
+    "ini": 51.52,
+    "fin": 51.72
+   },
+   {
+    "p": "cráter",
+    "ini": 51.72,
+    "fin": 52.04
+   },
+   {
+    "p": "el",
+    "ini": 52.04,
+    "fin": 52.34
+   },
+   {
+    "p": "doble",
+    "ini": 52.34,
+    "fin": 52.58
+   },
+   {
+    "p": "de",
+    "ini": 52.58,
+    "fin": 52.82
+   },
+   {
+    "p": "grande",
+    "ini": 52.82,
+    "fin": 53.02
+   },
+   {
+    "p": "que",
+    "ini": 53.02,
+    "fin": 53.24
+   },
+   {
+    "p": "el",
+    "ini": 53.24,
+    "fin": 53.36
+   },
+   {
+    "p": "que",
+    "ini": 53.36,
+    "fin": 53.58
+   },
+   {
+    "p": "acabó",
+    "ini": 53.58,
+    "fin": 53.8
+   },
+   {
+    "p": "con",
+    "ini": 53.8,
+    "fin": 53.94
+   },
+   {
+    "p": "los",
+    "ini": 53.94,
+    "fin": 54.12
+   },
+   {
+    "p": "dinosaurios.",
+    "ini": 54.12,
+    "fin": 54.72
+   }
+  ]
+ },
+ {
+  "ini": 54.72,
+  "fin": 59.08,
+  "texto": "Lo bueno es que en el borde de un agujero negro el tiempo se detiene.",
+  "palabras": [
+   {
+    "p": "Lo",
+    "ini": 54.72,
+    "fin": 55.22
+   },
+   {
+    "p": "bueno",
+    "ini": 55.22,
+    "fin": 55.54
+   },
+   {
+    "p": "es",
+    "ini": 55.54,
+    "fin": 55.86
+   },
+   {
+    "p": "que",
+    "ini": 55.86,
+    "fin": 56.0
+   },
+   {
+    "p": "en",
+    "ini": 56.0,
+    "fin": 56.16
+   },
+   {
+    "p": "el",
+    "ini": 56.16,
+    "fin": 56.3
+   },
+   {
+    "p": "borde",
+    "ini": 56.3,
+    "fin": 56.54
+   },
+   {
+    "p": "de",
+    "ini": 56.54,
+    "fin": 56.74
+   },
+   {
+    "p": "un",
+    "ini": 56.74,
+    "fin": 56.84
+   },
+   {
+    "p": "agujero",
+    "ini": 56.84,
+    "fin": 57.22
+   },
+   {
+    "p": "negro",
+    "ini": 57.22,
+    "fin": 57.52
+   },
+   {
+    "p": "el",
+    "ini": 57.52,
+    "fin": 57.96
+   },
+   {
+    "p": "tiempo",
+    "ini": 57.96,
+    "fin": 58.3
+   },
+   {
+    "p": "se",
+    "ini": 58.3,
+    "fin": 58.58
+   },
+   {
+    "p": "detiene.",
+    "ini": 58.58,
+    "fin": 59.08
+   }
+  ]
+ },
+ {
+  "ini": 59.36,
+  "fin": 63.62,
+  "texto": "Así que durante esos 5 segundos tuviste el mundo entero en tu bolsillo.",
+  "palabras": [
+   {
+    "p": "Así",
+    "ini": 59.36,
+    "fin": 59.5
+   },
+   {
+    "p": "que",
+    "ini": 59.5,
+    "fin": 59.76
+   },
+   {
+    "p": "durante",
+    "ini": 59.76,
+    "fin": 60.12
+   },
+   {
+    "p": "esos",
+    "ini": 60.12,
+    "fin": 60.42
+   },
+   {
+    "p": "5",
+    "ini": 60.42,
+    "fin": 60.74
+   },
+   {
+    "p": "segundos",
+    "ini": 60.74,
+    "fin": 61.32
+   },
+   {
+    "p": "tuviste",
+    "ini": 61.32,
+    "fin": 61.86
+   },
+   {
+    "p": "el",
+    "ini": 61.86,
+    "fin": 62.14
+   },
+   {
+    "p": "mundo",
+    "ini": 62.14,
+    "fin": 62.42
+   },
+   {
+    "p": "entero",
+    "ini": 62.42,
+    "fin": 62.88
+   },
+   {
+    "p": "en",
+    "ini": 62.88,
+    "fin": 63.04
+   },
+   {
+    "p": "tu",
+    "ini": 63.04,
+    "fin": 63.16
+   },
+   {
+    "p": "bolsillo.",
+    "ini": 63.16,
+    "fin": 63.62
+   }
+  ]
+ }
+]
