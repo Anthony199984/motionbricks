@@ -1,10 +1,16 @@
 {
- "total_seconds": 175.2,
+ "total_seconds": 330.5,
  "jobs": [
   {
-   "name": "ek32_carcajada_a",
+   "name": "cp06_agachado_impaciente_b",
    "response": "OK\t90\t30",
-   "seconds": 175.1,
+   "seconds": 166.1,
+   "frames": 90
+  },
+  {
+   "name": "cp17_reir_senalar_b",
+   "response": "OK\t90\t30",
+   "seconds": 164.4,
    "frames": 90
   }
  ]
