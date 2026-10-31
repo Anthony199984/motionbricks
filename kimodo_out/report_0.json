@@ -1,10 +1,10 @@
 {
- "total_seconds": 212.1,
+ "total_seconds": 138.9,
  "jobs": [
   {
-   "name": "av07_caminar_normal_a",
+   "name": "cp60_dedo_arriba_camara_a",
    "response": "OK\t120\t30",
-   "seconds": 212.0,
+   "seconds": 138.7,
    "frames": 120
   }
  ]
