@@ -1,17 +1,11 @@
 {
- "total_seconds": 264.7,
+ "total_seconds": 87.3,
  "jobs": [
   {
-   "name": "an06_cargar_tierra_b",
-   "response": "OK\t120\t30",
-   "seconds": 130.9,
-   "frames": 120
-  },
-  {
-   "name": "ae05_montado_saluda_a",
-   "response": "OK\t120\t30",
-   "seconds": 133.7,
-   "frames": 120
+   "name": "cp25_se_le_cae_b",
+   "response": "OK\t60\t30",
+   "seconds": 87.2,
+   "frames": 60
   }
  ]
 }
