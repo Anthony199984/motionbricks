@@ -1,7 +1,12 @@
 {
  "catalogo": false,
- "informe": "informe_transc_voz_agujero.json",
- "transcribir": [
-  {"archivo": "recursos/entrada/voz_agujero_negro.wav", "salida": "transc_voz_agujero_negro.json", "idioma": "es", "modelo": "medium", "palabras": true}
+ "informe": "informe_an_busqueda1.json",
+ "sketchfab_buscar": [
+  {"clave": "an_vaca_animada", "q": "cow", "animado": true, "paginas": 6, "solo_objaverse": true, "max": 40},
+  {"clave": "an_vaca_realista", "q": "realistic cow holstein", "paginas": 4, "solo_objaverse": true, "max": 30},
+  {"clave": "an_balanza", "q": "antique balance scale brass", "paginas": 3, "solo_objaverse": true, "max": 20},
+  {"clave": "an_senal_alto", "q": "stop sign", "paginas": 3, "solo_objaverse": true, "max": 20},
+  {"clave": "an_lentes", "q": "sunglasses", "paginas": 3, "solo_objaverse": true, "max": 20},
+  {"clave": "an_vaso_cafe", "q": "coffee cup paper takeaway", "paginas": 3, "solo_objaverse": true, "max": 20}
  ]
 }
