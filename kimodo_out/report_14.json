@@ -1,16 +1,10 @@
 {
- "total_seconds": 278.8,
+ "total_seconds": 138.5,
  "jobs": [
   {
-   "name": "cp10_agacharse_miedo_a",
+   "name": "an16_quitarse_lentes_a",
    "response": "OK\t60\t30",
-   "seconds": 140.2,
-   "frames": 60
-  },
-  {
-   "name": "cp21_saltar_cuerda_a",
-   "response": "OK\t60\t30",
-   "seconds": 138.5,
+   "seconds": 138.3,
    "frames": 60
   }
  ]
