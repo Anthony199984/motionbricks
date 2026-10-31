@@ -1,10 +1,16 @@
 {
- "total_seconds": 118.5,
+ "total_seconds": 379.3,
  "jobs": [
   {
-   "name": "ek50_empujon_b",
+   "name": "cp02_brindar_a",
+   "response": "OK\t60\t30",
+   "seconds": 169.4,
+   "frames": 60
+  },
+  {
+   "name": "cp14_levantarse_caminar_a",
    "response": "OK\t90\t30",
-   "seconds": 118.4,
+   "seconds": 209.8,
    "frames": 90
   }
  ]
