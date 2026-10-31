@@ -1,11 +1,17 @@
 {
- "total_seconds": 237.1,
+ "total_seconds": 317.1,
  "jobs": [
   {
-   "name": "ek51_perreo_c",
-   "response": "OK\t180\t30",
-   "seconds": 236.9,
-   "frames": 180
+   "name": "cp04_subir_bascula_a",
+   "response": "OK\t90\t30",
+   "seconds": 176.5,
+   "frames": 90
+  },
+  {
+   "name": "cp15_tomar_de_perro_b",
+   "response": "OK\t60\t30",
+   "seconds": 140.5,
+   "frames": 60
   }
  ]
 }
