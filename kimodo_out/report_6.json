@@ -1,17 +1,11 @@
 {
- "total_seconds": 325.4,
+ "total_seconds": 140.6,
  "jobs": [
   {
-   "name": "an06_cargar_tierra_a",
-   "response": "OK\t120\t30",
-   "seconds": 178.0,
-   "frames": 120
-  },
-  {
-   "name": "ae03_ofrecer_helado_a",
-   "response": "OK\t90\t30",
-   "seconds": 147.3,
-   "frames": 90
+   "name": "cp25_se_le_cae_a",
+   "response": "OK\t60\t30",
+   "seconds": 140.4,
+   "frames": 60
   }
  ]
 }
