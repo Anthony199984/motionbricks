@@ -1,16 +1,16 @@
 {
- "total_seconds": 379.3,
+ "total_seconds": 265.5,
  "jobs": [
   {
-   "name": "cp02_brindar_a",
-   "response": "OK\t60\t30",
-   "seconds": 169.4,
-   "frames": 60
+   "name": "an01_caminar_sorbo_b",
+   "response": "OK\t150\t30",
+   "seconds": 155.6,
+   "frames": 150
   },
   {
-   "name": "cp14_levantarse_caminar_a",
+   "name": "an21_palmear_bolsillo_a",
    "response": "OK\t90\t30",
-   "seconds": 209.8,
+   "seconds": 109.8,
    "frames": 90
   }
  ]
