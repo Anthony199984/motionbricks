@@ -1,17 +1,11 @@
 {
- "total_seconds": 320.6,
+ "total_seconds": 134.2,
  "jobs": [
   {
-   "name": "an03_aterrizar_a",
+   "name": "cp23_brindar_alto_a",
    "response": "OK\t60\t30",
-   "seconds": 142.4,
+   "seconds": 134.1,
    "frames": 60
-  },
-  {
-   "name": "an21_palmear_bolsillo_b",
-   "response": "OK\t90\t30",
-   "seconds": 178.1,
-   "frames": 90
   }
  ]
 }
