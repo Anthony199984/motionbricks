@@ -1,11 +1,11 @@
 {
- "total_seconds": 245.5,
+ "total_seconds": 160.4,
  "jobs": [
   {
-   "name": "av05_tirado_levantarse_b",
-   "response": "OK\t120\t30",
-   "seconds": 245.4,
-   "frames": 120
+   "name": "cp46_soltar_taza_a",
+   "response": "OK\t75\t30",
+   "seconds": 160.3,
+   "frames": 75
   }
  ]
 }
