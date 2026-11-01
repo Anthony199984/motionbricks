@@ -1,11 +1,11 @@
 {
- "total_seconds": 261.7,
+ "total_seconds": 0.1,
  "jobs": [
   {
-   "name": "cp60_dedo_arriba_camara_b",
-   "response": "OK\t120\t30",
-   "seconds": 261.6,
-   "frames": 120
+   "name": "mv01_vaso_beber_b",
+   "response": "ERR\teach sequence segment must contain a prompt and have 2..300 frames",
+   "seconds": 0.1,
+   "frames": 440
   }
  ]
 }
