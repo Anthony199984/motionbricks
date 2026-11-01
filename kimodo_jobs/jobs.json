@@ -1,4 +1,4 @@
 [
-{"name": "mv01_vaso_beber_a", "frames": 440, "seed": 14001, "prompt": "A person standing next to a cabinet on their left turns, picks up a cup with the left hand, drinks water from it tilting the head back, puts the cup back on the cabinet and stands still."},
-{"name": "mv01_vaso_beber_b", "frames": 440, "seed": 14002, "prompt": "A person picks up a cup from a table on their left with the left hand, drinks from it, and puts it back down."}
+{"name": "mv01_vaso_beber_a", "frames": 300, "seed": 14001, "prompt": "A person standing next to a cabinet on their left turns, picks up a cup with the left hand, drinks water from it tilting the head back, puts the cup back on the cabinet and stands still."},
+{"name": "mv01_vaso_beber_b", "frames": 300, "seed": 14002, "prompt": "A person picks up a cup from a table on their left with the left hand, drinks from it, and puts it back down."}
 ]
