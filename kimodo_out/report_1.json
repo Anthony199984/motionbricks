@@ -1,11 +1,11 @@
 {
- "total_seconds": 0.1,
+ "total_seconds": 469.1,
  "jobs": [
   {
    "name": "mv01_vaso_beber_b",
-   "response": "ERR\teach sequence segment must contain a prompt and have 2..300 frames",
-   "seconds": 0.1,
-   "frames": 440
+   "response": "OK\t300\t30",
+   "seconds": 468.9,
+   "frames": 300
   }
  ]
 }
