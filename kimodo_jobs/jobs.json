@@ -1,20 +1,4 @@
 [
-{
-"name": "cp60_dedo_arriba_camara_a",
-"frames": 120,
-"seed": 13200,
-"prompt": "A person stands facing forward, raises the right index finger and explains something while smiling and nodding."
-},
-{
-"name": "cp60_dedo_arriba_camara_b",
-"frames": 120,
-"seed": 13201,
-"prompt": "A person stands facing forward, raises the right index finger and explains something while smiling and nodding."
-},
-{
-"name": "cp61_parado_tranquilo_a",
-"frames": 150,
-"seed": 13202,
-"prompt": "A person stands still and relaxed, breathing calmly, looking forward."
-}
+{"name": "mv01_vaso_beber_a", "frames": 440, "seed": 14001, "prompt": "A person standing next to a cabinet on their left turns, picks up a cup with the left hand, drinks water from it tilting the head back, puts the cup back on the cabinet and stands still."},
+{"name": "mv01_vaso_beber_b", "frames": 440, "seed": 14002, "prompt": "A person picks up a cup from a table on their left with the left hand, drinks from it, and puts it back down."}
 ]
