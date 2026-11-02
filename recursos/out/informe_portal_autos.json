@@ -1,0 +1,254 @@
+{
+ "bajados": [
+  {
+   "destino": "sonidos/pt_turbofan/584726__gleith1__cicadas-in-my-neighborhood-san-an_705268.mp3",
+   "mb": 0.53
+  },
+  {
+   "destino": "sonidos/pt_turbofan/Cicadas_in_my_neighborhood_San_Antonio_TX_by_gleit_584726.mp3",
+   "mb": 0.66
+  },
+  {
+   "destino": "miniaturas/pt_sedan/67c84e4d30ae42fda22c0a0c7526df26.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_sedan/8eebf01fb1c14f6d88ddd47fa77f5ccb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_sedan/cfaabdec76a74b68a48ba5657b6d9aee.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_suv/141db37d07fc4ccba84ab5f38a8181b5.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_suv/730e9269cdb647f1898b2b87190d6b4e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_suv/e77855f0c3ea4340a4d67a4ece4b87ac.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_suv/e876d6429ed847c884f45d66e9be2d3c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_suv/cfaabdec76a74b68a48ba5657b6d9aee.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_suv/42241721212741e68664e0d265fddceb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_suv/d360e5c4e7f54b87b08f22e20d33d878.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_suv/93fc33be25e34b44b205c5b962d66e61.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_suv/77430250e8bd425c8bbfadcc5115ceb1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_suv/56b3ef0fd29f4115ab22b74fe71aa265.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_suv/cb79192a9a7f4d89b47075535aa06bba.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_taxi/8c81631fd8d7466a96175364f3f5a683.jpg",
+   "mb": 0.01
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "freesound": {
+  "pt_pezunas": [],
+  "pt_turbofan": [
+   {
+    "id": "705268",
+    "autor": "gleith1",
+    "pagina": "https://freesound.org/people/gleith1/sounds/705268/",
+    "titulo": "584726__gleith1__cicadas-in-my-neighborhood-san-antonio-tx.wav by gleith1",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/pt_turbofan/584726__gleith1__cicadas-in-my-neighborhood-san-an_705268.mp3"
+   },
+   {
+    "id": "584726",
+    "autor": "gleith1",
+    "pagina": "https://freesound.org/people/gleith1/sounds/584726/",
+    "titulo": "Cicadas in my neighborhood (San Antonio, TX) by gleith1",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/pt_turbofan/Cicadas_in_my_neighborhood_San_Antonio_TX_by_gleit_584726.mp3"
+   }
+  ]
+ },
+ "sketchfab": {
+  "pt_sedan": [
+   {
+    "uid": "67c84e4d30ae42fda22c0a0c7526df26",
+    "nombre": "Small price car",
+    "autor": "Oliv1e",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 42294,
+    "url": "https://sketchfab.com/3d-models/none-67c84e4d30ae42fda22c0a0c7526df26",
+    "miniatura": "miniaturas/pt_sedan/67c84e4d30ae42fda22c0a0c7526df26.jpg"
+   },
+   {
+    "uid": "8eebf01fb1c14f6d88ddd47fa77f5ccb",
+    "nombre": "Ford Country Sedan 1962",
+    "autor": "Dodocaedro",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 214831,
+    "url": "https://sketchfab.com/3d-models/none-8eebf01fb1c14f6d88ddd47fa77f5ccb",
+    "miniatura": "miniaturas/pt_sedan/8eebf01fb1c14f6d88ddd47fa77f5ccb.jpg"
+   },
+   {
+    "uid": "cfaabdec76a74b68a48ba5657b6d9aee",
+    "nombre": "SHC MC Free Promotion Car",
+    "autor": "denniswoo1993",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 42070,
+    "url": "https://sketchfab.com/3d-models/none-cfaabdec76a74b68a48ba5657b6d9aee",
+    "miniatura": "miniaturas/pt_sedan/cfaabdec76a74b68a48ba5657b6d9aee.jpg"
+   }
+  ],
+  "pt_suv": [
+   {
+    "uid": "141db37d07fc4ccba84ab5f38a8181b5",
+    "nombre": "Street Food Vendor Challenge - Kokorec",
+    "autor": "berkgedik",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 53516,
+    "url": "https://sketchfab.com/3d-models/none-141db37d07fc4ccba84ab5f38a8181b5",
+    "miniatura": "miniaturas/pt_suv/141db37d07fc4ccba84ab5f38a8181b5.jpg"
+   },
+   {
+    "uid": "730e9269cdb647f1898b2b87190d6b4e",
+    "nombre": "REAL Army Jacket",
+    "autor": "csheffield",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 755264,
+    "url": "https://sketchfab.com/3d-models/none-730e9269cdb647f1898b2b87190d6b4e",
+    "miniatura": "miniaturas/pt_suv/730e9269cdb647f1898b2b87190d6b4e.jpg"
+   },
+   {
+    "uid": "e77855f0c3ea4340a4d67a4ece4b87ac",
+    "nombre": "DAE -  Rigby Hunting Rifle - Game Ready Asset",
+    "autor": "MartijnVaes",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20177,
+    "url": "https://sketchfab.com/3d-models/none-e77855f0c3ea4340a4d67a4ece4b87ac",
+    "miniatura": "miniaturas/pt_suv/e77855f0c3ea4340a4d67a4ece4b87ac.jpg"
+   },
+   {
+    "uid": "e876d6429ed847c884f45d66e9be2d3c",
+    "nombre": "Salomon X RAISE Hiking",
+    "autor": "inciprocal.com",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 24708,
+    "url": "https://sketchfab.com/3d-models/none-e876d6429ed847c884f45d66e9be2d3c",
+    "miniatura": "miniaturas/pt_suv/e876d6429ed847c884f45d66e9be2d3c.jpg"
+   },
+   {
+    "uid": "cfaabdec76a74b68a48ba5657b6d9aee",
+    "nombre": "SHC MC Free Promotion Car",
+    "autor": "denniswoo1993",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 42070,
+    "url": "https://sketchfab.com/3d-models/none-cfaabdec76a74b68a48ba5657b6d9aee",
+    "miniatura": "miniaturas/pt_suv/cfaabdec76a74b68a48ba5657b6d9aee.jpg"
+   },
+   {
+    "uid": "42241721212741e68664e0d265fddceb",
+    "nombre": "SU-122 Self-propelled howitzer",
+    "autor": "twilightfox",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 519923,
+    "url": "https://sketchfab.com/3d-models/none-42241721212741e68664e0d265fddceb",
+    "miniatura": "miniaturas/pt_suv/42241721212741e68664e0d265fddceb.jpg"
+   },
+   {
+    "uid": "d360e5c4e7f54b87b08f22e20d33d878",
+    "nombre": "MagLite - exploded view",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 56832,
+    "url": "https://sketchfab.com/3d-models/none-d360e5c4e7f54b87b08f22e20d33d878",
+    "miniatura": "miniaturas/pt_suv/d360e5c4e7f54b87b08f22e20d33d878.jpg"
+   },
+   {
+    "uid": "93fc33be25e34b44b205c5b962d66e61",
+    "nombre": "Good Old Niva",
+    "autor": "Livagof",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 31662,
+    "url": "https://sketchfab.com/3d-models/none-93fc33be25e34b44b205c5b962d66e61",
+    "miniatura": "miniaturas/pt_suv/93fc33be25e34b44b205c5b962d66e61.jpg"
+   },
+   {
+    "uid": "77430250e8bd425c8bbfadcc5115ceb1",
+    "nombre": "Up to cleanness - wooden sculpture",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 105335,
+    "url": "https://sketchfab.com/3d-models/none-77430250e8bd425c8bbfadcc5115ceb1",
+    "miniatura": "miniaturas/pt_suv/77430250e8bd425c8bbfadcc5115ceb1.jpg"
+   },
+   {
+    "uid": "56b3ef0fd29f4115ab22b74fe71aa265",
+    "nombre": "Assualt SUV Voxel",
+    "autor": "WaxFreeOintment",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12468,
+    "url": "https://sketchfab.com/3d-models/none-56b3ef0fd29f4115ab22b74fe71aa265",
+    "miniatura": "miniaturas/pt_suv/56b3ef0fd29f4115ab22b74fe71aa265.jpg"
+   },
+   {
+    "uid": "cb79192a9a7f4d89b47075535aa06bba",
+    "nombre": "Cabinet 01",
+    "autor": "Fran.Jorge",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 101116,
+    "url": "https://sketchfab.com/3d-models/none-cb79192a9a7f4d89b47075535aa06bba",
+    "miniatura": "miniaturas/pt_suv/cb79192a9a7f4d89b47075535aa06bba.jpg"
+   }
+  ],
+  "pt_taxi": [
+   {
+    "uid": "8c81631fd8d7466a96175364f3f5a683",
+    "nombre": "New York Police and Taxi",
+    "autor": "jeandiz",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 531742,
+    "url": "https://sketchfab.com/3d-models/none-8c81631fd8d7466a96175364f3f5a683",
+    "miniatura": "miniaturas/pt_taxi/8c81631fd8d7466a96175364f3f5a683.jpg"
+   }
+  ],
+  "pt_hatch": []
+ }
+}
