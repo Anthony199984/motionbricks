@@ -1,10 +1,16 @@
 {
- "total_seconds": 114.2,
+ "total_seconds": 263.1,
  "jobs": [
   {
-   "name": "pt_m03_resiste_c",
+   "name": "pt2_camina_feliz_c",
+   "response": "OK\t150\t30",
+   "seconds": 154.4,
+   "frames": 150
+  },
+  {
+   "name": "pt2_carga_peso_b",
    "response": "OK\t90\t30",
-   "seconds": 114.1,
+   "seconds": 108.6,
    "frames": 90
   }
  ]
