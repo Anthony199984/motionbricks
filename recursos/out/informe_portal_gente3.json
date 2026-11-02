@@ -1,0 +1,18 @@
+{
+ "bajados": [],
+ "errores": [
+  {
+   "uid": "143a2b1ea5eb4385ae90a73657aca3bc",
+   "error": "no está en Objaverse"
+  },
+  {
+   "uid": "d1ce2b8009b8401481408aeecea903d0",
+   "error": "no está en Objaverse"
+  },
+  {
+   "uid": "9ef7dbea47854f49b496e8c0a8332157",
+   "error": "no está en Objaverse"
+  }
+ ],
+ "saltados": []
+}
