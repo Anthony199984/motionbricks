@@ -1,218 +1,242 @@
 [
  {
-  "name": "pt2_camina_feliz_a",
+  "name": "pv01_mirar_atras_hombro_a",
   "frames": 150,
-  "seed": 21173,
-  "prompt": "A person walks forward casually and relaxed, smiling, swinging the left arm, holding a coffee cup in the right hand."
+  "seed": 31000,
+  "prompt": "A person stands and slowly looks back over the left shoulder, then over the right shoulder, as if hearing a noise behind."
  },
  {
-  "name": "pt2_camina_feliz_b",
+  "name": "pv01_mirar_atras_hombro_b",
   "frames": 150,
-  "seed": 21174,
-  "prompt": "A person walks forward casually and relaxed, smiling, swinging the left arm, holding a coffee cup in the right hand."
+  "seed": 31001,
+  "prompt": "A person stands and slowly looks back over the left shoulder, then over the right shoulder, as if hearing a noise behind."
  },
  {
-  "name": "pt2_camina_feliz_c",
+  "name": "pv02_seguir_pajaro_cielo_a",
   "frames": 150,
-  "seed": 21175,
-  "prompt": "A person walks forward casually and relaxed, smiling, swinging the left arm, holding a coffee cup in the right hand."
+  "seed": 31010,
+  "prompt": "A person stands and follows a bird flying overhead with the eyes, tilting the head up and turning to watch it pass behind."
  },
  {
-  "name": "pt2_susto_frena_a",
-  "frames": 90,
-  "seed": 21024,
-  "prompt": "A person walking forward suddenly stops, startled, and leans back in fear looking at something in front, taking a small step back."
- },
- {
-  "name": "pt2_susto_frena_b",
-  "frames": 90,
-  "seed": 21025,
-  "prompt": "A person walking forward suddenly stops, startled, and leans back in fear looking at something in front, taking a small step back."
- },
- {
-  "name": "pt2_susto_frena_c",
-  "frames": 90,
-  "seed": 21026,
-  "prompt": "A person walking forward suddenly stops, startled, and leans back in fear looking at something in front, taking a small step back."
- },
- {
-  "name": "pt2_cae_espalda_a",
-  "frames": 100,
-  "seed": 21805,
-  "prompt": "A standing person is knocked backward by a very strong wind, falls onto their back on the ground and slides a little."
- },
- {
-  "name": "pt2_cae_espalda_b",
-  "frames": 100,
-  "seed": 21806,
-  "prompt": "A standing person is knocked backward by a very strong wind, falls onto their back on the ground and slides a little."
- },
- {
-  "name": "pt2_cae_espalda_c",
-  "frames": 100,
-  "seed": 21807,
-  "prompt": "A standing person is knocked backward by a very strong wind, falls onto their back on the ground and slides a little."
- },
- {
-  "name": "pt2_tirado_respira_a",
+  "name": "pv02_seguir_pajaro_cielo_b",
   "frames": 150,
-  "seed": 21633,
-  "prompt": "A person lies on their back on the ground breathing heavily, turning the head left and right, looking around in shock."
+  "seed": 31011,
+  "prompt": "A person stands and follows a bird flying overhead with the eyes, tilting the head up and turning to watch it pass behind."
  },
  {
-  "name": "pt2_tirado_respira_b",
+  "name": "pv03_mirar_alrededor_cielo_a",
   "frames": 150,
-  "seed": 21634,
-  "prompt": "A person lies on their back on the ground breathing heavily, turning the head left and right, looking around in shock."
+  "seed": 31020,
+  "prompt": "A person stands looking around at the sky, slowly turning the head left and right, amazed."
  },
  {
-  "name": "pt2_tirado_respira_c",
+  "name": "pv03_mirar_alrededor_cielo_b",
   "frames": 150,
-  "seed": 21635,
-  "prompt": "A person lies on their back on the ground breathing heavily, turning the head left and right, looking around in shock."
+  "seed": 31021,
+  "prompt": "A person stands looking around at the sky, slowly turning the head left and right, amazed."
  },
  {
-  "name": "pt2_tirado_encoge_a",
-  "frames": 90,
-  "seed": 21547,
-  "prompt": "A person lying on their back props up on the elbows and shrugs the shoulders with palms up."
+  "name": "pv04_alcanzar_estante_alto_a",
+  "frames": 150,
+  "seed": 31030,
+  "prompt": "A person stands on tiptoes and reaches up high with the right hand to grab something from a tall shelf."
  },
  {
-  "name": "pt2_tirado_encoge_b",
-  "frames": 90,
-  "seed": 21548,
-  "prompt": "A person lying on their back props up on the elbows and shrugs the shoulders with palms up."
+  "name": "pv04_alcanzar_estante_alto_b",
+  "frames": 150,
+  "seed": 31031,
+  "prompt": "A person stands on tiptoes and reaches up high with the right hand to grab something from a tall shelf."
  },
  {
-  "name": "pt2_tirado_encoge_c",
-  "frames": 90,
-  "seed": 21549,
-  "prompt": "A person lying on their back props up on the elbows and shrugs the shoulders with palms up."
+  "name": "pv05_amarrar_cordon_a",
+  "frames": 150,
+  "seed": 31040,
+  "prompt": "A person kneels down on one knee and ties the shoelaces of the front shoe, then stands up."
  },
  {
-  "name": "pt2_tirado_mira_mano_a",
-  "frames": 90,
-  "seed": 21468,
-  "prompt": "A person lying on their back slowly raises the right hand in front of the face and looks at the empty hand sadly."
+  "name": "pv05_amarrar_cordon_b",
+  "frames": 150,
+  "seed": 31041,
+  "prompt": "A person kneels down on one knee and ties the shoelaces of the front shoe, then stands up."
  },
  {
-  "name": "pt2_tirado_mira_mano_b",
-  "frames": 90,
-  "seed": 21469,
-  "prompt": "A person lying on their back slowly raises the right hand in front of the face and looks at the empty hand sadly."
+  "name": "pv06_gatear_a",
+  "frames": 150,
+  "seed": 31050,
+  "prompt": "A person crawls forward on hands and knees on the floor."
  },
  {
-  "name": "pt2_tirado_mira_mano_c",
-  "frames": 90,
-  "seed": 21470,
-  "prompt": "A person lying on their back slowly raises the right hand in front of the face and looks at the empty hand sadly."
+  "name": "pv06_gatear_b",
+  "frames": 150,
+  "seed": 31051,
+  "prompt": "A person crawls forward on hands and knees on the floor."
  },
  {
-  "name": "pt2_tirado_sienta_pulgar_a",
-  "frames": 120,
-  "seed": 21255,
-  "prompt": "A person lying on their back sits up and gives a thumbs up with the right hand, smiling."
+  "name": "pv07_sentarse_piso_cruzado_a",
+  "frames": 150,
+  "seed": 31060,
+  "prompt": "A person sits down cross-legged on the floor, rests for a moment, then stands up."
  },
  {
-  "name": "pt2_tirado_sienta_pulgar_b",
-  "frames": 120,
-  "seed": 21256,
-  "prompt": "A person lying on their back sits up and gives a thumbs up with the right hand, smiling."
+  "name": "pv07_sentarse_piso_cruzado_b",
+  "frames": 150,
+  "seed": 31061,
+  "prompt": "A person sits down cross-legged on the floor, rests for a moment, then stands up."
  },
  {
-  "name": "pt2_tirado_sienta_pulgar_c",
-  "frames": 120,
-  "seed": 21257,
-  "prompt": "A person lying on their back sits up and gives a thumbs up with the right hand, smiling."
+  "name": "pv08_calentamiento_torso_a",
+  "frames": 150,
+  "seed": 31070,
+  "prompt": "A person warms up, twisting the torso left and right with the arms stretched out to the sides."
  },
  {
-  "name": "pt2_carga_peso_a",
-  "frames": 90,
-  "seed": 21029,
-  "prompt": "A person standing bends the knees and hunches as if a heavy invisible weight is pressing down on the shoulders, straining."
+  "name": "pv08_calentamiento_torso_b",
+  "frames": 150,
+  "seed": 31071,
+  "prompt": "A person warms up, twisting the torso left and right with the arms stretched out to the sides."
  },
  {
-  "name": "pt2_carga_peso_b",
-  "frames": 90,
-  "seed": 21030,
-  "prompt": "A person standing bends the knees and hunches as if a heavy invisible weight is pressing down on the shoulders, straining."
+  "name": "pv09_lanzar_pelota_fuerte_a",
+  "frames": 150,
+  "seed": 31080,
+  "prompt": "A person throws a ball overhand very hard with the right arm."
  },
  {
-  "name": "pt2_carga_peso_c",
-  "frames": 90,
-  "seed": 21031,
-  "prompt": "A person standing bends the knees and hunches as if a heavy invisible weight is pressing down on the shoulders, straining."
+  "name": "pv09_lanzar_pelota_fuerte_b",
+  "frames": 150,
+  "seed": 31081,
+  "prompt": "A person throws a ball overhand very hard with the right arm."
  },
  {
-  "name": "pt2_mira_avion_a",
-  "frames": 90,
-  "seed": 21648,
-  "prompt": "A person standing looks up at the sky and follows something flying fast overhead, turning the head from behind to front, surprised."
+  "name": "pv10_saludar_dos_manos_a",
+  "frames": 150,
+  "seed": 31090,
+  "prompt": "A person waves both hands above the head to get attention from far away."
  },
  {
-  "name": "pt2_mira_avion_b",
-  "frames": 90,
-  "seed": 21649,
-  "prompt": "A person standing looks up at the sky and follows something flying fast overhead, turning the head from behind to front, surprised."
+  "name": "pv10_saludar_dos_manos_b",
+  "frames": 150,
+  "seed": 31091,
+  "prompt": "A person waves both hands above the head to get attention from far away."
  },
  {
-  "name": "pt2_mira_avion_c",
-  "frames": 90,
-  "seed": 21650,
-  "prompt": "A person standing looks up at the sky and follows something flying fast overhead, turning the head from behind to front, surprised."
+  "name": "pv11_levantar_caja_pesada_a",
+  "frames": 150,
+  "seed": 31100,
+  "prompt": "A person bends the knees, picks up a heavy box from the floor with both hands and lifts it to the chest."
  },
  {
-  "name": "pt2_asiente_a",
-  "frames": 75,
-  "seed": 21937,
-  "prompt": "A person standing nods slowly twice, impressed, then relaxes."
+  "name": "pv11_levantar_caja_pesada_b",
+  "frames": 150,
+  "seed": 31101,
+  "prompt": "A person bends the knees, picks up a heavy box from the floor with both hands and lifts it to the chest."
  },
  {
-  "name": "pt2_asiente_b",
-  "frames": 75,
-  "seed": 21938,
-  "prompt": "A person standing nods slowly twice, impressed, then relaxes."
+  "name": "pv12_saltar_girar_a",
+  "frames": 150,
+  "seed": 31110,
+  "prompt": "A person jumps and spins around in the air, then lands on both feet."
  },
  {
-  "name": "pt2_asiente_c",
-  "frames": 75,
-  "seed": 21939,
-  "prompt": "A person standing nods slowly twice, impressed, then relaxes."
+  "name": "pv12_saltar_girar_b",
+  "frames": 150,
+  "seed": 31111,
+  "prompt": "A person jumps and spins around in the air, then lands on both feet."
  },
  {
-  "name": "pt2_encoge_pie_a",
-  "frames": 75,
-  "seed": 21653,
-  "prompt": "A person standing shrugs the shoulders with the left palm up, as if saying no big deal."
+  "name": "pv13_patear_pelota_a",
+  "frames": 150,
+  "seed": 31120,
+  "prompt": "A person runs a few steps and kicks a soccer ball with the right foot."
  },
  {
-  "name": "pt2_encoge_pie_b",
-  "frames": 75,
-  "seed": 21654,
-  "prompt": "A person standing shrugs the shoulders with the left palm up, as if saying no big deal."
+  "name": "pv13_patear_pelota_b",
+  "frames": 150,
+  "seed": 31121,
+  "prompt": "A person runs a few steps and kicks a soccer ball with the right foot."
  },
  {
-  "name": "pt2_encoge_pie_c",
-  "frames": 75,
-  "seed": 21655,
-  "prompt": "A person standing shrugs the shoulders with the left palm up, as if saying no big deal."
+  "name": "pv14_tropezar_caer_a",
+  "frames": 150,
+  "seed": 31130,
+  "prompt": "A person walking trips over something and falls forward, catching the fall with both hands on the ground."
  },
  {
-  "name": "pt2_jalado_pies_a",
-  "frames": 90,
-  "seed": 21550,
-  "prompt": "A person standing is pulled forward by a strong force, leans back and slides forward on the heels, arms waving."
+  "name": "pv14_tropezar_caer_b",
+  "frames": 150,
+  "seed": 31131,
+  "prompt": "A person walking trips over something and falls forward, catching the fall with both hands on the ground."
  },
  {
-  "name": "pt2_jalado_pies_b",
-  "frames": 90,
-  "seed": 21551,
-  "prompt": "A person standing is pulled forward by a strong force, leans back and slides forward on the heels, arms waving."
+  "name": "pv15_contar_dedos_a",
+  "frames": 150,
+  "seed": 31140,
+  "prompt": "A person stands and counts on the fingers of the right hand, raising one finger at a time, showing the numbers."
  },
  {
-  "name": "pt2_jalado_pies_c",
-  "frames": 90,
-  "seed": 21552,
-  "prompt": "A person standing is pulled forward by a strong force, leans back and slides forward on the heels, arms waving."
+  "name": "pv15_contar_dedos_b",
+  "frames": 150,
+  "seed": 31141,
+  "prompt": "A person stands and counts on the fingers of the right hand, raising one finger at a time, showing the numbers."
+ },
+ {
+  "name": "pv16_bailar_caderas_a",
+  "frames": 150,
+  "seed": 31150,
+  "prompt": "A person dances happily, swinging the hips and waving the arms."
+ },
+ {
+  "name": "pv16_bailar_caderas_b",
+  "frames": 150,
+  "seed": 31151,
+  "prompt": "A person dances happily, swinging the hips and waving the arms."
+ },
+ {
+  "name": "pv17_empujar_pared_a",
+  "frames": 150,
+  "seed": 31160,
+  "prompt": "A person pushes hard against a heavy wall with both hands, leaning forward."
+ },
+ {
+  "name": "pv17_empujar_pared_b",
+  "frames": 150,
+  "seed": 31161,
+  "prompt": "A person pushes hard against a heavy wall with both hands, leaning forward."
+ },
+ {
+  "name": "pv18_rascar_espalda_a",
+  "frames": 150,
+  "seed": 31170,
+  "prompt": "A person reaches over the right shoulder with the right hand to scratch the middle of the back."
+ },
+ {
+  "name": "pv18_rascar_espalda_b",
+  "frames": 150,
+  "seed": 31171,
+  "prompt": "A person reaches over the right shoulder with the right hand to scratch the middle of the back."
+ },
+ {
+  "name": "pv19_acostado_rodar_levantarse_a",
+  "frames": 150,
+  "seed": 31180,
+  "prompt": "A person lying on the back rolls onto the side and gets up to standing."
+ },
+ {
+  "name": "pv19_acostado_rodar_levantarse_b",
+  "frames": 150,
+  "seed": 31181,
+  "prompt": "A person lying on the back rolls onto the side and gets up to standing."
+ },
+ {
+  "name": "pv20_darse_vuelta_mirar_atras_a",
+  "frames": 150,
+  "seed": 31190,
+  "prompt": "A person walks forward, then turns around and walks back while looking over the shoulder."
+ },
+ {
+  "name": "pv20_darse_vuelta_mirar_atras_b",
+  "frames": 150,
+  "seed": 31191,
+  "prompt": "A person walks forward, then turns around and walks back while looking over the shoulder."
  }
 ]
