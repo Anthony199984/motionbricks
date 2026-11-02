@@ -1,11 +1,11 @@
 {
- "total_seconds": 115.0,
+ "total_seconds": 129.4,
  "jobs": [
   {
-   "name": "pt_m13_pulgar_b",
-   "response": "OK\t90\t30",
-   "seconds": 114.9,
-   "frames": 90
+   "name": "pt2_tirado_sienta_pulgar_b",
+   "response": "OK\t120\t30",
+   "seconds": 129.3,
+   "frames": 120
   }
  ]
 }
