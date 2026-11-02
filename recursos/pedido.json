@@ -1,48 +1,34 @@
 {
  "catalogo": false,
- "informe": "informe_portal_autos.json",
- "sketchfab_buscar": [
+ "informe": "informe_portal_autos_bajada.json",
+ "objaverse": [
   {
-   "clave": "pt_sedan",
-   "q": "realistic sedan car",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true
+   "uid": "67c84e4d30ae42fda22c0a0c7526df26",
+   "nombre": "pt_auto_sedan",
+   "titulo": "Small price car",
+   "autor": "Oliv1e",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "pt_suv",
-   "q": "realistic suv car",
-   "animado": false,
-   "paginas": 4,
-   "solo_objaverse": true
+   "uid": "93fc33be25e34b44b205c5b962d66e61",
+   "nombre": "pt_auto_niva",
+   "titulo": "Good Old Niva",
+   "autor": "Livagof",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "pt_taxi",
-   "q": "new york yellow taxi",
-   "animado": false,
-   "paginas": 3,
-   "solo_objaverse": true
+   "uid": "8c81631fd8d7466a96175364f3f5a683",
+   "nombre": "pt_auto_taxi",
+   "titulo": "New York Police and Taxi",
+   "autor": "jeandiz",
+   "licencia": "CC Attribution-NonCommercial"
   },
   {
-   "clave": "pt_hatch",
-   "q": "photorealistic hatchback car",
-   "animado": false,
-   "paginas": 3,
-   "solo_objaverse": true
-  }
- ],
- "freesound_buscar": [
-  {
-   "clave": "pt_pezunas",
-   "q": "cow hooves concrete",
-   "filtro": "duration:[1 TO 30]",
-   "max": 6
-  },
-  {
-   "clave": "pt_turbofan",
-   "q": "jet engine idle close",
-   "filtro": "duration:[5 TO 120]",
-   "max": 6
+   "uid": "cfaabdec76a74b68a48ba5657b6d9aee",
+   "nombre": "pt_auto_moderno",
+   "titulo": "SHC MC Free Promotion Car",
+   "autor": "denniswoo1993",
+   "licencia": "CC Attribution"
   }
  ]
 }
