@@ -1,11 +1,17 @@
 {
- "total_seconds": 160.8,
+ "total_seconds": 338.0,
  "jobs": [
   {
-   "name": "pt_m06_escupe_a",
-   "response": "OK\t75\t30",
-   "seconds": 160.7,
-   "frames": 75
+   "name": "pt2_cae_espalda_a",
+   "response": "OK\t100\t30",
+   "seconds": 174.6,
+   "frames": 100
+  },
+  {
+   "name": "pt2_mira_avion_c",
+   "response": "OK\t90\t30",
+   "seconds": 163.3,
+   "frames": 90
   }
  ]
 }
