@@ -1,11 +1,11 @@
 {
- "total_seconds": 177.3,
+ "total_seconds": 160.8,
  "jobs": [
   {
-   "name": "av10_mirar_arriba_calor_a",
-   "response": "OK\t90\t30",
-   "seconds": 177.1,
-   "frames": 90
+   "name": "pt_m06_escupe_a",
+   "response": "OK\t75\t30",
+   "seconds": 160.7,
+   "frames": 75
   }
  ]
 }
