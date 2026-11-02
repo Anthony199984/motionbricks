@@ -1,17 +1,17 @@
 {
- "total_seconds": 374.5,
+ "total_seconds": 418.3,
  "jobs": [
   {
-   "name": "pt2_cae_espalda_c",
-   "response": "OK\t100\t30",
-   "seconds": 203.5,
-   "frames": 100
+   "name": "pv05_amarrar_cordon_a",
+   "response": "OK\t150\t30",
+   "seconds": 209.3,
+   "frames": 150
   },
   {
-   "name": "pt2_asiente_b",
-   "response": "OK\t75\t30",
-   "seconds": 170.9,
-   "frames": 75
+   "name": "pv15_contar_dedos_a",
+   "response": "OK\t150\t30",
+   "seconds": 208.9,
+   "frames": 150
   }
  ]
 }
