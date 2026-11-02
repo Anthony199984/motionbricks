@@ -1,11 +1,17 @@
 {
- "total_seconds": 177.7,
+ "total_seconds": 409.4,
  "jobs": [
   {
-   "name": "pt_m08_carga_b",
-   "response": "OK\t90\t30",
-   "seconds": 177.6,
-   "frames": 90
+   "name": "pt2_tirado_respira_b",
+   "response": "OK\t150\t30",
+   "seconds": 249.0,
+   "frames": 150
+  },
+  {
+   "name": "pt2_encoge_pie_a",
+   "response": "OK\t75\t30",
+   "seconds": 160.3,
+   "frames": 75
   }
  ]
 }
