@@ -1,4 +1,128 @@
 [
-{"name": "mv01_vaso_beber_a", "frames": 300, "seed": 14001, "prompt": "A person standing next to a cabinet on their left turns, picks up a cup with the left hand, drinks water from it tilting the head back, puts the cup back on the cabinet and stands still."},
-{"name": "mv01_vaso_beber_b", "frames": 300, "seed": 14002, "prompt": "A person picks up a cup from a table on their left with the left hand, drinks from it, and puts it back down."}
+ {
+  "name": "pt_m03_resiste_a",
+  "frames": 90,
+  "seed": 12000,
+  "prompt": "A person leans far backward with heels dug into the ground, resisting a strong pull forward, arms flailing."
+ },
+ {
+  "name": "pt_m03_resiste_b",
+  "frames": 90,
+  "seed": 12001,
+  "prompt": "A person is dragged forward by a strong force, leaning back and sliding on their heels, struggling."
+ },
+ {
+  "name": "pt_m03_resiste_c",
+  "frames": 90,
+  "seed": 12002,
+  "prompt": "A person leans back pulling hard against something dragging them forward, arms waving for balance."
+ },
+ {
+  "name": "pt_m05_soplar_a",
+  "frames": 90,
+  "seed": 12003,
+  "prompt": "A person holds a cup in the right hand, blows on the hot drink, then takes a sip."
+ },
+ {
+  "name": "pt_m05_soplar_b",
+  "frames": 90,
+  "seed": 12004,
+  "prompt": "A person standing blows gently on a hot coffee held in the right hand and sips it."
+ },
+ {
+  "name": "pt_m05_soplar_c",
+  "frames": 90,
+  "seed": 12005,
+  "prompt": "A person lifts a cup with the right hand, blows on it twice and drinks."
+ },
+ {
+  "name": "pt_m06_escupe_a",
+  "frames": 75,
+  "seed": 12006,
+  "prompt": "A person drinking from a cup in the right hand suddenly spits out the drink in surprise and leans back."
+ },
+ {
+  "name": "pt_m06_escupe_b",
+  "frames": 75,
+  "seed": 12007,
+  "prompt": "A person sipping a drink is startled, spits it out and jerks backward."
+ },
+ {
+  "name": "pt_m06_escupe_c",
+  "frames": 75,
+  "seed": 12008,
+  "prompt": "A person drinking coffee sees something shocking, spits the drink forward and steps back."
+ },
+ {
+  "name": "pt_m08_carga_a",
+  "frames": 90,
+  "seed": 12009,
+  "prompt": "A person slowly bends their knees as if a heavy weight is pressing down on their shoulders, then straightens up."
+ },
+ {
+  "name": "pt_m08_carga_b",
+  "frames": 90,
+  "seed": 12010,
+  "prompt": "A person standing sags down under a heavy load on their shoulders, knees bent, struggling, then stands up."
+ },
+ {
+  "name": "pt_m08_carga_c",
+  "frames": 90,
+  "seed": 12011,
+  "prompt": "A person bends knees and hunches as if carrying something very heavy on the shoulders, holds it, then rises."
+ },
+ {
+  "name": "pt_m11_mira_mano_a",
+  "frames": 90,
+  "seed": 12012,
+  "prompt": "A person lying on their back raises one empty hand above their face and looks at it sadly."
+ },
+ {
+  "name": "pt_m11_mira_mano_b",
+  "frames": 90,
+  "seed": 12013,
+  "prompt": "A person lying on the ground on their back lifts the right hand and stares at the empty palm, disappointed."
+ },
+ {
+  "name": "pt_m11_mira_mano_c",
+  "frames": 90,
+  "seed": 12014,
+  "prompt": "A person lying face up raises an open hand toward the sky and looks at it sadly."
+ },
+ {
+  "name": "pt_m12_cuatro_a",
+  "frames": 60,
+  "seed": 12015,
+  "prompt": "A person lying on their back raises a hand and shows four fingers."
+ },
+ {
+  "name": "pt_m12_cuatro_b",
+  "frames": 60,
+  "seed": 12016,
+  "prompt": "A person lying on the ground lifts the right hand showing four fingers, counting."
+ },
+ {
+  "name": "pt_m12_cuatro_c",
+  "frames": 60,
+  "seed": 12017,
+  "prompt": "A person lying face up holds up four fingers with one hand."
+ },
+ {
+  "name": "pt_m13_pulgar_a",
+  "frames": 90,
+  "seed": 12018,
+  "prompt": "A person lying on their back sits up and gives a thumbs up."
+ },
+ {
+  "name": "pt_m13_pulgar_b",
+  "frames": 90,
+  "seed": 12019,
+  "prompt": "A person lying on the ground rolls up to sitting and raises a thumbs up with a smile."
+ },
+ {
+  "name": "pt_m13_pulgar_c",
+  "frames": 90,
+  "seed": 12020,
+  "prompt": "A person lying face up sits up quickly and shows a thumbs up with the right hand."
+ }
 ]
