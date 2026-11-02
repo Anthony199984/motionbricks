@@ -1,11 +1,11 @@
 {
- "total_seconds": 149.6,
+ "total_seconds": 139.4,
  "jobs": [
   {
-   "name": "cp51_senalar_abajo_asombro_a",
-   "response": "OK\t90\t30",
-   "seconds": 149.5,
-   "frames": 90
+   "name": "pt_m12_cuatro_c",
+   "response": "OK\t60\t30",
+   "seconds": 139.3,
+   "frames": 60
   }
  ]
 }
