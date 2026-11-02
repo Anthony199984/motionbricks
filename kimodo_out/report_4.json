@@ -1,17 +1,11 @@
 {
- "total_seconds": 494.0,
+ "total_seconds": 218.6,
  "jobs": [
   {
-   "name": "pv03_mirar_alrededor_cielo_a",
-   "response": "OK\t150\t30",
-   "seconds": 247.7,
-   "frames": 150
-  },
-  {
-   "name": "pv13_patear_pelota_a",
-   "response": "OK\t150\t30",
-   "seconds": 246.1,
-   "frames": 150
+   "name": "pt3_corre_b",
+   "response": "OK\t120\t30",
+   "seconds": 218.5,
+   "frames": 120
   }
  ]
 }
