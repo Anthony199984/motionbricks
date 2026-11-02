@@ -1,27 +1,9 @@
 {
  "catalogo": false,
- "informe": "informe_portal_calle2.json",
+ "informe": "informe_portal_gente3.json",
  "objaverse": [
-  {"uid": "d3f65ad04ec845b197a689db48ec4329", "nombre": "pt_mujer_camina", "titulo": "Nilda Female Character Walk Animation", "autor": "?", "licencia": "CC Attribution"},
-  {"uid": "bbaa566445074509a32ef5059a9d0bc2", "nombre": "pt_pareja_camina", "titulo": "Man Woman Walk", "autor": "iko.gazette", "licencia": "CC Attribution"},
-  {"uid": "b4d00bf20dd84b3d9842fdb1744555be", "nombre": "pt_mujer_telefono", "titulo": "Mia Talking On Phone", "autor": "instideal2019", "licencia": "CC Attribution"},
-  {"uid": "9d3f3674bcf849e099d1d0da4de33e40", "nombre": "pt_hombre_telefono_camina", "titulo": "Mr Man Talking Phone Pacing", "autor": "instideal2019", "licencia": "CC Attribution"},
-  {"uid": "d3a292ede4954c9aaf88e9c58d364a15", "nombre": "pt_hombre_camina_verde", "titulo": "Character test - Walking", "autor": "?", "licencia": "CC Attribution"}
- ],
- "sketchfab_buscar": [
-  {"q": "woman walking", "clave": "pt_s_mujer_camina", "animado": true},
-  {"q": "man walking realistic", "clave": "pt_s_hombre_camina", "animado": true},
-  {"q": "people walking scan", "clave": "pt_s_gente_scan", "animado": true},
-  {"q": "new york brick building", "clave": "pt_s_edificio_ny"},
-  {"q": "brownstone building", "clave": "pt_s_brownstone"},
-  {"q": "photogrammetry building facade", "clave": "pt_s_fachada_scan"},
-  {"q": "photogrammetry car", "clave": "pt_s_auto_scan"},
-  {"q": "realistic sedan car", "clave": "pt_s_auto_sedan"},
-  {"q": "new york taxi", "clave": "pt_s_taxi"},
-  {"q": "delivery van realistic", "clave": "pt_s_van"}
- ],
- "polyhaven": [
-  {"id": "grass_medium_02", "res": "2k"},
-  {"id": "grass_bermuda_01", "res": "2k"}
+  {"uid": "143a2b1ea5eb4385ae90a73657aca3bc", "nombre": "pt_nathan_camina", "titulo": "Nathan Animated 003 - Walking 3D Man", "autor": "?", "licencia": "CC Attribution"},
+  {"uid": "d1ce2b8009b8401481408aeecea903d0", "nombre": "pt_mujer_real_camina", "titulo": "Realistic woman walking (animated)", "autor": "?", "licencia": "CC Attribution"},
+  {"uid": "9ef7dbea47854f49b496e8c0a8332157", "nombre": "pt_anna_camina", "titulo": "Anna Ipati (animated)", "autor": "?", "licencia": "CC Attribution"}
  ]
 }
