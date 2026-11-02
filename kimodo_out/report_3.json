@@ -1,16 +1,10 @@
 {
- "total_seconds": 323.5,
+ "total_seconds": 237.0,
  "jobs": [
   {
-   "name": "pv02_seguir_pajaro_cielo_b",
+   "name": "pv19v3_acostado_sentarse_levantarse_b",
    "response": "OK\t150\t30",
-   "seconds": 161.9,
-   "frames": 150
-  },
-  {
-   "name": "pv12_saltar_girar_b",
-   "response": "OK\t150\t30",
-   "seconds": 161.5,
+   "seconds": 236.9,
    "frames": 150
   }
  ]
