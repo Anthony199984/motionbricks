@@ -1,16 +1,10 @@
 {
- "total_seconds": 407.6,
+ "total_seconds": 160.8,
  "jobs": [
   {
-   "name": "cp45_bascula_leer_b",
-   "response": "OK\t150\t30",
-   "seconds": 248.4,
-   "frames": 150
-  },
-  {
-   "name": "cp59_lanzar_pase_a",
+   "name": "pt_m06_escupe_c",
    "response": "OK\t75\t30",
-   "seconds": 159.1,
+   "seconds": 160.7,
    "frames": 75
   }
  ]
