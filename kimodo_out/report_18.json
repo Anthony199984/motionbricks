@@ -1,11 +1,11 @@
 {
- "total_seconds": 211.6,
+ "total_seconds": 175.4,
  "jobs": [
   {
-   "name": "cp52_sacudirse_polvo_a",
-   "response": "OK\t120\t30",
-   "seconds": 211.5,
-   "frames": 120
+   "name": "pt_m13_pulgar_a",
+   "response": "OK\t90\t30",
+   "seconds": 175.3,
+   "frames": 90
   }
  ]
 }
