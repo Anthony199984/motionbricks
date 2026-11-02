@@ -1,11 +1,11 @@
 {
- "total_seconds": 244.8,
+ "total_seconds": 189.4,
  "jobs": [
   {
-   "name": "av08_inclinarse_mirar_rascar_b",
-   "response": "OK\t120\t30",
-   "seconds": 244.7,
-   "frames": 120
+   "name": "pt_m05_soplar_a",
+   "response": "OK\t90\t30",
+   "seconds": 189.3,
+   "frames": 90
   }
  ]
 }
