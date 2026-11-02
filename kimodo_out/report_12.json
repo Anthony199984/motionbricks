@@ -1,11 +1,11 @@
 {
- "total_seconds": 135.2,
+ "total_seconds": 111.7,
  "jobs": [
   {
-   "name": "cp48_paso_salir_volando_a",
-   "response": "OK\t120\t30",
-   "seconds": 135.1,
-   "frames": 120
+   "name": "pt_m11_mira_mano_a",
+   "response": "OK\t90\t30",
+   "seconds": 111.6,
+   "frames": 90
   }
  ]
 }
