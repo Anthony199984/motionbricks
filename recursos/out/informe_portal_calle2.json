@@ -1,0 +1,2125 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/32ca79bf7c4043dcbc36d28b22436303.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/b7266ced32d347ad8ab6c6fe8a14e767.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/d1c1e02a06aa40978d9e9d27ba0c6157.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/d1ce2b8009b8401481408aeecea903d0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/208a196974c849b58f1bd1ac0df0728b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/c23101cf5b3349668ef320e94e041b4d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/9ef7dbea47854f49b496e8c0a8332157.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/07eeb124d210402bbc061e543d0b97a1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/fc66557abebd49cebe0c7691ca5fac9e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/bbaa566445074509a32ef5059a9d0bc2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/92f20a4188ec4110adb45f22377951ca.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/98a9dc4ab2b742dfa94529b3c2ab6958.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/87fcc917c1c049acac1e449fcad4dc9e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/ee74d352e49347658dd8675ffebf13eb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/d3f65ad04ec845b197a689db48ec4329.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/8be2aa8fb0374d04a127ed1ee42050b1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/3c67c11f670342e48ca6cac438c7aa65.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/46dee68c4bfc481896a3a72daae288c5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/efcdbf93dd634086944cf4fdbcdcd177.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/6c281b3e12004523ae30ccc7fac0b59c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/761c6998a59b4ea8a8aee5bffb1ec5a6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/29492a7c3a8d40d9835ca119036834bc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/4f381bc2110941d6b17fe54a041a611c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_mujer_camina/aee7988a2bbe4550b7625b1a60ab2ce9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_hombre_camina/dbf9fe0cb81d4758ad2525a56d10e2fc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_hombre_camina/2548782629ef4a418638dd4da08887c6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_gente_scan/143a2b1ea5eb4385ae90a73657aca3bc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_gente_scan/dbf9fe0cb81d4758ad2525a56d10e2fc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/8ef9555171c44ba1872a17558f589630.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/4a358ac1b28c4b449335892cb19408cb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/370ca970f4cd4c638f95fe17617d0bc1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/6345ce92f01b4e569d6d438f5038414f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/24e68bfc7c63479d8dc6b19570073b51.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/c4e720f194ee4c00b00deb31144cbc1c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/fa55d25ef06e414c942828c3031ff279.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/4038dd25616d420989b11c65a57fd35b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/f500d1e5cd5e443ea2e3de217412a7bf.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/12063b94df1e428b812e8da905135df3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/7c90ca39e2f14b4bb594ebbeee8eff7f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/d14167a5253f4f2caa0f4926837155d8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/8d76a935a6034f45a1fb1604835c3f4a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/85bf071656d342f9974005be81a5100e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/e39b01da4b494fa1996a9651946b0434.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_edificio_ny/cc9681a6b4634c4993a22ce9f642cf3b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_brownstone/b15e6344acd844eabc823e1cc8332574.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_brownstone/a144f10a621740a286c29a4d9287b6f9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_brownstone/43548bdec0b84e62986e9f1df181ee32.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_brownstone/d14167a5253f4f2caa0f4926837155d8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_brownstone/69f682e9b7f44b098439abf1264a6dec.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_brownstone/1b3149281c754bc58871b9da80233ebf.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_brownstone/61be4f1ffb8d4002968a51c6aad4679a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_brownstone/30dbf32aff994bcc826237066e9f8722.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_brownstone/8303f44fae724ab78263c8e83b78896e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/d19549af2c6c45638cedaa70f805414b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/4be117df2df0425e82e8a9ed85a0302d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/4e20a4da0af146318d8c4d38b0266949.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/a007045a63af4f9e9b692a853bb10831.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/c1579a2bf63b495facf22d019884001f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/192129bcdfa14da4aa56a321798394cd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/1ad2a22607354887bdb5da8e753f6a97.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/097ea6845423427480b15a3e1cfb0801.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/9f7160ea9059452e8aaede4db044f821.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/4cd30bf438cf4256970309066189322e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/4f12473673a84680992fd7b5d89f1783.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/4720a3d5c9344090936183cb3a273e76.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/276d968cea0142a797ad0e9d11dd93b8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/47913b7cf26d4c7da98a6262f0b68355.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/133bd7e9008f4d7da79b8ba17a4b5632.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/410139291c3a4c349aa790f8601f288d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/258da4d032404268ba6beeedacab267f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/cf29e727c57c4a8eb8e033a584a34df6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/44b9bf5c5a66461abe19a4e533a6ca98.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/ffbc41760ff6496398940e65ad299761.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/ce77b4211dc14577bfe4025c36cf14a7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/76e4c85bfe8a4e71924b19b2aca11c25.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/f358ec8bd24845e181f5cc57f3165af2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_fachada_scan/d9a8a96e16534bdab76be23c1f2c45fc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/2938b8237531482d9750ce2717fbe099.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/bd189bba7d9e4924b12826a6d68200d9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/9ec7a14729aa490fa712e51c217db0f5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/916b51c7e5644eb2a6c9b3797ebb08cf.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/0eb1f1757349489eab05a0f03cff5b46.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/01f8155cc7104c75895ad7bc318889ba.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/78f76d386a4341b0b71745bdc50fd5ab.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/d4dcc5c38fee489094ce595722243259.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/483fe7f26336463fba66638ca4200c5a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/8a540625b599428796cda78578040deb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/e60923b56a3849bf8f74fa51f6c849f8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/3d2fbeed83494547a0a38db053eb4ff3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/1cbbb828ebae4d128cf86c78ac66e282.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/07bc48134b364d4f8a43d288b3a0282d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/4749ba1722774d3eb101199d51bd39b8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/08a1e693c9674a3292dec2298b09e0ae.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/65cd2eee84544eea856c0215dd67bc3d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/d2651a5550f34d80b0dba6e971f3a1ae.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/be3a00bbb20941e58dabeddf4b5ef48f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/46be1ec6b7694b35a59e2e534a34f3f7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/688a186605d4456c998544b7fe536081.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/1cd8895e61bd40409e70330e9807cd12.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/c00b3b8c71594890a2a3c46c20a30b5c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_scan/a18a1449661643e6ab98640a3e7eafc1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/67c84e4d30ae42fda22c0a0c7526df26.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/32498418a32d43a78d0847ce4c55fcb0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/9bc5e9e5edd5487f97d8501a22c3c8b5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/bab77902c638427bb85e68b6762a481f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/d87af59849814c5cb35a0c233f2c2f19.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/40ecf745664846bba3f7331b11cd99f8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/95451c00cb2d48778f67d798167e7237.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/ecc42a37c7e2409b9fd05665512843ce.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/15e91e5ea6e94cab99b7150fe0a80944.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/8eebf01fb1c14f6d88ddd47fa77f5ccb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/cfaabdec76a74b68a48ba5657b6d9aee.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/ee8ac309b76e406abbf2d02d9aca13ec.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/53dfe733a62a4a419a7e50ae1f58b54f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/6e95c7713c1c43b3b9b981d3ccfe5e32.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/feb4ac88e53c44b59f17289ada1e8e63.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/f91cbef731444f939e263041400216ca.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/7558ef08987d4a22bd317ac1fae12c1f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/aec912ed367b4aebacc8676922f42beb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/49b9f3805ab44ccd8971adfca351b403.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/54da50507dde42c8aa274d5e53b47339.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/046bb8f994c3472393551ac7f729a477.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/677ea3257be640e8b1050408532ffaa2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/abcc864162d34b008391a0b13a57da86.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_auto_sedan/4c3c05da2a3e46539cf324e756cc5e32.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_taxi/8c81631fd8d7466a96175364f3f5a683.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_taxi/6dd4b71d39ab470cbc4d7f1fff77eb77.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_taxi/36762f0e64024a48b2f5ac73753ef6dd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_taxi/072e7d53d9bf4662ac2e782e0aad9395.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_taxi/148639200601405e9128bc74bb72dfc6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_taxi/02394f3fa9244536b61d3c192877dfe9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_taxi/aea52be04c0d4d8b92a152d582aa18a0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_taxi/3ff2b9ef9a7b45deae741aa3345427a4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_taxi/afd41a5c55ee44e6a7ecc589290c8b43.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_taxi/2767fb9efc354eadac754de04dfac271.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_van/dfb120181c604d419976c64997145eab.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_van/c44e4cda82a647d1abc0b1c2b2387502.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_van/cd48bf440b4d4f3a8a7c93b5926be663.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_van/a2526c2fff854e8c934b2775b5a7cb44.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pt_s_van/8d2529f41c7d4404881f6c4014d4f04c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_van/3a40f32bd756444ba79aa8f0fbeb4c01.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pt_s_van/12c6f125d89840c484551c2ac01b781f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "objaverse/pt_mujer_camina.glb",
+   "mb": 14.86
+  },
+  {
+   "destino": "objaverse/pt_pareja_camina.glb",
+   "mb": 1.5
+  },
+  {
+   "destino": "objaverse/pt_mujer_telefono.glb",
+   "mb": 7.83
+  },
+  {
+   "destino": "objaverse/pt_hombre_telefono_camina.glb",
+   "mb": 10.45
+  },
+  {
+   "destino": "objaverse/pt_hombre_camina_verde.glb",
+   "mb": 3.67
+  },
+  {
+   "destino": "modelos/grass_medium_02/grass_medium_02_2k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/grass_medium_02/textures/grass_medium_02_nor_gl_2k.jpg",
+   "mb": 0.34
+  },
+  {
+   "destino": "modelos/grass_medium_02/textures/grass_medium_02_diff_2k.jpg",
+   "mb": 0.44
+  },
+  {
+   "destino": "modelos/grass_medium_02/textures/grass_medium_02_arm_2k.jpg",
+   "mb": 0.67
+  },
+  {
+   "destino": "modelos/grass_bermuda_01/grass_bermuda_01_2k.gltf",
+   "mb": 0.03
+  },
+  {
+   "destino": "modelos/grass_bermuda_01/textures/grass_bermuda_01_nor_gl_2k.jpg",
+   "mb": 2.44
+  },
+  {
+   "destino": "modelos/grass_bermuda_01/textures/grass_bermuda_01_diff_2k.jpg",
+   "mb": 0.47
+  },
+  {
+   "destino": "modelos/grass_bermuda_01/textures/grass_bermuda_01_arm_2k.jpg",
+   "mb": 1.58
+  },
+  {
+   "destino": "modelos/grass_bermuda_01/grass_bermuda_01.bin",
+   "mb": 0.03
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "pt_s_mujer_camina": [
+   {
+    "uid": "32ca79bf7c4043dcbc36d28b22436303",
+    "nombre": "Miss Galaxy",
+    "autor": "Loves_Art",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 49788,
+    "url": "https://sketchfab.com/3d-models/none-32ca79bf7c4043dcbc36d28b22436303",
+    "miniatura": "miniaturas/pt_s_mujer_camina/32ca79bf7c4043dcbc36d28b22436303.jpg"
+   },
+   {
+    "uid": "b7266ced32d347ad8ab6c6fe8a14e767",
+    "nombre": "Bouncy Beach babe walking in bikini (animated)",
+    "autor": "jungle_jim",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 60964,
+    "url": "https://sketchfab.com/3d-models/none-b7266ced32d347ad8ab6c6fe8a14e767",
+    "miniatura": "miniaturas/pt_s_mujer_camina/b7266ced32d347ad8ab6c6fe8a14e767.jpg"
+   },
+   {
+    "uid": "d1c1e02a06aa40978d9e9d27ba0c6157",
+    "nombre": "Apocalypse: Geared Survivor [Female]",
+    "autor": "K3NMA",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 3,
+    "caras": 13779,
+    "url": "https://sketchfab.com/3d-models/none-d1c1e02a06aa40978d9e9d27ba0c6157",
+    "miniatura": "miniaturas/pt_s_mujer_camina/d1c1e02a06aa40978d9e9d27ba0c6157.jpg"
+   },
+   {
+    "uid": "d1ce2b8009b8401481408aeecea903d0",
+    "nombre": "Realistic woman walking (animated)",
+    "autor": "jungle_jim",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 83769,
+    "url": "https://sketchfab.com/3d-models/none-d1ce2b8009b8401481408aeecea903d0",
+    "miniatura": "miniaturas/pt_s_mujer_camina/d1ce2b8009b8401481408aeecea903d0.jpg"
+   },
+   {
+    "uid": "208a196974c849b58f1bd1ac0df0728b",
+    "nombre": "Evil Old Lady",
+    "autor": "jungle_jim",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 621866,
+    "url": "https://sketchfab.com/3d-models/none-208a196974c849b58f1bd1ac0df0728b",
+    "miniatura": "miniaturas/pt_s_mujer_camina/208a196974c849b58f1bd1ac0df0728b.jpg"
+   },
+   {
+    "uid": "c23101cf5b3349668ef320e94e041b4d",
+    "nombre": "Alligator walking upright",
+    "autor": "jungle_jim",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 25654,
+    "url": "https://sketchfab.com/3d-models/none-c23101cf5b3349668ef320e94e041b4d",
+    "miniatura": "miniaturas/pt_s_mujer_camina/c23101cf5b3349668ef320e94e041b4d.jpg"
+   },
+   {
+    "uid": "9ef7dbea47854f49b496e8c0a8332157",
+    "nombre": "Anna Ipati (animated)",
+    "autor": "jungle_jim",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 403042,
+    "url": "https://sketchfab.com/3d-models/none-9ef7dbea47854f49b496e8c0a8332157",
+    "miniatura": "miniaturas/pt_s_mujer_camina/9ef7dbea47854f49b496e8c0a8332157.jpg"
+   },
+   {
+    "uid": "07eeb124d210402bbc061e543d0b97a1",
+    "nombre": "Low Poly Female",
+    "autor": "Loves_Art",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4384,
+    "url": "https://sketchfab.com/3d-models/none-07eeb124d210402bbc061e543d0b97a1",
+    "miniatura": "miniaturas/pt_s_mujer_camina/07eeb124d210402bbc061e543d0b97a1.jpg"
+   },
+   {
+    "uid": "fc66557abebd49cebe0c7691ca5fac9e",
+    "nombre": "Clementine - The Walking Dead Telltale Season 2",
+    "autor": "qsardor57913",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 8061,
+    "url": "https://sketchfab.com/3d-models/none-fc66557abebd49cebe0c7691ca5fac9e",
+    "miniatura": "miniaturas/pt_s_mujer_camina/fc66557abebd49cebe0c7691ca5fac9e.jpg"
+   },
+   {
+    "uid": "bbaa566445074509a32ef5059a9d0bc2",
+    "nombre": "Man Woman Walk",
+    "autor": "iko.gazette",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 16231,
+    "url": "https://sketchfab.com/3d-models/none-bbaa566445074509a32ef5059a9d0bc2",
+    "miniatura": "miniaturas/pt_s_mujer_camina/bbaa566445074509a32ef5059a9d0bc2.jpg"
+   },
+   {
+    "uid": "92f20a4188ec4110adb45f22377951ca",
+    "nombre": "Shade Walking",
+    "autor": "windofglass",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4275,
+    "url": "https://sketchfab.com/3d-models/none-92f20a4188ec4110adb45f22377951ca",
+    "miniatura": "miniaturas/pt_s_mujer_camina/92f20a4188ec4110adb45f22377951ca.jpg"
+   },
+   {
+    "uid": "98a9dc4ab2b742dfa94529b3c2ab6958",
+    "nombre": "Real Women modelling",
+    "autor": "vaishak.i.kuppast",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3210520,
+    "url": "https://sketchfab.com/3d-models/none-98a9dc4ab2b742dfa94529b3c2ab6958",
+    "miniatura": "miniaturas/pt_s_mujer_camina/98a9dc4ab2b742dfa94529b3c2ab6958.jpg"
+   },
+   {
+    "uid": "87fcc917c1c049acac1e449fcad4dc9e",
+    "nombre": "walking and dancing woman",
+    "autor": "Jamesaalam",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 564340,
+    "url": "https://sketchfab.com/3d-models/none-87fcc917c1c049acac1e449fcad4dc9e",
+    "miniatura": "miniaturas/pt_s_mujer_camina/87fcc917c1c049acac1e449fcad4dc9e.jpg"
+   },
+   {
+    "uid": "ee74d352e49347658dd8675ffebf13eb",
+    "nombre": "Background People for Blender promo | Animated",
+    "autor": "jungle_jim",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 60410,
+    "url": "https://sketchfab.com/3d-models/none-ee74d352e49347658dd8675ffebf13eb",
+    "miniatura": "miniaturas/pt_s_mujer_camina/ee74d352e49347658dd8675ffebf13eb.jpg"
+   },
+   {
+    "uid": "d3f65ad04ec845b197a689db48ec4329",
+    "nombre": "Nilda Female Character Walk Animation",
+    "autor": "kelvin-carvalho",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 12352,
+    "url": "https://sketchfab.com/3d-models/none-d3f65ad04ec845b197a689db48ec4329",
+    "miniatura": "miniaturas/pt_s_mujer_camina/d3f65ad04ec845b197a689db48ec4329.jpg"
+   },
+   {
+    "uid": "8be2aa8fb0374d04a127ed1ee42050b1",
+    "nombre": "woman Model",
+    "autor": "JonatanSantana",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 32059,
+    "url": "https://sketchfab.com/3d-models/none-8be2aa8fb0374d04a127ed1ee42050b1",
+    "miniatura": "miniaturas/pt_s_mujer_camina/8be2aa8fb0374d04a127ed1ee42050b1.jpg"
+   },
+   {
+    "uid": "3c67c11f670342e48ca6cac438c7aa65",
+    "nombre": "Animation_ Walking_ Woman_with Skin (1)",
+    "autor": "493caf85284a49b4a090c9c6eb1935",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 183484,
+    "url": "https://sketchfab.com/3d-models/none-3c67c11f670342e48ca6cac438c7aa65",
+    "miniatura": "miniaturas/pt_s_mujer_camina/3c67c11f670342e48ca6cac438c7aa65.jpg"
+   },
+   {
+    "uid": "46dee68c4bfc481896a3a72daae288c5",
+    "nombre": "walking in the shadows",
+    "autor": "Fedeborra",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 21602,
+    "url": "https://sketchfab.com/3d-models/none-46dee68c4bfc481896a3a72daae288c5",
+    "miniatura": "miniaturas/pt_s_mujer_camina/46dee68c4bfc481896a3a72daae288c5.jpg"
+   },
+   {
+    "uid": "efcdbf93dd634086944cf4fdbcdcd177",
+    "nombre": "Sheep women Walking animation",
+    "autor": "jaydidleedoo",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 21463,
+    "url": "https://sketchfab.com/3d-models/none-efcdbf93dd634086944cf4fdbcdcd177",
+    "miniatura": "miniaturas/pt_s_mujer_camina/efcdbf93dd634086944cf4fdbcdcd177.jpg"
+   },
+   {
+    "uid": "6c281b3e12004523ae30ccc7fac0b59c",
+    "nombre": "Walking (1)",
+    "autor": "homeofficeemre",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 8730,
+    "url": "https://sketchfab.com/3d-models/none-6c281b3e12004523ae30ccc7fac0b59c",
+    "miniatura": "miniaturas/pt_s_mujer_camina/6c281b3e12004523ae30ccc7fac0b59c.jpg"
+   },
+   {
+    "uid": "761c6998a59b4ea8a8aee5bffb1ec5a6",
+    "nombre": "Scary Woman",
+    "autor": "Zajjj_",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 27373,
+    "url": "https://sketchfab.com/3d-models/none-761c6998a59b4ea8a8aee5bffb1ec5a6",
+    "miniatura": "miniaturas/pt_s_mujer_camina/761c6998a59b4ea8a8aee5bffb1ec5a6.jpg"
+   },
+   {
+    "uid": "29492a7c3a8d40d9835ca119036834bc",
+    "nombre": "Animation_ Walking_ Woman ninga",
+    "autor": "f49283656",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10000,
+    "url": "https://sketchfab.com/3d-models/none-29492a7c3a8d40d9835ca119036834bc",
+    "miniatura": "miniaturas/pt_s_mujer_camina/29492a7c3a8d40d9835ca119036834bc.jpg"
+   },
+   {
+    "uid": "4f381bc2110941d6b17fe54a041a611c",
+    "nombre": "Woman Farmer Walking Left Turn",
+    "autor": "Natasha_Nabilah",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 142392,
+    "url": "https://sketchfab.com/3d-models/none-4f381bc2110941d6b17fe54a041a611c",
+    "miniatura": "miniaturas/pt_s_mujer_camina/4f381bc2110941d6b17fe54a041a611c.jpg"
+   },
+   {
+    "uid": "aee7988a2bbe4550b7625b1a60ab2ce9",
+    "nombre": "TakeoffBackpackWoman2",
+    "autor": "Berkan35",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 32432,
+    "url": "https://sketchfab.com/3d-models/none-aee7988a2bbe4550b7625b1a60ab2ce9",
+    "miniatura": "miniaturas/pt_s_mujer_camina/aee7988a2bbe4550b7625b1a60ab2ce9.jpg"
+   }
+  ],
+  "pt_s_hombre_camina": [
+   {
+    "uid": "dbf9fe0cb81d4758ad2525a56d10e2fc",
+    "nombre": "Balthazar (rigged & animated)",
+    "autor": "jungle_jim",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 110940,
+    "url": "https://sketchfab.com/3d-models/none-dbf9fe0cb81d4758ad2525a56d10e2fc",
+    "miniatura": "miniaturas/pt_s_hombre_camina/dbf9fe0cb81d4758ad2525a56d10e2fc.jpg"
+   },
+   {
+    "uid": "2548782629ef4a418638dd4da08887c6",
+    "nombre": "Cameraman_walking",
+    "autor": "SkullMan_Official",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 8019,
+    "url": "https://sketchfab.com/3d-models/none-2548782629ef4a418638dd4da08887c6",
+    "miniatura": "miniaturas/pt_s_hombre_camina/2548782629ef4a418638dd4da08887c6.jpg"
+   }
+  ],
+  "pt_s_gente_scan": [
+   {
+    "uid": "143a2b1ea5eb4385ae90a73657aca3bc",
+    "nombre": "Nathan Animated 003 - Walking 3D Man",
+    "autor": "renderpeople",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 21506,
+    "url": "https://sketchfab.com/3d-models/none-143a2b1ea5eb4385ae90a73657aca3bc",
+    "miniatura": "miniaturas/pt_s_gente_scan/143a2b1ea5eb4385ae90a73657aca3bc.jpg"
+   },
+   {
+    "uid": "dbf9fe0cb81d4758ad2525a56d10e2fc",
+    "nombre": "Balthazar (rigged & animated)",
+    "autor": "jungle_jim",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 110940,
+    "url": "https://sketchfab.com/3d-models/none-dbf9fe0cb81d4758ad2525a56d10e2fc",
+    "miniatura": "miniaturas/pt_s_gente_scan/dbf9fe0cb81d4758ad2525a56d10e2fc.jpg"
+   }
+  ],
+  "pt_s_edificio_ny": [
+   {
+    "uid": "8ef9555171c44ba1872a17558f589630",
+    "nombre": "Modern NYC Dwellings",
+    "autor": "99.Miles",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7042,
+    "url": "https://sketchfab.com/3d-models/none-8ef9555171c44ba1872a17558f589630",
+    "miniatura": "miniaturas/pt_s_edificio_ny/8ef9555171c44ba1872a17558f589630.jpg"
+   },
+   {
+    "uid": "4a358ac1b28c4b449335892cb19408cb",
+    "nombre": "Building - New York",
+    "autor": "sweetmarni",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1530395,
+    "url": "https://sketchfab.com/3d-models/none-4a358ac1b28c4b449335892cb19408cb",
+    "miniatura": "miniaturas/pt_s_edificio_ny/4a358ac1b28c4b449335892cb19408cb.jpg"
+   },
+   {
+    "uid": "370ca970f4cd4c638f95fe17617d0bc1",
+    "nombre": "Brooklyn Street Row Buildings Low Poly",
+    "autor": "B0rn2D13",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6208,
+    "url": "https://sketchfab.com/3d-models/none-370ca970f4cd4c638f95fe17617d0bc1",
+    "miniatura": "miniaturas/pt_s_edificio_ny/370ca970f4cd4c638f95fe17617d0bc1.jpg"
+   },
+   {
+    "uid": "6345ce92f01b4e569d6d438f5038414f",
+    "nombre": "Chrysler Building",
+    "autor": "mohamedhussien",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 246187,
+    "url": "https://sketchfab.com/3d-models/none-6345ce92f01b4e569d6d438f5038414f",
+    "miniatura": "miniaturas/pt_s_edificio_ny/6345ce92f01b4e569d6d438f5038414f.jpg"
+   },
+   {
+    "uid": "24e68bfc7c63479d8dc6b19570073b51",
+    "nombre": "City Buildings - BlackThornProd Video",
+    "autor": "tikoavp",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2720,
+    "url": "https://sketchfab.com/3d-models/none-24e68bfc7c63479d8dc6b19570073b51",
+    "miniatura": "miniaturas/pt_s_edificio_ny/24e68bfc7c63479d8dc6b19570073b51.jpg"
+   },
+   {
+    "uid": "c4e720f194ee4c00b00deb31144cbc1c",
+    "nombre": "Brooklyn Street Cornerhouse Low Poly",
+    "autor": "B0rn2D13",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 2279,
+    "url": "https://sketchfab.com/3d-models/none-c4e720f194ee4c00b00deb31144cbc1c",
+    "miniatura": "miniaturas/pt_s_edificio_ny/c4e720f194ee4c00b00deb31144cbc1c.jpg"
+   },
+   {
+    "uid": "fa55d25ef06e414c942828c3031ff279",
+    "nombre": "Brooklyn Street Building Low Poly",
+    "autor": "B0rn2D13",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 2373,
+    "url": "https://sketchfab.com/3d-models/none-fa55d25ef06e414c942828c3031ff279",
+    "miniatura": "miniaturas/pt_s_edificio_ny/fa55d25ef06e414c942828c3031ff279.jpg"
+   },
+   {
+    "uid": "4038dd25616d420989b11c65a57fd35b",
+    "nombre": "Brooklyn Street Twin Buildings Low Poly",
+    "autor": "B0rn2D13",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6708,
+    "url": "https://sketchfab.com/3d-models/none-4038dd25616d420989b11c65a57fd35b",
+    "miniatura": "miniaturas/pt_s_edificio_ny/4038dd25616d420989b11c65a57fd35b.jpg"
+   },
+   {
+    "uid": "f500d1e5cd5e443ea2e3de217412a7bf",
+    "nombre": "Abandoned St. Paul's School -RAWscan",
+    "autor": "spogna",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1379449,
+    "url": "https://sketchfab.com/3d-models/none-f500d1e5cd5e443ea2e3de217412a7bf",
+    "miniatura": "miniaturas/pt_s_edificio_ny/f500d1e5cd5e443ea2e3de217412a7bf.jpg"
+   },
+   {
+    "uid": "12063b94df1e428b812e8da905135df3",
+    "nombre": "New York PS1 Style Modular Building Set",
+    "autor": "dimaeristavi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3083,
+    "url": "https://sketchfab.com/3d-models/none-12063b94df1e428b812e8da905135df3",
+    "miniatura": "miniaturas/pt_s_edificio_ny/12063b94df1e428b812e8da905135df3.jpg"
+   },
+   {
+    "uid": "7c90ca39e2f14b4bb594ebbeee8eff7f",
+    "nombre": "New York City building - 605 Park Avenue",
+    "autor": "fabianto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 529275,
+    "url": "https://sketchfab.com/3d-models/none-7c90ca39e2f14b4bb594ebbeee8eff7f",
+    "miniatura": "miniaturas/pt_s_edificio_ny/7c90ca39e2f14b4bb594ebbeee8eff7f.jpg"
+   },
+   {
+    "uid": "d14167a5253f4f2caa0f4926837155d8",
+    "nombre": "New York Apartment Building",
+    "autor": "Leomanish",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 120,
+    "url": "https://sketchfab.com/3d-models/none-d14167a5253f4f2caa0f4926837155d8",
+    "miniatura": "miniaturas/pt_s_edificio_ny/d14167a5253f4f2caa0f4926837155d8.jpg"
+   },
+   {
+    "uid": "8d76a935a6034f45a1fb1604835c3f4a",
+    "nombre": "Building",
+    "autor": "Art62",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 34002,
+    "url": "https://sketchfab.com/3d-models/none-8d76a935a6034f45a1fb1604835c3f4a",
+    "miniatura": "miniaturas/pt_s_edificio_ny/8d76a935a6034f45a1fb1604835c3f4a.jpg"
+   },
+   {
+    "uid": "85bf071656d342f9974005be81a5100e",
+    "nombre": "Avengers Tower",
+    "autor": "DT_BRICKS",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 147660,
+    "url": "https://sketchfab.com/3d-models/none-85bf071656d342f9974005be81a5100e",
+    "miniatura": "miniaturas/pt_s_edificio_ny/85bf071656d342f9974005be81a5100e.jpg"
+   },
+   {
+    "uid": "e39b01da4b494fa1996a9651946b0434",
+    "nombre": "Low-Poly detailed building",
+    "autor": "PolyDavid",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1124,
+    "url": "https://sketchfab.com/3d-models/none-e39b01da4b494fa1996a9651946b0434",
+    "miniatura": "miniaturas/pt_s_edificio_ny/e39b01da4b494fa1996a9651946b0434.jpg"
+   },
+   {
+    "uid": "cc9681a6b4634c4993a22ce9f642cf3b",
+    "nombre": "427 E 12th Street - NYC Building Facade",
+    "autor": "cheshirerabbit78",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 38528,
+    "url": "https://sketchfab.com/3d-models/none-cc9681a6b4634c4993a22ce9f642cf3b",
+    "miniatura": "miniaturas/pt_s_edificio_ny/cc9681a6b4634c4993a22ce9f642cf3b.jpg"
+   }
+  ],
+  "pt_s_brownstone": [
+   {
+    "uid": "b15e6344acd844eabc823e1cc8332574",
+    "nombre": "Brownstone Building Set - Low poly model",
+    "autor": "DanielZhabotinsky",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 68393,
+    "url": "https://sketchfab.com/3d-models/none-b15e6344acd844eabc823e1cc8332574",
+    "miniatura": "miniaturas/pt_s_brownstone/b15e6344acd844eabc823e1cc8332574.jpg"
+   },
+   {
+    "uid": "a144f10a621740a286c29a4d9287b6f9",
+    "nombre": "GOTHAM Brownstone Building",
+    "autor": "alshareef892007",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 30232,
+    "url": "https://sketchfab.com/3d-models/none-a144f10a621740a286c29a4d9287b6f9",
+    "miniatura": "miniaturas/pt_s_brownstone/a144f10a621740a286c29a4d9287b6f9.jpg"
+   },
+   {
+    "uid": "43548bdec0b84e62986e9f1df181ee32",
+    "nombre": "Brownstone_building_set_-_low_poly_model",
+    "autor": "Dakta.Grower.Nzl",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12122,
+    "url": "https://sketchfab.com/3d-models/none-43548bdec0b84e62986e9f1df181ee32",
+    "miniatura": "miniaturas/pt_s_brownstone/43548bdec0b84e62986e9f1df181ee32.jpg"
+   },
+   {
+    "uid": "d14167a5253f4f2caa0f4926837155d8",
+    "nombre": "New York Apartment Building",
+    "autor": "Leomanish",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 120,
+    "url": "https://sketchfab.com/3d-models/none-d14167a5253f4f2caa0f4926837155d8",
+    "miniatura": "miniaturas/pt_s_brownstone/d14167a5253f4f2caa0f4926837155d8.jpg"
+   },
+   {
+    "uid": "69f682e9b7f44b098439abf1264a6dec",
+    "nombre": "City Brownstone Building",
+    "autor": "dhiren-sah",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 30232,
+    "url": "https://sketchfab.com/3d-models/none-69f682e9b7f44b098439abf1264a6dec",
+    "miniatura": "miniaturas/pt_s_brownstone/69f682e9b7f44b098439abf1264a6dec.jpg"
+   },
+   {
+    "uid": "1b3149281c754bc58871b9da80233ebf",
+    "nombre": "Baxter Street Building 4",
+    "autor": "angusl8",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 80,
+    "url": "https://sketchfab.com/3d-models/none-1b3149281c754bc58871b9da80233ebf",
+    "miniatura": "miniaturas/pt_s_brownstone/1b3149281c754bc58871b9da80233ebf.jpg"
+   },
+   {
+    "uid": "61be4f1ffb8d4002968a51c6aad4679a",
+    "nombre": "Sunset Park Building",
+    "autor": "angusl8",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 428,
+    "url": "https://sketchfab.com/3d-models/none-61be4f1ffb8d4002968a51c6aad4679a",
+    "miniatura": "miniaturas/pt_s_brownstone/61be4f1ffb8d4002968a51c6aad4679a.jpg"
+   },
+   {
+    "uid": "30dbf32aff994bcc826237066e9f8722",
+    "nombre": "Canal Street Building",
+    "autor": "angusl8",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 624,
+    "url": "https://sketchfab.com/3d-models/none-30dbf32aff994bcc826237066e9f8722",
+    "miniatura": "miniaturas/pt_s_brownstone/30dbf32aff994bcc826237066e9f8722.jpg"
+   },
+   {
+    "uid": "8303f44fae724ab78263c8e83b78896e",
+    "nombre": "Centre Street Brownstones",
+    "autor": "angusl8",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 690,
+    "url": "https://sketchfab.com/3d-models/none-8303f44fae724ab78263c8e83b78896e",
+    "miniatura": "miniaturas/pt_s_brownstone/8303f44fae724ab78263c8e83b78896e.jpg"
+   }
+  ],
+  "pt_s_fachada_scan": [
+   {
+    "uid": "d19549af2c6c45638cedaa70f805414b",
+    "nombre": "Forest house ruin",
+    "autor": "matousekfoto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 990000,
+    "url": "https://sketchfab.com/3d-models/none-d19549af2c6c45638cedaa70f805414b",
+    "miniatura": "miniaturas/pt_s_fachada_scan/d19549af2c6c45638cedaa70f805414b.jpg"
+   },
+   {
+    "uid": "4be117df2df0425e82e8a9ed85a0302d",
+    "nombre": "Facade Skrivanova 8, Brno",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 94005,
+    "url": "https://sketchfab.com/3d-models/none-4be117df2df0425e82e8a9ed85a0302d",
+    "miniatura": "miniaturas/pt_s_fachada_scan/4be117df2df0425e82e8a9ed85a0302d.jpg"
+   },
+   {
+    "uid": "4e20a4da0af146318d8c4d38b0266949",
+    "nombre": "Facade Stankova 3, Brno",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 90152,
+    "url": "https://sketchfab.com/3d-models/none-4e20a4da0af146318d8c4d38b0266949",
+    "miniatura": "miniaturas/pt_s_fachada_scan/4e20a4da0af146318d8c4d38b0266949.jpg"
+   },
+   {
+    "uid": "a007045a63af4f9e9b692a853bb10831",
+    "nombre": "Scratched wall",
+    "autor": "matousekfoto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 79895,
+    "url": "https://sketchfab.com/3d-models/none-a007045a63af4f9e9b692a853bb10831",
+    "miniatura": "miniaturas/pt_s_fachada_scan/a007045a63af4f9e9b692a853bb10831.jpg"
+   },
+   {
+    "uid": "c1579a2bf63b495facf22d019884001f",
+    "nombre": "Sculptured head, Copan (printable)",
+    "autor": "tokovinin3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3048950,
+    "url": "https://sketchfab.com/3d-models/none-c1579a2bf63b495facf22d019884001f",
+    "miniatura": "miniaturas/pt_s_fachada_scan/c1579a2bf63b495facf22d019884001f.jpg"
+   },
+   {
+    "uid": "192129bcdfa14da4aa56a321798394cd",
+    "nombre": "Colonnade (Viterbo) a.D.1100 -RAWscan",
+    "autor": "spogna",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 391436,
+    "url": "https://sketchfab.com/3d-models/none-192129bcdfa14da4aa56a321798394cd",
+    "miniatura": "miniaturas/pt_s_fachada_scan/192129bcdfa14da4aa56a321798394cd.jpg"
+   },
+   {
+    "uid": "1ad2a22607354887bdb5da8e753f6a97",
+    "nombre": "Building scan No. 6",
+    "autor": "Dystopia",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 212283,
+    "url": "https://sketchfab.com/3d-models/none-1ad2a22607354887bdb5da8e753f6a97",
+    "miniatura": "miniaturas/pt_s_fachada_scan/1ad2a22607354887bdb5da8e753f6a97.jpg"
+   },
+   {
+    "uid": "097ea6845423427480b15a3e1cfb0801",
+    "nombre": "Brick & Door in Berlin, Germany",
+    "autor": "azadbal",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 200012,
+    "url": "https://sketchfab.com/3d-models/none-097ea6845423427480b15a3e1cfb0801",
+    "miniatura": "miniaturas/pt_s_fachada_scan/097ea6845423427480b15a3e1cfb0801.jpg"
+   },
+   {
+    "uid": "9f7160ea9059452e8aaede4db044f821",
+    "nombre": "Door #22 - Cannes, France",
+    "autor": "azadbal",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 475339,
+    "url": "https://sketchfab.com/3d-models/none-9f7160ea9059452e8aaede4db044f821",
+    "miniatura": "miniaturas/pt_s_fachada_scan/9f7160ea9059452e8aaede4db044f821.jpg"
+   },
+   {
+    "uid": "4cd30bf438cf4256970309066189322e",
+    "nombre": "Ny Carlsberg Glyptotek - Pointcloud",
+    "autor": "rigsters",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-4cd30bf438cf4256970309066189322e",
+    "miniatura": "miniaturas/pt_s_fachada_scan/4cd30bf438cf4256970309066189322e.jpg"
+   },
+   {
+    "uid": "4f12473673a84680992fd7b5d89f1783",
+    "nombre": "455 Valencia St. and Sparrow St USA",
+    "autor": "3dfovea",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 614349,
+    "url": "https://sketchfab.com/3d-models/none-4f12473673a84680992fd7b5d89f1783",
+    "miniatura": "miniaturas/pt_s_fachada_scan/4f12473673a84680992fd7b5d89f1783.jpg"
+   },
+   {
+    "uid": "4720a3d5c9344090936183cb3a273e76",
+    "nombre": "Restaurant Facade 01",
+    "autor": "joeshu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1232806,
+    "url": "https://sketchfab.com/3d-models/none-4720a3d5c9344090936183cb3a273e76",
+    "miniatura": "miniaturas/pt_s_fachada_scan/4720a3d5c9344090936183cb3a273e76.jpg"
+   },
+   {
+    "uid": "276d968cea0142a797ad0e9d11dd93b8",
+    "nombre": "Crown Court (Old City Hall) in Lublin old town",
+    "autor": "HANGAR28",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 93705,
+    "url": "https://sketchfab.com/3d-models/none-276d968cea0142a797ad0e9d11dd93b8",
+    "miniatura": "miniaturas/pt_s_fachada_scan/276d968cea0142a797ad0e9d11dd93b8.jpg"
+   },
+   {
+    "uid": "47913b7cf26d4c7da98a6262f0b68355",
+    "nombre": "High facade of the factory with exit gates",
+    "autor": "archiwum_xyz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1000028,
+    "url": "https://sketchfab.com/3d-models/none-47913b7cf26d4c7da98a6262f0b68355",
+    "miniatura": "miniaturas/pt_s_fachada_scan/47913b7cf26d4c7da98a6262f0b68355.jpg"
+   },
+   {
+    "uid": "133bd7e9008f4d7da79b8ba17a4b5632",
+    "nombre": "Surukchi building in Kharkiv",
+    "autor": "ngc.com.ua",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 896093,
+    "url": "https://sketchfab.com/3d-models/none-133bd7e9008f4d7da79b8ba17a4b5632",
+    "miniatura": "miniaturas/pt_s_fachada_scan/133bd7e9008f4d7da79b8ba17a4b5632.jpg"
+   },
+   {
+    "uid": "410139291c3a4c349aa790f8601f288d",
+    "nombre": "Door #29 - Red Door",
+    "autor": "azadbal",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 150036,
+    "url": "https://sketchfab.com/3d-models/none-410139291c3a4c349aa790f8601f288d",
+    "miniatura": "miniaturas/pt_s_fachada_scan/410139291c3a4c349aa790f8601f288d.jpg"
+   },
+   {
+    "uid": "258da4d032404268ba6beeedacab267f",
+    "nombre": "Facade of a residential building - fragment",
+    "autor": "archiwum_xyz",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 534119,
+    "url": "https://sketchfab.com/3d-models/none-258da4d032404268ba6beeedacab267f",
+    "miniatura": "miniaturas/pt_s_fachada_scan/258da4d032404268ba6beeedacab267f.jpg"
+   },
+   {
+    "uid": "cf29e727c57c4a8eb8e033a584a34df6",
+    "nombre": "Unfinished villa ruin",
+    "autor": "axonite",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 659352,
+    "url": "https://sketchfab.com/3d-models/none-cf29e727c57c4a8eb8e033a584a34df6",
+    "miniatura": "miniaturas/pt_s_fachada_scan/cf29e727c57c4a8eb8e033a584a34df6.jpg"
+   },
+   {
+    "uid": "44b9bf5c5a66461abe19a4e533a6ca98",
+    "nombre": "Montcortès Castle and Santa Anna little church",
+    "autor": "calidos",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1982822,
+    "url": "https://sketchfab.com/3d-models/none-44b9bf5c5a66461abe19a4e533a6ca98",
+    "miniatura": "miniaturas/pt_s_fachada_scan/44b9bf5c5a66461abe19a4e533a6ca98.jpg"
+   },
+   {
+    "uid": "ffbc41760ff6496398940e65ad299761",
+    "nombre": "Door #63 - Colorful (Berlin, Germany)",
+    "autor": "azadbal",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 643147,
+    "url": "https://sketchfab.com/3d-models/none-ffbc41760ff6496398940e65ad299761",
+    "miniatura": "miniaturas/pt_s_fachada_scan/ffbc41760ff6496398940e65ad299761.jpg"
+   },
+   {
+    "uid": "ce77b4211dc14577bfe4025c36cf14a7",
+    "nombre": "Old building",
+    "autor": "yelizegi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1411091,
+    "url": "https://sketchfab.com/3d-models/none-ce77b4211dc14577bfe4025c36cf14a7",
+    "miniatura": "miniaturas/pt_s_fachada_scan/ce77b4211dc14577bfe4025c36cf14a7.jpg"
+   },
+   {
+    "uid": "76e4c85bfe8a4e71924b19b2aca11c25",
+    "nombre": "A Facade in Yerevan's Kond District",
+    "autor": "azadbal",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 946953,
+    "url": "https://sketchfab.com/3d-models/none-76e4c85bfe8a4e71924b19b2aca11c25",
+    "miniatura": "miniaturas/pt_s_fachada_scan/76e4c85bfe8a4e71924b19b2aca11c25.jpg"
+   },
+   {
+    "uid": "f358ec8bd24845e181f5cc57f3165af2",
+    "nombre": "Broken Brick Wall [RAW]",
+    "autor": "Zende",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 20010,
+    "url": "https://sketchfab.com/3d-models/none-f358ec8bd24845e181f5cc57f3165af2",
+    "miniatura": "miniaturas/pt_s_fachada_scan/f358ec8bd24845e181f5cc57f3165af2.jpg"
+   },
+   {
+    "uid": "d9a8a96e16534bdab76be23c1f2c45fc",
+    "nombre": "Colosseum Facade (Rome, Italy)",
+    "autor": "Jeremy.Christopher",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 221127,
+    "url": "https://sketchfab.com/3d-models/none-d9a8a96e16534bdab76be23c1f2c45fc",
+    "miniatura": "miniaturas/pt_s_fachada_scan/d9a8a96e16534bdab76be23c1f2c45fc.jpg"
+   }
+  ],
+  "pt_s_auto_scan": [
+   {
+    "uid": "2938b8237531482d9750ce2717fbe099",
+    "nombre": "Lowpoly Animal Skulls - 1",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 87497,
+    "url": "https://sketchfab.com/3d-models/none-2938b8237531482d9750ce2717fbe099",
+    "miniatura": "miniaturas/pt_s_auto_scan/2938b8237531482d9750ce2717fbe099.jpg"
+   },
+   {
+    "uid": "bd189bba7d9e4924b12826a6d68200d9",
+    "nombre": "The Parade Armour of King Erik XIV of Sweden",
+    "autor": "TheRoyalArmoury",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1000000,
+    "url": "https://sketchfab.com/3d-models/none-bd189bba7d9e4924b12826a6d68200d9",
+    "miniatura": "miniaturas/pt_s_auto_scan/bd189bba7d9e4924b12826a6d68200d9.jpg"
+   },
+   {
+    "uid": "9ec7a14729aa490fa712e51c217db0f5",
+    "nombre": "Lowpoly People + Waldo",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 140943,
+    "url": "https://sketchfab.com/3d-models/none-9ec7a14729aa490fa712e51c217db0f5",
+    "miniatura": "miniaturas/pt_s_auto_scan/9ec7a14729aa490fa712e51c217db0f5.jpg"
+   },
+   {
+    "uid": "916b51c7e5644eb2a6c9b3797ebb08cf",
+    "nombre": "Destroyed Car 07 (Raw Scan)",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2500000,
+    "url": "https://sketchfab.com/3d-models/none-916b51c7e5644eb2a6c9b3797ebb08cf",
+    "miniatura": "miniaturas/pt_s_auto_scan/916b51c7e5644eb2a6c9b3797ebb08cf.jpg"
+   },
+   {
+    "uid": "0eb1f1757349489eab05a0f03cff5b46",
+    "nombre": "Frank",
+    "autor": "misterdevious",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 49998,
+    "url": "https://sketchfab.com/3d-models/none-0eb1f1757349489eab05a0f03cff5b46",
+    "miniatura": "miniaturas/pt_s_auto_scan/0eb1f1757349489eab05a0f03cff5b46.jpg"
+   },
+   {
+    "uid": "01f8155cc7104c75895ad7bc318889ba",
+    "nombre": "Crystal Palace Cinema from realityvirtual.co",
+    "autor": "miguelbandera",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 423713,
+    "url": "https://sketchfab.com/3d-models/none-01f8155cc7104c75895ad7bc318889ba",
+    "miniatura": "miniaturas/pt_s_auto_scan/01f8155cc7104c75895ad7bc318889ba.jpg"
+   },
+   {
+    "uid": "78f76d386a4341b0b71745bdc50fd5ab",
+    "nombre": "Oldsmobile Cutlass Supreme Sedan '71",
+    "autor": "barbo-autos",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 70258,
+    "url": "https://sketchfab.com/3d-models/none-78f76d386a4341b0b71745bdc50fd5ab",
+    "miniatura": "miniaturas/pt_s_auto_scan/78f76d386a4341b0b71745bdc50fd5ab.jpg"
+   },
+   {
+    "uid": "d4dcc5c38fee489094ce595722243259",
+    "nombre": "Destroyed cars",
+    "autor": "scanthewar",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 660147,
+    "url": "https://sketchfab.com/3d-models/none-d4dcc5c38fee489094ce595722243259",
+    "miniatura": "miniaturas/pt_s_auto_scan/d4dcc5c38fee489094ce595722243259.jpg"
+   },
+   {
+    "uid": "483fe7f26336463fba66638ca4200c5a",
+    "nombre": "Destroyed Car 03 (Raw Scan)",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2499999,
+    "url": "https://sketchfab.com/3d-models/none-483fe7f26336463fba66638ca4200c5a",
+    "miniatura": "miniaturas/pt_s_auto_scan/483fe7f26336463fba66638ca4200c5a.jpg"
+   },
+   {
+    "uid": "8a540625b599428796cda78578040deb",
+    "nombre": "Red car wreck",
+    "autor": "matousekfoto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1255701,
+    "url": "https://sketchfab.com/3d-models/none-8a540625b599428796cda78578040deb",
+    "miniatura": "miniaturas/pt_s_auto_scan/8a540625b599428796cda78578040deb.jpg"
+   },
+   {
+    "uid": "e60923b56a3849bf8f74fa51f6c849f8",
+    "nombre": "Lowpoly Tools - Free Download",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4992,
+    "url": "https://sketchfab.com/3d-models/none-e60923b56a3849bf8f74fa51f6c849f8",
+    "miniatura": "miniaturas/pt_s_auto_scan/e60923b56a3849bf8f74fa51f6c849f8.jpg"
+   },
+   {
+    "uid": "3d2fbeed83494547a0a38db053eb4ff3",
+    "nombre": "Union Pacific Railroad Car, Rhyolite",
+    "autor": "azadbal",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 99969,
+    "url": "https://sketchfab.com/3d-models/none-3d2fbeed83494547a0a38db053eb4ff3",
+    "miniatura": "miniaturas/pt_s_auto_scan/3d2fbeed83494547a0a38db053eb4ff3.jpg"
+   },
+   {
+    "uid": "1cbbb828ebae4d128cf86c78ac66e282",
+    "nombre": "Place de la Nation-The Triumphe of the Republic",
+    "autor": "HoangHiepVu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4430997,
+    "url": "https://sketchfab.com/3d-models/none-1cbbb828ebae4d128cf86c78ac66e282",
+    "miniatura": "miniaturas/pt_s_auto_scan/1cbbb828ebae4d128cf86c78ac66e282.jpg"
+   },
+   {
+    "uid": "07bc48134b364d4f8a43d288b3a0282d",
+    "nombre": "Pirozhok Scan Retopo (Free Scan)",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4851,
+    "url": "https://sketchfab.com/3d-models/none-07bc48134b364d4f8a43d288b3a0282d",
+    "miniatura": "miniaturas/pt_s_auto_scan/07bc48134b364d4f8a43d288b3a0282d.jpg"
+   },
+   {
+    "uid": "4749ba1722774d3eb101199d51bd39b8",
+    "nombre": "Futatsugoya Tunnel “Abandoned road” japan",
+    "autor": "fujisan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 392594,
+    "url": "https://sketchfab.com/3d-models/none-4749ba1722774d3eb101199d51bd39b8",
+    "miniatura": "miniaturas/pt_s_auto_scan/4749ba1722774d3eb101199d51bd39b8.jpg"
+   },
+   {
+    "uid": "08a1e693c9674a3292dec2298b09e0ae",
+    "nombre": "The Thinker by Auguste Rodin",
+    "autor": "rigsters",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 50974,
+    "url": "https://sketchfab.com/3d-models/none-08a1e693c9674a3292dec2298b09e0ae",
+    "miniatura": "miniaturas/pt_s_auto_scan/08a1e693c9674a3292dec2298b09e0ae.jpg"
+   },
+   {
+    "uid": "65cd2eee84544eea856c0215dd67bc3d",
+    "nombre": "Mar Saba Monastery  -RAWscan",
+    "autor": "spogna",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1179668,
+    "url": "https://sketchfab.com/3d-models/none-65cd2eee84544eea856c0215dd67bc3d",
+    "miniatura": "miniaturas/pt_s_auto_scan/65cd2eee84544eea856c0215dd67bc3d.jpg"
+   },
+   {
+    "uid": "d2651a5550f34d80b0dba6e971f3a1ae",
+    "nombre": "Crouch End Station",
+    "autor": "artfletch",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1907390,
+    "url": "https://sketchfab.com/3d-models/none-d2651a5550f34d80b0dba6e971f3a1ae",
+    "miniatura": "miniaturas/pt_s_auto_scan/d2651a5550f34d80b0dba6e971f3a1ae.jpg"
+   },
+   {
+    "uid": "be3a00bbb20941e58dabeddf4b5ef48f",
+    "nombre": "Deer Group - Snow Globe",
+    "autor": "rigsters",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 109780,
+    "url": "https://sketchfab.com/3d-models/none-be3a00bbb20941e58dabeddf4b5ef48f",
+    "miniatura": "miniaturas/pt_s_auto_scan/be3a00bbb20941e58dabeddf4b5ef48f.jpg"
+   },
+   {
+    "uid": "46be1ec6b7694b35a59e2e534a34f3f7",
+    "nombre": "Tristennnoeckl Mountain Peak 2465",
+    "autor": "shahriyarshahrabi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 502019,
+    "url": "https://sketchfab.com/3d-models/none-46be1ec6b7694b35a59e2e534a34f3f7",
+    "miniatura": "miniaturas/pt_s_auto_scan/46be1ec6b7694b35a59e2e534a34f3f7.jpg"
+   },
+   {
+    "uid": "688a186605d4456c998544b7fe536081",
+    "nombre": "Futuristic City",
+    "autor": "mortalityrexotable",
+    "licencia": "Free Standard",
+    "animaciones": 2,
+    "caras": 754517,
+    "url": "https://sketchfab.com/3d-models/none-688a186605d4456c998544b7fe536081",
+    "miniatura": "miniaturas/pt_s_auto_scan/688a186605d4456c998544b7fe536081.jpg"
+   },
+   {
+    "uid": "1cd8895e61bd40409e70330e9807cd12",
+    "nombre": "Farm Truck (Free Raw Scan)",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 588938,
+    "url": "https://sketchfab.com/3d-models/none-1cd8895e61bd40409e70330e9807cd12",
+    "miniatura": "miniaturas/pt_s_auto_scan/1cd8895e61bd40409e70330e9807cd12.jpg"
+   },
+   {
+    "uid": "c00b3b8c71594890a2a3c46c20a30b5c",
+    "nombre": "City Scene",
+    "autor": "mortalityrexotable",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 1289786,
+    "url": "https://sketchfab.com/3d-models/none-c00b3b8c71594890a2a3c46c20a30b5c",
+    "miniatura": "miniaturas/pt_s_auto_scan/c00b3b8c71594890a2a3c46c20a30b5c.jpg"
+   },
+   {
+    "uid": "a18a1449661643e6ab98640a3e7eafc1",
+    "nombre": "Èze Village - France",
+    "autor": "azadbal",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 302028,
+    "url": "https://sketchfab.com/3d-models/none-a18a1449661643e6ab98640a3e7eafc1",
+    "miniatura": "miniaturas/pt_s_auto_scan/a18a1449661643e6ab98640a3e7eafc1.jpg"
+   }
+  ],
+  "pt_s_auto_sedan": [
+   {
+    "uid": "67c84e4d30ae42fda22c0a0c7526df26",
+    "nombre": "Small price car",
+    "autor": "Oliv1e",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 42294,
+    "url": "https://sketchfab.com/3d-models/none-67c84e4d30ae42fda22c0a0c7526df26",
+    "miniatura": "miniaturas/pt_s_auto_sedan/67c84e4d30ae42fda22c0a0c7526df26.jpg"
+   },
+   {
+    "uid": "32498418a32d43a78d0847ce4c55fcb0",
+    "nombre": "Abandoned Car - BMW E30 Sedan",
+    "autor": "roh3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13062,
+    "url": "https://sketchfab.com/3d-models/none-32498418a32d43a78d0847ce4c55fcb0",
+    "miniatura": "miniaturas/pt_s_auto_sedan/32498418a32d43a78d0847ce4c55fcb0.jpg"
+   },
+   {
+    "uid": "9bc5e9e5edd5487f97d8501a22c3c8b5",
+    "nombre": "Ford Focus Sedan",
+    "autor": "BHP3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 804653,
+    "url": "https://sketchfab.com/3d-models/none-9bc5e9e5edd5487f97d8501a22c3c8b5",
+    "miniatura": "miniaturas/pt_s_auto_sedan/9bc5e9e5edd5487f97d8501a22c3c8b5.jpg"
+   },
+   {
+    "uid": "bab77902c638427bb85e68b6762a481f",
+    "nombre": "2016 Volkswagen Polo",
+    "autor": "BHP3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 179345,
+    "url": "https://sketchfab.com/3d-models/none-bab77902c638427bb85e68b6762a481f",
+    "miniatura": "miniaturas/pt_s_auto_sedan/bab77902c638427bb85e68b6762a481f.jpg"
+   },
+   {
+    "uid": "d87af59849814c5cb35a0c233f2c2f19",
+    "nombre": "toyota-corolla-e170-2017",
+    "autor": "Blender_Boy1",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 755890,
+    "url": "https://sketchfab.com/3d-models/none-d87af59849814c5cb35a0c233f2c2f19",
+    "miniatura": "miniaturas/pt_s_auto_sedan/d87af59849814c5cb35a0c233f2c2f19.jpg"
+   },
+   {
+    "uid": "40ecf745664846bba3f7331b11cd99f8",
+    "nombre": "Abandoned Car - Fiat 132",
+    "autor": "roh3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9048,
+    "url": "https://sketchfab.com/3d-models/none-40ecf745664846bba3f7331b11cd99f8",
+    "miniatura": "miniaturas/pt_s_auto_sedan/40ecf745664846bba3f7331b11cd99f8.jpg"
+   },
+   {
+    "uid": "95451c00cb2d48778f67d798167e7237",
+    "nombre": "2022 Maruti Suzuki Swift Dzire",
+    "autor": "BHP3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1474933,
+    "url": "https://sketchfab.com/3d-models/none-95451c00cb2d48778f67d798167e7237",
+    "miniatura": "miniaturas/pt_s_auto_sedan/95451c00cb2d48778f67d798167e7237.jpg"
+   },
+   {
+    "uid": "ecc42a37c7e2409b9fd05665512843ce",
+    "nombre": "BMW E46 1998",
+    "autor": "slowpoly",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1420,
+    "url": "https://sketchfab.com/3d-models/none-ecc42a37c7e2409b9fd05665512843ce",
+    "miniatura": "miniaturas/pt_s_auto_sedan/ecc42a37c7e2409b9fd05665512843ce.jpg"
+   },
+   {
+    "uid": "15e91e5ea6e94cab99b7150fe0a80944",
+    "nombre": "Luxurious Rolls-Royce Cullinan - 3D Render",
+    "autor": "ig.ghazigfx",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1346814,
+    "url": "https://sketchfab.com/3d-models/none-15e91e5ea6e94cab99b7150fe0a80944",
+    "miniatura": "miniaturas/pt_s_auto_sedan/15e91e5ea6e94cab99b7150fe0a80944.jpg"
+   },
+   {
+    "uid": "8eebf01fb1c14f6d88ddd47fa77f5ccb",
+    "nombre": "Ford Country Sedan 1962",
+    "autor": "Dodocaedro",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 214831,
+    "url": "https://sketchfab.com/3d-models/none-8eebf01fb1c14f6d88ddd47fa77f5ccb",
+    "miniatura": "miniaturas/pt_s_auto_sedan/8eebf01fb1c14f6d88ddd47fa77f5ccb.jpg"
+   },
+   {
+    "uid": "cfaabdec76a74b68a48ba5657b6d9aee",
+    "nombre": "SHC MC Free Promotion Car",
+    "autor": "denniswoo1993",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 42070,
+    "url": "https://sketchfab.com/3d-models/none-cfaabdec76a74b68a48ba5657b6d9aee",
+    "miniatura": "miniaturas/pt_s_auto_sedan/cfaabdec76a74b68a48ba5657b6d9aee.jpg"
+   },
+   {
+    "uid": "ee8ac309b76e406abbf2d02d9aca13ec",
+    "nombre": "1996 Mercedes-Benz E50 AMG (W210)",
+    "autor": "VTX_car",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 336702,
+    "url": "https://sketchfab.com/3d-models/none-ee8ac309b76e406abbf2d02d9aca13ec",
+    "miniatura": "miniaturas/pt_s_auto_sedan/ee8ac309b76e406abbf2d02d9aca13ec.jpg"
+   },
+   {
+    "uid": "53dfe733a62a4a419a7e50ae1f58b54f",
+    "nombre": "2009 Skoda Superb",
+    "autor": "BHP3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 593699,
+    "url": "https://sketchfab.com/3d-models/none-53dfe733a62a4a419a7e50ae1f58b54f",
+    "miniatura": "miniaturas/pt_s_auto_sedan/53dfe733a62a4a419a7e50ae1f58b54f.jpg"
+   },
+   {
+    "uid": "6e95c7713c1c43b3b9b981d3ccfe5e32",
+    "nombre": "Ford Escort RS1600 1970",
+    "autor": "slowpoly",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1280,
+    "url": "https://sketchfab.com/3d-models/none-6e95c7713c1c43b3b9b981d3ccfe5e32",
+    "miniatura": "miniaturas/pt_s_auto_sedan/6e95c7713c1c43b3b9b981d3ccfe5e32.jpg"
+   },
+   {
+    "uid": "feb4ac88e53c44b59f17289ada1e8e63",
+    "nombre": "BMW M3 Competition",
+    "autor": "VTX_car",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 658592,
+    "url": "https://sketchfab.com/3d-models/none-feb4ac88e53c44b59f17289ada1e8e63",
+    "miniatura": "miniaturas/pt_s_auto_sedan/feb4ac88e53c44b59f17289ada1e8e63.jpg"
+   },
+   {
+    "uid": "f91cbef731444f939e263041400216ca",
+    "nombre": "Chevrolet Cobalt LTZ 2014",
+    "autor": "qsardor57913",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1045425,
+    "url": "https://sketchfab.com/3d-models/none-f91cbef731444f939e263041400216ca",
+    "miniatura": "miniaturas/pt_s_auto_sedan/f91cbef731444f939e263041400216ca.jpg"
+   },
+   {
+    "uid": "7558ef08987d4a22bd317ac1fae12c1f",
+    "nombre": "Mitsubishi Lancer Evolution 1997",
+    "autor": "slowpoly",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1372,
+    "url": "https://sketchfab.com/3d-models/none-7558ef08987d4a22bd317ac1fae12c1f",
+    "miniatura": "miniaturas/pt_s_auto_sedan/7558ef08987d4a22bd317ac1fae12c1f.jpg"
+   },
+   {
+    "uid": "aec912ed367b4aebacc8676922f42beb",
+    "nombre": "Tesla model S Plaid 2023",
+    "autor": "slowpoly",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1500,
+    "url": "https://sketchfab.com/3d-models/none-aec912ed367b4aebacc8676922f42beb",
+    "miniatura": "miniaturas/pt_s_auto_sedan/aec912ed367b4aebacc8676922f42beb.jpg"
+   },
+   {
+    "uid": "49b9f3805ab44ccd8971adfca351b403",
+    "nombre": "BMW M5 E34",
+    "autor": "VTX_car",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 292575,
+    "url": "https://sketchfab.com/3d-models/none-49b9f3805ab44ccd8971adfca351b403",
+    "miniatura": "miniaturas/pt_s_auto_sedan/49b9f3805ab44ccd8971adfca351b403.jpg"
+   },
+   {
+    "uid": "54da50507dde42c8aa274d5e53b47339",
+    "nombre": "2016 Suzuki Ciaz",
+    "autor": "BHP3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 448015,
+    "url": "https://sketchfab.com/3d-models/none-54da50507dde42c8aa274d5e53b47339",
+    "miniatura": "miniaturas/pt_s_auto_sedan/54da50507dde42c8aa274d5e53b47339.jpg"
+   },
+   {
+    "uid": "046bb8f994c3472393551ac7f729a477",
+    "nombre": "Daewoo Nexia 2",
+    "autor": "qsardor57913",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 906462,
+    "url": "https://sketchfab.com/3d-models/none-046bb8f994c3472393551ac7f729a477",
+    "miniatura": "miniaturas/pt_s_auto_sedan/046bb8f994c3472393551ac7f729a477.jpg"
+   },
+   {
+    "uid": "677ea3257be640e8b1050408532ffaa2",
+    "nombre": "2025 Xiaomi SU7 Ultra Production Version",
+    "autor": "VTX_car",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 747246,
+    "url": "https://sketchfab.com/3d-models/none-677ea3257be640e8b1050408532ffaa2",
+    "miniatura": "miniaturas/pt_s_auto_sedan/677ea3257be640e8b1050408532ffaa2.jpg"
+   },
+   {
+    "uid": "abcc864162d34b008391a0b13a57da86",
+    "nombre": "Mercedes-Benz AMG M 55 Black Exterior",
+    "autor": "Thethirdperspective",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 477816,
+    "url": "https://sketchfab.com/3d-models/none-abcc864162d34b008391a0b13a57da86",
+    "miniatura": "miniaturas/pt_s_auto_sedan/abcc864162d34b008391a0b13a57da86.jpg"
+   },
+   {
+    "uid": "4c3c05da2a3e46539cf324e756cc5e32",
+    "nombre": "Volkswagen Passat B5",
+    "autor": "romanian_guy_0069",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 157472,
+    "url": "https://sketchfab.com/3d-models/none-4c3c05da2a3e46539cf324e756cc5e32",
+    "miniatura": "miniaturas/pt_s_auto_sedan/4c3c05da2a3e46539cf324e756cc5e32.jpg"
+   }
+  ],
+  "pt_s_taxi": [
+   {
+    "uid": "8c81631fd8d7466a96175364f3f5a683",
+    "nombre": "New York Police and Taxi",
+    "autor": "jeandiz",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 531742,
+    "url": "https://sketchfab.com/3d-models/none-8c81631fd8d7466a96175364f3f5a683",
+    "miniatura": "miniaturas/pt_s_taxi/8c81631fd8d7466a96175364f3f5a683.jpg"
+   },
+   {
+    "uid": "6dd4b71d39ab470cbc4d7f1fff77eb77",
+    "nombre": "Ford Crown Victoria NYC Taxi Cab (Low Poly)",
+    "autor": "aeroux",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 183,
+    "url": "https://sketchfab.com/3d-models/none-6dd4b71d39ab470cbc4d7f1fff77eb77",
+    "miniatura": "miniaturas/pt_s_taxi/6dd4b71d39ab470cbc4d7f1fff77eb77.jpg"
+   },
+   {
+    "uid": "36762f0e64024a48b2f5ac73753ef6dd",
+    "nombre": "Hello Kitty New York Old Taxi ",
+    "autor": "jul738",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 6505,
+    "url": "https://sketchfab.com/3d-models/none-36762f0e64024a48b2f5ac73753ef6dd",
+    "miniatura": "miniaturas/pt_s_taxi/36762f0e64024a48b2f5ac73753ef6dd.jpg"
+   },
+   {
+    "uid": "072e7d53d9bf4662ac2e782e0aad9395",
+    "nombre": "Civil Car Pack - New York Taxi License 3D",
+    "autor": "ilovesuperdrift",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 456,
+    "url": "https://sketchfab.com/3d-models/none-072e7d53d9bf4662ac2e782e0aad9395",
+    "miniatura": "miniaturas/pt_s_taxi/072e7d53d9bf4662ac2e782e0aad9395.jpg"
+   },
+   {
+    "uid": "148639200601405e9128bc74bb72dfc6",
+    "nombre": "Civil Car Green - New York Taxi License 3D",
+    "autor": "ilovesuperdrift",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 152,
+    "url": "https://sketchfab.com/3d-models/none-148639200601405e9128bc74bb72dfc6",
+    "miniatura": "miniaturas/pt_s_taxi/148639200601405e9128bc74bb72dfc6.jpg"
+   },
+   {
+    "uid": "02394f3fa9244536b61d3c192877dfe9",
+    "nombre": "Taxi Car - New York Taxi License 3D",
+    "autor": "ilovesuperdrift",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 138,
+    "url": "https://sketchfab.com/3d-models/none-02394f3fa9244536b61d3c192877dfe9",
+    "miniatura": "miniaturas/pt_s_taxi/02394f3fa9244536b61d3c192877dfe9.jpg"
+   },
+   {
+    "uid": "aea52be04c0d4d8b92a152d582aa18a0",
+    "nombre": "Yellow Taxi",
+    "autor": "eyesCloud3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 316999,
+    "url": "https://sketchfab.com/3d-models/none-aea52be04c0d4d8b92a152d582aa18a0",
+    "miniatura": "miniaturas/pt_s_taxi/aea52be04c0d4d8b92a152d582aa18a0.jpg"
+   },
+   {
+    "uid": "3ff2b9ef9a7b45deae741aa3345427a4",
+    "nombre": "NYC Table",
+    "autor": "ki1004ka",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10316,
+    "url": "https://sketchfab.com/3d-models/none-3ff2b9ef9a7b45deae741aa3345427a4",
+    "miniatura": "miniaturas/pt_s_taxi/3ff2b9ef9a7b45deae741aa3345427a4.jpg"
+   },
+   {
+    "uid": "afd41a5c55ee44e6a7ecc589290c8b43",
+    "nombre": "New York Taxi",
+    "autor": "SidewalkNZ",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 4940,
+    "url": "https://sketchfab.com/3d-models/none-afd41a5c55ee44e6a7ecc589290c8b43",
+    "miniatura": "miniaturas/pt_s_taxi/afd41a5c55ee44e6a7ecc589290c8b43.jpg"
+   },
+   {
+    "uid": "2767fb9efc354eadac754de04dfac271",
+    "nombre": "Lego-Style New York Yellow Taxi",
+    "autor": "romainmouillat",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 948850,
+    "url": "https://sketchfab.com/3d-models/none-2767fb9efc354eadac754de04dfac271",
+    "miniatura": "miniaturas/pt_s_taxi/2767fb9efc354eadac754de04dfac271.jpg"
+   }
+  ],
+  "pt_s_van": [
+   {
+    "uid": "dfb120181c604d419976c64997145eab",
+    "nombre": "2022 Toyota Vellfire",
+    "autor": "BHP3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1740327,
+    "url": "https://sketchfab.com/3d-models/none-dfb120181c604d419976c64997145eab",
+    "miniatura": "miniaturas/pt_s_van/dfb120181c604d419976c64997145eab.jpg"
+   },
+   {
+    "uid": "c44e4cda82a647d1abc0b1c2b2387502",
+    "nombre": "Realistic Transit Van – GLB 3D Model",
+    "autor": "dimenxioner.com",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 11857,
+    "url": "https://sketchfab.com/3d-models/none-c44e4cda82a647d1abc0b1c2b2387502",
+    "miniatura": "miniaturas/pt_s_van/c44e4cda82a647d1abc0b1c2b2387502.jpg"
+   },
+   {
+    "uid": "cd48bf440b4d4f3a8a7c93b5926be663",
+    "nombre": "Logistics Semi-Truck - 3D Model",
+    "autor": "Nez1x75",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 59660,
+    "url": "https://sketchfab.com/3d-models/none-cd48bf440b4d4f3a8a7c93b5926be663",
+    "miniatura": "miniaturas/pt_s_van/cd48bf440b4d4f3a8a7c93b5926be663.jpg"
+   },
+   {
+    "uid": "a2526c2fff854e8c934b2775b5a7cb44",
+    "nombre": "Yellow Electric Van",
+    "autor": "rajprajapat847",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2,
+    "url": "https://sketchfab.com/3d-models/none-a2526c2fff854e8c934b2775b5a7cb44",
+    "miniatura": "miniaturas/pt_s_van/a2526c2fff854e8c934b2775b5a7cb44.jpg"
+   },
+   {
+    "uid": "8d2529f41c7d4404881f6c4014d4f04c",
+    "nombre": "Ford Transit Custom Double Cargo Van",
+    "autor": "dimenxioner.com",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 40000,
+    "url": "https://sketchfab.com/3d-models/none-8d2529f41c7d4404881f6c4014d4f04c",
+    "miniatura": "miniaturas/pt_s_van/8d2529f41c7d4404881f6c4014d4f04c.jpg"
+   },
+   {
+    "uid": "3a40f32bd756444ba79aa8f0fbeb4c01",
+    "nombre": "Cargo Van 3D Model – Game-Ready, PBR, GLB Format",
+    "autor": "dimenxioner.com",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 40000,
+    "url": "https://sketchfab.com/3d-models/none-3a40f32bd756444ba79aa8f0fbeb4c01",
+    "miniatura": "miniaturas/pt_s_van/3a40f32bd756444ba79aa8f0fbeb4c01.jpg"
+   },
+   {
+    "uid": "12c6f125d89840c484551c2ac01b781f",
+    "nombre": "Golden Dragon V4",
+    "autor": "teenlin3",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1495040,
+    "url": "https://sketchfab.com/3d-models/none-12c6f125d89840c484551c2ac01b781f",
+    "miniatura": "miniaturas/pt_s_van/12c6f125d89840c484551c2ac01b781f.jpg"
+   }
+  ]
+ },
+ "objaverse": {
+  "pt_mujer_camina": {
+   "uid": "d3f65ad04ec845b197a689db48ec4329",
+   "nombre": "pt_mujer_camina",
+   "titulo": "Nilda Female Character Walk Animation",
+   "autor": "?",
+   "licencia": "CC Attribution"
+  },
+  "pt_pareja_camina": {
+   "uid": "bbaa566445074509a32ef5059a9d0bc2",
+   "nombre": "pt_pareja_camina",
+   "titulo": "Man Woman Walk",
+   "autor": "iko.gazette",
+   "licencia": "CC Attribution"
+  },
+  "pt_mujer_telefono": {
+   "uid": "b4d00bf20dd84b3d9842fdb1744555be",
+   "nombre": "pt_mujer_telefono",
+   "titulo": "Mia Talking On Phone",
+   "autor": "instideal2019",
+   "licencia": "CC Attribution"
+  },
+  "pt_hombre_telefono_camina": {
+   "uid": "9d3f3674bcf849e099d1d0da4de33e40",
+   "nombre": "pt_hombre_telefono_camina",
+   "titulo": "Mr Man Talking Phone Pacing",
+   "autor": "instideal2019",
+   "licencia": "CC Attribution"
+  },
+  "pt_hombre_camina_verde": {
+   "uid": "d3a292ede4954c9aaf88e9c58d364a15",
+   "nombre": "pt_hombre_camina_verde",
+   "titulo": "Character test - Walking",
+   "autor": "?",
+   "licencia": "CC Attribution"
+  }
+ },
+ "info": {
+  "grass_medium_02": {
+   "nombre": "Grass Medium 02",
+   "autores": {
+    "Rico Cilliers": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "grass_bermuda_01": {
+   "nombre": "Grass Bermuda 01",
+   "autores": {
+    "Rico Cilliers": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  }
+ }
+}
