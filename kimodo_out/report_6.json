@@ -1,16 +1,10 @@
 {
- "total_seconds": 459.6,
+ "total_seconds": 240.2,
  "jobs": [
   {
-   "name": "pv04_alcanzar_estante_alto_a",
+   "name": "pt3_apoyado_b",
    "response": "OK\t150\t30",
-   "seconds": 230.5,
-   "frames": 150
-  },
-  {
-   "name": "pv14_tropezar_caer_a",
-   "response": "OK\t150\t30",
-   "seconds": 229.0,
+   "seconds": 240.1,
    "frames": 150
   }
  ]
