@@ -1,17 +1,17 @@
 {
- "total_seconds": 349.8,
+ "total_seconds": 496.2,
  "jobs": [
   {
-   "name": "pt2_cae_espalda_b",
-   "response": "OK\t100\t30",
-   "seconds": 189.5,
-   "frames": 100
+   "name": "pv04_alcanzar_estante_alto_b",
+   "response": "OK\t150\t30",
+   "seconds": 248.9,
+   "frames": 150
   },
   {
-   "name": "pt2_asiente_a",
-   "response": "OK\t75\t30",
-   "seconds": 160.2,
-   "frames": 75
+   "name": "pv14_tropezar_caer_b",
+   "response": "OK\t150\t30",
+   "seconds": 247.2,
+   "frames": 150
   }
  ]
 }
