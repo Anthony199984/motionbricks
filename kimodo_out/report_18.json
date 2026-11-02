@@ -1,11 +1,17 @@
 {
- "total_seconds": 211.7,
+ "total_seconds": 532.6,
  "jobs": [
   {
-   "name": "pt2_tirado_sienta_pulgar_a",
-   "response": "OK\t120\t30",
-   "seconds": 211.6,
-   "frames": 120
+   "name": "pv10_saludar_dos_manos_a",
+   "response": "OK\t150\t30",
+   "seconds": 266.4,
+   "frames": 150
+  },
+  {
+   "name": "pv20_darse_vuelta_mirar_atras_a",
+   "response": "OK\t150\t30",
+   "seconds": 266.1,
+   "frames": 150
   }
  ]
 }
