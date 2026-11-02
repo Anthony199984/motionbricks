@@ -1,10 +1,16 @@
 {
- "total_seconds": 135.2,
+ "total_seconds": 349.8,
  "jobs": [
   {
-   "name": "pt_m06_escupe_b",
+   "name": "pt2_cae_espalda_b",
+   "response": "OK\t100\t30",
+   "seconds": 189.5,
+   "frames": 100
+  },
+  {
+   "name": "pt2_asiente_a",
    "response": "OK\t75\t30",
-   "seconds": 135.1,
+   "seconds": 160.2,
    "frames": 75
   }
  ]
