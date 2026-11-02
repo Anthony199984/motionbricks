@@ -1,17 +1,17 @@
 {
- "total_seconds": 263.1,
+ "total_seconds": 501.0,
  "jobs": [
   {
-   "name": "pt2_camina_feliz_c",
+   "name": "pv02_seguir_pajaro_cielo_a",
    "response": "OK\t150\t30",
-   "seconds": 154.4,
+   "seconds": 251.7,
    "frames": 150
   },
   {
-   "name": "pt2_carga_peso_b",
-   "response": "OK\t90\t30",
-   "seconds": 108.6,
-   "frames": 90
+   "name": "pv12_saltar_girar_a",
+   "response": "OK\t150\t30",
+   "seconds": 249.2,
+   "frames": 150
   }
  ]
 }
