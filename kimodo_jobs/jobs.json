@@ -1,26 +1,50 @@
 [
  {
-  "name": "pv19v2_acostado_lado_levantarse_a",
+  "name": "pt3_huye_a",
   "frames": 150,
-  "seed": 32000,
-  "prompt": "A person lying on the back on the floor turns onto the right side, pushes up with both hands to sit, then stands up slowly."
+  "seed": 31101,
+  "prompt": "A person walking casually suddenly sees something scary, turns around and runs away fast in panic, arms pumping."
  },
  {
-  "name": "pv19v2_acostado_lado_levantarse_b",
+  "name": "pt3_huye_b",
   "frames": 150,
-  "seed": 32001,
-  "prompt": "A person lying on the back on the floor turns onto the right side, pushes up with both hands to sit, then stands up slowly."
+  "seed": 31102,
+  "prompt": "A person walking casually suddenly sees something scary, turns around and runs away fast in panic, arms pumping."
  },
  {
-  "name": "pv19v3_acostado_sentarse_levantarse_a",
+  "name": "pt3_huye_c",
   "frames": 150,
-  "seed": 32010,
-  "prompt": "A person lying face up on the ground slowly sits up, bends the knees, puts one hand on the floor and stands up."
+  "seed": 31103,
+  "prompt": "A person walking casually suddenly sees something scary, turns around and runs away fast in panic, arms pumping."
  },
  {
-  "name": "pv19v3_acostado_sentarse_levantarse_b",
+  "name": "pt3_corre_a",
+  "frames": 120,
+  "seed": 31201,
+  "prompt": "A person runs forward fast in panic, arms pumping, looking scared."
+ },
+ {
+  "name": "pt3_corre_b",
+  "frames": 120,
+  "seed": 31202,
+  "prompt": "A person runs forward fast in panic, arms pumping, looking scared."
+ },
+ {
+  "name": "pt3_apoyado_a",
   "frames": 150,
-  "seed": 32011,
-  "prompt": "A person lying face up on the ground slowly sits up, bends the knees, puts one hand on the floor and stands up."
+  "seed": 31301,
+  "prompt": "A person sits on the ground leaning back, supporting the upper body with the right hand flat on the ground behind the hip, the left arm stretched up and to the side holding onto something, head up looking forward, frightened, breathing."
+ },
+ {
+  "name": "pt3_apoyado_b",
+  "frames": 150,
+  "seed": 31302,
+  "prompt": "A person sits on the ground leaning back, supporting the upper body with the right hand flat on the ground behind the hip, the left arm stretched up and to the side holding onto something, head up looking forward, frightened, breathing."
+ },
+ {
+  "name": "pt3_apoyado_c",
+  "frames": 150,
+  "seed": 31303,
+  "prompt": "A person sits on the ground leaning back, supporting the upper body with the right hand flat on the ground behind the hip, the left arm stretched up and to the side holding onto something, head up looking forward, frightened, breathing."
  }
 ]
