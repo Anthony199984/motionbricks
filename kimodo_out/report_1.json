@@ -1,11 +1,11 @@
 {
- "total_seconds": 469.1,
+ "total_seconds": 114.5,
  "jobs": [
   {
-   "name": "mv01_vaso_beber_b",
-   "response": "OK\t300\t30",
-   "seconds": 468.9,
-   "frames": 300
+   "name": "pt_m03_resiste_b",
+   "response": "OK\t90\t30",
+   "seconds": 114.4,
+   "frames": 90
   }
  ]
 }
