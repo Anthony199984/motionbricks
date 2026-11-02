@@ -1,11 +1,11 @@
 {
- "total_seconds": 212.8,
+ "total_seconds": 91.3,
  "jobs": [
   {
-   "name": "cp50_mirar_suelo_curioso_a",
-   "response": "OK\t120\t30",
-   "seconds": 212.7,
-   "frames": 120
+   "name": "pt_m12_cuatro_b",
+   "response": "OK\t60\t30",
+   "seconds": 91.2,
+   "frames": 60
   }
  ]
 }
