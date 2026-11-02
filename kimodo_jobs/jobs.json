@@ -1,128 +1,218 @@
 [
  {
-  "name": "pt_m03_resiste_a",
-  "frames": 90,
-  "seed": 12000,
-  "prompt": "A person leans far backward with heels dug into the ground, resisting a strong pull forward, arms flailing."
+  "name": "pt2_camina_feliz_a",
+  "frames": 150,
+  "seed": 21173,
+  "prompt": "A person walks forward casually and relaxed, smiling, swinging the left arm, holding a coffee cup in the right hand."
  },
  {
-  "name": "pt_m03_resiste_b",
-  "frames": 90,
-  "seed": 12001,
-  "prompt": "A person is dragged forward by a strong force, leaning back and sliding on their heels, struggling."
+  "name": "pt2_camina_feliz_b",
+  "frames": 150,
+  "seed": 21174,
+  "prompt": "A person walks forward casually and relaxed, smiling, swinging the left arm, holding a coffee cup in the right hand."
  },
  {
-  "name": "pt_m03_resiste_c",
-  "frames": 90,
-  "seed": 12002,
-  "prompt": "A person leans back pulling hard against something dragging them forward, arms waving for balance."
+  "name": "pt2_camina_feliz_c",
+  "frames": 150,
+  "seed": 21175,
+  "prompt": "A person walks forward casually and relaxed, smiling, swinging the left arm, holding a coffee cup in the right hand."
  },
  {
-  "name": "pt_m05_soplar_a",
+  "name": "pt2_susto_frena_a",
   "frames": 90,
-  "seed": 12003,
-  "prompt": "A person holds a cup in the right hand, blows on the hot drink, then takes a sip."
+  "seed": 21024,
+  "prompt": "A person walking forward suddenly stops, startled, and leans back in fear looking at something in front, taking a small step back."
  },
  {
-  "name": "pt_m05_soplar_b",
+  "name": "pt2_susto_frena_b",
   "frames": 90,
-  "seed": 12004,
-  "prompt": "A person standing blows gently on a hot coffee held in the right hand and sips it."
+  "seed": 21025,
+  "prompt": "A person walking forward suddenly stops, startled, and leans back in fear looking at something in front, taking a small step back."
  },
  {
-  "name": "pt_m05_soplar_c",
+  "name": "pt2_susto_frena_c",
   "frames": 90,
-  "seed": 12005,
-  "prompt": "A person lifts a cup with the right hand, blows on it twice and drinks."
+  "seed": 21026,
+  "prompt": "A person walking forward suddenly stops, startled, and leans back in fear looking at something in front, taking a small step back."
  },
  {
-  "name": "pt_m06_escupe_a",
+  "name": "pt2_cae_espalda_a",
+  "frames": 100,
+  "seed": 21805,
+  "prompt": "A standing person is knocked backward by a very strong wind, falls onto their back on the ground and slides a little."
+ },
+ {
+  "name": "pt2_cae_espalda_b",
+  "frames": 100,
+  "seed": 21806,
+  "prompt": "A standing person is knocked backward by a very strong wind, falls onto their back on the ground and slides a little."
+ },
+ {
+  "name": "pt2_cae_espalda_c",
+  "frames": 100,
+  "seed": 21807,
+  "prompt": "A standing person is knocked backward by a very strong wind, falls onto their back on the ground and slides a little."
+ },
+ {
+  "name": "pt2_tirado_respira_a",
+  "frames": 150,
+  "seed": 21633,
+  "prompt": "A person lies on their back on the ground breathing heavily, turning the head left and right, looking around in shock."
+ },
+ {
+  "name": "pt2_tirado_respira_b",
+  "frames": 150,
+  "seed": 21634,
+  "prompt": "A person lies on their back on the ground breathing heavily, turning the head left and right, looking around in shock."
+ },
+ {
+  "name": "pt2_tirado_respira_c",
+  "frames": 150,
+  "seed": 21635,
+  "prompt": "A person lies on their back on the ground breathing heavily, turning the head left and right, looking around in shock."
+ },
+ {
+  "name": "pt2_tirado_encoge_a",
+  "frames": 90,
+  "seed": 21547,
+  "prompt": "A person lying on their back props up on the elbows and shrugs the shoulders with palms up."
+ },
+ {
+  "name": "pt2_tirado_encoge_b",
+  "frames": 90,
+  "seed": 21548,
+  "prompt": "A person lying on their back props up on the elbows and shrugs the shoulders with palms up."
+ },
+ {
+  "name": "pt2_tirado_encoge_c",
+  "frames": 90,
+  "seed": 21549,
+  "prompt": "A person lying on their back props up on the elbows and shrugs the shoulders with palms up."
+ },
+ {
+  "name": "pt2_tirado_mira_mano_a",
+  "frames": 90,
+  "seed": 21468,
+  "prompt": "A person lying on their back slowly raises the right hand in front of the face and looks at the empty hand sadly."
+ },
+ {
+  "name": "pt2_tirado_mira_mano_b",
+  "frames": 90,
+  "seed": 21469,
+  "prompt": "A person lying on their back slowly raises the right hand in front of the face and looks at the empty hand sadly."
+ },
+ {
+  "name": "pt2_tirado_mira_mano_c",
+  "frames": 90,
+  "seed": 21470,
+  "prompt": "A person lying on their back slowly raises the right hand in front of the face and looks at the empty hand sadly."
+ },
+ {
+  "name": "pt2_tirado_sienta_pulgar_a",
+  "frames": 120,
+  "seed": 21255,
+  "prompt": "A person lying on their back sits up and gives a thumbs up with the right hand, smiling."
+ },
+ {
+  "name": "pt2_tirado_sienta_pulgar_b",
+  "frames": 120,
+  "seed": 21256,
+  "prompt": "A person lying on their back sits up and gives a thumbs up with the right hand, smiling."
+ },
+ {
+  "name": "pt2_tirado_sienta_pulgar_c",
+  "frames": 120,
+  "seed": 21257,
+  "prompt": "A person lying on their back sits up and gives a thumbs up with the right hand, smiling."
+ },
+ {
+  "name": "pt2_carga_peso_a",
+  "frames": 90,
+  "seed": 21029,
+  "prompt": "A person standing bends the knees and hunches as if a heavy invisible weight is pressing down on the shoulders, straining."
+ },
+ {
+  "name": "pt2_carga_peso_b",
+  "frames": 90,
+  "seed": 21030,
+  "prompt": "A person standing bends the knees and hunches as if a heavy invisible weight is pressing down on the shoulders, straining."
+ },
+ {
+  "name": "pt2_carga_peso_c",
+  "frames": 90,
+  "seed": 21031,
+  "prompt": "A person standing bends the knees and hunches as if a heavy invisible weight is pressing down on the shoulders, straining."
+ },
+ {
+  "name": "pt2_mira_avion_a",
+  "frames": 90,
+  "seed": 21648,
+  "prompt": "A person standing looks up at the sky and follows something flying fast overhead, turning the head from behind to front, surprised."
+ },
+ {
+  "name": "pt2_mira_avion_b",
+  "frames": 90,
+  "seed": 21649,
+  "prompt": "A person standing looks up at the sky and follows something flying fast overhead, turning the head from behind to front, surprised."
+ },
+ {
+  "name": "pt2_mira_avion_c",
+  "frames": 90,
+  "seed": 21650,
+  "prompt": "A person standing looks up at the sky and follows something flying fast overhead, turning the head from behind to front, surprised."
+ },
+ {
+  "name": "pt2_asiente_a",
   "frames": 75,
-  "seed": 12006,
-  "prompt": "A person drinking from a cup in the right hand suddenly spits out the drink in surprise and leans back."
+  "seed": 21937,
+  "prompt": "A person standing nods slowly twice, impressed, then relaxes."
  },
  {
-  "name": "pt_m06_escupe_b",
+  "name": "pt2_asiente_b",
   "frames": 75,
-  "seed": 12007,
-  "prompt": "A person sipping a drink is startled, spits it out and jerks backward."
+  "seed": 21938,
+  "prompt": "A person standing nods slowly twice, impressed, then relaxes."
  },
  {
-  "name": "pt_m06_escupe_c",
+  "name": "pt2_asiente_c",
   "frames": 75,
-  "seed": 12008,
-  "prompt": "A person drinking coffee sees something shocking, spits the drink forward and steps back."
+  "seed": 21939,
+  "prompt": "A person standing nods slowly twice, impressed, then relaxes."
  },
  {
-  "name": "pt_m08_carga_a",
+  "name": "pt2_encoge_pie_a",
+  "frames": 75,
+  "seed": 21653,
+  "prompt": "A person standing shrugs the shoulders with the left palm up, as if saying no big deal."
+ },
+ {
+  "name": "pt2_encoge_pie_b",
+  "frames": 75,
+  "seed": 21654,
+  "prompt": "A person standing shrugs the shoulders with the left palm up, as if saying no big deal."
+ },
+ {
+  "name": "pt2_encoge_pie_c",
+  "frames": 75,
+  "seed": 21655,
+  "prompt": "A person standing shrugs the shoulders with the left palm up, as if saying no big deal."
+ },
+ {
+  "name": "pt2_jalado_pies_a",
   "frames": 90,
-  "seed": 12009,
-  "prompt": "A person slowly bends their knees as if a heavy weight is pressing down on their shoulders, then straightens up."
+  "seed": 21550,
+  "prompt": "A person standing is pulled forward by a strong force, leans back and slides forward on the heels, arms waving."
  },
  {
-  "name": "pt_m08_carga_b",
+  "name": "pt2_jalado_pies_b",
   "frames": 90,
-  "seed": 12010,
-  "prompt": "A person standing sags down under a heavy load on their shoulders, knees bent, struggling, then stands up."
+  "seed": 21551,
+  "prompt": "A person standing is pulled forward by a strong force, leans back and slides forward on the heels, arms waving."
  },
  {
-  "name": "pt_m08_carga_c",
+  "name": "pt2_jalado_pies_c",
   "frames": 90,
-  "seed": 12011,
-  "prompt": "A person bends knees and hunches as if carrying something very heavy on the shoulders, holds it, then rises."
- },
- {
-  "name": "pt_m11_mira_mano_a",
-  "frames": 90,
-  "seed": 12012,
-  "prompt": "A person lying on their back raises one empty hand above their face and looks at it sadly."
- },
- {
-  "name": "pt_m11_mira_mano_b",
-  "frames": 90,
-  "seed": 12013,
-  "prompt": "A person lying on the ground on their back lifts the right hand and stares at the empty palm, disappointed."
- },
- {
-  "name": "pt_m11_mira_mano_c",
-  "frames": 90,
-  "seed": 12014,
-  "prompt": "A person lying face up raises an open hand toward the sky and looks at it sadly."
- },
- {
-  "name": "pt_m12_cuatro_a",
-  "frames": 60,
-  "seed": 12015,
-  "prompt": "A person lying on their back raises a hand and shows four fingers."
- },
- {
-  "name": "pt_m12_cuatro_b",
-  "frames": 60,
-  "seed": 12016,
-  "prompt": "A person lying on the ground lifts the right hand showing four fingers, counting."
- },
- {
-  "name": "pt_m12_cuatro_c",
-  "frames": 60,
-  "seed": 12017,
-  "prompt": "A person lying face up holds up four fingers with one hand."
- },
- {
-  "name": "pt_m13_pulgar_a",
-  "frames": 90,
-  "seed": 12018,
-  "prompt": "A person lying on their back sits up and gives a thumbs up."
- },
- {
-  "name": "pt_m13_pulgar_b",
-  "frames": 90,
-  "seed": 12019,
-  "prompt": "A person lying on the ground rolls up to sitting and raises a thumbs up with a smile."
- },
- {
-  "name": "pt_m13_pulgar_c",
-  "frames": 90,
-  "seed": 12020,
-  "prompt": "A person lying face up sits up quickly and shows a thumbs up with the right hand."
+  "seed": 21552,
+  "prompt": "A person standing is pulled forward by a strong force, leans back and slides forward on the heels, arms waving."
  }
 ]
