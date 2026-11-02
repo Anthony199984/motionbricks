@@ -1,17 +1,17 @@
 {
- "total_seconds": 409.4,
+ "total_seconds": 492.0,
  "jobs": [
   {
-   "name": "pt2_tirado_respira_b",
+   "name": "pv06_gatear_a",
    "response": "OK\t150\t30",
-   "seconds": 249.0,
+   "seconds": 246.7,
    "frames": 150
   },
   {
-   "name": "pt2_encoge_pie_a",
-   "response": "OK\t75\t30",
-   "seconds": 160.3,
-   "frames": 75
+   "name": "pv16_bailar_caderas_a",
+   "response": "OK\t150\t30",
+   "seconds": 245.2,
+   "frames": 150
   }
  ]
 }
