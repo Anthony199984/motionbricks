@@ -1,10 +1,16 @@
 {
- "total_seconds": 176.0,
+ "total_seconds": 380.7,
  "jobs": [
   {
-   "name": "pt_m05_soplar_c",
+   "name": "pt2_susto_frena_c",
    "response": "OK\t90\t30",
-   "seconds": 175.9,
+   "seconds": 190.9,
+   "frames": 90
+  },
+  {
+   "name": "pt2_mira_avion_b",
+   "response": "OK\t90\t30",
+   "seconds": 189.6,
    "frames": 90
   }
  ]
