@@ -1,11 +1,17 @@
 {
- "total_seconds": 111.7,
+ "total_seconds": 215.2,
  "jobs": [
   {
-   "name": "pt_m11_mira_mano_a",
+   "name": "pt2_tirado_encoge_a",
    "response": "OK\t90\t30",
-   "seconds": 111.6,
+   "seconds": 112.8,
    "frames": 90
+  },
+  {
+   "name": "pt2_encoge_pie_c",
+   "response": "OK\t75\t30",
+   "seconds": 102.2,
+   "frames": 75
   }
  ]
 }
