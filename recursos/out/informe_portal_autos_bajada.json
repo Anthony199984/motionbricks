@@ -1,0 +1,52 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/pt_auto_sedan.glb",
+   "mb": 12.59
+  },
+  {
+   "destino": "objaverse/pt_auto_niva.glb",
+   "mb": 6.24
+  },
+  {
+   "destino": "objaverse/pt_auto_taxi.glb",
+   "mb": 16.18
+  },
+  {
+   "destino": "objaverse/pt_auto_moderno.glb",
+   "mb": 3.86
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "pt_auto_sedan": {
+   "uid": "67c84e4d30ae42fda22c0a0c7526df26",
+   "nombre": "pt_auto_sedan",
+   "titulo": "Small price car",
+   "autor": "Oliv1e",
+   "licencia": "CC Attribution"
+  },
+  "pt_auto_niva": {
+   "uid": "93fc33be25e34b44b205c5b962d66e61",
+   "nombre": "pt_auto_niva",
+   "titulo": "Good Old Niva",
+   "autor": "Livagof",
+   "licencia": "CC Attribution"
+  },
+  "pt_auto_taxi": {
+   "uid": "8c81631fd8d7466a96175364f3f5a683",
+   "nombre": "pt_auto_taxi",
+   "titulo": "New York Police and Taxi",
+   "autor": "jeandiz",
+   "licencia": "CC Attribution-NonCommercial"
+  },
+  "pt_auto_moderno": {
+   "uid": "cfaabdec76a74b68a48ba5657b6d9aee",
+   "nombre": "pt_auto_moderno",
+   "titulo": "SHC MC Free Promotion Car",
+   "autor": "denniswoo1993",
+   "licencia": "CC Attribution"
+  }
+ }
+}
