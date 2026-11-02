@@ -1,11 +1,11 @@
 {
- "total_seconds": 91.3,
+ "total_seconds": 113.8,
  "jobs": [
   {
-   "name": "pt_m12_cuatro_b",
-   "response": "OK\t60\t30",
-   "seconds": 91.2,
-   "frames": 60
+   "name": "pt2_tirado_mira_mano_b",
+   "response": "OK\t90\t30",
+   "seconds": 113.7,
+   "frames": 90
   }
  ]
 }
