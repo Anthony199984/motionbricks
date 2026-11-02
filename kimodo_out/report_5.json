@@ -1,11 +1,11 @@
 {
- "total_seconds": 197.9,
+ "total_seconds": 176.0,
  "jobs": [
   {
-   "name": "av09_mirar_congelado_b",
-   "response": "OK\t120\t30",
-   "seconds": 197.8,
-   "frames": 120
+   "name": "pt_m05_soplar_c",
+   "response": "OK\t90\t30",
+   "seconds": 175.9,
+   "frames": 90
   }
  ]
 }
