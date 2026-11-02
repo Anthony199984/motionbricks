@@ -1,16 +1,10 @@
 {
- "total_seconds": 498.2,
+ "total_seconds": 248.0,
  "jobs": [
   {
-   "name": "pv01_mirar_atras_hombro_b",
+   "name": "pv19v2_acostado_lado_levantarse_b",
    "response": "OK\t150\t30",
-   "seconds": 249.4,
-   "frames": 150
-  },
-  {
-   "name": "pv11_levantar_caja_pesada_b",
-   "response": "OK\t150\t30",
-   "seconds": 248.7,
+   "seconds": 247.9,
    "frames": 150
   }
  ]
