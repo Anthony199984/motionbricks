@@ -1,11 +1,11 @@
 {
- "total_seconds": 211.2,
+ "total_seconds": 285.9,
  "jobs": [
   {
-   "name": "pt3_corre_a",
-   "response": "OK\t120\t30",
-   "seconds": 211.1,
-   "frames": 120
+   "name": "tp_sentado_bosteza_a",
+   "response": "OK\t150\t30",
+   "seconds": 285.8,
+   "frames": 150
   }
  ]
 }
