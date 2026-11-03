@@ -1,0 +1,17 @@
+Warp CUDA warning: Could not find or load the NVIDIA CUDA driver. GPU execution will not be available.
+/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/soma/geometry/skeleton_transfer.py:248: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /__w/pytorch/pytorch/aten/src/ATen/Context.cpp:916.)
+  self.sparse_rbf_matrix = torch.sparse_csr_tensor(
+/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/soma/geometry/skeleton_transfer.py:248: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /__w/pytorch/pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  self.sparse_rbf_matrix = torch.sparse_csr_tensor(
+claves: ['format', 'condition_spec', 'conditions', 'length', 'frame_times', 'sampling_fps', 'coordinates', 'pred_soma_params_incam', 'pred_soma_params_global', 'static_conf_logits', 'video', 'release', 'tracking', 'camera', 'postprocessing', 'raw_predictions']
+global {'body_pose': (1, 240, 228), 'identity_coeffs': (1, 240, 128), 'scale_params': (1, 240, 57), 'global_orient': (1, 240, 3), 'transl': (1, 240, 3)}
+Warp 1.19.0 initialized:
+   CUDA Toolkit 13.4, CUDA driver not available (NVRTC compilation available)
+   Devices:
+     "cpu"      : "x86_64"
+   Kernel cache:
+     /home/runner/.cache/warp/1.19.0
+Module soma.geometry.align_vectors_warp 652dec6 load on device 'cpu' took 1.75 ms  (cached)
+Module soma.geometry.lbs_warp f189fdb load on device 'cpu' took 0.33 ms  (cached)
+incam {'body_pose': (1, 240, 228), 'identity_coeffs': (1, 240, 128), 'scale_params': (1, 240, 57), 'global_orient': (1, 240, 3), 'transl': (1, 240, 3)}
+guardado /home/runner/work/motionbricks/motionbricks/gemx_out/gemini_sentarse_diagonal_2/movimiento.npz {'global_body_pose': (1, 240, 228), 'global_identity_coeffs': (1, 240, 128), 'global_scale_params': (1, 240, 57), 'global_global_orient': (1, 240, 3), 'global_transl': (1, 240, 3), 'global_joints': (1, 240, 77, 3), 'global_transforms': (1, 240, 78, 4, 4), 'global_cero_joints': (1, 1, 77, 3), 'global_cero_transforms': (1, 1, 78, 4, 4), 'incam_body_pose': (1, 240, 228), 'incam_identity_coeffs': (1, 240, 128), 'incam_scale_params': (1, 240, 57), 'incam_global_orient': (1, 240, 3), 'incam_transl': (1, 240, 3), 'incam_joints': (1, 240, 77, 3), 'incam_transforms': (1, 240, 78, 4, 4), 'incam_cero_joints': (1, 1, 77, 3), 'incam_cero_transforms': (1, 1, 78, 4, 4), 'public_joint_names': (78,), 'rig_parents': (), 'rig_names': (110,)}
