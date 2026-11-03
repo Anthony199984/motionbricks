@@ -1,0 +1,110 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/bicicleta/9415264ce096484d96a32a676802fa7e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/bicicleta/52572b801b0f4dd39ca35488d9b6d04d.jpg",
+   "mb": 0.02
+  },
+  {
+   "destino": "miniaturas/bicicleta/8c8fd4fa06eb4b1c8db5bd3584892f3c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/bicicleta/a37c9af8263c4004bc3d00619a26a52a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/bicicleta/2a186a5f81c54663895af9d263b62474.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/bicicleta/0cdacc4a001842edb54828d91c93034b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/bicicleta/678963e40e134fd59838d268c4485098.jpg",
+   "mb": 0.0
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "ciclista_animado": [],
+  "ciclista_animado2": [],
+  "bicicleta": [
+   {
+    "uid": "9415264ce096484d96a32a676802fa7e",
+    "nombre": "Brno old town hall portal",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 86227,
+    "url": "https://sketchfab.com/3d-models/none-9415264ce096484d96a32a676802fa7e",
+    "miniatura": "miniaturas/bicicleta/9415264ce096484d96a32a676802fa7e.jpg"
+   },
+   {
+    "uid": "52572b801b0f4dd39ca35488d9b6d04d",
+    "nombre": "Scanned Abandoned Bike in Forest",
+    "autor": "NNihad",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 29907,
+    "url": "https://sketchfab.com/3d-models/none-52572b801b0f4dd39ca35488d9b6d04d",
+    "miniatura": "miniaturas/bicicleta/52572b801b0f4dd39ca35488d9b6d04d.jpg"
+   },
+   {
+    "uid": "8c8fd4fa06eb4b1c8db5bd3584892f3c",
+    "nombre": "Bike Rack #4",
+    "autor": "aecoviz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1110,
+    "url": "https://sketchfab.com/3d-models/none-8c8fd4fa06eb4b1c8db5bd3584892f3c",
+    "miniatura": "miniaturas/bicicleta/8c8fd4fa06eb4b1c8db5bd3584892f3c.jpg"
+   },
+   {
+    "uid": "a37c9af8263c4004bc3d00619a26a52a",
+    "nombre": "Bike Rack #8",
+    "autor": "aecoviz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 720,
+    "url": "https://sketchfab.com/3d-models/none-a37c9af8263c4004bc3d00619a26a52a",
+    "miniatura": "miniaturas/bicicleta/a37c9af8263c4004bc3d00619a26a52a.jpg"
+   },
+   {
+    "uid": "2a186a5f81c54663895af9d263b62474",
+    "nombre": "Bike Rack #7",
+    "autor": "aecoviz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 816,
+    "url": "https://sketchfab.com/3d-models/none-2a186a5f81c54663895af9d263b62474",
+    "miniatura": "miniaturas/bicicleta/2a186a5f81c54663895af9d263b62474.jpg"
+   },
+   {
+    "uid": "0cdacc4a001842edb54828d91c93034b",
+    "nombre": "Bike Rack #3",
+    "autor": "aecoviz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 452,
+    "url": "https://sketchfab.com/3d-models/none-0cdacc4a001842edb54828d91c93034b",
+    "miniatura": "miniaturas/bicicleta/0cdacc4a001842edb54828d91c93034b.jpg"
+   },
+   {
+    "uid": "678963e40e134fd59838d268c4485098",
+    "nombre": "Bike Rack #6",
+    "autor": "aecoviz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 912,
+    "url": "https://sketchfab.com/3d-models/none-678963e40e134fd59838d268c4485098",
+    "miniatura": "miniaturas/bicicleta/678963e40e134fd59838d268c4485098.jpg"
+   }
+  ]
+ }
+}
