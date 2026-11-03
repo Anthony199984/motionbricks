@@ -1,0 +1,93 @@
+name: GEM-X CPU (video -> movimiento SOMA)
+
+on:
+  push:
+    branches: [gemx-jobs]
+    paths: ["gemx_jobs/**", ".github/workflows/gemx.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gemx
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash -eo pipefail {0}
+
+jobs:
+  gemx:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 345
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Liberar disco
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL || true
+          df -h /; nproc; free -g
+
+      - name: Instalar GEM-X (CPU)
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          git clone https://github.com/NVlabs/gem-x gemx
+          cd gemx && git checkout 4aef1452e5df171deff4f293c08e643eb450981e
+          python -m pip install -q --upgrade pip
+          python -m pip install -q "torch>=2.10,<3" --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install -q -e '.[video]' huggingface_hub
+          python -c "import torch, soma; print('torch', torch.__version__, 'soma', soma.__version__)"
+
+      - name: Pesos (cache)
+        id: cache
+        uses: actions/cache@v4
+        with:
+          path: gemx-pesos
+          key: gemx-x-4aef145-native77-soma033-v1
+
+      - name: Bajar pesos
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p gemx-pesos/soma
+          hf download nvidia/GEM-X body_s240000.ckpt vitpose.pth motion_native77_e774_s292175.ckpt motion_stats_raw.npz \
+             body_config.json body_video_native77.yaml motion_native77.yaml --local-dir gemx-pesos
+          hf download nvidia/SOMA-X SOMA_neutral.npz SOMA_template_rig.usda SOMA_procedural_transforms.json \
+             --revision v0.3.3 --local-dir gemx-pesos/soma
+          curl --fail --location -s https://download.openmmlab.com/mmpose/v1/projects/rtmposev1/onnx_sdk/yolox_x_8xb8-300e_humanart-a39d44ed.zip -o y.zip
+          python - <<'PY'
+          from pathlib import Path; from shutil import copyfileobj; from zipfile import ZipFile
+          with ZipFile("y.zip") as a:
+              m = next(n for n in a.namelist() if n.endswith("/end2end.onnx"))
+              with a.open(m) as s, Path("gemx-pesos/yolox_humanart.onnx").open("wb") as t: copyfileobj(s, t)
+          PY
+          ls -la gemx-pesos gemx-pesos/soma
+
+      - name: Video -> movimiento
+        run: |
+          ln -sfn "$GITHUB_WORKSPACE/gemx-pesos" gemx/weights
+          mkdir -p gemx_out
+          export TORCH_ALLOW_TF32_CUBLAS_OVERRIDE=0 OMP_NUM_THREADS=$(nproc)
+          for v in gemx_jobs/*.mp4; do
+            n=$(basename "$v" .mp4); o=gemx_out/$n
+            [ -f "$o/motion.pt" ] && { echo "ya hecho: $n"; continue; }
+            mkdir -p "$o"; t0=$(date +%s)
+            CAM=$( [ -f "gemx_jobs/$n.camara" ] && cat "gemx_jobs/$n.camara" || echo static )
+            ( cd gemx && gem-infer motion-video --task body --input "../$v" \
+                --config docs/configs/body_video_native77.yaml --camera-mode "$CAM" \
+                --device cpu --postprocess --soma-assets "$GITHUB_WORKSPACE/gemx-pesos/soma" \
+                --output "../$o/motion.pt" ) 2>&1 | tee "$o/log.txt" || echo "FALLO $n" | tee -a "$o/log.txt"
+            echo "segundos: $(( $(date +%s) - t0 ))" | tee -a "$o/log.txt"
+          done
+          ls -laR gemx_out
+
+      - name: Guardar resultados
+        if: always()
+        run: |
+          git config user.name "gemx-bot"; git config user.email "actions@users.noreply.github.com"
+          git add gemx_out || true
+          git commit -m "Resultados GEM-X [skip ci]" || echo "nada que guardar"
+          for i in 1 2 3; do git pull --rebase -q origin gemx-jobs && git push origin HEAD:gemx-jobs && break; sleep 5; done

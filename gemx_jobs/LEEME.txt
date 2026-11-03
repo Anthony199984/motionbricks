@@ -1,0 +1,4 @@
+GEM-X (NVIDIA) en CPU: cada video .mp4 que se ponga aquí se convierte en movimiento SOMA (77 huesos, el esqueleto de Max).
+Resultado en gemx_out/<nombre>/motion.pt (con contacto de pies / IK). Cámara fija por defecto ("static");
+si la cámara del video se mueve, crear gemx_jobs/<nombre>.camara con la palabra "background".
+Un video por persona, cuerpo entero, máximo 60 s.
