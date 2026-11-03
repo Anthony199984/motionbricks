@@ -1,9 +1,9 @@
 {
  "catalogo": false,
- "informe": "informe_portal_gente3.json",
- "objaverse": [
-  {"uid": "143a2b1ea5eb4385ae90a73657aca3bc", "nombre": "pt_nathan_camina", "titulo": "Nathan Animated 003 - Walking 3D Man", "autor": "?", "licencia": "CC Attribution"},
-  {"uid": "d1ce2b8009b8401481408aeecea903d0", "nombre": "pt_mujer_real_camina", "titulo": "Realistic woman walking (animated)", "autor": "?", "licencia": "CC Attribution"},
-  {"uid": "9ef7dbea47854f49b496e8c0a8332157", "nombre": "pt_anna_camina", "titulo": "Anna Ipati (animated)", "autor": "?", "licencia": "CC Attribution"}
+ "informe": "informe_portal_ciclista.json",
+ "sketchfab_buscar": [
+  {"clave": "ciclista_animado", "q": "cyclist riding bicycle", "animado": true, "paginas": 6, "solo_objaverse": true},
+  {"clave": "ciclista_animado2", "q": "bike rider animated", "animado": true, "paginas": 4, "solo_objaverse": true},
+  {"clave": "bicicleta", "q": "realistic bicycle", "animado": false, "paginas": 4, "solo_objaverse": true}
  ]
 }
