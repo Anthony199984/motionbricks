@@ -1,50 +1,50 @@
 [
  {
-  "name": "pt3_huye_a",
+  "name": "tp_sentado_quieto_a",
+  "frames": 240,
+  "seed": 41101,
+  "prompt": "A person sits upright on a chair with hands resting on the armrests, still and calm, breathing slowly, looking forward."
+ },
+ {
+  "name": "tp_sentado_quieto_b",
+  "frames": 240,
+  "seed": 41102,
+  "prompt": "A person sits upright on a chair with hands resting on the armrests, still and calm, breathing slowly, looking forward."
+ },
+ {
+  "name": "tp_sentado_quieto_c",
+  "frames": 240,
+  "seed": 41103,
+  "prompt": "A person sits upright on a chair with hands resting on the armrests, still and calm, breathing slowly, looking forward."
+ },
+ {
+  "name": "tp_sentado_bosteza_a",
   "frames": 150,
-  "seed": 31101,
-  "prompt": "A person walking casually suddenly sees something scary, turns around and runs away fast in panic, arms pumping."
+  "seed": 41201,
+  "prompt": "A person sitting on a chair yawns widely, leaning the head back, hands staying on the armrests."
  },
  {
-  "name": "pt3_huye_b",
+  "name": "tp_sentado_bosteza_b",
   "frames": 150,
-  "seed": 31102,
-  "prompt": "A person walking casually suddenly sees something scary, turns around and runs away fast in panic, arms pumping."
+  "seed": 41202,
+  "prompt": "A person sitting on a chair yawns widely, leaning the head back, hands staying on the armrests."
  },
  {
-  "name": "pt3_huye_c",
+  "name": "tp_sentado_bosteza_c",
   "frames": 150,
-  "seed": 31103,
-  "prompt": "A person walking casually suddenly sees something scary, turns around and runs away fast in panic, arms pumping."
+  "seed": 41203,
+  "prompt": "A person sitting on a chair yawns widely, leaning the head back, hands staying on the armrests."
  },
  {
-  "name": "pt3_corre_a",
-  "frames": 120,
-  "seed": 31201,
-  "prompt": "A person runs forward fast in panic, arms pumping, looking scared."
+  "name": "tp_doctor_monitor_a",
+  "frames": 240,
+  "seed": 41301,
+  "prompt": "A person stands in front of a screen, looking at it and slowly typing on a keyboard."
  },
  {
-  "name": "pt3_corre_b",
-  "frames": 120,
-  "seed": 31202,
-  "prompt": "A person runs forward fast in panic, arms pumping, looking scared."
- },
- {
-  "name": "pt3_apoyado_a",
-  "frames": 150,
-  "seed": 31301,
-  "prompt": "A person sits on the ground leaning back, supporting the upper body with the right hand flat on the ground behind the hip, the left arm stretched up and to the side holding onto something, head up looking forward, frightened, breathing."
- },
- {
-  "name": "pt3_apoyado_b",
-  "frames": 150,
-  "seed": 31302,
-  "prompt": "A person sits on the ground leaning back, supporting the upper body with the right hand flat on the ground behind the hip, the left arm stretched up and to the side holding onto something, head up looking forward, frightened, breathing."
- },
- {
-  "name": "pt3_apoyado_c",
-  "frames": 150,
-  "seed": 31303,
-  "prompt": "A person sits on the ground leaning back, supporting the upper body with the right hand flat on the ground behind the hip, the left arm stretched up and to the side holding onto something, head up looking forward, frightened, breathing."
+  "name": "tp_doctor_monitor_b",
+  "frames": 240,
+  "seed": 41302,
+  "prompt": "A person stands in front of a screen, looking at it and slowly typing on a keyboard."
  }
 ]
