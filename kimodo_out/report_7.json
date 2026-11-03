@@ -1,11 +1,11 @@
 {
- "total_seconds": 313.0,
+ "total_seconds": 302.0,
  "jobs": [
   {
-   "name": "pt3_apoyado_c",
-   "response": "OK\t150\t30",
-   "seconds": 312.9,
-   "frames": 150
+   "name": "tp_doctor_monitor_b",
+   "response": "OK\t240\t30",
+   "seconds": 301.9,
+   "frames": 240
   }
  ]
 }
