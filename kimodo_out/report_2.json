@@ -1,11 +1,11 @@
 {
- "total_seconds": 162.8,
+ "total_seconds": 361.3,
  "jobs": [
   {
-   "name": "pt3_huye_c",
-   "response": "OK\t150\t30",
-   "seconds": 162.7,
-   "frames": 150
+   "name": "tp_sentado_quieto_c",
+   "response": "OK\t240\t30",
+   "seconds": 361.2,
+   "frames": 240
   }
  ]
 }
