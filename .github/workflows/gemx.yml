@@ -23,6 +23,10 @@ jobs:
     timeout-minutes: 345
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Traer lo último (resultados ya hechos)
+        run: git pull -q --rebase origin gemx-jobs || true
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -81,6 +85,10 @@ jobs:
                 --device cpu --postprocess --soma-assets "$GITHUB_WORKSPACE/gemx-pesos/soma" \
                 --output "../$o/motion.pt" ) 2>&1 | tee "$o/log.txt" || echo "FALLO $n" | tee -a "$o/log.txt"
             echo "segundos: $(( $(date +%s) - t0 ))" | tee -a "$o/log.txt"
+          done
+          for m in gemx_out/*/motion.pt; do
+            d=$(dirname "$m"); [ -f "$d/movimiento.npz" ] && continue
+            ( cd gemx && python "$GITHUB_WORKSPACE/gemx_jobs/exportar_gemx.py" "$GITHUB_WORKSPACE/$m" "$GITHUB_WORKSPACE/$d/movimiento.npz" "$GITHUB_WORKSPACE/gemx-pesos/soma" ) 2>&1 | tee -a "$d/log_exportar.txt" || true
           done
           ls -laR gemx_out
 
