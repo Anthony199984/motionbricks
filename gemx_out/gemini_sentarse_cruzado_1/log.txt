@@ -1,0 +1,23 @@
+Normalizing the input clip to 30fps
+Detecting and tracking the primary person
+[0;93m2026-11-03 05:13:53.460052343 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+Extracting native77 2D observations
+Estimating camera rotation
+Extracting frozen body Pose features
+Predicting native temporal Motion
+Applying SOMA contact translation and CCD IK
+Warp CUDA warning: Could not find or load the NVIDIA CUDA driver. GPU execution will not be available.
+/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/soma/geometry/skeleton_transfer.py:248: UserWarning: Sparse invariant checks are implicitly disabled. Memory errors (e.g. SEGFAULT) will occur when operating on a sparse tensor which violates the invariants, but checks incur performance overhead. To silence this warning, explicitly opt in or out. See `torch.sparse.check_sparse_tensor_invariants.__doc__` for guidance.  (Triggered internally at /__w/pytorch/pytorch/aten/src/ATen/Context.cpp:916.)
+  self.sparse_rbf_matrix = torch.sparse_csr_tensor(
+/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/soma/geometry/skeleton_transfer.py:248: UserWarning: Sparse CSR tensor support is in beta state. If you miss a functionality in the sparse tensor support, please submit a feature request to https://github.com/pytorch/pytorch/issues. (Triggered internally at /__w/pytorch/pytorch/aten/src/ATen/SparseCsrTensorImpl.cpp:49.)
+  self.sparse_rbf_matrix = torch.sparse_csr_tensor(
+Warp 1.19.0 initialized:
+   CUDA Toolkit 13.4, CUDA driver not available (NVRTC compilation available)
+   Devices:
+     "cpu"      : "x86_64"
+   Kernel cache:
+     /home/runner/.cache/warp/1.19.0
+Module soma.geometry.align_vectors_warp 652dec6 load on device 'cpu' took 13188.31 ms  (compiled)
+Module soma.geometry.lbs_warp f189fdb load on device 'cpu' took 557.09 ms  (compiled)
+Saved motion-video predictions to ../gemx_out/gemini_sentarse_cruzado_1/motion.pt
+segundos: 1980
