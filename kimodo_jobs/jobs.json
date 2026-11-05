@@ -1,50 +1,32 @@
 [
- {
-  "name": "tp_sentado_quieto_a",
-  "frames": 240,
-  "seed": 41101,
-  "prompt": "A person sits upright on a chair with hands resting on the armrests, still and calm, breathing slowly, looking forward."
- },
- {
-  "name": "tp_sentado_quieto_b",
-  "frames": 240,
-  "seed": 41102,
-  "prompt": "A person sits upright on a chair with hands resting on the armrests, still and calm, breathing slowly, looking forward."
- },
- {
-  "name": "tp_sentado_quieto_c",
-  "frames": 240,
-  "seed": 41103,
-  "prompt": "A person sits upright on a chair with hands resting on the armrests, still and calm, breathing slowly, looking forward."
- },
- {
-  "name": "tp_sentado_bosteza_a",
-  "frames": 150,
-  "seed": 41201,
-  "prompt": "A person sitting on a chair yawns widely, leaning the head back, hands staying on the armrests."
- },
- {
-  "name": "tp_sentado_bosteza_b",
-  "frames": 150,
-  "seed": 41202,
-  "prompt": "A person sitting on a chair yawns widely, leaning the head back, hands staying on the armrests."
- },
- {
-  "name": "tp_sentado_bosteza_c",
-  "frames": 150,
-  "seed": 41203,
-  "prompt": "A person sitting on a chair yawns widely, leaning the head back, hands staying on the armrests."
- },
- {
-  "name": "tp_doctor_monitor_a",
-  "frames": 240,
-  "seed": 41301,
-  "prompt": "A person stands in front of a screen, looking at it and slowly typing on a keyboard."
- },
- {
-  "name": "tp_doctor_monitor_b",
-  "frames": 240,
-  "seed": 41302,
-  "prompt": "A person stands in front of a screen, looking at it and slowly typing on a keyboard."
- }
+{
+"name": "bo01_atrapado_quieto_a",
+"frames": 240,
+"seed": 14100,
+"prompt": "A person stands frozen in fear with both hands raised beside the face."
+},
+{
+"name": "bo01_atrapado_quieto_b",
+"frames": 240,
+"seed": 14101,
+"prompt": "A person stands frozen in fear with both hands raised beside the face."
+},
+{
+"name": "bo02_mirar_camara_a",
+"frames": 90,
+"seed": 14102,
+"prompt": "A person standing still turns the head to look at the camera and swallows nervously."
+},
+{
+"name": "bo03_mareo_a",
+"frames": 120,
+"seed": 14103,
+"prompt": "A person standing still sways slightly as if dizzy."
+},
+{
+"name": "bo04_calmarse_a",
+"frames": 150,
+"seed": 14104,
+"prompt": "A person standing still closes the eyes and takes a slow deep breath."
+}
 ]
