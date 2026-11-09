@@ -1,17 +1,11 @@
 {
- "total_seconds": 355.9,
+ "total_seconds": 176.4,
  "jobs": [
   {
-   "name": "sf_idea_a",
+   "name": "sf2_tomar_taza_a",
    "response": "OK\t90\t30",
-   "seconds": 148.6,
+   "seconds": 176.2,
    "frames": 90
-  },
-  {
-   "name": "sf_pareja_preocupada_b",
-   "response": "OK\t150\t30",
-   "seconds": 207.2,
-   "frames": 150
   }
  ]
 }
