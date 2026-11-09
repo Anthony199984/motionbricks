@@ -1,16 +1,16 @@
 {
- "total_seconds": 532.6,
+ "total_seconds": 355.9,
  "jobs": [
   {
-   "name": "pv10_saludar_dos_manos_a",
-   "response": "OK\t150\t30",
-   "seconds": 266.4,
-   "frames": 150
+   "name": "sf_idea_a",
+   "response": "OK\t90\t30",
+   "seconds": 148.6,
+   "frames": 90
   },
   {
-   "name": "pv20_darse_vuelta_mirar_atras_a",
+   "name": "sf_pareja_preocupada_b",
    "response": "OK\t150\t30",
-   "seconds": 266.1,
+   "seconds": 207.2,
    "frames": 150
   }
  ]
