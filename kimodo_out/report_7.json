@@ -1,11 +1,17 @@
 {
- "total_seconds": 302.0,
+ "total_seconds": 259.4,
  "jobs": [
   {
-   "name": "tp_doctor_monitor_b",
-   "response": "OK\t240\t30",
-   "seconds": 301.9,
-   "frames": 240
+   "name": "sf_agarrar_apretar_b",
+   "response": "OK\t120\t30",
+   "seconds": 131.4,
+   "frames": 120
+  },
+  {
+   "name": "sf_aterrizar_confundido_c",
+   "response": "OK\t120\t30",
+   "seconds": 127.9,
+   "frames": 120
   }
  ]
 }
