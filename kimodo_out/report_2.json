@@ -1,17 +1,17 @@
 {
- "total_seconds": 483.7,
+ "total_seconds": 241.0,
  "jobs": [
   {
-   "name": "sf_estornudo_c",
-   "response": "OK\t120\t30",
-   "seconds": 266.5,
-   "frames": 120
+   "name": "sf2_despertar_sentarse_c",
+   "response": "OK\t90\t30",
+   "seconds": 112.6,
+   "frames": 90
   },
   {
-   "name": "sf_a_cuatro_patas_c",
-   "response": "OK\t90\t30",
-   "seconds": 217.2,
-   "frames": 90
+   "name": "sf2_empujado_atras_c",
+   "response": "OK\t120\t30",
+   "seconds": 128.3,
+   "frames": 120
   }
  ]
 }
