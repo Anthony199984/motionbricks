@@ -1,11 +1,17 @@
 {
- "total_seconds": 250.9,
+ "total_seconds": 279.5,
  "jobs": [
   {
-   "name": "tp_sentado_bosteza_b",
+   "name": "sf_culturista_sentado_b",
    "response": "OK\t150\t30",
-   "seconds": 250.8,
+   "seconds": 165.7,
    "frames": 150
+  },
+  {
+   "name": "sf_pararse_empujando_b",
+   "response": "OK\t90\t30",
+   "seconds": 113.7,
+   "frames": 90
   }
  ]
 }
