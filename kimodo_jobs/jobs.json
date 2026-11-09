@@ -1,32 +1,236 @@
 [
-{
-"name": "bo01_atrapado_quieto_a",
-"frames": 240,
-"seed": 14100,
-"prompt": "A person stands frozen in fear with both hands raised beside the face."
-},
-{
-"name": "bo01_atrapado_quieto_b",
-"frames": 240,
-"seed": 14101,
-"prompt": "A person stands frozen in fear with both hands raised beside the face."
-},
-{
-"name": "bo02_mirar_camara_a",
-"frames": 90,
-"seed": 14102,
-"prompt": "A person standing still turns the head to look at the camera and swallows nervously."
-},
-{
-"name": "bo03_mareo_a",
-"frames": 120,
-"seed": 14103,
-"prompt": "A person standing still sways slightly as if dizzy."
-},
-{
-"name": "bo04_calmarse_a",
-"frames": 150,
-"seed": 14104,
-"prompt": "A person standing still closes the eyes and takes a slow deep breath."
-}
+ {
+  "name": "sf_estornudo_a",
+  "frames": 120,
+  "seed": 27000,
+  "prompt": "A person feels an itch in the nose, holds their breath, then sneezes violently, jerking the upper body forward."
+ },
+ {
+  "name": "sf_estornudo_b",
+  "frames": 120,
+  "seed": 27001,
+  "prompt": "A person feels an itch in the nose, holds their breath, then sneezes violently, jerking the upper body forward."
+ },
+ {
+  "name": "sf_estornudo_c",
+  "frames": 120,
+  "seed": 27002,
+  "prompt": "A person feels an itch in the nose, holds their breath, then sneezes violently, jerking the upper body forward."
+ },
+ {
+  "name": "sf_culturista_sentado_a",
+  "frames": 150,
+  "seed": 27010,
+  "prompt": "A person sitting on the edge of a bed flexes both biceps like a bodybuilder, then does a most muscular pose."
+ },
+ {
+  "name": "sf_culturista_sentado_b",
+  "frames": 150,
+  "seed": 27011,
+  "prompt": "A person sitting on the edge of a bed flexes both biceps like a bodybuilder, then does a most muscular pose."
+ },
+ {
+  "name": "sf_culturista_sentado_c",
+  "frames": 150,
+  "seed": 27012,
+  "prompt": "A person sitting on the edge of a bed flexes both biceps like a bodybuilder, then does a most muscular pose."
+ },
+ {
+  "name": "sf_agarrar_apretar_a",
+  "frames": 120,
+  "seed": 27020,
+  "prompt": "A person standing picks up a small round object with the right hand and squeezes it hard in the fist."
+ },
+ {
+  "name": "sf_agarrar_apretar_b",
+  "frames": 120,
+  "seed": 27021,
+  "prompt": "A person standing picks up a small round object with the right hand and squeezes it hard in the fist."
+ },
+ {
+  "name": "sf_agarrar_apretar_c",
+  "frames": 120,
+  "seed": 27022,
+  "prompt": "A person standing picks up a small round object with the right hand and squeezes it hard in the fist."
+ },
+ {
+  "name": "sf_sostener_temblando_a",
+  "frames": 120,
+  "seed": 27030,
+  "prompt": "A person holds a very heavy object above the head with both arms straight, legs bent, trembling from the effort."
+ },
+ {
+  "name": "sf_sostener_temblando_b",
+  "frames": 120,
+  "seed": 27031,
+  "prompt": "A person holds a very heavy object above the head with both arms straight, legs bent, trembling from the effort."
+ },
+ {
+  "name": "sf_sostener_temblando_c",
+  "frames": 120,
+  "seed": 27032,
+  "prompt": "A person holds a very heavy object above the head with both arms straight, legs bent, trembling from the effort."
+ },
+ {
+  "name": "sf_soltar_dolor_a",
+  "frames": 120,
+  "seed": 27040,
+  "prompt": "A person throws a heavy object down to the side and grabs their forearm in pain, bending forward."
+ },
+ {
+  "name": "sf_soltar_dolor_b",
+  "frames": 120,
+  "seed": 27041,
+  "prompt": "A person throws a heavy object down to the side and grabs their forearm in pain, bending forward."
+ },
+ {
+  "name": "sf_soltar_dolor_c",
+  "frames": 120,
+  "seed": 27042,
+  "prompt": "A person throws a heavy object down to the side and grabs their forearm in pain, bending forward."
+ },
+ {
+  "name": "sf_subir_cama_a",
+  "frames": 150,
+  "seed": 27050,
+  "prompt": "A person crawls forward on hands and knees, then lies down on their back."
+ },
+ {
+  "name": "sf_subir_cama_b",
+  "frames": 150,
+  "seed": 27051,
+  "prompt": "A person crawls forward on hands and knees, then lies down on their back."
+ },
+ {
+  "name": "sf_subir_cama_c",
+  "frames": 150,
+  "seed": 27052,
+  "prompt": "A person crawls forward on hands and knees, then lies down on their back."
+ },
+ {
+  "name": "sf_idea_a",
+  "frames": 90,
+  "seed": 27060,
+  "prompt": "A person looks at the object in their hand, then raises the index finger with a sudden idea."
+ },
+ {
+  "name": "sf_idea_b",
+  "frames": 90,
+  "seed": 27061,
+  "prompt": "A person looks at the object in their hand, then raises the index finger with a sudden idea."
+ },
+ {
+  "name": "sf_a_cuatro_patas_a",
+  "frames": 90,
+  "seed": 27070,
+  "prompt": "A person standing gets down onto their hands and knees."
+ },
+ {
+  "name": "sf_a_cuatro_patas_b",
+  "frames": 90,
+  "seed": 27071,
+  "prompt": "A person standing gets down onto their hands and knees."
+ },
+ {
+  "name": "sf_a_cuatro_patas_c",
+  "frames": 90,
+  "seed": 27072,
+  "prompt": "A person standing gets down onto their hands and knees."
+ },
+ {
+  "name": "sf_pararse_empujando_a",
+  "frames": 90,
+  "seed": 27080,
+  "prompt": "A person sitting pushes down with both hands beside the hips and stands up."
+ },
+ {
+  "name": "sf_pararse_empujando_b",
+  "frames": 90,
+  "seed": 27081,
+  "prompt": "A person sitting pushes down with both hands beside the hips and stands up."
+ },
+ {
+  "name": "sf_aterrizar_confundido_a",
+  "frames": 120,
+  "seed": 27090,
+  "prompt": "A person lands from a high jump on both feet and looks down at their legs, confused."
+ },
+ {
+  "name": "sf_aterrizar_confundido_b",
+  "frames": 120,
+  "seed": 27091,
+  "prompt": "A person lands from a high jump on both feet and looks down at their legs, confused."
+ },
+ {
+  "name": "sf_aterrizar_confundido_c",
+  "frames": 120,
+  "seed": 27092,
+  "prompt": "A person lands from a high jump on both feet and looks down at their legs, confused."
+ },
+ {
+  "name": "sf_retroceder_panico_a",
+  "frames": 90,
+  "seed": 27100,
+  "prompt": "A person steps backward in panic with both hands raised in front of the chest."
+ },
+ {
+  "name": "sf_retroceder_panico_b",
+  "frames": 90,
+  "seed": 27101,
+  "prompt": "A person steps backward in panic with both hands raised in front of the chest."
+ },
+ {
+  "name": "sf_doctor_estetoscopio_a",
+  "frames": 90,
+  "seed": 27110,
+  "prompt": "A person slowly extends the right arm forward at chest height, as if holding a stethoscope toward someone."
+ },
+ {
+  "name": "sf_doctor_estetoscopio_b",
+  "frames": 90,
+  "seed": 27111,
+  "prompt": "A person slowly extends the right arm forward at chest height, as if holding a stethoscope toward someone."
+ },
+ {
+  "name": "sf_doctor_taparse_orejas_a",
+  "frames": 90,
+  "seed": 27120,
+  "prompt": "A person jumps back in fright and covers both ears with the hands."
+ },
+ {
+  "name": "sf_doctor_taparse_orejas_b",
+  "frames": 90,
+  "seed": 27121,
+  "prompt": "A person jumps back in fright and covers both ears with the hands."
+ },
+ {
+  "name": "sf_doctor_taparse_orejas_c",
+  "frames": 90,
+  "seed": 27122,
+  "prompt": "A person jumps back in fright and covers both ears with the hands."
+ },
+ {
+  "name": "sf_pareja_abrir_brazos_a",
+  "frames": 90,
+  "seed": 27130,
+  "prompt": "A person opens both arms wide to offer a hug."
+ },
+ {
+  "name": "sf_pareja_abrir_brazos_b",
+  "frames": 90,
+  "seed": 27131,
+  "prompt": "A person opens both arms wide to offer a hug."
+ },
+ {
+  "name": "sf_pareja_preocupada_a",
+  "frames": 150,
+  "seed": 27140,
+  "prompt": "A person stands worried, holding the hands together and shifting weight."
+ },
+ {
+  "name": "sf_pareja_preocupada_b",
+  "frames": 150,
+  "seed": 27141,
+  "prompt": "A person stands worried, holding the hands together and shifting weight."
+ }
 ]
