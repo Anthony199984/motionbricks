@@ -1,17 +1,17 @@
 {
- "total_seconds": 279.5,
+ "total_seconds": 371.2,
  "jobs": [
   {
-   "name": "sf_culturista_sentado_b",
-   "response": "OK\t150\t30",
-   "seconds": 165.7,
-   "frames": 150
+   "name": "sf2_acostarse_boca_arriba_b",
+   "response": "OK\t120\t30",
+   "seconds": 211.1,
+   "frames": 120
   },
   {
-   "name": "sf_pararse_empujando_b",
-   "response": "OK\t90\t30",
-   "seconds": 113.7,
-   "frames": 90
+   "name": "sf2_salto_alto_b",
+   "response": "OK\t75\t30",
+   "seconds": 159.9,
+   "frames": 75
   }
  ]
 }
