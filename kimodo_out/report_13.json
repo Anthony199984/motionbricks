@@ -1,16 +1,10 @@
 {
- "total_seconds": 415.6,
+ "total_seconds": 178.2,
  "jobs": [
   {
-   "name": "sf_soltar_dolor_b",
-   "response": "OK\t120\t30",
-   "seconds": 227.6,
-   "frames": 120
-  },
-  {
-   "name": "sf_doctor_taparse_orejas_b",
+   "name": "sf2_pararse_de_rodillas_a",
    "response": "OK\t90\t30",
-   "seconds": 187.9,
+   "seconds": 178.1,
    "frames": 90
   }
  ]
