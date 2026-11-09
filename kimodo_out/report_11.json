@@ -1,17 +1,17 @@
 {
- "total_seconds": 495.2,
+ "total_seconds": 511.1,
  "jobs": [
   {
-   "name": "pv06_gatear_b",
-   "response": "OK\t150\t30",
-   "seconds": 248.2,
-   "frames": 150
+   "name": "sf_sostener_temblando_c",
+   "response": "OK\t120\t30",
+   "seconds": 278.6,
+   "frames": 120
   },
   {
-   "name": "pv16_bailar_caderas_b",
-   "response": "OK\t150\t30",
-   "seconds": 246.8,
-   "frames": 150
+   "name": "sf_doctor_estetoscopio_b",
+   "response": "OK\t90\t30",
+   "seconds": 232.5,
+   "frames": 90
   }
  ]
 }
