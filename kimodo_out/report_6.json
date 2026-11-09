@@ -1,17 +1,17 @@
 {
- "total_seconds": 358.5,
+ "total_seconds": 224.4,
  "jobs": [
   {
-   "name": "sf_agarrar_apretar_a",
-   "response": "OK\t120\t30",
-   "seconds": 179.9,
-   "frames": 120
+   "name": "sf2_gatear_rapido_a",
+   "response": "OK\t90\t30",
+   "seconds": 111.9,
+   "frames": 90
   },
   {
-   "name": "sf_aterrizar_confundido_b",
-   "response": "OK\t120\t30",
-   "seconds": 178.5,
-   "frames": 120
+   "name": "sf2_mirar_mano_triste_b",
+   "response": "OK\t90\t30",
+   "seconds": 112.4,
+   "frames": 90
   }
  ]
 }
