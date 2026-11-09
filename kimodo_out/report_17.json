@@ -1,16 +1,16 @@
 {
- "total_seconds": 533.9,
+ "total_seconds": 415.9,
  "jobs": [
   {
-   "name": "pv09_lanzar_pelota_fuerte_b",
+   "name": "sf_subir_cama_c",
    "response": "OK\t150\t30",
-   "seconds": 267.4,
+   "seconds": 208.9,
    "frames": 150
   },
   {
-   "name": "pv19_acostado_rodar_levantarse_b",
+   "name": "sf_pareja_preocupada_a",
    "response": "OK\t150\t30",
-   "seconds": 266.4,
+   "seconds": 207.0,
    "frames": 150
   }
  ]
