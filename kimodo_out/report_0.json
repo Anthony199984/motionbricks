@@ -1,11 +1,17 @@
 {
- "total_seconds": 304.2,
+ "total_seconds": 387.7,
  "jobs": [
   {
-   "name": "tp_sentado_quieto_a",
-   "response": "OK\t240\t30",
-   "seconds": 304.1,
-   "frames": 240
+   "name": "sf_estornudo_a",
+   "response": "OK\t120\t30",
+   "seconds": 212.6,
+   "frames": 120
+  },
+  {
+   "name": "sf_a_cuatro_patas_a",
+   "response": "OK\t90\t30",
+   "seconds": 175.0,
+   "frames": 90
   }
  ]
 }
