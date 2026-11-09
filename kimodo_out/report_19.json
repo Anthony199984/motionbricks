@@ -1,10 +1,10 @@
 {
- "total_seconds": 175.5,
+ "total_seconds": 114.3,
  "jobs": [
   {
-   "name": "sf_idea_b",
+   "name": "sf2_tomar_taza_b",
    "response": "OK\t90\t30",
-   "seconds": 175.4,
+   "seconds": 114.2,
    "frames": 90
   }
  ]
