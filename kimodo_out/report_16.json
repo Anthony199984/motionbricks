@@ -1,16 +1,10 @@
 {
- "total_seconds": 536.3,
+ "total_seconds": 115.1,
  "jobs": [
   {
-   "name": "sf_subir_cama_b",
-   "response": "OK\t150\t30",
-   "seconds": 315.3,
-   "frames": 150
-  },
-  {
-   "name": "sf_pareja_abrir_brazos_b",
+   "name": "sf2_jalar_manija_b",
    "response": "OK\t90\t30",
-   "seconds": 220.9,
+   "seconds": 114.9,
    "frames": 90
   }
  ]
