@@ -1,17 +1,11 @@
 {
- "total_seconds": 326.4,
+ "total_seconds": 263.1,
  "jobs": [
   {
-   "name": "sf_agarrar_apretar_c",
+   "name": "sf2_gatear_lento_a",
    "response": "OK\t120\t30",
-   "seconds": 178.8,
+   "seconds": 263.0,
    "frames": 120
-  },
-  {
-   "name": "sf_retroceder_panico_a",
-   "response": "OK\t90\t30",
-   "seconds": 147.5,
-   "frames": 90
   }
  ]
 }
