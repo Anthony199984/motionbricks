@@ -1,17 +1,11 @@
 {
- "total_seconds": 242.0,
+ "total_seconds": 190.3,
  "jobs": [
   {
-   "name": "sf2_despertar_sentarse_b",
+   "name": "sf3_sentarse_rapido_a2",
    "response": "OK\t90\t30",
-   "seconds": 111.2,
+   "seconds": 190.2,
    "frames": 90
-  },
-  {
-   "name": "sf2_empujado_atras_b",
-   "response": "OK\t120\t30",
-   "seconds": 130.7,
-   "frames": 120
   }
  ]
 }
