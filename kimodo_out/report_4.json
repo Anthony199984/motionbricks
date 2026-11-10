@@ -1,17 +1,11 @@
 {
- "total_seconds": 371.2,
+ "total_seconds": 176.6,
  "jobs": [
   {
-   "name": "sf2_acostarse_boca_arriba_b",
-   "response": "OK\t120\t30",
-   "seconds": 211.1,
-   "frames": 120
-  },
-  {
-   "name": "sf2_salto_alto_b",
-   "response": "OK\t75\t30",
-   "seconds": 159.9,
-   "frames": 75
+   "name": "sf3_sentarse_rapido_c1",
+   "response": "OK\t90\t30",
+   "seconds": 176.4,
+   "frames": 90
   }
  ]
 }
