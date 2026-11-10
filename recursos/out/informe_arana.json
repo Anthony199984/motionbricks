@@ -1,0 +1,152 @@
+{
+ "bajados": [
+  {
+   "destino": "modelos/dead_quiver_branch_01/dead_quiver_branch_01_2k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/dead_quiver_branch_01/dead_quiver_branch_01.bin",
+   "mb": 0.35
+  },
+  {
+   "destino": "modelos/dead_quiver_branch_01/textures/dead_quiver_branch_01_arm_2k.jpg",
+   "mb": 1.98
+  },
+  {
+   "destino": "modelos/dead_quiver_branch_01/textures/dead_quiver_branch_01_diff_2k.jpg",
+   "mb": 2.32
+  },
+  {
+   "destino": "modelos/dead_quiver_branch_01/textures/dead_quiver_branch_01_nor_gl_2k.jpg",
+   "mb": 3.82
+  },
+  {
+   "destino": "modelos/dead_tree_trunk/dead_tree_trunk_2k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/dead_tree_trunk/textures/dead_tree_trunk_diff_2k.jpg",
+   "mb": 2.46
+  },
+  {
+   "destino": "modelos/dead_tree_trunk/textures/dead_tree_trunk_arm_2k.jpg",
+   "mb": 2.49
+  },
+  {
+   "destino": "modelos/dead_tree_trunk/textures/dead_tree_trunk_nor_gl_2k.jpg",
+   "mb": 3.63
+  },
+  {
+   "destino": "modelos/dead_tree_trunk/dead_tree_trunk.bin",
+   "mb": 2.19
+  },
+  {
+   "destino": "modelos/rock_09/rock_09_2k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/rock_09/textures/rock_09_nor_gl_2k.jpg",
+   "mb": 2.45
+  },
+  {
+   "destino": "modelos/rock_09/textures/rock_09_diff_2k.jpg",
+   "mb": 2.01
+  },
+  {
+   "destino": "modelos/rock_09/rock_09.bin",
+   "mb": 0.27
+  },
+  {
+   "destino": "modelos/rock_09/textures/rock_09_arm_2k.jpg",
+   "mb": 0.82
+  },
+  {
+   "destino": "texturas/moss_wood/moss_wood_Diffuse_2k.jpg",
+   "mb": 3.44
+  },
+  {
+   "destino": "texturas/moss_wood/moss_wood_nor_gl_2k.jpg",
+   "mb": 3.38
+  },
+  {
+   "destino": "texturas/moss_wood/moss_wood_Rough_2k.jpg",
+   "mb": 1.34
+  },
+  {
+   "destino": "texturas/moss_wood/moss_wood_AO_2k.jpg",
+   "mb": 1.39
+  },
+  {
+   "destino": "texturas/moss_wood/moss_wood_Displacement_2k.jpg",
+   "mb": 0.45
+  },
+  {
+   "destino": "texturas/moss_wood/moss_wood_arm_2k.jpg",
+   "mb": 0.66
+  },
+  {
+   "destino": "texturas/bark_brown_02/bark_brown_02_Diffuse_2k.jpg",
+   "mb": 2.25
+  },
+  {
+   "destino": "texturas/bark_brown_02/bark_brown_02_nor_gl_2k.jpg",
+   "mb": 3.54
+  },
+  {
+   "destino": "texturas/bark_brown_02/bark_brown_02_Rough_2k.jpg",
+   "mb": 1.18
+  },
+  {
+   "destino": "texturas/bark_brown_02/bark_brown_02_AO_2k.jpg",
+   "mb": 1.83
+  },
+  {
+   "destino": "texturas/bark_brown_02/bark_brown_02_Displacement_2k.jpg",
+   "mb": 0.51
+  },
+  {
+   "destino": "texturas/bark_brown_02/bark_brown_02_arm_2k.jpg",
+   "mb": 0.81
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "info": {
+  "dead_quiver_branch_01": {
+   "nombre": "Dead Quiver Branch 01",
+   "autores": {
+    "Greg Zaal": "Photography",
+    "Jenelle van Heerden": "modeling"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "dead_tree_trunk": {
+   "nombre": "Dead Tree Trunk",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "rock_09": {
+   "nombre": "Rock 09",
+   "autores": {
+    "Jenelle van Heerden": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "moss_wood": {
+   "nombre": "Moss Wood",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "bark_brown_02": {
+   "nombre": "Bark Brown 02",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  }
+ }
+}
