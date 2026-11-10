@@ -1,9 +1,11 @@
 {
  "catalogo": false,
- "informe": "informe_portal_ciclista.json",
- "sketchfab_buscar": [
-  {"clave": "ciclista_animado", "q": "cyclist riding bicycle", "animado": true, "paginas": 6, "solo_objaverse": true},
-  {"clave": "ciclista_animado2", "q": "bike rider animated", "animado": true, "paginas": 4, "solo_objaverse": true},
-  {"clave": "bicicleta", "q": "realistic bicycle", "animado": false, "paginas": 4, "solo_objaverse": true}
+ "informe": "informe_arana.json",
+ "polyhaven": [
+  {"id": "dead_quiver_branch_01", "res": "2k"},
+  {"id": "dead_tree_trunk", "res": "2k"},
+  {"id": "rock_09", "res": "2k"},
+  {"id": "moss_wood", "res": "2k"},
+  {"id": "bark_brown_02", "res": "2k"}
  ]
 }
