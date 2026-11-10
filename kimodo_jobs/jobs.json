@@ -1,170 +1,38 @@
 [
  {
-  "name": "sf2_despertar_sentarse_a",
+  "name": "sf3_sentarse_rapido_a1",
   "frames": 90,
-  "seed": 28000,
-  "prompt": "A person lying on their back suddenly sits up straight, startled."
+  "seed": 29000,
+  "prompt": "A person lying on their back does one fast sit-up and stays sitting upright."
  },
  {
-  "name": "sf2_despertar_sentarse_b",
+  "name": "sf3_sentarse_rapido_a2",
   "frames": 90,
-  "seed": 28001,
-  "prompt": "A person lying on their back suddenly sits up straight, startled."
+  "seed": 29001,
+  "prompt": "A person lying on their back does one fast sit-up and stays sitting upright."
  },
  {
-  "name": "sf2_despertar_sentarse_c",
+  "name": "sf3_sentarse_rapido_b1",
   "frames": 90,
-  "seed": 28002,
-  "prompt": "A person lying on their back suddenly sits up straight, startled."
+  "seed": 29010,
+  "prompt": "A person lying flat on their back quickly sits up and stays seated with the legs straight."
  },
  {
-  "name": "sf2_acostarse_boca_arriba_a",
-  "frames": 120,
-  "seed": 28010,
-  "prompt": "A person on hands and knees turns around, sits down and lies down on their back."
- },
- {
-  "name": "sf2_acostarse_boca_arriba_b",
-  "frames": 120,
-  "seed": 28011,
-  "prompt": "A person on hands and knees turns around, sits down and lies down on their back."
- },
- {
-  "name": "sf2_acostarse_boca_arriba_c",
-  "frames": 120,
-  "seed": 28012,
-  "prompt": "A person on hands and knees turns around, sits down and lies down on their back."
- },
- {
-  "name": "sf2_gatear_rapido_a",
+  "name": "sf3_sentarse_rapido_b2",
   "frames": 90,
-  "seed": 28020,
-  "prompt": "A person crawls forward quickly on hands and knees."
+  "seed": 29011,
+  "prompt": "A person lying flat on their back quickly sits up and stays seated with the legs straight."
  },
  {
-  "name": "sf2_gatear_rapido_b",
+  "name": "sf3_sentarse_rapido_c1",
   "frames": 90,
-  "seed": 28021,
-  "prompt": "A person crawls forward quickly on hands and knees."
+  "seed": 29020,
+  "prompt": "A person lying on their back wakes up, sits up quickly in surprise and stays sitting."
  },
  {
-  "name": "sf2_gatear_lento_a",
-  "frames": 120,
-  "seed": 28030,
-  "prompt": "A person crawls forward slowly on hands and knees like a baby."
- },
- {
-  "name": "sf2_gatear_lento_b",
-  "frames": 120,
-  "seed": 28031,
-  "prompt": "A person crawls forward slowly on hands and knees like a baby."
- },
- {
-  "name": "sf2_levantar_sobre_cabeza_a",
-  "frames": 150,
-  "seed": 28040,
-  "prompt": "A person squats down, grabs a very heavy object with both hands and lifts it overhead with straight arms."
- },
- {
-  "name": "sf2_levantar_sobre_cabeza_b",
-  "frames": 150,
-  "seed": 28041,
-  "prompt": "A person squats down, grabs a very heavy object with both hands and lifts it overhead with straight arms."
- },
- {
-  "name": "sf2_levantar_sobre_cabeza_c",
-  "frames": 150,
-  "seed": 28042,
-  "prompt": "A person squats down, grabs a very heavy object with both hands and lifts it overhead with straight arms."
- },
- {
-  "name": "sf2_pararse_de_rodillas_a",
+  "name": "sf3_sentarse_rapido_c2",
   "frames": 90,
-  "seed": 28050,
-  "prompt": "A person on hands and knees stands up, pulling themselves up with one hand on a table."
- },
- {
-  "name": "sf2_pararse_de_rodillas_b",
-  "frames": 90,
-  "seed": 28051,
-  "prompt": "A person on hands and knees stands up, pulling themselves up with one hand on a table."
- },
- {
-  "name": "sf2_jalar_manija_a",
-  "frames": 90,
-  "seed": 28060,
-  "prompt": "A person standing pulls a door handle hard with the right hand, and the hand flies back."
- },
- {
-  "name": "sf2_jalar_manija_b",
-  "frames": 90,
-  "seed": 28061,
-  "prompt": "A person standing pulls a door handle hard with the right hand, and the hand flies back."
- },
- {
-  "name": "sf2_jalar_manija_c",
-  "frames": 90,
-  "seed": 28062,
-  "prompt": "A person standing pulls a door handle hard with the right hand, and the hand flies back."
- },
- {
-  "name": "sf2_tomar_taza_a",
-  "frames": 90,
-  "seed": 28070,
-  "prompt": "A person standing picks up a cup from a table with the right hand and raises it to chest height."
- },
- {
-  "name": "sf2_tomar_taza_b",
-  "frames": 90,
-  "seed": 28071,
-  "prompt": "A person standing picks up a cup from a table with the right hand and raises it to chest height."
- },
- {
-  "name": "sf2_empujado_atras_a",
-  "frames": 120,
-  "seed": 28080,
-  "prompt": "A person is pushed backward by a strong wind, stumbling several steps back with arms flailing."
- },
- {
-  "name": "sf2_empujado_atras_b",
-  "frames": 120,
-  "seed": 28081,
-  "prompt": "A person is pushed backward by a strong wind, stumbling several steps back with arms flailing."
- },
- {
-  "name": "sf2_empujado_atras_c",
-  "frames": 120,
-  "seed": 28082,
-  "prompt": "A person is pushed backward by a strong wind, stumbling several steps back with arms flailing."
- },
- {
-  "name": "sf2_salto_alto_a",
-  "frames": 75,
-  "seed": 28090,
-  "prompt": "A person takes one step forward and jumps straight up very high with both arms raised."
- },
- {
-  "name": "sf2_salto_alto_b",
-  "frames": 75,
-  "seed": 28091,
-  "prompt": "A person takes one step forward and jumps straight up very high with both arms raised."
- },
- {
-  "name": "sf2_mirar_mano_triste_a",
-  "frames": 90,
-  "seed": 28100,
-  "prompt": "A person looks sadly down at the open palm of their right hand."
- },
- {
-  "name": "sf2_mirar_mano_triste_b",
-  "frames": 90,
-  "seed": 28101,
-  "prompt": "A person looks sadly down at the open palm of their right hand."
- },
- {
-  "name": "sf2_dormir_boca_arriba_a",
-  "frames": 90,
-  "seed": 28110,
-  "prompt": "A person lies on their back sleeping, arms at the sides."
+  "seed": 29021,
+  "prompt": "A person lying on their back wakes up, sits up quickly in surprise and stays sitting."
  }
 ]
