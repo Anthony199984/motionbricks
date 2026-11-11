@@ -1,11 +1,11 @@
 {
- "total_seconds": 188.7,
+ "total_seconds": 212.3,
  "jobs": [
   {
-   "name": "sf2_jalar_manija_a",
-   "response": "OK\t90\t30",
-   "seconds": 188.6,
-   "frames": 90
+   "name": "tp_sentado_bostezo_2",
+   "response": "OK\t120\t30",
+   "seconds": 212.2,
+   "frames": 120
   }
  ]
 }
