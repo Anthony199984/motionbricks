@@ -1,11 +1,11 @@
 {
- "total_seconds": 312.2,
+ "total_seconds": 240.1,
  "jobs": [
   {
-   "name": "tp_sentado_aburrido_2",
-   "response": "OK\t150\t30",
-   "seconds": 312.1,
-   "frames": 150
+   "name": "tp_barrer_caminando_2",
+   "response": "OK\t180\t30",
+   "seconds": 240.0,
+   "frames": 180
   }
  ]
 }
