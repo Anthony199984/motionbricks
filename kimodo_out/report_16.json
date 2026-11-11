@@ -1,16 +1,10 @@
 {
- "total_seconds": 390.1,
+ "total_seconds": 110.4,
  "jobs": [
   {
-   "name": "tp_mareado_1",
-   "response": "OK\t120\t30",
-   "seconds": 213.2,
-   "frames": 120
-  },
-  {
-   "name": "tp_sentado_senalar_1",
+   "name": "tp_sentado_sobresalto_1",
    "response": "OK\t90\t30",
-   "seconds": 176.8,
+   "seconds": 110.3,
    "frames": 90
   }
  ]
