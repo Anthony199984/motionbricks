@@ -1,10 +1,10 @@
 {
- "total_seconds": 210.0,
+ "total_seconds": 179.3,
  "jobs": [
   {
-   "name": "sf2_gatear_lento_b",
+   "name": "tp_respirar_hondo_2",
    "response": "OK\t120\t30",
-   "seconds": 209.9,
+   "seconds": 179.2,
    "frames": 120
   }
  ]
