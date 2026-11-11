@@ -1,10 +1,16 @@
 {
- "total_seconds": 114.3,
+ "total_seconds": 358.2,
  "jobs": [
   {
-   "name": "sf2_tomar_taza_b",
+   "name": "tp_caminar_mareado_2",
+   "response": "OK\t150\t30",
+   "seconds": 209.5,
+   "frames": 150
+  },
+  {
+   "name": "tp_senalar_sorpresa_2",
    "response": "OK\t90\t30",
-   "seconds": 114.2,
+   "seconds": 148.6,
    "frames": 90
   }
  ]
