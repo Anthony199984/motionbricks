@@ -1,146 +1,98 @@
 [
  {
-  "name": "tp_pulgar_arriba_1",
-  "frames": 90,
-  "seed": 41011,
-  "prompt": "A person stands, winks and gives a thumbs up with the right hand."
- },
- {
-  "name": "tp_pulgar_arriba_2",
-  "frames": 90,
-  "seed": 41012,
-  "prompt": "A person stands, winks and gives a thumbs up with the right hand."
- },
- {
-  "name": "tp_presionar_boton_1",
-  "frames": 90,
-  "seed": 41021,
-  "prompt": "A person stands and presses a button at chest height in front of them with the right index finger."
- },
- {
-  "name": "tp_presionar_boton_2",
-  "frames": 90,
-  "seed": 41022,
-  "prompt": "A person stands and presses a button at chest height in front of them with the right index finger."
- },
- {
-  "name": "tp_estirar_brazos_1",
-  "frames": 120,
-  "seed": 41031,
-  "prompt": "A person stands and stretches both arms up over the head, satisfied."
- },
- {
-  "name": "tp_estirar_cuello_1",
-  "frames": 90,
-  "seed": 41041,
-  "prompt": "A person stands and stretches the neck by tilting the head to the left and to the right."
- },
- {
-  "name": "tp_estirar_cuello_2",
-  "frames": 90,
-  "seed": 41042,
-  "prompt": "A person stands and stretches the neck by tilting the head to the left and to the right."
- },
- {
-  "name": "tp_abanicarse_1",
-  "frames": 120,
-  "seed": 41061,
-  "prompt": "A person stands and fans their face with the right hand because it is very hot."
- },
- {
-  "name": "tp_abanicarse_2",
-  "frames": 120,
-  "seed": 41062,
-  "prompt": "A person stands and fans their face with the right hand because it is very hot."
- },
- {
-  "name": "tp_respirar_hondo_2",
-  "frames": 120,
-  "seed": 41072,
-  "prompt": "A person stands, opens both arms wide and takes a deep relaxing breath."
- },
- {
-  "name": "tp_mareado_2",
-  "frames": 120,
-  "seed": 41082,
-  "prompt": "A person stands dizzy, swaying and wobbling, about to lose balance."
- },
- {
-  "name": "tp_caminar_mareado_1",
+  "name": "tp_esposa_taza_saluda_1",
   "frames": 150,
-  "seed": 41091,
-  "prompt": "A dizzy person walks unsteadily forward, stumbling to the sides."
+  "seed": 42001,
+  "prompt": "A person stands relaxed holding a mug with both hands at chest height, takes a sip, then raises the right hand to wave briefly while still looking down at the mug."
  },
  {
-  "name": "tp_sentado_aburrido_1",
+  "name": "tp_esposa_taza_saluda_2",
   "frames": 150,
-  "seed": 41111,
-  "prompt": "A person sits on the floor with arms crossed, bored, tapping one foot."
+  "seed": 42002,
+  "prompt": "A person stands relaxed holding a mug with both hands at chest height, takes a sip, then raises the right hand to wave briefly while still looking down at the mug."
  },
  {
-  "name": "tp_sentado_aburrido_2",
+  "name": "tp_esposa_taza_saluda_3",
   "frames": 150,
-  "seed": 41112,
-  "prompt": "A person sits on the floor with arms crossed, bored, tapping one foot."
+  "seed": 42003,
+  "prompt": "A person stands relaxed holding a mug with both hands at chest height, takes a sip, then raises the right hand to wave briefly while still looking down at the mug."
  },
  {
-  "name": "tp_sentado_bostezo_1",
-  "frames": 120,
-  "seed": 41121,
-  "prompt": "A person sitting on the floor yawns and rubs their eyes."
+  "name": "tp_esposa_taza_quieta_1",
+  "frames": 180,
+  "seed": 42004,
+  "prompt": "A person stands still holding a mug with both hands near the chest, looking down at it and taking a small sip."
  },
  {
-  "name": "tp_sentado_bostezo_2",
-  "frames": 120,
-  "seed": 41122,
-  "prompt": "A person sitting on the floor yawns and rubs their eyes."
+  "name": "tp_esposa_taza_quieta_2",
+  "frames": 180,
+  "seed": 42005,
+  "prompt": "A person stands still holding a mug with both hands near the chest, looking down at it and taking a small sip."
  },
  {
-  "name": "tp_sentado_sobresalto_1",
-  "frames": 90,
-  "seed": 41131,
-  "prompt": "A person sitting on the floor gets startled and jumps up to their feet."
+  "name": "tp_esposa_cama_leer_1",
+  "frames": 180,
+  "seed": 42006,
+  "prompt": "A person sits on a bed with the back against the headboard and the legs stretched out, holding a book with both hands and reading, then looks to the left, then to the right, then back down at the book."
  },
  {
-  "name": "tp_caminar_bolsa_1",
-  "frames": 120,
-  "seed": 41141,
-  "prompt": "A person walks forward slowly carrying a bag in the right hand."
+  "name": "tp_esposa_cama_leer_2",
+  "frames": 180,
+  "seed": 42007,
+  "prompt": "A person sits on a bed with the back against the headboard and the legs stretched out, holding a book with both hands and reading, then looks to the left, then to the right, then back down at the book."
  },
  {
-  "name": "tp_caminar_bolsa_2",
-  "frames": 120,
-  "seed": 41142,
-  "prompt": "A person walks forward slowly carrying a bag in the right hand."
+  "name": "tp_esposa_cama_leer_3",
+  "frames": 180,
+  "seed": 42008,
+  "prompt": "A person sits on a bed with the back against the headboard and the legs stretched out, holding a book with both hands and reading, then looks to the left, then to the right, then back down at the book."
  },
  {
-  "name": "tp_tapar_boca_1",
-  "frames": 90,
-  "seed": 41161,
-  "prompt": "A person stands and covers their mouth with one hand in horror."
+  "name": "tp_taquero_cortar_servir_1",
+  "frames": 180,
+  "seed": 42009,
+  "prompt": "A person stands behind a counter chopping food on a cutting board with a knife in the right hand, then turns and serves food onto a plate with both hands."
  },
  {
-  "name": "tp_tapar_boca_2",
-  "frames": 90,
-  "seed": 41162,
-  "prompt": "A person stands and covers their mouth with one hand in horror."
+  "name": "tp_taquero_cortar_servir_2",
+  "frames": 180,
+  "seed": 42010,
+  "prompt": "A person stands behind a counter chopping food on a cutting board with a knife in the right hand, then turns and serves food onto a plate with both hands."
  },
  {
-  "name": "tp_acostado_incorporarse_2",
-  "frames": 90,
-  "seed": 41172,
-  "prompt": "A person lying on their back wakes up, sits up quickly in surprise and stays sitting."
+  "name": "tp_vendedor_cortar_asador_1",
+  "frames": 180,
+  "seed": 42011,
+  "prompt": "A person stands and slices meat from a vertical spit in front of him with a long knife in the right hand, the left hand holding a small tray under it."
  },
  {
-  "name": "tp_sentado_senalar_2",
-  "frames": 90,
-  "seed": 41182,
-  "prompt": "A person sitting up points forward with the right hand in surprise."
+  "name": "tp_vendedor_cortar_asador_2",
+  "frames": 180,
+  "seed": 42012,
+  "prompt": "A person stands and slices meat from a vertical spit in front of him with a long knife in the right hand, the left hand holding a small tray under it."
  },
  {
-  "name": "tp_senalar_sorpresa_1",
-  "frames": 90,
-  "seed": 41191,
-  "prompt": "A person stands and points forward with the right hand in surprise."
+  "name": "tp_barrer_caminando_1",
+  "frames": 180,
+  "seed": 42013,
+  "prompt": "A person sweeps the floor with a long broom held with both hands, stepping slowly forward."
+ },
+ {
+  "name": "tp_barrer_caminando_2",
+  "frames": 180,
+  "seed": 42014,
+  "prompt": "A person sweeps the floor with a long broom held with both hands, stepping slowly forward."
+ },
+ {
+  "name": "tp_barrer_recogedor_1",
+  "frames": 150,
+  "seed": 42015,
+  "prompt": "A person bends forward and sweeps dust into a dustpan held low in the left hand using a small broom in the right hand."
+ },
+ {
+  "name": "tp_barrer_recogedor_2",
+  "frames": 150,
+  "seed": 42016,
+  "prompt": "A person bends forward and sweeps dust into a dustpan held low in the left hand using a small broom in the right hand."
  }
 ]
