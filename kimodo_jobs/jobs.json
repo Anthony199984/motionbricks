@@ -1,98 +1,86 @@
 [
  {
-  "name": "tp_esposa_taza_saluda_1",
+  "name": "tp_caminar_frotar_1",
   "frames": 150,
-  "seed": 42001,
-  "prompt": "A person stands relaxed holding a mug with both hands at chest height, takes a sip, then raises the right hand to wave briefly while still looking down at the mug."
+  "seed": 43001,
+  "prompt": "A person walks forward four steps eagerly while rubbing the hands together in front of the chest, then stops."
  },
  {
-  "name": "tp_esposa_taza_saluda_2",
+  "name": "tp_caminar_frotar_2",
   "frames": 150,
-  "seed": 42002,
-  "prompt": "A person stands relaxed holding a mug with both hands at chest height, takes a sip, then raises the right hand to wave briefly while still looking down at the mug."
+  "seed": 43002,
+  "prompt": "A person walks forward four steps eagerly while rubbing the hands together in front of the chest, then stops."
  },
  {
-  "name": "tp_esposa_taza_saluda_3",
+  "name": "tp_caminar_frotar_3",
   "frames": 150,
-  "seed": 42003,
-  "prompt": "A person stands relaxed holding a mug with both hands at chest height, takes a sip, then raises the right hand to wave briefly while still looking down at the mug."
+  "seed": 43003,
+  "prompt": "A person walks forward four steps eagerly while rubbing the hands together in front of the chest, then stops."
  },
  {
-  "name": "tp_esposa_taza_quieta_1",
-  "frames": 180,
-  "seed": 42004,
-  "prompt": "A person stands still holding a mug with both hands near the chest, looking down at it and taking a small sip."
+  "name": "tp_panza_hambre_1",
+  "frames": 120,
+  "seed": 43004,
+  "prompt": "A person stands, puts the right hand on the stomach, looks up to the side and slumps the shoulders, sad and hungry."
  },
  {
-  "name": "tp_esposa_taza_quieta_2",
-  "frames": 180,
-  "seed": 42005,
-  "prompt": "A person stands still holding a mug with both hands near the chest, looking down at it and taking a small sip."
+  "name": "tp_panza_hambre_2",
+  "frames": 120,
+  "seed": 43005,
+  "prompt": "A person stands, puts the right hand on the stomach, looks up to the side and slumps the shoulders, sad and hungry."
  },
  {
-  "name": "tp_esposa_cama_leer_1",
-  "frames": 180,
-  "seed": 42006,
-  "prompt": "A person sits on a bed with the back against the headboard and the legs stretched out, holding a book with both hands and reading, then looks to the left, then to the right, then back down at the book."
+  "name": "tp_empujar_plato_1",
+  "frames": 120,
+  "seed": 43006,
+  "prompt": "A person stands at a counter, looks down nauseous and slowly pushes something away on the counter with the right hand, then leans back."
  },
  {
-  "name": "tp_esposa_cama_leer_2",
-  "frames": 180,
-  "seed": 42007,
-  "prompt": "A person sits on a bed with the back against the headboard and the legs stretched out, holding a book with both hands and reading, then looks to the left, then to the right, then back down at the book."
+  "name": "tp_empujar_plato_2",
+  "frames": 120,
+  "seed": 43007,
+  "prompt": "A person stands at a counter, looks down nauseous and slowly pushes something away on the counter with the right hand, then leans back."
  },
  {
-  "name": "tp_esposa_cama_leer_3",
-  "frames": 180,
-  "seed": 42008,
-  "prompt": "A person sits on a bed with the back against the headboard and the legs stretched out, holding a book with both hands and reading, then looks to the left, then to the right, then back down at the book."
- },
- {
-  "name": "tp_taquero_cortar_servir_1",
-  "frames": 180,
-  "seed": 42009,
-  "prompt": "A person stands behind a counter chopping food on a cutting board with a knife in the right hand, then turns and serves food onto a plate with both hands."
- },
- {
-  "name": "tp_taquero_cortar_servir_2",
-  "frames": 180,
-  "seed": 42010,
-  "prompt": "A person stands behind a counter chopping food on a cutting board with a knife in the right hand, then turns and serves food onto a plate with both hands."
- },
- {
-  "name": "tp_vendedor_cortar_asador_1",
-  "frames": 180,
-  "seed": 42011,
-  "prompt": "A person stands and slices meat from a vertical spit in front of him with a long knife in the right hand, the left hand holding a small tray under it."
- },
- {
-  "name": "tp_vendedor_cortar_asador_2",
-  "frames": 180,
-  "seed": 42012,
-  "prompt": "A person stands and slices meat from a vertical spit in front of him with a long knife in the right hand, the left hand holding a small tray under it."
- },
- {
-  "name": "tp_barrer_caminando_1",
-  "frames": 180,
-  "seed": 42013,
-  "prompt": "A person sweeps the floor with a long broom held with both hands, stepping slowly forward."
- },
- {
-  "name": "tp_barrer_caminando_2",
-  "frames": 180,
-  "seed": 42014,
-  "prompt": "A person sweeps the floor with a long broom held with both hands, stepping slowly forward."
- },
- {
-  "name": "tp_barrer_recogedor_1",
+  "name": "tp_bolsa_soltar_1",
   "frames": 150,
-  "seed": 42015,
-  "prompt": "A person bends forward and sweeps dust into a dustpan held low in the left hand using a small broom in the right hand."
+  "seed": 43008,
+  "prompt": "A person walks forward carrying a bag in the right hand, stops suddenly in shock and drops the bag, staring ahead."
  },
  {
-  "name": "tp_barrer_recogedor_2",
+  "name": "tp_bolsa_soltar_2",
   "frames": 150,
-  "seed": 42016,
-  "prompt": "A person bends forward and sweeps dust into a dustpan held low in the left hand using a small broom in the right hand."
+  "seed": 43009,
+  "prompt": "A person walks forward carrying a bag in the right hand, stops suddenly in shock and drops the bag, staring ahead."
+ },
+ {
+  "name": "tp_bolsa_soltar_3",
+  "frames": 150,
+  "seed": 43010,
+  "prompt": "A person walks forward carrying a bag in the right hand, stops suddenly in shock and drops the bag, staring ahead."
+ },
+ {
+  "name": "tp_senalar_frente_1",
+  "frames": 90,
+  "seed": 43011,
+  "prompt": "A person stands still and slowly points forward with the right index finger in disbelief."
+ },
+ {
+  "name": "tp_senalar_frente_2",
+  "frames": 90,
+  "seed": 43012,
+  "prompt": "A person stands still and slowly points forward with the right index finger in disbelief."
+ },
+ {
+  "name": "tp_devolver_comida_1",
+  "frames": 120,
+  "seed": 43013,
+  "prompt": "A person stands and hands an object forward to someone with the right hand, then turns away quickly."
+ },
+ {
+  "name": "tp_devolver_comida_2",
+  "frames": 120,
+  "seed": 43014,
+  "prompt": "A person stands and hands an object forward to someone with the right hand, then turns away quickly."
  }
 ]
