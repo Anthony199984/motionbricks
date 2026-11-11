@@ -1,11 +1,11 @@
 {
- "total_seconds": 176.4,
+ "total_seconds": 275.8,
  "jobs": [
   {
-   "name": "sf2_tomar_taza_a",
-   "response": "OK\t90\t30",
-   "seconds": 176.2,
-   "frames": 90
+   "name": "tp_caminar_bolsa_2",
+   "response": "OK\t120\t30",
+   "seconds": 275.7,
+   "frames": 120
   }
  ]
 }
