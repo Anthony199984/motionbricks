@@ -1,14 +1,14 @@
 name: Drive privado
 
-# Baja archivos de Google Drive (compartidos con enlace) y los deja SOLO como artefacto de 1 día:
-# no se suben al repositorio público.
+# Baja archivos de Google Drive (compartidos con enlace) y los sube CIFRADOS (AES-256 con una llave aleatoria que solo
+# se puede abrir con la llave privada de Claude): en el repositorio público queda solo texto cifrado.
 on:
   push:
     branches: [recursos]
     paths: ["recursos/drive_pedido.json", ".github/workflows/drive_privado.yml"]
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   bajar:
@@ -34,8 +34,13 @@ jobs:
               print(it["nombre"], len(d), d[:4])
           PY
           ls -la drive_out; sha256sum drive_out/*
-      - uses: actions/upload-artifact@v4
-        with:
-          name: drive_privado
-          path: drive_out
-          retention-days: 1
+      - name: Cifrar y subir
+        run: |
+          mkdir -p recursos/privado
+          openssl rand -hex 32 > clave.txt
+          tar -cf - -C drive_out . | openssl enc -aes-256-cbc -pbkdf2 -salt -pass file:clave.txt | split -b 80m - recursos/privado/datos.enc.
+          openssl pkeyutl -encrypt -pubin -inkey recursos/drive_pub.pem -in clave.txt -out recursos/privado/clave.enc
+          rm -f clave.txt; rm -rf drive_out
+          git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add recursos/privado; git commit -m "Paquete cifrado de Drive [skip ci]"
+          for i in 1 2 3; do git pull --rebase -q origin recursos && git push origin HEAD:recursos && break; sleep 10; done
