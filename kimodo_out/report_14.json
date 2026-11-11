@@ -1,17 +1,11 @@
 {
- "total_seconds": 391.1,
+ "total_seconds": 212.2,
  "jobs": [
   {
-   "name": "tp_respirar_hondo_1",
+   "name": "tp_sentado_bostezo_1",
    "response": "OK\t120\t30",
-   "seconds": 212.6,
+   "seconds": 212.0,
    "frames": 120
-  },
-  {
-   "name": "tp_acostado_incorporarse_1",
-   "response": "OK\t90\t30",
-   "seconds": 178.4,
-   "frames": 90
   }
  ]
 }
