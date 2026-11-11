@@ -1,11 +1,11 @@
 {
- "total_seconds": 239.9,
+ "total_seconds": 269.5,
  "jobs": [
   {
-   "name": "tp_esposa_taza_quieta_2",
-   "response": "OK\t180\t30",
-   "seconds": 239.8,
-   "frames": 180
+   "name": "tp_panza_hambre_2",
+   "response": "OK\t120\t30",
+   "seconds": 269.4,
+   "frames": 120
   }
  ]
 }
