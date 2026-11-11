@@ -1,10 +1,10 @@
 {
- "total_seconds": 263.1,
+ "total_seconds": 178.9,
  "jobs": [
   {
-   "name": "sf2_gatear_lento_a",
+   "name": "tp_abanicarse_2",
    "response": "OK\t120\t30",
-   "seconds": 263.0,
+   "seconds": 178.8,
    "frames": 120
   }
  ]
