@@ -1,11 +1,11 @@
 {
- "total_seconds": 179.3,
+ "total_seconds": 242.5,
  "jobs": [
   {
-   "name": "tp_respirar_hondo_2",
-   "response": "OK\t120\t30",
-   "seconds": 179.2,
-   "frames": 120
+   "name": "tp_taquero_cortar_servir_2",
+   "response": "OK\t180\t30",
+   "seconds": 242.4,
+   "frames": 180
   }
  ]
 }
