@@ -1,11 +1,11 @@
 {
- "total_seconds": 179.5,
+ "total_seconds": 239.9,
  "jobs": [
   {
-   "name": "tp_estirar_brazos_1",
-   "response": "OK\t120\t30",
-   "seconds": 179.4,
-   "frames": 120
+   "name": "tp_esposa_taza_quieta_2",
+   "response": "OK\t180\t30",
+   "seconds": 239.8,
+   "frames": 180
   }
  ]
 }
