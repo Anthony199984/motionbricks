@@ -1,11 +1,17 @@
 {
- "total_seconds": 174.9,
+ "total_seconds": 423.2,
  "jobs": [
   {
-   "name": "sf3_sentarse_rapido_a1",
-   "response": "OK\t90\t30",
-   "seconds": 174.8,
-   "frames": 90
+   "name": "tp_frotar_manos_1",
+   "response": "OK\t120\t30",
+   "seconds": 211.6,
+   "frames": 120
+  },
+  {
+   "name": "tp_parado_celular_1",
+   "response": "OK\t120\t30",
+   "seconds": 211.5,
+   "frames": 120
   }
  ]
 }
