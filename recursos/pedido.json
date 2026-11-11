@@ -1,393 +1,288 @@
 {
- "informe": "informe_tp_busqueda1.json",
- "polyhaven": [
-  {
-   "id": "rollershutter_door",
-   "res": "2k"
-  },
-  {
-   "id": "plastic_broom",
-   "res": "2k"
-  },
-  {
-   "id": "street_lamp_01",
-   "res": "2k"
-  },
-  {
-   "id": "korean_public_payphone_01",
-   "res": "2k"
-  },
-  {
-   "id": "metal_trash_can",
-   "res": "2k"
-  },
-  {
-   "id": "hanging_industrial_lamp",
-   "res": "2k"
-  },
-  {
-   "id": "shanghai_bund",
-   "res": "2k"
-  },
-  {
-   "id": "modern_evening_street",
-   "res": "2k"
-  },
-  {
-   "id": "cobblestone_street_night",
-   "res": "2k"
-  },
-  {
-   "id": "kiara_8_sunset",
-   "res": "2k"
-  },
-  {
-   "id": "goegap",
-   "res": "2k"
-  },
-  {
-   "id": "dikhololo_sunset",
-   "res": "2k"
-  },
-  {
-   "id": "fouriesburg_mountain_lookout",
-   "res": "2k"
-  },
-  {
-   "id": "champagne_castle_1",
-   "res": "2k"
-  },
-  {
-   "id": "asphalt_02",
-   "res": "2k"
-  },
-  {
-   "id": "beige_wall_001",
-   "res": "2k"
-  },
-  {
-   "id": "clay_plaster",
-   "res": "2k"
-  }
- ],
+ "informe": "informe_tp_busqueda2.json",
  "sketchfab_buscar": [
   {
-   "clave": "tp_tokio_callejon",
-   "q": "japanese alley night",
-   "paginas": 3,
+   "clave": "tp2_japon_calle",
+   "q": "japanese street",
+   "paginas": 5,
    "solo_objaverse": true,
    "max": 40
   },
   {
-   "clave": "tp_tokio_tienda",
-   "q": "japanese restaurant storefront",
-   "paginas": 3,
+   "clave": "tp2_tokyo",
+   "q": "tokyo",
+   "paginas": 5,
    "solo_objaverse": true,
    "max": 40
   },
   {
-   "clave": "tp_shawarma",
-   "q": "doner kebab shawarma",
-   "paginas": 3,
+   "clave": "tp2_ramen",
+   "q": "ramen shop",
+   "paginas": 5,
    "solo_objaverse": true,
    "max": 40
   },
   {
-   "clave": "tp_puesto",
-   "q": "street food stall",
-   "paginas": 3,
+   "clave": "tp2_izakaya",
+   "q": "izakaya",
+   "paginas": 5,
    "solo_objaverse": true,
    "max": 40
   },
   {
-   "clave": "tp_taqueria",
-   "q": "taco stand",
-   "paginas": 3,
+   "clave": "tp2_japon_casa",
+   "q": "japanese building",
+   "paginas": 5,
    "solo_objaverse": true,
    "max": 40
   },
   {
-   "clave": "tp_carrito_mx",
-   "q": "mexican food cart",
-   "paginas": 3,
+   "clave": "tp2_neon",
+   "q": "neon sign",
+   "paginas": 5,
    "solo_objaverse": true,
    "max": 40
   },
   {
-   "clave": "tp_volcan",
-   "q": "volcano",
-   "paginas": 3,
+   "clave": "tp2_maquina",
+   "q": "vending machine",
+   "paginas": 5,
    "solo_objaverse": true,
    "max": 40
   },
   {
-   "clave": "tp_mujer",
-   "q": "woman casual rigged",
-   "paginas": 3,
+   "clave": "tp2_kebab",
+   "q": "kebab",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_foodtruck",
+   "q": "food truck",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_mercado",
+   "q": "market stall",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_arabe",
+   "q": "arabic house",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_palmera",
+   "q": "palm tree",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_desierto_ciudad",
+   "q": "desert town",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_mexico",
+   "q": "mexican",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_hotdog",
+   "q": "hot dog stand",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_colonial",
+   "q": "colonial house",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_mostrador",
+   "q": "counter",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_chef",
+   "q": "chef",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_hombre_delantal",
+   "q": "man apron",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_conserje",
+   "q": "janitor",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_trabajador",
+   "q": "worker man",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_mujer",
+   "q": "woman",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_mujer_casual",
+   "q": "casual woman",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_mujer_realista",
+   "q": "realistic woman",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_hombre_realista",
+   "q": "realistic man",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_escoba",
+   "q": "broom",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_comal",
+   "q": "grill",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_trompo",
+   "q": "doner",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_burrito",
+   "q": "burrito",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_almohada",
+   "q": "pillow",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_lampara_noche",
+   "q": "bedside lamp",
+   "paginas": 5,
+   "solo_objaverse": true,
+   "max": 40
+  },
+  {
+   "clave": "tp2_mujer_anim",
+   "q": "woman idle",
+   "paginas": 5,
    "solo_objaverse": true,
    "max": 40,
    "animado": true
   },
   {
-   "clave": "tp_cocinero",
-   "q": "cook man rigged",
-   "paginas": 3,
+   "clave": "tp2_hombre_anim",
+   "q": "man idle",
+   "paginas": 5,
    "solo_objaverse": true,
    "max": 40,
    "animado": true
   },
   {
-   "clave": "tp_barrendero",
-   "q": "street sweeper",
-   "paginas": 3,
+   "clave": "tp2_barrer_anim",
+   "q": "sweeping",
+   "paginas": 5,
    "solo_objaverse": true,
-   "max": 40
+   "max": 40,
+   "animado": true
   },
   {
-   "clave": "tp_taza",
-   "q": "coffee mug",
-   "paginas": 2,
+   "clave": "tp2_cocinar_anim",
+   "q": "cooking",
+   "paginas": 5,
    "solo_objaverse": true,
-   "max": 40
+   "max": 40,
+   "animado": true
   },
   {
-   "clave": "tp_libro",
-   "q": "book",
-   "paginas": 2,
+   "clave": "tp2_leer_anim",
+   "q": "reading",
+   "paginas": 5,
    "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "tp_bolsa",
-   "q": "paper bag",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "tp_tacos",
-   "q": "tacos",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "tp_wrap",
-   "q": "shawarma wrap burrito",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "tp_celular",
-   "q": "smartphone",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "tp_vela",
-   "q": "candle",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "tp_recogedor",
-   "q": "dustpan",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "tp_sushi",
-   "q": "sushi nigiri",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "tp_reloj",
-   "q": "street clock",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "tp_fluorescente",
-   "q": "fluorescent lamp",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 40
-  },
-  {
-   "clave": "tp_tierra",
-   "q": "earth planet",
-   "paginas": 2,
-   "solo_objaverse": true,
-   "max": 40
-  }
- ],
- "commons_buscar": [
-  {
-   "clave": "tp_tierra_noche",
-   "q": "Black Marble NASA earth night",
-   "tipo": "bitmap",
-   "n": 15,
-   "max_mb": 60
-  },
-  {
-   "clave": "tp_tierra_dia",
-   "q": "Blue Marble NASA land surface ocean",
-   "tipo": "bitmap",
-   "n": 15,
-   "max_mb": 60
+   "max": 40,
+   "animado": true
   }
  ],
  "freesound_buscar": [
   {
-   "clave": "tp_arena",
-   "q": "sand pouring",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
+   "clave": "tp2_cortina",
+   "q": "rolling shutter close",
+   "filtro": "duration:[0.5 TO 15] license:\"Creative Commons 0\"",
    "max": 6
   },
   {
-   "clave": "tp_arena2",
-   "q": "sand falling",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
+   "clave": "tp2_cortina_by",
+   "q": "shutter",
+   "filtro": "duration:[0.5 TO 15]",
    "max": 6
   },
   {
-   "clave": "tp_zumbido",
-   "q": "machine hum",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
+   "clave": "tp2_viento",
+   "q": "wind gust",
+   "filtro": "duration:[1 TO 20] license:\"Creative Commons 0\"",
    "max": 6
   },
   {
-   "clave": "tp_rebobinado",
-   "q": "tape rewind",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
+   "clave": "tp2_bolsa",
+   "q": "paper bag",
+   "filtro": "duration:[0.3 TO 10] license:\"Creative Commons 0\"",
    "max": 6
-  },
-  {
-   "clave": "tp_pitido",
-   "q": "ui beep",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_enviado",
-   "q": "confirmation beep",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_escaner",
-   "q": "scanner sci-fi",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_whoosh",
-   "q": "whoosh",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_cortina",
-   "q": "roller shutter",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_panza",
-   "q": "stomach growl",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_viento",
-   "q": "hot wind gust",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_asador",
-   "q": "sizzle grill",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_oidos",
-   "q": "ear ringing tinnitus",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_apagon",
-   "q": "power down",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_fluorescente",
-   "q": "fluorescent light",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_grillos",
-   "q": "crickets",
-   "filtro": "duration:[3 TO 60] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_ding",
-   "q": "ding bell",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_bolsa",
-   "q": "paper bag drop",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_ronquido",
-   "q": "snore",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_escoba",
-   "q": "broom sweeping",
-   "filtro": "duration:[0.3 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp_amb_cocina",
-   "q": "kitchen room tone",
-   "filtro": "duration:[15 TO 120] license:\"Creative Commons 0\"",
-   "max": 4
-  },
-  {
-   "clave": "tp_amb_tokio",
-   "q": "tokyo street night",
-   "filtro": "duration:[15 TO 180] license:\"Creative Commons 0\"",
-   "max": 5
-  },
-  {
-   "clave": "tp_amb_dubai",
-   "q": "middle east street market",
-   "filtro": "duration:[15 TO 180] license:\"Creative Commons 0\"",
-   "max": 5
-  },
-  {
-   "clave": "tp_amb_mexico",
-   "q": "mexico street music",
-   "filtro": "duration:[15 TO 180] license:\"Creative Commons 0\"",
-   "max": 5
   }
  ]
 }
