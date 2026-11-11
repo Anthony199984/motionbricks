@@ -1,17 +1,5 @@
 [
  {
-  "name": "tp_frotar_manos_1",
-  "frames": 120,
-  "seed": 41001,
-  "prompt": "A person stands and rubs their hands together eagerly, excited about food."
- },
- {
-  "name": "tp_frotar_manos_2",
-  "frames": 120,
-  "seed": 41002,
-  "prompt": "A person stands and rubs their hands together eagerly, excited about food."
- },
- {
   "name": "tp_pulgar_arriba_1",
   "frames": 90,
   "seed": 41011,
@@ -42,12 +30,6 @@
   "prompt": "A person stands and stretches both arms up over the head, satisfied."
  },
  {
-  "name": "tp_estirar_brazos_2",
-  "frames": 120,
-  "seed": 41032,
-  "prompt": "A person stands and stretches both arms up over the head, satisfied."
- },
- {
   "name": "tp_estirar_cuello_1",
   "frames": 90,
   "seed": 41041,
@@ -58,18 +40,6 @@
   "frames": 90,
   "seed": 41042,
   "prompt": "A person stands and stretches the neck by tilting the head to the left and to the right."
- },
- {
-  "name": "tp_caminar_triste_1",
-  "frames": 150,
-  "seed": 41051,
-  "prompt": "A person turns around and walks away slowly and sadly, dragging their feet with slumped shoulders."
- },
- {
-  "name": "tp_caminar_triste_2",
-  "frames": 150,
-  "seed": 41052,
-  "prompt": "A person turns around and walks away slowly and sadly, dragging their feet with slumped shoulders."
  },
  {
   "name": "tp_abanicarse_1",
@@ -84,22 +54,10 @@
   "prompt": "A person stands and fans their face with the right hand because it is very hot."
  },
  {
-  "name": "tp_respirar_hondo_1",
-  "frames": 120,
-  "seed": 41071,
-  "prompt": "A person stands, opens both arms wide and takes a deep relaxing breath."
- },
- {
   "name": "tp_respirar_hondo_2",
   "frames": 120,
   "seed": 41072,
   "prompt": "A person stands, opens both arms wide and takes a deep relaxing breath."
- },
- {
-  "name": "tp_mareado_1",
-  "frames": 120,
-  "seed": 41081,
-  "prompt": "A person stands dizzy, swaying and wobbling, about to lose balance."
  },
  {
   "name": "tp_mareado_2",
@@ -112,24 +70,6 @@
   "frames": 150,
   "seed": 41091,
   "prompt": "A dizzy person walks unsteadily forward, stumbling to the sides."
- },
- {
-  "name": "tp_caminar_mareado_2",
-  "frames": 150,
-  "seed": 41092,
-  "prompt": "A dizzy person walks unsteadily forward, stumbling to the sides."
- },
- {
-  "name": "tp_parado_celular_1",
-  "frames": 120,
-  "seed": 41101,
-  "prompt": "A person stands still holding a phone with the left hand in front of the chest."
- },
- {
-  "name": "tp_parado_celular_2",
-  "frames": 120,
-  "seed": 41102,
-  "prompt": "A person stands still holding a phone with the left hand in front of the chest."
  },
  {
   "name": "tp_sentado_aburrido_1",
@@ -162,12 +102,6 @@
   "prompt": "A person sitting on the floor gets startled and jumps up to their feet."
  },
  {
-  "name": "tp_sentado_sobresalto_2",
-  "frames": 90,
-  "seed": 41132,
-  "prompt": "A person sitting on the floor gets startled and jumps up to their feet."
- },
- {
   "name": "tp_caminar_bolsa_1",
   "frames": 120,
   "seed": 41141,
@@ -178,18 +112,6 @@
   "frames": 120,
   "seed": 41142,
   "prompt": "A person walks forward slowly carrying a bag in the right hand."
- },
- {
-  "name": "tp_congelarse_shock_1",
-  "frames": 90,
-  "seed": 41151,
-  "prompt": "A person walking stops suddenly and freezes in shock with the mouth open."
- },
- {
-  "name": "tp_congelarse_shock_2",
-  "frames": 90,
-  "seed": 41152,
-  "prompt": "A person walking stops suddenly and freezes in shock with the mouth open."
  },
  {
   "name": "tp_tapar_boca_1",
@@ -204,22 +126,10 @@
   "prompt": "A person stands and covers their mouth with one hand in horror."
  },
  {
-  "name": "tp_acostado_incorporarse_1",
-  "frames": 90,
-  "seed": 41171,
-  "prompt": "A person lying on their back wakes up, sits up quickly in surprise and stays sitting."
- },
- {
   "name": "tp_acostado_incorporarse_2",
   "frames": 90,
   "seed": 41172,
   "prompt": "A person lying on their back wakes up, sits up quickly in surprise and stays sitting."
- },
- {
-  "name": "tp_sentado_senalar_1",
-  "frames": 90,
-  "seed": 41181,
-  "prompt": "A person sitting up points forward with the right hand in surprise."
  },
  {
   "name": "tp_sentado_senalar_2",
@@ -231,12 +141,6 @@
   "name": "tp_senalar_sorpresa_1",
   "frames": 90,
   "seed": 41191,
-  "prompt": "A person stands and points forward with the right hand in surprise."
- },
- {
-  "name": "tp_senalar_sorpresa_2",
-  "frames": 90,
-  "seed": 41192,
   "prompt": "A person stands and points forward with the right hand in surprise."
  }
 ]

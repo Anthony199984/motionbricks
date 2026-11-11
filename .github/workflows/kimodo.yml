@@ -64,7 +64,9 @@ jobs:
       - name: Compilar (CPU)
         run: |
           exec > >(tee -a "$GITHUB_WORKSPACE/kimodo_log.txt") 2>&1; date
-          sudo apt-get update -qq && sudo apt-get install -y -qq ninja-build g++-14
+          # Sin depender de los espejos de apt (fallaron el 11 nov): ninja por pip; g++-14 ya viene en ubuntu-24.04
+          pip install -q ninja || (sleep 20; pip install -q ninja)
+          which g++-14 || (for i in 1 2 3; do sudo apt-get update -qq && sudo apt-get install -y -qq g++-14 && break; sleep 30; done)
           cd kcpp
           cmake -B build -G Ninja -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_COMPILER=g++-14 -DCMAKE_C_COMPILER=gcc-14 \
                 -DKIMODO_ENABLE_VULKAN=OFF -DKIMODO_BUILD_TESTS=OFF -DGGML_NATIVE=ON
