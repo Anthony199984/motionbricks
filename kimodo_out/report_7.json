@@ -1,11 +1,11 @@
 {
- "total_seconds": 214.1,
+ "total_seconds": 180.2,
  "jobs": [
   {
-   "name": "tp_abanicarse_1",
-   "response": "OK\t120\t30",
-   "seconds": 213.9,
-   "frames": 120
+   "name": "tp_esposa_cama_leer_3",
+   "response": "OK\t180\t30",
+   "seconds": 180.0,
+   "frames": 180
   }
  ]
 }
