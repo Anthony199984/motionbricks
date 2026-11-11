@@ -1,10 +1,16 @@
 {
- "total_seconds": 227.2,
+ "total_seconds": 391.1,
  "jobs": [
   {
-   "name": "sf2_pararse_de_rodillas_b",
+   "name": "tp_respirar_hondo_1",
+   "response": "OK\t120\t30",
+   "seconds": 212.6,
+   "frames": 120
+  },
+  {
+   "name": "tp_acostado_incorporarse_1",
    "response": "OK\t90\t30",
-   "seconds": 227.1,
+   "seconds": 178.4,
    "frames": 90
   }
  ]
