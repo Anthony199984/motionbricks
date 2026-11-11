@@ -1,17 +1,11 @@
 {
- "total_seconds": 359.3,
+ "total_seconds": 178.4,
  "jobs": [
   {
-   "name": "tp_caminar_triste_1",
-   "response": "OK\t150\t30",
-   "seconds": 210.5,
-   "frames": 150
-  },
-  {
-   "name": "tp_congelarse_shock_1",
-   "response": "OK\t90\t30",
-   "seconds": 148.6,
-   "frames": 90
+   "name": "tp_mareado_2",
+   "response": "OK\t120\t30",
+   "seconds": 178.3,
+   "frames": 120
   }
  ]
 }
