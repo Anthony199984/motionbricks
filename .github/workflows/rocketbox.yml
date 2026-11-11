@@ -1,0 +1,45 @@
+name: Rocketbox a GLB
+
+# Convierte avatares de Microsoft Rocketbox (MIT) a GLB con Blender y los sube a recursos/out/rocketbox/.
+on:
+  push:
+    branches: [recursos]
+    paths: ["recursos/rocketbox_pedido.json", "recursos/rocketbox/convertir.py", ".github/workflows/rocketbox.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  convertir:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - name: Blender
+        run: |
+          for k in 1 2 3; do curl -fsSL -o blender.tar.xz https://download.blender.org/release/Blender4.2/blender-4.2.3-linux-x64.tar.xz && break; sleep 10; done
+          tar xf blender.tar.xz && mv blender-4.2.3-linux-x64 blender_app && ./blender_app/blender --version | head -1
+      - name: Rocketbox
+        run: |
+          git clone --filter=blob:none --no-checkout https://github.com/microsoft/Microsoft-Rocketbox rb
+          cd rb
+          git sparse-checkout init --no-cone
+          python3 -c "import json;[print('/Assets/Avatars/'+a+'/') for a in json.load(open('../recursos/rocketbox_pedido.json'))['avatares']]" > ../lista.txt
+          git sparse-checkout set --stdin < ../lista.txt
+          git checkout
+          cp LICENSE ../LICENSE_rocketbox.txt || true
+      - name: Convertir
+        run: |
+          mkdir -p recursos/out/rocketbox
+          for a in $(python3 -c "import json;print(' '.join(json.load(open('recursos/rocketbox_pedido.json'))['avatares']))"); do
+            n=$(basename $a)
+            ./blender_app/blender -b -P recursos/rocketbox/convertir.py -- rb/Assets/Avatars/$a recursos/out/rocketbox/$n.glb 2>&1 | grep -E "imagen|objeto|ok|Error|rror" | head -60
+          done
+          cp LICENSE_rocketbox.txt recursos/out/rocketbox/LICENSE_Microsoft_Rocketbox_MIT.txt || true
+          ls -la recursos/out/rocketbox
+      - name: Subir
+        run: |
+          git config user.name "github-actions"; git config user.email "actions@github.com"
+          git add recursos/out/rocketbox
+          git commit -m "Rocketbox convertido" || exit 0
+          for k in 1 2 3; do git pull --rebase origin recursos && git push origin HEAD:recursos && break; sleep 5; done
