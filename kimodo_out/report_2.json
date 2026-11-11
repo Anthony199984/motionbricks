@@ -1,10 +1,16 @@
 {
- "total_seconds": 178.5,
+ "total_seconds": 353.0,
  "jobs": [
   {
-   "name": "sf3_sentarse_rapido_b1",
+   "name": "tp_presionar_boton_1",
    "response": "OK\t90\t30",
-   "seconds": 178.4,
+   "seconds": 177.7,
+   "frames": 90
+  },
+  {
+   "name": "tp_sentado_senalar_2",
+   "response": "OK\t90\t30",
+   "seconds": 175.2,
    "frames": 90
   }
  ]
