@@ -1,0 +1,41 @@
+name: Drive privado
+
+# Baja archivos de Google Drive (compartidos con enlace) y los deja SOLO como artefacto de 1 día:
+# no se suben al repositorio público.
+on:
+  push:
+    branches: [recursos]
+    paths: ["recursos/drive_pedido.json", ".github/workflows/drive_privado.yml"]
+
+permissions:
+  contents: read
+
+jobs:
+  bajar:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bajar de Drive
+        run: |
+          mkdir -p drive_out
+          python3 - <<'PY'
+          import json, urllib.request, os, time
+          p = json.load(open("recursos/drive_pedido.json"))
+          for it in p["archivos"]:
+              url = f"https://drive.usercontent.google.com/download?id={it['id']}&export=download&confirm=t"
+              for k in range(4):
+                  try:
+                      d = urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"}), timeout=300).read()
+                      break
+                  except Exception as e:
+                      print("reintento", it["nombre"], e); time.sleep(5 * (k + 1))
+              open(os.path.join("drive_out", it["nombre"]), "wb").write(d)
+              print(it["nombre"], len(d), d[:4])
+          PY
+          ls -la drive_out; sha256sum drive_out/*
+      - uses: actions/upload-artifact@v4
+        with:
+          name: drive_privado
+          path: drive_out
+          retention-days: 1
