@@ -1,16 +1,16 @@
 {
- "total_seconds": 455.7,
+ "total_seconds": 461.4,
  "jobs": [
   {
-   "name": "sf2_gatear_rapido_b",
-   "response": "OK\t90\t30",
-   "seconds": 229.5,
-   "frames": 90
+   "name": "tp_estirar_brazos_2",
+   "response": "OK\t120\t30",
+   "seconds": 252.1,
+   "frames": 120
   },
   {
-   "name": "sf2_dormir_boca_arriba_a",
+   "name": "tp_sentado_sobresalto_2",
    "response": "OK\t90\t30",
-   "seconds": 226.1,
+   "seconds": 209.2,
    "frames": 90
   }
  ]
