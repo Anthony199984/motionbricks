@@ -1,17 +1,17 @@
 {
- "total_seconds": 424.0,
+ "total_seconds": 222.0,
  "jobs": [
   {
-   "name": "tp_frotar_manos_2",
-   "response": "OK\t120\t30",
-   "seconds": 212.1,
-   "frames": 120
+   "name": "tp_pulgar_arriba_2",
+   "response": "OK\t90\t30",
+   "seconds": 112.0,
+   "frames": 90
   },
   {
-   "name": "tp_parado_celular_2",
-   "response": "OK\t120\t30",
-   "seconds": 211.8,
-   "frames": 120
+   "name": "tp_acostado_incorporarse_2",
+   "response": "OK\t90\t30",
+   "seconds": 109.9,
+   "frames": 90
   }
  ]
 }
