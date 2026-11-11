@@ -1,49 +1,26 @@
 {
- "informe": "informe_tp_bajada2.json",
- "freesound_buscar": [
+ "informe": "informe_tp_bajada3.json",
+ "objaverse": [
   {
-   "clave": "tp3_cortina",
-   "q": "garage door close",
-   "filtro": "duration:[0.5 TO 15] license:\"Creative Commons 0\"",
-   "max": 6
+   "uid": "e8c0ea53410947b0b7f20d33702f4098",
+   "nombre": "tp_palmera",
+   "titulo": "Plant Series – Palm Tree",
+   "autor": "spazio_silvestre",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp3_cortina2",
-   "q": "metal shutter",
-   "filtro": "duration:[0.5 TO 15] license:\"Creative Commons 0\"",
-   "max": 6
+   "uid": "d76f0654b92d4cf994b528555525219b",
+   "nombre": "tp_palmera_arabe",
+   "titulo": "Arabic Palmtree",
+   "autor": "rodrigogelmi",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp3_cortina3",
-   "q": "roller door",
-   "filtro": "duration:[0.5 TO 15] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp3_vela",
-   "q": "candle flame",
-   "filtro": "duration:[0.5 TO 15] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp3_muerde",
-   "q": "bite crunch",
-   "filtro": "duration:[0.5 TO 15] license:\"Creative Commons 0\"",
-   "max": 6
-  }
- ],
- "urls": [
-  {
-   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Whole_world_-_land_and_oceans.jpg",
-   "destino": "texturas/tp_tierra_dia/tierra_dia.jpg"
-  },
-  {
-   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Earthlights_dmsp.jpg",
-   "destino": "texturas/tp_tierra_noche/tierra_noche_dmsp.jpg"
-  },
-  {
-   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Earth%27s_City_Lights_by_DMSP,_1994-1995_(large).jpg",
-   "destino": "texturas/tp_tierra_noche/tierra_noche_large.jpg"
+   "uid": "dade6a6307ff411492b205a388a77719",
+   "nombre": "tp_palmera_alta",
+   "titulo": "PALM",
+   "autor": "sinnervoncrawsz",
+   "licencia": "CC Attribution"
   }
  ]
 }
