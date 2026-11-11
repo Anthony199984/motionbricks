@@ -1,16 +1,10 @@
 {
- "total_seconds": 358.2,
+ "total_seconds": 176.7,
  "jobs": [
   {
-   "name": "tp_caminar_mareado_2",
-   "response": "OK\t150\t30",
-   "seconds": 209.5,
-   "frames": 150
-  },
-  {
-   "name": "tp_senalar_sorpresa_2",
+   "name": "tp_tapar_boca_1",
    "response": "OK\t90\t30",
-   "seconds": 148.6,
+   "seconds": 176.6,
    "frames": 90
   }
  ]
