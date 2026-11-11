@@ -1,10 +1,10 @@
 {
- "total_seconds": 150.1,
+ "total_seconds": 178.6,
  "jobs": [
   {
-   "name": "sf3_sentarse_rapido_c2",
+   "name": "tp_estirar_cuello_1",
    "response": "OK\t90\t30",
-   "seconds": 150.0,
+   "seconds": 178.5,
    "frames": 90
   }
  ]
