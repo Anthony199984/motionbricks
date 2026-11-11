@@ -1,17 +1,11 @@
 {
- "total_seconds": 461.4,
+ "total_seconds": 214.1,
  "jobs": [
   {
-   "name": "tp_estirar_brazos_2",
+   "name": "tp_abanicarse_1",
    "response": "OK\t120\t30",
-   "seconds": 252.1,
+   "seconds": 213.9,
    "frames": 120
-  },
-  {
-   "name": "tp_sentado_sobresalto_2",
-   "response": "OK\t90\t30",
-   "seconds": 209.2,
-   "frames": 90
   }
  ]
 }
