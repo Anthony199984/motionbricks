@@ -1,11 +1,11 @@
 {
- "total_seconds": 212.2,
+ "total_seconds": 252.9,
  "jobs": [
   {
-   "name": "tp_sentado_bostezo_1",
-   "response": "OK\t120\t30",
-   "seconds": 212.0,
-   "frames": 120
+   "name": "tp_barrer_recogedor_1",
+   "response": "OK\t150\t30",
+   "seconds": 252.7,
+   "frames": 150
   }
  ]
 }
