@@ -1,16 +1,10 @@
 {
- "total_seconds": 224.4,
+ "total_seconds": 177.8,
  "jobs": [
   {
-   "name": "sf2_gatear_rapido_a",
+   "name": "tp_estirar_cuello_2",
    "response": "OK\t90\t30",
-   "seconds": 111.9,
-   "frames": 90
-  },
-  {
-   "name": "sf2_mirar_mano_triste_b",
-   "response": "OK\t90\t30",
-   "seconds": 112.4,
+   "seconds": 177.6,
    "frames": 90
   }
  ]
