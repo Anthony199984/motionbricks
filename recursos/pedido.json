@@ -1,288 +1,229 @@
 {
- "informe": "informe_tp_busqueda2.json",
- "sketchfab_buscar": [
+ "informe": "informe_tp_bajada1.json",
+ "objaverse": [
   {
-   "clave": "tp2_japon_calle",
-   "q": "japanese street",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "19c8fe5702b544d0a1409d3dac1cf90e",
+   "nombre": "tp_taza",
+   "titulo": "Plain Mug",
+   "autor": "edwardlewis450",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_tokyo",
-   "q": "tokyo",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "5b8095131eca4914b6dce4e96b290a3f",
+   "nombre": "tp_taco",
+   "titulo": "Taco",
+   "autor": "jtredden",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_ramen",
-   "q": "ramen shop",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "1859eafe26e54a11b279c02d175769f0",
+   "nombre": "tp_taco_camion",
+   "titulo": "Tacos La Salcitas",
+   "autor": "skovarovic",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_izakaya",
-   "q": "izakaya",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "ffad00a48edb47f7ae6481f8996f9799",
+   "nombre": "tp_bolsa",
+   "titulo": "Paper Lunch Sack",
+   "autor": "g2bb",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_japon_casa",
-   "q": "japanese building",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "9ccf2fce68ea45e0b0861038d5aa035d",
+   "nombre": "tp_bolsa2",
+   "titulo": "Paper bag",
+   "autor": "JaradFraser",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_neon",
-   "q": "neon sign",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "4ff99cf17b164e7b9790638c5d2ef4ce",
+   "nombre": "tp_celular",
+   "titulo": "Low Poly Mobile Phone",
+   "autor": "k_nelms",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_maquina",
-   "q": "vending machine",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "4328dea00e47497dbeac73c556121bc9",
+   "nombre": "tp_celular2",
+   "titulo": "Apple iPhone 13 Pro Max",
+   "autor": "DatSketch",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_kebab",
-   "q": "kebab",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "d9d5ed5de83b4d899ab93f55bdc3d0bc",
+   "nombre": "tp_vela_derretida",
+   "titulo": "Candle light",
+   "autor": "al0sral0",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_foodtruck",
-   "q": "food truck",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "92bb9f59fd9046b1beb9dca6b21489e2",
+   "nombre": "tp_velas",
+   "titulo": "Candles",
+   "autor": "thegraphicsgeek",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_mercado",
-   "q": "market stall",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "4a09a5fdbc1240f5a56abf874a4415a5",
+   "nombre": "tp_sushi",
+   "titulo": "Salmon Nigiri Sushi",
+   "autor": "ditovirnantio",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_arabe",
-   "q": "arabic house",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "bca96f873b0743f88d61cd12b0750507",
+   "nombre": "tp_fluorescentes",
+   "titulo": "Fluorecent lights",
+   "autor": "foon.",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_palmera",
-   "q": "palm tree",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "62777353277343a49178fadff3a75cf2",
+   "nombre": "tp_tubo",
+   "titulo": "Simple fluorescent tube",
+   "autor": "Christian.Bittner",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_desierto_ciudad",
-   "q": "desert town",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "d91eae20c02a4741aeb889246b417ae4",
+   "nombre": "tp_recogedor",
+   "titulo": "Dustpan",
+   "autor": "cirby2180",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_mexico",
-   "q": "mexican",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "41e6a9883c4b4ac8bc476e167c949ff1",
+   "nombre": "tp_puesto_toldo",
+   "titulo": "Street stall",
+   "autor": "victorhugohc",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_hotdog",
-   "q": "hot dog stand",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "90944ea5739248f6b707d6c2b0955c3b",
+   "nombre": "tp_libros",
+   "titulo": "Book Stack",
+   "autor": "paubr",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_colonial",
-   "q": "colonial house",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "5ae0121e33b54b7789c6b9113da444bf",
+   "nombre": "tp_jp_casa",
+   "titulo": "Japanese house 2.0",
+   "autor": "annzep",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_mostrador",
-   "q": "counter",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "8e01bf62ea864d59890c4b091acf2379",
+   "nombre": "tp_jp_yatai",
+   "titulo": "Lesson 8",
+   "autor": "n.tendetnik",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_chef",
-   "q": "chef",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "c0784d38160a41019cafe83d9dcb6fc3",
+   "nombre": "tp_jp_edificios",
+   "titulo": "Japan Street Automaping Texturing Homework",
+   "autor": "nimzuk",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_hombre_delantal",
-   "q": "man apron",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "df61d501380d46aa8037b5d9ac92924a",
+   "nombre": "tp_jp_casas",
+   "titulo": "Diplom_Draft_Japanese houses",
+   "autor": "rus.zam56",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_conserje",
-   "q": "janitor",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "fadae77d995f4a54a64ccc460bfffdec",
+   "nombre": "tp_jp_calle_sf",
+   "titulo": "Street Fighter II 02",
+   "autor": "Leo.Leung",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_trabajador",
-   "q": "worker man",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "c91524e74c8c463ca3ddf71bc73911db",
+   "nombre": "tp_jp_neon",
+   "titulo": "Japanese Neon Street Sign",
+   "autor": "mcmanusmedia",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_mujer",
-   "q": "woman",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "de9e13e35b504fea84b51857adb2e8b0",
+   "nombre": "tp_jp_farol",
+   "titulo": "Japanese street lamp",
+   "autor": "Baturinets",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_mujer_casual",
-   "q": "casual woman",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "4d189bf2710f422ea287718f968cea68",
+   "nombre": "tp_jp_ramen",
+   "titulo": "Ramen Shop",
+   "autor": "ddar1342",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_mujer_realista",
-   "q": "realistic woman",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "b25d23ff186949dca3df669c14447db5",
+   "nombre": "tp_jp_ciudad",
+   "titulo": "City Scene Tokyo",
+   "autor": "sooi",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_hombre_realista",
-   "q": "realistic man",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "3336122cc364474bbda26c8143ce15b5",
+   "nombre": "tp_kebab_maquina",
+   "titulo": "Machine à Kebab",
+   "autor": "niko300",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_escoba",
-   "q": "broom",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "9e56cc9656ae4016b96cb4bb56fe3a43",
+   "nombre": "tp_kebab_wrap",
+   "titulo": "Kebab - midpoly",
+   "autor": "Pierre.Bourdon",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_comal",
-   "q": "grill",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "d3fee7b354cb49d38b9af4c4eb0238f4",
+   "nombre": "tp_db_casa",
+   "titulo": "Arabic House 2",
+   "autor": "Yessreen.Design-Print",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_trompo",
-   "q": "doner",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "4e4095ec16114c74b6d477f8d5c8b429",
+   "nombre": "tp_db_omani",
+   "titulo": "House 1 Omani",
+   "autor": "Yessreen.Design-Print",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_burrito",
-   "q": "burrito",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "87717451a73644e0b8e66615338ea0b7",
+   "nombre": "tp_mx_villa",
+   "titulo": "Mehico Villa (not scan)",
+   "autor": "shakiller",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_almohada",
-   "q": "pillow",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "9f6eda070e4747cb8f1c1b9c11a05f0d",
+   "nombre": "tp_mx_bandera",
+   "titulo": "Mexican Flag",
+   "autor": "SusiePhilpott",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_lampara_noche",
-   "q": "bedside lamp",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40
+   "uid": "ae23036ef7e44e8abba0d929c2ffedb2",
+   "nombre": "tp_mujer_casual",
+   "titulo": "Gameready Character (Free download)",
+   "autor": "jakobscheidt",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "tp2_mujer_anim",
-   "q": "woman idle",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40,
-   "animado": true
-  },
-  {
-   "clave": "tp2_hombre_anim",
-   "q": "man idle",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40,
-   "animado": true
-  },
-  {
-   "clave": "tp2_barrer_anim",
-   "q": "sweeping",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40,
-   "animado": true
-  },
-  {
-   "clave": "tp2_cocinar_anim",
-   "q": "cooking",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40,
-   "animado": true
-  },
-  {
-   "clave": "tp2_leer_anim",
-   "q": "reading",
-   "paginas": 5,
-   "solo_objaverse": true,
-   "max": 40,
-   "animado": true
-  }
- ],
- "freesound_buscar": [
-  {
-   "clave": "tp2_cortina",
-   "q": "rolling shutter close",
-   "filtro": "duration:[0.5 TO 15] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp2_cortina_by",
-   "q": "shutter",
-   "filtro": "duration:[0.5 TO 15]",
-   "max": 6
-  },
-  {
-   "clave": "tp2_viento",
-   "q": "wind gust",
-   "filtro": "duration:[1 TO 20] license:\"Creative Commons 0\"",
-   "max": 6
-  },
-  {
-   "clave": "tp2_bolsa",
-   "q": "paper bag",
-   "filtro": "duration:[0.3 TO 10] license:\"Creative Commons 0\"",
-   "max": 6
+   "uid": "3ba543ff66964b608b531730ce22ebd1",
+   "nombre": "tp_mujer_leela",
+   "titulo": "Leela Idle",
+   "autor": "Lada.Repina",
+   "licencia": "CC Attribution"
   }
  ]
 }
