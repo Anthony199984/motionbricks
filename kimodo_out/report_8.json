@@ -1,11 +1,11 @@
 {
- "total_seconds": 178.9,
+ "total_seconds": 287.0,
  "jobs": [
   {
-   "name": "tp_abanicarse_2",
-   "response": "OK\t120\t30",
-   "seconds": 178.8,
-   "frames": 120
+   "name": "tp_taquero_cortar_servir_1",
+   "response": "OK\t180\t30",
+   "seconds": 286.9,
+   "frames": 180
   }
  ]
 }
