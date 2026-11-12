@@ -1,11 +1,11 @@
 {
- "total_seconds": 231.6,
+ "total_seconds": 107.4,
  "jobs": [
   {
-   "name": "tp_empujar_plato_1",
-   "response": "OK\t120\t30",
-   "seconds": 231.5,
-   "frames": 120
+   "name": "tp_pulgar_pecho_3",
+   "response": "OK\t90\t30",
+   "seconds": 107.3,
+   "frames": 90
   }
  ]
 }
