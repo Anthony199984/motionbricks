@@ -1,0 +1,20 @@
+{
+ "informe": "informe_ropa_busqueda1.json",
+ "catalogo": true,
+ "sketchfab_buscar": [
+  {"clave": "camiseta", "q": "t-shirt", "paginas": 4, "solo_objaverse": true, "max": 60},
+  {"clave": "camiseta2", "q": "tshirt clothing", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "camisa", "q": "shirt marvelous designer", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "polo", "q": "polo shirt", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "sudadera", "q": "hoodie", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "jeans", "q": "jeans", "paginas": 4, "solo_objaverse": true, "max": 60},
+  {"clave": "pantalon", "q": "pants trousers", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "pantalon_vestir", "q": "suit trousers", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "deportivo", "q": "sweatpants joggers", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "tenis", "q": "sneakers", "paginas": 4, "solo_objaverse": true, "max": 60},
+  {"clave": "tenis_scan", "q": "sneaker scan", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "zapato_vestir", "q": "leather dress shoes", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "botas", "q": "boots shoe", "paginas": 2, "solo_objaverse": true, "max": 40},
+  {"clave": "conjunto", "q": "clothing outfit marvelous designer", "paginas": 3, "solo_objaverse": true, "max": 50}
+ ]
+}
