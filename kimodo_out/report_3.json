@@ -1,11 +1,11 @@
 {
- "total_seconds": 214.0,
+ "total_seconds": 150.2,
  "jobs": [
   {
-   "name": "tp_panza_hambre_1",
-   "response": "OK\t120\t30",
-   "seconds": 213.9,
-   "frames": 120
+   "name": "tp_pulgar_pecho_1",
+   "response": "OK\t90\t30",
+   "seconds": 150.1,
+   "frames": 90
   }
  ]
 }
