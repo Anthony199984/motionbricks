@@ -1,0 +1,192 @@
+{
+ "camiseta_blanca": {
+  "src": "c_tshirt_blanca46k",
+  "titulo": "Tshirt",
+  "autor": "ajith98adithya",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-8c838d3ea1e8494396438b5f5dc78ad8",
+  "uid": "8c838d3ea1e8494396438b5f5dc78ad8",
+  "tela": "cotton_jersey"
+ },
+ "camiseta_gris": {
+  "src": "c_tshirt_oscura",
+  "titulo": "Tshirt",
+  "autor": "Tabbuso",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-5a21282b2e454d1696547148f617d3d0",
+  "uid": "5a21282b2e454d1696547148f617d3d0",
+  "tela": "jersey_melange"
+ },
+ "camiseta_rayas": {
+  "src": "c_tshirt_rayas",
+  "titulo": "t-shirt with stripes 4k textures",
+  "autor": "Rouker",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-644f965d96904b109aa441609fcdc1c6",
+  "uid": "644f965d96904b109aa441609fcdc1c6",
+  "tela": null
+ },
+ "polo_blanco": {
+  "src": "c_polo_blanco",
+  "titulo": "T-shirt Polo Lengan Pendek",
+  "autor": "Ikal.Ichwan",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-74c33d16b31346f1a46a55c3ec8e8a78",
+  "uid": "74c33d16b31346f1a46a55c3ec8e8a78",
+  "tela": "waffle_pique_cotton"
+ },
+ "polo_azul": {
+  "src": "c_polo_azul",
+  "titulo": "T-shirt Polo Lengan Pendek (Model 2)",
+  "autor": "Ikal.Ichwan",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-0ca5cefbaecd4ece83e8b2fe9d011225",
+  "uid": "0ca5cefbaecd4ece83e8b2fe9d011225",
+  "tela": "waffle_pique_cotton"
+ },
+ "camisa_blanca": {
+  "src": "c_camisa_md",
+  "titulo": "Shirt Test - Marvelous Designer",
+  "autor": "danielvicente97cesur",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-cdf1488a07a14bb481569f6c7690764b",
+  "uid": "cdf1488a07a14bb481569f6c7690764b",
+  "tela": "stretch_poplin"
+ },
+ "camisa_cuadros": {
+  "src": "c_camisa_cuadros",
+  "titulo": "Men's casual Shirt",
+  "autor": "dineshthennarasan",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-996c8d78905f433183ac368086580f82",
+  "uid": "996c8d78905f433183ac368086580f82",
+  "tela": null
+ },
+ "sudadera_capucha": {
+  "src": "c_hoodie_amarillo",
+  "titulo": "Hoodie",
+  "autor": "virtualpandora",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-97611a53e3b846f69e0655b210f72b2f",
+  "uid": "97611a53e3b846f69e0655b210f72b2f",
+  "tela": "knitted_fleece"
+ },
+ "jeans_azul": {
+  "src": "c_jeans_levis",
+  "titulo": "Levi's 501 Denim Pants",
+  "autor": "sivayuce",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-0ad985ca4f584b42bd2bfe4c009d4a46",
+  "uid": "0ad985ca4f584b42bd2bfe4c009d4a46",
+  "tela": null
+ },
+ "jeans_clasico": {
+  "src": "c_jeans_male",
+  "titulo": "Male jeans",
+  "autor": "assetfactory",
+  "licencia": "Free Standard",
+  "licencia_corta": "Sketchfab Standard (gratis)",
+  "url": "https://sketchfab.com/3d-models/none-42c9ae9b6b724735851cb72417c296c5",
+  "uid": "42c9ae9b6b724735851cb72417c296c5",
+  "tela": null
+ },
+ "pantalon_vestir": {
+  "src": "c_pant_costura",
+  "titulo": "Pant detailed sewing for factory",
+  "autor": "shawn0172181",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-396c9131c4124e269ec0d44a40b33540",
+  "uid": "396c9131c4124e269ec0d44a40b33540",
+  "tela": "poly_wool_herringbone"
+ },
+ "pantalon_deportivo": {
+  "src": "c_sweatpants",
+  "titulo": "Sweatpants",
+  "autor": "andrei.ilie",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-7d9d047ebe724ec1ad99f317bbed04d4",
+  "uid": "7d9d047ebe724ec1ad99f317bbed04d4",
+  "tela": "jogging_melange"
+ },
+ "tenis_lona": {
+  "src": "c_converse_chuck",
+  "titulo": "Converse Chuck Taylor All Stars Low Tops",
+  "autor": "Sbell_Reality3D",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-3af7027852de4c5f8600a91aa0bf8419",
+  "uid": "3af7027852de4c5f8600a91aa0bf8419",
+  "tela": null
+ },
+ "tenis_correr": {
+  "src": "c_asics",
+  "titulo": "Asics Shoe",
+  "autor": "terrielsimmons",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-fa6b5937408441f7aa17d652998d1ae7",
+  "uid": "fa6b5937408441f7aa17d652998d1ae7",
+  "tela": null
+ },
+ "tenis_blancos": {
+  "src": "c_common_projects",
+  "titulo": "Common Projects Achilles Low",
+  "autor": "alban",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-5d7cb3916c074068aa8b69e8225583bf",
+  "uid": "5d7cb3916c074068aa8b69e8225583bf",
+  "tela": null
+ },
+ "zapato_oxford": {
+  "src": "c_oxford",
+  "titulo": "oxford shoe",
+  "autor": "serhioh98",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-690fb7be9a3840e5be51d8f0b496b90d",
+  "uid": "690fb7be9a3840e5be51d8f0b496b90d",
+  "tela": null
+ },
+ "zapato_cuero_viejo": {
+  "src": "c_oxford_viejo",
+  "titulo": "Old Oxford Shoe",
+  "autor": "inciprocal.com",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-29a5ed053eab46a7af308215600985a2",
+  "uid": "29a5ed053eab46a7af308215600985a2",
+  "tela": null
+ },
+ "zapato_casual": {
+  "src": "c_ecco_cuero",
+  "titulo": "Ecco Long Lace",
+  "autor": "inciprocal.com",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-3f35498630084bcf83add23a2fec3063",
+  "uid": "3f35498630084bcf83add23a2fec3063",
+  "tela": null
+ },
+ "maniqui": {
+  "src": "m_male_body",
+  "titulo": "Male Body",
+  "autor": "Dessen",
+  "licencia": "CC Attribution",
+  "licencia_corta": "CC BY 4.0",
+  "url": "https://sketchfab.com/3d-models/none-15a422001834483c9750ce6117d59cc1",
+  "uid": "15a422001834483c9750ce6117d59cc1",
+  "tela": null
+ }
+}
