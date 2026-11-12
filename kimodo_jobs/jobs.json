@@ -1,86 +1,62 @@
 [
  {
-  "name": "tp_caminar_frotar_1",
-  "frames": 150,
-  "seed": 43001,
-  "prompt": "A person walks forward four steps eagerly while rubbing the hands together in front of the chest, then stops."
- },
- {
-  "name": "tp_caminar_frotar_2",
-  "frames": 150,
-  "seed": 43002,
-  "prompt": "A person walks forward four steps eagerly while rubbing the hands together in front of the chest, then stops."
- },
- {
-  "name": "tp_caminar_frotar_3",
-  "frames": 150,
-  "seed": 43003,
-  "prompt": "A person walks forward four steps eagerly while rubbing the hands together in front of the chest, then stops."
- },
- {
-  "name": "tp_panza_hambre_1",
+  "name": "tp_goku_frente_1",
   "frames": 120,
-  "seed": 43004,
-  "prompt": "A person stands, puts the right hand on the stomach, looks up to the side and slumps the shoulders, sad and hungry."
+  "seed": 44001,
+  "prompt": "A person stands still, quickly raises the right hand and presses the index and middle fingers against the center of the forehead, closes the eyes in concentration and holds the pose."
  },
  {
-  "name": "tp_panza_hambre_2",
+  "name": "tp_goku_frente_2",
   "frames": 120,
-  "seed": 43005,
-  "prompt": "A person stands, puts the right hand on the stomach, looks up to the side and slumps the shoulders, sad and hungry."
+  "seed": 44002,
+  "prompt": "A person stands still, quickly raises the right hand and presses the index and middle fingers against the center of the forehead, closes the eyes in concentration and holds the pose."
  },
  {
-  "name": "tp_empujar_plato_1",
+  "name": "tp_goku_frente_3",
   "frames": 120,
-  "seed": 43006,
-  "prompt": "A person stands at a counter, looks down nauseous and slowly pushes something away on the counter with the right hand, then leans back."
+  "seed": 44003,
+  "prompt": "A person stands still, quickly raises the right hand and presses the index and middle fingers against the center of the forehead, closes the eyes in concentration and holds the pose."
  },
  {
-  "name": "tp_empujar_plato_2",
-  "frames": 120,
-  "seed": 43007,
-  "prompt": "A person stands at a counter, looks down nauseous and slowly pushes something away on the counter with the right hand, then leans back."
- },
- {
-  "name": "tp_bolsa_soltar_1",
-  "frames": 150,
-  "seed": 43008,
-  "prompt": "A person walks forward carrying a bag in the right hand, stops suddenly in shock and drops the bag, staring ahead."
- },
- {
-  "name": "tp_bolsa_soltar_2",
-  "frames": 150,
-  "seed": 43009,
-  "prompt": "A person walks forward carrying a bag in the right hand, stops suddenly in shock and drops the bag, staring ahead."
- },
- {
-  "name": "tp_bolsa_soltar_3",
-  "frames": 150,
-  "seed": 43010,
-  "prompt": "A person walks forward carrying a bag in the right hand, stops suddenly in shock and drops the bag, staring ahead."
- },
- {
-  "name": "tp_senalar_frente_1",
+  "name": "tp_pulgar_pecho_1",
   "frames": 90,
-  "seed": 43011,
-  "prompt": "A person stands still and slowly points forward with the right index finger in disbelief."
+  "seed": 44004,
+  "prompt": "A person stands facing forward and gives a thumbs up with the right hand in front of the chest, smiling, then lowers the hand."
  },
  {
-  "name": "tp_senalar_frente_2",
+  "name": "tp_pulgar_pecho_2",
   "frames": 90,
-  "seed": 43012,
-  "prompt": "A person stands still and slowly points forward with the right index finger in disbelief."
+  "seed": 44005,
+  "prompt": "A person stands facing forward and gives a thumbs up with the right hand in front of the chest, smiling, then lowers the hand."
  },
  {
-  "name": "tp_devolver_comida_1",
-  "frames": 120,
-  "seed": 43013,
-  "prompt": "A person stands and hands an object forward to someone with the right hand, then turns away quickly."
+  "name": "tp_pulgar_pecho_3",
+  "frames": 90,
+  "seed": 44006,
+  "prompt": "A person stands facing forward and gives a thumbs up with the right hand in front of the chest, smiling, then lowers the hand."
  },
  {
-  "name": "tp_devolver_comida_2",
+  "name": "tp_comer_detenerse_1",
   "frames": 120,
-  "seed": 43014,
-  "prompt": "A person stands and hands an object forward to someone with the right hand, then turns away quickly."
+  "seed": 44007,
+  "prompt": "A person stands holding food in the left hand, raises it toward the mouth, stops just before biting, looks sick and slowly lowers it away from the face."
+ },
+ {
+  "name": "tp_comer_detenerse_2",
+  "frames": 120,
+  "seed": 44008,
+  "prompt": "A person stands holding food in the left hand, raises it toward the mouth, stops just before biting, looks sick and slowly lowers it away from the face."
+ },
+ {
+  "name": "tp_mirar_alrededor_feliz_1",
+  "frames": 120,
+  "seed": 44009,
+  "prompt": "A person stands and happily looks around to the left and to the right, amazed, with the hands slightly open."
+ },
+ {
+  "name": "tp_mirar_alrededor_feliz_2",
+  "frames": 120,
+  "seed": 44010,
+  "prompt": "A person stands and happily looks around to the left and to the right, amazed, with the hands slightly open."
  }
 ]
