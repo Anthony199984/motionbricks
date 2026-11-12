@@ -1,10 +1,10 @@
 {
- "total_seconds": 248.0,
+ "total_seconds": 181.9,
  "jobs": [
   {
-   "name": "tp_empujar_plato_2",
+   "name": "tp_comer_detenerse_1",
    "response": "OK\t120\t30",
-   "seconds": 247.9,
+   "seconds": 181.8,
    "frames": 120
   }
  ]
