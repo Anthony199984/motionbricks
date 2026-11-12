@@ -1,11 +1,11 @@
 {
- "total_seconds": 210.5,
+ "total_seconds": 180.8,
  "jobs": [
   {
-   "name": "tp_caminar_frotar_3",
-   "response": "OK\t150\t30",
-   "seconds": 210.4,
-   "frames": 150
+   "name": "tp_goku_frente_3",
+   "response": "OK\t120\t30",
+   "seconds": 180.7,
+   "frames": 120
   }
  ]
 }
