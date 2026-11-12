@@ -1,11 +1,11 @@
 {
- "total_seconds": 210.8,
+ "total_seconds": 128.1,
  "jobs": [
   {
-   "name": "tp_bolsa_soltar_3",
-   "response": "OK\t150\t30",
-   "seconds": 210.7,
-   "frames": 150
+   "name": "tp_mirar_alrededor_feliz_2",
+   "response": "OK\t120\t30",
+   "seconds": 128.0,
+   "frames": 120
   }
  ]
 }
