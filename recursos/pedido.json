@@ -1,20 +1,26 @@
 {
- "informe": "informe_ropa_busqueda1.json",
- "catalogo": true,
+ "informe": "informe_ropa_busqueda2.json",
+ "polyhaven": [
+  {"id": "denim_fabric", "res": "2k"}, {"id": "denim_fabric_03", "res": "2k"}, {"id": "denim_fabric_05", "res": "2k"},
+  {"id": "cotton_jersey", "res": "2k"}, {"id": "jersey_melange", "res": "2k"}, {"id": "jogging_melange", "res": "2k"},
+  {"id": "waffle_pique_cotton", "res": "2k"}, {"id": "poly_wool_herringbone", "res": "2k"}, {"id": "stretch_poplin", "res": "2k"},
+  {"id": "terlenka", "res": "2k"}, {"id": "knitted_fleece", "res": "2k"}, {"id": "rough_linen", "res": "2k"},
+  {"id": "leather_white", "res": "2k"}, {"id": "brown_leather", "res": "2k"}
+ ],
  "sketchfab_buscar": [
-  {"clave": "camiseta", "q": "t-shirt", "paginas": 4, "solo_objaverse": true, "max": 60},
-  {"clave": "camiseta2", "q": "tshirt clothing", "paginas": 3, "solo_objaverse": true, "max": 50},
-  {"clave": "camisa", "q": "shirt marvelous designer", "paginas": 3, "solo_objaverse": true, "max": 50},
-  {"clave": "polo", "q": "polo shirt", "paginas": 3, "solo_objaverse": true, "max": 50},
-  {"clave": "sudadera", "q": "hoodie", "paginas": 3, "solo_objaverse": true, "max": 50},
-  {"clave": "jeans", "q": "jeans", "paginas": 4, "solo_objaverse": true, "max": 60},
-  {"clave": "pantalon", "q": "pants trousers", "paginas": 3, "solo_objaverse": true, "max": 50},
-  {"clave": "pantalon_vestir", "q": "suit trousers", "paginas": 3, "solo_objaverse": true, "max": 50},
-  {"clave": "deportivo", "q": "sweatpants joggers", "paginas": 3, "solo_objaverse": true, "max": 50},
-  {"clave": "tenis", "q": "sneakers", "paginas": 4, "solo_objaverse": true, "max": 60},
-  {"clave": "tenis_scan", "q": "sneaker scan", "paginas": 3, "solo_objaverse": true, "max": 50},
-  {"clave": "zapato_vestir", "q": "leather dress shoes", "paginas": 3, "solo_objaverse": true, "max": 50},
-  {"clave": "botas", "q": "boots shoe", "paginas": 2, "solo_objaverse": true, "max": 40},
-  {"clave": "conjunto", "q": "clothing outfit marvelous designer", "paginas": 3, "solo_objaverse": true, "max": 50}
+  {"clave": "zapato_oxford", "q": "oxford shoe", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "zapato_derby", "q": "men shoe leather scan", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "mocasin", "q": "loafer shoe", "paginas": 2, "solo_objaverse": true, "max": 40},
+  {"clave": "chinos", "q": "chino pants", "paginas": 2, "solo_objaverse": true, "max": 40},
+  {"clave": "pant_vestir2", "q": "dress pants men", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "jogger", "q": "jogger pants", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "trackpants", "q": "track pants", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "sweatpants", "q": "sweatpants", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "camisa_vestir", "q": "dress shirt", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "camisa_botones", "q": "button shirt men", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "maniqui", "q": "male mannequin", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "maniqui2", "q": "base mesh male body", "paginas": 3, "solo_objaverse": true, "max": 50},
+  {"clave": "shorts", "q": "shorts men", "paginas": 2, "solo_objaverse": true, "max": 40},
+  {"clave": "camiseta_tirantes", "q": "tank top", "paginas": 2, "solo_objaverse": true, "max": 40}
  ]
 }
