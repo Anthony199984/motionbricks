@@ -1,0 +1,1809 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/zapato_oxford/29a5ed053eab46a7af308215600985a2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zapato_oxford/690fb7be9a3840e5be51d8f0b496b90d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zapato_oxford/a2011031b9e74db0971d78417c170876.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zapato_derby/57113d79a15b409986182e304f303520.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zapato_derby/e0deceebac07446a91b4db61cd7e0db9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mocasin/50b7cf68173541c1a16b0dfaf39911af.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mocasin/96a6dea700564a34a514fb085774fc09.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/jogger/1f6f7318f9364456b8d58c1eaf71762b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sweatpants/7d9d047ebe724ec1ad99f317bbed04d4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sweatpants/a24fcb0d7d754296802027293042714d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/sweatpants/c7116eb769634822b3c189f352d30451.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/1f10c47b2a1c47f5bbf75f5016ca4b68.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/fdad34105f4c47f598528c5252a4bed0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/b84944d10a114c158e0573745b040e9d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/909d45317d504a99b4feb25b620a5625.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/1815c01895bd4538bc0bd05c3394698d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/a6beafb75da24c7aa36c4cd95da7fd4a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/9a9a750560224249b2d5d420037fbbc1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/3e941bd17bc146c981f8d66300b45989.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/097978a67b424385bf335ee3c6095065.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/9624eb32900549d6a0ee735aec6e53b4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/f5771b9e243c4b9ea40091ac5dae2a48.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/b7ba2e1507354f939b4dcd45aa6b79e6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/05a6b459d7d44a3e8d1e3696b2d377e6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/2800741740204267be10aca81521505a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/e42b0ad5a9e744d0907b376257fdc4db.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/24db154842a84717bfecea3ace0f7cfa.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/74a4eaa958d14604822266ae768b3a60.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/875f77cefe7246c8951e2a46f4201066.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/eb84de111a3445c7b54de8692ca0c7d5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camisa_vestir/6886ad8def844c3d886e617cf84decde.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/077bbe07d52f44c18ef9f30422d50ee5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/3d9fadc51d1f41168a970a3c34b81e7b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/89318577f3464e368b2a3507b22c3af1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/2f67c4384e7f4a5b86d84ae9199b7d3b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/3cb6f00cbbf14768b9021f02b1e294fa.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/06f3a9493734414c872c3c4095999787.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/e5f37c5f821948628c5645a1d41b2afc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/07aa112ed4be43f8ace4e1b0cb30e2f5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/a23570bd843c42149fec144ec0620e7f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/maniqui/77910a3722124bf398a3c3030bc0eac4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/786174f66fca4ac6a0a4a5aec6a09188.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/4862c3f975244d1c98dba46c4ff2df4c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/eb9daa49948f47169b3670169c042599.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/41e10234ae604060964d137480e7f996.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/2dfcc0a2e9a84f49b3147f53889e83e7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/0101dd9d12ea475e972663cbd848a960.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/76c19b9ffd214c038de0fdd741b21b83.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/e457317734804bcf9262b92dd42db470.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/64a5b63dac174affa2f65dc15ed61e3c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/b7c03b34f43c4e1995abcb224ab3dc7e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/b75b6155d1ad4e588bb093ddef42dcf3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/294cefd4067a4b4fb9a13dda6529385d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/e2a0ff3ee45c4854997c14f6365d6b47.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/526e99936df14d48864cd53bf3d26b65.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/9311f4f8fa1a4fe4bb0027ff7e8fd795.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/15a422001834483c9750ce6117d59cc1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/3281a1cffd804f1488b4ec0bbb63c164.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/b93d00ae142449c8860ef79755a1c66c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/244061a0323b4d2e9c60d9aba374c937.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/0954aa04666d45aab9633009318f7b66.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/9a6fd72aa31540f2a6a8e8d236778a2f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/f408affa182f45b58d0362e3ee3525a8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/9893488f355d4e13934f0822b8bfe038.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/5196847b14934b97a264248d1f6c4431.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/47acc754a2754d73902dab2ec46fd416.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/f5e5825af43c4a8aad289c437d2da923.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/862c7fdb00cb4c8ba572ead557536cc4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/ce0604608f96477a875569ff28e15889.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/5d91d2f079814476b9d471e7a09a5c39.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/c6c3dd15792c4b768f087f0831ad249d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/601503e9c56b4b5eba76847128d31f6f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/0f9579e2d298480aa26a0d9fed9307a9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/7e27f8c7c3fa4657865011a683927e4c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/5892390b0f2f49fab9b066c5fc8c3c3a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/3e404fcdaad04f478d6e791f69a008ef.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/7811483814614feb82b57a72c0361c0e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/ab0a24273f5e4605af6ad8a7e6010467.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/ef348e16f0d745699119826ad83319a3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/161033a75b8c4db6a8edac74014ed2da.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/6231f9b4d07f4290978f1f5bd570d669.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui2/53147216b2e345f6bc5716ae46358735.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/shorts/515aecbda90a46aba46bec0955db0bcd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camiseta_tirantes/91f495435f624d8b97a768f692aa6ce9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/camiseta_tirantes/ed875358ba4d458d9761ada7821497b7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camiseta_tirantes/a4760d3a61f0425c97353592e6cb3589.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/camiseta_tirantes/212b2120338a4023a834d0c0081b406d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camiseta_tirantes/4802682e742f4985b8a1f1a0ef2badf2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/camiseta_tirantes/d6b2561de39f423f9c7a2e7944485beb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camiseta_tirantes/33543ee3b994462a8b2bca9b67b2dc0a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camiseta_tirantes/e7a03de4e430450697f06884e40b927c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camiseta_tirantes/0ec358be43cc4194bf28e573f727fe35.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camiseta_tirantes/ea3594f118d64282b759000e66b5695d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/camiseta_tirantes/fa8ed58423bb4842be8f4d5c06433e1c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/camiseta_tirantes/33123d7e114241008c35be72db5c1876.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "texturas/denim_fabric/denim_fabric_Diffuse_2k.jpg",
+   "mb": 3.8
+  },
+  {
+   "destino": "texturas/denim_fabric/denim_fabric_nor_gl_2k.jpg",
+   "mb": 2.01
+  },
+  {
+   "destino": "texturas/denim_fabric/denim_fabric_Rough_2k.jpg",
+   "mb": 2.12
+  },
+  {
+   "destino": "texturas/denim_fabric/denim_fabric_AO_2k.jpg",
+   "mb": 1.48
+  },
+  {
+   "destino": "texturas/denim_fabric/denim_fabric_Displacement_2k.jpg",
+   "mb": 0.34
+  },
+  {
+   "destino": "texturas/denim_fabric/denim_fabric_arm_2k.jpg",
+   "mb": 1.2
+  },
+  {
+   "destino": "texturas/denim_fabric_03/denim_fabric_03_Diffuse_2k.jpg",
+   "mb": 4.16
+  },
+  {
+   "destino": "texturas/denim_fabric_03/denim_fabric_03_nor_gl_2k.jpg",
+   "mb": 4.03
+  },
+  {
+   "destino": "texturas/denim_fabric_03/denim_fabric_03_Rough_2k.jpg",
+   "mb": 3.59
+  },
+  {
+   "destino": "texturas/denim_fabric_03/denim_fabric_03_AO_2k.jpg",
+   "mb": 2.55
+  },
+  {
+   "destino": "texturas/denim_fabric_03/denim_fabric_03_Displacement_2k.jpg",
+   "mb": 3.04
+  },
+  {
+   "destino": "texturas/denim_fabric_03/denim_fabric_03_arm_2k.jpg",
+   "mb": 4.45
+  },
+  {
+   "destino": "texturas/denim_fabric_05/denim_fabric_05_Diffuse_2k.jpg",
+   "mb": 3.65
+  },
+  {
+   "destino": "texturas/denim_fabric_05/denim_fabric_05_nor_gl_2k.jpg",
+   "mb": 4.61
+  },
+  {
+   "destino": "texturas/denim_fabric_05/denim_fabric_05_Rough_2k.jpg",
+   "mb": 4.18
+  },
+  {
+   "destino": "texturas/denim_fabric_05/denim_fabric_05_AO_2k.jpg",
+   "mb": 2.84
+  },
+  {
+   "destino": "texturas/denim_fabric_05/denim_fabric_05_Displacement_2k.jpg",
+   "mb": 3.39
+  },
+  {
+   "destino": "texturas/denim_fabric_05/denim_fabric_05_arm_2k.jpg",
+   "mb": 4.26
+  },
+  {
+   "destino": "texturas/cotton_jersey/cotton_jersey_Diffuse_2k.jpg",
+   "mb": 2.87
+  },
+  {
+   "destino": "texturas/cotton_jersey/cotton_jersey_nor_gl_2k.jpg",
+   "mb": 3.15
+  },
+  {
+   "destino": "texturas/cotton_jersey/cotton_jersey_Rough_2k.jpg",
+   "mb": 3.85
+  },
+  {
+   "destino": "texturas/cotton_jersey/cotton_jersey_AO_2k.jpg",
+   "mb": 2.94
+  },
+  {
+   "destino": "texturas/cotton_jersey/cotton_jersey_Displacement_2k.jpg",
+   "mb": 3.31
+  },
+  {
+   "destino": "texturas/cotton_jersey/cotton_jersey_arm_2k.jpg",
+   "mb": 4.4
+  },
+  {
+   "destino": "texturas/jersey_melange/jersey_melange_Diffuse_2k.jpg",
+   "mb": 4.34
+  },
+  {
+   "destino": "texturas/jersey_melange/jersey_melange_nor_gl_2k.jpg",
+   "mb": 3.79
+  },
+  {
+   "destino": "texturas/jersey_melange/jersey_melange_Rough_2k.jpg",
+   "mb": 3.77
+  },
+  {
+   "destino": "texturas/jersey_melange/jersey_melange_AO_2k.jpg",
+   "mb": 2.84
+  },
+  {
+   "destino": "texturas/jersey_melange/jersey_melange_Displacement_2k.jpg",
+   "mb": 2.26
+  },
+  {
+   "destino": "texturas/jersey_melange/jersey_melange_arm_2k.jpg",
+   "mb": 4.54
+  },
+  {
+   "destino": "texturas/jogging_melange/jogging_melange_Diffuse_2k.jpg",
+   "mb": 3.33
+  },
+  {
+   "destino": "texturas/jogging_melange/jogging_melange_nor_gl_2k.jpg",
+   "mb": 3.98
+  },
+  {
+   "destino": "texturas/jogging_melange/jogging_melange_Rough_2k.jpg",
+   "mb": 3.91
+  },
+  {
+   "destino": "texturas/jogging_melange/jogging_melange_AO_2k.jpg",
+   "mb": 2.42
+  },
+  {
+   "destino": "texturas/jogging_melange/jogging_melange_Displacement_2k.jpg",
+   "mb": 2.97
+  },
+  {
+   "destino": "texturas/jogging_melange/jogging_melange_arm_2k.jpg",
+   "mb": 4.5
+  },
+  {
+   "destino": "texturas/waffle_pique_cotton/waffle_pique_cotton_Diffuse_2k.jpg",
+   "mb": 3.11
+  },
+  {
+   "destino": "texturas/waffle_pique_cotton/waffle_pique_cotton_nor_gl_2k.jpg",
+   "mb": 3.26
+  },
+  {
+   "destino": "texturas/waffle_pique_cotton/waffle_pique_cotton_Rough_2k.jpg",
+   "mb": 3.37
+  },
+  {
+   "destino": "texturas/waffle_pique_cotton/waffle_pique_cotton_AO_2k.jpg",
+   "mb": 2.18
+  },
+  {
+   "destino": "texturas/waffle_pique_cotton/waffle_pique_cotton_Displacement_2k.jpg",
+   "mb": 1.68
+  },
+  {
+   "destino": "texturas/waffle_pique_cotton/waffle_pique_cotton_arm_2k.jpg",
+   "mb": 4.1
+  },
+  {
+   "destino": "texturas/poly_wool_herringbone/poly_wool_herringbone_Diffuse_2k.jpg",
+   "mb": 3.48
+  },
+  {
+   "destino": "texturas/poly_wool_herringbone/poly_wool_herringbone_nor_gl_2k.jpg",
+   "mb": 3.86
+  },
+  {
+   "destino": "texturas/poly_wool_herringbone/poly_wool_herringbone_Rough_2k.jpg",
+   "mb": 3.5
+  },
+  {
+   "destino": "texturas/poly_wool_herringbone/poly_wool_herringbone_AO_2k.jpg",
+   "mb": 3.14
+  },
+  {
+   "destino": "texturas/poly_wool_herringbone/poly_wool_herringbone_Displacement_2k.jpg",
+   "mb": 2.74
+  },
+  {
+   "destino": "texturas/poly_wool_herringbone/poly_wool_herringbone_arm_2k.jpg",
+   "mb": 4.96
+  },
+  {
+   "destino": "texturas/stretch_poplin/stretch_poplin_Diffuse_2k.jpg",
+   "mb": 2.52
+  },
+  {
+   "destino": "texturas/stretch_poplin/stretch_poplin_nor_gl_2k.jpg",
+   "mb": 3.03
+  },
+  {
+   "destino": "texturas/stretch_poplin/stretch_poplin_Rough_2k.jpg",
+   "mb": 3.29
+  },
+  {
+   "destino": "texturas/stretch_poplin/stretch_poplin_AO_2k.jpg",
+   "mb": 3.13
+  },
+  {
+   "destino": "texturas/stretch_poplin/stretch_poplin_Displacement_2k.jpg",
+   "mb": 3.24
+  },
+  {
+   "destino": "texturas/stretch_poplin/stretch_poplin_arm_2k.jpg",
+   "mb": 3.69
+  },
+  {
+   "destino": "texturas/terlenka/terlenka_Diffuse_2k.jpg",
+   "mb": 3.27
+  },
+  {
+   "destino": "texturas/terlenka/terlenka_nor_gl_2k.jpg",
+   "mb": 3.92
+  },
+  {
+   "destino": "texturas/terlenka/terlenka_Rough_2k.jpg",
+   "mb": 3.88
+  },
+  {
+   "destino": "texturas/terlenka/terlenka_AO_2k.jpg",
+   "mb": 2.92
+  },
+  {
+   "destino": "texturas/terlenka/terlenka_Displacement_2k.jpg",
+   "mb": 3.5
+  },
+  {
+   "destino": "texturas/terlenka/terlenka_arm_2k.jpg",
+   "mb": 4.38
+  },
+  {
+   "destino": "texturas/knitted_fleece/knitted_fleece_Diffuse_2k.jpg",
+   "mb": 3.37
+  },
+  {
+   "destino": "texturas/knitted_fleece/knitted_fleece_nor_gl_2k.jpg",
+   "mb": 4.23
+  },
+  {
+   "destino": "texturas/knitted_fleece/knitted_fleece_Rough_2k.jpg",
+   "mb": 4.02
+  },
+  {
+   "destino": "texturas/knitted_fleece/knitted_fleece_AO_2k.jpg",
+   "mb": 2.81
+  },
+  {
+   "destino": "texturas/knitted_fleece/knitted_fleece_Displacement_2k.jpg",
+   "mb": 2.58
+  },
+  {
+   "destino": "texturas/knitted_fleece/knitted_fleece_arm_2k.jpg",
+   "mb": 5.02
+  },
+  {
+   "destino": "texturas/rough_linen/rough_linen_Diffuse_2k.jpg",
+   "mb": 3.44
+  },
+  {
+   "destino": "texturas/rough_linen/rough_linen_nor_gl_2k.jpg",
+   "mb": 3.67
+  },
+  {
+   "destino": "texturas/rough_linen/rough_linen_Rough_2k.jpg",
+   "mb": 4.44
+  },
+  {
+   "destino": "texturas/rough_linen/rough_linen_AO_2k.jpg",
+   "mb": 3.79
+  },
+  {
+   "destino": "texturas/rough_linen/rough_linen_Displacement_2k.jpg",
+   "mb": 2.77
+  },
+  {
+   "destino": "texturas/rough_linen/rough_linen_arm_2k.jpg",
+   "mb": 4.95
+  },
+  {
+   "destino": "texturas/leather_white/leather_white_Diffuse_2k.jpg",
+   "mb": 3.3
+  },
+  {
+   "destino": "texturas/leather_white/leather_white_nor_gl_2k.jpg",
+   "mb": 3.03
+  },
+  {
+   "destino": "texturas/leather_white/leather_white_Rough_2k.jpg",
+   "mb": 3.0
+  },
+  {
+   "destino": "texturas/leather_white/leather_white_AO_2k.jpg",
+   "mb": 3.61
+  },
+  {
+   "destino": "texturas/leather_white/leather_white_Displacement_2k.jpg",
+   "mb": 2.66
+  },
+  {
+   "destino": "texturas/leather_white/leather_white_arm_2k.jpg",
+   "mb": 3.93
+  },
+  {
+   "destino": "texturas/brown_leather/brown_leather_Diffuse_2k.jpg",
+   "mb": 2.04
+  },
+  {
+   "destino": "texturas/brown_leather/brown_leather_nor_gl_2k.jpg",
+   "mb": 2.89
+  },
+  {
+   "destino": "texturas/brown_leather/brown_leather_Rough_2k.jpg",
+   "mb": 2.67
+  },
+  {
+   "destino": "texturas/brown_leather/brown_leather_AO_2k.jpg",
+   "mb": 1.47
+  },
+  {
+   "destino": "texturas/brown_leather/brown_leather_Displacement_2k.jpg",
+   "mb": 0.98
+  },
+  {
+   "destino": "texturas/brown_leather/brown_leather_arm_2k.jpg",
+   "mb": 1.78
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "zapato_oxford": [
+   {
+    "uid": "29a5ed053eab46a7af308215600985a2",
+    "nombre": "Old Oxford Shoe",
+    "autor": "inciprocal.com",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 19982,
+    "url": "https://sketchfab.com/3d-models/none-29a5ed053eab46a7af308215600985a2",
+    "miniatura": "miniaturas/zapato_oxford/29a5ed053eab46a7af308215600985a2.jpg"
+   },
+   {
+    "uid": "690fb7be9a3840e5be51d8f0b496b90d",
+    "nombre": "oxford shoe",
+    "autor": "serhioh98",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11412,
+    "url": "https://sketchfab.com/3d-models/none-690fb7be9a3840e5be51d8f0b496b90d",
+    "miniatura": "miniaturas/zapato_oxford/690fb7be9a3840e5be51d8f0b496b90d.jpg"
+   },
+   {
+    "uid": "a2011031b9e74db0971d78417c170876",
+    "nombre": "Late 19th Century Men's Shoes",
+    "autor": "capmsu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 345906,
+    "url": "https://sketchfab.com/3d-models/none-a2011031b9e74db0971d78417c170876",
+    "miniatura": "miniaturas/zapato_oxford/a2011031b9e74db0971d78417c170876.jpg"
+   }
+  ],
+  "zapato_derby": [
+   {
+    "uid": "57113d79a15b409986182e304f303520",
+    "nombre": "Worn Air Ryder",
+    "autor": "inciprocal.com",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 39970,
+    "url": "https://sketchfab.com/3d-models/none-57113d79a15b409986182e304f303520",
+    "miniatura": "miniaturas/zapato_derby/57113d79a15b409986182e304f303520.jpg"
+   },
+   {
+    "uid": "e0deceebac07446a91b4db61cd7e0db9",
+    "nombre": "Day 305: Shoe Tester (1933), SF Exploratorium",
+    "autor": "edemaistre",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 213581,
+    "url": "https://sketchfab.com/3d-models/none-e0deceebac07446a91b4db61cd7e0db9",
+    "miniatura": "miniaturas/zapato_derby/e0deceebac07446a91b4db61cd7e0db9.jpg"
+   }
+  ],
+  "mocasin": [
+   {
+    "uid": "50b7cf68173541c1a16b0dfaf39911af",
+    "nombre": "Shoes loafers",
+    "autor": "Root_3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4832,
+    "url": "https://sketchfab.com/3d-models/none-50b7cf68173541c1a16b0dfaf39911af",
+    "miniatura": "miniaturas/mocasin/50b7cf68173541c1a16b0dfaf39911af.jpg"
+   },
+   {
+    "uid": "96a6dea700564a34a514fb085774fc09",
+    "nombre": "Shoes Loafers (A6-2)",
+    "autor": "eeelabvisual",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3660,
+    "url": "https://sketchfab.com/3d-models/none-96a6dea700564a34a514fb085774fc09",
+    "miniatura": "miniaturas/mocasin/96a6dea700564a34a514fb085774fc09.jpg"
+   }
+  ],
+  "chinos": [],
+  "pant_vestir2": [],
+  "jogger": [
+   {
+    "uid": "1f6f7318f9364456b8d58c1eaf71762b",
+    "nombre": "Dillard, Darren Joggers",
+    "autor": "darrendillard1",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3514,
+    "url": "https://sketchfab.com/3d-models/none-1f6f7318f9364456b8d58c1eaf71762b",
+    "miniatura": "miniaturas/jogger/1f6f7318f9364456b8d58c1eaf71762b.jpg"
+   }
+  ],
+  "trackpants": [],
+  "sweatpants": [
+   {
+    "uid": "7d9d047ebe724ec1ad99f317bbed04d4",
+    "nombre": "Sweatpants",
+    "autor": "andrei.ilie",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 368506,
+    "url": "https://sketchfab.com/3d-models/none-7d9d047ebe724ec1ad99f317bbed04d4",
+    "miniatura": "miniaturas/sweatpants/7d9d047ebe724ec1ad99f317bbed04d4.jpg"
+   },
+   {
+    "uid": "a24fcb0d7d754296802027293042714d",
+    "nombre": "HP Sweatpants",
+    "autor": "maxrenn",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 118604,
+    "url": "https://sketchfab.com/3d-models/none-a24fcb0d7d754296802027293042714d",
+    "miniatura": "miniaturas/sweatpants/a24fcb0d7d754296802027293042714d.jpg"
+   },
+   {
+    "uid": "c7116eb769634822b3c189f352d30451",
+    "nombre": "heated pants",
+    "autor": "victoriadunn001",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 478,
+    "url": "https://sketchfab.com/3d-models/none-c7116eb769634822b3c189f352d30451",
+    "miniatura": "miniaturas/sweatpants/c7116eb769634822b3c189f352d30451.jpg"
+   }
+  ],
+  "camisa_vestir": [
+   {
+    "uid": "1f10c47b2a1c47f5bbf75f5016ca4b68",
+    "nombre": "Dress of a poor woman - Victorian era",
+    "autor": "tijerin_art",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 62502,
+    "url": "https://sketchfab.com/3d-models/none-1f10c47b2a1c47f5bbf75f5016ca4b68",
+    "miniatura": "miniaturas/camisa_vestir/1f10c47b2a1c47f5bbf75f5016ca4b68.jpg"
+   },
+   {
+    "uid": "fdad34105f4c47f598528c5252a4bed0",
+    "nombre": "Talking Tina 2.0 (Kawaii Girl PC)",
+    "autor": "artofant",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22006,
+    "url": "https://sketchfab.com/3d-models/none-fdad34105f4c47f598528c5252a4bed0",
+    "miniatura": "miniaturas/camisa_vestir/fdad34105f4c47f598528c5252a4bed0.jpg"
+   },
+   {
+    "uid": "b84944d10a114c158e0573745b040e9d",
+    "nombre": "Ray II LOD1(Each Suit <40k Tris) Showcase",
+    "autor": "chambersu1996",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 154780,
+    "url": "https://sketchfab.com/3d-models/none-b84944d10a114c158e0573745b040e9d",
+    "miniatura": "miniaturas/camisa_vestir/b84944d10a114c158e0573745b040e9d.jpg"
+   },
+   {
+    "uid": "909d45317d504a99b4feb25b620a5625",
+    "nombre": "black dress outfit (top and shorts)",
+    "autor": "ZahraAmini",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 30427,
+    "url": "https://sketchfab.com/3d-models/none-909d45317d504a99b4feb25b620a5625",
+    "miniatura": "miniaturas/camisa_vestir/909d45317d504a99b4feb25b620a5625.jpg"
+   },
+   {
+    "uid": "1815c01895bd4538bc0bd05c3394698d",
+    "nombre": "Standard T-shirt",
+    "autor": "Badboy17Aiden",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 362067,
+    "url": "https://sketchfab.com/3d-models/none-1815c01895bd4538bc0bd05c3394698d",
+    "miniatura": "miniaturas/camisa_vestir/1815c01895bd4538bc0bd05c3394698d.jpg"
+   },
+   {
+    "uid": "a6beafb75da24c7aa36c4cd95da7fd4a",
+    "nombre": "Dress (Modern T- Shirt ;) ) Green Woman",
+    "autor": "samsikua",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3207,
+    "url": "https://sketchfab.com/3d-models/none-a6beafb75da24c7aa36c4cd95da7fd4a",
+    "miniatura": "miniaturas/camisa_vestir/a6beafb75da24c7aa36c4cd95da7fd4a.jpg"
+   },
+   {
+    "uid": "9a9a750560224249b2d5d420037fbbc1",
+    "nombre": "Combat Shirt",
+    "autor": "mr.alex7007",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10070,
+    "url": "https://sketchfab.com/3d-models/none-9a9a750560224249b2d5d420037fbbc1",
+    "miniatura": "miniaturas/camisa_vestir/9a9a750560224249b2d5d420037fbbc1.jpg"
+   },
+   {
+    "uid": "3e941bd17bc146c981f8d66300b45989",
+    "nombre": "Beautiful Red Dress",
+    "autor": "samsikua",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4089,
+    "url": "https://sketchfab.com/3d-models/none-3e941bd17bc146c981f8d66300b45989",
+    "miniatura": "miniaturas/camisa_vestir/3e941bd17bc146c981f8d66300b45989.jpg"
+   },
+   {
+    "uid": "097978a67b424385bf335ee3c6095065",
+    "nombre": "Leather Belt OBJ",
+    "autor": "O.Che",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 903606,
+    "url": "https://sketchfab.com/3d-models/none-097978a67b424385bf335ee3c6095065",
+    "miniatura": "miniaturas/camisa_vestir/097978a67b424385bf335ee3c6095065.jpg"
+   },
+   {
+    "uid": "9624eb32900549d6a0ee735aec6e53b4",
+    "nombre": "Color Blocked Shirt",
+    "autor": "Shift4cube",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 25844,
+    "url": "https://sketchfab.com/3d-models/none-9624eb32900549d6a0ee735aec6e53b4",
+    "miniatura": "miniaturas/camisa_vestir/9624eb32900549d6a0ee735aec6e53b4.jpg"
+   },
+   {
+    "uid": "f5771b9e243c4b9ea40091ac5dae2a48",
+    "nombre": "Advanced Character Art - Sequin Dress Shirt",
+    "autor": "Greyonix",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5997,
+    "url": "https://sketchfab.com/3d-models/none-f5771b9e243c4b9ea40091ac5dae2a48",
+    "miniatura": "miniaturas/camisa_vestir/f5771b9e243c4b9ea40091ac5dae2a48.jpg"
+   },
+   {
+    "uid": "b7ba2e1507354f939b4dcd45aa6b79e6",
+    "nombre": "T-shirt and skirt, dress",
+    "autor": "samsikua",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6562,
+    "url": "https://sketchfab.com/3d-models/none-b7ba2e1507354f939b4dcd45aa6b79e6",
+    "miniatura": "miniaturas/camisa_vestir/b7ba2e1507354f939b4dcd45aa6b79e6.jpg"
+   },
+   {
+    "uid": "05a6b459d7d44a3e8d1e3696b2d377e6",
+    "nombre": "Chemise from Egypt",
+    "autor": "geoffreymarchal",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 500806,
+    "url": "https://sketchfab.com/3d-models/none-05a6b459d7d44a3e8d1e3696b2d377e6",
+    "miniatura": "miniaturas/camisa_vestir/05a6b459d7d44a3e8d1e3696b2d377e6.jpg"
+   },
+   {
+    "uid": "2800741740204267be10aca81521505a",
+    "nombre": "Dress",
+    "autor": "Dr.Bahizha",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5444,
+    "url": "https://sketchfab.com/3d-models/none-2800741740204267be10aca81521505a",
+    "miniatura": "miniaturas/camisa_vestir/2800741740204267be10aca81521505a.jpg"
+   },
+   {
+    "uid": "e42b0ad5a9e744d0907b376257fdc4db",
+    "nombre": "nycfashion T- Shirt Dress",
+    "autor": "mweisburgh",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22518,
+    "url": "https://sketchfab.com/3d-models/none-e42b0ad5a9e744d0907b376257fdc4db",
+    "miniatura": "miniaturas/camisa_vestir/e42b0ad5a9e744d0907b376257fdc4db.jpg"
+   },
+   {
+    "uid": "24db154842a84717bfecea3ace0f7cfa",
+    "nombre": "Medieval poor woman",
+    "autor": "carmenpaloma",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 51940,
+    "url": "https://sketchfab.com/3d-models/none-24db154842a84717bfecea3ace0f7cfa",
+    "miniatura": "miniaturas/camisa_vestir/24db154842a84717bfecea3ace0f7cfa.jpg"
+   },
+   {
+    "uid": "74a4eaa958d14604822266ae768b3a60",
+    "nombre": "FULL SLEEVE",
+    "autor": "adityajaiswal9968",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2641,
+    "url": "https://sketchfab.com/3d-models/none-74a4eaa958d14604822266ae768b3a60",
+    "miniatura": "miniaturas/camisa_vestir/74a4eaa958d14604822266ae768b3a60.jpg"
+   },
+   {
+    "uid": "875f77cefe7246c8951e2a46f4201066",
+    "nombre": "Realistic 3D model of Men's T-Shirt",
+    "autor": "Shift4cube",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 50700,
+    "url": "https://sketchfab.com/3d-models/none-875f77cefe7246c8951e2a46f4201066",
+    "miniatura": "miniaturas/camisa_vestir/875f77cefe7246c8951e2a46f4201066.jpg"
+   },
+   {
+    "uid": "eb84de111a3445c7b54de8692ca0c7d5",
+    "nombre": "Annabelle Blusa 001",
+    "autor": "carmenpaloma",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4917,
+    "url": "https://sketchfab.com/3d-models/none-eb84de111a3445c7b54de8692ca0c7d5",
+    "miniatura": "miniaturas/camisa_vestir/eb84de111a3445c7b54de8692ca0c7d5.jpg"
+   },
+   {
+    "uid": "6886ad8def844c3d886e617cf84decde",
+    "nombre": "Gypsum wall panel relief, Nimrud",
+    "autor": "danielpett",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1641642,
+    "url": "https://sketchfab.com/3d-models/none-6886ad8def844c3d886e617cf84decde",
+    "miniatura": "miniaturas/camisa_vestir/6886ad8def844c3d886e617cf84decde.jpg"
+   }
+  ],
+  "camisa_botones": [],
+  "maniqui": [
+   {
+    "uid": "077bbe07d52f44c18ef9f30422d50ee5",
+    "nombre": "[UE4] Storm Trooper (Rigged + Game Ready)",
+    "autor": "SanForge",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 34702,
+    "url": "https://sketchfab.com/3d-models/none-077bbe07d52f44c18ef9f30422d50ee5",
+    "miniatura": "miniaturas/maniqui/077bbe07d52f44c18ef9f30422d50ee5.jpg"
+   },
+   {
+    "uid": "3d9fadc51d1f41168a970a3c34b81e7b",
+    "nombre": "Retextured model",
+    "autor": "JonnyMANSON",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 41004,
+    "url": "https://sketchfab.com/3d-models/none-3d9fadc51d1f41168a970a3c34b81e7b",
+    "miniatura": "miniaturas/maniqui/3d9fadc51d1f41168a970a3c34b81e7b.jpg"
+   },
+   {
+    "uid": "89318577f3464e368b2a3507b22c3af1",
+    "nombre": "Blockout Stylized Male Lightweight",
+    "autor": "Tuinor",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 171392,
+    "url": "https://sketchfab.com/3d-models/none-89318577f3464e368b2a3507b22c3af1",
+    "miniatura": "miniaturas/maniqui/89318577f3464e368b2a3507b22c3af1.jpg"
+   },
+   {
+    "uid": "2f67c4384e7f4a5b86d84ae9199b7d3b",
+    "nombre": "Mannequin: Anatomy Aid (Free download)",
+    "autor": "roba",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1653,
+    "url": "https://sketchfab.com/3d-models/none-2f67c4384e7f4a5b86d84ae9199b7d3b",
+    "miniatura": "miniaturas/maniqui/2f67c4384e7f4a5b86d84ae9199b7d3b.jpg"
+   },
+   {
+    "uid": "3cb6f00cbbf14768b9021f02b1e294fa",
+    "nombre": "Body Base",
+    "autor": "Alice.Marion.Crowe",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 48038,
+    "url": "https://sketchfab.com/3d-models/none-3cb6f00cbbf14768b9021f02b1e294fa",
+    "miniatura": "miniaturas/maniqui/3cb6f00cbbf14768b9021f02b1e294fa.jpg"
+   },
+   {
+    "uid": "06f3a9493734414c872c3c4095999787",
+    "nombre": "Bruce",
+    "autor": "Boris.Goncharuk",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 46835,
+    "url": "https://sketchfab.com/3d-models/none-06f3a9493734414c872c3c4095999787",
+    "miniatura": "miniaturas/maniqui/06f3a9493734414c872c3c4095999787.jpg"
+   },
+   {
+    "uid": "e5f37c5f821948628c5645a1d41b2afc",
+    "nombre": "The Thorsberg tunic – 3D reconstruction",
+    "autor": "alekseimoskvin1",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1229200,
+    "url": "https://sketchfab.com/3d-models/none-e5f37c5f821948628c5645a1d41b2afc",
+    "miniatura": "miniaturas/maniqui/e5f37c5f821948628c5645a1d41b2afc.jpg"
+   },
+   {
+    "uid": "07aa112ed4be43f8ace4e1b0cb30e2f5",
+    "nombre": "Mannequin With Suit.",
+    "autor": "kg007",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 283437,
+    "url": "https://sketchfab.com/3d-models/none-07aa112ed4be43f8ace4e1b0cb30e2f5",
+    "miniatura": "miniaturas/maniqui/07aa112ed4be43f8ace4e1b0cb30e2f5.jpg"
+   },
+   {
+    "uid": "a23570bd843c42149fec144ec0620e7f",
+    "nombre": "Mannequins",
+    "autor": "teddy.tr",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 73014,
+    "url": "https://sketchfab.com/3d-models/none-a23570bd843c42149fec144ec0620e7f",
+    "miniatura": "miniaturas/maniqui/a23570bd843c42149fec144ec0620e7f.jpg"
+   },
+   {
+    "uid": "77910a3722124bf398a3c3030bc0eac4",
+    "nombre": "Mannequin Head - #3 - Untextured",
+    "autor": "switchandlever",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 605140,
+    "url": "https://sketchfab.com/3d-models/none-77910a3722124bf398a3c3030bc0eac4",
+    "miniatura": "miniaturas/maniqui/77910a3722124bf398a3c3030bc0eac4.jpg"
+   },
+   {
+    "uid": "786174f66fca4ac6a0a4a5aec6a09188",
+    "nombre": "3D-scanned styrofoam male torso mannequin",
+    "autor": "creativetools",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2685636,
+    "url": "https://sketchfab.com/3d-models/none-786174f66fca4ac6a0a4a5aec6a09188",
+    "miniatura": "miniaturas/maniqui/786174f66fca4ac6a0a4a5aec6a09188.jpg"
+   },
+   {
+    "uid": "4862c3f975244d1c98dba46c4ff2df4c",
+    "nombre": "Store Mannequin",
+    "autor": "ainarchi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2842,
+    "url": "https://sketchfab.com/3d-models/none-4862c3f975244d1c98dba46c4ff2df4c",
+    "miniatura": "miniaturas/maniqui/4862c3f975244d1c98dba46c4ff2df4c.jpg"
+   },
+   {
+    "uid": "eb9daa49948f47169b3670169c042599",
+    "nombre": "Low Poly Mannequin Free",
+    "autor": "W3DGEx",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1880,
+    "url": "https://sketchfab.com/3d-models/none-eb9daa49948f47169b3670169c042599",
+    "miniatura": "miniaturas/maniqui/eb9daa49948f47169b3670169c042599.jpg"
+   },
+   {
+    "uid": "41e10234ae604060964d137480e7f996",
+    "nombre": "Character Mannequin Male",
+    "autor": "muh.nurzidan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1388,
+    "url": "https://sketchfab.com/3d-models/none-41e10234ae604060964d137480e7f996",
+    "miniatura": "miniaturas/maniqui/41e10234ae604060964d137480e7f996.jpg"
+   },
+   {
+    "uid": "2dfcc0a2e9a84f49b3147f53889e83e7",
+    "nombre": "#RTJ4D || Wood Mannequin",
+    "autor": "nobodyfamous",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 1022344,
+    "url": "https://sketchfab.com/3d-models/none-2dfcc0a2e9a84f49b3147f53889e83e7",
+    "miniatura": "miniaturas/maniqui/2dfcc0a2e9a84f49b3147f53889e83e7.jpg"
+   },
+   {
+    "uid": "0101dd9d12ea475e972663cbd848a960",
+    "nombre": "Female Torso",
+    "autor": "aegeanidealab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4922,
+    "url": "https://sketchfab.com/3d-models/none-0101dd9d12ea475e972663cbd848a960",
+    "miniatura": "miniaturas/maniqui/0101dd9d12ea475e972663cbd848a960.jpg"
+   },
+   {
+    "uid": "76c19b9ffd214c038de0fdd741b21b83",
+    "nombre": "VR MoCap output sample",
+    "autor": "johnniewhiskey",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 257651,
+    "url": "https://sketchfab.com/3d-models/none-76c19b9ffd214c038de0fdd741b21b83",
+    "miniatura": "miniaturas/maniqui/76c19b9ffd214c038de0fdd741b21b83.jpg"
+   },
+   {
+    "uid": "e457317734804bcf9262b92dd42db470",
+    "nombre": "Day 7 - Mannequin - 3D Inktober 2019",
+    "autor": "discipleofmana",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 61112,
+    "url": "https://sketchfab.com/3d-models/none-e457317734804bcf9262b92dd42db470",
+    "miniatura": "miniaturas/maniqui/e457317734804bcf9262b92dd42db470.jpg"
+   },
+   {
+    "uid": "64a5b63dac174affa2f65dc15ed61e3c",
+    "nombre": "Hello neighbor - mannequin",
+    "autor": "Youthful-Strawberry",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7204,
+    "url": "https://sketchfab.com/3d-models/none-64a5b63dac174affa2f65dc15ed61e3c",
+    "miniatura": "miniaturas/maniqui/64a5b63dac174affa2f65dc15ed61e3c.jpg"
+   },
+   {
+    "uid": "b7c03b34f43c4e1995abcb224ab3dc7e",
+    "nombre": "Female Mannequin",
+    "autor": "cgplays51",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5982,
+    "url": "https://sketchfab.com/3d-models/none-b7c03b34f43c4e1995abcb224ab3dc7e",
+    "miniatura": "miniaturas/maniqui/b7c03b34f43c4e1995abcb224ab3dc7e.jpg"
+   },
+   {
+    "uid": "b75b6155d1ad4e588bb093ddef42dcf3",
+    "nombre": "Robot Dummy",
+    "autor": "macomix",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 43008,
+    "url": "https://sketchfab.com/3d-models/none-b75b6155d1ad4e588bb093ddef42dcf3",
+    "miniatura": "miniaturas/maniqui/b75b6155d1ad4e588bb093ddef42dcf3.jpg"
+   },
+   {
+    "uid": "294cefd4067a4b4fb9a13dda6529385d",
+    "nombre": "Mannequin Head - #4 - Textured",
+    "autor": "switchandlever",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1548970,
+    "url": "https://sketchfab.com/3d-models/none-294cefd4067a4b4fb9a13dda6529385d",
+    "miniatura": "miniaturas/maniqui/294cefd4067a4b4fb9a13dda6529385d.jpg"
+   },
+   {
+    "uid": "e2a0ff3ee45c4854997c14f6365d6b47",
+    "nombre": "3D printed Mannequin-1",
+    "autor": "fabtextiles",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 94776,
+    "url": "https://sketchfab.com/3d-models/none-e2a0ff3ee45c4854997c14f6365d6b47",
+    "miniatura": "miniaturas/maniqui/e2a0ff3ee45c4854997c14f6365d6b47.jpg"
+   },
+   {
+    "uid": "526e99936df14d48864cd53bf3d26b65",
+    "nombre": "The sword of cyberhetman",
+    "autor": "holykadylo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 41684,
+    "url": "https://sketchfab.com/3d-models/none-526e99936df14d48864cd53bf3d26b65",
+    "miniatura": "miniaturas/maniqui/526e99936df14d48864cd53bf3d26b65.jpg"
+   }
+  ],
+  "maniqui2": [
+   {
+    "uid": "9311f4f8fa1a4fe4bb0027ff7e8fd795",
+    "nombre": "Male body base mesh (highpoly)",
+    "autor": "mandrake_3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 475650,
+    "url": "https://sketchfab.com/3d-models/none-9311f4f8fa1a4fe4bb0027ff7e8fd795",
+    "miniatura": "miniaturas/maniqui2/9311f4f8fa1a4fe4bb0027ff7e8fd795.jpg"
+   },
+   {
+    "uid": "15a422001834483c9750ce6117d59cc1",
+    "nombre": "Male Body",
+    "autor": "Dessen",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20764,
+    "url": "https://sketchfab.com/3d-models/none-15a422001834483c9750ce6117d59cc1",
+    "miniatura": "miniaturas/maniqui2/15a422001834483c9750ce6117d59cc1.jpg"
+   },
+   {
+    "uid": "3281a1cffd804f1488b4ec0bbb63c164",
+    "nombre": "Chibi Body base mesh",
+    "autor": "Toadstool022l",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2744,
+    "url": "https://sketchfab.com/3d-models/none-3281a1cffd804f1488b4ec0bbb63c164",
+    "miniatura": "miniaturas/maniqui2/3281a1cffd804f1488b4ec0bbb63c164.jpg"
+   },
+   {
+    "uid": "b93d00ae142449c8860ef79755a1c66c",
+    "nombre": "Base Mesh",
+    "autor": "Navirobot",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 438210,
+    "url": "https://sketchfab.com/3d-models/none-b93d00ae142449c8860ef79755a1c66c",
+    "miniatura": "miniaturas/maniqui2/b93d00ae142449c8860ef79755a1c66c.jpg"
+   },
+   {
+    "uid": "244061a0323b4d2e9c60d9aba374c937",
+    "nombre": "Male base mesh with muscle detail",
+    "autor": "C.J..Goldman",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12686,
+    "url": "https://sketchfab.com/3d-models/none-244061a0323b4d2e9c60d9aba374c937",
+    "miniatura": "miniaturas/maniqui2/244061a0323b4d2e9c60d9aba374c937.jpg"
+   },
+   {
+    "uid": "0954aa04666d45aab9633009318f7b66",
+    "nombre": "Male base muscular anatomy",
+    "autor": "CharacterZone",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 37648,
+    "url": "https://sketchfab.com/3d-models/none-0954aa04666d45aab9633009318f7b66",
+    "miniatura": "miniaturas/maniqui2/0954aa04666d45aab9633009318f7b66.jpg"
+   },
+   {
+    "uid": "9a6fd72aa31540f2a6a8e8d236778a2f",
+    "nombre": "Low Poly Male Base - Slender",
+    "autor": "mesh-base",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3754,
+    "url": "https://sketchfab.com/3d-models/none-9a6fd72aa31540f2a6a8e8d236778a2f",
+    "miniatura": "miniaturas/maniqui2/9a6fd72aa31540f2a6a8e8d236778a2f.jpg"
+   },
+   {
+    "uid": "f408affa182f45b58d0362e3ee3525a8",
+    "nombre": "Male and female body base mesh free to download",
+    "autor": "Toadstool022l",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 28538,
+    "url": "https://sketchfab.com/3d-models/none-f408affa182f45b58d0362e3ee3525a8",
+    "miniatura": "miniaturas/maniqui2/f408affa182f45b58d0362e3ee3525a8.jpg"
+   },
+   {
+    "uid": "9893488f355d4e13934f0822b8bfe038",
+    "nombre": "Male Base Mesh",
+    "autor": "rodrigogelmi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11302,
+    "url": "https://sketchfab.com/3d-models/none-9893488f355d4e13934f0822b8bfe038",
+    "miniatura": "miniaturas/maniqui2/9893488f355d4e13934f0822b8bfe038.jpg"
+   },
+   {
+    "uid": "5196847b14934b97a264248d1f6c4431",
+    "nombre": "Male Body Base Mesh",
+    "autor": "Diego.Gonzalez2",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4264,
+    "url": "https://sketchfab.com/3d-models/none-5196847b14934b97a264248d1f6c4431",
+    "miniatura": "miniaturas/maniqui2/5196847b14934b97a264248d1f6c4431.jpg"
+   },
+   {
+    "uid": "47acc754a2754d73902dab2ec46fd416",
+    "nombre": "Foot Skeleton&Skin",
+    "autor": "Novaky",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22249,
+    "url": "https://sketchfab.com/3d-models/none-47acc754a2754d73902dab2ec46fd416",
+    "miniatura": "miniaturas/maniqui2/47acc754a2754d73902dab2ec46fd416.jpg"
+   },
+   {
+    "uid": "f5e5825af43c4a8aad289c437d2da923",
+    "nombre": "male anatomy sculpt 1",
+    "autor": "bhagath2005",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 245412,
+    "url": "https://sketchfab.com/3d-models/none-f5e5825af43c4a8aad289c437d2da923",
+    "miniatura": "miniaturas/maniqui2/f5e5825af43c4a8aad289c437d2da923.jpg"
+   },
+   {
+    "uid": "862c7fdb00cb4c8ba572ead557536cc4",
+    "nombre": "Male Boy",
+    "autor": "mynameisRJ",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 19932,
+    "url": "https://sketchfab.com/3d-models/none-862c7fdb00cb4c8ba572ead557536cc4",
+    "miniatura": "miniaturas/maniqui2/862c7fdb00cb4c8ba572ead557536cc4.jpg"
+   },
+   {
+    "uid": "ce0604608f96477a875569ff28e15889",
+    "nombre": "Rigged low poly male & female figures. (Blender)",
+    "autor": "drazenk",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6284,
+    "url": "https://sketchfab.com/3d-models/none-ce0604608f96477a875569ff28e15889",
+    "miniatura": "miniaturas/maniqui2/ce0604608f96477a875569ff28e15889.jpg"
+   },
+   {
+    "uid": "5d91d2f079814476b9d471e7a09a5c39",
+    "nombre": "Male Base Mesh (T- Pose)+(Rigged)",
+    "autor": "Malbeasy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 28880,
+    "url": "https://sketchfab.com/3d-models/none-5d91d2f079814476b9d471e7a09a5c39",
+    "miniatura": "miniaturas/maniqui2/5d91d2f079814476b9d471e7a09a5c39.jpg"
+   },
+   {
+    "uid": "c6c3dd15792c4b768f087f0831ad249d",
+    "nombre": "Low Poly Male Body Base",
+    "autor": "mesh-base",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9590,
+    "url": "https://sketchfab.com/3d-models/none-c6c3dd15792c4b768f087f0831ad249d",
+    "miniatura": "miniaturas/maniqui2/c6c3dd15792c4b768f087f0831ad249d.jpg"
+   },
+   {
+    "uid": "601503e9c56b4b5eba76847128d31f6f",
+    "nombre": "Base Mesh Man Simple",
+    "autor": "LeighIria",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10840,
+    "url": "https://sketchfab.com/3d-models/none-601503e9c56b4b5eba76847128d31f6f",
+    "miniatura": "miniaturas/maniqui2/601503e9c56b4b5eba76847128d31f6f.jpg"
+   },
+   {
+    "uid": "0f9579e2d298480aa26a0d9fed9307a9",
+    "nombre": "Low Poly Mesh Base",
+    "autor": "justice2free",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1356,
+    "url": "https://sketchfab.com/3d-models/none-0f9579e2d298480aa26a0d9fed9307a9",
+    "miniatura": "miniaturas/maniqui2/0f9579e2d298480aa26a0d9fed9307a9.jpg"
+   },
+   {
+    "uid": "7e27f8c7c3fa4657865011a683927e4c",
+    "nombre": "Human Body Base Mesh",
+    "autor": "insectscorch",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1172,
+    "url": "https://sketchfab.com/3d-models/none-7e27f8c7c3fa4657865011a683927e4c",
+    "miniatura": "miniaturas/maniqui2/7e27f8c7c3fa4657865011a683927e4c.jpg"
+   },
+   {
+    "uid": "5892390b0f2f49fab9b066c5fc8c3c3a",
+    "nombre": "Demon Male Base Mesh",
+    "autor": "mesh-base",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4312,
+    "url": "https://sketchfab.com/3d-models/none-5892390b0f2f49fab9b066c5fc8c3c3a",
+    "miniatura": "miniaturas/maniqui2/5892390b0f2f49fab9b066c5fc8c3c3a.jpg"
+   },
+   {
+    "uid": "3e404fcdaad04f478d6e791f69a008ef",
+    "nombre": "Base Male Head",
+    "autor": "mikemoore1973",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2100,
+    "url": "https://sketchfab.com/3d-models/none-3e404fcdaad04f478d6e791f69a008ef",
+    "miniatura": "miniaturas/maniqui2/3e404fcdaad04f478d6e791f69a008ef.jpg"
+   },
+   {
+    "uid": "7811483814614feb82b57a72c0361c0e",
+    "nombre": "Base mesh (Low-Poly/High-Poly)",
+    "autor": "jesus.lissen98",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 14340,
+    "url": "https://sketchfab.com/3d-models/none-7811483814614feb82b57a72c0361c0e",
+    "miniatura": "miniaturas/maniqui2/7811483814614feb82b57a72c0361c0e.jpg"
+   },
+   {
+    "uid": "ab0a24273f5e4605af6ad8a7e6010467",
+    "nombre": "Male body",
+    "autor": "RtSaurd",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4700,
+    "url": "https://sketchfab.com/3d-models/none-ab0a24273f5e4605af6ad8a7e6010467",
+    "miniatura": "miniaturas/maniqui2/ab0a24273f5e4605af6ad8a7e6010467.jpg"
+   },
+   {
+    "uid": "ef348e16f0d745699119826ad83319a3",
+    "nombre": "male base mesh",
+    "autor": "Kubocarte",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 114464,
+    "url": "https://sketchfab.com/3d-models/none-ef348e16f0d745699119826ad83319a3",
+    "miniatura": "miniaturas/maniqui2/ef348e16f0d745699119826ad83319a3.jpg"
+   },
+   {
+    "uid": "161033a75b8c4db6a8edac74014ed2da",
+    "nombre": "Medieval young male 01 V1.1 2018",
+    "autor": "SDCDesigns",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 5230,
+    "url": "https://sketchfab.com/3d-models/none-161033a75b8c4db6a8edac74014ed2da",
+    "miniatura": "miniaturas/maniqui2/161033a75b8c4db6a8edac74014ed2da.jpg"
+   },
+   {
+    "uid": "6231f9b4d07f4290978f1f5bd570d669",
+    "nombre": "Base_Male",
+    "autor": "ndnosleep",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 15384,
+    "url": "https://sketchfab.com/3d-models/none-6231f9b4d07f4290978f1f5bd570d669",
+    "miniatura": "miniaturas/maniqui2/6231f9b4d07f4290978f1f5bd570d669.jpg"
+   },
+   {
+    "uid": "53147216b2e345f6bc5716ae46358735",
+    "nombre": "Body Rigged 2",
+    "autor": "rm040506",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 475650,
+    "url": "https://sketchfab.com/3d-models/none-53147216b2e345f6bc5716ae46358735",
+    "miniatura": "miniaturas/maniqui2/53147216b2e345f6bc5716ae46358735.jpg"
+   }
+  ],
+  "shorts": [
+   {
+    "uid": "515aecbda90a46aba46bec0955db0bcd",
+    "nombre": "White Boxer",
+    "autor": "whatsdown",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 533392,
+    "url": "https://sketchfab.com/3d-models/none-515aecbda90a46aba46bec0955db0bcd",
+    "miniatura": "miniaturas/shorts/515aecbda90a46aba46bec0955db0bcd.jpg"
+   }
+  ],
+  "camiseta_tirantes": [
+   {
+    "uid": "91f495435f624d8b97a768f692aa6ce9",
+    "nombre": "Military Landvehicle Kit 1.2 (CC0)",
+    "autor": "britdawgmasterfunk",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3508519,
+    "url": "https://sketchfab.com/3d-models/none-91f495435f624d8b97a768f692aa6ce9",
+    "miniatura": "miniaturas/camiseta_tirantes/91f495435f624d8b97a768f692aa6ce9.jpg"
+   },
+   {
+    "uid": "ed875358ba4d458d9761ada7821497b7",
+    "nombre": "SISU GTP 4x4 Armored Vehicle",
+    "autor": "tamminen",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 65781,
+    "url": "https://sketchfab.com/3d-models/none-ed875358ba4d458d9761ada7821497b7",
+    "miniatura": "miniaturas/camiseta_tirantes/ed875358ba4d458d9761ada7821497b7.jpg"
+   },
+   {
+    "uid": "a4760d3a61f0425c97353592e6cb3589",
+    "nombre": "M60 Patton Tank (3D Scan)",
+    "autor": "kryik1023",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2499999,
+    "url": "https://sketchfab.com/3d-models/none-a4760d3a61f0425c97353592e6cb3589",
+    "miniatura": "miniaturas/camiseta_tirantes/a4760d3a61f0425c97353592e6cb3589.jpg"
+   },
+   {
+    "uid": "212b2120338a4023a834d0c0081b406d",
+    "nombre": "Anti-Tank Turret",
+    "autor": "mklement",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 2870,
+    "url": "https://sketchfab.com/3d-models/none-212b2120338a4023a834d0c0081b406d",
+    "miniatura": "miniaturas/camiseta_tirantes/212b2120338a4023a834d0c0081b406d.jpg"
+   },
+   {
+    "uid": "4802682e742f4985b8a1f1a0ef2badf2",
+    "nombre": "VC Imperial Light Tank",
+    "autor": "larrynguyen",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 62884,
+    "url": "https://sketchfab.com/3d-models/none-4802682e742f4985b8a1f1a0ef2badf2",
+    "miniatura": "miniaturas/camiseta_tirantes/4802682e742f4985b8a1f1a0ef2badf2.jpg"
+   },
+   {
+    "uid": "d6b2561de39f423f9c7a2e7944485beb",
+    "nombre": "Tank Top",
+    "autor": "Shift4cube",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 21346,
+    "url": "https://sketchfab.com/3d-models/none-d6b2561de39f423f9c7a2e7944485beb",
+    "miniatura": "miniaturas/camiseta_tirantes/d6b2561de39f423f9c7a2e7944485beb.jpg"
+   },
+   {
+    "uid": "33543ee3b994462a8b2bca9b67b2dc0a",
+    "nombre": "World War 1 Anti Tank Granade",
+    "autor": "Matt-AeroLab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 28112,
+    "url": "https://sketchfab.com/3d-models/none-33543ee3b994462a8b2bca9b67b2dc0a",
+    "miniatura": "miniaturas/camiseta_tirantes/33543ee3b994462a8b2bca9b67b2dc0a.jpg"
+   },
+   {
+    "uid": "e7a03de4e430450697f06884e40b927c",
+    "nombre": "Hangers Pack tank top tshirt men long sleeve t-s",
+    "autor": "kopofx",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13848,
+    "url": "https://sketchfab.com/3d-models/none-e7a03de4e430450697f06884e40b927c",
+    "miniatura": "miniaturas/camiseta_tirantes/e7a03de4e430450697f06884e40b927c.jpg"
+   },
+   {
+    "uid": "0ec358be43cc4194bf28e573f727fe35",
+    "nombre": "Steampunk Glass Cylinder New Brass Trim",
+    "autor": "SparkyL",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 344096,
+    "url": "https://sketchfab.com/3d-models/none-0ec358be43cc4194bf28e573f727fe35",
+    "miniatura": "miniaturas/camiseta_tirantes/0ec358be43cc4194bf28e573f727fe35.jpg"
+   },
+   {
+    "uid": "ea3594f118d64282b759000e66b5695d",
+    "nombre": "Low Poly Truck Tank",
+    "autor": "KolosStudios",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 780,
+    "url": "https://sketchfab.com/3d-models/none-ea3594f118d64282b759000e66b5695d",
+    "miniatura": "miniaturas/camiseta_tirantes/ea3594f118d64282b759000e66b5695d.jpg"
+   },
+   {
+    "uid": "fa8ed58423bb4842be8f4d5c06433e1c",
+    "nombre": "The Tark-89",
+    "autor": "Starovoytovm.20",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 23214,
+    "url": "https://sketchfab.com/3d-models/none-fa8ed58423bb4842be8f4d5c06433e1c",
+    "miniatura": "miniaturas/camiseta_tirantes/fa8ed58423bb4842be8f4d5c06433e1c.jpg"
+   },
+   {
+    "uid": "33123d7e114241008c35be72db5c1876",
+    "nombre": "Industrial Powerplant on Floating Asteroid",
+    "autor": "daviddickball",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5950,
+    "url": "https://sketchfab.com/3d-models/none-33123d7e114241008c35be72db5c1876",
+    "miniatura": "miniaturas/camiseta_tirantes/33123d7e114241008c35be72db5c1876.jpg"
+   }
+  ]
+ },
+ "info": {
+  "denim_fabric": {
+   "nombre": "Denim Fabric",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "denim_fabric_03": {
+   "nombre": "Denim Fabric 03",
+   "autores": {
+    "colormass": "Photography",
+    "Rico Cilliers": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "denim_fabric_05": {
+   "nombre": "Denim Fabric 05",
+   "autores": {
+    "colormass": "Photography",
+    "Rico Cilliers": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "cotton_jersey": {
+   "nombre": "Cotton Jersey",
+   "autores": {
+    "colormass": "Photography",
+    "Rico Cilliers": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "jersey_melange": {
+   "nombre": "Jersey Melange",
+   "autores": {
+    "colormass": "Photography",
+    "Rico Cilliers": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "jogging_melange": {
+   "nombre": "Jogging Melange",
+   "autores": {
+    "colormass": "Photography",
+    "Rico Cilliers": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "waffle_pique_cotton": {
+   "nombre": "Waffle Pique Cotton",
+   "autores": {
+    "colormass": "Photography",
+    "Rico Cilliers": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "poly_wool_herringbone": {
+   "nombre": "Poly Wool Herringbone",
+   "autores": {
+    "colormass": "Photography",
+    "Rico Cilliers": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "stretch_poplin": {
+   "nombre": "Stretch Poplin",
+   "autores": {
+    "colormass": "Photography",
+    "Rico Cilliers": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "terlenka": {
+   "nombre": "Terlenka",
+   "autores": {
+    "colormass": "Photography",
+    "Rico Cilliers": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "knitted_fleece": {
+   "nombre": "Knitted Fleece",
+   "autores": {
+    "colormass": "Photography",
+    "Rico Cilliers": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "rough_linen": {
+   "nombre": "Rough Linen",
+   "autores": {
+    "colormass": "Photography",
+    "Rico Cilliers": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "leather_white": {
+   "nombre": "Leather White",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "brown_leather": {
+   "nombre": "Brown Leather",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  }
+ }
+}
