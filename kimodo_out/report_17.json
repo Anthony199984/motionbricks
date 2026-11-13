@@ -1,11 +1,17 @@
 {
- "total_seconds": 179.1,
+ "total_seconds": 336.0,
  "jobs": [
   {
-   "name": "tp_caminar_bolsa_1",
+   "name": "hv_manos_arriba_nervioso_2",
    "response": "OK\t120\t30",
-   "seconds": 179.0,
+   "seconds": 183.3,
    "frames": 120
+  },
+  {
+   "name": "hv_echarse_atras_2",
+   "response": "OK\t90\t30",
+   "seconds": 152.5,
+   "frames": 90
   }
  ]
 }
