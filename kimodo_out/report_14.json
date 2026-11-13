@@ -1,11 +1,17 @@
 {
- "total_seconds": 252.9,
+ "total_seconds": 274.3,
  "jobs": [
   {
-   "name": "tp_barrer_recogedor_1",
-   "response": "OK\t150\t30",
-   "seconds": 252.7,
-   "frames": 150
+   "name": "hv_brazos_cruzados_1",
+   "response": "OK\t120\t30",
+   "seconds": 137.6,
+   "frames": 120
+  },
+  {
+   "name": "hv_levantarse_seria_1",
+   "response": "OK\t120\t30",
+   "seconds": 136.7,
+   "frames": 120
   }
  ]
 }
