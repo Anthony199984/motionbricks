@@ -1,10 +1,16 @@
 {
- "total_seconds": 128.1,
+ "total_seconds": 426.7,
  "jobs": [
   {
-   "name": "tp_mirar_alrededor_feliz_2",
+   "name": "hv_antebrazos_mesa_2",
+   "response": "OK\t150\t30",
+   "seconds": 232.7,
+   "frames": 150
+  },
+  {
+   "name": "hv_golpear_mesa_reir_2",
    "response": "OK\t120\t30",
-   "seconds": 128.0,
+   "seconds": 193.9,
    "frames": 120
   }
  ]
