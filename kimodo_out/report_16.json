@@ -1,10 +1,16 @@
 {
- "total_seconds": 110.4,
+ "total_seconds": 363.0,
  "jobs": [
   {
-   "name": "tp_sentado_sobresalto_1",
+   "name": "hv_manos_arriba_nervioso_1",
+   "response": "OK\t120\t30",
+   "seconds": 198.8,
+   "frames": 120
+  },
+  {
+   "name": "hv_echarse_atras_1",
    "response": "OK\t90\t30",
-   "seconds": 110.3,
+   "seconds": 164.1,
    "frames": 90
   }
  ]
