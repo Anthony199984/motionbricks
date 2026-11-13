@@ -1,10 +1,16 @@
 {
- "total_seconds": 262.6,
+ "total_seconds": 358.1,
  "jobs": [
   {
-   "name": "tp_devolver_comida_2",
+   "name": "hv_levantarse_senalar_2",
    "response": "OK\t120\t30",
-   "seconds": 262.5,
+   "seconds": 178.9,
+   "frames": 120
+  },
+  {
+   "name": "hv_susurrar_2",
+   "response": "OK\t120\t30",
+   "seconds": 179.1,
    "frames": 120
   }
  ]
