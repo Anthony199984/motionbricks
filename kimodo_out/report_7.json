@@ -1,11 +1,17 @@
 {
- "total_seconds": 215.4,
+ "total_seconds": 504.3,
  "jobs": [
   {
-   "name": "tp_comer_detenerse_2",
+   "name": "hv_inclinarse_mesa_2",
    "response": "OK\t120\t30",
-   "seconds": 215.3,
+   "seconds": 262.8,
    "frames": 120
+  },
+  {
+   "name": "hv_tapar_bolsillo_2",
+   "response": "OK\t105\t30",
+   "seconds": 241.4,
+   "frames": 105
   }
  ]
 }
