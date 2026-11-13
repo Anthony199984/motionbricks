@@ -1,11 +1,17 @@
 {
- "total_seconds": 176.7,
+ "total_seconds": 360.0,
  "jobs": [
   {
-   "name": "tp_tapar_boca_1",
-   "response": "OK\t90\t30",
-   "seconds": 176.6,
-   "frames": 90
+   "name": "hv_levantar_sobre_cabeza_2",
+   "response": "OK\t120\t30",
+   "seconds": 180.2,
+   "frames": 120
+  },
+  {
+   "name": "hv_aguantar_risa_2",
+   "response": "OK\t120\t30",
+   "seconds": 179.7,
+   "frames": 120
   }
  ]
 }
