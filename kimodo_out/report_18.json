@@ -1,10 +1,16 @@
 {
- "total_seconds": 275.8,
+ "total_seconds": 359.0,
  "jobs": [
   {
-   "name": "tp_caminar_bolsa_2",
+   "name": "hv_levantar_sobre_cabeza_1",
    "response": "OK\t120\t30",
-   "seconds": 275.7,
+   "seconds": 179.8,
+   "frames": 120
+  },
+  {
+   "name": "hv_aguantar_risa_1",
+   "response": "OK\t120\t30",
+   "seconds": 179.0,
    "frames": 120
   }
  ]
