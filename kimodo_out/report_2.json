@@ -1,17 +1,11 @@
 {
- "total_seconds": 425.3,
+ "total_seconds": 180.6,
  "jobs": [
   {
-   "name": "hv_mano_frente_1",
+   "name": "mk_susto_mejillas",
    "response": "OK\t120\t30",
-   "seconds": 197.5,
+   "seconds": 180.5,
    "frames": 120
-  },
-  {
-   "name": "hv_reir_cabeza_atras_1",
-   "response": "OK\t150\t30",
-   "seconds": 227.7,
-   "frames": 150
   }
  ]
 }
