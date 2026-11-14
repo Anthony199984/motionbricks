@@ -1,4 +1,6 @@
 [
- {"name": "mk_hacha_dos_manos_1", "frames": 120, "seed": 61001, "prompt": "A man raises a heavy axe with both hands high above his head and swings it down hard to chop a log on a stump in front of him."},
- {"name": "mk_hacha_dos_manos_2", "frames": 120, "seed": 62002, "prompt": "A person lifts an axe overhead with both hands and chops down forcefully in front of them."}
+ {"name": "mk_susto_cabeza_1", "frames": 135, "seed": 71001, "prompt": "A man is shocked and terrified, he grabs his head with both hands and screams, leaning back, then puts his hands on his cheeks in disbelief."},
+ {"name": "mk_susto_cabeza_2", "frames": 135, "seed": 72002, "prompt": "A person in panic clutches their head with both hands, screaming in horror while stepping backward."},
+ {"name": "mk_susto_mejillas", "frames": 120, "seed": 73003, "prompt": "A man gasps in horror and slaps both hands on his cheeks, mouth wide open, staring down at the ground in front of him."},
+ {"name": "mk_susto_atras", "frames": 105, "seed": 74004, "prompt": "A man jumps back startled, raises both hands in front of his chest in fear, then covers his mouth with one hand while pointing forward with the other."}
 ]
