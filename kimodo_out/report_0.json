@@ -1,10 +1,22 @@
 {
- "total_seconds": 181.9,
+ "total_seconds": 663.2,
  "jobs": [
   {
-   "name": "tp_goku_frente_1",
+   "name": "hv_rascar_cabeza_1",
+   "response": "OK\t150\t30",
+   "seconds": 250.9,
+   "frames": 150
+  },
+  {
+   "name": "hv_tapar_boca_1",
+   "response": "OK\t105\t30",
+   "seconds": 196.6,
+   "frames": 105
+  },
+  {
+   "name": "hv_girar_objeto_mesa_1",
    "response": "OK\t120\t30",
-   "seconds": 181.8,
+   "seconds": 215.6,
    "frames": 120
   }
  ]
