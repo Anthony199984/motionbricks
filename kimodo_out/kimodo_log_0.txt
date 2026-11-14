@@ -1,7 +1,7 @@
-Fri Nov 13 23:47:17 UTC 2026
+Sat Nov 14 04:43:32 UTC 2026
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/root       145G   41G  104G  29% /
-Fri Nov 13 23:48:08 UTC 2026
+Sat Nov 14 04:44:46 UTC 2026
 Cloning into 'kcpp'...
 Note: switching to 'ed8a931aedb132f768190f6931c365855caba74c'.
 
@@ -24,7 +24,7 @@ HEAD is now at ed8a931 Add LocalAI attribution and badge to README
 Submodule 'ggml' (https://github.com/ggml-org/ggml.git) registered for path 'ggml'
 Cloning into '/home/runner/work/motionbricks/motionbricks/kcpp/ggml'...
 Submodule path 'ggml': checked out '8c63e70982c95ceb862e3a1073a2c1beef75d60a'
-Fri Nov 13 23:48:17 UTC 2026
+Sat Nov 14 04:44:54 UTC 2026
 /usr/bin/g++-14
 -- The CXX compiler identification is GNU 14.2.0
 -- Detecting CXX compiler ABI info
@@ -54,36 +54,36 @@ Fri Nov 13 23:48:17 UTC 2026
 -- Adding CPU backend variant ggml-cpu: -msse4.2;-mf16c;-mfma;-mbmi2;-mavx;-mavx2 GGML_SSE42;GGML_F16C;GGML_FMA;GGML_BMI2;GGML_AVX;GGML_AVX2
 -- ggml version: 0.20.2
 -- ggml commit:  8c63e709
--- Configuring done (3.2s)
+-- Configuring done (4.2s)
 -- Generating done (0.0s)
 -- Build files have been written to: /home/runner/work/motionbricks/motionbricks/kcpp/build
-[1/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml.cpp.o
-[2/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-alloc.c.o
-[3/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-backend.cpp.o
-[4/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-threading.cpp.o
-[5/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-opt.cpp.o
-[6/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml.c.o
+[1/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-alloc.c.o
+[2/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml.cpp.o
+[3/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-opt.cpp.o
+[4/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-backend.cpp.o
+[5/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml.c.o
+[6/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-threading.cpp.o
 [7/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.o
 [8/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-backend-meta.cpp.o
 [9/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.o
 [10/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/hbm.cpp.o
 [11/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/gguf.cpp.o
-[12/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/traits.cpp.o
-[13/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/quants.c.o
+[12/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/quants.c.o
+[13/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/traits.cpp.o
 [14/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.o
 [15/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.o
-[16/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.o
-[17/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-quants.c.o
-[18/45] Linking CXX shared library ggml/src/libggml-base.so.0.20.2
-[19/45] Creating library symlink ggml/src/libggml-base.so.0 ggml/src/libggml-base.so
+[16/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-quants.c.o
+[17/45] Linking CXX shared library ggml/src/libggml-base.so.0.20.2
+[18/45] Creating library symlink ggml/src/libggml-base.so.0 ggml/src/libggml-base.so
+[19/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.o
 [20/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/vec.cpp.o
 [21/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/unary-ops.cpp.o
 [22/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/quants.c.o
-[23/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/repack.cpp.o
-[24/45] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-dl.cpp.o
+[23/45] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-dl.cpp.o
+[24/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/repack.cpp.o
 [25/45] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-reg.cpp.o
-[26/45] Building CXX object CMakeFiles/kimodo.dir/src/capi.cpp.o
-[27/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/repack.cpp.o
+[26/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/repack.cpp.o
+[27/45] Building CXX object CMakeFiles/kimodo.dir/src/capi.cpp.o
 [28/45] Building CXX object CMakeFiles/kimodo.dir/src/diffusion.cpp.o
 [29/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_rep.cpp.o
 [30/45] Building CXX object CMakeFiles/kimodo.dir/src/gguf.cpp.o
@@ -121,12 +121,10 @@ In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/llm_t
 [44/45] Linking CXX static library libkimodo.a
 [45/45] Linking CXX executable kmd-generate
 build/kmd-generate
-Fri Nov 13 23:50:45 UTC 2026
+Sat Nov 14 04:46:52 UTC 2026
 gen=kcpp/build/kmd-generate text=weights/Llama-3-Kimodo-Q8_0.gguf motion=weights/models/kimodo-soma-rp-v1.1-f32.gguf
                total        used        free      shared  buff/cache   available
-Mem:              15           0           4           0          10          14
+Mem:              15           1           4           0          10          14
 Swap:              2           0           2
 4
-hv_rascar_cabeza_1: OK	150	30 (250.9s)
-hv_tapar_boca_1: OK	105	30 (196.6s)
-hv_girar_objeto_mesa_1: OK	120	30 (215.6s)
+mk_hacha_dos_manos_1: OK	120	30 (180.5s)
