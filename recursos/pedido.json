@@ -1,26 +1,146 @@
 {
- "informe": "informe_tp_bajada3.json",
- "objaverse": [
+ "catalogo": false,
+ "informe": "informe_mike_1.json",
+ "polyhaven": [
   {
-   "uid": "e8c0ea53410947b0b7f20d33702f4098",
-   "nombre": "tp_palmera",
-   "titulo": "Plant Series – Palm Tree",
-   "autor": "spazio_silvestre",
-   "licencia": "CC Attribution"
+   "id": "wooden_axe",
+   "res": "2k"
   },
   {
-   "uid": "d76f0654b92d4cf994b528555525219b",
-   "nombre": "tp_palmera_arabe",
-   "titulo": "Arabic Palmtree",
-   "autor": "rodrigogelmi",
-   "licencia": "CC Attribution"
+   "id": "wooden_axe_02",
+   "res": "2k"
   },
   {
-   "uid": "dade6a6307ff411492b205a388a77719",
-   "nombre": "tp_palmera_alta",
-   "titulo": "PALM",
-   "autor": "sinnervoncrawsz",
-   "licencia": "CC Attribution"
+   "id": "hatchet",
+   "res": "2k"
+  },
+  {
+   "id": "tree_stump_01",
+   "res": "2k"
+  },
+  {
+   "id": "tree_stump_02",
+   "res": "2k"
+  },
+  {
+   "id": "wooden_crate_01",
+   "res": "2k"
+  },
+  {
+   "id": "wooden_crate_02",
+   "res": "2k"
+  },
+  {
+   "id": "food_apple_01",
+   "res": "1k"
+  },
+  {
+   "id": "old_bed_frame",
+   "res": "2k"
+  },
+  {
+   "id": "vintage_suitcase",
+   "res": "2k"
+  },
+  {
+   "id": "vintage_oil_lamp",
+   "res": "2k"
+  },
+  {
+   "id": "Lantern_01",
+   "res": "2k"
+  },
+  {
+   "id": "WoodenTable_01",
+   "res": "2k"
+  },
+  {
+   "id": "wooden_table_02",
+   "res": "2k"
+  },
+  {
+   "id": "painted_wooden_chair_01",
+   "res": "2k"
+  },
+  {
+   "id": "round_spectacles",
+   "res": "1k"
+  },
+  {
+   "id": "Camera_01",
+   "res": "2k"
+  },
+  {
+   "id": "jug_01",
+   "res": "1k"
+  },
+  {
+   "id": "wooden_bucket_01",
+   "res": "1k"
+  },
+  {
+   "id": "wicker_basket_01",
+   "res": "1k"
+  },
+  {
+   "id": "painted_wooden_nightstand",
+   "res": "2k"
+  },
+  {
+   "id": "pot_enamel_01",
+   "res": "1k"
+  },
+  {
+   "id": "farm_field",
+   "res": "4k"
+  },
+  {
+   "id": "belfast_farmhouse",
+   "res": "4k"
+  },
+  {
+   "id": "dry_hay_field",
+   "res": "4k"
+  },
+  {
+   "id": "kiara_1_dawn",
+   "res": "4k"
+  },
+  {
+   "id": "farm_sunset",
+   "res": "4k"
+  },
+  {
+   "id": "hotel_room",
+   "res": "4k"
+  },
+  {
+   "id": "farm_soil",
+   "res": "2k"
+  },
+  {
+   "id": "distressed_painted_planks",
+   "res": "2k"
+  },
+  {
+   "id": "raw_plank_wall",
+   "res": "2k"
+  },
+  {
+   "id": "old_wood_floor",
+   "res": "2k"
+  },
+  {
+   "id": "red_plaster_weathered",
+   "res": "2k"
+  },
+  {
+   "id": "brown_planks_05",
+   "res": "2k"
+  },
+  {
+   "id": "dry_ground_rocks",
+   "res": "2k"
   }
  ]
 }
