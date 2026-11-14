@@ -1,11 +1,11 @@
 {
- "total_seconds": 196.9,
+ "total_seconds": 239.5,
  "jobs": [
   {
-   "name": "mk_hacha_dos_manos_2",
-   "response": "OK\t120\t30",
-   "seconds": 196.9,
-   "frames": 120
+   "name": "mk_susto_cabeza_2",
+   "response": "OK\t135\t30",
+   "seconds": 239.4,
+   "frames": 135
   }
  ]
 }
