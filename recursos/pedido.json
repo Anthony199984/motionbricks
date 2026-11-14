@@ -1,146 +1,265 @@
 {
  "catalogo": false,
- "informe": "informe_mike_1.json",
+ "informe": "informe_huevo_sala.json",
  "polyhaven": [
   {
-   "id": "wooden_axe",
+   "id": "Rockingchair_01",
    "res": "2k"
   },
   {
-   "id": "wooden_axe_02",
+   "id": "sofa_02",
    "res": "2k"
   },
   {
-   "id": "hatchet",
+   "id": "Sofa_01",
    "res": "2k"
   },
   {
-   "id": "tree_stump_01",
+   "id": "ArmChair_01",
    "res": "2k"
   },
   {
-   "id": "tree_stump_02",
-   "res": "2k"
-  },
-  {
-   "id": "wooden_crate_01",
-   "res": "2k"
-  },
-  {
-   "id": "wooden_crate_02",
-   "res": "2k"
-  },
-  {
-   "id": "food_apple_01",
+   "id": "GreenChair_01",
    "res": "1k"
   },
   {
-   "id": "old_bed_frame",
-   "res": "2k"
-  },
-  {
-   "id": "vintage_suitcase",
-   "res": "2k"
-  },
-  {
-   "id": "vintage_oil_lamp",
-   "res": "2k"
-  },
-  {
-   "id": "Lantern_01",
-   "res": "2k"
-  },
-  {
-   "id": "WoodenTable_01",
-   "res": "2k"
-  },
-  {
-   "id": "wooden_table_02",
-   "res": "2k"
-  },
-  {
-   "id": "painted_wooden_chair_01",
-   "res": "2k"
-  },
-  {
-   "id": "round_spectacles",
+   "id": "Ottoman_01",
    "res": "1k"
   },
   {
-   "id": "Camera_01",
-   "res": "2k"
-  },
-  {
-   "id": "jug_01",
+   "id": "throw_pillows_01",
    "res": "1k"
   },
   {
-   "id": "wooden_bucket_01",
+   "id": "side_table_01",
    "res": "1k"
   },
   {
-   "id": "wicker_basket_01",
+   "id": "side_table_tall_01",
    "res": "1k"
   },
   {
-   "id": "painted_wooden_nightstand",
-   "res": "2k"
-  },
-  {
-   "id": "pot_enamel_01",
+   "id": "coffee_table_round_01",
    "res": "1k"
   },
   {
-   "id": "farm_field",
-   "res": "4k"
-  },
-  {
-   "id": "belfast_farmhouse",
-   "res": "4k"
-  },
-  {
-   "id": "dry_hay_field",
-   "res": "4k"
-  },
-  {
-   "id": "kiara_1_dawn",
-   "res": "4k"
-  },
-  {
-   "id": "farm_sunset",
-   "res": "4k"
-  },
-  {
-   "id": "hotel_room",
-   "res": "4k"
-  },
-  {
-   "id": "farm_soil",
+   "id": "ClassicConsole_01",
    "res": "2k"
   },
   {
-   "id": "distressed_painted_planks",
+   "id": "GothicCommode_01",
    "res": "2k"
   },
   {
-   "id": "raw_plank_wall",
+   "id": "wooden_bookshelf_worn",
    "res": "2k"
   },
   {
-   "id": "old_wood_floor",
+   "id": "wooden_display_shelves_01",
    "res": "2k"
   },
   {
-   "id": "red_plaster_weathered",
+   "id": "decorative_book_set_01",
+   "res": "1k"
+  },
+  {
+   "id": "book_encyclopedia_set_01",
+   "res": "1k"
+  },
+  {
+   "id": "mantel_clock_01",
+   "res": "1k"
+  },
+  {
+   "id": "wall_clock",
+   "res": "1k"
+  },
+  {
+   "id": "vintage_grandfather_clock_01",
    "res": "2k"
   },
   {
-   "id": "brown_planks_05",
+   "id": "fancy_picture_frame_01",
+   "res": "1k"
+  },
+  {
+   "id": "fancy_picture_frame_02",
+   "res": "1k"
+  },
+  {
+   "id": "hanging_picture_frame_01",
+   "res": "1k"
+  },
+  {
+   "id": "hanging_picture_frame_02",
+   "res": "1k"
+  },
+  {
+   "id": "hanging_picture_frame_03",
+   "res": "1k"
+  },
+  {
+   "id": "standing_picture_frame_01",
+   "res": "1k"
+  },
+  {
+   "id": "ornate_mirror_01",
+   "res": "1k"
+  },
+  {
+   "id": "potted_plant_01",
    "res": "2k"
   },
   {
-   "id": "dry_ground_rocks",
+   "id": "potted_plant_02",
+   "res": "1k"
+  },
+  {
+   "id": "brass_candleholders",
+   "res": "1k"
+  },
+  {
+   "id": "wooden_candlestick",
+   "res": "1k"
+  },
+  {
+   "id": "ceramic_vase_01",
+   "res": "1k"
+  },
+  {
+   "id": "brass_vase_01",
+   "res": "1k"
+  },
+  {
+   "id": "wicker_basket_02",
+   "res": "1k"
+  },
+  {
+   "id": "ceiling_interior",
    "res": "2k"
+  },
+  {
+   "id": "blue_plaster_wall",
+   "res": "2k"
+  },
+  {
+   "id": "floral_jacquard",
+   "res": "1k"
+  },
+  {
+   "id": "fabric_pattern_07",
+   "res": "1k"
+  },
+  {
+   "id": "wool_boucle",
+   "res": "1k"
+  }
+ ],
+ "sketchfab_buscar": [
+  {
+   "clave": "navidad_corona",
+   "q": "christmas wreath",
+   "solo_objaverse": true,
+   "max": 24,
+   "paginas": 3
+  },
+  {
+   "clave": "navidad_media",
+   "q": "christmas stocking",
+   "solo_objaverse": true,
+   "max": 24,
+   "paginas": 3
+  },
+  {
+   "clave": "navidad_pascua",
+   "q": "poinsettia",
+   "solo_objaverse": true,
+   "max": 24,
+   "paginas": 3
+  },
+  {
+   "clave": "navidad_cascanueces",
+   "q": "nutcracker",
+   "solo_objaverse": true,
+   "max": 24,
+   "paginas": 3
+  },
+  {
+   "clave": "navidad_bolas",
+   "q": "christmas ornaments",
+   "solo_objaverse": true,
+   "max": 24,
+   "paginas": 3
+  },
+  {
+   "clave": "navidad_regalos",
+   "q": "christmas gift box",
+   "solo_objaverse": true,
+   "max": 24,
+   "paginas": 3
+  },
+  {
+   "clave": "navidad_guirnalda",
+   "q": "christmas garland",
+   "solo_objaverse": true,
+   "max": 24,
+   "paginas": 3
+  },
+  {
+   "clave": "navidad_chimenea",
+   "q": "christmas fireplace",
+   "solo_objaverse": true,
+   "max": 24,
+   "paginas": 3
+  },
+  {
+   "clave": "chimenea",
+   "q": "fireplace mantel",
+   "solo_objaverse": true,
+   "max": 24,
+   "paginas": 3
+  },
+  {
+   "clave": "alfombra",
+   "q": "persian rug",
+   "solo_objaverse": true,
+   "max": 24,
+   "paginas": 3
+  },
+  {
+   "clave": "navidad_velas",
+   "q": "christmas candles",
+   "solo_objaverse": true,
+   "max": 24,
+   "paginas": 3
+  },
+  {
+   "clave": "navidad_bola_nieve",
+   "q": "snow globe",
+   "solo_objaverse": true,
+   "max": 24,
+   "paginas": 3
+  },
+  {
+   "clave": "navidad_santa",
+   "q": "santa claus figurine",
+   "solo_objaverse": true,
+   "max": 24,
+   "paginas": 3
+  },
+  {
+   "clave": "mecedora",
+   "q": "rocking chair",
+   "solo_objaverse": true,
+   "max": 24,
+   "paginas": 3
+  },
+  {
+   "clave": "navidad_centro_mesa",
+   "q": "christmas centerpiece",
+   "solo_objaverse": true,
+   "max": 24,
+   "paginas": 3
   }
  ]
 }
