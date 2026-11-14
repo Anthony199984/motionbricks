@@ -1,22 +1,10 @@
 {
- "total_seconds": 619.3,
+ "total_seconds": 196.9,
  "jobs": [
   {
-   "name": "hv_rascar_cabeza_2",
-   "response": "OK\t150\t30",
-   "seconds": 235.4,
-   "frames": 150
-  },
-  {
-   "name": "hv_tapar_boca_2",
-   "response": "OK\t105\t30",
-   "seconds": 183.7,
-   "frames": 105
-  },
-  {
-   "name": "hv_girar_objeto_mesa_2",
+   "name": "mk_hacha_dos_manos_2",
    "response": "OK\t120\t30",
-   "seconds": 200.2,
+   "seconds": 196.9,
    "frames": 120
   }
  ]
