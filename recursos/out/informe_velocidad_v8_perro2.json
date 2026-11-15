@@ -1,0 +1,30 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/pastor_sentado.glb",
+   "mb": 1.5
+  },
+  {
+   "destino": "objaverse/pastor_echado.glb",
+   "mb": 1.98
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "pastor_sentado": {
+   "uid": "74fb76422a7244a2bd73757ab533ab94",
+   "nombre": "pastor_sentado",
+   "titulo": "German Shepherd (Sitting)",
+   "autor": "dwigfor",
+   "licencia": "CC Attribution-NonCommercial"
+  },
+  "pastor_echado": {
+   "uid": "cdf56b3d94724be4b6351ff6e9355d07",
+   "nombre": "pastor_echado",
+   "titulo": "German Shepherd (Laying Down)",
+   "autor": "dwigfor",
+   "licencia": "CC Attribution-NonCommercial"
+  }
+ }
+}

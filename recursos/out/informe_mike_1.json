@@ -1,0 +1,934 @@
+{
+ "bajados": [
+  {
+   "destino": "modelos/wooden_axe/wooden_axe_2k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/wooden_axe/wooden_axe.bin",
+   "mb": 0.09
+  },
+  {
+   "destino": "modelos/wooden_axe/textures/wooden_axe_arm_2k.jpg",
+   "mb": 2.34
+  },
+  {
+   "destino": "modelos/wooden_axe/textures/wooden_axe_nor_gl_2k.jpg",
+   "mb": 2.02
+  },
+  {
+   "destino": "modelos/wooden_axe/textures/wooden_axe_diff_2k.jpg",
+   "mb": 2.47
+  },
+  {
+   "destino": "modelos/wooden_axe_02/wooden_axe_02_2k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/wooden_axe_02/textures/wooden_axe_02_arm_2k.jpg",
+   "mb": 3.07
+  },
+  {
+   "destino": "modelos/wooden_axe_02/textures/wooden_axe_02_diff_2k.jpg",
+   "mb": 2.91
+  },
+  {
+   "destino": "modelos/wooden_axe_02/textures/wooden_axe_02_nor_gl_2k.jpg",
+   "mb": 2.31
+  },
+  {
+   "destino": "modelos/wooden_axe_02/wooden_axe_02.bin",
+   "mb": 0.06
+  },
+  {
+   "destino": "modelos/hatchet/hatchet_2k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/hatchet/textures/hatchet_diff_2k.jpg",
+   "mb": 1.85
+  },
+  {
+   "destino": "modelos/hatchet/textures/hatchet_arm_2k.jpg",
+   "mb": 2.27
+  },
+  {
+   "destino": "modelos/hatchet/hatchet.bin",
+   "mb": 0.16
+  },
+  {
+   "destino": "modelos/hatchet/textures/hatchet_nor_gl_2k.jpg",
+   "mb": 2.39
+  },
+  {
+   "destino": "modelos/tree_stump_01/tree_stump_01_2k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/tree_stump_01/tree_stump_01.bin",
+   "mb": 0.92
+  },
+  {
+   "destino": "modelos/tree_stump_01/textures/tree_stump_01_nor_gl_2k.jpg",
+   "mb": 4.21
+  },
+  {
+   "destino": "modelos/tree_stump_01/textures/tree_stump_01_diff_2k.jpg",
+   "mb": 3.04
+  },
+  {
+   "destino": "modelos/tree_stump_01/textures/tree_stump_01_arm_2k.jpg",
+   "mb": 2.67
+  },
+  {
+   "destino": "modelos/tree_stump_02/tree_stump_02_2k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/tree_stump_02/textures/tree_stump_02_diff_2k.jpg",
+   "mb": 3.28
+  },
+  {
+   "destino": "modelos/tree_stump_02/textures/tree_stump_02_arm_2k.jpg",
+   "mb": 2.79
+  },
+  {
+   "destino": "modelos/tree_stump_02/tree_stump_02.bin",
+   "mb": 1.37
+  },
+  {
+   "destino": "modelos/tree_stump_02/textures/tree_stump_02_nor_gl_2k.jpg",
+   "mb": 4.99
+  },
+  {
+   "destino": "modelos/wooden_crate_01/wooden_crate_01_2k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/wooden_crate_01/wooden_crate_01.bin",
+   "mb": 0.18
+  },
+  {
+   "destino": "modelos/wooden_crate_01/textures/wooden_crate_01_arm_2k.jpg",
+   "mb": 2.68
+  },
+  {
+   "destino": "modelos/wooden_crate_01/textures/wooden_crate_01_nor_gl_2k.jpg",
+   "mb": 2.44
+  },
+  {
+   "destino": "modelos/wooden_crate_01/textures/wooden_crate_01_diff_2k.jpg",
+   "mb": 2.6
+  },
+  {
+   "destino": "modelos/wooden_crate_02/wooden_crate_02_2k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/wooden_crate_02/textures/wooden_crate_02_nor_gl_2k.jpg",
+   "mb": 2.18
+  },
+  {
+   "destino": "modelos/wooden_crate_02/textures/wooden_crate_02_arm_2k.jpg",
+   "mb": 2.85
+  },
+  {
+   "destino": "modelos/wooden_crate_02/textures/wooden_crate_02_diff_2k.jpg",
+   "mb": 2.61
+  },
+  {
+   "destino": "modelos/wooden_crate_02/wooden_crate_02.bin",
+   "mb": 0.14
+  },
+  {
+   "destino": "modelos/food_apple_01/food_apple_01_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/food_apple_01/textures/food_apple_01_diff_1k.jpg",
+   "mb": 0.18
+  },
+  {
+   "destino": "modelos/food_apple_01/food_apple_01.bin",
+   "mb": 0.16
+  },
+  {
+   "destino": "modelos/food_apple_01/textures/food_apple_01_nor_gl_1k.jpg",
+   "mb": 0.06
+  },
+  {
+   "destino": "modelos/food_apple_01/textures/food_apple_01_rough_1k.jpg",
+   "mb": 0.05
+  },
+  {
+   "destino": "modelos/old_bed_frame/old_bed_frame_2k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/old_bed_frame/textures/old_bed_frame_nor_gl_2k.jpg",
+   "mb": 2.53
+  },
+  {
+   "destino": "modelos/old_bed_frame/textures/old_bed_frame_diff_2k.jpg",
+   "mb": 2.49
+  },
+  {
+   "destino": "modelos/old_bed_frame/textures/old_bed_frame_arm_2k.jpg",
+   "mb": 2.88
+  },
+  {
+   "destino": "modelos/vintage_suitcase/vintage_suitcase_2k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/vintage_suitcase/textures/vintage_suitcase_02_nor_gl_2k.jpg",
+   "mb": 3.18
+  },
+  {
+   "destino": "modelos/vintage_suitcase/textures/vintage_suitcase_01_diff_2k.jpg",
+   "mb": 1.55
+  },
+  {
+   "destino": "modelos/vintage_suitcase/textures/vintage_suitcase_02_arm_2k.jpg",
+   "mb": 2.49
+  },
+  {
+   "destino": "modelos/vintage_suitcase/vintage_suitcase.bin",
+   "mb": 0.45
+  },
+  {
+   "destino": "modelos/vintage_suitcase/textures/vintage_suitcase_01_arm_2k.jpg",
+   "mb": 2.49
+  },
+  {
+   "destino": "modelos/vintage_suitcase/textures/vintage_suitcase_01_nor_gl_2k.jpg",
+   "mb": 3.17
+  },
+  {
+   "destino": "modelos/vintage_suitcase/textures/vintage_suitcase_02_diff_2k.jpg",
+   "mb": 1.67
+  },
+  {
+   "destino": "modelos/vintage_oil_lamp/vintage_oil_lamp_2k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/vintage_oil_lamp/textures/vintage_oil_lamp_glass_nor_gl_2k.jpg",
+   "mb": 0.14
+  },
+  {
+   "destino": "modelos/vintage_oil_lamp/textures/vintage_oil_lamp_diff_2k.jpg",
+   "mb": 1.79
+  },
+  {
+   "destino": "modelos/vintage_oil_lamp/textures/vintage_oil_lamp_glass_diff_2k.jpg",
+   "mb": 0.13
+  },
+  {
+   "destino": "modelos/vintage_oil_lamp/vintage_oil_lamp.bin",
+   "mb": 0.18
+  },
+  {
+   "destino": "modelos/vintage_oil_lamp/textures/vintage_oil_lamp_flame_diff_2k.jpg",
+   "mb": 0.28
+  },
+  {
+   "destino": "modelos/vintage_oil_lamp/textures/vintage_oil_lamp_glass_arm_2k.jpg",
+   "mb": 0.96
+  },
+  {
+   "destino": "modelos/vintage_oil_lamp/textures/vintage_oil_lamp_arm_2k.jpg",
+   "mb": 2.21
+  },
+  {
+   "destino": "modelos/vintage_oil_lamp/textures/vintage_oil_lamp_nor_gl_2k.jpg",
+   "mb": 0.63
+  },
+  {
+   "destino": "modelos/Lantern_01/Lantern_01_2k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/Lantern_01/textures/Lantern_01_brass_diff_2k.jpg",
+   "mb": 0.5
+  },
+  {
+   "destino": "modelos/Lantern_01/textures/Lantern_01_brass_nor_gl_2k.jpg",
+   "mb": 0.77
+  },
+  {
+   "destino": "modelos/Lantern_01/textures/Lantern_01_brass_arm_2k.jpg",
+   "mb": 0.81
+  },
+  {
+   "destino": "modelos/Lantern_01/Lantern_01.bin",
+   "mb": 0.82
+  },
+  {
+   "destino": "modelos/WoodenTable_01/WoodenTable_01_2k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/WoodenTable_01/WoodenTable_01.bin",
+   "mb": 0.04
+  },
+  {
+   "destino": "modelos/WoodenTable_01/textures/WoodenTable_01_diff_2k.jpg",
+   "mb": 0.51
+  },
+  {
+   "destino": "modelos/WoodenTable_01/textures/WoodenTable_01_nor_gl_2k.jpg",
+   "mb": 0.47
+  },
+  {
+   "destino": "modelos/WoodenTable_01/textures/WoodenTable_01_arm_2k.jpg",
+   "mb": 0.71
+  },
+  {
+   "destino": "modelos/wooden_table_02/wooden_table_02_2k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/wooden_table_02/wooden_table_02.bin",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/wooden_table_02/textures/wooden_table_02_nor_gl_2k.jpg",
+   "mb": 0.52
+  },
+  {
+   "destino": "modelos/wooden_table_02/textures/wooden_table_02_diff_2k.jpg",
+   "mb": 0.68
+  },
+  {
+   "destino": "modelos/wooden_table_02/textures/wooden_table_02_arm_2k.jpg",
+   "mb": 0.65
+  },
+  {
+   "destino": "modelos/painted_wooden_chair_01/painted_wooden_chair_01_2k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/painted_wooden_chair_01/textures/painted_wooden_chair_01_nor_gl_2k.jpg",
+   "mb": 0.48
+  },
+  {
+   "destino": "modelos/painted_wooden_chair_01/textures/painted_wooden_chair_01_diff_2k.jpg",
+   "mb": 0.52
+  },
+  {
+   "destino": "modelos/painted_wooden_chair_01/textures/painted_wooden_chair_01_arm_2k.jpg",
+   "mb": 0.43
+  },
+  {
+   "destino": "modelos/painted_wooden_chair_01/painted_wooden_chair_01.bin",
+   "mb": 0.04
+  },
+  {
+   "destino": "modelos/round_spectacles/round_spectacles_1k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/round_spectacles/textures/round_spectacles_nor_gl_1k.jpg",
+   "mb": 0.49
+  },
+  {
+   "destino": "modelos/round_spectacles/textures/round_spectacles_diff_1k.jpg",
+   "mb": 0.48
+  },
+  {
+   "destino": "modelos/round_spectacles/textures/round_spectacles_arm_1k.jpg",
+   "mb": 0.6
+  },
+  {
+   "destino": "modelos/round_spectacles/round_spectacles.bin",
+   "mb": 0.4
+  },
+  {
+   "destino": "modelos/Camera_01/Camera_01_2k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/Camera_01/textures/Camera_01_body_nor_gl_2k.jpg",
+   "mb": 0.87
+  },
+  {
+   "destino": "modelos/Camera_01/textures/Camera_01_lens_body_diff_2k.jpg",
+   "mb": 0.31
+  },
+  {
+   "destino": "modelos/Camera_01/Camera_01.bin",
+   "mb": 0.81
+  },
+  {
+   "destino": "modelos/Camera_01/textures/Camera_01_lens_body_nor_gl_2k.jpg",
+   "mb": 0.47
+  },
+  {
+   "destino": "modelos/Camera_01/textures/Camera_01_strap_nor_gl_2k.jpg",
+   "mb": 0.77
+  },
+  {
+   "destino": "modelos/Camera_01/textures/Camera_01_strap_arm_2k.jpg",
+   "mb": 0.54
+  },
+  {
+   "destino": "modelos/Camera_01/textures/Camera_01_lens_body_arm_2k.jpg",
+   "mb": 0.51
+  },
+  {
+   "destino": "modelos/Camera_01/textures/Camera_01_strap_diff_2k.jpg",
+   "mb": 0.39
+  },
+  {
+   "destino": "modelos/Camera_01/textures/Camera_01_body_diff_2k.jpg",
+   "mb": 0.51
+  },
+  {
+   "destino": "modelos/Camera_01/textures/Camera_01_body_arm_2k.jpg",
+   "mb": 0.71
+  },
+  {
+   "destino": "modelos/jug_01/jug_01_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/jug_01/jug_01.bin",
+   "mb": 0.13
+  },
+  {
+   "destino": "modelos/jug_01/textures/jug_01_diff_1k.jpg",
+   "mb": 0.4
+  },
+  {
+   "destino": "modelos/jug_01/textures/jug_01_nor_gl_1k.jpg",
+   "mb": 0.08
+  },
+  {
+   "destino": "modelos/jug_01/textures/jug_01_arm_1k.jpg",
+   "mb": 0.55
+  },
+  {
+   "destino": "modelos/wooden_bucket_01/wooden_bucket_01_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/wooden_bucket_01/textures/wooden_bucket_01_arm_1k.jpg",
+   "mb": 0.74
+  },
+  {
+   "destino": "modelos/wooden_bucket_01/wooden_bucket_01.bin",
+   "mb": 0.15
+  },
+  {
+   "destino": "modelos/wooden_bucket_01/textures/wooden_bucket_01_diff_1k.jpg",
+   "mb": 0.67
+  },
+  {
+   "destino": "modelos/wooden_bucket_01/textures/wooden_bucket_01_nor_gl_1k.jpg",
+   "mb": 0.66
+  },
+  {
+   "destino": "modelos/wicker_basket_01/wicker_basket_01_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/wicker_basket_01/textures/wicker_basket_01_arm_1k.jpg",
+   "mb": 0.83
+  },
+  {
+   "destino": "modelos/wicker_basket_01/textures/wicker_basket_01_nor_gl_1k.jpg",
+   "mb": 0.52
+  },
+  {
+   "destino": "modelos/wicker_basket_01/textures/wicker_basket_01_diff_1k.jpg",
+   "mb": 0.65
+  },
+  {
+   "destino": "modelos/wicker_basket_01/wicker_basket_01.bin",
+   "mb": 0.6
+  },
+  {
+   "destino": "modelos/painted_wooden_nightstand/painted_wooden_nightstand_2k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/painted_wooden_nightstand/textures/painted_wooden_nightstand_nor_gl_2k.jpg",
+   "mb": 2.96
+  },
+  {
+   "destino": "modelos/painted_wooden_nightstand/textures/painted_wooden_nightstand_diff_2k.jpg",
+   "mb": 2.16
+  },
+  {
+   "destino": "modelos/painted_wooden_nightstand/textures/painted_wooden_nightstand_arm_2k.jpg",
+   "mb": 2.69
+  },
+  {
+   "destino": "modelos/pot_enamel_01/pot_enamel_01_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/pot_enamel_01/textures/pot_enamel_01_arm_1k.jpg",
+   "mb": 0.47
+  },
+  {
+   "destino": "modelos/pot_enamel_01/textures/pot_enamel_01_diff_1k.jpg",
+   "mb": 0.51
+  },
+  {
+   "destino": "modelos/pot_enamel_01/textures/pot_enamel_01_nor_gl_1k.jpg",
+   "mb": 0.41
+  },
+  {
+   "destino": "modelos/pot_enamel_01/pot_enamel_01.bin",
+   "mb": 0.26
+  },
+  {
+   "destino": "hdri/farm_field_4k.hdr",
+   "mb": 24.41
+  },
+  {
+   "destino": "hdri/belfast_farmhouse_4k.hdr",
+   "mb": 23.66
+  },
+  {
+   "destino": "hdri/dry_hay_field_4k.hdr",
+   "mb": 25.06
+  },
+  {
+   "destino": "hdri/kiara_1_dawn_4k.hdr",
+   "mb": 24.24
+  },
+  {
+   "destino": "hdri/farm_sunset_4k.hdr",
+   "mb": 25.34
+  },
+  {
+   "destino": "hdri/hotel_room_4k.hdr",
+   "mb": 23.35
+  },
+  {
+   "destino": "texturas/farm_soil/farm_soil_Diffuse_2k.jpg",
+   "mb": 2.71
+  },
+  {
+   "destino": "texturas/farm_soil/farm_soil_nor_gl_2k.jpg",
+   "mb": 5.62
+  },
+  {
+   "destino": "texturas/farm_soil/farm_soil_Rough_2k.jpg",
+   "mb": 1.03
+  },
+  {
+   "destino": "texturas/farm_soil/farm_soil_AO_2k.jpg",
+   "mb": 3.67
+  },
+  {
+   "destino": "texturas/farm_soil/farm_soil_Displacement_2k.jpg",
+   "mb": 1.5
+  },
+  {
+   "destino": "texturas/farm_soil/farm_soil_arm_2k.jpg",
+   "mb": 3.64
+  },
+  {
+   "destino": "texturas/distressed_painted_planks/distressed_painted_planks_Diffuse_2k.jpg",
+   "mb": 1.36
+  },
+  {
+   "destino": "texturas/distressed_painted_planks/distressed_painted_planks_nor_gl_2k.jpg",
+   "mb": 1.63
+  },
+  {
+   "destino": "texturas/distressed_painted_planks/distressed_painted_planks_Rough_2k.jpg",
+   "mb": 1.28
+  },
+  {
+   "destino": "texturas/distressed_painted_planks/distressed_painted_planks_AO_2k.jpg",
+   "mb": 0.72
+  },
+  {
+   "destino": "texturas/distressed_painted_planks/distressed_painted_planks_Displacement_2k.jpg",
+   "mb": 0.42
+  },
+  {
+   "destino": "texturas/distressed_painted_planks/distressed_painted_planks_arm_2k.jpg",
+   "mb": 1.38
+  },
+  {
+   "destino": "texturas/raw_plank_wall/raw_plank_wall_Diffuse_2k.jpg",
+   "mb": 2.41
+  },
+  {
+   "destino": "texturas/raw_plank_wall/raw_plank_wall_nor_gl_2k.jpg",
+   "mb": 3.07
+  },
+  {
+   "destino": "texturas/raw_plank_wall/raw_plank_wall_Rough_2k.jpg",
+   "mb": 1.56
+  },
+  {
+   "destino": "texturas/raw_plank_wall/raw_plank_wall_AO_2k.jpg",
+   "mb": 2.41
+  },
+  {
+   "destino": "texturas/raw_plank_wall/raw_plank_wall_Displacement_2k.jpg",
+   "mb": 0.78
+  },
+  {
+   "destino": "texturas/raw_plank_wall/raw_plank_wall_arm_2k.jpg",
+   "mb": 2.32
+  },
+  {
+   "destino": "texturas/old_wood_floor/old_wood_floor_Diffuse_2k.jpg",
+   "mb": 2.97
+  },
+  {
+   "destino": "texturas/old_wood_floor/old_wood_floor_nor_gl_2k.jpg",
+   "mb": 2.79
+  },
+  {
+   "destino": "texturas/old_wood_floor/old_wood_floor_Rough_2k.jpg",
+   "mb": 2.26
+  },
+  {
+   "destino": "texturas/old_wood_floor/old_wood_floor_AO_2k.jpg",
+   "mb": 1.81
+  },
+  {
+   "destino": "texturas/old_wood_floor/old_wood_floor_Displacement_2k.jpg",
+   "mb": 0.85
+  },
+  {
+   "destino": "texturas/old_wood_floor/old_wood_floor_arm_2k.jpg",
+   "mb": 2.64
+  },
+  {
+   "destino": "texturas/red_plaster_weathered/red_plaster_weathered_Diffuse_2k.jpg",
+   "mb": 2.98
+  },
+  {
+   "destino": "texturas/red_plaster_weathered/red_plaster_weathered_nor_gl_2k.jpg",
+   "mb": 2.78
+  },
+  {
+   "destino": "texturas/red_plaster_weathered/red_plaster_weathered_Rough_2k.jpg",
+   "mb": 2.49
+  },
+  {
+   "destino": "texturas/red_plaster_weathered/red_plaster_weathered_AO_2k.jpg",
+   "mb": 2.32
+  },
+  {
+   "destino": "texturas/red_plaster_weathered/red_plaster_weathered_Displacement_2k.jpg",
+   "mb": 1.51
+  },
+  {
+   "destino": "texturas/red_plaster_weathered/red_plaster_weathered_arm_2k.jpg",
+   "mb": 2.89
+  },
+  {
+   "destino": "texturas/brown_planks_05/brown_planks_05_Diffuse_2k.jpg",
+   "mb": 1.23
+  },
+  {
+   "destino": "texturas/brown_planks_05/brown_planks_05_nor_gl_2k.jpg",
+   "mb": 2.72
+  },
+  {
+   "destino": "texturas/brown_planks_05/brown_planks_05_Rough_2k.jpg",
+   "mb": 0.36
+  },
+  {
+   "destino": "texturas/brown_planks_05/brown_planks_05_AO_2k.jpg",
+   "mb": 1.83
+  },
+  {
+   "destino": "texturas/brown_planks_05/brown_planks_05_Displacement_2k.jpg",
+   "mb": 0.43
+  },
+  {
+   "destino": "texturas/brown_planks_05/brown_planks_05_arm_2k.jpg",
+   "mb": 0.58
+  },
+  {
+   "destino": "texturas/dry_ground_rocks/dry_ground_rocks_Diffuse_2k.jpg",
+   "mb": 3.27
+  },
+  {
+   "destino": "texturas/dry_ground_rocks/dry_ground_rocks_nor_gl_2k.jpg",
+   "mb": 5.09
+  },
+  {
+   "destino": "texturas/dry_ground_rocks/dry_ground_rocks_Rough_2k.jpg",
+   "mb": 1.8
+  },
+  {
+   "destino": "texturas/dry_ground_rocks/dry_ground_rocks_AO_2k.jpg",
+   "mb": 2.25
+  },
+  {
+   "destino": "texturas/dry_ground_rocks/dry_ground_rocks_Displacement_2k.jpg",
+   "mb": 0.83
+  },
+  {
+   "destino": "texturas/dry_ground_rocks/dry_ground_rocks_arm_2k.jpg",
+   "mb": 1.07
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "info": {
+  "wooden_axe": {
+   "nombre": "Wooden Axe",
+   "autores": {
+    "Ulan Cabanilla": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "wooden_axe_02": {
+   "nombre": "Wooden Axe 02",
+   "autores": {
+    "Ulan Cabanilla": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "hatchet": {
+   "nombre": "Hatchet",
+   "autores": {
+    "James Ray Cock": "Texturing",
+    "Ulan Cabanilla": "modeling"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "tree_stump_01": {
+   "nombre": "Tree Stump 01",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "tree_stump_02": {
+   "nombre": "Tree Stump 02",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "wooden_crate_01": {
+   "nombre": "Wooden Crate 01",
+   "autores": {
+    "James Ray Cock": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "wooden_crate_02": {
+   "nombre": "Wooden Crate 02",
+   "autores": {
+    "James Ray Cock": "modeling",
+    "Jurita Burger": "graphic design"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "food_apple_01": {
+   "nombre": "Food Apple 01",
+   "autores": {
+    "Oliver Harries": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "old_bed_frame": {
+   "nombre": "Old Bed Frame",
+   "autores": {
+    "Luca B": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "vintage_suitcase": {
+   "nombre": "Vintage Suitcase",
+   "autores": {
+    "Maximilian Schuster": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "vintage_oil_lamp": {
+   "nombre": "Vintage Oil Lamp",
+   "autores": {
+    "Monsta3D": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "Lantern_01": {
+   "nombre": "Lantern 01",
+   "autores": {
+    "Rajil Jose Macatangay": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "WoodenTable_01": {
+   "nombre": "Wooden Table 01",
+   "autores": {
+    "Ethan Place": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "wooden_table_02": {
+   "nombre": "Wooden Table 02",
+   "autores": {
+    "Serhii Khromov": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "painted_wooden_chair_01": {
+   "nombre": "Painted Wooden Chair 01",
+   "autores": {
+    "Kuutti Siitonen": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "round_spectacles": {
+   "nombre": "Round Spectacles",
+   "autores": {
+    "Sean Buckley": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "Camera_01": {
+   "nombre": "Camera 01",
+   "autores": {
+    "Rajil Jose Macatangay": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "jug_01": {
+   "nombre": "Jug 01",
+   "autores": {
+    "Kuutti Siitonen": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "wooden_bucket_01": {
+   "nombre": "Wooden Bucket 01",
+   "autores": {
+    "James Ray Cock": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "wicker_basket_01": {
+   "nombre": "Wicker Basket 01",
+   "autores": {
+    "Kuutti Siitonen": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "painted_wooden_nightstand": {
+   "nombre": "Painted Wooden Nightstand",
+   "autores": {
+    "Kirill Sannikov": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "pot_enamel_01": {
+   "nombre": "Pot Enamel 01",
+   "autores": {
+    "Kuutti Siitonen": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "farm_field": {
+   "nombre": "Farm Field",
+   "autores": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "belfast_farmhouse": {
+   "nombre": "Belfast Farmhouse",
+   "autores": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "dry_hay_field": {
+   "nombre": "Dry Hay Field",
+   "autores": {
+    "Alexander Scholten": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "kiara_1_dawn": {
+   "nombre": "Kiara 1 Dawn",
+   "autores": {
+    "Greg Zaal": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "farm_sunset": {
+   "nombre": "Farm Sunset",
+   "autores": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "hotel_room": {
+   "nombre": "Hotel Room",
+   "autores": {
+    "Greg Zaal": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "farm_soil": {
+   "nombre": "Farm Soil",
+   "autores": {
+    "Amal Kumar": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "distressed_painted_planks": {
+   "nombre": "Distressed Painted Planks",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "raw_plank_wall": {
+   "nombre": "Raw Plank Wall",
+   "autores": {
+    "Dimitrios Savva": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "old_wood_floor": {
+   "nombre": "Old Wood Floor",
+   "autores": {
+    "Guillaume Monsergent": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "red_plaster_weathered": {
+   "nombre": "Red Plaster Weathered",
+   "autores": {
+    "Amal Kumar": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "brown_planks_05": {
+   "nombre": "Brown Planks 05",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "dry_ground_rocks": {
+   "nombre": "Dry Ground Rocks",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  }
+ }
+}

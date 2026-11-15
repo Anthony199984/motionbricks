@@ -1,0 +1,230 @@
+{
+ "bajados": [
+  {
+   "destino": "texturas/mt_tierra/Callisto_Earth_Moon_size_comparison.jpg",
+   "mb": 3.04
+  },
+  {
+   "destino": "texturas/mt_tierra/Europa_Earth_Moon_size_comparison.jpg",
+   "mb": 4.35
+  },
+  {
+   "destino": "texturas/mt_tierra/Ganymede_Earth_Moon_size_comparison.jpg",
+   "mb": 2.98
+  },
+  {
+   "destino": "texturas/mt_tierra/Io_Earth_Moon_size_comparison.jpg",
+   "mb": 2.94
+  },
+  {
+   "destino": "texturas/mt_tierra2/Earth_Western_Hemisphere_transparent_background.png",
+   "mb": 3.89
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "commons": {
+  "mt_tierra": [
+   {
+    "titulo": "File:Callisto, Earth & Moon size comparison.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Callisto%2C_Earth_%26_Moon_size_comparison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 3.04,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "Apollo 17 Picture of the Whole Earth: NASA\n\nTelescopic Image of the Full Moon: G",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Callisto,_Earth_%26_Moon_size_comparison.jpg",
+    "archivo": "texturas/mt_tierra/Callisto_Earth_Moon_size_comparison.jpg"
+   },
+   {
+    "titulo": "File:Europa, Earth & Moon size comparison.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Europa%2C_Earth_%26_Moon_size_comparison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 4.35,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "Apollo 17 Picture of the Whole Earth: NASA\n\nTelescopic Image of the Full Moon: G",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Europa,_Earth_%26_Moon_size_comparison.jpg",
+    "archivo": "texturas/mt_tierra/Europa_Earth_Moon_size_comparison.jpg"
+   },
+   {
+    "titulo": "File:Ganymede, Earth & Moon size comparison.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ganymede%2C_Earth_%26_Moon_size_comparison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 2.98,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "Apollo 17 Picture of the Whole Earth: NASA\n\nTelescopic Image of the Full Moon: G",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ganymede,_Earth_%26_Moon_size_comparison.jpg",
+    "archivo": "texturas/mt_tierra/Ganymede_Earth_Moon_size_comparison.jpg"
+   },
+   {
+    "titulo": "File:Io, Earth & Moon size comparison.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Io%2C_Earth_%26_Moon_size_comparison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 2.94,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "Apollo 17 Picture of the Whole Earth: NASA\n\nTelescopic Image of the Full Moon: G",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Io,_Earth_%26_Moon_size_comparison.jpg",
+    "archivo": "texturas/mt_tierra/Io_Earth_Moon_size_comparison.jpg"
+   },
+   {
+    "titulo": "File:Moon, Earth size comparison.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Moon%2C_Earth_size_comparison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 2.54,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "Apollo 17 Picture of the Whole Earth: NASATelescopic Image of the Full Moon: Gre",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Moon,_Earth_size_comparison.jpg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:North America from low orbiting satellite Suomi NPP.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/North_America_from_low_orbiting_satellite_Suomi_NPP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 16.43,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "NASA/NOAA/GSFC/Suomi NPP/VIIRS/Norman Kuring",
+    "pagina": "https://commons.wikimedia.org/wiki/File:North_America_from_low_orbiting_satellite_Suomi_NPP.jpg"
+   },
+   {
+    "titulo": "File:Whole Earth, Day (hd video) (8269687871).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Whole_Earth%2C_Day_%28hd_video%29_%288269687871%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.5,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "NASA Goddard Space Flight Center from Greenbelt, MD, USA",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Whole_Earth,_Day_(hd_video)_(8269687871).jpg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Whole Earth, Night (hd video) (8269688429).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Whole_Earth%2C_Night_%28hd_video%29_%288269688429%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.39,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "NASA Goddard Space Flight Center from Greenbelt, MD, USA",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Whole_Earth,_Night_(hd_video)_(8269688429).jpg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Whole world (Comprossed).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Whole_world_%28Comprossed%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.06,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "NASA/Goddard Space Flight Center",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Whole_world_(Comprossed).jpg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Whole world - land and oceans.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Whole_world_-_land_and_oceans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 5.84,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "NASA Earth Observatory (NASA Goddard Space Flight Center)",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Whole_world_-_land_and_oceans.jpg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Whole world - land and oceans 12000.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Whole_world_-_land_and_oceans_12000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 19.11,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "NASA/Goddard Space Flight Center",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Whole_world_-_land_and_oceans_12000.jpg"
+   },
+   {
+    "titulo": "File:Whole world - time-lapse from 2004-01 to 2004-12.gif",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Whole_world_-_time-lapse_from_2004-01_to_2004-12.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 1.45,
+    "mime": "image/gif",
+    "licencia": "Public domain",
+    "autor": "NASA/Goddard Space Flight Center",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Whole_world_-_time-lapse_from_2004-01_to_2004-12.gif",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   }
+  ],
+  "mt_tierra2": [
+   {
+    "titulo": "File:Blue Marble Animation (4401845574).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Blue_Marble_Animation_%284401845574%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.1,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "NASA/Goddard Space Flight Center",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Blue_Marble_Animation_(4401845574).jpg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Blue Marble Western Hemisphere 2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Blue_Marble_Western_Hemisphere_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 1.93,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "NASA",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Blue_Marble_Western_Hemisphere_2022.jpg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Earth Eastern Hemisphere.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Earth_Eastern_Hemisphere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.51,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "NASA",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Earth_Eastern_Hemisphere.jpg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Earth Eastern Hemisphere 2002.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Earth_Eastern_Hemisphere_2002.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 4.23,
+    "mime": "image/png",
+    "licencia": "Public domain",
+    "autor": "Reto Stöckli (land surface, shallow water, clouds)\nRobert Simmon (enhancements: ",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Earth_Eastern_Hemisphere_2002.png",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Earth Western Hemisphere.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Earth_Western_Hemisphere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.57,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "Reto Stöckli (land surface, shallow water, clouds)\nRobert Simmon (enhancements: ",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Earth_Western_Hemisphere.jpg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Earth Western Hemisphere 2002.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Earth_Western_Hemisphere_2002.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 4.47,
+    "mime": "image/png",
+    "licencia": "Public domain",
+    "autor": "Reto Stöckli (land surface, shallow water, clouds)\nRobert Simmon (enhancements: ",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Earth_Western_Hemisphere_2002.png",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Earth Western Hemisphere transparent background.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Earth_Western_Hemisphere_transparent_background.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 3.89,
+    "mime": "image/png",
+    "licencia": "Public domain",
+    "autor": "",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Earth_Western_Hemisphere_transparent_background.png",
+    "archivo": "texturas/mt_tierra2/Earth_Western_Hemisphere_transparent_background.png"
+   },
+   {
+    "titulo": "File:Sydney, Australia - Flickr - NASA Goddard Photo and Video.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Sydney%2C_Australia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.8,
+    "mime": "image/jpeg",
+    "licencia": "Public domain",
+    "autor": "NASA/Robert Simmon and Reto Stöckli",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Sydney,_Australia_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   }
+  ]
+ }
+}

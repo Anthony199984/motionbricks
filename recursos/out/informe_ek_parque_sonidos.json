@@ -1,0 +1,399 @@
+{
+ "bajados": [
+  {
+   "destino": "sonidos/ek_parque_fs/Morning_in_Yarkon_park_-_Tel_Aviv_Israel.wav_by_kh_481080.mp3",
+   "mb": 0.51
+  },
+  {
+   "destino": "sonidos/ek_parque_fs/Nature_Bird_Park_Ambience_by_ShannonAHoniball_363156.mp3",
+   "mb": 3.55
+  },
+  {
+   "destino": "sonidos/ek_parque_fs/Nature_Bird_Park_Ambience_Softer_by_ShannonAHoniba_363155.mp3",
+   "mb": 3.53
+  },
+  {
+   "destino": "sonidos/ek_parque_fs/Regents_park_lively_birds_1.wav_by_Owl_318075.mp3",
+   "mb": 1.72
+  },
+  {
+   "destino": "sonidos/ek_parque_fs/dripping_park_NL_959AM_230223_0562_by_klankbeeld_734392.mp3",
+   "mb": 1.33
+  },
+  {
+   "destino": "sonidos/ek_parque_fs/morning-birds-urban-city-ambience-field-recording._578150.mp3",
+   "mb": 1.28
+  },
+  {
+   "destino": "sonidos/ek_pajaros_fs/Morning_Birdsong_and_Distant_Dog_Bark_in_the_Park__799143.mp3",
+   "mb": 2.31
+  },
+  {
+   "destino": "sonidos/ek_pajaros_fs/Birdsong_and_wind_through_trees_in_Stockwood_Park__268934.mp3",
+   "mb": 1.04
+  },
+  {
+   "destino": "sonidos/ek_pajaros_fs/Birds_in_Park_2_by_freekit_846452.mp3",
+   "mb": 1.47
+  },
+  {
+   "destino": "sonidos/ek_pajaros_fs/Outdoor_ambience_near_a_forest_with_birdsong_Midla_727609.mp3",
+   "mb": 2.79
+  },
+  {
+   "destino": "sonidos/ek_pajaros_fs/park_forest_Haanwijk_1221_PM_250306_1056_by_klankb_792432.mp3",
+   "mb": 3.73
+  },
+  {
+   "destino": "sonidos/ek_pajaros_fs/park_ambiance_Loonse_en_Drunense_Duinen_0912_AM_20_796181.mp3",
+   "mb": 1.98
+  },
+  {
+   "destino": "miniaturas/ek_gente_trota/677ed671c45c4de199ef3deeaee0bed9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "sonidos/ek_pajaros_mixkit/Little_birds_singing_in_the_trees_17-preview.mp3",
+   "mb": 0.25
+  },
+  {
+   "destino": "sonidos/ek_pajaros_mixkit/Morning_birds_2472-preview.mp3",
+   "mb": 6.24
+  },
+  {
+   "destino": "sonidos/ek_pajaros_mixkit/Sea_waves_with_birds_loop_1185-preview.mp3",
+   "mb": 1.12
+  },
+  {
+   "destino": "sonidos/ek_pajaros_mixkit/Forest_birds_ambience_1210-preview.mp3",
+   "mb": 4.5
+  },
+  {
+   "destino": "sonidos/ek_pajaros_mixkit/Forest_birds_singing_1212-preview.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/ek_pajaros_mixkit/Cartoon_dazzle_hit_and_birds_746-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/ek_pajaros_mixkit/Birds_chirping_near_the_river_2473-preview.mp3",
+   "mb": 2.67
+  },
+  {
+   "destino": "sonidos/ek_pajaros_mixkit/Flock_of_wild_geese_20-preview.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/ek_pajaros_mixkit/Running_through_the_forest_1232-preview.mp3",
+   "mb": 0.44
+  },
+  {
+   "destino": "sonidos/ek_pajaros_mixkit/Natural_ambience_with_flowing_water_and_birds_61-preview.mp3",
+   "mb": 1.42
+  },
+  {
+   "destino": "sonidos/ek_pajaros_mixkit/Birds_in_the_jungle_2434-preview.mp3",
+   "mb": 1.81
+  },
+  {
+   "destino": "sonidos/ek_pajaros_mixkit/Windy_humming_forest_with_birds_1238-preview.mp3",
+   "mb": 3.68
+  },
+  {
+   "destino": "sonidos/ek_pajaros_mixkit/Tropical_bird_squeak_27-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/ek_pajaros_mixkit/River_in_the_forest_with_birds_1216-preview.mp3",
+   "mb": 2.89
+  },
+  {
+   "destino": "sonidos/ek_parque_mixkit/Busy_park_playground_with_kids_playing_2264-preview.mp3",
+   "mb": 1.77
+  },
+  {
+   "destino": "sonidos/ek_parque_mixkit/Urban_park_and_traffic_2932-preview.mp3",
+   "mb": 3.17
+  },
+  {
+   "destino": "sonidos/ek_parque_mixkit/Calm_park_with_people_and_children_367-preview.mp3",
+   "mb": 3.09
+  },
+  {
+   "destino": "sonidos/ek_parque_mixkit/Park_playground_with_kids_372-preview.mp3",
+   "mb": 1.82
+  },
+  {
+   "destino": "sonidos/ek_parque_mixkit/Skateboard_sliding_in_the_park_2101-preview.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/ek_pajaros_commons/Bourne_Woods_2020-04-26_0815a.mp3",
+   "mb": 1.28
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "freesound": {
+  "ek_parque_fs": [
+   {
+    "id": "481080",
+    "autor": "khenshom",
+    "pagina": "https://freesound.org/people/khenshom/sounds/481080/",
+    "titulo": "Morning in Yarkon park - Tel Aviv Israel.wav by khenshom",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/ek_parque_fs/Morning_in_Yarkon_park_-_Tel_Aviv_Israel.wav_by_kh_481080.mp3"
+   },
+   {
+    "id": "363156",
+    "autor": "ShannonAHoniball",
+    "pagina": "https://freesound.org/people/ShannonAHoniball/sounds/363156/",
+    "titulo": "Nature Bird Park Ambience by ShannonAHoniball",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/ek_parque_fs/Nature_Bird_Park_Ambience_by_ShannonAHoniball_363156.mp3"
+   },
+   {
+    "id": "363155",
+    "autor": "ShannonAHoniball",
+    "pagina": "https://freesound.org/people/ShannonAHoniball/sounds/363155/",
+    "titulo": "Nature Bird Park Ambience Softer by ShannonAHoniball",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/ek_parque_fs/Nature_Bird_Park_Ambience_Softer_by_ShannonAHoniba_363155.mp3"
+   },
+   {
+    "id": "318075",
+    "autor": "Owl",
+    "pagina": "https://freesound.org/people/Owl/sounds/318075/",
+    "titulo": "Regents park lively birds 1.wav by Owl",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/ek_parque_fs/Regents_park_lively_birds_1.wav_by_Owl_318075.mp3"
+   },
+   {
+    "id": "734392",
+    "autor": "klankbeeld",
+    "pagina": "https://freesound.org/people/klankbeeld/sounds/734392/",
+    "titulo": "dripping park NL  959AM 230223_0562 by klankbeeld",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/ek_parque_fs/dripping_park_NL_959AM_230223_0562_by_klankbeeld_734392.mp3"
+   },
+   {
+    "id": "578150",
+    "autor": "cynthia_1968",
+    "pagina": "https://freesound.org/people/cynthia_1968/sounds/578150/",
+    "titulo": "morning-birds-urban-city-ambience-field-recording.wav by cynthia_1968",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/ek_parque_fs/morning-birds-urban-city-ambience-field-recording._578150.mp3"
+   }
+  ],
+  "ek_pajaros_fs": [
+   {
+    "id": "799143",
+    "autor": "WhisperingEarth",
+    "pagina": "https://freesound.org/people/WhisperingEarth/sounds/799143/",
+    "titulo": "Morning Birdsong and Distant Dog Bark in the Park by WhisperingEarth",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/ek_pajaros_fs/Morning_Birdsong_and_Distant_Dog_Bark_in_the_Park__799143.mp3"
+   },
+   {
+    "id": "268934",
+    "autor": "icmusic",
+    "pagina": "https://freesound.org/people/icmusic/sounds/268934/",
+    "titulo": "Birdsong and wind through trees in Stockwood Park by icmusic",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/ek_pajaros_fs/Birdsong_and_wind_through_trees_in_Stockwood_Park__268934.mp3"
+   },
+   {
+    "id": "846452",
+    "autor": "freekit",
+    "pagina": "https://freesound.org/people/freekit/sounds/846452/",
+    "titulo": "Birds in Park 2 by freekit",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/ek_pajaros_fs/Birds_in_Park_2_by_freekit_846452.mp3"
+   },
+   {
+    "id": "727609",
+    "autor": "zoozio",
+    "pagina": "https://freesound.org/people/zoozio/sounds/727609/",
+    "titulo": "Outdoor ambience near a forest with birdsong (Midlands, England) by zoozio",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/ek_pajaros_fs/Outdoor_ambience_near_a_forest_with_birdsong_Midla_727609.mp3"
+   },
+   {
+    "id": "792432",
+    "autor": "klankbeeld",
+    "pagina": "https://freesound.org/people/klankbeeld/sounds/792432/",
+    "titulo": "park forest Haanwijk 1221 PM 250306_1056 by klankbeeld",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/ek_pajaros_fs/park_forest_Haanwijk_1221_PM_250306_1056_by_klankb_792432.mp3"
+   },
+   {
+    "id": "796181",
+    "autor": "klankbeeld",
+    "pagina": "https://freesound.org/people/klankbeeld/sounds/796181/",
+    "titulo": "park ambiance Loonse en Drunense Duinen 0912 AM 200425_0164 by klankbeeld",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/ek_pajaros_fs/park_ambiance_Loonse_en_Drunense_Duinen_0912_AM_20_796181.mp3"
+   }
+  ]
+ },
+ "sketchfab": {
+  "ek_gente_camina": [],
+  "ek_gente_trota": [
+   {
+    "uid": "677ed671c45c4de199ef3deeaee0bed9",
+    "nombre": "Female Jogging Free Animation (30 frames loop)",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1622,
+    "url": "https://sketchfab.com/3d-models/none-677ed671c45c4de199ef3deeaee0bed9",
+    "miniatura": "miniaturas/ek_gente_trota/677ed671c45c4de199ef3deeaee0bed9.jpg"
+   }
+  ],
+  "ek_gente_sentada": []
+ },
+ "mixkit": {
+  "ek_pajaros_mixkit": [
+   {
+    "titulo": "Little birds singing in the trees",
+    "url": "https://assets.mixkit.co/active_storage/sfx/17/17-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_pajaros_mixkit/Little_birds_singing_in_the_trees_17-preview.mp3"
+   },
+   {
+    "titulo": "Morning birds",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2472/2472-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_pajaros_mixkit/Morning_birds_2472-preview.mp3"
+   },
+   {
+    "titulo": "Sea waves with birds loop",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1185/1185-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_pajaros_mixkit/Sea_waves_with_birds_loop_1185-preview.mp3"
+   },
+   {
+    "titulo": "Forest birds ambience",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1210/1210-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_pajaros_mixkit/Forest_birds_ambience_1210-preview.mp3"
+   },
+   {
+    "titulo": "Forest birds singing",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1212/1212-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_pajaros_mixkit/Forest_birds_singing_1212-preview.mp3"
+   },
+   {
+    "titulo": "Cartoon dazzle hit and birds",
+    "url": "https://assets.mixkit.co/active_storage/sfx/746/746-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_pajaros_mixkit/Cartoon_dazzle_hit_and_birds_746-preview.mp3"
+   },
+   {
+    "titulo": "Birds chirping near the river",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2473/2473-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_pajaros_mixkit/Birds_chirping_near_the_river_2473-preview.mp3"
+   },
+   {
+    "titulo": "Flock of wild geese",
+    "url": "https://assets.mixkit.co/active_storage/sfx/20/20-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_pajaros_mixkit/Flock_of_wild_geese_20-preview.mp3"
+   },
+   {
+    "titulo": "Running through the forest",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1232/1232-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_pajaros_mixkit/Running_through_the_forest_1232-preview.mp3"
+   },
+   {
+    "titulo": "Natural ambience with flowing water and birds",
+    "url": "https://assets.mixkit.co/active_storage/sfx/61/61-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_pajaros_mixkit/Natural_ambience_with_flowing_water_and_birds_61-preview.mp3"
+   },
+   {
+    "titulo": "Birds in the jungle",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2434/2434-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_pajaros_mixkit/Birds_in_the_jungle_2434-preview.mp3"
+   },
+   {
+    "titulo": "Windy humming forest with birds",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1238/1238-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_pajaros_mixkit/Windy_humming_forest_with_birds_1238-preview.mp3"
+   },
+   {
+    "titulo": "Tropical bird squeak",
+    "url": "https://assets.mixkit.co/active_storage/sfx/27/27-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_pajaros_mixkit/Tropical_bird_squeak_27-preview.mp3"
+   },
+   {
+    "titulo": "River in the forest with birds",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1216/1216-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_pajaros_mixkit/River_in_the_forest_with_birds_1216-preview.mp3"
+   }
+  ],
+  "ek_parque_mixkit": [
+   {
+    "titulo": "Busy park playground with kids playing",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2264/2264-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_parque_mixkit/Busy_park_playground_with_kids_playing_2264-preview.mp3"
+   },
+   {
+    "titulo": "Urban park and traffic",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2932/2932-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_parque_mixkit/Urban_park_and_traffic_2932-preview.mp3"
+   },
+   {
+    "titulo": "Calm park with people and children",
+    "url": "https://assets.mixkit.co/active_storage/sfx/367/367-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_parque_mixkit/Calm_park_with_people_and_children_367-preview.mp3"
+   },
+   {
+    "titulo": "Park playground with kids",
+    "url": "https://assets.mixkit.co/active_storage/sfx/372/372-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_parque_mixkit/Park_playground_with_kids_372-preview.mp3"
+   },
+   {
+    "titulo": "Skateboard sliding in the park",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2101/2101-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/ek_parque_mixkit/Skateboard_sliding_in_the_park_2101-preview.mp3"
+   }
+  ]
+ },
+ "commons": {
+  "ek_pajaros_commons": [
+   {
+    "titulo": "File:Bourne Woods 2020-04-26 0815a.mp3",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bourne_Woods_2020-04-26_0815a.mp3?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 1.28,
+    "mime": "audio/mpeg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Robert EA Harvey",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Bourne_Woods_2020-04-26_0815a.mp3",
+    "archivo": "sonidos/ek_pajaros_commons/Bourne_Woods_2020-04-26_0815a.mp3"
+   },
+   {
+    "titulo": "File:Early morning Birdsong Leersum.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Early_morning_Birdsong_Leersum.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 68.45,
+    "mime": "audio/wav",
+    "licencia": "CC BY-SA 3.0 nl",
+    "autor": "Tammo Heikens",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Early_morning_Birdsong_Leersum.wav"
+   }
+  ]
+ }
+}

@@ -1,0 +1,2952 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/g1/1221edc4c2454b29b3b6adcd6fdefb0e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/e80922f5accb4f8ba7b66e6ca903748c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/df39b1d55b0a4cf0b24d38b529c04575.jpg",
+   "mb": 0.02
+  },
+  {
+   "destino": "miniaturas/g1/c522e5e8badd475f9820d27f06d6153b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/ab3efdd259a54d4aba5f878eacbe3f20.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g1/6f62617b9f1f4de88646b1d8fd007e8a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/12536f966f9048dcba7e33fa08d9d6b5.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/b83dd241ddba42f69b0445fa91bab781.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/dd8f0653f8ee472387607bfc9b303886.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/2f720ea69cb2407ba8598c02305ce524.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g1/2a09091d4e7b4539abe03f6a50762409.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g1/d733eb9a02774dbd94a04738596edf10.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/8497a1f3cc3742aba9acf2d92ecc376d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/e7e5f9b0c9c046869e81dd2fecd9dbc1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g1/864b8ce5d520478481198d1face5a7e5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g1/ea8c08dacaa749ca95543329ebded3de.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/59ff3237d25141608a4b5f5aa46c803b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/bf67351d084d4ff2aa8171826bfd94c3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g1/2080918b3f534d1ab517c356867e7172.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/38254a2cf59a4df4aa8b0a352f807749.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/385f9fe39f9a4ee7a39a63186c60472a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g1/c520dbe2df3941b7beafead46eb8c80b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/77c1c2c17d0c406887f986cdb0b0ec94.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/fe7a874e3bbc49b38ee50df266c9438f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/f42889d3fe1e48faa60e2b88eea4ef82.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/30a9682840f74196a25a5295f287ab6e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/fe9776c77b414c7c9ebfe55233001324.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/af1cd84d61314306bb7c57e29129c059.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g1/373ffd2e8cae476f9f78c92c6d8d71f8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g1/3e85572619bf4302ba4cec6a3263c5c0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g2/d9bcfdd88f5348549bc947226af7c314.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g2/f2616c6a06c44841bf1ddf5e9486571e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g2/4187adfe52824bd5a88ffb356e0b40ef.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g2/22e711221a094a48a6ffe826d3fd6185.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/2f69be91f3044fe68881e354b220fc60.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/f943ba2828a64b7d858ee6e4bdacedc6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/a6e8bb63ff5a41f5a9e1e7b0511cf79a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/dcecb765425c4f1e9104b420ad2349de.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g2/47acc754a2754d73902dab2ec46fd416.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/9134429a76424666a3bb442b38e94971.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g2/6b068fb93d054224bd95acb9745d233d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/67c5c173e3d24a2bb9d86195e825c9e2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/9cfd21f096254bc08cbbb410d4798eb0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/6dd31ceaa9a849a485b49a0c8c0ea8a6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g2/ed3d7a4b8b124e1591be83ccb4c02dcd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/4add87eb9b7744c593e6684c5df3551b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/2ff187f386b04ba4ba391cb425ae04b8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/4c99dc6af5804e0aaebb9c58e75ae1d5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/1e1fe9a41b6c41e68fdba824cc348d03.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/2e17b1413acf413eb28a553b072cfd98.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/e7419671f8124cab870d7a1a4d68b180.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/44b52c09d8de40ecb9c8322dc6def8c3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/63476db1a763402c94a8acfc92dc98e0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/a2d122fc447248559dc842a0f2865153.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/b52f3436d9514a5692cc2d52786dd102.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/7355f0617d144c018c190175429de1c6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/99da339f27dc4e10985f46b0262b7721.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/b0dd0afc25f44eadbe6dd8faed5ada36.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/74ab04f5913444f898fcaad9bd583d46.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g2/bea6e35b4c364a78a27a43adf92a8cb4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/eaca504567604e879b8ab2cf2763025e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/6d637c20029b41f584fd1683d3069729.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g3/97357aafa4ae4e4ab2ffe81c9e8a13ef.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g3/f339a62af93d406caa64aad1c7851838.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/6e3b93c078114c52bfe4cfa08b9843eb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/6c94f5a0d2ea4bb3af3715607df252c3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g3/c12a2715135b4f6a9816efdf90180a8c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/7d4b47de58fd4d54a36c88aa379d7bd9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g3/019b94f2deef470fa4252f95b02ed640.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g3/4b1ef9a1d8814e4c9ff4fe668d62bff1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/3d9fb8bd86854aa69ee6f69fcbeaca51.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/4983ac47fa674c1e8e9230c8afa4546e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/77abf020ac034830b107e0a986396034.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/5f68edbd81e44b6dad8a938fab6e03ad.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/bbaa566445074509a32ef5059a9d0bc2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/909337330aef47d0bba34e58c3b676e5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/75debbf3bfe14c259bd0db21581924de.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/16522107ad84410dad419e2e3977e721.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/0045e159d69e4964b19425374dd330aa.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g3/05d9dd5bdddd4157bd46dc179781ee6e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/d255ba1f26fa4b93b5b186941ecd7005.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/a896911783934a7cb7f0b8ee843d5200.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g3/ba47942d8746471b968a46a50774f569.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/0f7535dc9dd1492e842cd6b2d23f4885.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/9adba5a3a0e54563b42d62c6f2330bf2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/58ff717929034f9193aae2cacf6d339d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g3/d15b7543c6f84596b805a162e4b49d7d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/8808bc9ded994f44a2b09e13717a8a22.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g3/8aba7def4a404568a61437b43958862c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g3/f57900647f6647839ff0f80b52e3ec6b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g4/e763068d0c254d9dbea3e9fda424e008.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g4/6c94f5a0d2ea4bb3af3715607df252c3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g4/665d4e5a05e94db7acc1a3f957110b7b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g4/366c8e8adc5f43df8336ce80bd116b66.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g4/e2b30163548d485d9ee75249a84fcd3d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g4/927b5fd01d4946d1ac01ff6a0eddbb3a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g4/b515b79043ad4c9898d7d1ff38cbfde7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g4/d2118efe2b8d4df28661e4ff0501b75e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g4/fae4168fe7734ff88dc1ee9ace3d64af.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g4/27f0f72c5f464e0e9081557db353df47.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g4/59856dc494454d849c2f70eeb1f3d433.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g4/9aa5d0921ccb41fea29ec426e3b53610.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g4/9d1746b224964877810235d8027e0b3d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g4/e3f72e1213c8431a81342d30fbd5a6c2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g4/16d520598a32485eb32c1d59c7df02d7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g4/5f90da581a0242dc9e9a87a72da45a2b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/b6f6740f883b4749abac47af0045a9dd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/e66255aa77c041ed9517426ee0926856.jpg",
+   "mb": 0.02
+  },
+  {
+   "destino": "miniaturas/g5/188e5d8dd2cb4f098871b5dd5f6fa990.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g5/4b3c733d8bfd4ee2b91dcbcd02670686.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/cf7b9b312db4400c9d99ed40739b411a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g5/c3dfc53a600e427c9db9be83aec9860d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/ca121c1f31a24824921f686f60a89359.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/4f12473673a84680992fd7b5d89f1783.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g5/c53f91a1a962444fb1568f494dbc13eb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/bd51813b5f984e35a8bbd0f0edaff64e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g5/952c59bd39524dfa868eaccc98c4e01f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g5/9651c1898c384f299772035ba0bd6962.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g5/5eaf968103094a4a8978ca98b68ff04c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g5/7a60e92f29694ed9b43d591788c9d0fa.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/19fe51a5584b402f8cb7534c5faac57f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g5/00322ad15e1e4e5d9b626336f582f7f0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/09b57673f1764047bbf67a143932c45f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/2e6826aa0f2142cca046e7499305db6a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/e9249e9a2fb5444eb8d0e2439de4840f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/4f258247953a42d9a342d2d235c42354.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/8224adcfa06c4b66999a0f9f5f21ea7c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g5/fca00dcb9dda4974a774c88890822175.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g5/3e1cef4068684347b2f7fe0d47603fb1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g5/413d197f7c0f40f9a0aaafc323dae2da.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/34d26788e6f5440eb9bf7cd13e7d19d7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/2c4200eb77e440b9aded1a00b7b82937.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/0d5a676f75da403b8419154b102d55a7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/68770b7d3dad4e6eb528b91dae0d983b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/0dd306a1394d4737ae1ffcfd4939d987.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g5/7f6ac061db4642f589d3b340f84d9b61.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/42e02439c61049d681c897441d40aaa1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g6/2e815542505d48d8be91e9f7dbebfd0a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/5d812244f02c402ba7d0747338d2183e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g6/600e821c90e74cc8ae1bb078609327f0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/1fada85f4450472e8e5396a63e4e62c3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g6/e7a0ffa3e3174634bdb1edc08ac0bd7c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g6/8fe5023517b74eddb564130cbf2e4869.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/f2d7a014141841d99f16ccb4cc404326.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/306296aa2c564e68baa062532001507a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g6/b249aed3129d4f8a8959c8e252dd54ce.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/1ebd7891ab9e4f25877c957cc37353f6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/c8bafb2697944af1897cad7a0f50e37a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g6/69fa6d8aaaab4dc19f3c2cb5fcd498b1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/f785aeb50aa745b9a475c3895333d7b9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g6/5c29ca5803ad475eaaae12714e8f1dab.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g6/5300fae7b344407fbf5ac8505d5323ac.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g6/482befbbdb7342e1bad930d59f95abb1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g6/7d4b47de58fd4d54a36c88aa379d7bd9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g6/f2c4851bd44a489da25c893f6ba8dc7a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/c4900f4d6a314373a04170a858f57ce6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g6/51f06415321d42f0817097c3d8bcd792.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/3e87e2d771164cac96d4d3b12cec9e36.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g6/0232df067f864df0ae50a4a01a060ec3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/5dacf3bcbf354273a5d2848cddc42b3c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/ffd427134d5e44b4850628030aa66236.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/a2a64ad5132e41ae9a531fcd116230c0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/5f68edbd81e44b6dad8a938fab6e03ad.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/c1d3569eb9c54f8f8fc4c1a897c37041.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g6/53a3c607c2064aa2bdd6132fc17801ac.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g6/3f74a8547aaf422686bb28768f7ce27c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g7/1fb471cc73c0432ab034701470b5b1ec.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g7/f78aa69d7ef0450991910b7ec8dd8188.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g7/f314412d008a449d85fc2fca7897563f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g7/3b717fd10adf47b9a01a5fb4528217ee.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g7/6054e15ea4284d04b04da55d047c8ec5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g7/ae95bdcaafdc4c35a49cac902c4e702b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g7/e3f72e1213c8431a81342d30fbd5a6c2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g7/2338eebf00dc491289ffa1848a958cd5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g7/c3bc18fde3234044b93533b36ba3fe5f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g7/06b0843fd1de43b4a6436c280dac3f00.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g7/7771ae1e07c34b738a8ea23ddb7bd13a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g7/c9ca01094c8c45f484df83a61e8f1ef3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/60dfa6ac87e84e7dae8dba220526946d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/b7bba7eddb13470b88eb8b24531cb6b3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/43b482c8526f45709b56434924dc4d3c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/09294cb14a404d77ad3db9ff6ab49179.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g8/5b9b6ce9036448b59abaf0d2def71441.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/9f63e924253b4179adb79b117a26d385.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/598d1d1866df48f999fabadb017429d1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/9a6fd72aa31540f2a6a8e8d236778a2f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/138ca18c246a4b13b3e108bd88df95a2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/77f49ac4ceab4e71833735fba788bcc3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/9f9441a483ca476a8ba54223717404d1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/160bf043b71c458984c81c717b7483c9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/63ce7df4ad2b46a283da1b09ae0cfcb3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/aa64062267dc4324a04dfdd15f2d2c42.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/137d899dfe674275bb4a2f28ce004c4c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g8/5352bd32caa345e0a40adb444d24db82.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g8/e2fe596cf22c4bb9b78fb979a2697c7c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/g8/ce0604608f96477a875569ff28e15889.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/2b5c9b749a714dd6b0d04c7de83c254e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/c6c3dd15792c4b768f087f0831ad249d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/601503e9c56b4b5eba76847128d31f6f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/da7b5c14bc634f8283e2d21343afa7cc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/12184db58b1f44c987537b5607c32098.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/5933d345ad9441d499c93eb655a9b214.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/16d4bbcec1c64a8799df4b22ff422c11.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/999aac12a3354a10862ae87f1eaee31c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/e1a42fe1662a437f919bd883360587f9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/829f049f406448d1a9345113e8c1d6ef.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/4903fccbe4d94eeda581e7fd3870d90d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/g8/d27b5fcd41db44eab24efd1c79d9b0da.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "objaverse/ciclista.glb",
+   "mb": 15.93
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "g1": [
+   {
+    "uid": "1221edc4c2454b29b3b6adcd6fdefb0e",
+    "nombre": "Helix Bridge",
+    "autor": "Sengchor",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 159533,
+    "url": "https://sketchfab.com/3d-models/none-1221edc4c2454b29b3b6adcd6fdefb0e",
+    "miniatura": "miniaturas/g1/1221edc4c2454b29b3b6adcd6fdefb0e.jpg"
+   },
+   {
+    "uid": "e80922f5accb4f8ba7b66e6ca903748c",
+    "nombre": "sidewalk 8m long - HQ",
+    "autor": "spleen.vision",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 136374,
+    "url": "https://sketchfab.com/3d-models/none-e80922f5accb4f8ba7b66e6ca903748c",
+    "miniatura": "miniaturas/g1/e80922f5accb4f8ba7b66e6ca903748c.jpg"
+   },
+   {
+    "uid": "df39b1d55b0a4cf0b24d38b529c04575",
+    "nombre": "long frozen street - PBR",
+    "autor": "spleen.vision",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 527882,
+    "url": "https://sketchfab.com/3d-models/none-df39b1d55b0a4cf0b24d38b529c04575",
+    "miniatura": "miniaturas/g1/df39b1d55b0a4cf0b24d38b529c04575.jpg"
+   },
+   {
+    "uid": "c522e5e8badd475f9820d27f06d6153b",
+    "nombre": "Footbridge",
+    "autor": "finaltouch_1a",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 28348,
+    "url": "https://sketchfab.com/3d-models/none-c522e5e8badd475f9820d27f06d6153b",
+    "miniatura": "miniaturas/g1/c522e5e8badd475f9820d27f06d6153b.jpg"
+   },
+   {
+    "uid": "ab3efdd259a54d4aba5f878eacbe3f20",
+    "nombre": "Traffic Lights [Street Assets Vol. 02]",
+    "autor": "whisper.alt",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3946,
+    "url": "https://sketchfab.com/3d-models/none-ab3efdd259a54d4aba5f878eacbe3f20",
+    "miniatura": "miniaturas/g1/ab3efdd259a54d4aba5f878eacbe3f20.jpg"
+   },
+   {
+    "uid": "6f62617b9f1f4de88646b1d8fd007e8a",
+    "nombre": "HQ free long sidewalk 3",
+    "autor": "spleen.vision",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 59385,
+    "url": "https://sketchfab.com/3d-models/none-6f62617b9f1f4de88646b1d8fd007e8a",
+    "miniatura": "miniaturas/g1/6f62617b9f1f4de88646b1d8fd007e8a.jpg"
+   },
+   {
+    "uid": "12536f966f9048dcba7e33fa08d9d6b5",
+    "nombre": "Low Poly Turnstiles",
+    "autor": "anDDDres",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 642,
+    "url": "https://sketchfab.com/3d-models/none-12536f966f9048dcba7e33fa08d9d6b5",
+    "miniatura": "miniaturas/g1/12536f966f9048dcba7e33fa08d9d6b5.jpg"
+   },
+   {
+    "uid": "b83dd241ddba42f69b0445fa91bab781",
+    "nombre": "Econolite E8 Neon Pedestrian Signals",
+    "autor": "Signalrenders",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11802,
+    "url": "https://sketchfab.com/3d-models/none-b83dd241ddba42f69b0445fa91bab781",
+    "miniatura": "miniaturas/g1/b83dd241ddba42f69b0445fa91bab781.jpg"
+   },
+   {
+    "uid": "dd8f0653f8ee472387607bfc9b303886",
+    "nombre": "long sidewalk2 - HQ",
+    "autor": "spleen.vision",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 67887,
+    "url": "https://sketchfab.com/3d-models/none-dd8f0653f8ee472387607bfc9b303886",
+    "miniatura": "miniaturas/g1/dd8f0653f8ee472387607bfc9b303886.jpg"
+   },
+   {
+    "uid": "2f720ea69cb2407ba8598c02305ce524",
+    "nombre": "Pedestrian Traffic Light",
+    "autor": "ASA21",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1491,
+    "url": "https://sketchfab.com/3d-models/none-2f720ea69cb2407ba8598c02305ce524",
+    "miniatura": "miniaturas/g1/2f720ea69cb2407ba8598c02305ce524.jpg"
+   },
+   {
+    "uid": "2a09091d4e7b4539abe03f6a50762409",
+    "nombre": "Fence Barricade 03",
+    "autor": "rocz3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2104,
+    "url": "https://sketchfab.com/3d-models/none-2a09091d4e7b4539abe03f6a50762409",
+    "miniatura": "miniaturas/g1/2a09091d4e7b4539abe03f6a50762409.jpg"
+   },
+   {
+    "uid": "d733eb9a02774dbd94a04738596edf10",
+    "nombre": "Vintage Chinese Neon Pedestrian Signals",
+    "autor": "Signalrenders",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 68640,
+    "url": "https://sketchfab.com/3d-models/none-d733eb9a02774dbd94a04738596edf10",
+    "miniatura": "miniaturas/g1/d733eb9a02774dbd94a04738596edf10.jpg"
+   },
+   {
+    "uid": "8497a1f3cc3742aba9acf2d92ecc376d",
+    "nombre": "The Charterhouse Gatehouse",
+    "autor": "artfletch",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 995156,
+    "url": "https://sketchfab.com/3d-models/none-8497a1f3cc3742aba9acf2d92ecc376d",
+    "miniatura": "miniaturas/g1/8497a1f3cc3742aba9acf2d92ecc376d.jpg"
+   },
+   {
+    "uid": "e7e5f9b0c9c046869e81dd2fecd9dbc1",
+    "nombre": "T - Bollard",
+    "autor": "Sebastian.Hamish.Webster",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 412,
+    "url": "https://sketchfab.com/3d-models/none-e7e5f9b0c9c046869e81dd2fecd9dbc1",
+    "miniatura": "miniaturas/g1/e7e5f9b0c9c046869e81dd2fecd9dbc1.jpg"
+   },
+   {
+    "uid": "864b8ce5d520478481198d1face5a7e5",
+    "nombre": "Low poly Ad Billboard",
+    "autor": "Yanez-Designs",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 420,
+    "url": "https://sketchfab.com/3d-models/none-864b8ce5d520478481198d1face5a7e5",
+    "miniatura": "miniaturas/g1/864b8ce5d520478481198d1face5a7e5.jpg"
+   },
+   {
+    "uid": "ea8c08dacaa749ca95543329ebded3de",
+    "nombre": "Small pedestrian bridge",
+    "autor": "taz83",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10276,
+    "url": "https://sketchfab.com/3d-models/none-ea8c08dacaa749ca95543329ebded3de",
+    "miniatura": "miniaturas/g1/ea8c08dacaa749ca95543329ebded3de.jpg"
+   },
+   {
+    "uid": "59ff3237d25141608a4b5f5aa46c803b",
+    "nombre": "old stairs",
+    "autor": "spleen.vision",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 658992,
+    "url": "https://sketchfab.com/3d-models/none-59ff3237d25141608a4b5f5aa46c803b",
+    "miniatura": "miniaturas/g1/59ff3237d25141608a4b5f5aa46c803b.jpg"
+   },
+   {
+    "uid": "bf67351d084d4ff2aa8171826bfd94c3",
+    "nombre": "Fence Barricade 02",
+    "autor": "rocz3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1688,
+    "url": "https://sketchfab.com/3d-models/none-bf67351d084d4ff2aa8171826bfd94c3",
+    "miniatura": "miniaturas/g1/bf67351d084d4ff2aa8171826bfd94c3.jpg"
+   },
+   {
+    "uid": "2080918b3f534d1ab517c356867e7172",
+    "nombre": "free_Ukraine_road_roadsign_cars",
+    "autor": "kecalkepoka22",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 119422,
+    "url": "https://sketchfab.com/3d-models/none-2080918b3f534d1ab517c356867e7172",
+    "miniatura": "miniaturas/g1/2080918b3f534d1ab517c356867e7172.jpg"
+   },
+   {
+    "uid": "38254a2cf59a4df4aa8b0a352f807749",
+    "nombre": "Street",
+    "autor": "kluchek",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 36456,
+    "url": "https://sketchfab.com/3d-models/none-38254a2cf59a4df4aa8b0a352f807749",
+    "miniatura": "miniaturas/g1/38254a2cf59a4df4aa8b0a352f807749.jpg"
+   },
+   {
+    "uid": "385f9fe39f9a4ee7a39a63186c60472a",
+    "nombre": "Vintage Shanghai Crosswalk Signals",
+    "autor": "Signalrenders",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 50682,
+    "url": "https://sketchfab.com/3d-models/none-385f9fe39f9a4ee7a39a63186c60472a",
+    "miniatura": "miniaturas/g1/385f9fe39f9a4ee7a39a63186c60472a.jpg"
+   },
+   {
+    "uid": "c520dbe2df3941b7beafead46eb8c80b",
+    "nombre": "Crouse Hinds Neon Wait Walk Pedestrian Signals",
+    "autor": "Signalrenders",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15702,
+    "url": "https://sketchfab.com/3d-models/none-c520dbe2df3941b7beafead46eb8c80b",
+    "miniatura": "miniaturas/g1/c520dbe2df3941b7beafead46eb8c80b.jpg"
+   },
+   {
+    "uid": "77c1c2c17d0c406887f986cdb0b0ec94",
+    "nombre": "Tivoli Corner",
+    "autor": "artfletch",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1982072,
+    "url": "https://sketchfab.com/3d-models/none-77c1c2c17d0c406887f986cdb0b0ec94",
+    "miniatura": "miniaturas/g1/77c1c2c17d0c406887f986cdb0b0ec94.jpg"
+   },
+   {
+    "uid": "fe7a874e3bbc49b38ee50df266c9438f",
+    "nombre": "Double-aspect Neon Chinese Pedestrian Signals",
+    "autor": "Signalrenders",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13170,
+    "url": "https://sketchfab.com/3d-models/none-fe7a874e3bbc49b38ee50df266c9438f",
+    "miniatura": "miniaturas/g1/fe7a874e3bbc49b38ee50df266c9438f.jpg"
+   },
+   {
+    "uid": "f42889d3fe1e48faa60e2b88eea4ef82",
+    "nombre": "8-inch Bike/Pedestrian Signals",
+    "autor": "Signalrenders",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 309240,
+    "url": "https://sketchfab.com/3d-models/none-f42889d3fe1e48faa60e2b88eea4ef82",
+    "miniatura": "miniaturas/g1/f42889d3fe1e48faa60e2b88eea4ef82.jpg"
+   },
+   {
+    "uid": "30a9682840f74196a25a5295f287ab6e",
+    "nombre": "City Intersection Example Upload",
+    "autor": "Peter_Designs",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 102083,
+    "url": "https://sketchfab.com/3d-models/none-30a9682840f74196a25a5295f287ab6e",
+    "miniatura": "miniaturas/g1/30a9682840f74196a25a5295f287ab6e.jpg"
+   },
+   {
+    "uid": "fe9776c77b414c7c9ebfe55233001324",
+    "nombre": "Wind Valley",
+    "autor": "eth3r",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 108530,
+    "url": "https://sketchfab.com/3d-models/none-fe9776c77b414c7c9ebfe55233001324",
+    "miniatura": "miniaturas/g1/fe9776c77b414c7c9ebfe55233001324.jpg"
+   },
+   {
+    "uid": "af1cd84d61314306bb7c57e29129c059",
+    "nombre": "P.T. LED Countdown Pedestrian Signals",
+    "autor": "Signalrenders",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 560808,
+    "url": "https://sketchfab.com/3d-models/none-af1cd84d61314306bb7c57e29129c059",
+    "miniatura": "miniaturas/g1/af1cd84d61314306bb7c57e29129c059.jpg"
+   },
+   {
+    "uid": "373ffd2e8cae476f9f78c92c6d8d71f8",
+    "nombre": "Ceiling lamp, retro plastic kitchen",
+    "autor": "matousekfoto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1022200,
+    "url": "https://sketchfab.com/3d-models/none-373ffd2e8cae476f9f78c92c6d8d71f8",
+    "miniatura": "miniaturas/g1/373ffd2e8cae476f9f78c92c6d8d71f8.jpg"
+   },
+   {
+    "uid": "3e85572619bf4302ba4cec6a3263c5c0",
+    "nombre": "Combs Wood stables",
+    "autor": "landofiron",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2999999,
+    "url": "https://sketchfab.com/3d-models/none-3e85572619bf4302ba4cec6a3263c5c0",
+    "miniatura": "miniaturas/g1/3e85572619bf4302ba4cec6a3263c5c0.jpg"
+   }
+  ],
+  "g2": [
+   {
+    "uid": "d9bcfdd88f5348549bc947226af7c314",
+    "nombre": "Polyart Zombies with Animations Free Pack",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 18840,
+    "url": "https://sketchfab.com/3d-models/none-d9bcfdd88f5348549bc947226af7c314",
+    "miniatura": "miniaturas/g2/d9bcfdd88f5348549bc947226af7c314.jpg"
+   },
+   {
+    "uid": "f2616c6a06c44841bf1ddf5e9486571e",
+    "nombre": "Low Poly People Free Sample Pack",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 14514,
+    "url": "https://sketchfab.com/3d-models/none-f2616c6a06c44841bf1ddf5e9486571e",
+    "miniatura": "miniaturas/g2/f2616c6a06c44841bf1ddf5e9486571e.jpg"
+   },
+   {
+    "uid": "4187adfe52824bd5a88ffb356e0b40ef",
+    "nombre": "Low | Polygon | Characters | Pack",
+    "autor": "yadrogames",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5370,
+    "url": "https://sketchfab.com/3d-models/none-4187adfe52824bd5a88ffb356e0b40ef",
+    "miniatura": "miniaturas/g2/4187adfe52824bd5a88ffb356e0b40ef.jpg"
+   },
+   {
+    "uid": "22e711221a094a48a6ffe826d3fd6185",
+    "nombre": "Medical Syringe",
+    "autor": "AlexOlTroi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6996,
+    "url": "https://sketchfab.com/3d-models/none-22e711221a094a48a6ffe826d3fd6185",
+    "miniatura": "miniaturas/g2/22e711221a094a48a6ffe826d3fd6185.jpg"
+   },
+   {
+    "uid": "2f69be91f3044fe68881e354b220fc60",
+    "nombre": "Casual LowPoly Male Rig T-pose",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 1552,
+    "url": "https://sketchfab.com/3d-models/none-2f69be91f3044fe68881e354b220fc60",
+    "miniatura": "miniaturas/g2/2f69be91f3044fe68881e354b220fc60.jpg"
+   },
+   {
+    "uid": "f943ba2828a64b7d858ee6e4bdacedc6",
+    "nombre": "Low Poly Building",
+    "autor": "roh3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4360,
+    "url": "https://sketchfab.com/3d-models/none-f943ba2828a64b7d858ee6e4bdacedc6",
+    "miniatura": "miniaturas/g2/f943ba2828a64b7d858ee6e4bdacedc6.jpg"
+   },
+   {
+    "uid": "a6e8bb63ff5a41f5a9e1e7b0511cf79a",
+    "nombre": "Sci-Fi Platforms",
+    "autor": "Mariam.Shergelashvili",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6020,
+    "url": "https://sketchfab.com/3d-models/none-a6e8bb63ff5a41f5a9e1e7b0511cf79a",
+    "miniatura": "miniaturas/g2/a6e8bb63ff5a41f5a9e1e7b0511cf79a.jpg"
+   },
+   {
+    "uid": "dcecb765425c4f1e9104b420ad2349de",
+    "nombre": "[CCO] Decal - Graffiti Textures",
+    "autor": "karlwirbelwind",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2,
+    "url": "https://sketchfab.com/3d-models/none-dcecb765425c4f1e9104b420ad2349de",
+    "miniatura": "miniaturas/g2/dcecb765425c4f1e9104b420ad2349de.jpg"
+   },
+   {
+    "uid": "47acc754a2754d73902dab2ec46fd416",
+    "nombre": "Foot Skeleton&Skin",
+    "autor": "Novaky",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22249,
+    "url": "https://sketchfab.com/3d-models/none-47acc754a2754d73902dab2ec46fd416",
+    "miniatura": "miniaturas/g2/47acc754a2754d73902dab2ec46fd416.jpg"
+   },
+   {
+    "uid": "9134429a76424666a3bb442b38e94971",
+    "nombre": "Small Basement / Dungeon Textures'n'Models",
+    "autor": "lumoize",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 7537,
+    "url": "https://sketchfab.com/3d-models/none-9134429a76424666a3bb442b38e94971",
+    "miniatura": "miniaturas/g2/9134429a76424666a3bb442b38e94971.jpg"
+   },
+   {
+    "uid": "6b068fb93d054224bd95acb9745d233d",
+    "nombre": "Casual LowPoly Female Rig T-pose",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 1622,
+    "url": "https://sketchfab.com/3d-models/none-6b068fb93d054224bd95acb9745d233d",
+    "miniatura": "miniaturas/g2/6b068fb93d054224bd95acb9745d233d.jpg"
+   },
+   {
+    "uid": "67c5c173e3d24a2bb9d86195e825c9e2",
+    "nombre": "Salsa Dance Basic Steps - LowPoly Style",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 20382,
+    "url": "https://sketchfab.com/3d-models/none-67c5c173e3d24a2bb9d86195e825c9e2",
+    "miniatura": "miniaturas/g2/67c5c173e3d24a2bb9d86195e825c9e2.jpg"
+   },
+   {
+    "uid": "9cfd21f096254bc08cbbb410d4798eb0",
+    "nombre": "Crystals",
+    "autor": "AlexOlTroi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1966,
+    "url": "https://sketchfab.com/3d-models/none-9cfd21f096254bc08cbbb410d4798eb0",
+    "miniatura": "miniaturas/g2/9cfd21f096254bc08cbbb410d4798eb0.jpg"
+   },
+   {
+    "uid": "6dd31ceaa9a849a485b49a0c8c0ea8a6",
+    "nombre": "Mexico Lindo - Gente",
+    "autor": "studioochi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 297749,
+    "url": "https://sketchfab.com/3d-models/none-6dd31ceaa9a849a485b49a0c8c0ea8a6",
+    "miniatura": "miniaturas/g2/6dd31ceaa9a849a485b49a0c8c0ea8a6.jpg"
+   },
+   {
+    "uid": "ed3d7a4b8b124e1591be83ccb4c02dcd",
+    "nombre": "Male Running (20 frames loop)",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1552,
+    "url": "https://sketchfab.com/3d-models/none-ed3d7a4b8b124e1591be83ccb4c02dcd",
+    "miniatura": "miniaturas/g2/ed3d7a4b8b124e1591be83ccb4c02dcd.jpg"
+   },
+   {
+    "uid": "4add87eb9b7744c593e6684c5df3551b",
+    "nombre": "Idle 1 Male Free Animation (200 frames loop)",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1552,
+    "url": "https://sketchfab.com/3d-models/none-4add87eb9b7744c593e6684c5df3551b",
+    "miniatura": "miniaturas/g2/4add87eb9b7744c593e6684c5df3551b.jpg"
+   },
+   {
+    "uid": "2ff187f386b04ba4ba391cb425ae04b8",
+    "nombre": "Dance Male Flossing (40 frames loop)",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1552,
+    "url": "https://sketchfab.com/3d-models/none-2ff187f386b04ba4ba391cb425ae04b8",
+    "miniatura": "miniaturas/g2/2ff187f386b04ba4ba391cb425ae04b8.jpg"
+   },
+   {
+    "uid": "4c99dc6af5804e0aaebb9c58e75ae1d5",
+    "nombre": "girl",
+    "autor": "morrriefan888",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 34192,
+    "url": "https://sketchfab.com/3d-models/none-4c99dc6af5804e0aaebb9c58e75ae1d5",
+    "miniatura": "miniaturas/g2/4c99dc6af5804e0aaebb9c58e75ae1d5.jpg"
+   },
+   {
+    "uid": "1e1fe9a41b6c41e68fdba824cc348d03",
+    "nombre": "Hype Dance Free Animation",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1552,
+    "url": "https://sketchfab.com/3d-models/none-1e1fe9a41b6c41e68fdba824cc348d03",
+    "miniatura": "miniaturas/g2/1e1fe9a41b6c41e68fdba824cc348d03.jpg"
+   },
+   {
+    "uid": "2e17b1413acf413eb28a553b072cfd98",
+    "nombre": "Male Basic Walk (30 frames loop)",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1552,
+    "url": "https://sketchfab.com/3d-models/none-2e17b1413acf413eb28a553b072cfd98",
+    "miniatura": "miniaturas/g2/2e17b1413acf413eb28a553b072cfd98.jpg"
+   },
+   {
+    "uid": "e7419671f8124cab870d7a1a4d68b180",
+    "nombre": "Oxygen Cylinder",
+    "autor": "AlexOlTroi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 16272,
+    "url": "https://sketchfab.com/3d-models/none-e7419671f8124cab870d7a1a4d68b180",
+    "miniatura": "miniaturas/g2/e7419671f8124cab870d7a1a4d68b180.jpg"
+   },
+   {
+    "uid": "44b52c09d8de40ecb9c8322dc6def8c3",
+    "nombre": "Male Slow Walk (40 frames loop)",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1552,
+    "url": "https://sketchfab.com/3d-models/none-44b52c09d8de40ecb9c8322dc6def8c3",
+    "miniatura": "miniaturas/g2/44b52c09d8de40ecb9c8322dc6def8c3.jpg"
+   },
+   {
+    "uid": "63476db1a763402c94a8acfc92dc98e0",
+    "nombre": "Gas Cylinder",
+    "autor": "AlexOlTroi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4402,
+    "url": "https://sketchfab.com/3d-models/none-63476db1a763402c94a8acfc92dc98e0",
+    "miniatura": "miniaturas/g2/63476db1a763402c94a8acfc92dc98e0.jpg"
+   },
+   {
+    "uid": "a2d122fc447248559dc842a0f2865153",
+    "nombre": "Female Running Free Animation (20 frames loop)",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1622,
+    "url": "https://sketchfab.com/3d-models/none-a2d122fc447248559dc842a0f2865153",
+    "miniatura": "miniaturas/g2/a2d122fc447248559dc842a0f2865153.jpg"
+   },
+   {
+    "uid": "b52f3436d9514a5692cc2d52786dd102",
+    "nombre": "Idle 2 Male Free Animation (220 frames loop)",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1552,
+    "url": "https://sketchfab.com/3d-models/none-b52f3436d9514a5692cc2d52786dd102",
+    "miniatura": "miniaturas/g2/b52f3436d9514a5692cc2d52786dd102.jpg"
+   },
+   {
+    "uid": "7355f0617d144c018c190175429de1c6",
+    "nombre": "Basic Walk Free Animation (30 frames loop)",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1622,
+    "url": "https://sketchfab.com/3d-models/none-7355f0617d144c018c190175429de1c6",
+    "miniatura": "miniaturas/g2/7355f0617d144c018c190175429de1c6.jpg"
+   },
+   {
+    "uid": "99da339f27dc4e10985f46b0262b7721",
+    "nombre": "Female Slow Walk (40 frames loop)",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1622,
+    "url": "https://sketchfab.com/3d-models/none-99da339f27dc4e10985f46b0262b7721",
+    "miniatura": "miniaturas/g2/99da339f27dc4e10985f46b0262b7721.jpg"
+   },
+   {
+    "uid": "b0dd0afc25f44eadbe6dd8faed5ada36",
+    "nombre": "Female Phone-Walking Free Animation (40f loop)",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1622,
+    "url": "https://sketchfab.com/3d-models/none-b0dd0afc25f44eadbe6dd8faed5ada36",
+    "miniatura": "miniaturas/g2/b0dd0afc25f44eadbe6dd8faed5ada36.jpg"
+   },
+   {
+    "uid": "74ab04f5913444f898fcaad9bd583d46",
+    "nombre": "Tardis",
+    "autor": "Naddel_",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 806,
+    "url": "https://sketchfab.com/3d-models/none-74ab04f5913444f898fcaad9bd583d46",
+    "miniatura": "miniaturas/g2/74ab04f5913444f898fcaad9bd583d46.jpg"
+   },
+   {
+    "uid": "bea6e35b4c364a78a27a43adf92a8cb4",
+    "nombre": "Girl Flossing Dance Free Animation",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1622,
+    "url": "https://sketchfab.com/3d-models/none-bea6e35b4c364a78a27a43adf92a8cb4",
+    "miniatura": "miniaturas/g2/bea6e35b4c364a78a27a43adf92a8cb4.jpg"
+   }
+  ],
+  "g3": [
+   {
+    "uid": "eaca504567604e879b8ab2cf2763025e",
+    "nombre": "Horse Skeleton",
+    "autor": "diegoluga",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 135451,
+    "url": "https://sketchfab.com/3d-models/none-eaca504567604e879b8ab2cf2763025e",
+    "miniatura": "miniaturas/g3/eaca504567604e879b8ab2cf2763025e.jpg"
+   },
+   {
+    "uid": "6d637c20029b41f584fd1683d3069729",
+    "nombre": "Haytor Rocks 3D Reconsrtuction",
+    "autor": "hermes3",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 50000,
+    "url": "https://sketchfab.com/3d-models/none-6d637c20029b41f584fd1683d3069729",
+    "miniatura": "miniaturas/g3/6d637c20029b41f584fd1683d3069729.jpg"
+   },
+   {
+    "uid": "97357aafa4ae4e4ab2ffe81c9e8a13ef",
+    "nombre": "Purple Bedroom",
+    "autor": "discipleofmana",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22860,
+    "url": "https://sketchfab.com/3d-models/none-97357aafa4ae4e4ab2ffe81c9e8a13ef",
+    "miniatura": "miniaturas/g3/97357aafa4ae4e4ab2ffe81c9e8a13ef.jpg"
+   },
+   {
+    "uid": "f339a62af93d406caa64aad1c7851838",
+    "nombre": "Alien Walk",
+    "autor": "ShaxerTakkuY",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 52222,
+    "url": "https://sketchfab.com/3d-models/none-f339a62af93d406caa64aad1c7851838",
+    "miniatura": "miniaturas/g3/f339a62af93d406caa64aad1c7851838.jpg"
+   },
+   {
+    "uid": "6e3b93c078114c52bfe4cfa08b9843eb",
+    "nombre": "Chicken - rigged",
+    "autor": "blujay",
+    "licencia": "CC Attribution",
+    "animaciones": 6,
+    "caras": 412,
+    "url": "https://sketchfab.com/3d-models/none-6e3b93c078114c52bfe4cfa08b9843eb",
+    "miniatura": "miniaturas/g3/6e3b93c078114c52bfe4cfa08b9843eb.jpg"
+   },
+   {
+    "uid": "6c94f5a0d2ea4bb3af3715607df252c3",
+    "nombre": "The eagle finder",
+    "autor": "geoffreymarchal",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 500000,
+    "url": "https://sketchfab.com/3d-models/none-6c94f5a0d2ea4bb3af3715607df252c3",
+    "miniatura": "miniaturas/g3/6c94f5a0d2ea4bb3af3715607df252c3.jpg"
+   },
+   {
+    "uid": "c12a2715135b4f6a9816efdf90180a8c",
+    "nombre": "Brick Block (Super Mario Bros)",
+    "autor": "Yanez-Designs",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 980,
+    "url": "https://sketchfab.com/3d-models/none-c12a2715135b4f6a9816efdf90180a8c",
+    "miniatura": "miniaturas/g3/c12a2715135b4f6a9816efdf90180a8c.jpg"
+   },
+   {
+    "uid": "7d4b47de58fd4d54a36c88aa379d7bd9",
+    "nombre": "Old Man Walking",
+    "autor": "geoffreymarchal",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 313079,
+    "url": "https://sketchfab.com/3d-models/none-7d4b47de58fd4d54a36c88aa379d7bd9",
+    "miniatura": "miniaturas/g3/7d4b47de58fd4d54a36c88aa379d7bd9.jpg"
+   },
+   {
+    "uid": "019b94f2deef470fa4252f95b02ed640",
+    "nombre": "Cuween Hill Chambered Tomb, Orkney",
+    "autor": "hugoandersonwhymark",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1843206,
+    "url": "https://sketchfab.com/3d-models/none-019b94f2deef470fa4252f95b02ed640",
+    "miniatura": "miniaturas/g3/019b94f2deef470fa4252f95b02ed640.jpg"
+   },
+   {
+    "uid": "4b1ef9a1d8814e4c9ff4fe668d62bff1",
+    "nombre": "Passive Marker Man Walking",
+    "autor": "hermes.frangoudis",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 1,
+    "caras": 18836,
+    "url": "https://sketchfab.com/3d-models/none-4b1ef9a1d8814e4c9ff4fe668d62bff1",
+    "miniatura": "miniaturas/g3/4b1ef9a1d8814e4c9ff4fe668d62bff1.jpg"
+   },
+   {
+    "uid": "3d9fb8bd86854aa69ee6f69fcbeaca51",
+    "nombre": "Monkey D. Luffy",
+    "autor": "nitwit.friends",
+    "licencia": "CC Attribution",
+    "animaciones": 9,
+    "caras": 12545,
+    "url": "https://sketchfab.com/3d-models/none-3d9fb8bd86854aa69ee6f69fcbeaca51",
+    "miniatura": "miniaturas/g3/3d9fb8bd86854aa69ee6f69fcbeaca51.jpg"
+   },
+   {
+    "uid": "4983ac47fa674c1e8e9230c8afa4546e",
+    "nombre": "Grey Alien idle",
+    "autor": "ShaxerTakkuY",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 55016,
+    "url": "https://sketchfab.com/3d-models/none-4983ac47fa674c1e8e9230c8afa4546e",
+    "miniatura": "miniaturas/g3/4983ac47fa674c1e8e9230c8afa4546e.jpg"
+   },
+   {
+    "uid": "77abf020ac034830b107e0a986396034",
+    "nombre": "Lucille - The Walking Dead",
+    "autor": "virbonis",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 105797,
+    "url": "https://sketchfab.com/3d-models/none-77abf020ac034830b107e0a986396034",
+    "miniatura": "miniaturas/g3/77abf020ac034830b107e0a986396034.jpg"
+   },
+   {
+    "uid": "5f68edbd81e44b6dad8a938fab6e03ad",
+    "nombre": "Wizards staff",
+    "autor": "khachiun",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 288,
+    "url": "https://sketchfab.com/3d-models/none-5f68edbd81e44b6dad8a938fab6e03ad",
+    "miniatura": "miniaturas/g3/5f68edbd81e44b6dad8a938fab6e03ad.jpg"
+   },
+   {
+    "uid": "bbaa566445074509a32ef5059a9d0bc2",
+    "nombre": "Man Woman Walk",
+    "autor": "iko.gazette",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 16231,
+    "url": "https://sketchfab.com/3d-models/none-bbaa566445074509a32ef5059a9d0bc2",
+    "miniatura": "miniaturas/g3/bbaa566445074509a32ef5059a9d0bc2.jpg"
+   },
+   {
+    "uid": "909337330aef47d0bba34e58c3b676e5",
+    "nombre": "Savage Lucille - The Walking Dead",
+    "autor": "virbonis",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 105797,
+    "url": "https://sketchfab.com/3d-models/none-909337330aef47d0bba34e58c3b676e5",
+    "miniatura": "miniaturas/g3/909337330aef47d0bba34e58c3b676e5.jpg"
+   },
+   {
+    "uid": "75debbf3bfe14c259bd0db21581924de",
+    "nombre": "Cupaniopsis Anacardioides Leaf",
+    "autor": "OpusPoly",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9999,
+    "url": "https://sketchfab.com/3d-models/none-75debbf3bfe14c259bd0db21581924de",
+    "miniatura": "miniaturas/g3/75debbf3bfe14c259bd0db21581924de.jpg"
+   },
+   {
+    "uid": "16522107ad84410dad419e2e3977e721",
+    "nombre": "Low Poly Man Taking Phone While Walking",
+    "autor": "roh3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1479,
+    "url": "https://sketchfab.com/3d-models/none-16522107ad84410dad419e2e3977e721",
+    "miniatura": "miniaturas/g3/16522107ad84410dad419e2e3977e721.jpg"
+   },
+   {
+    "uid": "0045e159d69e4964b19425374dd330aa",
+    "nombre": "Metal Detectorist - 3d printable",
+    "autor": "Andywoodhead",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1374553,
+    "url": "https://sketchfab.com/3d-models/none-0045e159d69e4964b19425374dd330aa",
+    "miniatura": "miniaturas/g3/0045e159d69e4964b19425374dd330aa.jpg"
+   },
+   {
+    "uid": "05d9dd5bdddd4157bd46dc179781ee6e",
+    "nombre": "Casual Man Character",
+    "autor": "strielecki",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10962,
+    "url": "https://sketchfab.com/3d-models/none-05d9dd5bdddd4157bd46dc179781ee6e",
+    "miniatura": "miniaturas/g3/05d9dd5bdddd4157bd46dc179781ee6e.jpg"
+   },
+   {
+    "uid": "d255ba1f26fa4b93b5b186941ecd7005",
+    "nombre": "Monk Circle Walking",
+    "autor": "cmunizaga",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 24447,
+    "url": "https://sketchfab.com/3d-models/none-d255ba1f26fa4b93b5b186941ecd7005",
+    "miniatura": "miniaturas/g3/d255ba1f26fa4b93b5b186941ecd7005.jpg"
+   },
+   {
+    "uid": "a896911783934a7cb7f0b8ee843d5200",
+    "nombre": "🐱 Sleeping Sphynx Cat (\"Abra\") 🐱",
+    "autor": "saphires",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20761,
+    "url": "https://sketchfab.com/3d-models/none-a896911783934a7cb7f0b8ee843d5200",
+    "miniatura": "miniaturas/g3/a896911783934a7cb7f0b8ee843d5200.jpg"
+   },
+   {
+    "uid": "ba47942d8746471b968a46a50774f569",
+    "nombre": "Self-defence stick – desto",
+    "autor": "WirtualneMuzeaMalopolski",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 43424,
+    "url": "https://sketchfab.com/3d-models/none-ba47942d8746471b968a46a50774f569",
+    "miniatura": "miniaturas/g3/ba47942d8746471b968a46a50774f569.jpg"
+   },
+   {
+    "uid": "0f7535dc9dd1492e842cd6b2d23f4885",
+    "nombre": "Old man walking",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3636,
+    "url": "https://sketchfab.com/3d-models/none-0f7535dc9dd1492e842cd6b2d23f4885",
+    "miniatura": "miniaturas/g3/0f7535dc9dd1492e842cd6b2d23f4885.jpg"
+   },
+   {
+    "uid": "9adba5a3a0e54563b42d62c6f2330bf2",
+    "nombre": "Larva Man-walking",
+    "autor": "h.art",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 17208,
+    "url": "https://sketchfab.com/3d-models/none-9adba5a3a0e54563b42d62c6f2330bf2",
+    "miniatura": "miniaturas/g3/9adba5a3a0e54563b42d62c6f2330bf2.jpg"
+   },
+   {
+    "uid": "58ff717929034f9193aae2cacf6d339d",
+    "nombre": "Letterkenny - Market Square \"The Hiring Fair\"",
+    "autor": "jurand_m",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1100030,
+    "url": "https://sketchfab.com/3d-models/none-58ff717929034f9193aae2cacf6d339d",
+    "miniatura": "miniaturas/g3/58ff717929034f9193aae2cacf6d339d.jpg"
+   },
+   {
+    "uid": "d15b7543c6f84596b805a162e4b49d7d",
+    "nombre": "Cambodian Bhikshatana, 12th C CE",
+    "autor": "artsmia",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 64248,
+    "url": "https://sketchfab.com/3d-models/none-d15b7543c6f84596b805a162e4b49d7d",
+    "miniatura": "miniaturas/g3/d15b7543c6f84596b805a162e4b49d7d.jpg"
+   },
+   {
+    "uid": "8808bc9ded994f44a2b09e13717a8a22",
+    "nombre": "Silverback",
+    "autor": "muttdog",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 23802,
+    "url": "https://sketchfab.com/3d-models/none-8808bc9ded994f44a2b09e13717a8a22",
+    "miniatura": "miniaturas/g3/8808bc9ded994f44a2b09e13717a8a22.jpg"
+   },
+   {
+    "uid": "8aba7def4a404568a61437b43958862c",
+    "nombre": "Sydney Scroggie Cairn, Sidlaw Hills, Nr Dundee",
+    "autor": "dundeehowff",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 600000,
+    "url": "https://sketchfab.com/3d-models/none-8aba7def4a404568a61437b43958862c",
+    "miniatura": "miniaturas/g3/8aba7def4a404568a61437b43958862c.jpg"
+   },
+   {
+    "uid": "f57900647f6647839ff0f80b52e3ec6b",
+    "nombre": "Find-nearest-hatch-mossystones-001-10800k-pts",
+    "autor": "artbyorganic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-f57900647f6647839ff0f80b52e3ec6b",
+    "miniatura": "miniaturas/g3/f57900647f6647839ff0f80b52e3ec6b.jpg"
+   }
+  ],
+  "g4": [
+   {
+    "uid": "e763068d0c254d9dbea3e9fda424e008",
+    "nombre": "Standing Woman - Low Poly",
+    "autor": "nataliekirk",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 2111,
+    "url": "https://sketchfab.com/3d-models/none-e763068d0c254d9dbea3e9fda424e008",
+    "miniatura": "miniaturas/g4/e763068d0c254d9dbea3e9fda424e008.jpg"
+   },
+   {
+    "uid": "6c94f5a0d2ea4bb3af3715607df252c3",
+    "nombre": "The eagle finder",
+    "autor": "geoffreymarchal",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 500000,
+    "url": "https://sketchfab.com/3d-models/none-6c94f5a0d2ea4bb3af3715607df252c3",
+    "miniatura": "miniaturas/g4/6c94f5a0d2ea4bb3af3715607df252c3.jpg"
+   },
+   {
+    "uid": "665d4e5a05e94db7acc1a3f957110b7b",
+    "nombre": "The Hut On Fowl's Legs",
+    "autor": "Pelilasdis",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 122791,
+    "url": "https://sketchfab.com/3d-models/none-665d4e5a05e94db7acc1a3f957110b7b",
+    "miniatura": "miniaturas/g4/665d4e5a05e94db7acc1a3f957110b7b.jpg"
+   },
+   {
+    "uid": "366c8e8adc5f43df8336ce80bd116b66",
+    "nombre": "Revised Jade MK9",
+    "autor": "judgmentfist",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20122,
+    "url": "https://sketchfab.com/3d-models/none-366c8e8adc5f43df8336ce80bd116b66",
+    "miniatura": "miniaturas/g4/366c8e8adc5f43df8336ce80bd116b66.jpg"
+   },
+   {
+    "uid": "e2b30163548d485d9ee75249a84fcd3d",
+    "nombre": "Wounded Amazon",
+    "autor": "geoffreymarchal",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 350091,
+    "url": "https://sketchfab.com/3d-models/none-e2b30163548d485d9ee75249a84fcd3d",
+    "miniatura": "miniaturas/g4/e2b30163548d485d9ee75249a84fcd3d.jpg"
+   },
+   {
+    "uid": "927b5fd01d4946d1ac01ff6a0eddbb3a",
+    "nombre": "Hercules pavillon",
+    "autor": "geoffreymarchal",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 388106,
+    "url": "https://sketchfab.com/3d-models/none-927b5fd01d4946d1ac01ff6a0eddbb3a",
+    "miniatura": "miniaturas/g4/927b5fd01d4946d1ac01ff6a0eddbb3a.jpg"
+   },
+   {
+    "uid": "b515b79043ad4c9898d7d1ff38cbfde7",
+    "nombre": "Lady",
+    "autor": "geoffreymarchal",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 187219,
+    "url": "https://sketchfab.com/3d-models/none-b515b79043ad4c9898d7d1ff38cbfde7",
+    "miniatura": "miniaturas/g4/b515b79043ad4c9898d7d1ff38cbfde7.jpg"
+   },
+   {
+    "uid": "d2118efe2b8d4df28661e4ff0501b75e",
+    "nombre": "Standing Chinese Woman Figure (Tang Dynasty)",
+    "autor": "laurashea",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6000384,
+    "url": "https://sketchfab.com/3d-models/none-d2118efe2b8d4df28661e4ff0501b75e",
+    "miniatura": "miniaturas/g4/d2118efe2b8d4df28661e4ff0501b75e.jpg"
+   },
+   {
+    "uid": "fae4168fe7734ff88dc1ee9ace3d64af",
+    "nombre": "Guapa",
+    "autor": "geoffreymarchal",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 392774,
+    "url": "https://sketchfab.com/3d-models/none-fae4168fe7734ff88dc1ee9ace3d64af",
+    "miniatura": "miniaturas/g4/fae4168fe7734ff88dc1ee9ace3d64af.jpg"
+   },
+   {
+    "uid": "27f0f72c5f464e0e9081557db353df47",
+    "nombre": "Woman (Sitting Standing Clap)",
+    "autor": "nonny",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 87437,
+    "url": "https://sketchfab.com/3d-models/none-27f0f72c5f464e0e9081557db353df47",
+    "miniatura": "miniaturas/g4/27f0f72c5f464e0e9081557db353df47.jpg"
+   },
+   {
+    "uid": "59856dc494454d849c2f70eeb1f3d433",
+    "nombre": "MH 2006.25.2",
+    "autor": "laurashea",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5382819,
+    "url": "https://sketchfab.com/3d-models/none-59856dc494454d849c2f70eeb1f3d433",
+    "miniatura": "miniaturas/g4/59856dc494454d849c2f70eeb1f3d433.jpg"
+   },
+   {
+    "uid": "9aa5d0921ccb41fea29ec426e3b53610",
+    "nombre": "Woman Standing Idle_Kinstyuri",
+    "autor": "yuriannoue",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 9087,
+    "url": "https://sketchfab.com/3d-models/none-9aa5d0921ccb41fea29ec426e3b53610",
+    "miniatura": "miniaturas/g4/9aa5d0921ccb41fea29ec426e3b53610.jpg"
+   },
+   {
+    "uid": "9d1746b224964877810235d8027e0b3d",
+    "nombre": "Stehende weibliche Figur",
+    "autor": "www.noe-3d.at",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 601200,
+    "url": "https://sketchfab.com/3d-models/none-9d1746b224964877810235d8027e0b3d",
+    "miniatura": "miniaturas/g4/9d1746b224964877810235d8027e0b3d.jpg"
+   },
+   {
+    "uid": "e3f72e1213c8431a81342d30fbd5a6c2",
+    "nombre": "Dancing young woman",
+    "autor": "geoffreymarchal",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 395986,
+    "url": "https://sketchfab.com/3d-models/none-e3f72e1213c8431a81342d30fbd5a6c2",
+    "miniatura": "miniaturas/g4/e3f72e1213c8431a81342d30fbd5a6c2.jpg"
+   },
+   {
+    "uid": "16d520598a32485eb32c1d59c7df02d7",
+    "nombre": "Attic kylix",
+    "autor": "bcdh",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 14026,
+    "url": "https://sketchfab.com/3d-models/none-16d520598a32485eb32c1d59c7df02d7",
+    "miniatura": "miniaturas/g4/16d520598a32485eb32c1d59c7df02d7.jpg"
+   },
+   {
+    "uid": "5f90da581a0242dc9e9a87a72da45a2b",
+    "nombre": "Idle Female Free Animation (190 frames loop)",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1622,
+    "url": "https://sketchfab.com/3d-models/none-5f90da581a0242dc9e9a87a72da45a2b",
+    "miniatura": "miniaturas/g4/5f90da581a0242dc9e9a87a72da45a2b.jpg"
+   }
+  ],
+  "g5": [
+   {
+    "uid": "b6f6740f883b4749abac47af0045a9dd",
+    "nombre": "Business Man - Low Polygon game character",
+    "autor": "manoeldarochadeoliveira",
+    "licencia": "CC Attribution",
+    "animaciones": 25,
+    "caras": 4574,
+    "url": "https://sketchfab.com/3d-models/none-b6f6740f883b4749abac47af0045a9dd",
+    "miniatura": "miniaturas/g5/b6f6740f883b4749abac47af0045a9dd.jpg"
+   },
+   {
+    "uid": "e66255aa77c041ed9517426ee0926856",
+    "nombre": "Medieval Port City",
+    "autor": "TheAvatar",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4084144,
+    "url": "https://sketchfab.com/3d-models/none-e66255aa77c041ed9517426ee0926856",
+    "miniatura": "miniaturas/g5/e66255aa77c041ed9517426ee0926856.jpg"
+   },
+   {
+    "uid": "188e5d8dd2cb4f098871b5dd5f6fa990",
+    "nombre": "Japanese neon sign set (low poly for background)",
+    "autor": "ydvisual",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 36,
+    "url": "https://sketchfab.com/3d-models/none-188e5d8dd2cb4f098871b5dd5f6fa990",
+    "miniatura": "miniaturas/g5/188e5d8dd2cb4f098871b5dd5f6fa990.jpg"
+   },
+   {
+    "uid": "4b3c733d8bfd4ee2b91dcbcd02670686",
+    "nombre": "Radio tower",
+    "autor": "gunnarcorrea",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3282,
+    "url": "https://sketchfab.com/3d-models/none-4b3c733d8bfd4ee2b91dcbcd02670686",
+    "miniatura": "miniaturas/g5/4b3c733d8bfd4ee2b91dcbcd02670686.jpg"
+   },
+   {
+    "uid": "cf7b9b312db4400c9d99ed40739b411a",
+    "nombre": "All Characters",
+    "autor": "RachelC04",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20213,
+    "url": "https://sketchfab.com/3d-models/none-cf7b9b312db4400c9d99ed40739b411a",
+    "miniatura": "miniaturas/g5/cf7b9b312db4400c9d99ed40739b411a.jpg"
+   },
+   {
+    "uid": "c3dfc53a600e427c9db9be83aec9860d",
+    "nombre": "Laptop Dell Latitude 5400",
+    "autor": "Yolala3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 66482,
+    "url": "https://sketchfab.com/3d-models/none-c3dfc53a600e427c9db9be83aec9860d",
+    "miniatura": "miniaturas/g5/c3dfc53a600e427c9db9be83aec9860d.jpg"
+   },
+   {
+    "uid": "ca121c1f31a24824921f686f60a89359",
+    "nombre": "Nasmyth Steam Hammer",
+    "autor": "steampoweredcid",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6080,
+    "url": "https://sketchfab.com/3d-models/none-ca121c1f31a24824921f686f60a89359",
+    "miniatura": "miniaturas/g5/ca121c1f31a24824921f686f60a89359.jpg"
+   },
+   {
+    "uid": "4f12473673a84680992fd7b5d89f1783",
+    "nombre": "455 Valencia St. and Sparrow St USA",
+    "autor": "3dfovea",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 614349,
+    "url": "https://sketchfab.com/3d-models/none-4f12473673a84680992fd7b5d89f1783",
+    "miniatura": "miniaturas/g5/4f12473673a84680992fd7b5d89f1783.jpg"
+   },
+   {
+    "uid": "c53f91a1a962444fb1568f494dbc13eb",
+    "nombre": "東方Project Yuyuko fumo (3D reconstruction)",
+    "autor": "kbmollysuh",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 27077,
+    "url": "https://sketchfab.com/3d-models/none-c53f91a1a962444fb1568f494dbc13eb",
+    "miniatura": "miniaturas/g5/c53f91a1a962444fb1568f494dbc13eb.jpg"
+   },
+   {
+    "uid": "bd51813b5f984e35a8bbd0f0edaff64e",
+    "nombre": "Tombstone - Newtown, Sydney    ***No AI used!***",
+    "autor": "Heylowgogo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1768772,
+    "url": "https://sketchfab.com/3d-models/none-bd51813b5f984e35a8bbd0f0edaff64e",
+    "miniatura": "miniaturas/g5/bd51813b5f984e35a8bbd0f0edaff64e.jpg"
+   },
+   {
+    "uid": "952c59bd39524dfa868eaccc98c4e01f",
+    "nombre": "Walter Cooper Grave Marker",
+    "autor": "santacruzmah",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1997727,
+    "url": "https://sketchfab.com/3d-models/none-952c59bd39524dfa868eaccc98c4e01f",
+    "miniatura": "miniaturas/g5/952c59bd39524dfa868eaccc98c4e01f.jpg"
+   },
+   {
+    "uid": "9651c1898c384f299772035ba0bd6962",
+    "nombre": "Kauplus \"Optika\"",
+    "autor": "3Dinformation",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 430213,
+    "url": "https://sketchfab.com/3d-models/none-9651c1898c384f299772035ba0bd6962",
+    "miniatura": "miniaturas/g5/9651c1898c384f299772035ba0bd6962.jpg"
+   },
+   {
+    "uid": "5eaf968103094a4a8978ca98b68ff04c",
+    "nombre": "Skywhite's House of Lavation",
+    "autor": "TheAvatar",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 164548,
+    "url": "https://sketchfab.com/3d-models/none-5eaf968103094a4a8978ca98b68ff04c",
+    "miniatura": "miniaturas/g5/5eaf968103094a4a8978ca98b68ff04c.jpg"
+   },
+   {
+    "uid": "7a60e92f29694ed9b43d591788c9d0fa",
+    "nombre": "Business Suit Sexy",
+    "autor": "dreondei",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 29317,
+    "url": "https://sketchfab.com/3d-models/none-7a60e92f29694ed9b43d591788c9d0fa",
+    "miniatura": "miniaturas/g5/7a60e92f29694ed9b43d591788c9d0fa.jpg"
+   },
+   {
+    "uid": "19fe51a5584b402f8cb7534c5faac57f",
+    "nombre": "Elven Turbo Bolt (T111)",
+    "autor": "bileyg",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4493,
+    "url": "https://sketchfab.com/3d-models/none-19fe51a5584b402f8cb7534c5faac57f",
+    "miniatura": "miniaturas/g5/19fe51a5584b402f8cb7534c5faac57f.jpg"
+   },
+   {
+    "uid": "00322ad15e1e4e5d9b626336f582f7f0",
+    "nombre": "Character of business man",
+    "autor": "Aksgamer",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15732,
+    "url": "https://sketchfab.com/3d-models/none-00322ad15e1e4e5d9b626336f582f7f0",
+    "miniatura": "miniaturas/g5/00322ad15e1e4e5d9b626336f582f7f0.jpg"
+   },
+   {
+    "uid": "09b57673f1764047bbf67a143932c45f",
+    "nombre": "Chibi Bald Business man walk",
+    "autor": "sameka",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 14987,
+    "url": "https://sketchfab.com/3d-models/none-09b57673f1764047bbf67a143932c45f",
+    "miniatura": "miniaturas/g5/09b57673f1764047bbf67a143932c45f.jpg"
+   },
+   {
+    "uid": "2e6826aa0f2142cca046e7499305db6a",
+    "nombre": "Tu134",
+    "autor": "manilov.ap",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18582,
+    "url": "https://sketchfab.com/3d-models/none-2e6826aa0f2142cca046e7499305db6a",
+    "miniatura": "miniaturas/g5/2e6826aa0f2142cca046e7499305db6a.jpg"
+   },
+   {
+    "uid": "e9249e9a2fb5444eb8d0e2439de4840f",
+    "nombre": "Personal Digital Assistant (PDA) Apple Newton",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 190142,
+    "url": "https://sketchfab.com/3d-models/none-e9249e9a2fb5444eb8d0e2439de4840f",
+    "miniatura": "miniaturas/g5/e9249e9a2fb5444eb8d0e2439de4840f.jpg"
+   },
+   {
+    "uid": "4f258247953a42d9a342d2d235c42354",
+    "nombre": "3D Executive Bussiness Man",
+    "autor": "pendekaralahmad",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 17419,
+    "url": "https://sketchfab.com/3d-models/none-4f258247953a42d9a342d2d235c42354",
+    "miniatura": "miniaturas/g5/4f258247953a42d9a342d2d235c42354.jpg"
+   },
+   {
+    "uid": "8224adcfa06c4b66999a0f9f5f21ea7c",
+    "nombre": "Daiwa Roynet Hotel Nagoya Nayabashi Room 1309",
+    "autor": "kazugoru",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 52935,
+    "url": "https://sketchfab.com/3d-models/none-8224adcfa06c4b66999a0f9f5f21ea7c",
+    "miniatura": "miniaturas/g5/8224adcfa06c4b66999a0f9f5f21ea7c.jpg"
+   },
+   {
+    "uid": "fca00dcb9dda4974a774c88890822175",
+    "nombre": "Tech Town (Business Square)",
+    "autor": "TheDreamingState",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2788644,
+    "url": "https://sketchfab.com/3d-models/none-fca00dcb9dda4974a774c88890822175",
+    "miniatura": "miniaturas/g5/fca00dcb9dda4974a774c88890822175.jpg"
+   },
+   {
+    "uid": "3e1cef4068684347b2f7fe0d47603fb1",
+    "nombre": "Bleak City Business District",
+    "autor": "Carmalogue",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 18053,
+    "url": "https://sketchfab.com/3d-models/none-3e1cef4068684347b2f7fe0d47603fb1",
+    "miniatura": "miniaturas/g5/3e1cef4068684347b2f7fe0d47603fb1.jpg"
+   },
+   {
+    "uid": "413d197f7c0f40f9a0aaafc323dae2da",
+    "nombre": "Bleriot XI",
+    "autor": "manilov.ap",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 34500,
+    "url": "https://sketchfab.com/3d-models/none-413d197f7c0f40f9a0aaafc323dae2da",
+    "miniatura": "miniaturas/g5/413d197f7c0f40f9a0aaafc323dae2da.jpg"
+   },
+   {
+    "uid": "34d26788e6f5440eb9bf7cd13e7d19d7",
+    "nombre": "Boss",
+    "autor": "halenpet",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10141,
+    "url": "https://sketchfab.com/3d-models/none-34d26788e6f5440eb9bf7cd13e7d19d7",
+    "miniatura": "miniaturas/g5/34d26788e6f5440eb9bf7cd13e7d19d7.jpg"
+   },
+   {
+    "uid": "2c4200eb77e440b9aded1a00b7b82937",
+    "nombre": "PIFuHD image to dancing man",
+    "autor": "patspet",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 76533,
+    "url": "https://sketchfab.com/3d-models/none-2c4200eb77e440b9aded1a00b7b82937",
+    "miniatura": "miniaturas/g5/2c4200eb77e440b9aded1a00b7b82937.jpg"
+   },
+   {
+    "uid": "0d5a676f75da403b8419154b102d55a7",
+    "nombre": "Falcon10",
+    "autor": "manilov.ap",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22253,
+    "url": "https://sketchfab.com/3d-models/none-0d5a676f75da403b8419154b102d55a7",
+    "miniatura": "miniaturas/g5/0d5a676f75da403b8419154b102d55a7.jpg"
+   },
+   {
+    "uid": "68770b7d3dad4e6eb528b91dae0d983b",
+    "nombre": "Isaac and Annie Graham Tombstone",
+    "autor": "abby",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 499999,
+    "url": "https://sketchfab.com/3d-models/none-68770b7d3dad4e6eb528b91dae0d983b",
+    "miniatura": "miniaturas/g5/68770b7d3dad4e6eb528b91dae0d983b.jpg"
+   },
+   {
+    "uid": "0dd306a1394d4737ae1ffcfd4939d987",
+    "nombre": "Paper/Information holder",
+    "autor": "kg11",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 212,
+    "url": "https://sketchfab.com/3d-models/none-0dd306a1394d4737ae1ffcfd4939d987",
+    "miniatura": "miniaturas/g5/0dd306a1394d4737ae1ffcfd4939d987.jpg"
+   },
+   {
+    "uid": "7f6ac061db4642f589d3b340f84d9b61",
+    "nombre": "Muscular Male business man",
+    "autor": "kanesk06",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 14446,
+    "url": "https://sketchfab.com/3d-models/none-7f6ac061db4642f589d3b340f84d9b61",
+    "miniatura": "miniaturas/g5/7f6ac061db4642f589d3b340f84d9b61.jpg"
+   }
+  ],
+  "g6": [
+   {
+    "uid": "42e02439c61049d681c897441d40aaa1",
+    "nombre": "Nile",
+    "autor": "rigsters",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 300488,
+    "url": "https://sketchfab.com/3d-models/none-42e02439c61049d681c897441d40aaa1",
+    "miniatura": "miniaturas/g6/42e02439c61049d681c897441d40aaa1.jpg"
+   },
+   {
+    "uid": "2e815542505d48d8be91e9f7dbebfd0a",
+    "nombre": "antiradiation suit - ozk",
+    "autor": "sanyaork",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20813,
+    "url": "https://sketchfab.com/3d-models/none-2e815542505d48d8be91e9f7dbebfd0a",
+    "miniatura": "miniaturas/g6/2e815542505d48d8be91e9f7dbebfd0a.jpg"
+   },
+   {
+    "uid": "5d812244f02c402ba7d0747338d2183e",
+    "nombre": "Miles Morales - Blender Cycles with Rig",
+    "autor": "DarthIron",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6954,
+    "url": "https://sketchfab.com/3d-models/none-5d812244f02c402ba7d0747338d2183e",
+    "miniatura": "miniaturas/g6/5d812244f02c402ba7d0747338d2183e.jpg"
+   },
+   {
+    "uid": "600e821c90e74cc8ae1bb078609327f0",
+    "nombre": "Village head",
+    "autor": "Paofu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7582,
+    "url": "https://sketchfab.com/3d-models/none-600e821c90e74cc8ae1bb078609327f0",
+    "miniatura": "miniaturas/g6/600e821c90e74cc8ae1bb078609327f0.jpg"
+   },
+   {
+    "uid": "1fada85f4450472e8e5396a63e4e62c3",
+    "nombre": "[DAE End Assignment] Grandma's House",
+    "autor": "JoanTieu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 112450,
+    "url": "https://sketchfab.com/3d-models/none-1fada85f4450472e8e5396a63e4e62c3",
+    "miniatura": "miniaturas/g6/1fada85f4450472e8e5396a63e4e62c3.jpg"
+   },
+   {
+    "uid": "e7a0ffa3e3174634bdb1edc08ac0bd7c",
+    "nombre": "Spider-Man",
+    "autor": "CipherFilms",
+    "licencia": "CC Attribution",
+    "animaciones": 16,
+    "caras": 59424,
+    "url": "https://sketchfab.com/3d-models/none-e7a0ffa3e3174634bdb1edc08ac0bd7c",
+    "miniatura": "miniaturas/g6/e7a0ffa3e3174634bdb1edc08ac0bd7c.jpg"
+   },
+   {
+    "uid": "8fe5023517b74eddb564130cbf2e4869",
+    "nombre": "Old man head. Miquel Blay",
+    "autor": "albert_sierra",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 220306,
+    "url": "https://sketchfab.com/3d-models/none-8fe5023517b74eddb564130cbf2e4869",
+    "miniatura": "miniaturas/g6/8fe5023517b74eddb564130cbf2e4869.jpg"
+   },
+   {
+    "uid": "f2d7a014141841d99f16ccb4cc404326",
+    "nombre": "Beeld van Maya en Merit",
+    "autor": "rmo_leiden",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 998884,
+    "url": "https://sketchfab.com/3d-models/none-f2d7a014141841d99f16ccb4cc404326",
+    "miniatura": "miniaturas/g6/f2d7a014141841d99f16ccb4cc404326.jpg"
+   },
+   {
+    "uid": "306296aa2c564e68baa062532001507a",
+    "nombre": "The Old Man of Hoy, Orkney",
+    "autor": "hugoandersonwhymark",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1766187,
+    "url": "https://sketchfab.com/3d-models/none-306296aa2c564e68baa062532001507a",
+    "miniatura": "miniaturas/g6/306296aa2c564e68baa062532001507a.jpg"
+   },
+   {
+    "uid": "b249aed3129d4f8a8959c8e252dd54ce",
+    "nombre": "Spider-Man - Hybrid Suit",
+    "autor": "fairlight51",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18308,
+    "url": "https://sketchfab.com/3d-models/none-b249aed3129d4f8a8959c8e252dd54ce",
+    "miniatura": "miniaturas/g6/b249aed3129d4f8a8959c8e252dd54ce.jpg"
+   },
+   {
+    "uid": "1ebd7891ab9e4f25877c957cc37353f6",
+    "nombre": "Bolsonaro's Head",
+    "autor": "rodrigogelmi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 25296,
+    "url": "https://sketchfab.com/3d-models/none-1ebd7891ab9e4f25877c957cc37353f6",
+    "miniatura": "miniaturas/g6/1ebd7891ab9e4f25877c957cc37353f6.jpg"
+   },
+   {
+    "uid": "c8bafb2697944af1897cad7a0f50e37a",
+    "nombre": "Old Ninja",
+    "autor": "flioink",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 871291,
+    "url": "https://sketchfab.com/3d-models/none-c8bafb2697944af1897cad7a0f50e37a",
+    "miniatura": "miniaturas/g6/c8bafb2697944af1897cad7a0f50e37a.jpg"
+   },
+   {
+    "uid": "69fa6d8aaaab4dc19f3c2cb5fcd498b1",
+    "nombre": "A captain's pride",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 30752,
+    "url": "https://sketchfab.com/3d-models/none-69fa6d8aaaab4dc19f3c2cb5fcd498b1",
+    "miniatura": "miniaturas/g6/69fa6d8aaaab4dc19f3c2cb5fcd498b1.jpg"
+   },
+   {
+    "uid": "f785aeb50aa745b9a475c3895333d7b9",
+    "nombre": "Sealos Island Town - Map Remake",
+    "autor": "uradamus",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4508,
+    "url": "https://sketchfab.com/3d-models/none-f785aeb50aa745b9a475c3895333d7b9",
+    "miniatura": "miniaturas/g6/f785aeb50aa745b9a475c3895333d7b9.jpg"
+   },
+   {
+    "uid": "5c29ca5803ad475eaaae12714e8f1dab",
+    "nombre": "Roman Soldier - fighting pose - 3d printable",
+    "autor": "Andywoodhead",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 294935,
+    "url": "https://sketchfab.com/3d-models/none-5c29ca5803ad475eaaae12714e8f1dab",
+    "miniatura": "miniaturas/g6/5c29ca5803ad475eaaae12714e8f1dab.jpg"
+   },
+   {
+    "uid": "5300fae7b344407fbf5ac8505d5323ac",
+    "nombre": "The ages of love",
+    "autor": "geoffreymarchal",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 537548,
+    "url": "https://sketchfab.com/3d-models/none-5300fae7b344407fbf5ac8505d5323ac",
+    "miniatura": "miniaturas/g6/5300fae7b344407fbf5ac8505d5323ac.jpg"
+   },
+   {
+    "uid": "482befbbdb7342e1bad930d59f95abb1",
+    "nombre": "Old Man Bust",
+    "autor": "Omty",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 138570,
+    "url": "https://sketchfab.com/3d-models/none-482befbbdb7342e1bad930d59f95abb1",
+    "miniatura": "miniaturas/g6/482befbbdb7342e1bad930d59f95abb1.jpg"
+   },
+   {
+    "uid": "7d4b47de58fd4d54a36c88aa379d7bd9",
+    "nombre": "Old Man Walking",
+    "autor": "geoffreymarchal",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 313079,
+    "url": "https://sketchfab.com/3d-models/none-7d4b47de58fd4d54a36c88aa379d7bd9",
+    "miniatura": "miniaturas/g6/7d4b47de58fd4d54a36c88aa379d7bd9.jpg"
+   },
+   {
+    "uid": "f2c4851bd44a489da25c893f6ba8dc7a",
+    "nombre": "Megaman-NT (PC / Console)",
+    "autor": "livrosparacriancas",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 16613,
+    "url": "https://sketchfab.com/3d-models/none-f2c4851bd44a489da25c893f6ba8dc7a",
+    "miniatura": "miniaturas/g6/f2c4851bd44a489da25c893f6ba8dc7a.jpg"
+   },
+   {
+    "uid": "c4900f4d6a314373a04170a858f57ce6",
+    "nombre": "Kentaur",
+    "autor": "www.noe-3d.at",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 873578,
+    "url": "https://sketchfab.com/3d-models/none-c4900f4d6a314373a04170a858f57ce6",
+    "miniatura": "miniaturas/g6/c4900f4d6a314373a04170a858f57ce6.jpg"
+   },
+   {
+    "uid": "51f06415321d42f0817097c3d8bcd792",
+    "nombre": "The Prophet Simeon",
+    "autor": "WirtualneMuzeaMalopolski",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 1200000,
+    "url": "https://sketchfab.com/3d-models/none-51f06415321d42f0817097c3d8bcd792",
+    "miniatura": "miniaturas/g6/51f06415321d42f0817097c3d8bcd792.jpg"
+   },
+   {
+    "uid": "3e87e2d771164cac96d4d3b12cec9e36",
+    "nombre": "Asklepios",
+    "autor": "www.noe-3d.at",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 504670,
+    "url": "https://sketchfab.com/3d-models/none-3e87e2d771164cac96d4d3b12cec9e36",
+    "miniatura": "miniaturas/g6/3e87e2d771164cac96d4d3b12cec9e36.jpg"
+   },
+   {
+    "uid": "0232df067f864df0ae50a4a01a060ec3",
+    "nombre": "Arcade",
+    "autor": "scoppock",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 25458,
+    "url": "https://sketchfab.com/3d-models/none-0232df067f864df0ae50a4a01a060ec3",
+    "miniatura": "miniaturas/g6/0232df067f864df0ae50a4a01a060ec3.jpg"
+   },
+   {
+    "uid": "5dacf3bcbf354273a5d2848cddc42b3c",
+    "nombre": "Royal Navy Shipboy",
+    "autor": "JanPohl",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 30689,
+    "url": "https://sketchfab.com/3d-models/none-5dacf3bcbf354273a5d2848cddc42b3c",
+    "miniatura": "miniaturas/g6/5dacf3bcbf354273a5d2848cddc42b3c.jpg"
+   },
+   {
+    "uid": "ffd427134d5e44b4850628030aa66236",
+    "nombre": "NES Console and Controller",
+    "autor": "Darren.Hogan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20034,
+    "url": "https://sketchfab.com/3d-models/none-ffd427134d5e44b4850628030aa66236",
+    "miniatura": "miniaturas/g6/ffd427134d5e44b4850628030aa66236.jpg"
+   },
+   {
+    "uid": "a2a64ad5132e41ae9a531fcd116230c0",
+    "nombre": "Old Man Clem Head with Blendshapes",
+    "autor": "skullvez",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 24479,
+    "url": "https://sketchfab.com/3d-models/none-a2a64ad5132e41ae9a531fcd116230c0",
+    "miniatura": "miniaturas/g6/a2a64ad5132e41ae9a531fcd116230c0.jpg"
+   },
+   {
+    "uid": "5f68edbd81e44b6dad8a938fab6e03ad",
+    "nombre": "Wizards staff",
+    "autor": "khachiun",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 288,
+    "url": "https://sketchfab.com/3d-models/none-5f68edbd81e44b6dad8a938fab6e03ad",
+    "miniatura": "miniaturas/g6/5f68edbd81e44b6dad8a938fab6e03ad.jpg"
+   },
+   {
+    "uid": "c1d3569eb9c54f8f8fc4c1a897c37041",
+    "nombre": "Old man Face sculpt",
+    "autor": "bjornaraarset",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 722148,
+    "url": "https://sketchfab.com/3d-models/none-c1d3569eb9c54f8f8fc4c1a897c37041",
+    "miniatura": "miniaturas/g6/c1d3569eb9c54f8f8fc4c1a897c37041.jpg"
+   },
+   {
+    "uid": "53a3c607c2064aa2bdd6132fc17801ac",
+    "nombre": "Symbiote Spider-Man V1 (Old Model)",
+    "autor": "VisiionLovesYou",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 444035,
+    "url": "https://sketchfab.com/3d-models/none-53a3c607c2064aa2bdd6132fc17801ac",
+    "miniatura": "miniaturas/g6/53a3c607c2064aa2bdd6132fc17801ac.jpg"
+   },
+   {
+    "uid": "3f74a8547aaf422686bb28768f7ce27c",
+    "nombre": "Animated Old Man Character",
+    "autor": "supertheo",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5428,
+    "url": "https://sketchfab.com/3d-models/none-3f74a8547aaf422686bb28768f7ce27c",
+    "miniatura": "miniaturas/g6/3f74a8547aaf422686bb28768f7ce27c.jpg"
+   }
+  ],
+  "g7": [
+   {
+    "uid": "1fb471cc73c0432ab034701470b5b1ec",
+    "nombre": "Psylocke -fortnite",
+    "autor": "1FENIL",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 34586,
+    "url": "https://sketchfab.com/3d-models/none-1fb471cc73c0432ab034701470b5b1ec",
+    "miniatura": "miniaturas/g7/1fb471cc73c0432ab034701470b5b1ec.jpg"
+   },
+   {
+    "uid": "f78aa69d7ef0450991910b7ec8dd8188",
+    "nombre": "Starlie -Fortnite",
+    "autor": "1FENIL",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 23376,
+    "url": "https://sketchfab.com/3d-models/none-f78aa69d7ef0450991910b7ec8dd8188",
+    "miniatura": "miniaturas/g7/f78aa69d7ef0450991910b7ec8dd8188.jpg"
+   },
+   {
+    "uid": "f314412d008a449d85fc2fca7897563f",
+    "nombre": "Tsuki -Fortnite",
+    "autor": "1FENIL",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 33034,
+    "url": "https://sketchfab.com/3d-models/none-f314412d008a449d85fc2fca7897563f",
+    "miniatura": "miniaturas/g7/f314412d008a449d85fc2fca7897563f.jpg"
+   },
+   {
+    "uid": "3b717fd10adf47b9a01a5fb4528217ee",
+    "nombre": "skate standing girl",
+    "autor": "demonmodelling",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 708212,
+    "url": "https://sketchfab.com/3d-models/none-3b717fd10adf47b9a01a5fb4528217ee",
+    "miniatura": "miniaturas/g7/3b717fd10adf47b9a01a5fb4528217ee.jpg"
+   },
+   {
+    "uid": "6054e15ea4284d04b04da55d047c8ec5",
+    "nombre": "Storm -Fortnite",
+    "autor": "1FENIL",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 30487,
+    "url": "https://sketchfab.com/3d-models/none-6054e15ea4284d04b04da55d047c8ec5",
+    "miniatura": "miniaturas/g7/6054e15ea4284d04b04da55d047c8ec5.jpg"
+   },
+   {
+    "uid": "ae95bdcaafdc4c35a49cac902c4e702b",
+    "nombre": "Splatterella -Fortnite",
+    "autor": "1FENIL",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 34203,
+    "url": "https://sketchfab.com/3d-models/none-ae95bdcaafdc4c35a49cac902c4e702b",
+    "miniatura": "miniaturas/g7/ae95bdcaafdc4c35a49cac902c4e702b.jpg"
+   },
+   {
+    "uid": "e3f72e1213c8431a81342d30fbd5a6c2",
+    "nombre": "Dancing young woman",
+    "autor": "geoffreymarchal",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 395986,
+    "url": "https://sketchfab.com/3d-models/none-e3f72e1213c8431a81342d30fbd5a6c2",
+    "miniatura": "miniaturas/g7/e3f72e1213c8431a81342d30fbd5a6c2.jpg"
+   },
+   {
+    "uid": "2338eebf00dc491289ffa1848a958cd5",
+    "nombre": "Kane -Fortnite",
+    "autor": "1FENIL",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 26028,
+    "url": "https://sketchfab.com/3d-models/none-2338eebf00dc491289ffa1848a958cd5",
+    "miniatura": "miniaturas/g7/2338eebf00dc491289ffa1848a958cd5.jpg"
+   },
+   {
+    "uid": "c3bc18fde3234044b93533b36ba3fe5f",
+    "nombre": "Stephanie's Standing Pose",
+    "autor": "MakutaMiserix",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 34827,
+    "url": "https://sketchfab.com/3d-models/none-c3bc18fde3234044b93533b36ba3fe5f",
+    "miniatura": "miniaturas/g7/c3bc18fde3234044b93533b36ba3fe5f.jpg"
+   },
+   {
+    "uid": "06b0843fd1de43b4a6436c280dac3f00",
+    "nombre": "Figure Of A Girl",
+    "autor": "theNewWayMuseum",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5232,
+    "url": "https://sketchfab.com/3d-models/none-06b0843fd1de43b4a6436c280dac3f00",
+    "miniatura": "miniaturas/g7/06b0843fd1de43b4a6436c280dac3f00.jpg"
+   },
+   {
+    "uid": "7771ae1e07c34b738a8ea23ddb7bd13a",
+    "nombre": "Windemere Cottage, La Jolla CA",
+    "autor": "chei_ucsd",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 93712,
+    "url": "https://sketchfab.com/3d-models/none-7771ae1e07c34b738a8ea23ddb7bd13a",
+    "miniatura": "miniaturas/g7/7771ae1e07c34b738a8ea23ddb7bd13a.jpg"
+   },
+   {
+    "uid": "c9ca01094c8c45f484df83a61e8f1ef3",
+    "nombre": "Girl Standing Animation",
+    "autor": "dhunu53",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 70423,
+    "url": "https://sketchfab.com/3d-models/none-c9ca01094c8c45f484df83a61e8f1ef3",
+    "miniatura": "miniaturas/g7/c9ca01094c8c45f484df83a61e8f1ef3.jpg"
+   }
+  ],
+  "g8": [
+   {
+    "uid": "60dfa6ac87e84e7dae8dba220526946d",
+    "nombre": "3D Character Young Boy",
+    "autor": "sanaullahrais",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 17419,
+    "url": "https://sketchfab.com/3d-models/none-60dfa6ac87e84e7dae8dba220526946d",
+    "miniatura": "miniaturas/g8/60dfa6ac87e84e7dae8dba220526946d.jpg"
+   },
+   {
+    "uid": "b7bba7eddb13470b88eb8b24531cb6b3",
+    "nombre": "Armored Guard Knight Rig",
+    "autor": "SuperKapoo913",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 25513,
+    "url": "https://sketchfab.com/3d-models/none-b7bba7eddb13470b88eb8b24531cb6b3",
+    "miniatura": "miniaturas/g8/b7bba7eddb13470b88eb8b24531cb6b3.jpg"
+   },
+   {
+    "uid": "43b482c8526f45709b56434924dc4d3c",
+    "nombre": "Robotic Prosthetic Arm",
+    "autor": "Darren.Hogan",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 55960,
+    "url": "https://sketchfab.com/3d-models/none-43b482c8526f45709b56434924dc4d3c",
+    "miniatura": "miniaturas/g8/43b482c8526f45709b56434924dc4d3c.jpg"
+   },
+   {
+    "uid": "09294cb14a404d77ad3db9ff6ab49179",
+    "nombre": "Head Ring, Jewly, Hair Pin Retopo And Hairstyle",
+    "autor": "chambersu1996",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 68690,
+    "url": "https://sketchfab.com/3d-models/none-09294cb14a404d77ad3db9ff6ab49179",
+    "miniatura": "miniaturas/g8/09294cb14a404d77ad3db9ff6ab49179.jpg"
+   },
+   {
+    "uid": "5b9b6ce9036448b59abaf0d2def71441",
+    "nombre": "Draconic Sorceress Character Rig",
+    "autor": "SuperKapoo913",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 49010,
+    "url": "https://sketchfab.com/3d-models/none-5b9b6ce9036448b59abaf0d2def71441",
+    "miniatura": "miniaturas/g8/5b9b6ce9036448b59abaf0d2def71441.jpg"
+   },
+   {
+    "uid": "9f63e924253b4179adb79b117a26d385",
+    "nombre": "hands animation",
+    "autor": "hugocolauto",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 6660,
+    "url": "https://sketchfab.com/3d-models/none-9f63e924253b4179adb79b117a26d385",
+    "miniatura": "miniaturas/g8/9f63e924253b4179adb79b117a26d385.jpg"
+   },
+   {
+    "uid": "598d1d1866df48f999fabadb017429d1",
+    "nombre": "Basic Human Male",
+    "autor": "DNC44",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15064,
+    "url": "https://sketchfab.com/3d-models/none-598d1d1866df48f999fabadb017429d1",
+    "miniatura": "miniaturas/g8/598d1d1866df48f999fabadb017429d1.jpg"
+   },
+   {
+    "uid": "9a6fd72aa31540f2a6a8e8d236778a2f",
+    "nombre": "Low Poly Male Base - Slender",
+    "autor": "mesh-base",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3754,
+    "url": "https://sketchfab.com/3d-models/none-9a6fd72aa31540f2a6a8e8d236778a2f",
+    "miniatura": "miniaturas/g8/9a6fd72aa31540f2a6a8e8d236778a2f.jpg"
+   },
+   {
+    "uid": "138ca18c246a4b13b3e108bd88df95a2",
+    "nombre": "Low Poly Base Mesh-530 Tri",
+    "autor": "Huge_Man-assblasterplastered",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 530,
+    "url": "https://sketchfab.com/3d-models/none-138ca18c246a4b13b3e108bd88df95a2",
+    "miniatura": "miniaturas/g8/138ca18c246a4b13b3e108bd88df95a2.jpg"
+   },
+   {
+    "uid": "77f49ac4ceab4e71833735fba788bcc3",
+    "nombre": "Cute Female Full Body 3D Model",
+    "autor": "Hackpur",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13333,
+    "url": "https://sketchfab.com/3d-models/none-77f49ac4ceab4e71833735fba788bcc3",
+    "miniatura": "miniaturas/g8/77f49ac4ceab4e71833735fba788bcc3.jpg"
+   },
+   {
+    "uid": "9f9441a483ca476a8ba54223717404d1",
+    "nombre": "Fallout: Feral Ghoul",
+    "autor": "3d.somni",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6244,
+    "url": "https://sketchfab.com/3d-models/none-9f9441a483ca476a8ba54223717404d1",
+    "miniatura": "miniaturas/g8/9f9441a483ca476a8ba54223717404d1.jpg"
+   },
+   {
+    "uid": "160bf043b71c458984c81c717b7483c9",
+    "nombre": "Western Cowboy (Rigged)",
+    "autor": "stevedaman",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 35370,
+    "url": "https://sketchfab.com/3d-models/none-160bf043b71c458984c81c717b7483c9",
+    "miniatura": "miniaturas/g8/160bf043b71c458984c81c717b7483c9.jpg"
+   },
+   {
+    "uid": "63ce7df4ad2b46a283da1b09ae0cfcb3",
+    "nombre": "BAM",
+    "autor": "TalismanSkulls",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 16174,
+    "url": "https://sketchfab.com/3d-models/none-63ce7df4ad2b46a283da1b09ae0cfcb3",
+    "miniatura": "miniaturas/g8/63ce7df4ad2b46a283da1b09ae0cfcb3.jpg"
+   },
+   {
+    "uid": "aa64062267dc4324a04dfdd15f2d2c42",
+    "nombre": "Basic Human Female",
+    "autor": "DNC44",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 19112,
+    "url": "https://sketchfab.com/3d-models/none-aa64062267dc4324a04dfdd15f2d2c42",
+    "miniatura": "miniaturas/g8/aa64062267dc4324a04dfdd15f2d2c42.jpg"
+   },
+   {
+    "uid": "137d899dfe674275bb4a2f28ce004c4c",
+    "nombre": "Cute Korean Girl Full Body 3D Model",
+    "autor": "Hackpur",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 14955,
+    "url": "https://sketchfab.com/3d-models/none-137d899dfe674275bb4a2f28ce004c4c",
+    "miniatura": "miniaturas/g8/137d899dfe674275bb4a2f28ce004c4c.jpg"
+   },
+   {
+    "uid": "5352bd32caa345e0a40adb444d24db82",
+    "nombre": "Will Smith. Ready Player Me full-body avatar",
+    "autor": "readyplayerme",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 16542,
+    "url": "https://sketchfab.com/3d-models/none-5352bd32caa345e0a40adb444d24db82",
+    "miniatura": "miniaturas/g8/5352bd32caa345e0a40adb444d24db82.jpg"
+   },
+   {
+    "uid": "e2fe596cf22c4bb9b78fb979a2697c7c",
+    "nombre": "Modified big cat - animated",
+    "autor": "gbarzu",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 58650,
+    "url": "https://sketchfab.com/3d-models/none-e2fe596cf22c4bb9b78fb979a2697c7c",
+    "miniatura": "miniaturas/g8/e2fe596cf22c4bb9b78fb979a2697c7c.jpg"
+   },
+   {
+    "uid": "ce0604608f96477a875569ff28e15889",
+    "nombre": "Rigged low poly male & female figures. (Blender)",
+    "autor": "drazenk",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6284,
+    "url": "https://sketchfab.com/3d-models/none-ce0604608f96477a875569ff28e15889",
+    "miniatura": "miniaturas/g8/ce0604608f96477a875569ff28e15889.jpg"
+   },
+   {
+    "uid": "2b5c9b749a714dd6b0d04c7de83c254e",
+    "nombre": "Little Girl Rigged 3D Model",
+    "autor": "CG-Moon",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1220,
+    "url": "https://sketchfab.com/3d-models/none-2b5c9b749a714dd6b0d04c7de83c254e",
+    "miniatura": "miniaturas/g8/2b5c9b749a714dd6b0d04c7de83c254e.jpg"
+   },
+   {
+    "uid": "c6c3dd15792c4b768f087f0831ad249d",
+    "nombre": "Low Poly Male Body Base",
+    "autor": "mesh-base",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9590,
+    "url": "https://sketchfab.com/3d-models/none-c6c3dd15792c4b768f087f0831ad249d",
+    "miniatura": "miniaturas/g8/c6c3dd15792c4b768f087f0831ad249d.jpg"
+   },
+   {
+    "uid": "601503e9c56b4b5eba76847128d31f6f",
+    "nombre": "Base Mesh Man Simple",
+    "autor": "LeighIria",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10840,
+    "url": "https://sketchfab.com/3d-models/none-601503e9c56b4b5eba76847128d31f6f",
+    "miniatura": "miniaturas/g8/601503e9c56b4b5eba76847128d31f6f.jpg"
+   },
+   {
+    "uid": "da7b5c14bc634f8283e2d21343afa7cc",
+    "nombre": "Spacesuit (Confederation of Planets)",
+    "autor": "tnnv",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 26006,
+    "url": "https://sketchfab.com/3d-models/none-da7b5c14bc634f8283e2d21343afa7cc",
+    "miniatura": "miniaturas/g8/da7b5c14bc634f8283e2d21343afa7cc.jpg"
+   },
+   {
+    "uid": "12184db58b1f44c987537b5607c32098",
+    "nombre": "Little Astronaut",
+    "autor": "jellevermandere",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3888,
+    "url": "https://sketchfab.com/3d-models/none-12184db58b1f44c987537b5607c32098",
+    "miniatura": "miniaturas/g8/12184db58b1f44c987537b5607c32098.jpg"
+   },
+   {
+    "uid": "5933d345ad9441d499c93eb655a9b214",
+    "nombre": "Saitama (One Punch Man) - Revised",
+    "autor": "mmkh",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 59696,
+    "url": "https://sketchfab.com/3d-models/none-5933d345ad9441d499c93eb655a9b214",
+    "miniatura": "miniaturas/g8/5933d345ad9441d499c93eb655a9b214.jpg"
+   },
+   {
+    "uid": "16d4bbcec1c64a8799df4b22ff422c11",
+    "nombre": "Cartoon Eye",
+    "autor": "MushyDay",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4488,
+    "url": "https://sketchfab.com/3d-models/none-16d4bbcec1c64a8799df4b22ff422c11",
+    "miniatura": "miniaturas/g8/16d4bbcec1c64a8799df4b22ff422c11.jpg"
+   },
+   {
+    "uid": "999aac12a3354a10862ae87f1eaee31c",
+    "nombre": "Monk Rigged 3D Model",
+    "autor": "CG-Moon",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1167,
+    "url": "https://sketchfab.com/3d-models/none-999aac12a3354a10862ae87f1eaee31c",
+    "miniatura": "miniaturas/g8/999aac12a3354a10862ae87f1eaee31c.jpg"
+   },
+   {
+    "uid": "e1a42fe1662a437f919bd883360587f9",
+    "nombre": "Young Girl Rigged 3D Model",
+    "autor": "CG-Moon",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1357,
+    "url": "https://sketchfab.com/3d-models/none-e1a42fe1662a437f919bd883360587f9",
+    "miniatura": "miniaturas/g8/e1a42fe1662a437f919bd883360587f9.jpg"
+   },
+   {
+    "uid": "829f049f406448d1a9345113e8c1d6ef",
+    "nombre": "Girl - NDRKMR",
+    "autor": "Androkumura",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 18504,
+    "url": "https://sketchfab.com/3d-models/none-829f049f406448d1a9345113e8c1d6ef",
+    "miniatura": "miniaturas/g8/829f049f406448d1a9345113e8c1d6ef.jpg"
+   },
+   {
+    "uid": "4903fccbe4d94eeda581e7fd3870d90d",
+    "nombre": "Wise Man Rigged 3D Model",
+    "autor": "CG-Moon",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1116,
+    "url": "https://sketchfab.com/3d-models/none-4903fccbe4d94eeda581e7fd3870d90d",
+    "miniatura": "miniaturas/g8/4903fccbe4d94eeda581e7fd3870d90d.jpg"
+   },
+   {
+    "uid": "d27b5fcd41db44eab24efd1c79d9b0da",
+    "nombre": "Rastaman (jamaican singer)",
+    "autor": "mayantique",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 49746,
+    "url": "https://sketchfab.com/3d-models/none-d27b5fcd41db44eab24efd1c79d9b0da",
+    "miniatura": "miniaturas/g8/d27b5fcd41db44eab24efd1c79d9b0da.jpg"
+   }
+  ]
+ },
+ "objaverse": {
+  "ciclista": {
+   "uid": "f97acacd76be484dbf0243d82f6a1c44",
+   "nombre": "ciclista",
+   "titulo": "Cyclist - racing position - free 3d printable",
+   "autor": "Andywoodhead",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-f97acacd76be484dbf0243d82f6a1c44",
+   "caras": 478865,
+   "anim": 0
+  }
+ }
+}

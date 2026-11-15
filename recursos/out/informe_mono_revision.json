@@ -1,0 +1,767 @@
+{
+ "bajados": [
+  {
+   "destino": "sonidos/mr_chimp_grito/S27-29a_Chimpanzee-Noisy_Before_Demo.wav_by_craigs_678059.mp3",
+   "mb": 0.26
+  },
+  {
+   "destino": "sonidos/mr_chimp_grito/S27-30_Chimpanzee_Loud_screams.wav_by_craigsmith_675430.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/mr_mono_respira/I_x27_m_Poisoned_Over_Acting_Dying_Performance_by__192187.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mr_mono_respira/Clarinet_monkeying_around_with_the_bell_and_mouthp_844242.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mr_palanca/Rautatievaihde_vaihde_Manual_railway_switch_points_334139.mp3",
+   "mb": 0.35
+  },
+  {
+   "destino": "sonidos/mr_palanca/Old_SLR_film_camera_film_advance_lever_and_shutter_516486.mp3",
+   "mb": 0.46
+  },
+  {
+   "destino": "sonidos/mr_palanca/Mechanism_Activation_Sequence_by_qubodup_752067.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mr_palanca/Toaster_lift_Contact_mic_by_nicStage_462284.mp3",
+   "mb": 0.38
+  },
+  {
+   "destino": "sonidos/mr_palanca/Switch_Flip_1_by_IanStarGem_278205.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mr_palanca/custom_lever_pulling_sounds_02182026_by_Artninja_845787.mp3",
+   "mb": 0.25
+  },
+  {
+   "destino": "sonidos/mr_bomba2/Hospital_infusion_pump._Alarm_-_Bomba_de_infusion__617170.mp3",
+   "mb": 0.38
+  },
+  {
+   "destino": "sonidos/mr_goteo/small_puddle_splash_sound_effect_by_Garuda1982_540886.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mr_goteo/water_plop_splash_falling_sound_effect_by_Garuda19_539763.mp3",
+   "mb": 0.43
+  },
+  {
+   "destino": "sonidos/mr_latido/Heartbeat_Fast_by_Poyekhali_254366.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/mr_latido/HEARTBEAT-FAST.wav_by_newagesoup_347326.mp3",
+   "mb": 0.23
+  },
+  {
+   "destino": "sonidos/mr_latido/heartbeat_fast_but_inconsistent_.wav_by_ultraaxvii_533909.mp3",
+   "mb": 0.35
+  },
+  {
+   "destino": "sonidos/mr_latido/Heartbeat_97_BPM_by_Cloud-10_688735.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/mr_latido/Heartbeat.wav_by_jone_oost_366708.mp3",
+   "mb": 0.34
+  },
+  {
+   "destino": "sonidos/mr_latido/heartbeat.mp3_by_ZHR__551437.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/mr_pasos/Running_on_concrete_with_jump_and_landing_by_Crims_831814.mp3",
+   "mb": 0.25
+  },
+  {
+   "destino": "sonidos/mr_caja/15_Cardboard_Box_Handling.mp3_by_Coral_Island_Stud_459446.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/mr_caja/CardboardBoxes_01.wav_by_TheWAVLab_215475.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mr_caja/GAMEBoard_Handling_Jigsaw_Puzzle_Pieces_in_a_box_b_822308.mp3",
+   "mb": 0.49
+  },
+  {
+   "destino": "sonidos/mr_caja/Moving_and_Handling_Cardboard.wav_by_Breezy2000uk_578712.mp3",
+   "mb": 0.45
+  },
+  {
+   "destino": "sonidos/mr_caja/Small_cardboard_box_by_MaslovyTygr_735994.mp3",
+   "mb": 0.21
+  },
+  {
+   "destino": "sonidos/mr_caja/Cardboard_Box.aif_by_SunnySideSound_67791.mp3",
+   "mb": 0.26
+  },
+  {
+   "destino": "sonidos/mr_mk_mono/Cartoon_monkey_mocking_and_giggling_108-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mr_mk_mono/Cartoon_monkey_mocking_laugh_107-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mr_mk_mono/Monkey_excited_screech_105-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mr_mk_mono/Cartoon_monkey_applause_103-preview.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/mr_mk_mono/Little_monkey_screech_104-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mr_mk_mono/Cartoon_baby_monkey_laugh_102-preview.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/mr_mk_mono/Scared_monkey_thumping_chest_98-preview.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mr_mk_mono/Cartoon_creature_pain_scream_101-preview.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mr_mk_mono/Excited_monkey_grunt_99-preview.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mr_mk_mono/Cartoon_monkey_laugh_100-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mr_mk_mono/Excited_monkey_thumping_chest_call_106-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mr_mk_mono/Excited_Monkey_thumping_chest_97-preview.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/mr_mk_lab/Fast_tape_rewind_cinematic_transition_1092-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mr_mk_lab/Coins_handling_1939-preview.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mr_mk_lab/Reel_to_reel_rewind_1095-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mr_mk_lab/Magical_coin_win_1936-preview.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/mr_mk_lab/Tech_weird_glitch_2685-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mr_mk_lab/Slot_machine_win_alert_1931-preview.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/mr_mk_lab/Melodic_bonus_collect_1938-preview.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/mr_mk_lab/Payout_award_1934-preview.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mr_mk_lab/Slot_machine_wheel_1932-preview.mp3",
+   "mb": 0.18
+  },
+  {
+   "destino": "sonidos/mr_mk_lab/Futuristic_machine_starting_2689-preview.mp3",
+   "mb": 0.25
+  },
+  {
+   "destino": "sonidos/mr_mk_lab/Console_glitch_2688-preview.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/mr_mk_lab/Arcade_slot_machine_wheel_1933-preview.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/mr_c_chimp/Chimpanzee-Alarm-Call-Production-Meets-Key-Criteria-for-Intentionality.oga",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mr_c_chimp/Chimpanzee-drumming-a-spontaneous-performance-with-characteristics-of-.oga",
+   "mb": 2.91
+  },
+  {
+   "destino": "sonidos/mr_c_chimp/Dag-Kpara_Chimpanzees_.ogg",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mr_c_chimp/De-Bonobo.ogg",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mr_c_chimp/Pant-hoot_call_made_by_a_male_chimpanzee.ogg",
+   "mb": 0.13
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "freesound": {
+  "mr_chimp_grito": [
+   {
+    "id": "678059",
+    "autor": "craigsmith",
+    "pagina": "https://freesound.org/people/craigsmith/sounds/678059/",
+    "titulo": "S27-29a Chimpanzee-Noisy Before Demo.wav by craigsmith",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mr_chimp_grito/S27-29a_Chimpanzee-Noisy_Before_Demo.wav_by_craigs_678059.mp3"
+   },
+   {
+    "id": "675430",
+    "autor": "craigsmith",
+    "pagina": "https://freesound.org/people/craigsmith/sounds/675430/",
+    "titulo": "S27-30 Chimpanzee Loud screams.wav by craigsmith",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mr_chimp_grito/S27-30_Chimpanzee_Loud_screams.wav_by_craigsmith_675430.mp3"
+   }
+  ],
+  "mr_chimp_jadeo": [],
+  "mr_mono_respira": [
+   {
+    "id": "192187",
+    "autor": "AudioRichter",
+    "pagina": "https://freesound.org/people/AudioRichter/sounds/192187/",
+    "titulo": "I&#x27;m Poisoned!! Over Acting Dying Performance by AudioRichter",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mr_mono_respira/I_x27_m_Poisoned_Over_Acting_Dying_Performance_by__192187.mp3"
+   },
+   {
+    "id": "844242",
+    "autor": "ATP2-kh",
+    "pagina": "https://freesound.org/people/ATP2-kh/sounds/844242/",
+    "titulo": "Clarinet monkeying around with the bell and mouthpiece by ATP2 CC0 by ATP2-kh",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mr_mono_respira/Clarinet_monkeying_around_with_the_bell_and_mouthp_844242.mp3"
+   }
+  ],
+  "mr_palanca": [
+   {
+    "id": "334139",
+    "autor": "YleArkisto",
+    "pagina": "https://freesound.org/people/YleArkisto/sounds/334139/",
+    "titulo": "Rautatievaihde, vaihde / Manual railway switch, points, metal lever rattling and clicking, railway yard by YleArkisto",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mr_palanca/Rautatievaihde_vaihde_Manual_railway_switch_points_334139.mp3"
+   },
+   {
+    "id": "516486",
+    "autor": "khenshom",
+    "pagina": "https://freesound.org/people/khenshom/sounds/516486/",
+    "titulo": "Old SLR film camera film advance lever and shutter button click by khenshom",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mr_palanca/Old_SLR_film_camera_film_advance_lever_and_shutter_516486.mp3"
+   },
+   {
+    "id": "752067",
+    "autor": "qubodup",
+    "pagina": "https://freesound.org/people/qubodup/sounds/752067/",
+    "titulo": "Mechanism Activation Sequence by qubodup",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mr_palanca/Mechanism_Activation_Sequence_by_qubodup_752067.mp3"
+   },
+   {
+    "id": "462284",
+    "autor": "nicStage",
+    "pagina": "https://freesound.org/people/nicStage/sounds/462284/",
+    "titulo": "Toaster lift (Contact mic) by nicStage",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mr_palanca/Toaster_lift_Contact_mic_by_nicStage_462284.mp3"
+   },
+   {
+    "id": "278205",
+    "autor": "IanStarGem",
+    "pagina": "https://freesound.org/people/IanStarGem/sounds/278205/",
+    "titulo": "Switch Flip #1 by IanStarGem",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mr_palanca/Switch_Flip_1_by_IanStarGem_278205.mp3"
+   },
+   {
+    "id": "845787",
+    "autor": "Artninja",
+    "pagina": "https://freesound.org/people/Artninja/sounds/845787/",
+    "titulo": "custom_lever_pulling_sounds_02182026 by Artninja",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mr_palanca/custom_lever_pulling_sounds_02182026_by_Artninja_845787.mp3"
+   }
+  ],
+  "mr_bomba": [],
+  "mr_bomba2": [
+   {
+    "id": "617170",
+    "autor": "SonoRec",
+    "pagina": "https://freesound.org/people/SonoRec/sounds/617170/",
+    "titulo": "Hospital infusion pump. Alarm - Bomba de infusion de hospital. Alarma by SonoRec",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mr_bomba2/Hospital_infusion_pump._Alarm_-_Bomba_de_infusion__617170.mp3"
+   }
+  ],
+  "mr_goteo": [
+   {
+    "id": "540886",
+    "autor": "Garuda1982",
+    "pagina": "https://freesound.org/people/Garuda1982/sounds/540886/",
+    "titulo": "small puddle splash sound effect by Garuda1982",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mr_goteo/small_puddle_splash_sound_effect_by_Garuda1982_540886.mp3"
+   },
+   {
+    "id": "539763",
+    "autor": "Garuda1982",
+    "pagina": "https://freesound.org/people/Garuda1982/sounds/539763/",
+    "titulo": "water plop splash falling sound effect by Garuda1982",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mr_goteo/water_plop_splash_falling_sound_effect_by_Garuda19_539763.mp3"
+   }
+  ],
+  "mr_latido": [
+   {
+    "id": "254366",
+    "autor": "Poyekhali",
+    "pagina": "https://freesound.org/people/Poyekhali/sounds/254366/",
+    "titulo": "Heartbeat Fast by Poyekhali",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mr_latido/Heartbeat_Fast_by_Poyekhali_254366.mp3"
+   },
+   {
+    "id": "347326",
+    "autor": "newagesoup",
+    "pagina": "https://freesound.org/people/newagesoup/sounds/347326/",
+    "titulo": "HEARTBEAT-FAST.wav by newagesoup",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mr_latido/HEARTBEAT-FAST.wav_by_newagesoup_347326.mp3"
+   },
+   {
+    "id": "533909",
+    "autor": "ultraaxvii",
+    "pagina": "https://freesound.org/people/ultraaxvii/sounds/533909/",
+    "titulo": "heartbeat (fast but inconsistent).wav by ultraaxvii",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mr_latido/heartbeat_fast_but_inconsistent_.wav_by_ultraaxvii_533909.mp3"
+   },
+   {
+    "id": "688735",
+    "autor": "Cloud-10",
+    "pagina": "https://freesound.org/people/Cloud-10/sounds/688735/",
+    "titulo": "Heartbeat 97 BPM by Cloud-10",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mr_latido/Heartbeat_97_BPM_by_Cloud-10_688735.mp3"
+   },
+   {
+    "id": "366708",
+    "autor": "jone_oost",
+    "pagina": "https://freesound.org/people/jone_oost/sounds/366708/",
+    "titulo": "Heartbeat.wav by jone_oost",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mr_latido/Heartbeat.wav_by_jone_oost_366708.mp3"
+   },
+   {
+    "id": "551437",
+    "autor": "ZHR%C3%98",
+    "pagina": "https://freesound.org/people/ZHR%C3%98/sounds/551437/",
+    "titulo": "heartbeat.mp3 by ZHRØ",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mr_latido/heartbeat.mp3_by_ZHR__551437.mp3"
+   }
+  ],
+  "mr_pasos": [
+   {
+    "id": "831814",
+    "autor": "Crimsonblaze",
+    "pagina": "https://freesound.org/people/Crimsonblaze/sounds/831814/",
+    "titulo": "Running on concrete with jump and landing by Crimsonblaze",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mr_pasos/Running_on_concrete_with_jump_and_landing_by_Crims_831814.mp3"
+   }
+  ],
+  "mr_caja": [
+   {
+    "id": "459446",
+    "autor": "Coral_Island_Studios",
+    "pagina": "https://freesound.org/people/Coral_Island_Studios/sounds/459446/",
+    "titulo": "15 Cardboard Box Handling.mp3 by Coral_Island_Studios",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mr_caja/15_Cardboard_Box_Handling.mp3_by_Coral_Island_Stud_459446.mp3"
+   },
+   {
+    "id": "215475",
+    "autor": "TheWAVLab",
+    "pagina": "https://freesound.org/people/TheWAVLab/sounds/215475/",
+    "titulo": "CardboardBoxes_01.wav by TheWAVLab",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mr_caja/CardboardBoxes_01.wav_by_TheWAVLab_215475.mp3"
+   },
+   {
+    "id": "822308",
+    "autor": "dhi67540",
+    "pagina": "https://freesound.org/people/dhi67540/sounds/822308/",
+    "titulo": "GAMEBoard Handling Jigsaw Puzzle Pieces in a box by dhi67540",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mr_caja/GAMEBoard_Handling_Jigsaw_Puzzle_Pieces_in_a_box_b_822308.mp3"
+   },
+   {
+    "id": "578712",
+    "autor": "Breezy2000uk",
+    "pagina": "https://freesound.org/people/Breezy2000uk/sounds/578712/",
+    "titulo": "Moving and Handling Cardboard.wav by Breezy2000uk",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mr_caja/Moving_and_Handling_Cardboard.wav_by_Breezy2000uk_578712.mp3"
+   },
+   {
+    "id": "735994",
+    "autor": "MaslovyTygr",
+    "pagina": "https://freesound.org/people/MaslovyTygr/sounds/735994/",
+    "titulo": "Small cardboard box by MaslovyTygr",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mr_caja/Small_cardboard_box_by_MaslovyTygr_735994.mp3"
+   },
+   {
+    "id": "67791",
+    "autor": "SunnySideSound",
+    "pagina": "https://freesound.org/people/SunnySideSound/sounds/67791/",
+    "titulo": "Cardboard Box.aif by SunnySideSound",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mr_caja/Cardboard_Box.aif_by_SunnySideSound_67791.mp3"
+   }
+  ],
+  "mr_reloj_tl": [],
+  "mr_mordida": []
+ },
+ "sketchfab": {
+  "mr_cientifico": [],
+  "mr_doctor": [],
+  "mr_bomba_inf": [],
+  "mr_jaula": []
+ },
+ "mixkit": {
+  "mr_mk_mono": [
+   {
+    "titulo": "Cartoon monkey mocking and giggling",
+    "url": "https://assets.mixkit.co/active_storage/sfx/108/108-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_mono/Cartoon_monkey_mocking_and_giggling_108-preview.mp3"
+   },
+   {
+    "titulo": "Cartoon monkey mocking laugh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/107/107-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_mono/Cartoon_monkey_mocking_laugh_107-preview.mp3"
+   },
+   {
+    "titulo": "Monkey excited screech",
+    "url": "https://assets.mixkit.co/active_storage/sfx/105/105-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_mono/Monkey_excited_screech_105-preview.mp3"
+   },
+   {
+    "titulo": "Cartoon monkey applause",
+    "url": "https://assets.mixkit.co/active_storage/sfx/103/103-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_mono/Cartoon_monkey_applause_103-preview.mp3"
+   },
+   {
+    "titulo": "Little monkey screech",
+    "url": "https://assets.mixkit.co/active_storage/sfx/104/104-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_mono/Little_monkey_screech_104-preview.mp3"
+   },
+   {
+    "titulo": "Cartoon baby monkey laugh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/102/102-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_mono/Cartoon_baby_monkey_laugh_102-preview.mp3"
+   },
+   {
+    "titulo": "Scared monkey thumping chest",
+    "url": "https://assets.mixkit.co/active_storage/sfx/98/98-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_mono/Scared_monkey_thumping_chest_98-preview.mp3"
+   },
+   {
+    "titulo": "Cartoon creature pain scream",
+    "url": "https://assets.mixkit.co/active_storage/sfx/101/101-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_mono/Cartoon_creature_pain_scream_101-preview.mp3"
+   },
+   {
+    "titulo": "Excited monkey grunt",
+    "url": "https://assets.mixkit.co/active_storage/sfx/99/99-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_mono/Excited_monkey_grunt_99-preview.mp3"
+   },
+   {
+    "titulo": "Cartoon monkey laugh",
+    "url": "https://assets.mixkit.co/active_storage/sfx/100/100-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_mono/Cartoon_monkey_laugh_100-preview.mp3"
+   },
+   {
+    "titulo": "Excited monkey thumping chest call",
+    "url": "https://assets.mixkit.co/active_storage/sfx/106/106-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_mono/Excited_monkey_thumping_chest_call_106-preview.mp3"
+   },
+   {
+    "titulo": "Excited Monkey thumping chest",
+    "url": "https://assets.mixkit.co/active_storage/sfx/97/97-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_mono/Excited_Monkey_thumping_chest_97-preview.mp3"
+   }
+  ],
+  "mr_mk_lab": [
+   {
+    "titulo": "Fast tape rewind cinematic transition",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1092/1092-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_lab/Fast_tape_rewind_cinematic_transition_1092-preview.mp3"
+   },
+   {
+    "titulo": "Coins handling",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1939/1939-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_lab/Coins_handling_1939-preview.mp3"
+   },
+   {
+    "titulo": "Reel to reel rewind",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1095/1095-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_lab/Reel_to_reel_rewind_1095-preview.mp3"
+   },
+   {
+    "titulo": "Magical coin win",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1936/1936-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_lab/Magical_coin_win_1936-preview.mp3"
+   },
+   {
+    "titulo": "Tech weird glitch",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2685/2685-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_lab/Tech_weird_glitch_2685-preview.mp3"
+   },
+   {
+    "titulo": "Slot machine win alert",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1931/1931-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_lab/Slot_machine_win_alert_1931-preview.mp3"
+   },
+   {
+    "titulo": "Melodic bonus collect",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1938/1938-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_lab/Melodic_bonus_collect_1938-preview.mp3"
+   },
+   {
+    "titulo": "Payout award",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1934/1934-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_lab/Payout_award_1934-preview.mp3"
+   },
+   {
+    "titulo": "Slot machine wheel",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1932/1932-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_lab/Slot_machine_wheel_1932-preview.mp3"
+   },
+   {
+    "titulo": "Futuristic machine starting",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2689/2689-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_lab/Futuristic_machine_starting_2689-preview.mp3"
+   },
+   {
+    "titulo": "Console glitch",
+    "url": "https://assets.mixkit.co/active_storage/sfx/2688/2688-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_lab/Console_glitch_2688-preview.mp3"
+   },
+   {
+    "titulo": "Arcade slot machine wheel",
+    "url": "https://assets.mixkit.co/active_storage/sfx/1933/1933-preview.mp3",
+    "licencia": "Mixkit Sound Effects Free License",
+    "archivo": "sonidos/mr_mk_lab/Arcade_slot_machine_wheel_1933-preview.mp3"
+   }
+  ]
+ },
+ "commons": {
+  "mr_c_chimp": [
+   {
+    "titulo": "File:Chimpanzee-Alarm-Call-Production-Meets-Key-Criteria-for-Intentionality-pone.0076674.s004.oga",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Chimpanzee-Alarm-Call-Production-Meets-Key-Criteria-for-Intentionality-pone.0076674.s004.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.01,
+    "mime": "application/ogg",
+    "licencia": "CC BY 2.5",
+    "autor": "Schel A, Townsend S, Machanda Z, Zuberbuhler K, Slocombe K",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Chimpanzee-Alarm-Call-Production-Meets-Key-Criteria-for-Intentionality-pone.0076674.s004.oga",
+    "archivo": "sonidos/mr_c_chimp/Chimpanzee-Alarm-Call-Production-Meets-Key-Criteria-for-Intentionality"
+   },
+   {
+    "titulo": "File:Chimpanzee-Alarm-Call-Production-Meets-Key-Criteria-for-Intentionality-pone.0076674.s005.oga",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Chimpanzee-Alarm-Call-Production-Meets-Key-Criteria-for-Intentionality-pone.0076674.s005.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.02,
+    "mime": "application/ogg",
+    "licencia": "CC BY 2.5",
+    "autor": "Schel A, Townsend S, Machanda Z, Zuberbuhler K, Slocombe K",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Chimpanzee-Alarm-Call-Production-Meets-Key-Criteria-for-Intentionality-pone.0076674.s005.oga",
+    "archivo": "sonidos/mr_c_chimp/Chimpanzee-Alarm-Call-Production-Meets-Key-Criteria-for-Intentionality"
+   },
+   {
+    "titulo": "File:Chimpanzee-Alarm-Call-Production-Meets-Key-Criteria-for-Intentionality-pone.0076674.s006.oga",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Chimpanzee-Alarm-Call-Production-Meets-Key-Criteria-for-Intentionality-pone.0076674.s006.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.01,
+    "mime": "application/ogg",
+    "licencia": "CC BY 2.5",
+    "autor": "Schel A, Townsend S, Machanda Z, Zuberbuhler K, Slocombe K",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Chimpanzee-Alarm-Call-Production-Meets-Key-Criteria-for-Intentionality-pone.0076674.s006.oga",
+    "archivo": "sonidos/mr_c_chimp/Chimpanzee-Alarm-Call-Production-Meets-Key-Criteria-for-Intentionality"
+   },
+   {
+    "titulo": "File:Chimpanzee-drumming-a-spontaneous-performance-with-characteristics-of-human-musical-drumming-srep11320-s2.oga",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Chimpanzee-drumming-a-spontaneous-performance-with-characteristics-of-human-musical-drumming-srep11320-s2.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 2.91,
+    "mime": "application/ogg",
+    "licencia": "CC BY 4.0",
+    "autor": "Dufour V, Poulin N, Charlotte Curé, Sterck E",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Chimpanzee-drumming-a-spontaneous-performance-with-characteristics-of-human-musical-drumming-srep11320-s2.oga",
+    "archivo": "sonidos/mr_c_chimp/Chimpanzee-drumming-a-spontaneous-performance-with-characteristics-of-"
+   },
+   {
+    "titulo": "File:Dag-Kpara(Chimpanzees).ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Dag-Kpara%28Chimpanzees%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.01,
+    "mime": "application/ogg",
+    "licencia": "CC0",
+    "autor": "Musahfm",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Dag-Kpara(Chimpanzees).ogg",
+    "archivo": "sonidos/mr_c_chimp/Dag-Kpara_Chimpanzees_.ogg"
+   },
+   {
+    "titulo": "File:De-Bonobo.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/De-Bonobo.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.01,
+    "mime": "application/ogg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Jeuwre",
+    "pagina": "https://commons.wikimedia.org/wiki/File:De-Bonobo.ogg",
+    "archivo": "sonidos/mr_c_chimp/De-Bonobo.ogg"
+   },
+   {
+    "titulo": "File:De-Schimpanse.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/De-Schimpanse.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.02,
+    "mime": "application/ogg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Jeuwre",
+    "pagina": "https://commons.wikimedia.org/wiki/File:De-Schimpanse.ogg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:En-us-chimp.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/En-us-chimp.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.01,
+    "mime": "application/ogg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Sylvanmoon",
+    "pagina": "https://commons.wikimedia.org/wiki/File:En-us-chimp.ogg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:En-us-chimpanzee.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/En-us-chimpanzee.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.02,
+    "mime": "application/ogg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Sylvanmoon",
+    "pagina": "https://commons.wikimedia.org/wiki/File:En-us-chimpanzee.ogg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Enduring-voice-recognition-in-bonobos-srep22046-s3.oga",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Enduring-voice-recognition-in-bonobos-srep22046-s3.oga?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.04,
+    "mime": "application/ogg",
+    "licencia": "CC BY 4.0",
+    "autor": "Keenan S, Mathevon N, Stevens J, Guéry J, Zuberbühler K, Levréro F",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Enduring-voice-recognition-in-bonobos-srep22046-s3.oga",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:LL-Q1860 (eng)-Wodencafe-chimpanzee.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/LL-Q1860_%28eng%29-Wodencafe-chimpanzee.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.1,
+    "mime": "audio/wav",
+    "licencia": "CC0",
+    "autor": "Speaker: Wodencafe\nRecorder: Wodencafe",
+    "pagina": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Wodencafe-chimpanzee.wav",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:LL-Q1860 (eng)-Wodencafe-chimpanzees.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/LL-Q1860_%28eng%29-Wodencafe-chimpanzees.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.13,
+    "mime": "audio/wav",
+    "licencia": "CC0",
+    "autor": "Speaker: Wodencafe\nRecorder: Wodencafe",
+    "pagina": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Wodencafe-chimpanzees.wav",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Nl-chimp.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Nl-chimp.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.01,
+    "mime": "application/ogg",
+    "licencia": "CC BY-SA 3.0",
+    "autor": "marcel coenders",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Nl-chimp.ogg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Nl-chimps.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Nl-chimps.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.01,
+    "mime": "application/ogg",
+    "licencia": "CC BY-SA 3.0",
+    "autor": "marcel coenders",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Nl-chimps.ogg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   },
+   {
+    "titulo": "File:Pant-hoot call made by a male chimpanzee.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Pant-hoot_call_made_by_a_male_chimpanzee.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.13,
+    "mime": "application/ogg",
+    "licencia": "CC BY 4.0",
+    "autor": "Pawel Fedurek et al.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Pant-hoot_call_made_by_a_male_chimpanzee.ogg",
+    "archivo": "sonidos/mr_c_chimp/Pant-hoot_call_made_by_a_male_chimpanzee.ogg"
+   }
+  ],
+  "mr_c_macaco": []
+ }
+}

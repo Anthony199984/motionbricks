@@ -1,0 +1,360 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/tp_taza.glb",
+   "mb": 0.27
+  },
+  {
+   "destino": "objaverse/tp_taco.glb",
+   "mb": 18.01
+  },
+  {
+   "destino": "objaverse/tp_taco_camion.glb",
+   "mb": 23.78
+  },
+  {
+   "destino": "objaverse/tp_bolsa.glb",
+   "mb": 0.25
+  },
+  {
+   "destino": "objaverse/tp_bolsa2.glb",
+   "mb": 0.86
+  },
+  {
+   "destino": "objaverse/tp_celular.glb",
+   "mb": 0.08
+  },
+  {
+   "destino": "objaverse/tp_celular2.glb",
+   "mb": 1.32
+  },
+  {
+   "destino": "objaverse/tp_vela_derretida.glb",
+   "mb": 2.47
+  },
+  {
+   "destino": "objaverse/tp_velas.glb",
+   "mb": 1.9
+  },
+  {
+   "destino": "objaverse/tp_sushi.glb",
+   "mb": 1.38
+  },
+  {
+   "destino": "objaverse/tp_fluorescentes.glb",
+   "mb": 1.18
+  },
+  {
+   "destino": "objaverse/tp_tubo.glb",
+   "mb": 0.11
+  },
+  {
+   "destino": "objaverse/tp_recogedor.glb",
+   "mb": 0.5
+  },
+  {
+   "destino": "objaverse/tp_puesto_toldo.glb",
+   "mb": 2.57
+  },
+  {
+   "destino": "objaverse/tp_libros.glb",
+   "mb": 3.11
+  },
+  {
+   "destino": "objaverse/tp_jp_casa.glb",
+   "mb": 7.85
+  },
+  {
+   "destino": "objaverse/tp_jp_yatai.glb",
+   "mb": 31.01
+  },
+  {
+   "destino": "objaverse/tp_jp_edificios.glb",
+   "mb": 13.18
+  },
+  {
+   "destino": "objaverse/tp_jp_casas.glb",
+   "mb": 2.95
+  },
+  {
+   "destino": "objaverse/tp_jp_calle_sf.glb",
+   "mb": 9.24
+  },
+  {
+   "destino": "objaverse/tp_jp_neon.glb",
+   "mb": 1.62
+  },
+  {
+   "destino": "objaverse/tp_jp_farol.glb",
+   "mb": 1.12
+  },
+  {
+   "destino": "objaverse/tp_jp_ramen.glb",
+   "mb": 5.91
+  },
+  {
+   "destino": "objaverse/tp_jp_ciudad.glb",
+   "mb": 27.2
+  },
+  {
+   "destino": "objaverse/tp_kebab_maquina.glb",
+   "mb": 29.8
+  },
+  {
+   "destino": "objaverse/tp_kebab_wrap.glb",
+   "mb": 0.67
+  },
+  {
+   "destino": "objaverse/tp_db_casa.glb",
+   "mb": 48.52
+  },
+  {
+   "destino": "objaverse/tp_db_omani.glb",
+   "mb": 1.04
+  },
+  {
+   "destino": "objaverse/tp_mx_villa.glb",
+   "mb": 3.64
+  },
+  {
+   "destino": "objaverse/tp_mx_bandera.glb",
+   "mb": 2.22
+  },
+  {
+   "destino": "objaverse/tp_mujer_casual.glb",
+   "mb": 11.53
+  },
+  {
+   "destino": "objaverse/tp_mujer_leela.glb",
+   "mb": 5.14
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "tp_taza": {
+   "uid": "19c8fe5702b544d0a1409d3dac1cf90e",
+   "nombre": "tp_taza",
+   "titulo": "Plain Mug",
+   "autor": "edwardlewis450",
+   "licencia": "CC Attribution"
+  },
+  "tp_taco": {
+   "uid": "5b8095131eca4914b6dce4e96b290a3f",
+   "nombre": "tp_taco",
+   "titulo": "Taco",
+   "autor": "jtredden",
+   "licencia": "CC Attribution"
+  },
+  "tp_taco_camion": {
+   "uid": "1859eafe26e54a11b279c02d175769f0",
+   "nombre": "tp_taco_camion",
+   "titulo": "Tacos La Salcitas",
+   "autor": "skovarovic",
+   "licencia": "CC Attribution"
+  },
+  "tp_bolsa": {
+   "uid": "ffad00a48edb47f7ae6481f8996f9799",
+   "nombre": "tp_bolsa",
+   "titulo": "Paper Lunch Sack",
+   "autor": "g2bb",
+   "licencia": "CC Attribution"
+  },
+  "tp_bolsa2": {
+   "uid": "9ccf2fce68ea45e0b0861038d5aa035d",
+   "nombre": "tp_bolsa2",
+   "titulo": "Paper bag",
+   "autor": "JaradFraser",
+   "licencia": "CC Attribution"
+  },
+  "tp_celular": {
+   "uid": "4ff99cf17b164e7b9790638c5d2ef4ce",
+   "nombre": "tp_celular",
+   "titulo": "Low Poly Mobile Phone",
+   "autor": "k_nelms",
+   "licencia": "CC Attribution"
+  },
+  "tp_celular2": {
+   "uid": "4328dea00e47497dbeac73c556121bc9",
+   "nombre": "tp_celular2",
+   "titulo": "Apple iPhone 13 Pro Max",
+   "autor": "DatSketch",
+   "licencia": "CC Attribution"
+  },
+  "tp_vela_derretida": {
+   "uid": "d9d5ed5de83b4d899ab93f55bdc3d0bc",
+   "nombre": "tp_vela_derretida",
+   "titulo": "Candle light",
+   "autor": "al0sral0",
+   "licencia": "CC Attribution"
+  },
+  "tp_velas": {
+   "uid": "92bb9f59fd9046b1beb9dca6b21489e2",
+   "nombre": "tp_velas",
+   "titulo": "Candles",
+   "autor": "thegraphicsgeek",
+   "licencia": "CC Attribution"
+  },
+  "tp_sushi": {
+   "uid": "4a09a5fdbc1240f5a56abf874a4415a5",
+   "nombre": "tp_sushi",
+   "titulo": "Salmon Nigiri Sushi",
+   "autor": "ditovirnantio",
+   "licencia": "CC Attribution"
+  },
+  "tp_fluorescentes": {
+   "uid": "bca96f873b0743f88d61cd12b0750507",
+   "nombre": "tp_fluorescentes",
+   "titulo": "Fluorecent lights",
+   "autor": "foon.",
+   "licencia": "CC Attribution"
+  },
+  "tp_tubo": {
+   "uid": "62777353277343a49178fadff3a75cf2",
+   "nombre": "tp_tubo",
+   "titulo": "Simple fluorescent tube",
+   "autor": "Christian.Bittner",
+   "licencia": "CC Attribution"
+  },
+  "tp_recogedor": {
+   "uid": "d91eae20c02a4741aeb889246b417ae4",
+   "nombre": "tp_recogedor",
+   "titulo": "Dustpan",
+   "autor": "cirby2180",
+   "licencia": "CC Attribution"
+  },
+  "tp_puesto_toldo": {
+   "uid": "41e6a9883c4b4ac8bc476e167c949ff1",
+   "nombre": "tp_puesto_toldo",
+   "titulo": "Street stall",
+   "autor": "victorhugohc",
+   "licencia": "CC Attribution"
+  },
+  "tp_libros": {
+   "uid": "90944ea5739248f6b707d6c2b0955c3b",
+   "nombre": "tp_libros",
+   "titulo": "Book Stack",
+   "autor": "paubr",
+   "licencia": "CC Attribution"
+  },
+  "tp_jp_casa": {
+   "uid": "5ae0121e33b54b7789c6b9113da444bf",
+   "nombre": "tp_jp_casa",
+   "titulo": "Japanese house 2.0",
+   "autor": "annzep",
+   "licencia": "CC Attribution"
+  },
+  "tp_jp_yatai": {
+   "uid": "8e01bf62ea864d59890c4b091acf2379",
+   "nombre": "tp_jp_yatai",
+   "titulo": "Lesson 8",
+   "autor": "n.tendetnik",
+   "licencia": "CC Attribution"
+  },
+  "tp_jp_edificios": {
+   "uid": "c0784d38160a41019cafe83d9dcb6fc3",
+   "nombre": "tp_jp_edificios",
+   "titulo": "Japan Street Automaping Texturing Homework",
+   "autor": "nimzuk",
+   "licencia": "CC Attribution"
+  },
+  "tp_jp_casas": {
+   "uid": "df61d501380d46aa8037b5d9ac92924a",
+   "nombre": "tp_jp_casas",
+   "titulo": "Diplom_Draft_Japanese houses",
+   "autor": "rus.zam56",
+   "licencia": "CC Attribution"
+  },
+  "tp_jp_calle_sf": {
+   "uid": "fadae77d995f4a54a64ccc460bfffdec",
+   "nombre": "tp_jp_calle_sf",
+   "titulo": "Street Fighter II 02",
+   "autor": "Leo.Leung",
+   "licencia": "CC Attribution"
+  },
+  "tp_jp_neon": {
+   "uid": "c91524e74c8c463ca3ddf71bc73911db",
+   "nombre": "tp_jp_neon",
+   "titulo": "Japanese Neon Street Sign",
+   "autor": "mcmanusmedia",
+   "licencia": "CC Attribution"
+  },
+  "tp_jp_farol": {
+   "uid": "de9e13e35b504fea84b51857adb2e8b0",
+   "nombre": "tp_jp_farol",
+   "titulo": "Japanese street lamp",
+   "autor": "Baturinets",
+   "licencia": "CC Attribution"
+  },
+  "tp_jp_ramen": {
+   "uid": "4d189bf2710f422ea287718f968cea68",
+   "nombre": "tp_jp_ramen",
+   "titulo": "Ramen Shop",
+   "autor": "ddar1342",
+   "licencia": "CC Attribution"
+  },
+  "tp_jp_ciudad": {
+   "uid": "b25d23ff186949dca3df669c14447db5",
+   "nombre": "tp_jp_ciudad",
+   "titulo": "City Scene Tokyo",
+   "autor": "sooi",
+   "licencia": "CC Attribution"
+  },
+  "tp_kebab_maquina": {
+   "uid": "3336122cc364474bbda26c8143ce15b5",
+   "nombre": "tp_kebab_maquina",
+   "titulo": "Machine à Kebab",
+   "autor": "niko300",
+   "licencia": "CC Attribution"
+  },
+  "tp_kebab_wrap": {
+   "uid": "9e56cc9656ae4016b96cb4bb56fe3a43",
+   "nombre": "tp_kebab_wrap",
+   "titulo": "Kebab - midpoly",
+   "autor": "Pierre.Bourdon",
+   "licencia": "CC Attribution"
+  },
+  "tp_db_casa": {
+   "uid": "d3fee7b354cb49d38b9af4c4eb0238f4",
+   "nombre": "tp_db_casa",
+   "titulo": "Arabic House 2",
+   "autor": "Yessreen.Design-Print",
+   "licencia": "CC Attribution"
+  },
+  "tp_db_omani": {
+   "uid": "4e4095ec16114c74b6d477f8d5c8b429",
+   "nombre": "tp_db_omani",
+   "titulo": "House 1 Omani",
+   "autor": "Yessreen.Design-Print",
+   "licencia": "CC Attribution"
+  },
+  "tp_mx_villa": {
+   "uid": "87717451a73644e0b8e66615338ea0b7",
+   "nombre": "tp_mx_villa",
+   "titulo": "Mehico Villa (not scan)",
+   "autor": "shakiller",
+   "licencia": "CC Attribution"
+  },
+  "tp_mx_bandera": {
+   "uid": "9f6eda070e4747cb8f1c1b9c11a05f0d",
+   "nombre": "tp_mx_bandera",
+   "titulo": "Mexican Flag",
+   "autor": "SusiePhilpott",
+   "licencia": "CC Attribution"
+  },
+  "tp_mujer_casual": {
+   "uid": "ae23036ef7e44e8abba0d929c2ffedb2",
+   "nombre": "tp_mujer_casual",
+   "titulo": "Gameready Character (Free download)",
+   "autor": "jakobscheidt",
+   "licencia": "CC Attribution"
+  },
+  "tp_mujer_leela": {
+   "uid": "3ba543ff66964b608b531730ce22ebd1",
+   "nombre": "tp_mujer_leela",
+   "titulo": "Leela Idle",
+   "autor": "Lada.Repina",
+   "licencia": "CC Attribution"
+  }
+ }
+}

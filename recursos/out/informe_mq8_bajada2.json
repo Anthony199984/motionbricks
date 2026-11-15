@@ -1,0 +1,52 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/mq8_bebe_rig.glb",
+   "mb": 28.27
+  },
+  {
+   "destino": "objaverse/mq8_bebe_baile.glb",
+   "mb": 1.82
+  },
+  {
+   "destino": "objaverse/mq8_tiburon_mehrus.glb",
+   "mb": 1.94
+  },
+  {
+   "destino": "objaverse/mq8_tiburon_mehrus2.glb",
+   "mb": 2.78
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "mq8_bebe_rig": {
+   "uid": "452ee1d9783e49f2a480fca806014b91",
+   "nombre": "mq8_bebe_rig",
+   "titulo": "Baby",
+   "autor": "darksoundlab",
+   "licencia": "CC Attribution"
+  },
+  "mq8_bebe_baile": {
+   "uid": "f78e6c976e8847f0a574c69d3d0ed256",
+   "nombre": "mq8_bebe_baile",
+   "titulo": "Dancing Baby Model (v2)",
+   "autor": "Punkinob",
+   "licencia": "CC Attribution"
+  },
+  "mq8_tiburon_mehrus": {
+   "uid": "e4f107a6d87b424fb165aba9a53d0665",
+   "nombre": "mq8_tiburon_mehrus",
+   "titulo": "Great White Shark",
+   "autor": "Mehrus",
+   "licencia": "CC Attribution"
+  },
+  "mq8_tiburon_mehrus2": {
+   "uid": "69d7911ee12f44889c6ae9c9c2a99ba0",
+   "nombre": "mq8_tiburon_mehrus2",
+   "titulo": "Great White Shark",
+   "autor": "Mehrus",
+   "licencia": "CC Attribution"
+  }
+ }
+}

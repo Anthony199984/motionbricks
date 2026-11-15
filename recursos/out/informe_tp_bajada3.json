@@ -1,0 +1,41 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/tp_palmera.glb",
+   "mb": 1.98
+  },
+  {
+   "destino": "objaverse/tp_palmera_arabe.glb",
+   "mb": 3.36
+  },
+  {
+   "destino": "objaverse/tp_palmera_alta.glb",
+   "mb": 71.88
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "tp_palmera": {
+   "uid": "e8c0ea53410947b0b7f20d33702f4098",
+   "nombre": "tp_palmera",
+   "titulo": "Plant Series – Palm Tree",
+   "autor": "spazio_silvestre",
+   "licencia": "CC Attribution"
+  },
+  "tp_palmera_arabe": {
+   "uid": "d76f0654b92d4cf994b528555525219b",
+   "nombre": "tp_palmera_arabe",
+   "titulo": "Arabic Palmtree",
+   "autor": "rodrigogelmi",
+   "licencia": "CC Attribution"
+  },
+  "tp_palmera_alta": {
+   "uid": "dade6a6307ff411492b205a388a77719",
+   "nombre": "tp_palmera_alta",
+   "titulo": "PALM",
+   "autor": "sinnervoncrawsz",
+   "licencia": "CC Attribution"
+  }
+ }
+}
