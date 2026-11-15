@@ -1,122 +1,44 @@
 [
  {
-  "name": "cs_inflar_pie",
+  "name": "cs_reir_doblado_b",
   "frames": 150,
-  "seed": 93000,
-  "prompt": "A person stands still and pumps a foot air pump by pressing the pedal down repeatedly with the right foot, looking down."
+  "seed": 94000,
+  "prompt": "A standing man laughs so hard that he bends forward at the waist with both hands on his knees, then straightens up laughing."
  },
  {
-  "name": "cs_susurrar_oido",
+  "name": "cs_reir_doblado_c",
+  "frames": 150,
+  "seed": 94013,
+  "prompt": "A person standing bursts into laughter and doubles over, torso bent forward, shoulders shaking."
+ },
+ {
+  "name": "cs_esconder_mano_b",
+  "frames": 150,
+  "seed": 94026,
+  "prompt": "A standing person moves the right hand behind the lower back and keeps it hidden there, standing still and looking up."
+ },
+ {
+  "name": "cs_esconder_mano_c",
+  "frames": 150,
+  "seed": 94039,
+  "prompt": "A guilty person quickly puts both hands behind the back and looks away, rocking on the heels."
+ },
+ {
+  "name": "cs_apuntar_dedo_b",
   "frames": 120,
-  "seed": 93017,
-  "prompt": "A standing person leans forward and to the side to whisper into someone's ear, then stands back up with a smug smile."
+  "seed": 94052,
+  "prompt": "A standing man extends the right arm straight forward at shoulder height pointing at someone, and holds the pose."
  },
  {
-  "name": "cs_reir_doblado",
-  "frames": 150,
-  "seed": 93034,
-  "prompt": "A standing person bends over laughing hard, holding the belly, shaking with laughter."
- },
- {
-  "name": "cs_esconder_mano",
-  "frames": 150,
-  "seed": 93051,
-  "prompt": "A standing person quickly hides the right hand behind the back and looks up at the sky innocently, whistling."
- },
- {
-  "name": "cs_abrir_palma",
+  "name": "cs_apuntar_dedo_c",
   "frames": 120,
-  "seed": 93068,
-  "prompt": "A standing person slowly brings the right hand forward in front of the chest and opens the palm facing up."
+  "seed": 94065,
+  "prompt": "An angry father points straight ahead with his right arm fully extended and shakes it slightly."
  },
  {
-  "name": "cs_sacar_y_pinchar",
+  "name": "cs_reventar_arriba_b",
   "frames": 90,
-  "seed": 93085,
-  "prompt": "A standing person reaches up and to the side with the right hand, plucks something small, and quickly jabs it forward."
- },
- {
-  "name": "cs_dejar_en_mesa",
-  "frames": 120,
-  "seed": 93102,
-  "prompt": "A standing person takes something out of a box on a table with the right hand and puts it down on the table."
- },
- {
-  "name": "cs_descruzar_mano",
-  "frames": 120,
-  "seed": 93119,
-  "prompt": "A person with crossed arms uncrosses one arm and holds the right hand up showing the open palm to someone in front."
- },
- {
-  "name": "cs_contar_mano",
-  "frames": 150,
-  "seed": 93136,
-  "prompt": "A standing person holds the right hand up in front of the face and counts down slowly, nodding with each count."
- },
- {
-  "name": "cs_senalar_salida",
-  "frames": 120,
-  "seed": 93153,
-  "prompt": "A standing person points firmly with the right arm to the side as if telling someone to leave."
- },
- {
-  "name": "cs_apuntar_dedo",
-  "frames": 120,
-  "seed": 93170,
-  "prompt": "A stern standing person points the index finger at someone in front, arm extended, holding it."
- },
- {
-  "name": "cs_reventar_arriba",
-  "frames": 90,
-  "seed": 93187,
-  "prompt": "A standing person raises the right arm quickly above the head and pokes upward, then flinches back slightly."
- },
- {
-  "name": "cs_pulgar_arriba",
-  "frames": 90,
-  "seed": 93204,
-  "prompt": "A standing person gives a thumbs up with the right hand and nods approvingly."
- },
- {
-  "name": "cs_manos_temblando",
-  "frames": 150,
-  "seed": 93221,
-  "prompt": "A nervous standing person holds both hands in front of the chest, hands shaking, looking down at them."
- },
- {
-  "name": "cs_enderezarse",
-  "frames": 120,
-  "seed": 93238,
-  "prompt": "A nervous slouched person straightens up, squares the shoulders and stands confidently."
- },
- {
-  "name": "cs_tocar_mesa",
-  "frames": 120,
-  "seed": 93255,
-  "prompt": "A standing person reaches down with the right hand to touch something on a table in front, then pulls back."
- },
- {
-  "name": "cs_sostener_dos_manos",
-  "frames": 150,
-  "seed": 93272,
-  "prompt": "A standing person holds an object in front of the chest with both hands, carefully, very still."
- },
- {
-  "name": "cs_levantar_costado",
-  "frames": 120,
-  "seed": 93289,
-  "prompt": "A standing person lifts the left hand up to the side at shoulder height, holding something, and smiles to the front."
- },
- {
-  "name": "cs_levantar_mostrar",
-  "frames": 120,
-  "seed": 93306,
-  "prompt": "A standing person raises the right hand up in front of the face to show something, proudly."
- },
- {
-  "name": "cs_tapar_boca",
-  "frames": 120,
-  "seed": 93323,
-  "prompt": "A woman standing covers her mouth with both hands in shock."
+  "seed": 94078,
+  "prompt": "A standing person reaches the right arm straight up above the head as high as possible and pokes something overhead."
  }
 ]
