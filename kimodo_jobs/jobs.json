@@ -1,122 +1,122 @@
 [
  {
-  "name": "cu_bailar_1",
-  "frames": 210,
-  "seed": 91000,
-  "prompt": "A person dances happily to music, swaying hips and moving arms to the rhythm, stepping side to side."
+  "name": "cs_inflar_pie",
+  "frames": 150,
+  "seed": 93000,
+  "prompt": "A person stands still and pumps a foot air pump by pressing the pedal down repeatedly with the right foot, looking down."
  },
  {
-  "name": "cu_bailar_2",
-  "frames": 210,
-  "seed": 91037,
-  "prompt": "A woman dances cheerfully at a party, turning around and clapping her hands above her head."
+  "name": "cs_susurrar_oido",
+  "frames": 120,
+  "seed": 93017,
+  "prompt": "A standing person leans forward and to the side to whisper into someone's ear, then stands back up with a smug smile."
  },
  {
-  "name": "cu_bailar_3",
-  "frames": 210,
-  "seed": 91074,
-  "prompt": "A man dances merengue, small quick steps with bent knees, arms bent and moving with the beat."
+  "name": "cs_reir_doblado",
+  "frames": 150,
+  "seed": 93034,
+  "prompt": "A standing person bends over laughing hard, holding the belly, shaking with laughter."
  },
  {
-  "name": "cu_foto_1",
-  "frames": 210,
-  "seed": 91111,
-  "prompt": "A person holds a phone up with both hands in front of the face and takes photos, stepping slightly to the side to frame the shot."
+  "name": "cs_esconder_mano",
+  "frames": 150,
+  "seed": 93051,
+  "prompt": "A standing person quickly hides the right hand behind the back and looks up at the sky innocently, whistling."
  },
  {
-  "name": "cu_foto_2",
-  "frames": 210,
-  "seed": 91148,
-  "prompt": "A woman records a video with her phone held up, slowly panning left and right."
+  "name": "cs_abrir_palma",
+  "frames": 120,
+  "seed": 93068,
+  "prompt": "A standing person slowly brings the right hand forward in front of the chest and opens the palm facing up."
  },
  {
-  "name": "cu_servir_1",
-  "frames": 210,
-  "seed": 91185,
-  "prompt": "A woman stands at a table and cuts a cake with a knife, then places slices on plates."
+  "name": "cs_sacar_y_pinchar",
+  "frames": 90,
+  "seed": 93085,
+  "prompt": "A standing person reaches up and to the side with the right hand, plucks something small, and quickly jabs it forward."
  },
  {
-  "name": "cu_servir_2",
-  "frames": 210,
-  "seed": 91222,
-  "prompt": "A woman stands at a table pouring soda from a bottle into cups, one after another."
+  "name": "cs_dejar_en_mesa",
+  "frames": 120,
+  "seed": 93102,
+  "prompt": "A standing person takes something out of a box on a table with the right hand and puts it down on the table."
  },
  {
-  "name": "cu_parrilla_1",
-  "frames": 210,
-  "seed": 91259,
-  "prompt": "A man stands at a grill flipping meat with tongs, then wipes his forehead with his arm."
+  "name": "cs_descruzar_mano",
+  "frames": 120,
+  "seed": 93119,
+  "prompt": "A person with crossed arms uncrosses one arm and holds the right hand up showing the open palm to someone in front."
  },
  {
-  "name": "cu_parrilla_2",
-  "frames": 210,
-  "seed": 91296,
-  "prompt": "A man stands at a grill turning food with a spatula and talking to someone next to him."
+  "name": "cs_contar_mano",
+  "frames": 150,
+  "seed": 93136,
+  "prompt": "A standing person holds the right hand up in front of the face and counts down slowly, nodding with each count."
  },
  {
-  "name": "cu_conversar_1",
-  "frames": 210,
-  "seed": 91333,
-  "prompt": "A man stands and talks with friends, gesturing with one hand and laughing."
+  "name": "cs_senalar_salida",
+  "frames": 120,
+  "seed": 93153,
+  "prompt": "A standing person points firmly with the right arm to the side as if telling someone to leave."
  },
  {
-  "name": "cu_conversar_2",
-  "frames": 210,
-  "seed": 91370,
-  "prompt": "A woman stands holding a cup at chest height, listening and nodding, then laughs and takes a sip."
+  "name": "cs_apuntar_dedo",
+  "frames": 120,
+  "seed": 93170,
+  "prompt": "A stern standing person points the index finger at someone in front, arm extended, holding it."
  },
  {
-  "name": "cu_conversar_3",
-  "frames": 210,
-  "seed": 91407,
-  "prompt": "A person stands and tells a funny story, waving both hands, then everyone laughs and he slaps his knee."
+  "name": "cs_reventar_arriba",
+  "frames": 90,
+  "seed": 93187,
+  "prompt": "A standing person raises the right arm quickly above the head and pokes upward, then flinches back slightly."
  },
  {
-  "name": "cu_comer_1",
-  "frames": 210,
-  "seed": 91444,
-  "prompt": "A person stands holding a plate in one hand and eats with a fork using the other hand."
+  "name": "cs_pulgar_arriba",
+  "frames": 90,
+  "seed": 93204,
+  "prompt": "A standing person gives a thumbs up with the right hand and nods approvingly."
  },
  {
-  "name": "cu_beber_1",
-  "frames": 210,
-  "seed": 91481,
-  "prompt": "A man stands relaxed, takes a sip from a cup, lowers it and looks around."
+  "name": "cs_manos_temblando",
+  "frames": 150,
+  "seed": 93221,
+  "prompt": "A nervous standing person holds both hands in front of the chest, hands shaking, looking down at them."
  },
  {
-  "name": "cu_nino_correr_1",
-  "frames": 210,
-  "seed": 91518,
-  "prompt": "A child runs around happily in a circle, arms swinging, then keeps running."
+  "name": "cs_enderezarse",
+  "frames": 120,
+  "seed": 93238,
+  "prompt": "A nervous slouched person straightens up, squares the shoulders and stands confidently."
  },
  {
-  "name": "cu_nino_correr_2",
-  "frames": 210,
-  "seed": 91555,
-  "prompt": "A child runs forward holding one arm up high as if holding a balloon string."
+  "name": "cs_tocar_mesa",
+  "frames": 120,
+  "seed": 93255,
+  "prompt": "A standing person reaches down with the right hand to touch something on a table in front, then pulls back."
  },
  {
-  "name": "cu_nino_saltar_1",
-  "frames": 210,
-  "seed": 91592,
-  "prompt": "A child jumps up and down excitedly, clapping hands."
+  "name": "cs_sostener_dos_manos",
+  "frames": 150,
+  "seed": 93272,
+  "prompt": "A standing person holds an object in front of the chest with both hands, carefully, very still."
  },
  {
-  "name": "cu_aplaudir_1",
-  "frames": 210,
-  "seed": 91629,
-  "prompt": "A person stands and claps hands enthusiastically, then cheers with arms raised."
+  "name": "cs_levantar_costado",
+  "frames": 120,
+  "seed": 93289,
+  "prompt": "A standing person lifts the left hand up to the side at shoulder height, holding something, and smiles to the front."
  },
  {
-  "name": "cu_reaccion_sorpresa",
-  "frames": 210,
-  "seed": 91666,
-  "prompt": "A person standing gasps in surprise and covers the mouth with one hand, leaning back slightly."
+  "name": "cs_levantar_mostrar",
+  "frames": 120,
+  "seed": 93306,
+  "prompt": "A standing person raises the right hand up in front of the face to show something, proudly."
  },
  {
-  "name": "cu_reir_1",
-  "frames": 210,
-  "seed": 91703,
-  "prompt": "A person standing laughs hard, bending forward and holding the stomach."
+  "name": "cs_tapar_boca",
+  "frames": 120,
+  "seed": 93323,
+  "prompt": "A woman standing covers her mouth with both hands in shock."
  }
 ]
