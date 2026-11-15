@@ -1,11 +1,11 @@
 {
- "total_seconds": 295.4,
+ "total_seconds": 159.6,
  "jobs": [
   {
-   "name": "cu_comer_1",
-   "response": "OK\t210\t30",
-   "seconds": 295.3,
-   "frames": 210
+   "name": "cs_pulgar_arriba",
+   "response": "OK\t90\t30",
+   "seconds": 159.5,
+   "frames": 90
   }
  ]
 }
