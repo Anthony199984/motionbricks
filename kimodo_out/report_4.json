@@ -2,7 +2,7 @@
  "total_seconds": 194.3,
  "jobs": [
   {
-   "name": "cs_abrir_palma",
+   "name": "cs_apuntar_dedo_b",
    "response": "OK\t120\t30",
    "seconds": 194.2,
    "frames": 120
