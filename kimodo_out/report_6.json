@@ -1,11 +1,11 @@
 {
- "total_seconds": 351.8,
+ "total_seconds": 194.6,
  "jobs": [
   {
-   "name": "cu_servir_2",
-   "response": "OK\t210\t30",
-   "seconds": 351.7,
-   "frames": 210
+   "name": "cs_dejar_en_mesa",
+   "response": "OK\t120\t30",
+   "seconds": 194.5,
+   "frames": 120
   }
  ]
 }
