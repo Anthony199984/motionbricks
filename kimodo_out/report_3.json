@@ -1,0 +1,11 @@
+{
+ "total_seconds": 276.2,
+ "jobs": [
+  {
+   "name": "cu_foto_1",
+   "response": "OK\t210\t30",
+   "seconds": 276.1,
+   "frames": 210
+  }
+ ]
+}
