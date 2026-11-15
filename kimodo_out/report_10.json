@@ -1,11 +1,11 @@
 {
- "total_seconds": 221.0,
+ "total_seconds": 179.1,
  "jobs": [
   {
-   "name": "cu_conversar_2",
-   "response": "OK\t210\t30",
-   "seconds": 220.9,
-   "frames": 210
+   "name": "cs_apuntar_dedo",
+   "response": "OK\t120\t30",
+   "seconds": 179.0,
+   "frames": 120
   }
  ]
 }
