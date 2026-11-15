@@ -1,0 +1,11 @@
+{
+ "total_seconds": 314.3,
+ "jobs": [
+  {
+   "name": "cu_parrilla_2",
+   "response": "OK\t210\t30",
+   "seconds": 314.2,
+   "frames": 210
+  }
+ ]
+}
