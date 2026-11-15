@@ -1,11 +1,11 @@
 {
- "total_seconds": 325.0,
+ "total_seconds": 213.3,
  "jobs": [
   {
-   "name": "cu_nino_correr_2",
-   "response": "OK\t210\t30",
-   "seconds": 324.8,
-   "frames": 210
+   "name": "cs_tocar_mesa",
+   "response": "OK\t120\t30",
+   "seconds": 213.1,
+   "frames": 120
   }
  ]
 }
