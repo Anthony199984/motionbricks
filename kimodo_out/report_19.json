@@ -1,11 +1,11 @@
 {
- "total_seconds": 273.5,
+ "total_seconds": 212.0,
  "jobs": [
   {
-   "name": "cu_reir_1",
-   "response": "OK\t210\t30",
-   "seconds": 273.4,
-   "frames": 210
+   "name": "cs_tapar_boca",
+   "response": "OK\t120\t30",
+   "seconds": 211.9,
+   "frames": 120
   }
  ]
 }
