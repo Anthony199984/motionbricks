@@ -1,306 +1,68 @@
 {
-  "catalogo": false,
-  "informe": "informe_cunado_busqueda1.json",
-  "polyhaven": [
-    {
-      "id": "residential_garden",
-      "res": "4k"
-    },
-    {
-      "id": "suburban_garden",
-      "res": "4k"
-    },
-    {
-      "id": "garden_nook",
-      "res": "4k"
-    },
-    {
-      "id": "sunny_rose_garden",
-      "res": "4k"
-    },
-    {
-      "id": "pretoria_gardens",
-      "res": "4k"
-    },
-    {
-      "id": "leafy_grass",
-      "res": "4k"
-    },
-    {
-      "id": "grass_path_2",
-      "res": "2k"
-    },
-    {
-      "id": "grass_ground",
-      "res": "2k"
-    },
-    {
-      "id": "wooden_picnic_table",
-      "res": "2k"
-    },
-    {
-      "id": "painted_wooden_bench",
-      "res": "2k"
-    },
-    {
-      "id": "round_wooden_table_01",
-      "res": "2k"
-    },
-    {
-      "id": "boombox",
-      "res": "2k"
-    },
-    {
-      "id": "shrub_03",
-      "res": "2k"
-    },
-    {
-      "id": "shrub_04",
-      "res": "2k"
-    },
-    {
-      "id": "flower_gazania",
-      "res": "1k"
-    },
-    {
-      "id": "flower_ursinia",
-      "res": "1k"
-    },
-    {
-      "id": "planter_box_02",
-      "res": "1k"
-    },
-    {
-      "id": "tree_small_02",
-      "res": "2k"
-    },
-    {
-      "id": "potted_plant_04",
-      "res": "1k"
-    },
-    {
-      "id": "wooden_bowl_01",
-      "res": "1k"
-    },
-    {
-      "id": "plastic_crate_02",
-      "res": "1k"
-    },
-    {
-      "id": "garden_hose_wall_mounted_01",
-      "res": "1k"
-    }
-  ],
-  "sketchfab_buscar": [
-    {
-      "clave": "cu_pinata",
-      "q": "pinata",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_pinata_burro",
-      "q": "pinata donkey",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_cerca_madera",
-      "q": "wooden fence",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_cerca_madera2",
-      "q": "garden fence",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_parrilla",
-      "q": "bbq grill",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_parrilla2",
-      "q": "barbecue",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_casa_trasera",
-      "q": "house backyard",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_casa_exterior",
-      "q": "suburban house",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_casa_terraza",
-      "q": "house porch",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_banderines",
-      "q": "bunting flags",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_guirnalda",
-      "q": "party garland",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_arco_globos",
-      "q": "balloon arch",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_globos",
-      "q": "balloons",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_refrescos",
-      "q": "soda bottle",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_vasos",
-      "q": "plastic cup",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_regalos",
-      "q": "gift box",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_bizcocho_velas",
-      "q": "birthday cake candles",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_cinta_adhesiva",
-      "q": "tape roll",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_nevera_playa",
-      "q": "cooler box",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_mantel",
-      "q": "tablecloth table",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_platos_comida",
-      "q": "party food",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_sombrero_fiesta",
-      "q": "party hat",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_mesa_plegable",
-      "q": "folding table",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_silla_plegable",
-      "q": "folding chair",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_camara_foto",
-      "q": "camera",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_arbol_grande",
-      "q": "oak tree",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_arbol_mango",
-      "q": "mango tree",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_arbol_tropical",
-      "q": "tropical tree",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_seto",
-      "q": "hedge",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    },
-    {
-      "clave": "cu_toldo",
-      "q": "canopy tent",
-      "solo_objaverse": true,
-      "paginas": 3,
-      "max": 24
-    }
-  ]
+ "catalogo": false,
+ "informe": "informe_cunado_bajada2.json",
+ "polyhaven": [
+  {
+   "id": "grass_bermuda_01",
+   "res": "2k"
+  },
+  {
+   "id": "grass_medium_01",
+   "res": "2k"
+  },
+  {
+   "id": "flower_empodium",
+   "res": "1k"
+  },
+  {
+   "id": "flower_gazania",
+   "res": "1k"
+  },
+  {
+   "id": "flower_heliophila",
+   "res": "1k"
+  },
+  {
+   "id": "shrub_03",
+   "res": "1k"
+  },
+  {
+   "id": "shrub_04",
+   "res": "1k"
+  }
+ ],
+ "urls": [
+  {
+   "url": "https://ambientcg.com/get?file=Grass001_2K-JPG.zip",
+   "destino": "ambientcg/Grass001_2K-JPG.zip"
+  },
+  {
+   "url": "https://ambientcg.com/get?file=Grass001_4K-JPG.zip",
+   "destino": "ambientcg/Grass001_4K-JPG.zip"
+  },
+  {
+   "url": "https://ambientcg.com/get?file=Grass004_2K-JPG.zip",
+   "destino": "ambientcg/Grass004_2K-JPG.zip"
+  },
+  {
+   "url": "https://ambientcg.com/get?file=Grass004_4K-JPG.zip",
+   "destino": "ambientcg/Grass004_4K-JPG.zip"
+  },
+  {
+   "url": "https://ambientcg.com/get?file=Grass005_2K-JPG.zip",
+   "destino": "ambientcg/Grass005_2K-JPG.zip"
+  },
+  {
+   "url": "https://ambientcg.com/get?file=Grass005_4K-JPG.zip",
+   "destino": "ambientcg/Grass005_4K-JPG.zip"
+  },
+  {
+   "url": "https://ambientcg.com/get?file=Grass003_2K-JPG.zip",
+   "destino": "ambientcg/Grass003_2K-JPG.zip"
+  },
+  {
+   "url": "https://ambientcg.com/get?file=Grass003_4K-JPG.zip",
+   "destino": "ambientcg/Grass003_4K-JPG.zip"
+  }
+ ]
 }
