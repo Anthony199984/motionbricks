@@ -1,10 +1,10 @@
 {
- "total_seconds": 225.8,
+ "total_seconds": 249.9,
  "jobs": [
   {
-   "name": "cs_esconder_mano",
+   "name": "cs_esconder_mano_c",
    "response": "OK\t150\t30",
-   "seconds": 225.7,
+   "seconds": 249.7,
    "frames": 150
   }
  ]
