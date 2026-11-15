@@ -1,11 +1,11 @@
 {
- "total_seconds": 327.1,
+ "total_seconds": 132.7,
  "jobs": [
   {
-   "name": "cu_bailar_2",
-   "response": "OK\t210\t30",
-   "seconds": 327.0,
-   "frames": 210
+   "name": "cs_susurrar_oido",
+   "response": "OK\t120\t30",
+   "seconds": 132.6,
+   "frames": 120
   }
  ]
 }
