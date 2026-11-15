@@ -1,265 +1,306 @@
 {
  "catalogo": false,
- "informe": "informe_huevo_sala.json",
+ "informe": "informe_cunado_busqueda1.json",
  "polyhaven": [
   {
-   "id": "Rockingchair_01",
+   "id": "residential_garden",
+   "res": "4k"
+  },
+  {
+   "id": "suburban_garden",
+   "res": "4k"
+  },
+  {
+   "id": "garden_nook",
+   "res": "4k"
+  },
+  {
+   "id": "sunny_rose_garden",
+   "res": "4k"
+  },
+  {
+   "id": "pretoria_gardens",
+   "res": "4k"
+  },
+  {
+   "id": "leafy_grass",
+   "res": "4k"
+  },
+  {
+   "id": "grass_path_2",
    "res": "2k"
   },
   {
-   "id": "sofa_02",
+   "id": "grass_ground",
    "res": "2k"
   },
   {
-   "id": "Sofa_01",
+   "id": "wooden_picnic_table",
    "res": "2k"
   },
   {
-   "id": "ArmChair_01",
+   "id": "painted_wooden_bench",
    "res": "2k"
   },
   {
-   "id": "GreenChair_01",
-   "res": "1k"
-  },
-  {
-   "id": "Ottoman_01",
-   "res": "1k"
-  },
-  {
-   "id": "throw_pillows_01",
-   "res": "1k"
-  },
-  {
-   "id": "side_table_01",
-   "res": "1k"
-  },
-  {
-   "id": "side_table_tall_01",
-   "res": "1k"
-  },
-  {
-   "id": "coffee_table_round_01",
-   "res": "1k"
-  },
-  {
-   "id": "ClassicConsole_01",
+   "id": "round_wooden_table_01",
    "res": "2k"
   },
   {
-   "id": "GothicCommode_01",
+   "id": "boombox",
    "res": "2k"
   },
   {
-   "id": "wooden_bookshelf_worn",
+   "id": "shrub_03",
    "res": "2k"
   },
   {
-   "id": "wooden_display_shelves_01",
+   "id": "shrub_04",
    "res": "2k"
   },
   {
-   "id": "decorative_book_set_01",
+   "id": "flower_gazania",
    "res": "1k"
   },
   {
-   "id": "book_encyclopedia_set_01",
+   "id": "flower_ursinia",
    "res": "1k"
   },
   {
-   "id": "mantel_clock_01",
+   "id": "planter_box_02",
    "res": "1k"
   },
   {
-   "id": "wall_clock",
-   "res": "1k"
-  },
-  {
-   "id": "vintage_grandfather_clock_01",
+   "id": "tree_small_02",
    "res": "2k"
   },
   {
-   "id": "fancy_picture_frame_01",
+   "id": "potted_plant_04",
    "res": "1k"
   },
   {
-   "id": "fancy_picture_frame_02",
+   "id": "wooden_bowl_01",
    "res": "1k"
   },
   {
-   "id": "hanging_picture_frame_01",
+   "id": "plastic_crate_02",
    "res": "1k"
   },
   {
-   "id": "hanging_picture_frame_02",
-   "res": "1k"
-  },
-  {
-   "id": "hanging_picture_frame_03",
-   "res": "1k"
-  },
-  {
-   "id": "standing_picture_frame_01",
-   "res": "1k"
-  },
-  {
-   "id": "ornate_mirror_01",
-   "res": "1k"
-  },
-  {
-   "id": "potted_plant_01",
-   "res": "2k"
-  },
-  {
-   "id": "potted_plant_02",
-   "res": "1k"
-  },
-  {
-   "id": "brass_candleholders",
-   "res": "1k"
-  },
-  {
-   "id": "wooden_candlestick",
-   "res": "1k"
-  },
-  {
-   "id": "ceramic_vase_01",
-   "res": "1k"
-  },
-  {
-   "id": "brass_vase_01",
-   "res": "1k"
-  },
-  {
-   "id": "wicker_basket_02",
-   "res": "1k"
-  },
-  {
-   "id": "ceiling_interior",
-   "res": "2k"
-  },
-  {
-   "id": "blue_plaster_wall",
-   "res": "2k"
-  },
-  {
-   "id": "floral_jacquard",
-   "res": "1k"
-  },
-  {
-   "id": "fabric_pattern_07",
-   "res": "1k"
-  },
-  {
-   "id": "wool_boucle",
+   "id": "garden_hose_wall_mounted_01",
    "res": "1k"
   }
  ],
  "sketchfab_buscar": [
   {
-   "clave": "navidad_corona",
-   "q": "christmas wreath",
+   "clave": "cu_pinata",
+   "q": "pinata",
    "solo_objaverse": true,
-   "max": 24,
-   "paginas": 3
+   "paginas": 3,
+   "max": 24
   },
   {
-   "clave": "navidad_media",
-   "q": "christmas stocking",
+   "clave": "cu_pinata_burro",
+   "q": "pinata donkey",
    "solo_objaverse": true,
-   "max": 24,
-   "paginas": 3
+   "paginas": 3,
+   "max": 24
   },
   {
-   "clave": "navidad_pascua",
-   "q": "poinsettia",
+   "clave": "cu_cerca_madera",
+   "q": "wooden fence",
    "solo_objaverse": true,
-   "max": 24,
-   "paginas": 3
+   "paginas": 3,
+   "max": 24
   },
   {
-   "clave": "navidad_cascanueces",
-   "q": "nutcracker",
+   "clave": "cu_cerca_madera2",
+   "q": "garden fence",
    "solo_objaverse": true,
-   "max": 24,
-   "paginas": 3
+   "paginas": 3,
+   "max": 24
   },
   {
-   "clave": "navidad_bolas",
-   "q": "christmas ornaments",
+   "clave": "cu_parrilla",
+   "q": "bbq grill",
    "solo_objaverse": true,
-   "max": 24,
-   "paginas": 3
+   "paginas": 3,
+   "max": 24
   },
   {
-   "clave": "navidad_regalos",
-   "q": "christmas gift box",
+   "clave": "cu_parrilla2",
+   "q": "barbecue",
    "solo_objaverse": true,
-   "max": 24,
-   "paginas": 3
+   "paginas": 3,
+   "max": 24
   },
   {
-   "clave": "navidad_guirnalda",
-   "q": "christmas garland",
+   "clave": "cu_casa_trasera",
+   "q": "house backyard",
    "solo_objaverse": true,
-   "max": 24,
-   "paginas": 3
+   "paginas": 3,
+   "max": 24
   },
   {
-   "clave": "navidad_chimenea",
-   "q": "christmas fireplace",
+   "clave": "cu_casa_exterior",
+   "q": "suburban house",
    "solo_objaverse": true,
-   "max": 24,
-   "paginas": 3
+   "paginas": 3,
+   "max": 24
   },
   {
-   "clave": "chimenea",
-   "q": "fireplace mantel",
+   "clave": "cu_casa_terraza",
+   "q": "house porch",
    "solo_objaverse": true,
-   "max": 24,
-   "paginas": 3
+   "paginas": 3,
+   "max": 24
   },
   {
-   "clave": "alfombra",
-   "q": "persian rug",
+   "clave": "cu_banderines",
+   "q": "bunting flags",
    "solo_objaverse": true,
-   "max": 24,
-   "paginas": 3
+   "paginas": 3,
+   "max": 24
   },
   {
-   "clave": "navidad_velas",
-   "q": "christmas candles",
+   "clave": "cu_guirnalda",
+   "q": "party garland",
    "solo_objaverse": true,
-   "max": 24,
-   "paginas": 3
+   "paginas": 3,
+   "max": 24
   },
   {
-   "clave": "navidad_bola_nieve",
-   "q": "snow globe",
+   "clave": "cu_arco_globos",
+   "q": "balloon arch",
    "solo_objaverse": true,
-   "max": 24,
-   "paginas": 3
+   "paginas": 3,
+   "max": 24
   },
   {
-   "clave": "navidad_santa",
-   "q": "santa claus figurine",
+   "clave": "cu_globos",
+   "q": "balloons",
    "solo_objaverse": true,
-   "max": 24,
-   "paginas": 3
+   "paginas": 3,
+   "max": 24
   },
   {
-   "clave": "mecedora",
-   "q": "rocking chair",
+   "clave": "cu_refrescos",
+   "q": "soda bottle",
    "solo_objaverse": true,
-   "max": 24,
-   "paginas": 3
+   "paginas": 3,
+   "max": 24
   },
   {
-   "clave": "navidad_centro_mesa",
-   "q": "christmas centerpiece",
+   "clave": "cu_vasos",
+   "q": "plastic cup",
    "solo_objaverse": true,
-   "max": 24,
-   "paginas": 3
+   "paginas": 3,
+   "max": 24
+  },
+  {
+   "clave": "cu_regalos",
+   "q": "gift box",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 24
+  },
+  {
+   "clave": "cu_bizcocho_velas",
+   "q": "birthday cake candles",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 24
+  },
+  {
+   "clave": "cu_cinta_adhesiva",
+   "q": "tape roll",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 24
+  },
+  {
+   "clave": "cu_nevera_playa",
+   "q": "cooler box",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 24
+  },
+  {
+   "clave": "cu_mantel",
+   "q": "tablecloth table",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 24
+  },
+  {
+   "clave": "cu_platos_comida",
+   "q": "party food",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 24
+  },
+  {
+   "clave": "cu_sombrero_fiesta",
+   "q": "party hat",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 24
+  },
+  {
+   "clave": "cu_mesa_plegable",
+   "q": "folding table",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 24
+  },
+  {
+   "clave": "cu_silla_plegable",
+   "q": "folding chair",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 24
+  },
+  {
+   "clave": "cu_camara_foto",
+   "q": "camera",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 24
+  },
+  {
+   "clave": "cu_arbol_grande",
+   "q": "oak tree",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 24
+  },
+  {
+   "clave": "cu_arbol_mango",
+   "q": "mango tree",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 24
+  },
+  {
+   "clave": "cu_arbol_tropical",
+   "q": "tropical tree",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 24
+  },
+  {
+   "clave": "cu_seto",
+   "q": "hedge",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 24
+  },
+  {
+   "clave": "cu_toldo",
+   "q": "canopy tent",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 24
   }
  ]
 }
