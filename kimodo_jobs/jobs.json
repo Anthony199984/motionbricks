@@ -1,6 +1,122 @@
 [
- {"name": "mk_susto_cabeza_1", "frames": 135, "seed": 71001, "prompt": "A man is shocked and terrified, he grabs his head with both hands and screams, leaning back, then puts his hands on his cheeks in disbelief."},
- {"name": "mk_susto_cabeza_2", "frames": 135, "seed": 72002, "prompt": "A person in panic clutches their head with both hands, screaming in horror while stepping backward."},
- {"name": "mk_susto_mejillas", "frames": 120, "seed": 73003, "prompt": "A man gasps in horror and slaps both hands on his cheeks, mouth wide open, staring down at the ground in front of him."},
- {"name": "mk_susto_atras", "frames": 105, "seed": 74004, "prompt": "A man jumps back startled, raises both hands in front of his chest in fear, then covers his mouth with one hand while pointing forward with the other."}
+ {
+  "name": "cu_bailar_1",
+  "frames": 210,
+  "seed": 91000,
+  "prompt": "A person dances happily to music, swaying hips and moving arms to the rhythm, stepping side to side."
+ },
+ {
+  "name": "cu_bailar_2",
+  "frames": 210,
+  "seed": 91037,
+  "prompt": "A woman dances cheerfully at a party, turning around and clapping her hands above her head."
+ },
+ {
+  "name": "cu_bailar_3",
+  "frames": 210,
+  "seed": 91074,
+  "prompt": "A man dances merengue, small quick steps with bent knees, arms bent and moving with the beat."
+ },
+ {
+  "name": "cu_foto_1",
+  "frames": 210,
+  "seed": 91111,
+  "prompt": "A person holds a phone up with both hands in front of the face and takes photos, stepping slightly to the side to frame the shot."
+ },
+ {
+  "name": "cu_foto_2",
+  "frames": 210,
+  "seed": 91148,
+  "prompt": "A woman records a video with her phone held up, slowly panning left and right."
+ },
+ {
+  "name": "cu_servir_1",
+  "frames": 210,
+  "seed": 91185,
+  "prompt": "A woman stands at a table and cuts a cake with a knife, then places slices on plates."
+ },
+ {
+  "name": "cu_servir_2",
+  "frames": 210,
+  "seed": 91222,
+  "prompt": "A woman stands at a table pouring soda from a bottle into cups, one after another."
+ },
+ {
+  "name": "cu_parrilla_1",
+  "frames": 210,
+  "seed": 91259,
+  "prompt": "A man stands at a grill flipping meat with tongs, then wipes his forehead with his arm."
+ },
+ {
+  "name": "cu_parrilla_2",
+  "frames": 210,
+  "seed": 91296,
+  "prompt": "A man stands at a grill turning food with a spatula and talking to someone next to him."
+ },
+ {
+  "name": "cu_conversar_1",
+  "frames": 210,
+  "seed": 91333,
+  "prompt": "A man stands and talks with friends, gesturing with one hand and laughing."
+ },
+ {
+  "name": "cu_conversar_2",
+  "frames": 210,
+  "seed": 91370,
+  "prompt": "A woman stands holding a cup at chest height, listening and nodding, then laughs and takes a sip."
+ },
+ {
+  "name": "cu_conversar_3",
+  "frames": 210,
+  "seed": 91407,
+  "prompt": "A person stands and tells a funny story, waving both hands, then everyone laughs and he slaps his knee."
+ },
+ {
+  "name": "cu_comer_1",
+  "frames": 210,
+  "seed": 91444,
+  "prompt": "A person stands holding a plate in one hand and eats with a fork using the other hand."
+ },
+ {
+  "name": "cu_beber_1",
+  "frames": 210,
+  "seed": 91481,
+  "prompt": "A man stands relaxed, takes a sip from a cup, lowers it and looks around."
+ },
+ {
+  "name": "cu_nino_correr_1",
+  "frames": 210,
+  "seed": 91518,
+  "prompt": "A child runs around happily in a circle, arms swinging, then keeps running."
+ },
+ {
+  "name": "cu_nino_correr_2",
+  "frames": 210,
+  "seed": 91555,
+  "prompt": "A child runs forward holding one arm up high as if holding a balloon string."
+ },
+ {
+  "name": "cu_nino_saltar_1",
+  "frames": 210,
+  "seed": 91592,
+  "prompt": "A child jumps up and down excitedly, clapping hands."
+ },
+ {
+  "name": "cu_aplaudir_1",
+  "frames": 210,
+  "seed": 91629,
+  "prompt": "A person stands and claps hands enthusiastically, then cheers with arms raised."
+ },
+ {
+  "name": "cu_reaccion_sorpresa",
+  "frames": 210,
+  "seed": 91666,
+  "prompt": "A person standing gasps in surprise and covers the mouth with one hand, leaning back slightly."
+ },
+ {
+  "name": "cu_reir_1",
+  "frames": 210,
+  "seed": 91703,
+  "prompt": "A person standing laughs hard, bending forward and holding the stomach."
+ }
 ]
