@@ -1,68 +1,146 @@
 {
  "catalogo": false,
- "informe": "informe_cunado_bajada2.json",
- "polyhaven": [
+ "informe": "informe_cunado_busqueda3.json",
+ "sketchfab_buscar": [
   {
-   "id": "grass_bermuda_01",
-   "res": "2k"
+   "clave": "cu3_arbol_realista",
+   "q": "realistic tree",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
   },
   {
-   "id": "grass_medium_01",
-   "res": "2k"
+   "clave": "cu3_arbol_fotogrametria",
+   "q": "tree photogrammetry",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
   },
   {
-   "id": "flower_empodium",
-   "res": "1k"
+   "clave": "cu3_arbol_frondoso",
+   "q": "leafy tree",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
   },
   {
-   "id": "flower_gazania",
-   "res": "1k"
+   "clave": "cu3_arbol_sombra",
+   "q": "shade tree",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
   },
   {
-   "id": "flower_heliophila",
-   "res": "1k"
+   "clave": "cu3_arbol_flamboyan",
+   "q": "flamboyant tree",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
   },
   {
-   "id": "shrub_03",
-   "res": "1k"
+   "clave": "cu3_arbol_ceiba",
+   "q": "ceiba tree",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
   },
   {
-   "id": "shrub_04",
-   "res": "1k"
-  }
- ],
- "urls": [
-  {
-   "url": "https://ambientcg.com/get?file=Grass001_2K-JPG.zip",
-   "destino": "ambientcg/Grass001_2K-JPG.zip"
+   "clave": "cu3_arbol_almendro",
+   "q": "almond tree",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
   },
   {
-   "url": "https://ambientcg.com/get?file=Grass001_4K-JPG.zip",
-   "destino": "ambientcg/Grass001_4K-JPG.zip"
+   "clave": "cu3_arbol_roble",
+   "q": "oak tree realistic",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
   },
   {
-   "url": "https://ambientcg.com/get?file=Grass004_2K-JPG.zip",
-   "destino": "ambientcg/Grass004_2K-JPG.zip"
+   "clave": "cu3_palma_coco",
+   "q": "coconut palm",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
   },
   {
-   "url": "https://ambientcg.com/get?file=Grass004_4K-JPG.zip",
-   "destino": "ambientcg/Grass004_4K-JPG.zip"
+   "clave": "cu3_palmera_real",
+   "q": "palm tree realistic",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
   },
   {
-   "url": "https://ambientcg.com/get?file=Grass005_2K-JPG.zip",
-   "destino": "ambientcg/Grass005_2K-JPG.zip"
+   "clave": "cu3_arbusto_flores",
+   "q": "flowering bush",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
   },
   {
-   "url": "https://ambientcg.com/get?file=Grass005_4K-JPG.zip",
-   "destino": "ambientcg/Grass005_4K-JPG.zip"
+   "clave": "cu3_mata_platano",
+   "q": "banana plant",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
   },
   {
-   "url": "https://ambientcg.com/get?file=Grass003_2K-JPG.zip",
-   "destino": "ambientcg/Grass003_2K-JPG.zip"
+   "clave": "cu3_silla_plastica",
+   "q": "plastic chair",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
   },
   {
-   "url": "https://ambientcg.com/get?file=Grass003_4K-JPG.zip",
-   "destino": "ambientcg/Grass003_4K-JPG.zip"
+   "clave": "cu3_mesa_plastica",
+   "q": "plastic table",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
+  },
+  {
+   "clave": "cu3_bocina_fiesta",
+   "q": "party speaker",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
+  },
+  {
+   "clave": "cu3_altavoz",
+   "q": "speaker box",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
+  },
+  {
+   "clave": "cu3_perro_labrador",
+   "q": "labrador",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
+  },
+  {
+   "clave": "cu3_terraza_casa",
+   "q": "house veranda",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
+  },
+  {
+   "clave": "cu3_casa_caribe",
+   "q": "caribbean house",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
+  },
+  {
+   "clave": "cu3_pergola",
+   "q": "pergola",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
   }
  ]
 }
