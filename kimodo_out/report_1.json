@@ -1,11 +1,11 @@
 {
- "total_seconds": 132.7,
+ "total_seconds": 283.0,
  "jobs": [
   {
-   "name": "cs_susurrar_oido",
-   "response": "OK\t120\t30",
-   "seconds": 132.6,
-   "frames": 120
+   "name": "cs_reir_doblado_c",
+   "response": "OK\t150\t30",
+   "seconds": 283.0,
+   "frames": 150
   }
  ]
 }
