@@ -1,11 +1,11 @@
 {
- "total_seconds": 276.2,
+ "total_seconds": 225.8,
  "jobs": [
   {
-   "name": "cu_foto_1",
-   "response": "OK\t210\t30",
-   "seconds": 276.1,
-   "frames": 210
+   "name": "cs_esconder_mano",
+   "response": "OK\t150\t30",
+   "seconds": 225.7,
+   "frames": 150
   }
  ]
 }
