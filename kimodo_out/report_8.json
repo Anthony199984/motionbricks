@@ -1,11 +1,11 @@
 {
- "total_seconds": 314.3,
+ "total_seconds": 210.9,
  "jobs": [
   {
-   "name": "cu_parrilla_2",
-   "response": "OK\t210\t30",
-   "seconds": 314.2,
-   "frames": 210
+   "name": "cs_contar_mano",
+   "response": "OK\t150\t30",
+   "seconds": 210.8,
+   "frames": 150
   }
  ]
 }
