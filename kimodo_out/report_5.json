@@ -1,11 +1,11 @@
 {
- "total_seconds": 305.8,
+ "total_seconds": 161.1,
  "jobs": [
   {
-   "name": "cu_servir_1",
-   "response": "OK\t210\t30",
-   "seconds": 305.8,
-   "frames": 210
+   "name": "cs_sacar_y_pinchar",
+   "response": "OK\t90\t30",
+   "seconds": 161.0,
+   "frames": 90
   }
  ]
 }
