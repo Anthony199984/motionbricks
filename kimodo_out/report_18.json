@@ -1,11 +1,11 @@
 {
- "total_seconds": 300.9,
+ "total_seconds": 197.0,
  "jobs": [
   {
-   "name": "cu_reaccion_sorpresa",
-   "response": "OK\t210\t30",
-   "seconds": 300.8,
-   "frames": 210
+   "name": "cs_levantar_mostrar",
+   "response": "OK\t120\t30",
+   "seconds": 197.0,
+   "frames": 120
   }
  ]
 }
