@@ -1,143 +1,178 @@
 {
  "catalogo": false,
- "informe": "informe_cunado_busqueda3.json",
+ "informe": "informe_cunado_busqueda4.json",
  "sketchfab_buscar": [
   {
-   "clave": "cu3_arbol_realista",
-   "q": "realistic tree",
+   "clave": "cu4_casa_madera",
+   "q": "wooden house",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_arbol_fotogrametria",
-   "q": "tree photogrammetry",
+   "clave": "cu4_casa_madera2",
+   "q": "wood house porch",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_arbol_frondoso",
-   "q": "leafy tree",
+   "clave": "cu4_cabana_madera",
+   "q": "wooden cabin",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_arbol_sombra",
-   "q": "shade tree",
+   "clave": "cu4_casa_campo",
+   "q": "farmhouse",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_arbol_flamboyan",
-   "q": "flamboyant tree",
+   "clave": "cu4_casa_tropical",
+   "q": "tropical house",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_arbol_ceiba",
-   "q": "ceiba tree",
+   "clave": "cu4_casa_porche",
+   "q": "house with porch",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_arbol_almendro",
-   "q": "almond tree",
+   "clave": "cu4_payaso",
+   "q": "clown",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_arbol_roble",
-   "q": "oak tree realistic",
+   "clave": "cu4_payaso2",
+   "q": "clown rigged",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_palma_coco",
-   "q": "coconut palm",
+   "clave": "cu4_payaso3",
+   "q": "clown character",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_palmera_real",
-   "q": "palm tree realistic",
+   "clave": "cu4_brincolin",
+   "q": "bounce house",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_arbusto_flores",
-   "q": "flowering bush",
+   "clave": "cu4_castillo_inflable",
+   "q": "inflatable castle",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_mata_platano",
-   "q": "banana plant",
+   "clave": "cu4_palomitas",
+   "q": "popcorn machine",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_silla_plastica",
-   "q": "plastic chair",
+   "clave": "cu4_algodon",
+   "q": "cotton candy machine",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_mesa_plastica",
-   "q": "plastic table",
+   "clave": "cu4_mesa_dulces",
+   "q": "candy table",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_bocina_fiesta",
-   "q": "party speaker",
+   "clave": "cu4_dulces",
+   "q": "candy jar",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_altavoz",
-   "q": "speaker box",
+   "clave": "cu4_toldo_fiesta",
+   "q": "party tent",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_perro_labrador",
-   "q": "labrador",
+   "clave": "cu4_carpa",
+   "q": "canopy tent",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_terraza_casa",
-   "q": "house veranda",
+   "clave": "cu4_luces_cadena",
+   "q": "string lights",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_casa_caribe",
-   "q": "caribbean house",
+   "clave": "cu4_hot_dog",
+   "q": "hot dog",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
   },
   {
-   "clave": "cu3_pergola",
-   "q": "pergola",
+   "clave": "cu4_carne_parrilla",
+   "q": "grilled meat",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
+  },
+  {
+   "clave": "cu4_parrilla_carbon",
+   "q": "charcoal grill",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
+  },
+  {
+   "clave": "cu4_ramada",
+   "q": "gazebo wood",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
+  },
+  {
+   "clave": "cu4_guirnalda_globos",
+   "q": "balloon garland",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
+  },
+  {
+   "clave": "cu4_globo_numero",
+   "q": "foil balloon",
+   "solo_objaverse": true,
+   "paginas": 4,
+   "max": 30
+  },
+  {
+   "clave": "cu4_animal_globo",
+   "q": "balloon animal",
    "solo_objaverse": true,
    "paginas": 4,
    "max": 30
