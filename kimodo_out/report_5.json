@@ -1,11 +1,11 @@
 {
- "total_seconds": 161.1,
+ "total_seconds": 192.4,
  "jobs": [
   {
-   "name": "cs_sacar_y_pinchar",
-   "response": "OK\t90\t30",
-   "seconds": 161.0,
-   "frames": 90
+   "name": "cs_apuntar_dedo_c",
+   "response": "OK\t120\t30",
+   "seconds": 192.3,
+   "frames": 120
   }
  ]
 }
