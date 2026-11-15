@@ -1,11 +1,11 @@
 {
- "total_seconds": 272.3,
+ "total_seconds": 230.4,
  "jobs": [
   {
-   "name": "cu_nino_saltar_1",
-   "response": "OK\t210\t30",
-   "seconds": 272.2,
-   "frames": 210
+   "name": "cs_sostener_dos_manos",
+   "response": "OK\t150\t30",
+   "seconds": 230.3,
+   "frames": 150
   }
  ]
 }
