@@ -1,10 +1,10 @@
 {
- "total_seconds": 251.0,
+ "total_seconds": 229.1,
  "jobs": [
   {
-   "name": "cs_inflar_pie",
+   "name": "cs_reir_doblado_b",
    "response": "OK\t150\t30",
-   "seconds": 250.9,
+   "seconds": 229.0,
    "frames": 150
   }
  ]
