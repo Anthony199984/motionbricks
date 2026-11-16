@@ -1,11 +1,11 @@
 {
- "total_seconds": 210.9,
+ "total_seconds": 262.8,
  "jobs": [
   {
-   "name": "cs_contar_mano",
-   "response": "OK\t150\t30",
-   "seconds": 210.8,
-   "frames": 150
+   "name": "cp_caminar_triste_a",
+   "response": "OK\t180\t30",
+   "seconds": 262.8,
+   "frames": 180
   }
  ]
 }
