@@ -1,0 +1,63 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/vaca_frame_test.glb",
+   "mb": 5.44
+  },
+  {
+   "destino": "objaverse/vaca_npc.glb",
+   "mb": 1.79
+  },
+  {
+   "destino": "objaverse/vaca_cowlander.glb",
+   "mb": 7.73
+  },
+  {
+   "destino": "objaverse/vaca_run.glb",
+   "mb": 2.22
+  },
+  {
+   "destino": "objaverse/vaca_skin.glb",
+   "mb": 3.43
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "vaca_frame_test": {
+   "uid": "c5782e43dcf442718a25b49bed00f582",
+   "nombre": "vaca_frame_test",
+   "obra": "Cow frame test",
+   "autor": "Nyilonelycompany",
+   "licencia": "CC Attribution"
+  },
+  "vaca_npc": {
+   "uid": "2ca1db4e890e4b24a68624597e7d2fc8",
+   "nombre": "vaca_npc",
+   "obra": "Cow NPC - Now free to download",
+   "autor": "nataliekirk",
+   "licencia": "CC Attribution"
+  },
+  "vaca_cowlander": {
+   "uid": "88d26e80e6c54a05827959d54b03f4e6",
+   "nombre": "vaca_cowlander",
+   "obra": "Cowlander",
+   "autor": "nickflatt",
+   "licencia": "CC Attribution"
+  },
+  "vaca_run": {
+   "uid": "e62ce0517f9543fd97ab859bc551b96e",
+   "nombre": "vaca_run",
+   "obra": "Cow Run",
+   "autor": "fazlulkarimrabby",
+   "licencia": "CC Attribution"
+  },
+  "vaca_skin": {
+   "uid": "f79f2bc987f94c9ead02a36844e7c48b",
+   "nombre": "vaca_skin",
+   "obra": "Cow Skin",
+   "autor": "gscreations2508",
+   "licencia": "CC Attribution"
+  }
+ }
+}
