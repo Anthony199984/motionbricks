@@ -1,0 +1,11 @@
+{
+ "total_seconds": 212.7,
+ "jobs": [
+  {
+   "name": "cs_senalar_salida",
+   "response": "OK\t120\t30",
+   "seconds": 212.6,
+   "frames": 120
+  }
+ ]
+}

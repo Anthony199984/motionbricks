@@ -1,0 +1,11 @@
+{
+ "total_seconds": 230.4,
+ "jobs": [
+  {
+   "name": "cs_sostener_dos_manos",
+   "response": "OK\t150\t30",
+   "seconds": 230.3,
+   "frames": 150
+  }
+ ]
+}

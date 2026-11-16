@@ -1,0 +1,11 @@
+{
+ "total_seconds": 130.3,
+ "jobs": [
+  {
+   "name": "cs_levantar_costado",
+   "response": "OK\t120\t30",
+   "seconds": 130.2,
+   "frames": 120
+  }
+ ]
+}

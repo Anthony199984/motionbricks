@@ -1,0 +1,11 @@
+{
+ "total_seconds": 192.4,
+ "jobs": [
+  {
+   "name": "cs_apuntar_dedo_c",
+   "response": "OK\t120\t30",
+   "seconds": 192.3,
+   "frames": 120
+  }
+ ]
+}

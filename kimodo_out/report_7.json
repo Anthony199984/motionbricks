@@ -1,0 +1,11 @@
+{
+ "total_seconds": 196.5,
+ "jobs": [
+  {
+   "name": "cs_descruzar_mano",
+   "response": "OK\t120\t30",
+   "seconds": 196.4,
+   "frames": 120
+  }
+ ]
+}
