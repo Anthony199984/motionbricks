@@ -1,0 +1,132 @@
+{
+ "bajados": [
+  {
+   "destino": "texturas/asphalt_02/asphalt_02_Diffuse_2k.jpg",
+   "mb": 2.93
+  },
+  {
+   "destino": "texturas/asphalt_02/asphalt_02_nor_gl_2k.jpg",
+   "mb": 4.71
+  },
+  {
+   "destino": "texturas/asphalt_02/asphalt_02_Rough_2k.jpg",
+   "mb": 2.13
+  },
+  {
+   "destino": "texturas/asphalt_02/asphalt_02_AO_2k.jpg",
+   "mb": 1.95
+  },
+  {
+   "destino": "texturas/asphalt_02/asphalt_02_Displacement_2k.jpg",
+   "mb": 1.08
+  },
+  {
+   "destino": "texturas/asphalt_02/asphalt_02_arm_2k.jpg",
+   "mb": 1.24
+  },
+  {
+   "destino": "texturas/blue_plaster_wall/blue_plaster_wall_Diffuse_2k.jpg",
+   "mb": 2.37
+  },
+  {
+   "destino": "texturas/blue_plaster_wall/blue_plaster_wall_nor_gl_2k.jpg",
+   "mb": 3.21
+  },
+  {
+   "destino": "texturas/blue_plaster_wall/blue_plaster_wall_Rough_2k.jpg",
+   "mb": 1.17
+  },
+  {
+   "destino": "texturas/blue_plaster_wall/blue_plaster_wall_AO_2k.jpg",
+   "mb": 2.49
+  },
+  {
+   "destino": "texturas/blue_plaster_wall/blue_plaster_wall_Displacement_2k.jpg",
+   "mb": 0.97
+  },
+  {
+   "destino": "texturas/blue_plaster_wall/blue_plaster_wall_arm_2k.jpg",
+   "mb": 2.17
+  },
+  {
+   "destino": "texturas/red_brick_03/red_brick_03_Diffuse_2k.jpg",
+   "mb": 2.83
+  },
+  {
+   "destino": "texturas/red_brick_03/red_brick_03_nor_gl_2k.jpg",
+   "mb": 3.51
+  },
+  {
+   "destino": "texturas/red_brick_03/red_brick_03_Rough_2k.jpg",
+   "mb": 1.27
+  },
+  {
+   "destino": "texturas/red_brick_03/red_brick_03_AO_2k.jpg",
+   "mb": 1.59
+  },
+  {
+   "destino": "texturas/red_brick_03/red_brick_03_Displacement_2k.jpg",
+   "mb": 0.57
+  },
+  {
+   "destino": "texturas/red_brick_03/red_brick_03_arm_2k.jpg",
+   "mb": 0.66
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "info": {
+  "asphalt_02": {
+   "nombre": "Asphalt 02",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "blue_plaster_wall": {
+   "nombre": "Blue Plaster Wall",
+   "autores": {
+    "Dimitrios Savva": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "red_brick_03": {
+   "nombre": "Red Brick 03",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "dark_wood": {
+   "nombre": "Dark Wood",
+   "autores": {
+    "Dario Barresi": "Baking",
+    "Dimitrios Savva": "Photography",
+    "Rico Cilliers": "Tiling"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "beige_wall_001": {
+   "nombre": "Beige Wall 001",
+   "autores": {
+    "Dimitrios Savva": "Photography",
+    "Rico Cilliers": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "brown_floor_tiles": {
+   "nombre": "Brown Floor Tilles",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "rusty_metal_shutter": {
+   "nombre": "Rusty Metal Shutter",
+   "autores": {
+    "Charlotte Baglioni": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  }
+ }
+}
