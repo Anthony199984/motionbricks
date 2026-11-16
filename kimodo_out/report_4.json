@@ -1,10 +1,16 @@
 {
- "total_seconds": 180.7,
+ "total_seconds": 341.4,
  "jobs": [
   {
-   "name": "vc04_fruncir_a",
+   "name": "vc22_sacar_punzon_a",
+   "response": "OK\t105\t30",
+   "seconds": 180.7,
+   "frames": 105
+  },
+  {
+   "name": "vc33_empujar_a",
    "response": "OK\t90\t30",
-   "seconds": 180.6,
+   "seconds": 160.7,
    "frames": 90
   }
  ]
