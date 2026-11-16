@@ -1,0 +1,704 @@
+{
+ "bajados": [
+  {
+   "destino": "sonidos/cp2_moto/moped_passing.wav_by_extrafonia_198611.mp3",
+   "mb": 0.31
+  },
+  {
+   "destino": "sonidos/cp2_moto/13-2017-moped.wav_by_nowism_484798.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/cp2_moto/moped_entering_flat_block_overvecht.wav_by_alfonss_475849.mp3",
+   "mb": 0.52
+  },
+  {
+   "destino": "sonidos/cp2_moto/moped_passing_in_wet_.mp3_by_soundmary_196694.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/cp2_moto/Moped_hits_garbage_by_tieken_816638.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/cp2_moto/Old_moped_by_Tuben_161399.mp3",
+   "mb": 0.28
+  },
+  {
+   "destino": "sonidos/cp2_moto/Moped.WAV_by_Lydkulisse_168768.mp3",
+   "mb": 0.27
+  },
+  {
+   "destino": "sonidos/cp2_moto/drive_by_moped.wav_by_Satoration_54901.mp3",
+   "mb": 0.43
+  },
+  {
+   "destino": "sonidos/cp2_moto2/Chainsaw_Start_Attempts.wav_by_lonemonk_185580.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/cp2_moto2/Two-stroke_saw_idling_revving_shutting_off._by_Mih_753527.mp3",
+   "mb": 0.65
+  },
+  {
+   "destino": "sonidos/cp2_moto2/DKW_F8-racing_car_with_two-stroke_engine_starts_id_740751.mp3",
+   "mb": 0.51
+  },
+  {
+   "destino": "sonidos/cp2_moto2/DKW_F8-racing_car_with_two-stroke_engine_passes_by_740711.mp3",
+   "mb": 0.47
+  },
+  {
+   "destino": "sonidos/cp2_moto2/DKW_F8-racing_car_with_two-stroke_engine_starts_pr_740752.mp3",
+   "mb": 0.2
+  },
+  {
+   "destino": "sonidos/cp2_moto2/MZ_ETZ250_motorcycle_two-stroke_engine_by_Silbad_414263.mp3",
+   "mb": 0.27
+  },
+  {
+   "destino": "sonidos/cp2_moto3/motorbike_crm_250cc_kick_start_rev_engine.wav_by_m_148855.mp3",
+   "mb": 0.57
+  },
+  {
+   "destino": "sonidos/cp2_moto3/high_powered_japanese_bike_quick_burnout.1.wav_by__681593.mp3",
+   "mb": 0.42
+  },
+  {
+   "destino": "sonidos/cp2_moto3/Motorbike_Passing_By_by_musicradiocreative_197106.mp3",
+   "mb": 0.49
+  },
+  {
+   "destino": "sonidos/cp2_moto3/Large_backfiring_motorbike_passes_by._by_mudflea2_705363.mp3",
+   "mb": 0.37
+  },
+  {
+   "destino": "sonidos/cp2_moto3/distant_motorcycle_from_a_forest.wav_by_inchadney_349152.mp3",
+   "mb": 0.42
+  },
+  {
+   "destino": "sonidos/cp2_moto3/Motorcycle_goes_by_by_AdrianoAnjos_581101.mp3",
+   "mb": 0.22
+  },
+  {
+   "destino": "sonidos/cp2_moto3/Kawasaki_Versys_650cc_x27_07_-_Engine_Work_Start_S_815139.mp3",
+   "mb": 0.64
+  },
+  {
+   "destino": "sonidos/cp2_moto3/Single_cylinder_motorcycle_exhaust_through_contact_517605.mp3",
+   "mb": 0.43
+  },
+  {
+   "destino": "sonidos/cp2_moto4/Electric_Scooter_Loop.WAV_by_pkri_587511.mp3",
+   "mb": 0.38
+  },
+  {
+   "destino": "sonidos/cp2_moto4/Scooter_start_and_go_fast.WAV_by_killerrack8017_495386.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/cp2_moto4/Scooter_start_and_go_slowly.WAV_by_killerrack8017_495387.mp3",
+   "mb": 0.22
+  },
+  {
+   "destino": "sonidos/cp2_moto4/scooter_outside_flat_0.wav_by_sonsdebarcelona_69759.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/cp2_moto4/20101230_passing.scooter.wav_by_dobroide_111950.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/cp2_moto4/20101230_passing.scooter.fast.wav_by_dobroide_111949.mp3",
+   "mb": 0.23
+  },
+  {
+   "destino": "sonidos/cp2_moto4/Scooter_drive_by_.wav_by_nickpursehouse_509522.mp3",
+   "mb": 0.26
+  },
+  {
+   "destino": "sonidos/cp2_moto4/Electric_Scooter_by_IENBA_697379.mp3",
+   "mb": 0.39
+  },
+  {
+   "destino": "sonidos/cp2_amb/AMBSprt-Samsung_Galaxy_Smartphone_MCU_Billiards_Am_815437.mp3",
+   "mb": 3.89
+  },
+  {
+   "destino": "sonidos/cp2_amb/billar_2.mp3_by_plagasul_364.mp3",
+   "mb": 0.41
+  },
+  {
+   "destino": "sonidos/cp2_amb/arcades_game_room_for_kids_.wav_by_Tomlija_99561.mp3",
+   "mb": 2.59
+  },
+  {
+   "destino": "sonidos/cp2_amb/SPRTIndor_Billiard_Balls_And_Triangle_01_KVV_AUDIO_830220.mp3",
+   "mb": 0.21
+  },
+  {
+   "destino": "sonidos/cp2_amb2/cafe-ambience.m4a_by_wolfdoctor_516435.mp3",
+   "mb": 0.24
+  },
+  {
+   "destino": "sonidos/cp2_amb2/ambience_cafe_burger_king_city_Moscow_by_Alexander_363713.mp3",
+   "mb": 0.94
+  },
+  {
+   "destino": "sonidos/cp2_amb2/Miss_Michelle_x27_s_cafe_in_Discovery_Mountain_--__746428.mp3",
+   "mb": 3.32
+  },
+  {
+   "destino": "sonidos/cp2_amb2/small_cafe_ambience.wav_by_Tomlija_99632.mp3",
+   "mb": 1.29
+  },
+  {
+   "destino": "sonidos/cp2_amb2/OPEN_RESTAURANT_AMBIENCE_VERY_LESS_CROWD.WAV_by_ga_427385.mp3",
+   "mb": 1.21
+  },
+  {
+   "destino": "sonidos/cp2_amb2/ext_cafe_KahvilaKumpu_walla_park.wav_by_AMPI_sound_651259.mp3",
+   "mb": 2.63
+  },
+  {
+   "destino": "sonidos/cp2_amb2/Coffeehouse_Ambience_Burlington_VT_0112xx.wav_by_a_33364.mp3",
+   "mb": 3.2
+  },
+  {
+   "destino": "sonidos/cp2_amb2/Cafe_Coffee_shop_by_Ultra-Edward_823831.mp3",
+   "mb": 1.09
+  },
+  {
+   "destino": "sonidos/cp2_amb3/Swimming_Hall_ambience_loop_by_HenKonen_797672.mp3",
+   "mb": 0.57
+  },
+  {
+   "destino": "sonidos/cp2_cajon/Flag_Crash_by_everythingsounds_319986.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/cp2_cajon2/FOLYProp-Samsung_Galaxy_Smartphone_CU_Billiards_Ba_815442.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/cp2_cajon2/SPRTIndor-BILLIARDS_Dropping_Ball_In_Pocket_01_KVV_851090.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/cp2_cajon2/Inside_Pool_Table.WAV_by_AmberdeMeillon_443057.mp3",
+   "mb": 0.37
+  },
+  {
+   "destino": "objaverse/cp_mesa_billar_a.glb",
+   "mb": 3.77
+  },
+  {
+   "destino": "objaverse/cp_mesa_billar_b.glb",
+   "mb": 87.07
+  },
+  {
+   "destino": "objaverse/cp_mesa_billar_c.glb",
+   "mb": 1.34
+  },
+  {
+   "destino": "objaverse/cp_pub_clasico.glb",
+   "mb": 14.96
+  },
+  {
+   "destino": "objaverse/cp_sala_billar.glb",
+   "mb": 38.73
+  },
+  {
+   "destino": "objaverse/cp_sala_snooker.glb",
+   "mb": 7.55
+  },
+  {
+   "destino": "objaverse/cp_bolas_taco.glb",
+   "mb": 10.44
+  },
+  {
+   "destino": "objaverse/cp_moto_roja_vespa.glb",
+   "mb": 13.35
+  },
+  {
+   "destino": "objaverse/cp_moto_vieja_roja.glb",
+   "mb": 7.03
+  },
+  {
+   "destino": "objaverse/cp_moto_moped.glb",
+   "mb": 2.24
+  },
+  {
+   "destino": "objaverse/cp_moto_piaggio.glb",
+   "mb": 3.55
+  },
+  {
+   "destino": "objaverse/cp_bici_vieja.glb",
+   "mb": 3.8
+  },
+  {
+   "destino": "objaverse/cp_bici_vintage.glb",
+   "mb": 16.47
+  },
+  {
+   "destino": "objaverse/cp_mostrador_pub.glb",
+   "mb": 9.73
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "freesound": {
+  "cp2_moto": [
+   {
+    "id": "198611",
+    "autor": "extrafonia",
+    "pagina": "https://freesound.org/people/extrafonia/sounds/198611/",
+    "titulo": "moped passing.wav by extrafonia",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_moto/moped_passing.wav_by_extrafonia_198611.mp3"
+   },
+   {
+    "id": "484798",
+    "autor": "nowism",
+    "pagina": "https://freesound.org/people/nowism/sounds/484798/",
+    "titulo": "13-2017-moped.wav by nowism",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/cp2_moto/13-2017-moped.wav_by_nowism_484798.mp3"
+   },
+   {
+    "id": "475849",
+    "autor": "alfonsseelen",
+    "pagina": "https://freesound.org/people/alfonsseelen/sounds/475849/",
+    "titulo": "moped_entering_flat_block_overvecht.wav by alfonsseelen",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_moto/moped_entering_flat_block_overvecht.wav_by_alfonss_475849.mp3"
+   },
+   {
+    "id": "196694",
+    "autor": "soundmary",
+    "pagina": "https://freesound.org/people/soundmary/sounds/196694/",
+    "titulo": "moped passing in wet .mp3 by soundmary",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_moto/moped_passing_in_wet_.mp3_by_soundmary_196694.mp3"
+   },
+   {
+    "id": "816638",
+    "autor": "tieken",
+    "pagina": "https://freesound.org/people/tieken/sounds/816638/",
+    "titulo": "Moped hits garbage by tieken",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/cp2_moto/Moped_hits_garbage_by_tieken_816638.mp3"
+   },
+   {
+    "id": "161399",
+    "autor": "Tuben",
+    "pagina": "https://freesound.org/people/Tuben/sounds/161399/",
+    "titulo": "Old moped by Tuben",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/cp2_moto/Old_moped_by_Tuben_161399.mp3"
+   },
+   {
+    "id": "168768",
+    "autor": "Lydkulisse",
+    "pagina": "https://freesound.org/people/Lydkulisse/sounds/168768/",
+    "titulo": "Moped.WAV by Lydkulisse",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_moto/Moped.WAV_by_Lydkulisse_168768.mp3"
+   },
+   {
+    "id": "54901",
+    "autor": "Satoration",
+    "pagina": "https://freesound.org/people/Satoration/sounds/54901/",
+    "titulo": "drive by moped.wav by Satoration",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_moto/drive_by_moped.wav_by_Satoration_54901.mp3"
+   }
+  ],
+  "cp2_moto2": [
+   {
+    "id": "185580",
+    "autor": "lonemonk",
+    "pagina": "https://freesound.org/people/lonemonk/sounds/185580/",
+    "titulo": "Chainsaw Start Attempts.wav by lonemonk",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_moto2/Chainsaw_Start_Attempts.wav_by_lonemonk_185580.mp3"
+   },
+   {
+    "id": "753527",
+    "autor": "Mihacappy",
+    "pagina": "https://freesound.org/people/Mihacappy/sounds/753527/",
+    "titulo": "Two-stroke saw idling, revving, shutting off. by Mihacappy",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_moto2/Two-stroke_saw_idling_revving_shutting_off._by_Mih_753527.mp3"
+   },
+   {
+    "id": "740751",
+    "autor": "StePHan_Schmidt",
+    "pagina": "https://freesound.org/people/StePHan_Schmidt/sounds/740751/",
+    "titulo": "DKW F8-racing car with two-stroke engine starts, idling, off by StePHan_Schmidt",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/cp2_moto2/DKW_F8-racing_car_with_two-stroke_engine_starts_id_740751.mp3"
+   },
+   {
+    "id": "740711",
+    "autor": "StePHan_Schmidt",
+    "pagina": "https://freesound.org/people/StePHan_Schmidt/sounds/740711/",
+    "titulo": "DKW F8-racing car with two-stroke engine passes by by StePHan_Schmidt",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/cp2_moto2/DKW_F8-racing_car_with_two-stroke_engine_passes_by_740711.mp3"
+   },
+   {
+    "id": "740752",
+    "autor": "StePHan_Schmidt",
+    "pagina": "https://freesound.org/people/StePHan_Schmidt/sounds/740752/",
+    "titulo": "DKW F8-racing car with two-stroke engine starts, presses the gas pedal, off by StePHan_Schmidt",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/cp2_moto2/DKW_F8-racing_car_with_two-stroke_engine_starts_pr_740752.mp3"
+   },
+   {
+    "id": "414263",
+    "autor": "Silbad",
+    "pagina": "https://freesound.org/people/Silbad/sounds/414263/",
+    "titulo": "MZ ETZ250 motorcycle two-stroke engine by Silbad",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_moto2/MZ_ETZ250_motorcycle_two-stroke_engine_by_Silbad_414263.mp3"
+   }
+  ],
+  "cp2_moto3": [
+   {
+    "id": "148855",
+    "autor": "martian",
+    "pagina": "https://freesound.org/people/martian/sounds/148855/",
+    "titulo": "motorbike crm 250cc kick start rev engine.wav by martian",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_moto3/motorbike_crm_250cc_kick_start_rev_engine.wav_by_m_148855.mp3"
+   },
+   {
+    "id": "681593",
+    "autor": "overmedium",
+    "pagina": "https://freesound.org/people/overmedium/sounds/681593/",
+    "titulo": "high powered japanese bike quick burnout.1.wav by overmedium",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_moto3/high_powered_japanese_bike_quick_burnout.1.wav_by__681593.mp3"
+   },
+   {
+    "id": "197106",
+    "autor": "musicradiocreative",
+    "pagina": "https://freesound.org/people/musicradiocreative/sounds/197106/",
+    "titulo": "Motorbike Passing By by musicradiocreative",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_moto3/Motorbike_Passing_By_by_musicradiocreative_197106.mp3"
+   },
+   {
+    "id": "705363",
+    "autor": "mudflea2",
+    "pagina": "https://freesound.org/people/mudflea2/sounds/705363/",
+    "titulo": "Large backfiring motorbike passes by. by mudflea2",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_moto3/Large_backfiring_motorbike_passes_by._by_mudflea2_705363.mp3"
+   },
+   {
+    "id": "349152",
+    "autor": "inchadney",
+    "pagina": "https://freesound.org/people/inchadney/sounds/349152/",
+    "titulo": "distant motorcycle  from a forest.wav by inchadney",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/cp2_moto3/distant_motorcycle_from_a_forest.wav_by_inchadney_349152.mp3"
+   },
+   {
+    "id": "581101",
+    "autor": "AdrianoAnjos",
+    "pagina": "https://freesound.org/people/AdrianoAnjos/sounds/581101/",
+    "titulo": "Motorcycle goes by by AdrianoAnjos",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_moto3/Motorcycle_goes_by_by_AdrianoAnjos_581101.mp3"
+   },
+   {
+    "id": "815139",
+    "autor": "lapuafox",
+    "pagina": "https://freesound.org/people/lapuafox/sounds/815139/",
+    "titulo": "Kawasaki Versys 650cc &#x27;07 - Engine Work (Start / Stop) by lapuafox",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_moto3/Kawasaki_Versys_650cc_x27_07_-_Engine_Work_Start_S_815139.mp3"
+   },
+   {
+    "id": "517605",
+    "autor": "richwise",
+    "pagina": "https://freesound.org/people/richwise/sounds/517605/",
+    "titulo": "Single cylinder motorcycle exhaust through contact mics by richwise",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_moto3/Single_cylinder_motorcycle_exhaust_through_contact_517605.mp3"
+   }
+  ],
+  "cp2_moto4": [
+   {
+    "id": "587511",
+    "autor": "pkri",
+    "pagina": "https://freesound.org/people/pkri/sounds/587511/",
+    "titulo": "Electric Scooter Loop.WAV by pkri",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_moto4/Electric_Scooter_Loop.WAV_by_pkri_587511.mp3"
+   },
+   {
+    "id": "495386",
+    "autor": "killerrack8017",
+    "pagina": "https://freesound.org/people/killerrack8017/sounds/495386/",
+    "titulo": "Scooter start and go fast.WAV by killerrack8017",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/cp2_moto4/Scooter_start_and_go_fast.WAV_by_killerrack8017_495386.mp3"
+   },
+   {
+    "id": "495387",
+    "autor": "killerrack8017",
+    "pagina": "https://freesound.org/people/killerrack8017/sounds/495387/",
+    "titulo": "Scooter start and go slowly.WAV by killerrack8017",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/cp2_moto4/Scooter_start_and_go_slowly.WAV_by_killerrack8017_495387.mp3"
+   },
+   {
+    "id": "69759",
+    "autor": "sonsdebarcelona",
+    "pagina": "https://freesound.org/people/sonsdebarcelona/sounds/69759/",
+    "titulo": "scooter_outside_flat_0.wav by sonsdebarcelona",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/cp2_moto4/scooter_outside_flat_0.wav_by_sonsdebarcelona_69759.mp3"
+   },
+   {
+    "id": "111950",
+    "autor": "dobroide",
+    "pagina": "https://freesound.org/people/dobroide/sounds/111950/",
+    "titulo": "20101230_passing.scooter.wav by dobroide",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_moto4/20101230_passing.scooter.wav_by_dobroide_111950.mp3"
+   },
+   {
+    "id": "111949",
+    "autor": "dobroide",
+    "pagina": "https://freesound.org/people/dobroide/sounds/111949/",
+    "titulo": "20101230_passing.scooter.fast.wav by dobroide",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_moto4/20101230_passing.scooter.fast.wav_by_dobroide_111949.mp3"
+   },
+   {
+    "id": "509522",
+    "autor": "nickpursehouse",
+    "pagina": "https://freesound.org/people/nickpursehouse/sounds/509522/",
+    "titulo": "Scooter drive by .wav by nickpursehouse",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_moto4/Scooter_drive_by_.wav_by_nickpursehouse_509522.mp3"
+   },
+   {
+    "id": "697379",
+    "autor": "IENBA",
+    "pagina": "https://freesound.org/people/IENBA/sounds/697379/",
+    "titulo": "Electric Scooter by IENBA",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_moto4/Electric_Scooter_by_IENBA_697379.mp3"
+   }
+  ],
+  "cp2_amb": [
+   {
+    "id": "815437",
+    "autor": "designerschoice",
+    "pagina": "https://freesound.org/people/designerschoice/sounds/815437/",
+    "titulo": "AMBSprt-Samsung Galaxy Smartphone, MCU_Billiards Ambience, Break Shots, Teenage Boys Walla_Nicholas Judy_TDC by designerschoice",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_amb/AMBSprt-Samsung_Galaxy_Smartphone_MCU_Billiards_Am_815437.mp3"
+   },
+   {
+    "id": "364",
+    "autor": "plagasul",
+    "pagina": "https://freesound.org/people/plagasul/sounds/364/",
+    "titulo": "billar_2.mp3 by plagasul",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_amb/billar_2.mp3_by_plagasul_364.mp3"
+   },
+   {
+    "id": "99561",
+    "autor": "Tomlija",
+    "pagina": "https://freesound.org/people/Tomlija/sounds/99561/",
+    "titulo": "arcades (game room for kids).wav by Tomlija",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_amb/arcades_game_room_for_kids_.wav_by_Tomlija_99561.mp3"
+   },
+   {
+    "id": "830220",
+    "autor": "KVV_Audio",
+    "pagina": "https://freesound.org/people/KVV_Audio/sounds/830220/",
+    "titulo": "SPRTIndor_Billiard Balls And Triangle 01_KVV AUDIO_FREE by KVV_Audio",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_amb/SPRTIndor_Billiard_Balls_And_Triangle_01_KVV_AUDIO_830220.mp3"
+   }
+  ],
+  "cp2_amb2": [
+   {
+    "id": "516435",
+    "autor": "wolfdoctor",
+    "pagina": "https://freesound.org/people/wolfdoctor/sounds/516435/",
+    "titulo": "cafe-ambience.m4a by wolfdoctor",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_amb2/cafe-ambience.m4a_by_wolfdoctor_516435.mp3"
+   },
+   {
+    "id": "363713",
+    "autor": "AlexanderChe",
+    "pagina": "https://freesound.org/people/AlexanderChe/sounds/363713/",
+    "titulo": "ambience, cafe, burger king, city, Moscow by AlexanderChe",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_amb2/ambience_cafe_burger_king_city_Moscow_by_Alexander_363713.mp3"
+   },
+   {
+    "id": "746428",
+    "autor": "douglasbruce@look.ca",
+    "pagina": "https://freesound.org/people/douglasbruce@look.ca/sounds/746428/",
+    "titulo": "Miss Michelle&#x27;s cafe in Discovery Mountain -- small cafe ambience - room tone - small crowd by douglasbruce@look.ca",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_amb2/Miss_Michelle_x27_s_cafe_in_Discovery_Mountain_--__746428.mp3"
+   },
+   {
+    "id": "99632",
+    "autor": "Tomlija",
+    "pagina": "https://freesound.org/people/Tomlija/sounds/99632/",
+    "titulo": "small cafe ambience.wav by Tomlija",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_amb2/small_cafe_ambience.wav_by_Tomlija_99632.mp3"
+   },
+   {
+    "id": "427385",
+    "autor": "gautamkeswani",
+    "pagina": "https://freesound.org/people/gautamkeswani/sounds/427385/",
+    "titulo": "OPEN RESTAURANT AMBIENCE VERY LESS CROWD.WAV by gautamkeswani",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_amb2/OPEN_RESTAURANT_AMBIENCE_VERY_LESS_CROWD.WAV_by_ga_427385.mp3"
+   },
+   {
+    "id": "651259",
+    "autor": "AMPI_sound",
+    "pagina": "https://freesound.org/people/AMPI_sound/sounds/651259/",
+    "titulo": "ext_cafe_KahvilaKumpu_walla_park.wav by AMPI_sound",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/cp2_amb2/ext_cafe_KahvilaKumpu_walla_park.wav_by_AMPI_sound_651259.mp3"
+   },
+   {
+    "id": "33364",
+    "autor": "adroel",
+    "pagina": "https://freesound.org/people/adroel/sounds/33364/",
+    "titulo": "Coffeehouse Ambience Burlington VT 0112xx.wav by adroel",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_amb2/Coffeehouse_Ambience_Burlington_VT_0112xx.wav_by_a_33364.mp3"
+   },
+   {
+    "id": "823831",
+    "autor": "Ultra-Edward",
+    "pagina": "https://freesound.org/people/Ultra-Edward/sounds/823831/",
+    "titulo": "Cafe/Coffee shop by Ultra-Edward",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_amb2/Cafe_Coffee_shop_by_Ultra-Edward_823831.mp3"
+   }
+  ],
+  "cp2_amb3": [
+   {
+    "id": "797672",
+    "autor": "HenKonen",
+    "pagina": "https://freesound.org/people/HenKonen/sounds/797672/",
+    "titulo": "Swimming Hall ambience loop by HenKonen",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_amb3/Swimming_Hall_ambience_loop_by_HenKonen_797672.mp3"
+   }
+  ],
+  "cp2_cajon": [
+   {
+    "id": "319986",
+    "autor": "everythingsounds",
+    "pagina": "https://freesound.org/people/everythingsounds/sounds/319986/",
+    "titulo": "Flag Crash by everythingsounds",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_cajon/Flag_Crash_by_everythingsounds_319986.mp3"
+   }
+  ],
+  "cp2_cajon2": [
+   {
+    "id": "815442",
+    "autor": "designerschoice",
+    "pagina": "https://freesound.org/people/designerschoice/sounds/815442/",
+    "titulo": "FOLYProp-Samsung Galaxy Smartphone, CU_Billiards, Ball, Drop_Nicholas Judy_TDC by designerschoice",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_cajon2/FOLYProp-Samsung_Galaxy_Smartphone_CU_Billiards_Ba_815442.mp3"
+   },
+   {
+    "id": "851090",
+    "autor": "KVV_Audio",
+    "pagina": "https://freesound.org/people/KVV_Audio/sounds/851090/",
+    "titulo": "SPRTIndor-BILLIARDS_Dropping Ball In Pocket 01_KVV AUDIO_FREE by KVV_Audio",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/cp2_cajon2/SPRTIndor-BILLIARDS_Dropping_Ball_In_Pocket_01_KVV_851090.mp3"
+   },
+   {
+    "id": "443057",
+    "autor": "AmberdeMeillon",
+    "pagina": "https://freesound.org/people/AmberdeMeillon/sounds/443057/",
+    "titulo": "Inside_Pool_Table.WAV by AmberdeMeillon",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/cp2_cajon2/Inside_Pool_Table.WAV_by_AmberdeMeillon_443057.mp3"
+   }
+  ]
+ },
+ "objaverse": {
+  "cp_mesa_billar_a": {
+   "uid": "ea1b9673f09b4d809c90ab48b1eceb50",
+   "nombre": "cp_mesa_billar_a"
+  },
+  "cp_mesa_billar_b": {
+   "uid": "b36074d6923d4f658bc755c5fbef9f07",
+   "nombre": "cp_mesa_billar_b"
+  },
+  "cp_mesa_billar_c": {
+   "uid": "468aa9e803d14e719eb97da28f9d5026",
+   "nombre": "cp_mesa_billar_c"
+  },
+  "cp_pub_clasico": {
+   "uid": "e37ce0c718a141cf841a5fffc6576a8b",
+   "nombre": "cp_pub_clasico"
+  },
+  "cp_sala_billar": {
+   "uid": "79615d823a9149069dcd06c20bc9707f",
+   "nombre": "cp_sala_billar"
+  },
+  "cp_sala_snooker": {
+   "uid": "2eecdd3afb24477981f75a8063610b17",
+   "nombre": "cp_sala_snooker"
+  },
+  "cp_bolas_taco": {
+   "uid": "908fa2a7b4dd43359c0e1a07c0bf171d",
+   "nombre": "cp_bolas_taco"
+  },
+  "cp_moto_roja_vespa": {
+   "uid": "bb7549d851784b238b917ade58dad1c5",
+   "nombre": "cp_moto_roja_vespa"
+  },
+  "cp_moto_vieja_roja": {
+   "uid": "b0d453e026b24d8496b14a2fa046f457",
+   "nombre": "cp_moto_vieja_roja"
+  },
+  "cp_moto_moped": {
+   "uid": "a8f0d74334034ca1bcf397f21c26a4c3",
+   "nombre": "cp_moto_moped"
+  },
+  "cp_moto_piaggio": {
+   "uid": "fe75689a108744b7acf5003d677d4c8e",
+   "nombre": "cp_moto_piaggio"
+  },
+  "cp_bici_vieja": {
+   "uid": "17ab00cb733443a2b552a2b620a68087",
+   "nombre": "cp_bici_vieja"
+  },
+  "cp_bici_vintage": {
+   "uid": "1795f6e907634afda88fdaf45f67b279",
+   "nombre": "cp_bici_vintage"
+  },
+  "cp_mostrador_pub": {
+   "uid": "e3fe5390541649a0bb4dee299e3b07e7",
+   "nombre": "cp_mostrador_pub"
+  }
+ }
+}
