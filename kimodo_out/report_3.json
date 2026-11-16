@@ -1,11 +1,17 @@
 {
- "total_seconds": 117.5,
+ "total_seconds": 402.3,
  "jobs": [
   {
-   "name": "vc03_reir_camara_b",
-   "response": "OK\t90\t30",
-   "seconds": 117.4,
-   "frames": 90
+   "name": "vc21_apunalar_dos_manos_b",
+   "response": "OK\t120\t30",
+   "seconds": 202.3,
+   "frames": 120
+  },
+  {
+   "name": "vc31_explicar_serio_b",
+   "response": "OK\t120\t30",
+   "seconds": 200.0,
+   "frames": 120
   }
  ]
 }
