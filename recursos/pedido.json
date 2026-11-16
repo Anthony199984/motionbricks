@@ -1,70 +1,115 @@
 {
- "informe": "informe_ventana_busqueda2.json",
- "sketchfab_buscar": [
+ "informe": "informe_ventana_bajada1.json",
+ "objaverse": [
   {
-   "q": "realistic sheep",
-   "clave": "vv_oveja2",
-   "solo_objaverse": true,
-   "max": 30,
-   "paginas": 4
+   "uid": "18d5d6a265214b689f6065d4139fbb6a",
+   "nombre": "vv_comedero_madera",
+   "obra": "Feeding Trough. Low poly and game-ready.",
+   "autor": "hakan3d",
+   "licencia": "CC Attribution"
   },
   {
-   "q": "lamb animal",
-   "clave": "vv_oveja3",
-   "solo_objaverse": true,
-   "max": 30,
-   "paginas": 4
+   "uid": "186c3d0657a44e2ca04ea9544c453437",
+   "nombre": "vv_cubeta_metal",
+   "obra": "METAL BUCKET",
+   "autor": "eucocker",
+   "licencia": "CC Attribution"
   },
   {
-   "q": "sheep animated",
-   "clave": "vv_oveja4",
-   "solo_objaverse": true,
-   "max": 30,
-   "paginas": 4,
-   "animado": true
+   "uid": "d9e6ece6e7e84597bef214ce3b289acd",
+   "nombre": "vv_cubeta_galvanizada",
+   "obra": "Galvanised Steel Bucket",
+   "autor": "DJMiddi",
+   "licencia": "CC Attribution"
   },
   {
-   "q": "realistic goat",
-   "clave": "vv_chivo2",
-   "solo_objaverse": true,
-   "max": 30,
-   "paginas": 4
+   "uid": "6bda4bbea89f43bc9128e53ae350aa6f",
+   "nombre": "vv_embudo_metal",
+   "obra": "\"A\" funnel",
+   "autor": "Jan.Picka",
+   "licencia": "CC Attribution"
   },
   {
-   "q": "goat animated",
-   "clave": "vv_chivo3",
-   "solo_objaverse": true,
-   "max": 30,
-   "paginas": 4,
-   "animado": true
+   "uid": "6b775049e57e4d9da87977905493ebfb",
+   "nombre": "vv_heno_pacas",
+   "obra": "Hay Bales",
+   "autor": "FrodoUndead",
+   "licencia": "CC Attribution"
   },
   {
-   "q": "farm animals",
-   "clave": "vv_granja",
-   "solo_objaverse": true,
-   "max": 30,
-   "paginas": 4
+   "uid": "de765f660b5c4f3a891f78d6ba1c4ec5",
+   "nombre": "vv_heno_paca",
+   "obra": "Hay Bale",
+   "autor": "antoineallardchoquette",
+   "licencia": "CC Attribution"
   },
   {
-   "q": "barn",
-   "clave": "vv_establo3",
-   "solo_objaverse": true,
-   "max": 30,
-   "paginas": 4
+   "uid": "8fa9a06380df4268b549e345cf103696",
+   "nombre": "vv_cerca_a",
+   "obra": "woodfence",
+   "autor": "pasquill",
+   "licencia": "CC Attribution"
   },
   {
-   "q": "stable horse stall",
-   "clave": "vv_establo4",
-   "solo_objaverse": true,
-   "max": 30,
-   "paginas": 4
+   "uid": "35bccb49e5c748008749c6c4300959b0",
+   "nombre": "vv_cerca_b",
+   "obra": "Woodfence",
+   "autor": "pasquill",
+   "licencia": "CC Attribution"
   },
   {
-   "q": "cow barn",
-   "clave": "vv_establo5",
-   "solo_objaverse": true,
-   "max": 30,
-   "paginas": 4
+   "uid": "c2d7164e11544537b68a46e1afd1e9bf",
+   "nombre": "vv_establo_interior",
+   "obra": "Barn Interior and Exterior",
+   "autor": "dontshootnow",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "1d0b768a8e2449de990b3f69f94c5db6",
+   "nombre": "vv_establo_viejo",
+   "obra": "American Old Barn",
+   "autor": "andrewriddle",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "67abff7459f34afca11e3effab62c761",
+   "nombre": "vv_oveja_libre",
+   "obra": "Sheep",
+   "autor": "hendrikReyneke",
+   "licencia": "CC Attribution"
+  },
+  {
+   "uid": "2624ac2ce2364930ba2d5f70eb7aa1ea",
+   "nombre": "vv_chivo_libre",
+   "obra": "Goat",
+   "autor": "hendrikReyneke",
+   "licencia": "CC Attribution"
+  }
+ ],
+ "polyhaven": [
+  {
+   "id": "farm_field",
+   "res": "4k"
+  },
+  {
+   "id": "belfast_farmhouse",
+   "res": "4k"
+  },
+  {
+   "id": "hay_bales",
+   "res": "4k"
+  },
+  {
+   "id": "dirt_floor",
+   "res": "2k"
+  },
+  {
+   "id": "Barrel_01",
+   "res": "1k"
+  },
+  {
+   "id": "folding_wooden_stool",
+   "res": "1k"
   }
  ]
 }
