@@ -1,11 +1,11 @@
 {
- "total_seconds": 228.2,
+ "total_seconds": 177.3,
  "jobs": [
   {
-   "name": "cp_moto_a",
-   "response": "OK\t150\t30",
-   "seconds": 228.1,
-   "frames": 150
+   "name": "vc10_sentado_mesa_a",
+   "response": "OK\t105\t30",
+   "seconds": 177.2,
+   "frames": 105
   }
  ]
 }
