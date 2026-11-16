@@ -1,233 +1,116 @@
 {
  "catalogo": false,
- "informe": "informe_campeon_busqueda1.json",
- "sketchfab_buscar": [
+ "informe": "informe_campeon_bajada1.json",
+ "objaverse": [
   {
-   "clave": "cp1_mesa_billar",
-   "q": "pool table",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
+   "uid": "ea1b9673f09b4d809c90ab48b1eceb50",
+   "nombre": "cp_mesa_billar_a"
   },
   {
-   "clave": "cp1_mesa_billar2",
-   "q": "billiard table",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
+   "uid": "b36074d6923d4f658bc755c5fbef9f07",
+   "nombre": "cp_mesa_billar_b"
   },
   {
-   "clave": "cp1_taco",
-   "q": "pool cue",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
+   "uid": "468aa9e803d14e719eb97da28f9d5026",
+   "nombre": "cp_mesa_billar_c"
   },
   {
-   "clave": "cp1_billar_sala",
-   "q": "pool hall",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
+   "uid": "e37ce0c718a141cf841a5fffc6576a8b",
+   "nombre": "cp_pub_clasico"
   },
   {
-   "clave": "cp1_billar_sala2",
-   "q": "billiard room",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
+   "uid": "79615d823a9149069dcd06c20bc9707f",
+   "nombre": "cp_sala_billar"
   },
   {
-   "clave": "cp1_bar_interior",
-   "q": "bar interior",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
+   "uid": "2eecdd3afb24477981f75a8063610b17",
+   "nombre": "cp_sala_snooker"
   },
   {
-   "clave": "cp1_moto_vieja",
-   "q": "old motorcycle",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
+   "uid": "908fa2a7b4dd43359c0e1a07c0bf171d",
+   "nombre": "cp_bolas_taco"
   },
   {
-   "clave": "cp1_moto_cub",
-   "q": "honda cub",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
+   "uid": "bb7549d851784b238b917ade58dad1c5",
+   "nombre": "cp_moto_roja_vespa"
   },
   {
-   "clave": "cp1_scooter",
-   "q": "moped",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
+   "uid": "b0d453e026b24d8496b14a2fa046f457",
+   "nombre": "cp_moto_vieja_roja"
   },
   {
-   "clave": "cp1_moto_dt",
-   "q": "dirt bike",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
+   "uid": "a8f0d74334034ca1bcf397f21c26a4c3",
+   "nombre": "cp_moto_moped"
   },
   {
-   "clave": "cp1_bici",
-   "q": "bicycle",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
+   "uid": "fe75689a108744b7acf5003d677d4c8e",
+   "nombre": "cp_moto_piaggio"
   },
   {
-   "clave": "cp1_mostrador",
-   "q": "bar counter",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
+   "uid": "17ab00cb733443a2b552a2b620a68087",
+   "nombre": "cp_bici_vieja"
   },
   {
-   "clave": "cp1_llave_moto",
-   "q": "motorcycle key",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
+   "uid": "1795f6e907634afda88fdaf45f67b279",
+   "nombre": "cp_bici_vintage"
   },
   {
-   "clave": "cp1_tiza",
-   "q": "pool chalk",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
+   "uid": "e3fe5390541649a0bb4dee299e3b07e7",
+   "nombre": "cp_mostrador_pub"
   }
  ],
  "freesound_buscar": [
   {
-   "clave": "cp1_bola_madera",
-   "q": "marble rolling wood",
-   "max": 8
-  },
-  {
-   "clave": "cp1_bola_rodando",
-   "q": "ball rolling wooden track",
-   "max": 8
-  },
-  {
-   "clave": "cp1_billar_golpe",
-   "q": "billiard ball hit",
-   "max": 8
-  },
-  {
-   "clave": "cp1_billar_choque",
-   "q": "pool balls clack",
-   "max": 8
-  },
-  {
-   "clave": "cp1_compuerta",
-   "q": "wooden gate slam",
-   "max": 8
-  },
-  {
-   "clave": "cp1_madera_golpe",
-   "q": "wood knock single",
-   "max": 8
-  },
-  {
-   "clave": "cp1_tiza",
-   "q": "pool cue chalk",
-   "max": 8
-  },
-  {
-   "clave": "cp1_moto_2t",
-   "q": "moped rev two stroke",
+   "clave": "cp2_moto",
+   "q": "moped",
    "max": 8,
-   "filtro": "duration:[1 TO 25]"
+   "filtro": "duration:[1 TO 30]"
   },
   {
-   "clave": "cp1_moto_arranque",
-   "q": "scooter start rev",
+   "clave": "cp2_moto2",
+   "q": "two stroke engine",
    "max": 8,
-   "filtro": "duration:[1 TO 25]"
+   "filtro": "duration:[1 TO 30]"
   },
   {
-   "clave": "cp1_tos",
-   "q": "man coughing",
+   "clave": "cp2_moto3",
+   "q": "motorbike rev",
+   "max": 8,
+   "filtro": "duration:[1 TO 30]"
+  },
+  {
+   "clave": "cp2_moto4",
+   "q": "scooter engine",
+   "max": 8,
+   "filtro": "duration:[1 TO 30]"
+  },
+  {
+   "clave": "cp2_amb",
+   "q": "billiards ambience",
+   "max": 8,
+   "filtro": "duration:[10 TO 180]"
+  },
+  {
+   "clave": "cp2_amb2",
+   "q": "cafe ambience",
+   "max": 8,
+   "filtro": "duration:[10 TO 180]"
+  },
+  {
+   "clave": "cp2_amb3",
+   "q": "pool hall",
+   "max": 8,
+   "filtro": "duration:[5 TO 180]"
+  },
+  {
+   "clave": "cp2_cajon",
+   "q": "ball drop box",
    "max": 8
   },
   {
-   "clave": "cp1_ambiente_billar",
-   "q": "pool hall ambience",
-   "max": 8,
-   "filtro": "duration:[10 TO 120]"
-  },
-  {
-   "clave": "cp1_ambiente_bar",
-   "q": "bar ambience daytime",
-   "max": 8,
-   "filtro": "duration:[10 TO 120]"
-  },
-  {
-   "clave": "cp1_bola_cajon",
-   "q": "ball drop wooden box",
+   "clave": "cp2_cajon2",
+   "q": "billiard ball drop",
    "max": 8
-  }
- ],
- "polyhaven": [
-  {
-   "id": "billiard_hall",
-   "res": "2k"
-  },
-  {
-   "id": "german_town_street",
-   "res": "2k"
-  },
-  {
-   "id": "ceiling_fan",
-   "res": "2k"
-  },
-  {
-   "id": "bar_chair_round_01",
-   "res": "2k"
-  },
-  {
-   "id": "metal_stool_01",
-   "res": "2k"
-  },
-  {
-   "id": "dartboard",
-   "res": "2k"
-  },
-  {
-   "id": "dark_wood",
-   "res": "2k"
-  },
-  {
-   "id": "beige_wall_001",
-   "res": "2k"
-  },
-  {
-   "id": "painted_metal_shutter",
-   "res": "2k"
-  },
-  {
-   "id": "rusty_metal_shutter",
-   "res": "2k"
-  },
-  {
-   "id": "brown_floor_tiles",
-   "res": "2k"
-  },
-  {
-   "id": "concrete_floor_painted",
-   "res": "2k"
-  },
-  {
-   "id": "rough_linen",
-   "res": "2k"
-  },
-  {
-   "id": "kitchen_wood",
-   "res": "2k"
   }
  ]
 }
