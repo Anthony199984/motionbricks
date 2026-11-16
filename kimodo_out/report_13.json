@@ -1,10 +1,10 @@
 {
- "total_seconds": 113.1,
+ "total_seconds": 178.4,
  "jobs": [
   {
-   "name": "cp_bajar_palanca_b",
+   "name": "vc08_asomarse_b",
    "response": "OK\t90\t30",
-   "seconds": 113.0,
+   "seconds": 178.3,
    "frames": 90
   }
  ]
