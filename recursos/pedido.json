@@ -1,110 +1,70 @@
 {
- "catalogo": true,
- "informe": "informe_ventana_busqueda1.json",
+ "informe": "informe_ventana_busqueda2.json",
  "sketchfab_buscar": [
   {
-   "q": "sheep",
-   "clave": "vv_oveja",
+   "q": "realistic sheep",
+   "clave": "vv_oveja2",
    "solo_objaverse": true,
    "max": 30,
-   "paginas": 3
+   "paginas": 4
   },
   {
-   "q": "goat",
-   "clave": "vv_chivo",
+   "q": "lamb animal",
+   "clave": "vv_oveja3",
    "solo_objaverse": true,
    "max": 30,
-   "paginas": 3
+   "paginas": 4
   },
   {
-   "q": "barn interior",
-   "clave": "vv_establo",
+   "q": "sheep animated",
+   "clave": "vv_oveja4",
    "solo_objaverse": true,
    "max": 30,
-   "paginas": 3
+   "paginas": 4,
+   "animado": true
   },
   {
-   "q": "cow stall stable",
-   "clave": "vv_establo2",
+   "q": "realistic goat",
+   "clave": "vv_chivo2",
    "solo_objaverse": true,
    "max": 30,
-   "paginas": 3
+   "paginas": 4
   },
   {
-   "q": "metal bucket",
-   "clave": "vv_cubeta",
+   "q": "goat animated",
+   "clave": "vv_chivo3",
    "solo_objaverse": true,
    "max": 30,
-   "paginas": 3
+   "paginas": 4,
+   "animado": true
   },
   {
-   "q": "funnel",
-   "clave": "vv_embudo",
+   "q": "farm animals",
+   "clave": "vv_granja",
    "solo_objaverse": true,
    "max": 30,
-   "paginas": 3
+   "paginas": 4
   },
   {
-   "q": "feeding trough",
-   "clave": "vv_comedero",
+   "q": "barn",
+   "clave": "vv_establo3",
    "solo_objaverse": true,
    "max": 30,
-   "paginas": 3
+   "paginas": 4
   },
   {
-   "q": "hay bale",
-   "clave": "vv_heno",
+   "q": "stable horse stall",
+   "clave": "vv_establo4",
    "solo_objaverse": true,
    "max": 30,
-   "paginas": 3
+   "paginas": 4
   },
   {
-   "q": "farmer rigged",
-   "clave": "vv_granjero",
+   "q": "cow barn",
+   "clave": "vv_establo5",
    "solo_objaverse": true,
    "max": 30,
-   "paginas": 3
-  },
-  {
-   "q": "wooden fence farm",
-   "clave": "vv_cerca",
-   "solo_objaverse": true,
-   "max": 30,
-   "paginas": 3
-  }
- ],
- "freesound_buscar": [
-  {
-   "q": "cow chewing",
-   "clave": "vv_masticar"
-  },
-  {
-   "q": "cow moo",
-   "clave": "vv_mugido"
-  },
-  {
-   "q": "barn ambience",
-   "clave": "vv_ambiente_establo"
-  },
-  {
-   "q": "liquid splash bucket",
-   "clave": "vv_chapoteo"
-  },
-  {
-   "q": "rubber lid click",
-   "clave": "vv_clac_tapa"
-  },
-  {
-   "q": "cow snort",
-   "clave": "vv_resoplido"
-  },
-  {
-   "q": "sheep bleat",
-   "clave": "vv_oveja_balido"
-  },
-  {
-   "q": "goat bleat",
-   "clave": "vv_chivo_balido"
+   "paginas": 4
   }
  ]
 }
