@@ -1,11 +1,11 @@
 {
- "total_seconds": 212.7,
+ "total_seconds": 181.0,
  "jobs": [
   {
-   "name": "cs_senalar_salida",
-   "response": "OK\t120\t30",
-   "seconds": 212.6,
-   "frames": 120
+   "name": "cp_caminar_triste_b",
+   "response": "OK\t180\t30",
+   "seconds": 180.9,
+   "frames": 180
   }
  ]
 }
