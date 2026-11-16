@@ -1,10 +1,10 @@
 {
- "total_seconds": 150.3,
+ "total_seconds": 117.5,
  "jobs": [
   {
-   "name": "cp_gritar_b",
+   "name": "vc03_reir_camara_b",
    "response": "OK\t90\t30",
-   "seconds": 150.2,
+   "seconds": 117.4,
    "frames": 90
   }
  ]
