@@ -1,0 +1,917 @@
+[
+ {
+  "ini": 0.0,
+  "fin": 5.12,
+  "texto": "A esta vaca le clavaron un tubo de metal en el costado, y el gas le sale silbando.",
+  "palabras": [
+   {
+    "p": "A",
+    "ini": 0.0,
+    "fin": 0.24
+   },
+   {
+    "p": "esta",
+    "ini": 0.24,
+    "fin": 0.44
+   },
+   {
+    "p": "vaca",
+    "ini": 0.44,
+    "fin": 0.84
+   },
+   {
+    "p": "le",
+    "ini": 0.84,
+    "fin": 1.0
+   },
+   {
+    "p": "clavaron",
+    "ini": 1.0,
+    "fin": 1.38
+   },
+   {
+    "p": "un",
+    "ini": 1.38,
+    "fin": 1.56
+   },
+   {
+    "p": "tubo",
+    "ini": 1.56,
+    "fin": 1.94
+   },
+   {
+    "p": "de",
+    "ini": 1.94,
+    "fin": 2.06
+   },
+   {
+    "p": "metal",
+    "ini": 2.06,
+    "fin": 2.36
+   },
+   {
+    "p": "en",
+    "ini": 2.36,
+    "fin": 2.5
+   },
+   {
+    "p": "el",
+    "ini": 2.5,
+    "fin": 2.62
+   },
+   {
+    "p": "costado,",
+    "ini": 2.62,
+    "fin": 3.18
+   },
+   {
+    "p": "y",
+    "ini": 3.46,
+    "fin": 3.54
+   },
+   {
+    "p": "el",
+    "ini": 3.54,
+    "fin": 3.66
+   },
+   {
+    "p": "gas",
+    "ini": 3.66,
+    "fin": 3.96
+   },
+   {
+    "p": "le",
+    "ini": 3.96,
+    "fin": 4.2
+   },
+   {
+    "p": "sale",
+    "ini": 4.2,
+    "fin": 4.42
+   },
+   {
+    "p": "silbando.",
+    "ini": 4.42,
+    "fin": 5.12
+   }
+  ]
+ },
+ {
+  "ini": 5.56,
+  "fin": 8.52,
+  "texto": "Parece un ataque, pero sin ese tubo se moría.",
+  "palabras": [
+   {
+    "p": "Parece",
+    "ini": 5.56,
+    "fin": 5.86
+   },
+   {
+    "p": "un",
+    "ini": 5.86,
+    "fin": 6.06
+   },
+   {
+    "p": "ataque,",
+    "ini": 6.06,
+    "fin": 6.34
+   },
+   {
+    "p": "pero",
+    "ini": 6.72,
+    "fin": 6.98
+   },
+   {
+    "p": "sin",
+    "ini": 6.98,
+    "fin": 7.32
+   },
+   {
+    "p": "ese",
+    "ini": 7.32,
+    "fin": 7.48
+   },
+   {
+    "p": "tubo",
+    "ini": 7.48,
+    "fin": 7.92
+   },
+   {
+    "p": "se",
+    "ini": 7.92,
+    "fin": 8.14
+   },
+   {
+    "p": "moría.",
+    "ini": 8.14,
+    "fin": 8.52
+   }
+  ]
+ },
+ {
+  "ini": 9.08,
+  "fin": 12.98,
+  "texto": "Su panza fabrica gas todo el día, y la vaca lo tiene que eructar.",
+  "palabras": [
+   {
+    "p": "Su",
+    "ini": 9.08,
+    "fin": 9.24
+   },
+   {
+    "p": "panza",
+    "ini": 9.24,
+    "fin": 9.6
+   },
+   {
+    "p": "fabrica",
+    "ini": 9.6,
+    "fin": 10.04
+   },
+   {
+    "p": "gas",
+    "ini": 10.04,
+    "fin": 10.24
+   },
+   {
+    "p": "todo",
+    "ini": 10.24,
+    "fin": 10.66
+   },
+   {
+    "p": "el",
+    "ini": 10.66,
+    "fin": 10.9
+   },
+   {
+    "p": "día,",
+    "ini": 10.9,
+    "fin": 11.16
+   },
+   {
+    "p": "y",
+    "ini": 11.42,
+    "fin": 11.54
+   },
+   {
+    "p": "la",
+    "ini": 11.54,
+    "fin": 11.66
+   },
+   {
+    "p": "vaca",
+    "ini": 11.66,
+    "fin": 11.98
+   },
+   {
+    "p": "lo",
+    "ini": 11.98,
+    "fin": 12.14
+   },
+   {
+    "p": "tiene",
+    "ini": 12.14,
+    "fin": 12.34
+   },
+   {
+    "p": "que",
+    "ini": 12.34,
+    "fin": 12.52
+   },
+   {
+    "p": "eructar.",
+    "ini": 12.52,
+    "fin": 12.98
+   }
+  ]
+ },
+ {
+  "ini": 13.44,
+  "fin": 18.76,
+  "texto": "Pero ésta se trago entera una papa que se le atoró en la garganta y ya no podía eructar.",
+  "palabras": [
+   {
+    "p": "Pero",
+    "ini": 13.44,
+    "fin": 13.64
+   },
+   {
+    "p": "ésta",
+    "ini": 13.64,
+    "fin": 14.02
+   },
+   {
+    "p": "se",
+    "ini": 14.02,
+    "fin": 14.24
+   },
+   {
+    "p": "trago",
+    "ini": 14.24,
+    "fin": 14.52
+   },
+   {
+    "p": "entera",
+    "ini": 14.52,
+    "fin": 14.94
+   },
+   {
+    "p": "una",
+    "ini": 14.94,
+    "fin": 15.2
+   },
+   {
+    "p": "papa",
+    "ini": 15.2,
+    "fin": 15.52
+   },
+   {
+    "p": "que",
+    "ini": 15.52,
+    "fin": 15.84
+   },
+   {
+    "p": "se",
+    "ini": 15.84,
+    "fin": 15.98
+   },
+   {
+    "p": "le",
+    "ini": 15.98,
+    "fin": 16.1
+   },
+   {
+    "p": "atoró",
+    "ini": 16.1,
+    "fin": 16.44
+   },
+   {
+    "p": "en",
+    "ini": 16.44,
+    "fin": 16.52
+   },
+   {
+    "p": "la",
+    "ini": 16.52,
+    "fin": 16.64
+   },
+   {
+    "p": "garganta",
+    "ini": 16.64,
+    "fin": 17.14
+   },
+   {
+    "p": "y",
+    "ini": 17.14,
+    "fin": 17.52
+   },
+   {
+    "p": "ya",
+    "ini": 17.52,
+    "fin": 17.76
+   },
+   {
+    "p": "no",
+    "ini": 17.76,
+    "fin": 17.9
+   },
+   {
+    "p": "podía",
+    "ini": 17.9,
+    "fin": 18.22
+   },
+   {
+    "p": "eructar.",
+    "ini": 18.22,
+    "fin": 18.76
+   }
+  ]
+ },
+ {
+  "ini": 19.12,
+  "fin": 25.7,
+  "texto": "Así que la panza se le infló como un globo por el lado izquierdo, le aplastó los pulmones y la vaca empezó a jadear.",
+  "palabras": [
+   {
+    "p": "Así",
+    "ini": 19.12,
+    "fin": 19.32
+   },
+   {
+    "p": "que",
+    "ini": 19.32,
+    "fin": 19.46
+   },
+   {
+    "p": "la",
+    "ini": 19.46,
+    "fin": 19.58
+   },
+   {
+    "p": "panza",
+    "ini": 19.58,
+    "fin": 19.96
+   },
+   {
+    "p": "se",
+    "ini": 19.96,
+    "fin": 20.14
+   },
+   {
+    "p": "le",
+    "ini": 20.14,
+    "fin": 20.2
+   },
+   {
+    "p": "infló",
+    "ini": 20.2,
+    "fin": 20.54
+   },
+   {
+    "p": "como",
+    "ini": 20.54,
+    "fin": 20.72
+   },
+   {
+    "p": "un",
+    "ini": 20.72,
+    "fin": 20.92
+   },
+   {
+    "p": "globo",
+    "ini": 20.92,
+    "fin": 21.3
+   },
+   {
+    "p": "por",
+    "ini": 21.3,
+    "fin": 21.5
+   },
+   {
+    "p": "el",
+    "ini": 21.5,
+    "fin": 21.6
+   },
+   {
+    "p": "lado",
+    "ini": 21.6,
+    "fin": 21.8
+   },
+   {
+    "p": "izquierdo,",
+    "ini": 21.8,
+    "fin": 22.42
+   },
+   {
+    "p": "le",
+    "ini": 22.62,
+    "fin": 22.74
+   },
+   {
+    "p": "aplastó",
+    "ini": 22.74,
+    "fin": 23.22
+   },
+   {
+    "p": "los",
+    "ini": 23.22,
+    "fin": 23.4
+   },
+   {
+    "p": "pulmones",
+    "ini": 23.4,
+    "fin": 23.86
+   },
+   {
+    "p": "y",
+    "ini": 23.86,
+    "fin": 24.28
+   },
+   {
+    "p": "la",
+    "ini": 24.28,
+    "fin": 24.42
+   },
+   {
+    "p": "vaca",
+    "ini": 24.42,
+    "fin": 24.76
+   },
+   {
+    "p": "empezó",
+    "ini": 24.76,
+    "fin": 25.16
+   },
+   {
+    "p": "a",
+    "ini": 25.16,
+    "fin": 25.24
+   },
+   {
+    "p": "jadear.",
+    "ini": 25.24,
+    "fin": 25.7
+   }
+  ]
+ },
+ {
+  "ini": 25.7,
+  "fin": 29.66,
+  "texto": "Si nadie hace nada, se cae y en pocas horas se muere.",
+  "palabras": [
+   {
+    "p": "Si",
+    "ini": 25.7,
+    "fin": 26.34
+   },
+   {
+    "p": "nadie",
+    "ini": 26.34,
+    "fin": 26.64
+   },
+   {
+    "p": "hace",
+    "ini": 26.64,
+    "fin": 26.94
+   },
+   {
+    "p": "nada,",
+    "ini": 26.94,
+    "fin": 27.26
+   },
+   {
+    "p": "se",
+    "ini": 27.52,
+    "fin": 27.66
+   },
+   {
+    "p": "cae",
+    "ini": 27.66,
+    "fin": 28.08
+   },
+   {
+    "p": "y",
+    "ini": 28.08,
+    "fin": 28.28
+   },
+   {
+    "p": "en",
+    "ini": 28.28,
+    "fin": 28.44
+   },
+   {
+    "p": "pocas",
+    "ini": 28.44,
+    "fin": 28.76
+   },
+   {
+    "p": "horas",
+    "ini": 28.76,
+    "fin": 29.04
+   },
+   {
+    "p": "se",
+    "ini": 29.04,
+    "fin": 29.32
+   },
+   {
+    "p": "muere.",
+    "ini": 29.32,
+    "fin": 29.66
+   }
+  ]
+ },
+ {
+  "ini": 30.1,
+  "fin": 37.84,
+  "texto": "Por eso el veterinario le clava ese tubo hueco en el costado, el gas escapa, la vaca vuelve a respirar y después le sacan la papa.",
+  "palabras": [
+   {
+    "p": "Por",
+    "ini": 30.1,
+    "fin": 30.26
+   },
+   {
+    "p": "eso",
+    "ini": 30.26,
+    "fin": 30.48
+   },
+   {
+    "p": "el",
+    "ini": 30.48,
+    "fin": 30.64
+   },
+   {
+    "p": "veterinario",
+    "ini": 30.64,
+    "fin": 31.2
+   },
+   {
+    "p": "le",
+    "ini": 31.2,
+    "fin": 31.38
+   },
+   {
+    "p": "clava",
+    "ini": 31.38,
+    "fin": 31.64
+   },
+   {
+    "p": "ese",
+    "ini": 31.64,
+    "fin": 31.82
+   },
+   {
+    "p": "tubo",
+    "ini": 31.82,
+    "fin": 32.18
+   },
+   {
+    "p": "hueco",
+    "ini": 32.18,
+    "fin": 32.54
+   },
+   {
+    "p": "en",
+    "ini": 32.54,
+    "fin": 32.64
+   },
+   {
+    "p": "el",
+    "ini": 32.64,
+    "fin": 32.72
+   },
+   {
+    "p": "costado,",
+    "ini": 32.72,
+    "fin": 33.28
+   },
+   {
+    "p": "el",
+    "ini": 33.6,
+    "fin": 33.72
+   },
+   {
+    "p": "gas",
+    "ini": 33.72,
+    "fin": 33.9
+   },
+   {
+    "p": "escapa,",
+    "ini": 33.9,
+    "fin": 34.42
+   },
+   {
+    "p": "la",
+    "ini": 34.74,
+    "fin": 34.84
+   },
+   {
+    "p": "vaca",
+    "ini": 34.84,
+    "fin": 35.16
+   },
+   {
+    "p": "vuelve",
+    "ini": 35.16,
+    "fin": 35.54
+   },
+   {
+    "p": "a",
+    "ini": 35.54,
+    "fin": 35.64
+   },
+   {
+    "p": "respirar",
+    "ini": 35.64,
+    "fin": 36.2
+   },
+   {
+    "p": "y",
+    "ini": 36.2,
+    "fin": 36.54
+   },
+   {
+    "p": "después",
+    "ini": 36.54,
+    "fin": 36.86
+   },
+   {
+    "p": "le",
+    "ini": 36.86,
+    "fin": 37.14
+   },
+   {
+    "p": "sacan",
+    "ini": 37.14,
+    "fin": 37.48
+   },
+   {
+    "p": "la",
+    "ini": 37.48,
+    "fin": 37.6
+   },
+   {
+    "p": "papa.",
+    "ini": 37.6,
+    "fin": 37.84
+   }
+  ]
+ },
+ {
+  "ini": 38.42,
+  "fin": 39.62,
+  "texto": "Y hay algo más raro.",
+  "palabras": [
+   {
+    "p": "Y",
+    "ini": 38.42,
+    "fin": 38.56
+   },
+   {
+    "p": "hay",
+    "ini": 38.56,
+    "fin": 38.68
+   },
+   {
+    "p": "algo",
+    "ini": 38.68,
+    "fin": 38.92
+   },
+   {
+    "p": "más",
+    "ini": 38.92,
+    "fin": 39.24
+   },
+   {
+    "p": "raro.",
+    "ini": 39.24,
+    "fin": 39.62
+   }
+  ]
+ },
+ {
+  "ini": 40.08,
+  "fin": 47.48,
+  "texto": "Una vaca se puede morir igual solo por quedarse atrapada patas arriba en una sanja, porque en esa posición tampoco puede eructar.",
+  "palabras": [
+   {
+    "p": "Una",
+    "ini": 40.08,
+    "fin": 40.28
+   },
+   {
+    "p": "vaca",
+    "ini": 40.28,
+    "fin": 40.66
+   },
+   {
+    "p": "se",
+    "ini": 40.66,
+    "fin": 40.8
+   },
+   {
+    "p": "puede",
+    "ini": 40.8,
+    "fin": 41.0
+   },
+   {
+    "p": "morir",
+    "ini": 41.0,
+    "fin": 41.32
+   },
+   {
+    "p": "igual",
+    "ini": 41.32,
+    "fin": 41.66
+   },
+   {
+    "p": "solo",
+    "ini": 41.66,
+    "fin": 42.12
+   },
+   {
+    "p": "por",
+    "ini": 42.12,
+    "fin": 42.38
+   },
+   {
+    "p": "quedarse",
+    "ini": 42.38,
+    "fin": 42.74
+   },
+   {
+    "p": "atrapada",
+    "ini": 42.74,
+    "fin": 43.26
+   },
+   {
+    "p": "patas",
+    "ini": 43.26,
+    "fin": 43.7
+   },
+   {
+    "p": "arriba",
+    "ini": 43.7,
+    "fin": 44.02
+   },
+   {
+    "p": "en",
+    "ini": 44.02,
+    "fin": 44.18
+   },
+   {
+    "p": "una",
+    "ini": 44.18,
+    "fin": 44.3
+   },
+   {
+    "p": "sanja,",
+    "ini": 44.3,
+    "fin": 44.76
+   },
+   {
+    "p": "porque",
+    "ini": 45.1,
+    "fin": 45.2
+   },
+   {
+    "p": "en",
+    "ini": 45.2,
+    "fin": 45.38
+   },
+   {
+    "p": "esa",
+    "ini": 45.38,
+    "fin": 45.52
+   },
+   {
+    "p": "posición",
+    "ini": 45.52,
+    "fin": 46.02
+   },
+   {
+    "p": "tampoco",
+    "ini": 46.02,
+    "fin": 46.48
+   },
+   {
+    "p": "puede",
+    "ini": 46.48,
+    "fin": 46.98
+   },
+   {
+    "p": "eructar.",
+    "ini": 46.98,
+    "fin": 47.48
+   }
+  ]
+ },
+ {
+  "ini": 47.84,
+  "fin": 53.4,
+  "texto": "Así que lo que a ella casi la mata es no poder hacer algo que tú haces sin pensar, eructar.",
+  "palabras": [
+   {
+    "p": "Así",
+    "ini": 47.84,
+    "fin": 48.04
+   },
+   {
+    "p": "que",
+    "ini": 48.04,
+    "fin": 48.2
+   },
+   {
+    "p": "lo",
+    "ini": 48.2,
+    "fin": 48.32
+   },
+   {
+    "p": "que",
+    "ini": 48.32,
+    "fin": 48.44
+   },
+   {
+    "p": "a",
+    "ini": 48.44,
+    "fin": 48.54
+   },
+   {
+    "p": "ella",
+    "ini": 48.54,
+    "fin": 48.7
+   },
+   {
+    "p": "casi",
+    "ini": 48.7,
+    "fin": 49.08
+   },
+   {
+    "p": "la",
+    "ini": 49.08,
+    "fin": 49.3
+   },
+   {
+    "p": "mata",
+    "ini": 49.3,
+    "fin": 49.58
+   },
+   {
+    "p": "es",
+    "ini": 49.58,
+    "fin": 49.92
+   },
+   {
+    "p": "no",
+    "ini": 49.92,
+    "fin": 50.14
+   },
+   {
+    "p": "poder",
+    "ini": 50.14,
+    "fin": 50.42
+   },
+   {
+    "p": "hacer",
+    "ini": 50.42,
+    "fin": 50.66
+   },
+   {
+    "p": "algo",
+    "ini": 50.66,
+    "fin": 50.96
+   },
+   {
+    "p": "que",
+    "ini": 50.96,
+    "fin": 51.16
+   },
+   {
+    "p": "tú",
+    "ini": 51.16,
+    "fin": 51.42
+   },
+   {
+    "p": "haces",
+    "ini": 51.42,
+    "fin": 51.76
+   },
+   {
+    "p": "sin",
+    "ini": 51.76,
+    "fin": 51.94
+   },
+   {
+    "p": "pensar,",
+    "ini": 51.94,
+    "fin": 52.3
+   },
+   {
+    "p": "eructar.",
+    "ini": 52.82,
+    "fin": 53.4
+   }
+  ]
+ }
+]
