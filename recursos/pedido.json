@@ -1,27 +1,110 @@
 {
- "catalogo": false,
- "informe": "informe_vaca2_bajada2.json",
- "objaverse": [
+ "catalogo": true,
+ "informe": "informe_ventana_busqueda1.json",
+ "sketchfab_buscar": [
   {
-   "uid": "3dad0db69b7242bb87ab1847f500e72e",
-   "nombre": "v2_craneo_vaca",
-   "obra": "\u0427\u0435\u0440\u0435\u043f \u043a\u043e\u0440\u043e\u0432\u044b",
-   "autor": "Chursak",
-   "licencia": "CC Attribution"
+   "q": "sheep",
+   "clave": "vv_oveja",
+   "solo_objaverse": true,
+   "max": 30,
+   "paginas": 3
   },
   {
-   "uid": "e08e8ccef02f4c99948c8f4a3132c8fa",
-   "nombre": "v2_zopilote",
-   "obra": "Black Vulture",
-   "autor": "cmp_innovation_studio",
-   "licencia": "CC Attribution"
+   "q": "goat",
+   "clave": "vv_chivo",
+   "solo_objaverse": true,
+   "max": 30,
+   "paginas": 3
   },
   {
-   "uid": "4005811722a54afaba3d0c29d58b657d",
-   "nombre": "v2_zopilote_cabeza_roja",
-   "obra": "Turkey Vulture",
-   "autor": "cmp_innovation_studio",
-   "licencia": "CC Attribution"
+   "q": "barn interior",
+   "clave": "vv_establo",
+   "solo_objaverse": true,
+   "max": 30,
+   "paginas": 3
+  },
+  {
+   "q": "cow stall stable",
+   "clave": "vv_establo2",
+   "solo_objaverse": true,
+   "max": 30,
+   "paginas": 3
+  },
+  {
+   "q": "metal bucket",
+   "clave": "vv_cubeta",
+   "solo_objaverse": true,
+   "max": 30,
+   "paginas": 3
+  },
+  {
+   "q": "funnel",
+   "clave": "vv_embudo",
+   "solo_objaverse": true,
+   "max": 30,
+   "paginas": 3
+  },
+  {
+   "q": "feeding trough",
+   "clave": "vv_comedero",
+   "solo_objaverse": true,
+   "max": 30,
+   "paginas": 3
+  },
+  {
+   "q": "hay bale",
+   "clave": "vv_heno",
+   "solo_objaverse": true,
+   "max": 30,
+   "paginas": 3
+  },
+  {
+   "q": "farmer rigged",
+   "clave": "vv_granjero",
+   "solo_objaverse": true,
+   "max": 30,
+   "paginas": 3
+  },
+  {
+   "q": "wooden fence farm",
+   "clave": "vv_cerca",
+   "solo_objaverse": true,
+   "max": 30,
+   "paginas": 3
+  }
+ ],
+ "freesound_buscar": [
+  {
+   "q": "cow chewing",
+   "clave": "vv_masticar"
+  },
+  {
+   "q": "cow moo",
+   "clave": "vv_mugido"
+  },
+  {
+   "q": "barn ambience",
+   "clave": "vv_ambiente_establo"
+  },
+  {
+   "q": "liquid splash bucket",
+   "clave": "vv_chapoteo"
+  },
+  {
+   "q": "rubber lid click",
+   "clave": "vv_clac_tapa"
+  },
+  {
+   "q": "cow snort",
+   "clave": "vv_resoplido"
+  },
+  {
+   "q": "sheep bleat",
+   "clave": "vv_oveja_balido"
+  },
+  {
+   "q": "goat bleat",
+   "clave": "vv_chivo_balido"
   }
  ]
 }
