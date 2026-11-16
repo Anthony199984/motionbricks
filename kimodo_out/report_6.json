@@ -1,11 +1,11 @@
 {
- "total_seconds": 164.3,
+ "total_seconds": 179.6,
  "jobs": [
   {
-   "name": "cs_reventar_arriba_b",
-   "response": "OK\t90\t30",
-   "seconds": 164.2,
-   "frames": 90
+   "name": "cp_toser_a",
+   "response": "OK\t120\t30",
+   "seconds": 179.5,
+   "frames": 120
   }
  ]
 }
