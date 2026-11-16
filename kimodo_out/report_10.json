@@ -1,10 +1,10 @@
 {
- "total_seconds": 179.1,
+ "total_seconds": 252.7,
  "jobs": [
   {
-   "name": "cs_apuntar_dedo",
+   "name": "cp_reir_mujer_a",
    "response": "OK\t120\t30",
-   "seconds": 179.0,
+   "seconds": 252.6,
    "frames": 120
   }
  ]
