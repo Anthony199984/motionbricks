@@ -1,11 +1,11 @@
 {
- "total_seconds": 179.6,
+ "total_seconds": 148.1,
  "jobs": [
   {
-   "name": "cp_toser_a",
-   "response": "OK\t120\t30",
-   "seconds": 179.5,
-   "frames": 120
+   "name": "vc05_correr_a",
+   "response": "OK\t75\t30",
+   "seconds": 148.0,
+   "frames": 75
   }
  ]
 }
