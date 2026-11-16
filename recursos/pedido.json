@@ -1,233 +1,153 @@
 {
  "catalogo": false,
- "informe": "informe_campeon_busqueda1.json",
+ "informe": "informe_vaca_busqueda1.json",
  "sketchfab_buscar": [
   {
-   "clave": "cp1_mesa_billar",
-   "q": "pool table",
+   "clave": "vaca_animada",
+   "q": "cow",
    "solo_objaverse": true,
-   "paginas": 4,
+   "paginas": 5,
+   "max": 60,
+   "animado": true
+  },
+  {
+   "clave": "vaca_holstein",
+   "q": "holstein cow",
+   "solo_objaverse": true,
+   "paginas": 3,
    "max": 30
   },
   {
-   "clave": "cp1_mesa_billar2",
-   "q": "billiard table",
+   "clave": "vaca_rig",
+   "q": "cow rigged",
    "solo_objaverse": true,
-   "paginas": 4,
+   "paginas": 3,
    "max": 30
   },
   {
-   "clave": "cp1_taco",
-   "q": "pool cue",
+   "clave": "vaca_realista",
+   "q": "realistic cow",
    "solo_objaverse": true,
-   "paginas": 4,
+   "paginas": 3,
    "max": 30
   },
   {
-   "clave": "cp1_billar_sala",
-   "q": "pool hall",
+   "clave": "papa",
+   "q": "potato",
    "solo_objaverse": true,
-   "paginas": 4,
+   "paginas": 2,
    "max": 30
   },
   {
-   "clave": "cp1_billar_sala2",
-   "q": "billiard room",
+   "clave": "costal",
+   "q": "burlap sack",
    "solo_objaverse": true,
-   "paginas": 4,
+   "paginas": 2,
    "max": 30
   },
   {
-   "clave": "cp1_bar_interior",
-   "q": "bar interior",
+   "clave": "cerca",
+   "q": "wooden fence farm",
    "solo_objaverse": true,
-   "paginas": 4,
+   "paginas": 2,
    "max": 30
   },
   {
-   "clave": "cp1_moto_vieja",
-   "q": "old motorcycle",
+   "clave": "lata",
+   "q": "soda can",
    "solo_objaverse": true,
-   "paginas": 4,
+   "paginas": 2,
    "max": 30
   },
   {
-   "clave": "cp1_moto_cub",
-   "q": "honda cub",
+   "clave": "rumen",
+   "q": "cow stomach rumen",
    "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
-  },
-  {
-   "clave": "cp1_scooter",
-   "q": "moped",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
-  },
-  {
-   "clave": "cp1_moto_dt",
-   "q": "dirt bike",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
-  },
-  {
-   "clave": "cp1_bici",
-   "q": "bicycle",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
-  },
-  {
-   "clave": "cp1_mostrador",
-   "q": "bar counter",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
-  },
-  {
-   "clave": "cp1_llave_moto",
-   "q": "motorcycle key",
-   "solo_objaverse": true,
-   "paginas": 4,
-   "max": 30
-  },
-  {
-   "clave": "cp1_tiza",
-   "q": "pool chalk",
-   "solo_objaverse": true,
-   "paginas": 4,
+   "paginas": 1,
    "max": 30
   }
  ],
  "freesound_buscar": [
   {
-   "clave": "cp1_bola_madera",
-   "q": "marble rolling wood",
-   "max": 8
+   "clave": "silbido_gas",
+   "q": "gas hiss release short",
+   "max": 6
   },
   {
-   "clave": "cp1_bola_rodando",
-   "q": "ball rolling wooden track",
-   "max": 8
+   "clave": "resoplido_vaca",
+   "q": "cow snort",
+   "max": 6
   },
   {
-   "clave": "cp1_billar_golpe",
-   "q": "billiard ball hit",
-   "max": 8
+   "clave": "jadeo_vaca",
+   "q": "cow breathing heavy",
+   "max": 6
   },
   {
-   "clave": "cp1_billar_choque",
-   "q": "pool balls clack",
-   "max": 8
+   "clave": "eructo_vaca",
+   "q": "cow burp",
+   "max": 6
   },
   {
-   "clave": "cp1_compuerta",
-   "q": "wooden gate slam",
-   "max": 8
+   "clave": "mugido",
+   "q": "cow moo short",
+   "max": 6
   },
   {
-   "clave": "cp1_madera_golpe",
-   "q": "wood knock single",
-   "max": 8
+   "clave": "mordida",
+   "q": "crunch bite apple",
+   "max": 6
   },
   {
-   "clave": "cp1_tiza",
-   "q": "pool cue chalk",
-   "max": 8
+   "clave": "glup",
+   "q": "gulp swallow",
+   "max": 6
   },
   {
-   "clave": "cp1_moto_2t",
-   "q": "moped rev two stroke",
-   "max": 8,
-   "filtro": "duration:[1 TO 25]"
+   "clave": "golpe_sordo",
+   "q": "thud short",
+   "max": 6
   },
   {
-   "clave": "cp1_moto_arranque",
-   "q": "scooter start rev",
-   "max": 8,
-   "filtro": "duration:[1 TO 25]"
+   "clave": "tintineo",
+   "q": "metal tool clink",
+   "max": 6
   },
   {
-   "clave": "cp1_tos",
-   "q": "man coughing",
-   "max": 8
+   "clave": "pasos_pasto",
+   "q": "running footsteps grass",
+   "max": 6
   },
   {
-   "clave": "cp1_ambiente_billar",
-   "q": "pool hall ambience",
-   "max": 8,
-   "filtro": "duration:[10 TO 120]"
+   "clave": "burbujeo",
+   "q": "bubbles short",
+   "max": 6
   },
   {
-   "clave": "cp1_ambiente_bar",
-   "q": "bar ambience daytime",
-   "max": 8,
-   "filtro": "duration:[10 TO 120]"
+   "clave": "pop",
+   "q": "cork pop small",
+   "max": 6
   },
   {
-   "clave": "cp1_bola_cajon",
-   "q": "ball drop wooden box",
-   "max": 8
-  }
- ],
- "polyhaven": [
-  {
-   "id": "billiard_hall",
-   "res": "2k"
+   "clave": "eructo_humano",
+   "q": "burp funny",
+   "max": 6
   },
   {
-   "id": "german_town_street",
-   "res": "2k"
+   "clave": "whoosh",
+   "q": "whoosh swoosh short",
+   "max": 6
   },
   {
-   "id": "ceiling_fan",
-   "res": "2k"
+   "clave": "latido",
+   "q": "heartbeat single deep",
+   "max": 6
   },
   {
-   "id": "bar_chair_round_01",
-   "res": "2k"
-  },
-  {
-   "id": "metal_stool_01",
-   "res": "2k"
-  },
-  {
-   "id": "dartboard",
-   "res": "2k"
-  },
-  {
-   "id": "dark_wood",
-   "res": "2k"
-  },
-  {
-   "id": "beige_wall_001",
-   "res": "2k"
-  },
-  {
-   "id": "painted_metal_shutter",
-   "res": "2k"
-  },
-  {
-   "id": "rusty_metal_shutter",
-   "res": "2k"
-  },
-  {
-   "id": "brown_floor_tiles",
-   "res": "2k"
-  },
-  {
-   "id": "concrete_floor_painted",
-   "res": "2k"
-  },
-  {
-   "id": "rough_linen",
-   "res": "2k"
-  },
-  {
-   "id": "kitchen_wood",
-   "res": "2k"
+   "clave": "ambiente_campo",
+   "q": "countryside birds wind ambience",
+   "max": 4,
+   "filtro": "duration:[20 TO 300]"
   }
  ]
 }
