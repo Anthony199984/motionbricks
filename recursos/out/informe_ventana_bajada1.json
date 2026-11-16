@@ -1,0 +1,230 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/vv_comedero_madera.glb",
+   "mb": 2.69
+  },
+  {
+   "destino": "objaverse/vv_cubeta_metal.glb",
+   "mb": 3.51
+  },
+  {
+   "destino": "objaverse/vv_cubeta_galvanizada.glb",
+   "mb": 2.24
+  },
+  {
+   "destino": "objaverse/vv_embudo_metal.glb",
+   "mb": 1.53
+  },
+  {
+   "destino": "objaverse/vv_heno_pacas.glb",
+   "mb": 2.81
+  },
+  {
+   "destino": "objaverse/vv_heno_paca.glb",
+   "mb": 7.83
+  },
+  {
+   "destino": "objaverse/vv_cerca_a.glb",
+   "mb": 3.69
+  },
+  {
+   "destino": "objaverse/vv_cerca_b.glb",
+   "mb": 7.38
+  },
+  {
+   "destino": "objaverse/vv_establo_interior.glb",
+   "mb": 18.63
+  },
+  {
+   "destino": "objaverse/vv_establo_viejo.glb",
+   "mb": 0.98
+  },
+  {
+   "destino": "objaverse/vv_oveja_libre.glb",
+   "mb": 1.83
+  },
+  {
+   "destino": "objaverse/vv_chivo_libre.glb",
+   "mb": 2.39
+  },
+  {
+   "destino": "hdri/hay_bales_4k.hdr",
+   "mb": 22.44
+  },
+  {
+   "destino": "modelos/Barrel_01/Barrel_01_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/Barrel_01/Barrel_01.bin",
+   "mb": 0.08
+  },
+  {
+   "destino": "modelos/Barrel_01/textures/Barrel_01_explosive_diff_1k.jpg",
+   "mb": 0.17
+  },
+  {
+   "destino": "modelos/Barrel_01/textures/Barrel_01_explosive_nor_gl_1k.jpg",
+   "mb": 0.18
+  },
+  {
+   "destino": "modelos/Barrel_01/textures/Barrel_01_explosive_arm_1k.jpg",
+   "mb": 0.23
+  },
+  {
+   "destino": "modelos/folding_wooden_stool/folding_wooden_stool_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/folding_wooden_stool/textures/folding_wooden_stool_nor_gl_1k.jpg",
+   "mb": 0.69
+  },
+  {
+   "destino": "modelos/folding_wooden_stool/folding_wooden_stool.bin",
+   "mb": 0.18
+  },
+  {
+   "destino": "modelos/folding_wooden_stool/textures/folding_wooden_stool_diff_1k.jpg",
+   "mb": 0.63
+  },
+  {
+   "destino": "modelos/folding_wooden_stool/textures/folding_wooden_stool_arm_1k.jpg",
+   "mb": 0.65
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "vv_comedero_madera": {
+   "uid": "18d5d6a265214b689f6065d4139fbb6a",
+   "nombre": "vv_comedero_madera",
+   "obra": "Feeding Trough. Low poly and game-ready.",
+   "autor": "hakan3d",
+   "licencia": "CC Attribution"
+  },
+  "vv_cubeta_metal": {
+   "uid": "186c3d0657a44e2ca04ea9544c453437",
+   "nombre": "vv_cubeta_metal",
+   "obra": "METAL BUCKET",
+   "autor": "eucocker",
+   "licencia": "CC Attribution"
+  },
+  "vv_cubeta_galvanizada": {
+   "uid": "d9e6ece6e7e84597bef214ce3b289acd",
+   "nombre": "vv_cubeta_galvanizada",
+   "obra": "Galvanised Steel Bucket",
+   "autor": "DJMiddi",
+   "licencia": "CC Attribution"
+  },
+  "vv_embudo_metal": {
+   "uid": "6bda4bbea89f43bc9128e53ae350aa6f",
+   "nombre": "vv_embudo_metal",
+   "obra": "\"A\" funnel",
+   "autor": "Jan.Picka",
+   "licencia": "CC Attribution"
+  },
+  "vv_heno_pacas": {
+   "uid": "6b775049e57e4d9da87977905493ebfb",
+   "nombre": "vv_heno_pacas",
+   "obra": "Hay Bales",
+   "autor": "FrodoUndead",
+   "licencia": "CC Attribution"
+  },
+  "vv_heno_paca": {
+   "uid": "de765f660b5c4f3a891f78d6ba1c4ec5",
+   "nombre": "vv_heno_paca",
+   "obra": "Hay Bale",
+   "autor": "antoineallardchoquette",
+   "licencia": "CC Attribution"
+  },
+  "vv_cerca_a": {
+   "uid": "8fa9a06380df4268b549e345cf103696",
+   "nombre": "vv_cerca_a",
+   "obra": "woodfence",
+   "autor": "pasquill",
+   "licencia": "CC Attribution"
+  },
+  "vv_cerca_b": {
+   "uid": "35bccb49e5c748008749c6c4300959b0",
+   "nombre": "vv_cerca_b",
+   "obra": "Woodfence",
+   "autor": "pasquill",
+   "licencia": "CC Attribution"
+  },
+  "vv_establo_interior": {
+   "uid": "c2d7164e11544537b68a46e1afd1e9bf",
+   "nombre": "vv_establo_interior",
+   "obra": "Barn Interior and Exterior",
+   "autor": "dontshootnow",
+   "licencia": "CC Attribution"
+  },
+  "vv_establo_viejo": {
+   "uid": "1d0b768a8e2449de990b3f69f94c5db6",
+   "nombre": "vv_establo_viejo",
+   "obra": "American Old Barn",
+   "autor": "andrewriddle",
+   "licencia": "CC Attribution"
+  },
+  "vv_oveja_libre": {
+   "uid": "67abff7459f34afca11e3effab62c761",
+   "nombre": "vv_oveja_libre",
+   "obra": "Sheep",
+   "autor": "hendrikReyneke",
+   "licencia": "CC Attribution"
+  },
+  "vv_chivo_libre": {
+   "uid": "2624ac2ce2364930ba2d5f70eb7aa1ea",
+   "nombre": "vv_chivo_libre",
+   "obra": "Goat",
+   "autor": "hendrikReyneke",
+   "licencia": "CC Attribution"
+  }
+ },
+ "info": {
+  "farm_field": {
+   "nombre": "Farm Field",
+   "autores": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "belfast_farmhouse": {
+   "nombre": "Belfast Farmhouse",
+   "autores": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "hay_bales": {
+   "nombre": "Hay Bales",
+   "autores": {
+    "Grzegorz Wronkowski": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "dirt_floor": {
+   "nombre": "Dirt Floor",
+   "autores": {
+    "eye-candy.xyz": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "Barrel_01": {
+   "nombre": "Barrel_01",
+   "autores": {
+    "Jorge Camacho": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "folding_wooden_stool": {
+   "nombre": "Folding Wooden Stool",
+   "autores": {
+    "Ulan Cabanilla": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  }
+ }
+}
