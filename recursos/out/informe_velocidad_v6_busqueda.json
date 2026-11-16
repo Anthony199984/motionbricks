@@ -1,0 +1,2930 @@
+{
+ "bajados": [
+  {
+   "destino": "sonidos/fs_bat_wings/Fast_wings.wav_by_Cally06_365718.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/fs_bat_wings/Bat_Wings_Slow_by_Natty23_349224.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/fs_bat_wings/Bat_Wings_Fast_by_Natty23_349225.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/fs_bat_wings/WINGMisc-CU_Bat_Wings_Flapping_Nicholas_Judy_TDC_b_811528.mp3",
+   "mb": 0.27
+  },
+  {
+   "destino": "sonidos/fs_bat_wings/BatsFlap.wav_by_treyc_123912.mp3",
+   "mb": 0.23
+  },
+  {
+   "destino": "sonidos/fs_bat_wings/to_make_you_cry.mp3_by_HF2010_110488.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/fs_bat_call/thing.call.02.wav_by_dobroide_15229.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/fs_bat_call/Just_the_bats_from_AlienXXX_x27_s_Freesound_433734_450200.mp3",
+   "mb": 0.31
+  },
+  {
+   "destino": "sonidos/fs_bat_call/Morcegos_1_24-06-2018.wav_by_AlienXXX_433734.mp3",
+   "mb": 1.05
+  },
+  {
+   "destino": "sonidos/fs_bat_call/20070705.ultrasound.wav_by_dobroide_37231.mp3",
+   "mb": 0.37
+  },
+  {
+   "destino": "sonidos/fs_bat_call/Leisler_x27_s_Bat_Call_by_naturenotesuk_702992.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/fs_bat_call/Leisler_x27_s_Bat_with_Timing_Stretched_by_naturen_702993.mp3",
+   "mb": 0.29
+  },
+  {
+   "destino": "sonidos/fs_fly/Insects_-_Fly_Large_Bluebottle_Fly_Buzzing_at_a_Wi_835123.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/fs_fly/housefly_landing_on_or_buzzing_close_by_mic.wav_by_476077.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/fs_fly/houseflies_outside_near_mic_one_pass_each_channel._476079.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/fs_fly/houseflies_buzzing_flying_near_mic.wav_by_cognito__476080.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/fs_pasos_correr/Footsteps_-_sneakers_on_concrete_running_by_AlexMu_580432.mp3",
+   "mb": 0.25
+  },
+  {
+   "destino": "sonidos/fs_pasos_correr/Ambience_woman_walking_with_casual_shoes_by_Tonpix_466714.mp3",
+   "mb": 0.24
+  },
+  {
+   "destino": "sonidos/fs_pasos_correr/wood_10c_startassneakers_run.wav_by_sturmankin_273407.mp3",
+   "mb": 0.42
+  },
+  {
+   "destino": "sonidos/fs_pasos_correr2/Running_footsteps_on_pavement.WAV_by_thomasanthony_682771.mp3",
+   "mb": 0.24
+  },
+  {
+   "destino": "sonidos/fs_pasos_correr2/10742_running_on_pavement_loop.wav_by_Robinhood76_607058.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/fs_pasos_correr2/Fast_footsteps_by_mokasza_810169.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/fs_pasos_correr2/soft-foot-steps-gravel-leaves-dirt-pavement.wav_by_342475.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/fs_pasos_correr2/Running_Boots_on_Pavement.wav_by_Tdude9000_138337.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/fs_pasos_correr2/paving_09c_highheels_run.wav_by_sturmankin_273114.mp3",
+   "mb": 0.45
+  },
+  {
+   "destino": "sonidos/fs_concreto/artninja__custom_rock_impact_sound_pt4_03122026_by_847898.mp3",
+   "mb": 0.27
+  },
+  {
+   "destino": "sonidos/fs_escombros/Explosion_and_Rubble_Debris_by_deleted_user_188792_132929.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/fs_escombros/Explosion2.wav_by_steveygos93_80401.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/fs_escombros/artninja__custom_rock_impact_sound_pt4_03122026_by_847898.mp3",
+   "mb": 0.27
+  },
+  {
+   "destino": "sonidos/fs_escombros/custom_explosion_building_destruction_heavens_feel_837848.mp3",
+   "mb": 0.21
+  },
+  {
+   "destino": "sonidos/fs_escombros/Explosion.mp3_by_Yap_Audio_Production_218483.mp3",
+   "mb": 0.31
+  },
+  {
+   "destino": "sonidos/fs_vidrio/window_break_with_axe_glass_shatter_in_trailer.wav_452667.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/fs_vidrio/Slow_Motion_Glass_Shatter_by_bevibeldesign_349905.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/fs_vidrio/Glass_Break_by_unfa_221528.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/fs_vidrio/Shattering_Glass_Small_by_Czarcazas_330800.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/fs_vidrio/window_breaking_by_RangoAnimations_613879.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/fs_vidrio2/Glass_Large_Break_pacts_20.mp3_by_PNMCarrieRailfan_682056.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/fs_vidrio2/Breaking_Glass_02.wav_by_theplax_546669.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/fs_vidrio2/Glass.ogg_by_egomassive_536763.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/fs_vidrio2/Glass_Break_by_Natty23_322603.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/fs_vidrio2/Broken_Metallic.wav_by_datasoundsample_638636.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/fs_vidrio2/Big_Mirror_Crashing_in_Other_Room_by_egeexyz_701710.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/fs_whoosh/Day_12_12th_July_Robinhood76_Enhanced_Flyby_by_kwa_316658.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/fs_whoosh/05609_meteor_super_fast_whoosh.wav_by_Robinhood76_263670.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/fs_whoosh/Whoosh.wav_by__bepis_414422.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/fs_sonic/Cinema_quot_Sonic_Boom_quot_by_modusmogulus_785927.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/fs_sonic/Phased_Sonic_Boom.wav_by_Shark_Anthony_468904.mp3",
+   "mb": 0.25
+  },
+  {
+   "destino": "sonidos/fs_sonic/_Boom_Reverbed_Kick_09_by_waveplaySFX_353391.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/fs_sonic/Real_Steel_Chain-whip_Multiple_cracks_by_modusmogu_791469.mp3",
+   "mb": 0.18
+  },
+  {
+   "destino": "sonidos/fs_sonic/Jet_Plane_Flyby.flac_by_qubodup_189446.mp3",
+   "mb": 0.39
+  },
+  {
+   "destino": "sonidos/fs_sonic/Sonic_Boom_by_qubodup_182050.mp3",
+   "mb": 0.21
+  },
+  {
+   "destino": "sonidos/fs_viento/Strong_wind_by_lextrack_344887.mp3",
+   "mb": 0.43
+  },
+  {
+   "destino": "sonidos/fs_viento/Strong_Wind_Recorded_with_Soundfield_Microphone_Ma_376534.mp3",
+   "mb": 0.44
+  },
+  {
+   "destino": "sonidos/fs_viento/Ambience_Trees_Rustling_Wind_.wav.wav_by_Rucredo_352841.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/fs_viento/Strong_Wind_Sound_Scape_by_rentless_567887.mp3",
+   "mb": 0.24
+  },
+  {
+   "destino": "sonidos/fs_viento/Adriana_Lopez_-_Air_Draft_by_Acekat13X31_515687.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/fs_viento/Wind_and_Stones_5_sec_by_niharika.sharma_790323.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/fs_derrape/Rubber_Shoe_Squeak.wav_by_baidonovan_187343.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/fs_comer/Human_Chewing_Crunchy_Food.wav_by_CashCarlo_594357.mp3",
+   "mb": 0.36
+  },
+  {
+   "destino": "sonidos/fs_comer/Crunchy_chewing_sounds_by_DineoMichelle_366531.mp3",
+   "mb": 0.22
+  },
+  {
+   "destino": "sonidos/fs_comer/Crunchy_cookie_eating.wav_by_Morgan169_362024.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/fs_comer/Dog_Eating_Pellets.wav_by_TaXMaNFoReVeR_325423.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/fs_comer/Male_-_Chewing_and_Swallowing_Peanuts_by_shorzie_407688.mp3",
+   "mb": 0.29
+  },
+  {
+   "destino": "sonidos/fs_comer/EatingCereal_MasticandoCereal.wav_by_rimolvo_381329.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/fs_perro/Jazz_the_Dog_Howl_amp_Bark_052_.wav_by_delphidebra_236281.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/fs_perro/dog_tripple_bark_by_crazymonke9_418108.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/fs_perro/Animal_Dog_Bark_And_Growl_01.wav_by_abhisheky948_625501.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/fs_perro/Dog_Bark_9_by_AleXZavesa_853723.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/fs_perro/Barking_Inez_2_by_wateenfotos_749351.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/fs_perro/Some_dogs_barking_close_to_a_road_in_Anatolia_Turk_166489.mp3",
+   "mb": 0.37
+  },
+  {
+   "destino": "sonidos/fs_latido/Heartbeat_Fast_by_Poyekhali_254366.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/fs_latido/heartbeat_sub_kick_-_soft_by_music_is_wiggly_air_784657.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/fs_latido/Heartbeat_loop_by_.name_418866.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/fs_latido/Heartbeat_97_BPM_by_Cloud-10_688735.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/fs_latido/Heartbeat_5sec_Int.wav_by_Benboncan_108207.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/fs_latido/FastHeartbeat_by_current11_130969.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/fs_reloj/Ticking_Smiths_car_clock_by_nightcustard_675681.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/fs_reloj/ClockTicks.wav_by_daveincamas_27077.mp3",
+   "mb": 0.4
+  },
+  {
+   "destino": "sonidos/fs_reloj/Old_clock_ticking_by_giddster_414469.mp3",
+   "mb": 0.28
+  },
+  {
+   "destino": "sonidos/fs_reloj/Old_Scots_Clock_-_Ticking.wav_by_fauxpress_42139.mp3",
+   "mb": 0.21
+  },
+  {
+   "destino": "sonidos/fs_reloj/Old_Clock_Ticking_by_differentieel_245455.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/fs_reloj/MantelClockTicks.wav_by_daveincamas_27086.mp3",
+   "mb": 0.33
+  },
+  {
+   "destino": "sonidos/fs_calle/City_Park_Ambience_At_Night_4.wav_by_Joao_Janz_473717.mp3",
+   "mb": 0.39
+  },
+  {
+   "destino": "sonidos/fs_calle/ambience_in_car_by_rayjensen_347224.mp3",
+   "mb": 0.27
+  },
+  {
+   "destino": "sonidos/fs_calle/Crowd_Noise_1.wav_by_iamazerrad_274349.mp3",
+   "mb": 0.33
+  },
+  {
+   "destino": "sonidos/fs_calle/City_Street_by_NachtmahrTV_553248.mp3",
+   "mb": 0.33
+  },
+  {
+   "destino": "sonidos/fs_calle/City_Street_Station_Underground_Sci-Fi_200906_0050_534197.mp3",
+   "mb": 0.34
+  },
+  {
+   "destino": "sonidos/fs_calle/ambience_street_traffic_city_Moscow_by_AlexanderCh_362948.mp3",
+   "mb": 0.36
+  },
+  {
+   "destino": "sonidos/fs_explosion_aire/EXPLReal_Air_Explosion_Medium_Distance_KVV_AUDIO_F_871382.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/fs_explosion_aire/MagicSpellBlast_by_Akkaittou_828566.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/fs_explosion_aire/AMBWar_Explosion_Of_A_russian_Drone_In_A_Ukrainian_788692.mp3",
+   "mb": 0.34
+  },
+  {
+   "destino": "sonidos/fs_tela/Fabric_Flapping_by_IENBA_701647.mp3",
+   "mb": 0.3
+  },
+  {
+   "destino": "sonidos/fs_tela/Cloth_Flapping.m4a_by_TheScarlettWitch89_414980.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/fs_tela/flapping_cloth.wav_by_memuse_280205.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/fs_tela/cloth_flaps_1_by_exe2be_512740.mp3",
+   "mb": 0.38
+  },
+  {
+   "destino": "sonidos/fs_tela/cloth_flap_by_ssierra1202_391945.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/fs_cafe/Close-Up_Stream_Droplets_Flowing_Water_Details_by__846435.mp3",
+   "mb": 0.35
+  },
+  {
+   "destino": "sonidos/fs_cafe/waterdrop24.wav_by_junggle_30341.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/fs_cafe/Liquid_pour_splash_stream_water_short_pour_with_sm_561895.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/fs_cafe/4_Small_Splashes_by_AardsReal_845132.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/fs_cafe/small_puddle_splash_sound_effect_by_Garuda1982_540886.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/fs_cafe/Small_Water_Splash_by_qubodup_737233.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/fs_atrapar/Ice_cubes_in_glass_SoundAction_287_by_alexarje_863265.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "miniaturas/hamburguesa/3b0493f7f22540c0844d01b3e10061ff.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/hamburguesa/b4cc15417d58445ebb698229d6161e61.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hamburguesa/770128b2b9a34c2382a2acf02c444bf2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hamburguesa/270f10c6726c41f18b1227d5b91c303b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hamburguesa/23283a2bceb74739b55d694d2dd496d9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hamburguesa/2842f313c108426f87f68ff2cb07472f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hamburguesa/78c2e8cba66e4f5294cec5aa05c9d431.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/hamburguesa/47196b81811f40239607dbd9932493f8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hamburguesa/fc5a7e79ce0a4ace89aeb619fe23ce09.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hamburguesa/1b0eeaab628740baae7ee2d19a4b8d2e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hamburguesa/6e922d8eed31401db5b179bfd1e68c55.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hamburguesa/7aeeaa237c6a48c39d0aeef7fc845ecb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hamburguesa/ef7953557f80427eadd539e9b0bb328a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/hamburguesa/39da584798ba49729a0476545f16281f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hamburguesa/6720e7157e06453f9c687669c9c63b45.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hamburguesa/5b3cd8affce1488a85406ab91c8c6850.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/486238438ec64c3cb64d607a30d1a9e6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/2b251df3fcdf4cf4b483633699928953.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/5b19b3bb03ed4a0c846f208b708bf24c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/b8c251d79e104922bc0497a5d2fdf822.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/2ee2003561cd42789f6346ed1b65b2ef.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/85844bda9a644ca7a3cda149648fd87d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/8175832c9f0f45559de7aff797940d3e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/7de0fd39416e4910a28fc23d3c887d53.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/e0ac9a382e324e3788b1639392880cd9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/a2fa4669998949cbb707e4c1ae417c87.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/65aa07867e914c5190d5e9e88ae8b78d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/a9d532b128ea4f37bdf268c6c8814710.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/4a8bcaa5acf94372a369406abae94833.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/1ed4046fcad74f4d88defd3d01c646b9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/pizza/f3bbda4323964957b92af7220a77a232.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/pizza/c4560059b71e4db1aca2facc2070b927.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/refresco/986050ad95ca444caa07026c033e548a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papas/50665c944e4e4979b9df5582b393a2b2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papas/bef5383eb98b48528b2d82d8887b5bb4.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papas/6e922d8eed31401db5b179bfd1e68c55.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papas/8f7eed849eab4f2fac4f5e62dee7b89e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papas/de02148574c5434e80187d35378d1b8a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papas/ed31ca1893f544b2a966adc0cfaac9e6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papas/e108079799d746809f898619890b6606.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papas/d5bd8273db9e4c08aea9acbd358c11c4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papas/e0a7acc2ec9f459a8cfe94f461a077ce.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papas/51a0806ac1674209baa6dd89d830d1a8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papas/b1a1d9930aaf45f2b956595ad6696c75.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papas/78dab21165564c6fb52f2413797617e7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papas/50fdb54bae1f48dda53aff7223ce5d63.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papas/3c816b08e259455c9ee7fcda5f8004cb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papas/ddc0b228be5a492eb6013cc614fbc316.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papas/8812373fbfcb469c9c9547258663ca45.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hotdog/d363905ab6db442789acf06e031e2b21.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/hotdog/435326b23a6240f48c2a48140522aa08.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/hotdog/ee0e2b6eaef242d0b3d088dfca4759b8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hotdog/c8f9a79080f944258b97771335c194cd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hotdog/56362b438ebe4574bcd3f2761e39763a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/hotdog/a0ed270ea43d465387ea91f2a7e5fa62.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/hotdog/6b27ad69291f406687504ba0a46132d4.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/maniqui/0c5cf6b017ba48f1bb32244ae1fefd2d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/bf37b98b99534ed2b5eb4507f0564e1d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/maniqui/08eadd84d8584641852295c6fd7c9c4a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/077bbe07d52f44c18ef9f30422d50ee5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/5e9898a1ac2048d89fbcdfdb55f8c6b0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/3d9fadc51d1f41168a970a3c34b81e7b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/666f485199db43488b14035f2a3840bf.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/maniqui/89318577f3464e368b2a3507b22c3af1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/edce03ca9ee8410b8e0485504597389b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/2e6aeadba1ad4092b0cd5a054aef00e9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/maniqui/7c733dceb2e04c4fb7e7dbd85316c1e7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/2f67c4384e7f4a5b86d84ae9199b7d3b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/63b3a3b35e9242d2b914064af26bf7fe.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/maniqui/a488272c15cc4aa5898c28e5141e939d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/maniqui/1c7a83c0832a4ab28d9f1a46d282fcf9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/maniqui/6353b94707ae4e799509364efb4480c1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/tienda_ropa/23b8d684376b4f3084e16185e3499750.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/tienda_ropa/c8d6912dc26340768dfaca1a83c4dd5e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/tienda_ropa/0f7bf798d5db400cae5f4ac3c1bdf1ca.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/tienda_ropa/e7a03de4e430450697f06884e40b927c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/tienda_ropa/2e167d18d42a4a04b73eb6cb2c9bd509.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/tienda_ropa/54a6f40161f34793aae2ce2495ccef54.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/tienda_ropa/e01e6f89f678461391761e44838c2548.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/tienda_ropa/3bf2dd8224ee42e8ac9b77033e604d15.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/tienda_ropa/775375ae59be45dc9d7dcde1bc87a07f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/estante/4aeb9d62cde942a9804172af11321d2c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/estante/25bc95297f9f4e36891bf00600860936.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/estante/2ccdb7d410dd4bd09615d271f01bbd41.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/estante/f55cfc1258ce49a984a1ec7416c9c51d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/estante/3ccdb45b8d254e218db70c492063459a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/estante/0b3bc81b4a4d4f0db0a86685f83e2148.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/tienda/9ddbc5b32da94bafbfdb56e1f6be9a38.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/tienda/6hiH0iyDqXqtdD9wbqSbyLLhKmz.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/tienda/d679af35b5694301a185c7454a700c73.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/tienda/938d3e3642cf4ea895c62c2a4bf6fc08.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/tienda/f15037dd5fcd4f09b13fb9f2ce9e21cc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/tienda/e97dce00ae5549a8a3795e06bc2cfc96.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/tienda/f2637e8e70264eae8694643afd195bfb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/tienda/f70732dbd53c4c9daef0b9904d51dd5a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/tienda/f200b7941c034c75a4dd8983283467ef.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/tienda/3908d8b3ef3c4e98a6689b90a1f0ecf3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/tienda/8aa4be20bbae4786b3f996a786dc5b8f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/tienda/b07306d348a44991ae7d0bbcff95fe90.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/tienda/5c66489569294dac93215877dcda0b83.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/tienda/57d92ac969194335b1649c3152065b22.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/tienda/c4b8e2aa8c0c4533b37674857665f296.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/tienda/841205af630444da911fa7a2e8541a16.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/zapatos_tienda/9229ddcda83d4461a762d83e88ba493e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/zapatos_tienda/e7a03de4e430450697f06884e40b927c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zapatos_tienda/2692cc377baf4031b288aeaa58154bba.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/zapatos_tienda/a46681f25d914b25819dd65e50f3fe04.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/zapatos_tienda/375f9faf7fd241a8abfb6df819527ae6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/zapatos_tienda/0b217223b8514b64afc2d320456413e4.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/zapatos_tienda/43398219eded4f8a8b6a24ab32f1fea7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/cm_bat/Bat.nav_buzz.20250704_204120.flac",
+   "mb": 0.36
+  },
+  {
+   "destino": "sonidos/cm_bat/Bat_feeding_buzz.wav",
+   "mb": 0.59
+  },
+  {
+   "destino": "sonidos/cm_bat/Hoary_bat_chirp_recording.wav",
+   "mb": 1.83
+  },
+  {
+   "destino": "sonidos/cm_bat/Keoka_ultrasound_various1.ogg",
+   "mb": 0.37
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "freesound": {
+  "fs_bat_wings": [
+   {
+    "id": "365718",
+    "autor": "Cally06",
+    "pagina": "https://freesound.org/people/Cally06/sounds/365718/",
+    "titulo": "Fast wings.wav by Cally06",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_bat_wings/Fast_wings.wav_by_Cally06_365718.mp3"
+   },
+   {
+    "id": "349224",
+    "autor": "Natty23",
+    "pagina": "https://freesound.org/people/Natty23/sounds/349224/",
+    "titulo": "Bat Wings (Slow) by Natty23",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_bat_wings/Bat_Wings_Slow_by_Natty23_349224.mp3"
+   },
+   {
+    "id": "349225",
+    "autor": "Natty23",
+    "pagina": "https://freesound.org/people/Natty23/sounds/349225/",
+    "titulo": "Bat Wings (Fast) by Natty23",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_bat_wings/Bat_Wings_Fast_by_Natty23_349225.mp3"
+   },
+   {
+    "id": "811528",
+    "autor": "designerschoice",
+    "pagina": "https://freesound.org/people/designerschoice/sounds/811528/",
+    "titulo": "WINGMisc-CU_Bat Wings, Flapping_Nicholas Judy_TDC by designerschoice",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_bat_wings/WINGMisc-CU_Bat_Wings_Flapping_Nicholas_Judy_TDC_b_811528.mp3"
+   },
+   {
+    "id": "123912",
+    "autor": "treyc",
+    "pagina": "https://freesound.org/people/treyc/sounds/123912/",
+    "titulo": "BatsFlap.wav by treyc",
+    "licencia": "?",
+    "archivo": "sonidos/fs_bat_wings/BatsFlap.wav_by_treyc_123912.mp3"
+   },
+   {
+    "id": "110488",
+    "autor": "HF2010",
+    "pagina": "https://freesound.org/people/HF2010/sounds/110488/",
+    "titulo": "to make you cry.mp3 by HF2010",
+    "licencia": "?",
+    "archivo": "sonidos/fs_bat_wings/to_make_you_cry.mp3_by_HF2010_110488.mp3"
+   }
+  ],
+  "fs_bat_call": [
+   {
+    "id": "15229",
+    "autor": "dobroide",
+    "pagina": "https://freesound.org/people/dobroide/sounds/15229/",
+    "titulo": "thing.call.02.wav by dobroide",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_bat_call/thing.call.02.wav_by_dobroide_15229.mp3"
+   },
+   {
+    "id": "450200",
+    "autor": "Timbre",
+    "pagina": "https://freesound.org/people/Timbre/sounds/450200/",
+    "titulo": "Just the bats from AlienXXX&#x27;s Freesound#433734.flac by Timbre",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_bat_call/Just_the_bats_from_AlienXXX_x27_s_Freesound_433734_450200.mp3"
+   },
+   {
+    "id": "433734",
+    "autor": "AlienXXX",
+    "pagina": "https://freesound.org/people/AlienXXX/sounds/433734/",
+    "titulo": "Morcegos_1_24-06-2018.wav by AlienXXX",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_bat_call/Morcegos_1_24-06-2018.wav_by_AlienXXX_433734.mp3"
+   },
+   {
+    "id": "37231",
+    "autor": "dobroide",
+    "pagina": "https://freesound.org/people/dobroide/sounds/37231/",
+    "titulo": "20070705.ultrasound.wav by dobroide",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_bat_call/20070705.ultrasound.wav_by_dobroide_37231.mp3"
+   },
+   {
+    "id": "702992",
+    "autor": "naturenotesuk",
+    "pagina": "https://freesound.org/people/naturenotesuk/sounds/702992/",
+    "titulo": "Leisler&#x27;s Bat Call by naturenotesuk",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_bat_call/Leisler_x27_s_Bat_Call_by_naturenotesuk_702992.mp3"
+   },
+   {
+    "id": "702993",
+    "autor": "naturenotesuk",
+    "pagina": "https://freesound.org/people/naturenotesuk/sounds/702993/",
+    "titulo": "Leisler&#x27;s Bat with Timing Stretched by naturenotesuk",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_bat_call/Leisler_x27_s_Bat_with_Timing_Stretched_by_naturen_702993.mp3"
+   }
+  ],
+  "fs_fly": [
+   {
+    "id": "835123",
+    "autor": "TheKingOfGeeks360",
+    "pagina": "https://freesound.org/people/TheKingOfGeeks360/sounds/835123/",
+    "titulo": "Insects - Fly; Large Bluebottle Fly Buzzing at a Window; Close Perspective by TheKingOfGeeks360",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_fly/Insects_-_Fly_Large_Bluebottle_Fly_Buzzing_at_a_Wi_835123.mp3"
+   },
+   {
+    "id": "476077",
+    "autor": "cognito%20perceptu",
+    "pagina": "https://freesound.org/people/cognito%20perceptu/sounds/476077/",
+    "titulo": "housefly landing on or buzzing close by mic.wav by cognito perceptu",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_fly/housefly_landing_on_or_buzzing_close_by_mic.wav_by_476077.mp3"
+   },
+   {
+    "id": "476079",
+    "autor": "cognito%20perceptu",
+    "pagina": "https://freesound.org/people/cognito%20perceptu/sounds/476079/",
+    "titulo": "houseflies outside near mic  one pass each channel.wav by cognito perceptu",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_fly/houseflies_outside_near_mic_one_pass_each_channel._476079.mp3"
+   },
+   {
+    "id": "476080",
+    "autor": "cognito%20perceptu",
+    "pagina": "https://freesound.org/people/cognito%20perceptu/sounds/476080/",
+    "titulo": "houseflies buzzing flying near mic.wav by cognito perceptu",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_fly/houseflies_buzzing_flying_near_mic.wav_by_cognito__476080.mp3"
+   }
+  ],
+  "fs_pasos_correr": [
+   {
+    "id": "580432",
+    "autor": "AlexMurphy53",
+    "pagina": "https://freesound.org/people/AlexMurphy53/sounds/580432/",
+    "titulo": "Footsteps - sneakers on concrete (running) by AlexMurphy53",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_pasos_correr/Footsteps_-_sneakers_on_concrete_running_by_AlexMu_580432.mp3"
+   },
+   {
+    "id": "466714",
+    "autor": "Tonpixs",
+    "pagina": "https://freesound.org/people/Tonpixs/sounds/466714/",
+    "titulo": "Ambience woman walking with casual shoes by Tonpixs",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_pasos_correr/Ambience_woman_walking_with_casual_shoes_by_Tonpix_466714.mp3"
+   },
+   {
+    "id": "273407",
+    "autor": "sturmankin",
+    "pagina": "https://freesound.org/people/sturmankin/sounds/273407/",
+    "titulo": "wood_10c_startassneakers_run.wav by sturmankin",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_pasos_correr/wood_10c_startassneakers_run.wav_by_sturmankin_273407.mp3"
+   }
+  ],
+  "fs_pasos_correr2": [
+   {
+    "id": "682771",
+    "autor": "thomasanthony321",
+    "pagina": "https://freesound.org/people/thomasanthony321/sounds/682771/",
+    "titulo": "Running footsteps on pavement.WAV by thomasanthony321",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_pasos_correr2/Running_footsteps_on_pavement.WAV_by_thomasanthony_682771.mp3"
+   },
+   {
+    "id": "607058",
+    "autor": "Robinhood76",
+    "pagina": "https://freesound.org/people/Robinhood76/sounds/607058/",
+    "titulo": "10742 running on pavement loop.wav by Robinhood76",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_pasos_correr2/10742_running_on_pavement_loop.wav_by_Robinhood76_607058.mp3"
+   },
+   {
+    "id": "810169",
+    "autor": "mokasza",
+    "pagina": "https://freesound.org/people/mokasza/sounds/810169/",
+    "titulo": "Fast footsteps by mokasza",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_pasos_correr2/Fast_footsteps_by_mokasza_810169.mp3"
+   },
+   {
+    "id": "342475",
+    "autor": "newagesoup",
+    "pagina": "https://freesound.org/people/newagesoup/sounds/342475/",
+    "titulo": "soft-foot-steps-gravel-leaves-dirt-pavement.wav by newagesoup",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_pasos_correr2/soft-foot-steps-gravel-leaves-dirt-pavement.wav_by_342475.mp3"
+   },
+   {
+    "id": "138337",
+    "autor": "Tdude9000",
+    "pagina": "https://freesound.org/people/Tdude9000/sounds/138337/",
+    "titulo": "Running_Boots_on_Pavement.wav by Tdude9000",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_pasos_correr2/Running_Boots_on_Pavement.wav_by_Tdude9000_138337.mp3"
+   },
+   {
+    "id": "273114",
+    "autor": "sturmankin",
+    "pagina": "https://freesound.org/people/sturmankin/sounds/273114/",
+    "titulo": "paving_09c_highheels_run.wav by sturmankin",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_pasos_correr2/paving_09c_highheels_run.wav_by_sturmankin_273114.mp3"
+   }
+  ],
+  "fs_concreto": [
+   {
+    "id": "847898",
+    "autor": "Artninja",
+    "pagina": "https://freesound.org/people/Artninja/sounds/847898/",
+    "titulo": "artninja__custom_rock_impact_sound_pt4_03122026 by Artninja",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_concreto/artninja__custom_rock_impact_sound_pt4_03122026_by_847898.mp3"
+   }
+  ],
+  "fs_escombros": [
+   {
+    "id": "132929",
+    "autor": "deleted_user_1887925",
+    "pagina": "https://freesound.org/people/deleted_user_1887925/sounds/132929/",
+    "titulo": "Explosion and Rubble/Debris by deleted_user_1887925",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_escombros/Explosion_and_Rubble_Debris_by_deleted_user_188792_132929.mp3"
+   },
+   {
+    "id": "80401",
+    "autor": "steveygos93",
+    "pagina": "https://freesound.org/people/steveygos93/sounds/80401/",
+    "titulo": "Explosion2.wav by steveygos93",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_escombros/Explosion2.wav_by_steveygos93_80401.mp3"
+   },
+   {
+    "id": "847898",
+    "autor": "Artninja",
+    "pagina": "https://freesound.org/people/Artninja/sounds/847898/",
+    "titulo": "artninja__custom_rock_impact_sound_pt4_03122026 by Artninja",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_escombros/artninja__custom_rock_impact_sound_pt4_03122026_by_847898.mp3"
+   },
+   {
+    "id": "837848",
+    "autor": "Artninja",
+    "pagina": "https://freesound.org/people/Artninja/sounds/837848/",
+    "titulo": "custom_explosion_building_destruction_heavens_feel_12082025 by Artninja",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_escombros/custom_explosion_building_destruction_heavens_feel_837848.mp3"
+   },
+   {
+    "id": "218483",
+    "autor": "Yap_Audio_Production",
+    "pagina": "https://freesound.org/people/Yap_Audio_Production/sounds/218483/",
+    "titulo": "Explosion.mp3 by Yap_Audio_Production",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_escombros/Explosion.mp3_by_Yap_Audio_Production_218483.mp3"
+   }
+  ],
+  "fs_vidrio": [
+   {
+    "id": "452667",
+    "autor": "kyles",
+    "pagina": "https://freesound.org/people/kyles/sounds/452667/",
+    "titulo": "window break with axe glass shatter in trailer.wav by kyles",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_vidrio/window_break_with_axe_glass_shatter_in_trailer.wav_452667.mp3"
+   },
+   {
+    "id": "349905",
+    "autor": "bevibeldesign",
+    "pagina": "https://freesound.org/people/bevibeldesign/sounds/349905/",
+    "titulo": "Slow Motion Glass Shatter by bevibeldesign",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_vidrio/Slow_Motion_Glass_Shatter_by_bevibeldesign_349905.mp3"
+   },
+   {
+    "id": "214341",
+    "autor": "edhutschek",
+    "pagina": "https://freesound.org/people/edhutschek/sounds/214341/",
+    "titulo": "214341",
+    "licencia": "?"
+   },
+   {
+    "id": "221528",
+    "autor": "unfa",
+    "pagina": "https://freesound.org/people/unfa/sounds/221528/",
+    "titulo": "Glass Break by unfa",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_vidrio/Glass_Break_by_unfa_221528.mp3"
+   },
+   {
+    "id": "330800",
+    "autor": "Czarcazas",
+    "pagina": "https://freesound.org/people/Czarcazas/sounds/330800/",
+    "titulo": "Shattering Glass (Small) by Czarcazas",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_vidrio/Shattering_Glass_Small_by_Czarcazas_330800.mp3"
+   },
+   {
+    "id": "613879",
+    "autor": "RangoAnimations",
+    "pagina": "https://freesound.org/people/RangoAnimations/sounds/613879/",
+    "titulo": "window breaking by RangoAnimations",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_vidrio/window_breaking_by_RangoAnimations_613879.mp3"
+   }
+  ],
+  "fs_vidrio2": [
+   {
+    "id": "682056",
+    "autor": "PNMCarrieRailfan",
+    "pagina": "https://freesound.org/people/PNMCarrieRailfan/sounds/682056/",
+    "titulo": "Glass Large Break pacts 20.mp3 by PNMCarrieRailfan",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_vidrio2/Glass_Large_Break_pacts_20.mp3_by_PNMCarrieRailfan_682056.mp3"
+   },
+   {
+    "id": "546669",
+    "autor": "theplax",
+    "pagina": "https://freesound.org/people/theplax/sounds/546669/",
+    "titulo": "Breaking Glass 02.wav by theplax",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_vidrio2/Breaking_Glass_02.wav_by_theplax_546669.mp3"
+   },
+   {
+    "id": "536763",
+    "autor": "egomassive",
+    "pagina": "https://freesound.org/people/egomassive/sounds/536763/",
+    "titulo": "Glass.ogg by egomassive",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_vidrio2/Glass.ogg_by_egomassive_536763.mp3"
+   },
+   {
+    "id": "322603",
+    "autor": "Natty23",
+    "pagina": "https://freesound.org/people/Natty23/sounds/322603/",
+    "titulo": "Glass Break by Natty23",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_vidrio2/Glass_Break_by_Natty23_322603.mp3"
+   },
+   {
+    "id": "638636",
+    "autor": "datasoundsample",
+    "pagina": "https://freesound.org/people/datasoundsample/sounds/638636/",
+    "titulo": "Broken Metallic.wav by datasoundsample",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_vidrio2/Broken_Metallic.wav_by_datasoundsample_638636.mp3"
+   },
+   {
+    "id": "701710",
+    "autor": "egeexyz",
+    "pagina": "https://freesound.org/people/egeexyz/sounds/701710/",
+    "titulo": "Big Mirror Crashing in Other Room by egeexyz",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_vidrio2/Big_Mirror_Crashing_in_Other_Room_by_egeexyz_701710.mp3"
+   }
+  ],
+  "fs_whoosh": [
+   {
+    "id": "316658",
+    "autor": "kwahmah_02",
+    "pagina": "https://freesound.org/people/kwahmah_02/sounds/316658/",
+    "titulo": "Day 12 12th July Robinhood76 Enhanced Flyby by kwahmah_02",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_whoosh/Day_12_12th_July_Robinhood76_Enhanced_Flyby_by_kwa_316658.mp3"
+   },
+   {
+    "id": "263670",
+    "autor": "Robinhood76",
+    "pagina": "https://freesound.org/people/Robinhood76/sounds/263670/",
+    "titulo": "05609 meteor super fast whoosh.wav by Robinhood76",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_whoosh/05609_meteor_super_fast_whoosh.wav_by_Robinhood76_263670.mp3"
+   },
+   {
+    "id": "414422",
+    "autor": "_bepis",
+    "pagina": "https://freesound.org/people/_bepis/sounds/414422/",
+    "titulo": "Whoosh.wav by _bepis",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_whoosh/Whoosh.wav_by__bepis_414422.mp3"
+   }
+  ],
+  "fs_sonic": [
+   {
+    "id": "785927",
+    "autor": "modusmogulus",
+    "pagina": "https://freesound.org/people/modusmogulus/sounds/785927/",
+    "titulo": "Cinema &quot;Sonic Boom&quot; by modusmogulus",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_sonic/Cinema_quot_Sonic_Boom_quot_by_modusmogulus_785927.mp3"
+   },
+   {
+    "id": "468904",
+    "autor": "Shark_Anthony",
+    "pagina": "https://freesound.org/people/Shark_Anthony/sounds/468904/",
+    "titulo": "Phased Sonic Boom.wav by Shark_Anthony",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_sonic/Phased_Sonic_Boom.wav_by_Shark_Anthony_468904.mp3"
+   },
+   {
+    "id": "353391",
+    "autor": "waveplaySFX",
+    "pagina": "https://freesound.org/people/waveplaySFX/sounds/353391/",
+    "titulo": "[Boom] Reverbed Kick 09 by waveplaySFX",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_sonic/_Boom_Reverbed_Kick_09_by_waveplaySFX_353391.mp3"
+   },
+   {
+    "id": "791469",
+    "autor": "modusmogulus",
+    "pagina": "https://freesound.org/people/modusmogulus/sounds/791469/",
+    "titulo": "Real Steel Chain-whip  (Multiple cracks) by modusmogulus",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_sonic/Real_Steel_Chain-whip_Multiple_cracks_by_modusmogu_791469.mp3"
+   },
+   {
+    "id": "189446",
+    "autor": "qubodup",
+    "pagina": "https://freesound.org/people/qubodup/sounds/189446/",
+    "titulo": "Jet Plane Flyby.flac by qubodup",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_sonic/Jet_Plane_Flyby.flac_by_qubodup_189446.mp3"
+   },
+   {
+    "id": "182050",
+    "autor": "qubodup",
+    "pagina": "https://freesound.org/people/qubodup/sounds/182050/",
+    "titulo": "Sonic Boom by qubodup",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_sonic/Sonic_Boom_by_qubodup_182050.mp3"
+   }
+  ],
+  "fs_viento": [
+   {
+    "id": "344887",
+    "autor": "lextrack",
+    "pagina": "https://freesound.org/people/lextrack/sounds/344887/",
+    "titulo": "Strong wind by lextrack",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_viento/Strong_wind_by_lextrack_344887.mp3"
+   },
+   {
+    "id": "376534",
+    "autor": "keirofinch",
+    "pagina": "https://freesound.org/people/keirofinch/sounds/376534/",
+    "titulo": "Strong Wind Recorded with Soundfield Microphone Manchester 2 by keirofinch",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_viento/Strong_Wind_Recorded_with_Soundfield_Microphone_Ma_376534.mp3"
+   },
+   {
+    "id": "352841",
+    "autor": "Rucredo",
+    "pagina": "https://freesound.org/people/Rucredo/sounds/352841/",
+    "titulo": "Ambience Trees Rustling [Wind].wav.wav by Rucredo",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_viento/Ambience_Trees_Rustling_Wind_.wav.wav_by_Rucredo_352841.mp3"
+   },
+   {
+    "id": "567887",
+    "autor": "rentless",
+    "pagina": "https://freesound.org/people/rentless/sounds/567887/",
+    "titulo": "Strong Wind Sound Scape by rentless",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_viento/Strong_Wind_Sound_Scape_by_rentless_567887.mp3"
+   },
+   {
+    "id": "515687",
+    "autor": "Acekat13X31",
+    "pagina": "https://freesound.org/people/Acekat13X31/sounds/515687/",
+    "titulo": "Adriana Lopez - Air Draft by Acekat13X31",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_viento/Adriana_Lopez_-_Air_Draft_by_Acekat13X31_515687.mp3"
+   },
+   {
+    "id": "790323",
+    "autor": "niharika.sharma",
+    "pagina": "https://freesound.org/people/niharika.sharma/sounds/790323/",
+    "titulo": "Wind and Stones 5 sec by niharika.sharma",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_viento/Wind_and_Stones_5_sec_by_niharika.sharma_790323.mp3"
+   }
+  ],
+  "fs_derrape": [
+   {
+    "id": "187343",
+    "autor": "baidonovan",
+    "pagina": "https://freesound.org/people/baidonovan/sounds/187343/",
+    "titulo": "Rubber Shoe Squeak.wav by baidonovan",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_derrape/Rubber_Shoe_Squeak.wav_by_baidonovan_187343.mp3"
+   }
+  ],
+  "fs_frenazo": [],
+  "fs_comer": [
+   {
+    "id": "594357",
+    "autor": "CashCarlo",
+    "pagina": "https://freesound.org/people/CashCarlo/sounds/594357/",
+    "titulo": "Human Chewing Crunchy Food.wav by CashCarlo",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_comer/Human_Chewing_Crunchy_Food.wav_by_CashCarlo_594357.mp3"
+   },
+   {
+    "id": "366531",
+    "autor": "DineoMichelle",
+    "pagina": "https://freesound.org/people/DineoMichelle/sounds/366531/",
+    "titulo": "Crunchy chewing sounds by DineoMichelle",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_comer/Crunchy_chewing_sounds_by_DineoMichelle_366531.mp3"
+   },
+   {
+    "id": "362024",
+    "autor": "Morgan169",
+    "pagina": "https://freesound.org/people/Morgan169/sounds/362024/",
+    "titulo": "Crunchy cookie eating.wav by Morgan169",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_comer/Crunchy_cookie_eating.wav_by_Morgan169_362024.mp3"
+   },
+   {
+    "id": "325423",
+    "autor": "TaXMaNFoReVeR",
+    "pagina": "https://freesound.org/people/TaXMaNFoReVeR/sounds/325423/",
+    "titulo": "Dog Eating Pellets.wav by TaXMaNFoReVeR",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_comer/Dog_Eating_Pellets.wav_by_TaXMaNFoReVeR_325423.mp3"
+   },
+   {
+    "id": "407688",
+    "autor": "shorzie",
+    "pagina": "https://freesound.org/people/shorzie/sounds/407688/",
+    "titulo": "Male - Chewing and Swallowing (Peanuts) by shorzie",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_comer/Male_-_Chewing_and_Swallowing_Peanuts_by_shorzie_407688.mp3"
+   },
+   {
+    "id": "381329",
+    "autor": "rimolvo",
+    "pagina": "https://freesound.org/people/rimolvo/sounds/381329/",
+    "titulo": "EatingCereal_MasticandoCereal.wav by rimolvo",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_comer/EatingCereal_MasticandoCereal.wav_by_rimolvo_381329.mp3"
+   }
+  ],
+  "fs_perro": [
+   {
+    "id": "236281",
+    "autor": "delphidebrain",
+    "pagina": "https://freesound.org/people/delphidebrain/sounds/236281/",
+    "titulo": "Jazz the Dog Howl &amp; Bark (052).wav by delphidebrain",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_perro/Jazz_the_Dog_Howl_amp_Bark_052_.wav_by_delphidebra_236281.mp3"
+   },
+   {
+    "id": "418108",
+    "autor": "crazymonke9",
+    "pagina": "https://freesound.org/people/crazymonke9/sounds/418108/",
+    "titulo": "dog tripple bark by crazymonke9",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_perro/dog_tripple_bark_by_crazymonke9_418108.mp3"
+   },
+   {
+    "id": "625501",
+    "autor": "abhisheky948",
+    "pagina": "https://freesound.org/people/abhisheky948/sounds/625501/",
+    "titulo": "Animal Dog Bark And Growl 01.wav by abhisheky948",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_perro/Animal_Dog_Bark_And_Growl_01.wav_by_abhisheky948_625501.mp3"
+   },
+   {
+    "id": "853723",
+    "autor": "AleXZavesa",
+    "pagina": "https://freesound.org/people/AleXZavesa/sounds/853723/",
+    "titulo": "Dog Bark 9 by AleXZavesa",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_perro/Dog_Bark_9_by_AleXZavesa_853723.mp3"
+   },
+   {
+    "id": "749351",
+    "autor": "wateenfotos",
+    "pagina": "https://freesound.org/people/wateenfotos/sounds/749351/",
+    "titulo": "Barking Inez 2 by wateenfotos",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_perro/Barking_Inez_2_by_wateenfotos_749351.mp3"
+   },
+   {
+    "id": "166489",
+    "autor": "felix.blume",
+    "pagina": "https://freesound.org/people/felix.blume/sounds/166489/",
+    "titulo": "Some dogs barking close to a road in Anatolia (Turkey) by felix.blume",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_perro/Some_dogs_barking_close_to_a_road_in_Anatolia_Turk_166489.mp3"
+   }
+  ],
+  "fs_latido": [
+   {
+    "id": "254366",
+    "autor": "Poyekhali",
+    "pagina": "https://freesound.org/people/Poyekhali/sounds/254366/",
+    "titulo": "Heartbeat Fast by Poyekhali",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_latido/Heartbeat_Fast_by_Poyekhali_254366.mp3"
+   },
+   {
+    "id": "784657",
+    "autor": "music_is_wiggly_air",
+    "pagina": "https://freesound.org/people/music_is_wiggly_air/sounds/784657/",
+    "titulo": "heartbeat sub kick - soft by music_is_wiggly_air",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_latido/heartbeat_sub_kick_-_soft_by_music_is_wiggly_air_784657.mp3"
+   },
+   {
+    "id": "418866",
+    "autor": ".name",
+    "pagina": "https://freesound.org/people/.name/sounds/418866/",
+    "titulo": "Heartbeat loop by .name",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_latido/Heartbeat_loop_by_.name_418866.mp3"
+   },
+   {
+    "id": "688735",
+    "autor": "Cloud-10",
+    "pagina": "https://freesound.org/people/Cloud-10/sounds/688735/",
+    "titulo": "Heartbeat 97 BPM by Cloud-10",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_latido/Heartbeat_97_BPM_by_Cloud-10_688735.mp3"
+   },
+   {
+    "id": "108207",
+    "autor": "Benboncan",
+    "pagina": "https://freesound.org/people/Benboncan/sounds/108207/",
+    "titulo": "Heartbeat 5sec Int.wav by Benboncan",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_latido/Heartbeat_5sec_Int.wav_by_Benboncan_108207.mp3"
+   },
+   {
+    "id": "130969",
+    "autor": "current11",
+    "pagina": "https://freesound.org/people/current11/sounds/130969/",
+    "titulo": "FastHeartbeat by current11",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_latido/FastHeartbeat_by_current11_130969.mp3"
+   }
+  ],
+  "fs_reloj": [
+   {
+    "id": "675681",
+    "autor": "nightcustard",
+    "pagina": "https://freesound.org/people/nightcustard/sounds/675681/",
+    "titulo": "Ticking Smiths car clock by nightcustard",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_reloj/Ticking_Smiths_car_clock_by_nightcustard_675681.mp3"
+   },
+   {
+    "id": "27077",
+    "autor": "daveincamas",
+    "pagina": "https://freesound.org/people/daveincamas/sounds/27077/",
+    "titulo": "ClockTicks.wav by daveincamas",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_reloj/ClockTicks.wav_by_daveincamas_27077.mp3"
+   },
+   {
+    "id": "414469",
+    "autor": "giddster",
+    "pagina": "https://freesound.org/people/giddster/sounds/414469/",
+    "titulo": "Old clock ticking by giddster",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_reloj/Old_clock_ticking_by_giddster_414469.mp3"
+   },
+   {
+    "id": "42139",
+    "autor": "fauxpress",
+    "pagina": "https://freesound.org/people/fauxpress/sounds/42139/",
+    "titulo": "Old Scots Clock - Ticking.wav by fauxpress",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_reloj/Old_Scots_Clock_-_Ticking.wav_by_fauxpress_42139.mp3"
+   },
+   {
+    "id": "245455",
+    "autor": "differentieel",
+    "pagina": "https://freesound.org/people/differentieel/sounds/245455/",
+    "titulo": "Old Clock Ticking by differentieel",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_reloj/Old_Clock_Ticking_by_differentieel_245455.mp3"
+   },
+   {
+    "id": "27086",
+    "autor": "daveincamas",
+    "pagina": "https://freesound.org/people/daveincamas/sounds/27086/",
+    "titulo": "MantelClockTicks.wav by daveincamas",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_reloj/MantelClockTicks.wav_by_daveincamas_27086.mp3"
+   }
+  ],
+  "fs_calle": [
+   {
+    "id": "473717",
+    "autor": "Joao_Janz",
+    "pagina": "https://freesound.org/people/Joao_Janz/sounds/473717/",
+    "titulo": "City Park Ambience At Night 4.wav by Joao_Janz",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_calle/City_Park_Ambience_At_Night_4.wav_by_Joao_Janz_473717.mp3"
+   },
+   {
+    "id": "347224",
+    "autor": "rayjensen",
+    "pagina": "https://freesound.org/people/rayjensen/sounds/347224/",
+    "titulo": "ambience in car by rayjensen",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_calle/ambience_in_car_by_rayjensen_347224.mp3"
+   },
+   {
+    "id": "274349",
+    "autor": "iamazerrad",
+    "pagina": "https://freesound.org/people/iamazerrad/sounds/274349/",
+    "titulo": "Crowd Noise 1.wav by iamazerrad",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_calle/Crowd_Noise_1.wav_by_iamazerrad_274349.mp3"
+   },
+   {
+    "id": "553248",
+    "autor": "NachtmahrTV",
+    "pagina": "https://freesound.org/people/NachtmahrTV/sounds/553248/",
+    "titulo": "City Street by NachtmahrTV",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_calle/City_Street_by_NachtmahrTV_553248.mp3"
+   },
+   {
+    "id": "534197",
+    "autor": "szegvari",
+    "pagina": "https://freesound.org/people/szegvari/sounds/534197/",
+    "titulo": "City Street Station Underground Sci-Fi 200906_0050.wav by szegvari",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_calle/City_Street_Station_Underground_Sci-Fi_200906_0050_534197.mp3"
+   },
+   {
+    "id": "362948",
+    "autor": "AlexanderChe",
+    "pagina": "https://freesound.org/people/AlexanderChe/sounds/362948/",
+    "titulo": "ambience, street, traffic, city, Moscow by AlexanderChe",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_calle/ambience_street_traffic_city_Moscow_by_AlexanderCh_362948.mp3"
+   }
+  ],
+  "fs_explosion_aire": [
+   {
+    "id": "871382",
+    "autor": "KVV_Audio",
+    "pagina": "https://freesound.org/people/KVV_Audio/sounds/871382/",
+    "titulo": "EXPLReal_Air Explosion Medium Distance_KVV AUDIO_FREE by KVV_Audio",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_explosion_aire/EXPLReal_Air_Explosion_Medium_Distance_KVV_AUDIO_F_871382.mp3"
+   },
+   {
+    "id": "828566",
+    "autor": "Akkaittou",
+    "pagina": "https://freesound.org/people/Akkaittou/sounds/828566/",
+    "titulo": "MagicSpellBlast by Akkaittou",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_explosion_aire/MagicSpellBlast_by_Akkaittou_828566.mp3"
+   },
+   {
+    "id": "788692",
+    "autor": "KVV_Audio",
+    "pagina": "https://freesound.org/people/KVV_Audio/sounds/788692/",
+    "titulo": "AMBWar_Explosion Of A russian Drone In A Ukrainian City 01_KVV AUDIO_FREE by KVV_Audio",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/fs_explosion_aire/AMBWar_Explosion_Of_A_russian_Drone_In_A_Ukrainian_788692.mp3"
+   }
+  ],
+  "fs_tela": [
+   {
+    "id": "701647",
+    "autor": "IENBA",
+    "pagina": "https://freesound.org/people/IENBA/sounds/701647/",
+    "titulo": "Fabric Flapping by IENBA",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_tela/Fabric_Flapping_by_IENBA_701647.mp3"
+   },
+   {
+    "id": "414980",
+    "autor": "TheScarlettWitch89",
+    "pagina": "https://freesound.org/people/TheScarlettWitch89/sounds/414980/",
+    "titulo": "Cloth Flapping.m4a by TheScarlettWitch89",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_tela/Cloth_Flapping.m4a_by_TheScarlettWitch89_414980.mp3"
+   },
+   {
+    "id": "280205",
+    "autor": "memuse",
+    "pagina": "https://freesound.org/people/memuse/sounds/280205/",
+    "titulo": "flapping cloth.wav by memuse",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_tela/flapping_cloth.wav_by_memuse_280205.mp3"
+   },
+   {
+    "id": "512740",
+    "autor": "exe2be",
+    "pagina": "https://freesound.org/people/exe2be/sounds/512740/",
+    "titulo": "cloth flaps 1 by exe2be",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_tela/cloth_flaps_1_by_exe2be_512740.mp3"
+   },
+   {
+    "id": "391945",
+    "autor": "ssierra1202",
+    "pagina": "https://freesound.org/people/ssierra1202/sounds/391945/",
+    "titulo": "cloth flap by ssierra1202",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_tela/cloth_flap_by_ssierra1202_391945.mp3"
+   }
+  ],
+  "fs_cafe": [
+   {
+    "id": "846435",
+    "autor": "NikoletB",
+    "pagina": "https://freesound.org/people/NikoletB/sounds/846435/",
+    "titulo": "Close-Up Stream Droplets – Flowing Water Details by NikoletB",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_cafe/Close-Up_Stream_Droplets_Flowing_Water_Details_by__846435.mp3"
+   },
+   {
+    "id": "30341",
+    "autor": "junggle",
+    "pagina": "https://freesound.org/people/junggle/sounds/30341/",
+    "titulo": "waterdrop24.wav by junggle",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_cafe/waterdrop24.wav_by_junggle_30341.mp3"
+   },
+   {
+    "id": "561895",
+    "autor": "MattRuthSound",
+    "pagina": "https://freesound.org/people/MattRuthSound/sounds/561895/",
+    "titulo": "Liquid, pour, splash, stream, water, short pour with small drop in background_96Khz_Mono_ZoomH4n_NT5.wav by MattRuthSound",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_cafe/Liquid_pour_splash_stream_water_short_pour_with_sm_561895.mp3"
+   },
+   {
+    "id": "845132",
+    "autor": "AardsReal",
+    "pagina": "https://freesound.org/people/AardsReal/sounds/845132/",
+    "titulo": "4 Small Splashes by AardsReal",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_cafe/4_Small_Splashes_by_AardsReal_845132.mp3"
+   },
+   {
+    "id": "540886",
+    "autor": "Garuda1982",
+    "pagina": "https://freesound.org/people/Garuda1982/sounds/540886/",
+    "titulo": "small puddle splash sound effect by Garuda1982",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_cafe/small_puddle_splash_sound_effect_by_Garuda1982_540886.mp3"
+   },
+   {
+    "id": "737233",
+    "autor": "qubodup",
+    "pagina": "https://freesound.org/people/qubodup/sounds/737233/",
+    "titulo": "Small Water Splash by qubodup",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/fs_cafe/Small_Water_Splash_by_qubodup_737233.mp3"
+   }
+  ],
+  "fs_atrapar": [
+   {
+    "id": "863265",
+    "autor": "alexarje",
+    "pagina": "https://freesound.org/people/alexarje/sounds/863265/",
+    "titulo": "Ice cubes in glass (SoundAction 287) by alexarje",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/fs_atrapar/Ice_cubes_in_glass_SoundAction_287_by_alexarje_863265.mp3"
+   }
+  ]
+ },
+ "sketchfab": {
+  "hamburguesa": [
+   {
+    "uid": "3b0493f7f22540c0844d01b3e10061ff",
+    "nombre": "Compostable Burger Box .::RAWscan::.",
+    "autor": "spogna",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 121240,
+    "url": "https://sketchfab.com/3d-models/none-3b0493f7f22540c0844d01b3e10061ff",
+    "miniatura": "miniaturas/hamburguesa/3b0493f7f22540c0844d01b3e10061ff.jpg"
+   },
+   {
+    "uid": "b4cc15417d58445ebb698229d6161e61",
+    "nombre": "HAMBURGER",
+    "autor": "rodrigogelmi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 71181,
+    "url": "https://sketchfab.com/3d-models/none-b4cc15417d58445ebb698229d6161e61",
+    "miniatura": "miniaturas/hamburguesa/b4cc15417d58445ebb698229d6161e61.jpg"
+   },
+   {
+    "uid": "770128b2b9a34c2382a2acf02c444bf2",
+    "nombre": "Cute Hamburger - Free 3D Model",
+    "autor": "ItsPolyCube",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 13760,
+    "url": "https://sketchfab.com/3d-models/none-770128b2b9a34c2382a2acf02c444bf2",
+    "miniatura": "miniaturas/hamburguesa/770128b2b9a34c2382a2acf02c444bf2.jpg"
+   },
+   {
+    "uid": "270f10c6726c41f18b1227d5b91c303b",
+    "nombre": "Sukon-Bu_Hololive",
+    "autor": "ychiang6",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 18772,
+    "url": "https://sketchfab.com/3d-models/none-270f10c6726c41f18b1227d5b91c303b",
+    "miniatura": "miniaturas/hamburguesa/270f10c6726c41f18b1227d5b91c303b.jpg"
+   },
+   {
+    "uid": "23283a2bceb74739b55d694d2dd496d9",
+    "nombre": "Ziggy's diner, an american diner",
+    "autor": "athmos001",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 62500,
+    "url": "https://sketchfab.com/3d-models/none-23283a2bceb74739b55d694d2dd496d9",
+    "miniatura": "miniaturas/hamburguesa/23283a2bceb74739b55d694d2dd496d9.jpg"
+   },
+   {
+    "uid": "2842f313c108426f87f68ff2cb07472f",
+    "nombre": "McDonald's MENU",
+    "autor": "stevelamuerte",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 154549,
+    "url": "https://sketchfab.com/3d-models/none-2842f313c108426f87f68ff2cb07472f",
+    "miniatura": "miniaturas/hamburguesa/2842f313c108426f87f68ff2cb07472f.jpg"
+   },
+   {
+    "uid": "78c2e8cba66e4f5294cec5aa05c9d431",
+    "nombre": "Stylized Burger",
+    "autor": "jakecircles",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 49340,
+    "url": "https://sketchfab.com/3d-models/none-78c2e8cba66e4f5294cec5aa05c9d431",
+    "miniatura": "miniaturas/hamburguesa/78c2e8cba66e4f5294cec5aa05c9d431.jpg"
+   },
+   {
+    "uid": "47196b81811f40239607dbd9932493f8",
+    "nombre": "Double Whopper Hamburger Value Meal",
+    "autor": "crazy4creativity",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 399941,
+    "url": "https://sketchfab.com/3d-models/none-47196b81811f40239607dbd9932493f8",
+    "miniatura": "miniaturas/hamburguesa/47196b81811f40239607dbd9932493f8.jpg"
+   },
+   {
+    "uid": "fc5a7e79ce0a4ace89aeb619fe23ce09",
+    "nombre": "FNAF - Security Breach - Chica's Feeding Frenzy",
+    "autor": "scrinnodstudios",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2276,
+    "url": "https://sketchfab.com/3d-models/none-fc5a7e79ce0a4ace89aeb619fe23ce09",
+    "miniatura": "miniaturas/hamburguesa/fc5a7e79ce0a4ace89aeb619fe23ce09.jpg"
+   },
+   {
+    "uid": "1b0eeaab628740baae7ee2d19a4b8d2e",
+    "nombre": "McDonald's lunch",
+    "autor": "aero3d.org",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 202336,
+    "url": "https://sketchfab.com/3d-models/none-1b0eeaab628740baae7ee2d19a4b8d2e",
+    "miniatura": "miniaturas/hamburguesa/1b0eeaab628740baae7ee2d19a4b8d2e.jpg"
+   },
+   {
+    "uid": "6e922d8eed31401db5b179bfd1e68c55",
+    "nombre": "Mcdonald menu",
+    "autor": "adresen",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 128618,
+    "url": "https://sketchfab.com/3d-models/none-6e922d8eed31401db5b179bfd1e68c55",
+    "miniatura": "miniaturas/hamburguesa/6e922d8eed31401db5b179bfd1e68c55.jpg"
+   },
+   {
+    "uid": "7aeeaa237c6a48c39d0aeef7fc845ecb",
+    "nombre": "Big Mac",
+    "autor": "theesfeld",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 608022,
+    "url": "https://sketchfab.com/3d-models/none-7aeeaa237c6a48c39d0aeef7fc845ecb",
+    "miniatura": "miniaturas/hamburguesa/7aeeaa237c6a48c39d0aeef7fc845ecb.jpg"
+   },
+   {
+    "uid": "ef7953557f80427eadd539e9b0bb328a",
+    "nombre": "Kuma Plushie",
+    "autor": "eggypudding",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9091,
+    "url": "https://sketchfab.com/3d-models/none-ef7953557f80427eadd539e9b0bb328a",
+    "miniatura": "miniaturas/hamburguesa/ef7953557f80427eadd539e9b0bb328a.jpg"
+   },
+   {
+    "uid": "39da584798ba49729a0476545f16281f",
+    "nombre": "SpongeBob Hamburger Restaurant",
+    "autor": "Lymite",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 93704,
+    "url": "https://sketchfab.com/3d-models/none-39da584798ba49729a0476545f16281f",
+    "miniatura": "miniaturas/hamburguesa/39da584798ba49729a0476545f16281f.jpg"
+   },
+   {
+    "uid": "6720e7157e06453f9c687669c9c63b45",
+    "nombre": "Royal with cheese burger box (photogrammetry)",
+    "autor": "Austin.Beaulier",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 9530,
+    "url": "https://sketchfab.com/3d-models/none-6720e7157e06453f9c687669c9c63b45",
+    "miniatura": "miniaturas/hamburguesa/6720e7157e06453f9c687669c9c63b45.jpg"
+   },
+   {
+    "uid": "5b3cd8affce1488a85406ab91c8c6850",
+    "nombre": "Monument to Jews of Berlin",
+    "autor": "moshecaine",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1026265,
+    "url": "https://sketchfab.com/3d-models/none-5b3cd8affce1488a85406ab91c8c6850",
+    "miniatura": "miniaturas/hamburguesa/5b3cd8affce1488a85406ab91c8c6850.jpg"
+   }
+  ],
+  "pizza": [
+   {
+    "uid": "486238438ec64c3cb64d607a30d1a9e6",
+    "nombre": "Plain Pizza Slice",
+    "autor": "inciprocal.com",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2998,
+    "url": "https://sketchfab.com/3d-models/none-486238438ec64c3cb64d607a30d1a9e6",
+    "miniatura": "miniaturas/pizza/486238438ec64c3cb64d607a30d1a9e6.jpg"
+   },
+   {
+    "uid": "2b251df3fcdf4cf4b483633699928953",
+    "nombre": "Pizza Time!",
+    "autor": "ShivanshSingh",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11871,
+    "url": "https://sketchfab.com/3d-models/none-2b251df3fcdf4cf4b483633699928953",
+    "miniatura": "miniaturas/pizza/2b251df3fcdf4cf4b483633699928953.jpg"
+   },
+   {
+    "uid": "5b19b3bb03ed4a0c846f208b708bf24c",
+    "nombre": "PIZZA",
+    "autor": "leo.isidro3",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 59852,
+    "url": "https://sketchfab.com/3d-models/none-5b19b3bb03ed4a0c846f208b708bf24c",
+    "miniatura": "miniaturas/pizza/5b19b3bb03ed4a0c846f208b708bf24c.jpg"
+   },
+   {
+    "uid": "b8c251d79e104922bc0497a5d2fdf822",
+    "nombre": "Slice Of Pizza",
+    "autor": "neonsen",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8502,
+    "url": "https://sketchfab.com/3d-models/none-b8c251d79e104922bc0497a5d2fdf822",
+    "miniatura": "miniaturas/pizza/b8c251d79e104922bc0497a5d2fdf822.jpg"
+   },
+   {
+    "uid": "2ee2003561cd42789f6346ed1b65b2ef",
+    "nombre": "A slice of pizza",
+    "autor": "AaronXRdev",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 818,
+    "url": "https://sketchfab.com/3d-models/none-2ee2003561cd42789f6346ed1b65b2ef",
+    "miniatura": "miniaturas/pizza/2ee2003561cd42789f6346ed1b65b2ef.jpg"
+   },
+   {
+    "uid": "85844bda9a644ca7a3cda149648fd87d",
+    "nombre": "Club Penguin Pizzeria",
+    "autor": "EzequielMunoz",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 163273,
+    "url": "https://sketchfab.com/3d-models/none-85844bda9a644ca7a3cda149648fd87d",
+    "miniatura": "miniaturas/pizza/85844bda9a644ca7a3cda149648fd87d.jpg"
+   },
+   {
+    "uid": "8175832c9f0f45559de7aff797940d3e",
+    "nombre": "Loaf Of Bread (Game Ready / 2K PBR)",
+    "autor": "meerschaumdigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 784,
+    "url": "https://sketchfab.com/3d-models/none-8175832c9f0f45559de7aff797940d3e",
+    "miniatura": "miniaturas/pizza/8175832c9f0f45559de7aff797940d3e.jpg"
+   },
+   {
+    "uid": "7de0fd39416e4910a28fc23d3c887d53",
+    "nombre": "Pizza Slice - Optimized",
+    "autor": "polarathene",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 17648,
+    "url": "https://sketchfab.com/3d-models/none-7de0fd39416e4910a28fc23d3c887d53",
+    "miniatura": "miniaturas/pizza/7de0fd39416e4910a28fc23d3c887d53.jpg"
+   },
+   {
+    "uid": "e0ac9a382e324e3788b1639392880cd9",
+    "nombre": "Pizza Slice",
+    "autor": "polarathene",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 521837,
+    "url": "https://sketchfab.com/3d-models/none-e0ac9a382e324e3788b1639392880cd9",
+    "miniatura": "miniaturas/pizza/e0ac9a382e324e3788b1639392880cd9.jpg"
+   },
+   {
+    "uid": "a2fa4669998949cbb707e4c1ae417c87",
+    "nombre": "Pizza",
+    "autor": "Aliaa",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 565387,
+    "url": "https://sketchfab.com/3d-models/none-a2fa4669998949cbb707e4c1ae417c87",
+    "miniatura": "miniaturas/pizza/a2fa4669998949cbb707e4c1ae417c87.jpg"
+   },
+   {
+    "uid": "65aa07867e914c5190d5e9e88ae8b78d",
+    "nombre": "Pizza Slice",
+    "autor": "ajohnclark",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2510181,
+    "url": "https://sketchfab.com/3d-models/none-65aa07867e914c5190d5e9e88ae8b78d",
+    "miniatura": "miniaturas/pizza/65aa07867e914c5190d5e9e88ae8b78d.jpg"
+   },
+   {
+    "uid": "a9d532b128ea4f37bdf268c6c8814710",
+    "nombre": "Slice Corrected V4",
+    "autor": "christhomas",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 703347,
+    "url": "https://sketchfab.com/3d-models/none-a9d532b128ea4f37bdf268c6c8814710",
+    "miniatura": "miniaturas/pizza/a9d532b128ea4f37bdf268c6c8814710.jpg"
+   },
+   {
+    "uid": "4a8bcaa5acf94372a369406abae94833",
+    "nombre": "Pizza slice",
+    "autor": "keithito",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 137008,
+    "url": "https://sketchfab.com/3d-models/none-4a8bcaa5acf94372a369406abae94833",
+    "miniatura": "miniaturas/pizza/4a8bcaa5acf94372a369406abae94833.jpg"
+   },
+   {
+    "uid": "1ed4046fcad74f4d88defd3d01c646b9",
+    "nombre": "First Order Dreadnought",
+    "autor": "KuatEntralla3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 26902,
+    "url": "https://sketchfab.com/3d-models/none-1ed4046fcad74f4d88defd3d01c646b9",
+    "miniatura": "miniaturas/pizza/1ed4046fcad74f4d88defd3d01c646b9.jpg"
+   },
+   {
+    "uid": "f3bbda4323964957b92af7220a77a232",
+    "nombre": "Day 292: Pizza Slice",
+    "autor": "uttamg911",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 48265,
+    "url": "https://sketchfab.com/3d-models/none-f3bbda4323964957b92af7220a77a232",
+    "miniatura": "miniaturas/pizza/f3bbda4323964957b92af7220a77a232.jpg"
+   },
+   {
+    "uid": "c4560059b71e4db1aca2facc2070b927",
+    "nombre": "The tasty slice of salami pizza with cheese",
+    "autor": "krikogusin",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9432,
+    "url": "https://sketchfab.com/3d-models/none-c4560059b71e4db1aca2facc2070b927",
+    "miniatura": "miniaturas/pizza/c4560059b71e4db1aca2facc2070b927.jpg"
+   }
+  ],
+  "refresco": [
+   {
+    "uid": "986050ad95ca444caa07026c033e548a",
+    "nombre": "Basic untextured soda cup",
+    "autor": "viveleroi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 472,
+    "url": "https://sketchfab.com/3d-models/none-986050ad95ca444caa07026c033e548a",
+    "miniatura": "miniaturas/refresco/986050ad95ca444caa07026c033e548a.jpg"
+   }
+  ],
+  "papas": [
+   {
+    "uid": "50665c944e4e4979b9df5582b393a2b2",
+    "nombre": "Fast Food Set",
+    "autor": "ahxun",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 30568,
+    "url": "https://sketchfab.com/3d-models/none-50665c944e4e4979b9df5582b393a2b2",
+    "miniatura": "miniaturas/papas/50665c944e4e4979b9df5582b393a2b2.jpg"
+   },
+   {
+    "uid": "bef5383eb98b48528b2d82d8887b5bb4",
+    "nombre": "French Fries - FREE",
+    "autor": "Devden",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5416,
+    "url": "https://sketchfab.com/3d-models/none-bef5383eb98b48528b2d82d8887b5bb4",
+    "miniatura": "miniaturas/papas/bef5383eb98b48528b2d82d8887b5bb4.jpg"
+   },
+   {
+    "uid": "6e922d8eed31401db5b179bfd1e68c55",
+    "nombre": "Mcdonald menu",
+    "autor": "adresen",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 128618,
+    "url": "https://sketchfab.com/3d-models/none-6e922d8eed31401db5b179bfd1e68c55",
+    "miniatura": "miniaturas/papas/6e922d8eed31401db5b179bfd1e68c55.jpg"
+   },
+   {
+    "uid": "8f7eed849eab4f2fac4f5e62dee7b89e",
+    "nombre": "French fries",
+    "autor": "1-3D.com",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 10800,
+    "url": "https://sketchfab.com/3d-models/none-8f7eed849eab4f2fac4f5e62dee7b89e",
+    "miniatura": "miniaturas/papas/8f7eed849eab4f2fac4f5e62dee7b89e.jpg"
+   },
+   {
+    "uid": "de02148574c5434e80187d35378d1b8a",
+    "nombre": "Russet Potato",
+    "autor": "meerschaumdigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1280,
+    "url": "https://sketchfab.com/3d-models/none-de02148574c5434e80187d35378d1b8a",
+    "miniatura": "miniaturas/papas/de02148574c5434e80187d35378d1b8a.jpg"
+   },
+   {
+    "uid": "ed31ca1893f544b2a966adc0cfaac9e6",
+    "nombre": "French fries from Poly by Google",
+    "autor": "ie-niels",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2084,
+    "url": "https://sketchfab.com/3d-models/none-ed31ca1893f544b2a966adc0cfaac9e6",
+    "miniatura": "miniaturas/papas/ed31ca1893f544b2a966adc0cfaac9e6.jpg"
+   },
+   {
+    "uid": "e108079799d746809f898619890b6606",
+    "nombre": "Tony Chachere's Original Creole Seasoning",
+    "autor": "johnnokomis",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3031668,
+    "url": "https://sketchfab.com/3d-models/none-e108079799d746809f898619890b6606",
+    "miniatura": "miniaturas/papas/e108079799d746809f898619890b6606.jpg"
+   },
+   {
+    "uid": "d5bd8273db9e4c08aea9acbd358c11c4",
+    "nombre": "french fries",
+    "autor": "timislav845455",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8866,
+    "url": "https://sketchfab.com/3d-models/none-d5bd8273db9e4c08aea9acbd358c11c4",
+    "miniatura": "miniaturas/papas/d5bd8273db9e4c08aea9acbd358c11c4.jpg"
+   },
+   {
+    "uid": "e0a7acc2ec9f459a8cfe94f461a077ce",
+    "nombre": "Francesinha",
+    "autor": "shahriyarshahrabi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 149950,
+    "url": "https://sketchfab.com/3d-models/none-e0a7acc2ec9f459a8cfe94f461a077ce",
+    "miniatura": "miniaturas/papas/e0a7acc2ec9f459a8cfe94f461a077ce.jpg"
+   },
+   {
+    "uid": "51a0806ac1674209baa6dd89d830d1a8",
+    "nombre": "French fries tray",
+    "autor": "edemaistre",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 44171,
+    "url": "https://sketchfab.com/3d-models/none-51a0806ac1674209baa6dd89d830d1a8",
+    "miniatura": "miniaturas/papas/51a0806ac1674209baa6dd89d830d1a8.jpg"
+   },
+   {
+    "uid": "b1a1d9930aaf45f2b956595ad6696c75",
+    "nombre": "Fast Food",
+    "autor": "Konstantin_Keller",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1464,
+    "url": "https://sketchfab.com/3d-models/none-b1a1d9930aaf45f2b956595ad6696c75",
+    "miniatura": "miniaturas/papas/b1a1d9930aaf45f2b956595ad6696c75.jpg"
+   },
+   {
+    "uid": "78dab21165564c6fb52f2413797617e7",
+    "nombre": "French Fries",
+    "autor": "neutralize",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2084,
+    "url": "https://sketchfab.com/3d-models/none-78dab21165564c6fb52f2413797617e7",
+    "miniatura": "miniaturas/papas/78dab21165564c6fb52f2413797617e7.jpg"
+   },
+   {
+    "uid": "50fdb54bae1f48dda53aff7223ce5d63",
+    "nombre": "French Fry holder",
+    "autor": "rtql8d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1614,
+    "url": "https://sketchfab.com/3d-models/none-50fdb54bae1f48dda53aff7223ce5d63",
+    "miniatura": "miniaturas/papas/50fdb54bae1f48dda53aff7223ce5d63.jpg"
+   },
+   {
+    "uid": "3c816b08e259455c9ee7fcda5f8004cb",
+    "nombre": "McDonald's French Fries",
+    "autor": "MacDrawz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 150528,
+    "url": "https://sketchfab.com/3d-models/none-3c816b08e259455c9ee7fcda5f8004cb",
+    "miniatura": "miniaturas/papas/3c816b08e259455c9ee7fcda5f8004cb.jpg"
+   },
+   {
+    "uid": "ddc0b228be5a492eb6013cc614fbc316",
+    "nombre": "A French Fries Cutter",
+    "autor": "akshatezio",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 224240,
+    "url": "https://sketchfab.com/3d-models/none-ddc0b228be5a492eb6013cc614fbc316",
+    "miniatura": "miniaturas/papas/ddc0b228be5a492eb6013cc614fbc316.jpg"
+   },
+   {
+    "uid": "8812373fbfcb469c9c9547258663ca45",
+    "nombre": "Samurai Snack / Drawfee Fan Art",
+    "autor": "markkrawiec",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1540,
+    "url": "https://sketchfab.com/3d-models/none-8812373fbfcb469c9c9547258663ca45",
+    "miniatura": "miniaturas/papas/8812373fbfcb469c9c9547258663ca45.jpg"
+   }
+  ],
+  "hotdog": [
+   {
+    "uid": "d363905ab6db442789acf06e031e2b21",
+    "nombre": "New York Hot Dog Cart",
+    "autor": "outlier_spa",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6042,
+    "url": "https://sketchfab.com/3d-models/none-d363905ab6db442789acf06e031e2b21",
+    "miniatura": "miniaturas/hotdog/d363905ab6db442789acf06e031e2b21.jpg"
+   },
+   {
+    "uid": "435326b23a6240f48c2a48140522aa08",
+    "nombre": "Hot Dog Stylized",
+    "autor": "Batuhan13",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2464,
+    "url": "https://sketchfab.com/3d-models/none-435326b23a6240f48c2a48140522aa08",
+    "miniatura": "miniaturas/hotdog/435326b23a6240f48c2a48140522aa08.jpg"
+   },
+   {
+    "uid": "ee0e2b6eaef242d0b3d088dfca4759b8",
+    "nombre": "Cool Down",
+    "autor": "dirb",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 243598,
+    "url": "https://sketchfab.com/3d-models/none-ee0e2b6eaef242d0b3d088dfca4759b8",
+    "miniatura": "miniaturas/hotdog/ee0e2b6eaef242d0b3d088dfca4759b8.jpg"
+   },
+   {
+    "uid": "c8f9a79080f944258b97771335c194cd",
+    "nombre": "Playland collection",
+    "autor": "lukasvopp",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7164,
+    "url": "https://sketchfab.com/3d-models/none-c8f9a79080f944258b97771335c194cd",
+    "miniatura": "miniaturas/hotdog/c8f9a79080f944258b97771335c194cd.jpg"
+   },
+   {
+    "uid": "56362b438ebe4574bcd3f2761e39763a",
+    "nombre": "Right Humerus Mammals",
+    "autor": "terrielsimmons",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 925284,
+    "url": "https://sketchfab.com/3d-models/none-56362b438ebe4574bcd3f2761e39763a",
+    "miniatura": "miniaturas/hotdog/56362b438ebe4574bcd3f2761e39763a.jpg"
+   },
+   {
+    "uid": "a0ed270ea43d465387ea91f2a7e5fa62",
+    "nombre": "90s fast-food stand, Łódź, Poland",
+    "autor": "wozniakowski.smierdzi",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 38463,
+    "url": "https://sketchfab.com/3d-models/none-a0ed270ea43d465387ea91f2a7e5fa62",
+    "miniatura": "miniaturas/hotdog/a0ed270ea43d465387ea91f2a7e5fa62.jpg"
+   },
+   {
+    "uid": "6b27ad69291f406687504ba0a46132d4",
+    "nombre": "Hot-Dog-Van draft - Homework-8",
+    "autor": "jonnysniper41",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 112989,
+    "url": "https://sketchfab.com/3d-models/none-6b27ad69291f406687504ba0a46132d4",
+    "miniatura": "miniaturas/hotdog/6b27ad69291f406687504ba0a46132d4.jpg"
+   }
+  ],
+  "maniqui": [
+   {
+    "uid": "0c5cf6b017ba48f1bb32244ae1fefd2d",
+    "nombre": "Crash Dummy",
+    "autor": "robomax",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 9010,
+    "url": "https://sketchfab.com/3d-models/none-0c5cf6b017ba48f1bb32244ae1fefd2d",
+    "miniatura": "miniaturas/maniqui/0c5cf6b017ba48f1bb32244ae1fefd2d.jpg"
+   },
+   {
+    "uid": "bf37b98b99534ed2b5eb4507f0564e1d",
+    "nombre": "Military Character Kit 1.1 (CC0)",
+    "autor": "britdawgmasterfunk",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1431705,
+    "url": "https://sketchfab.com/3d-models/none-bf37b98b99534ed2b5eb4507f0564e1d",
+    "miniatura": "miniaturas/maniqui/bf37b98b99534ed2b5eb4507f0564e1d.jpg"
+   },
+   {
+    "uid": "08eadd84d8584641852295c6fd7c9c4a",
+    "nombre": "G2F Dress Mannequin",
+    "autor": "suparioamateur",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 79772,
+    "url": "https://sketchfab.com/3d-models/none-08eadd84d8584641852295c6fd7c9c4a",
+    "miniatura": "miniaturas/maniqui/08eadd84d8584641852295c6fd7c9c4a.jpg"
+   },
+   {
+    "uid": "077bbe07d52f44c18ef9f30422d50ee5",
+    "nombre": "[UE4] Storm Trooper (Rigged + Game Ready)",
+    "autor": "SanForge",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 34702,
+    "url": "https://sketchfab.com/3d-models/none-077bbe07d52f44c18ef9f30422d50ee5",
+    "miniatura": "miniaturas/maniqui/077bbe07d52f44c18ef9f30422d50ee5.jpg"
+   },
+   {
+    "uid": "5e9898a1ac2048d89fbcdfdb55f8c6b0",
+    "nombre": "Mannequin Female",
+    "autor": "sketchpunk",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 30350,
+    "url": "https://sketchfab.com/3d-models/none-5e9898a1ac2048d89fbcdfdb55f8c6b0",
+    "miniatura": "miniaturas/maniqui/5e9898a1ac2048d89fbcdfdb55f8c6b0.jpg"
+   },
+   {
+    "uid": "3d9fadc51d1f41168a970a3c34b81e7b",
+    "nombre": "Retextured model",
+    "autor": "JonnyMANSON",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 41004,
+    "url": "https://sketchfab.com/3d-models/none-3d9fadc51d1f41168a970a3c34b81e7b",
+    "miniatura": "miniaturas/maniqui/3d9fadc51d1f41168a970a3c34b81e7b.jpg"
+   },
+   {
+    "uid": "666f485199db43488b14035f2a3840bf",
+    "nombre": "Rigged for UE4 - Spartan - free",
+    "autor": "Andywoodhead",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 177559,
+    "url": "https://sketchfab.com/3d-models/none-666f485199db43488b14035f2a3840bf",
+    "miniatura": "miniaturas/maniqui/666f485199db43488b14035f2a3840bf.jpg"
+   },
+   {
+    "uid": "89318577f3464e368b2a3507b22c3af1",
+    "nombre": "Blockout Stylized Male Lightweight",
+    "autor": "Tuinor",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 171392,
+    "url": "https://sketchfab.com/3d-models/none-89318577f3464e368b2a3507b22c3af1",
+    "miniatura": "miniaturas/maniqui/89318577f3464e368b2a3507b22c3af1.jpg"
+   },
+   {
+    "uid": "edce03ca9ee8410b8e0485504597389b",
+    "nombre": "Mannequin (1900s): M size",
+    "autor": "alekseimoskvin1",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11700,
+    "url": "https://sketchfab.com/3d-models/none-edce03ca9ee8410b8e0485504597389b",
+    "miniatura": "miniaturas/maniqui/edce03ca9ee8410b8e0485504597389b.jpg"
+   },
+   {
+    "uid": "2e6aeadba1ad4092b0cd5a054aef00e9",
+    "nombre": "UE4 rig and Texture, Robot (cyborg Pack)",
+    "autor": "Marcin.Kwiatkowski",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 75548,
+    "url": "https://sketchfab.com/3d-models/none-2e6aeadba1ad4092b0cd5a054aef00e9",
+    "miniatura": "miniaturas/maniqui/2e6aeadba1ad4092b0cd5a054aef00e9.jpg"
+   },
+   {
+    "uid": "7c733dceb2e04c4fb7e7dbd85316c1e7",
+    "nombre": "Clothing And Character Kit 1.0 (CC0)",
+    "autor": "britdawgmasterfunk",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 764010,
+    "url": "https://sketchfab.com/3d-models/none-7c733dceb2e04c4fb7e7dbd85316c1e7",
+    "miniatura": "miniaturas/maniqui/7c733dceb2e04c4fb7e7dbd85316c1e7.jpg"
+   },
+   {
+    "uid": "2f67c4384e7f4a5b86d84ae9199b7d3b",
+    "nombre": "Mannequin: Anatomy Aid (Free download)",
+    "autor": "roba",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1653,
+    "url": "https://sketchfab.com/3d-models/none-2f67c4384e7f4a5b86d84ae9199b7d3b",
+    "miniatura": "miniaturas/maniqui/2f67c4384e7f4a5b86d84ae9199b7d3b.jpg"
+   },
+   {
+    "uid": "63b3a3b35e9242d2b914064af26bf7fe",
+    "nombre": "Wig Mannequin",
+    "autor": "yacobverse",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11200,
+    "url": "https://sketchfab.com/3d-models/none-63b3a3b35e9242d2b914064af26bf7fe",
+    "miniatura": "miniaturas/maniqui/63b3a3b35e9242d2b914064af26bf7fe.jpg"
+   },
+   {
+    "uid": "a488272c15cc4aa5898c28e5141e939d",
+    "nombre": "Rigged for UE4 - Roman - free",
+    "autor": "Andywoodhead",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 280624,
+    "url": "https://sketchfab.com/3d-models/none-a488272c15cc4aa5898c28e5141e939d",
+    "miniatura": "miniaturas/maniqui/a488272c15cc4aa5898c28e5141e939d.jpg"
+   },
+   {
+    "uid": "1c7a83c0832a4ab28d9f1a46d282fcf9",
+    "nombre": "Medieval Knight - rigged for UE4/5",
+    "autor": "Andywoodhead",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 51054,
+    "url": "https://sketchfab.com/3d-models/none-1c7a83c0832a4ab28d9f1a46d282fcf9",
+    "miniatura": "miniaturas/maniqui/1c7a83c0832a4ab28d9f1a46d282fcf9.jpg"
+   },
+   {
+    "uid": "6353b94707ae4e799509364efb4480c1",
+    "nombre": "1900 dress form",
+    "autor": "alekseimoskvin1",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18450,
+    "url": "https://sketchfab.com/3d-models/none-6353b94707ae4e799509364efb4480c1",
+    "miniatura": "miniaturas/maniqui/6353b94707ae4e799509364efb4480c1.jpg"
+   }
+  ],
+  "tienda_ropa": [
+   {
+    "uid": "23b8d684376b4f3084e16185e3499750",
+    "nombre": "Raek’s costume from a traditional engraving",
+    "autor": "alekseimoskvin1",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1027186,
+    "url": "https://sketchfab.com/3d-models/none-23b8d684376b4f3084e16185e3499750",
+    "miniatura": "miniaturas/tienda_ropa/23b8d684376b4f3084e16185e3499750.jpg"
+   },
+   {
+    "uid": "c8d6912dc26340768dfaca1a83c4dd5e",
+    "nombre": "Short Sleeve Shirt",
+    "autor": "Gammawolf",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5066,
+    "url": "https://sketchfab.com/3d-models/none-c8d6912dc26340768dfaca1a83c4dd5e",
+    "miniatura": "miniaturas/tienda_ropa/c8d6912dc26340768dfaca1a83c4dd5e.jpg"
+   },
+   {
+    "uid": "0f7bf798d5db400cae5f4ac3c1bdf1ca",
+    "nombre": "Raek’s costume from a historical engraving",
+    "autor": "K_SH_I_IVGPU",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1027186,
+    "url": "https://sketchfab.com/3d-models/none-0f7bf798d5db400cae5f4ac3c1bdf1ca",
+    "miniatura": "miniaturas/tienda_ropa/0f7bf798d5db400cae5f4ac3c1bdf1ca.jpg"
+   },
+   {
+    "uid": "e7a03de4e430450697f06884e40b927c",
+    "nombre": "Hangers Pack tank top tshirt men long sleeve t-s",
+    "autor": "kopofx",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13848,
+    "url": "https://sketchfab.com/3d-models/none-e7a03de4e430450697f06884e40b927c",
+    "miniatura": "miniaturas/tienda_ropa/e7a03de4e430450697f06884e40b927c.jpg"
+   },
+   {
+    "uid": "2e167d18d42a4a04b73eb6cb2c9bd509",
+    "nombre": "Standing Coat Racks",
+    "autor": "sapizon",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2560,
+    "url": "https://sketchfab.com/3d-models/none-2e167d18d42a4a04b73eb6cb2c9bd509",
+    "miniatura": "miniaturas/tienda_ropa/2e167d18d42a4a04b73eb6cb2c9bd509.jpg"
+   },
+   {
+    "uid": "54a6f40161f34793aae2ce2495ccef54",
+    "nombre": "Clothes & Shoes Hanger FREE Low Poly",
+    "autor": "LadyLionStudios",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6684,
+    "url": "https://sketchfab.com/3d-models/none-54a6f40161f34793aae2ce2495ccef54",
+    "miniatura": "miniaturas/tienda_ropa/54a6f40161f34793aae2ce2495ccef54.jpg"
+   },
+   {
+    "uid": "e01e6f89f678461391761e44838c2548",
+    "nombre": "Ozara Sketchfab",
+    "autor": "TylerBird",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 47948,
+    "url": "https://sketchfab.com/3d-models/none-e01e6f89f678461391761e44838c2548",
+    "miniatura": "miniaturas/tienda_ropa/e01e6f89f678461391761e44838c2548.jpg"
+   },
+   {
+    "uid": "3bf2dd8224ee42e8ac9b77033e604d15",
+    "nombre": "CC0 - Hanger 3",
+    "autor": "plaggy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1210,
+    "url": "https://sketchfab.com/3d-models/none-3bf2dd8224ee42e8ac9b77033e604d15",
+    "miniatura": "miniaturas/tienda_ropa/3bf2dd8224ee42e8ac9b77033e604d15.jpg"
+   },
+   {
+    "uid": "775375ae59be45dc9d7dcde1bc87a07f",
+    "nombre": "clothing-rack",
+    "autor": "Sflex",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 14212,
+    "url": "https://sketchfab.com/3d-models/none-775375ae59be45dc9d7dcde1bc87a07f",
+    "miniatura": "miniaturas/tienda_ropa/775375ae59be45dc9d7dcde1bc87a07f.jpg"
+   }
+  ],
+  "estante": [
+   {
+    "uid": "4aeb9d62cde942a9804172af11321d2c",
+    "nombre": "Store Wall Shelving",
+    "autor": "jimbogies",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 16112,
+    "url": "https://sketchfab.com/3d-models/none-4aeb9d62cde942a9804172af11321d2c",
+    "miniatura": "miniaturas/estante/4aeb9d62cde942a9804172af11321d2c.jpg"
+   },
+   {
+    "uid": "25bc95297f9f4e36891bf00600860936",
+    "nombre": "Trough-shaped dolmen Phabguchel-6 (full complex)",
+    "autor": "nemzis",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1562093,
+    "url": "https://sketchfab.com/3d-models/none-25bc95297f9f4e36891bf00600860936",
+    "miniatura": "miniaturas/estante/25bc95297f9f4e36891bf00600860936.jpg"
+   },
+   {
+    "uid": "2ccdb7d410dd4bd09615d271f01bbd41",
+    "nombre": "Trough-shaped dolmen - 1, Spunetam group",
+    "autor": "nemzis",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1426550,
+    "url": "https://sketchfab.com/3d-models/none-2ccdb7d410dd4bd09615d271f01bbd41",
+    "miniatura": "miniaturas/estante/2ccdb7d410dd4bd09615d271f01bbd41.jpg"
+   },
+   {
+    "uid": "f55cfc1258ce49a984a1ec7416c9c51d",
+    "nombre": "Trough-shaped dolmen Spunetam - 1(cross-section)",
+    "autor": "nemzis",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 373576,
+    "url": "https://sketchfab.com/3d-models/none-f55cfc1258ce49a984a1ec7416c9c51d",
+    "miniatura": "miniaturas/estante/f55cfc1258ce49a984a1ec7416c9c51d.jpg"
+   },
+   {
+    "uid": "3ccdb45b8d254e218db70c492063459a",
+    "nombre": "Trough-shaped dolmen Phabguchel-6 (detailed)",
+    "autor": "nemzis",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2987563,
+    "url": "https://sketchfab.com/3d-models/none-3ccdb45b8d254e218db70c492063459a",
+    "miniatura": "miniaturas/estante/3ccdb45b8d254e218db70c492063459a.jpg"
+   },
+   {
+    "uid": "0b3bc81b4a4d4f0db0a86685f83e2148",
+    "nombre": "Trough-shaped dolmen Phabguchel-6 (section)",
+    "autor": "nemzis",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 779182,
+    "url": "https://sketchfab.com/3d-models/none-0b3bc81b4a4d4f0db0a86685f83e2148",
+    "miniatura": "miniaturas/estante/0b3bc81b4a4d4f0db0a86685f83e2148.jpg"
+   }
+  ],
+  "tienda": [
+   {
+    "uid": "9ddbc5b32da94bafbfdb56e1f6be9a38",
+    "nombre": "Ship in a bottle",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 53462,
+    "url": "https://sketchfab.com/3d-models/none-9ddbc5b32da94bafbfdb56e1f6be9a38",
+    "miniatura": "miniaturas/tienda/9ddbc5b32da94bafbfdb56e1f6be9a38.jpg"
+   },
+   {
+    "uid": "6hiH0iyDqXqtdD9wbqSbyLLhKmz",
+    "nombre": "FREE GMC Motorhome reimagined low poly",
+    "autor": "lionsharp",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 43401,
+    "url": "https://sketchfab.com/3d-models/none-6hiH0iyDqXqtdD9wbqSbyLLhKmz",
+    "miniatura": "miniaturas/tienda/6hiH0iyDqXqtdD9wbqSbyLLhKmz.jpg"
+   },
+   {
+    "uid": "d679af35b5694301a185c7454a700c73",
+    "nombre": "Lamborghini Centenario LP-770 Interior SDC",
+    "autor": "Lambo_SC04",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 325735,
+    "url": "https://sketchfab.com/3d-models/none-d679af35b5694301a185c7454a700c73",
+    "miniatura": "miniaturas/tienda/d679af35b5694301a185c7454a700c73.jpg"
+   },
+   {
+    "uid": "938d3e3642cf4ea895c62c2a4bf6fc08",
+    "nombre": "Lamborghini Centenario Roadster SDC",
+    "autor": "Lambo_SC04",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 352097,
+    "url": "https://sketchfab.com/3d-models/none-938d3e3642cf4ea895c62c2a4bf6fc08",
+    "miniatura": "miniaturas/tienda/938d3e3642cf4ea895c62c2a4bf6fc08.jpg"
+   },
+   {
+    "uid": "f15037dd5fcd4f09b13fb9f2ce9e21cc",
+    "nombre": "Lamborghini Centenario LP-770 Baby Blue SDC",
+    "autor": "Lambo_SC04",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 325715,
+    "url": "https://sketchfab.com/3d-models/none-f15037dd5fcd4f09b13fb9f2ce9e21cc",
+    "miniatura": "miniaturas/tienda/f15037dd5fcd4f09b13fb9f2ce9e21cc.jpg"
+   },
+   {
+    "uid": "e97dce00ae5549a8a3795e06bc2cfc96",
+    "nombre": "Space Ship Hallway",
+    "autor": "yeeyeeman",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 53616,
+    "url": "https://sketchfab.com/3d-models/none-e97dce00ae5549a8a3795e06bc2cfc96",
+    "miniatura": "miniaturas/tienda/e97dce00ae5549a8a3795e06bc2cfc96.jpg"
+   },
+   {
+    "uid": "f2637e8e70264eae8694643afd195bfb",
+    "nombre": "Sci-fi neon model",
+    "autor": "ni_and_ka",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 90424,
+    "url": "https://sketchfab.com/3d-models/none-f2637e8e70264eae8694643afd195bfb",
+    "miniatura": "miniaturas/tienda/f2637e8e70264eae8694643afd195bfb.jpg"
+   },
+   {
+    "uid": "f70732dbd53c4c9daef0b9904d51dd5a",
+    "nombre": "( FREE ) Lamborghini Centenario LP-770",
+    "autor": "Lambo_SC04",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 245112,
+    "url": "https://sketchfab.com/3d-models/none-f70732dbd53c4c9daef0b9904d51dd5a",
+    "miniatura": "miniaturas/tienda/f70732dbd53c4c9daef0b9904d51dd5a.jpg"
+   },
+   {
+    "uid": "f200b7941c034c75a4dd8983283467ef",
+    "nombre": "Shuttle interior from \"2001: A Space Odyssey \"",
+    "autor": "apetrova.hanna",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9868,
+    "url": "https://sketchfab.com/3d-models/none-f200b7941c034c75a4dd8983283467ef",
+    "miniatura": "miniaturas/tienda/f200b7941c034c75a4dd8983283467ef.jpg"
+   },
+   {
+    "uid": "3908d8b3ef3c4e98a6689b90a1f0ecf3",
+    "nombre": "Zalipie | House of Painters | Slavic Interior",
+    "autor": "NanoGames",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1699890,
+    "url": "https://sketchfab.com/3d-models/none-3908d8b3ef3c4e98a6689b90a1f0ecf3",
+    "miniatura": "miniaturas/tienda/3908d8b3ef3c4e98a6689b90a1f0ecf3.jpg"
+   },
+   {
+    "uid": "8aa4be20bbae4786b3f996a786dc5b8f",
+    "nombre": "Spaceship",
+    "autor": "vrcityphoto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 313030,
+    "url": "https://sketchfab.com/3d-models/none-8aa4be20bbae4786b3f996a786dc5b8f",
+    "miniatura": "miniaturas/tienda/8aa4be20bbae4786b3f996a786dc5b8f.jpg"
+   },
+   {
+    "uid": "b07306d348a44991ae7d0bbcff95fe90",
+    "nombre": "Star Wars: Alpha-class Xg-1 Star Wing",
+    "autor": "DanielAndersson",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 58440,
+    "url": "https://sketchfab.com/3d-models/none-b07306d348a44991ae7d0bbcff95fe90",
+    "miniatura": "miniaturas/tienda/b07306d348a44991ae7d0bbcff95fe90.jpg"
+   },
+   {
+    "uid": "5c66489569294dac93215877dcda0b83",
+    "nombre": "Module XB1101 - Sci-Fi Corridor (Halo Inspired)",
+    "autor": "Polygons_Oh_My",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1000,
+    "url": "https://sketchfab.com/3d-models/none-5c66489569294dac93215877dcda0b83",
+    "miniatura": "miniaturas/tienda/5c66489569294dac93215877dcda0b83.jpg"
+   },
+   {
+    "uid": "57d92ac969194335b1649c3152065b22",
+    "nombre": "Schwarzenbach - Drechslerei (inside)",
+    "autor": "Mario_Wallner",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 500000,
+    "url": "https://sketchfab.com/3d-models/none-57d92ac969194335b1649c3152065b22",
+    "miniatura": "miniaturas/tienda/57d92ac969194335b1649c3152065b22.jpg"
+   },
+   {
+    "uid": "c4b8e2aa8c0c4533b37674857665f296",
+    "nombre": "Igualada Cemetery: Chapel",
+    "autor": "9of9",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 500000,
+    "url": "https://sketchfab.com/3d-models/none-c4b8e2aa8c0c4533b37674857665f296",
+    "miniatura": "miniaturas/tienda/c4b8e2aa8c0c4533b37674857665f296.jpg"
+   },
+   {
+    "uid": "841205af630444da911fa7a2e8541a16",
+    "nombre": "Star Wars Hangar interior model",
+    "autor": "Adityakm",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 614144,
+    "url": "https://sketchfab.com/3d-models/none-841205af630444da911fa7a2e8541a16",
+    "miniatura": "miniaturas/tienda/841205af630444da911fa7a2e8541a16.jpg"
+   }
+  ],
+  "zapatos_tienda": [
+   {
+    "uid": "9229ddcda83d4461a762d83e88ba493e",
+    "nombre": "Medieval Steps - Dinan",
+    "autor": "noxfcna",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 881830,
+    "url": "https://sketchfab.com/3d-models/none-9229ddcda83d4461a762d83e88ba493e",
+    "miniatura": "miniaturas/zapatos_tienda/9229ddcda83d4461a762d83e88ba493e.jpg"
+   },
+   {
+    "uid": "e7a03de4e430450697f06884e40b927c",
+    "nombre": "Hangers Pack tank top tshirt men long sleeve t-s",
+    "autor": "kopofx",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13848,
+    "url": "https://sketchfab.com/3d-models/none-e7a03de4e430450697f06884e40b927c",
+    "miniatura": "miniaturas/zapatos_tienda/e7a03de4e430450697f06884e40b927c.jpg"
+   },
+   {
+    "uid": "2692cc377baf4031b288aeaa58154bba",
+    "nombre": "Skull showing treponemal disease (syphilis)",
+    "autor": "cineg",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 900352,
+    "url": "https://sketchfab.com/3d-models/none-2692cc377baf4031b288aeaa58154bba",
+    "miniatura": "miniaturas/zapatos_tienda/2692cc377baf4031b288aeaa58154bba.jpg"
+   },
+   {
+    "uid": "a46681f25d914b25819dd65e50f3fe04",
+    "nombre": "Hempback Packrack",
+    "autor": "SmallpolyArt",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 200000,
+    "url": "https://sketchfab.com/3d-models/none-a46681f25d914b25819dd65e50f3fe04",
+    "miniatura": "miniaturas/zapatos_tienda/a46681f25d914b25819dd65e50f3fe04.jpg"
+   },
+   {
+    "uid": "375f9faf7fd241a8abfb6df819527ae6",
+    "nombre": "East Aquhorthies Recumbent Stone Circle",
+    "autor": "Douglas.Ledingham",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1850000,
+    "url": "https://sketchfab.com/3d-models/none-375f9faf7fd241a8abfb6df819527ae6",
+    "miniatura": "miniaturas/zapatos_tienda/375f9faf7fd241a8abfb6df819527ae6.jpg"
+   },
+   {
+    "uid": "0b217223b8514b64afc2d320456413e4",
+    "nombre": "Escaparate viejo",
+    "autor": "yelizegi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1500584,
+    "url": "https://sketchfab.com/3d-models/none-0b217223b8514b64afc2d320456413e4",
+    "miniatura": "miniaturas/zapatos_tienda/0b217223b8514b64afc2d320456413e4.jpg"
+   },
+   {
+    "uid": "43398219eded4f8a8b6a24ab32f1fea7",
+    "nombre": "Game n Hobby Shop",
+    "autor": "thegriffindude",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 126307,
+    "url": "https://sketchfab.com/3d-models/none-43398219eded4f8a8b6a24ab32f1fea7",
+    "miniatura": "miniaturas/zapatos_tienda/43398219eded4f8a8b6a24ab32f1fea7.jpg"
+   }
+  ]
+ },
+ "commons": {
+  "cm_bat": [
+   {
+    "titulo": "File:Bat.nav+buzz.20250704 204120.flac",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bat.nav%2Bbuzz.20250704_204120.flac?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.36,
+    "mime": "audio/flac",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Xofc",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Bat.nav%2Bbuzz.20250704_204120.flac",
+    "archivo": "sonidos/cm_bat/Bat.nav_buzz.20250704_204120.flac"
+   },
+   {
+    "titulo": "File:Bat feeding buzz.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Bat_feeding_buzz.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.59,
+    "mime": "audio/wav",
+    "licencia": "CC0",
+    "autor": "Kaldari",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Bat_feeding_buzz.wav",
+    "archivo": "sonidos/cm_bat/Bat_feeding_buzz.wav"
+   },
+   {
+    "titulo": "File:Hoary bat chirp recording.wav",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hoary_bat_chirp_recording.wav?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 1.83,
+    "mime": "audio/wav",
+    "licencia": "CC0",
+    "autor": "Kaldari",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Hoary_bat_chirp_recording.wav",
+    "archivo": "sonidos/cm_bat/Hoary_bat_chirp_recording.wav"
+   },
+   {
+    "titulo": "File:Keoka ultrasound various1.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Keoka_ultrasound_various1.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.37,
+    "mime": "application/ogg",
+    "licencia": "CC BY-SA 3.0",
+    "autor": "User:Keoka",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Keoka_ultrasound_various1.ogg",
+    "archivo": "sonidos/cm_bat/Keoka_ultrasound_various1.ogg"
+   }
+  ],
+  "cm_pasos": [
+   {
+    "titulo": "File:Now's The Time 2C Panda's Dance Variation Jason Exercise.ogg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Now%27s_The_Time_2C_Panda%27s_Dance_Variation_Jason_Exercise.ogg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mb": 0.51,
+    "mime": "application/ogg",
+    "licencia": "CC BY-SA 4.0",
+    "autor": "Jason M. C., Han",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Now%27s_The_Time_2C_Panda%27s_Dance_Variation_Jason_Exercise.ogg",
+    "error": "<HTTPError 429: 'Too many requests - please contact noc@wikimedia.org to discuss a less disruptive a"
+   }
+  ]
+ }
+}

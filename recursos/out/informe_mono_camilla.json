@@ -1,0 +1,2503 @@
+{
+ "bajados": [
+  {
+   "destino": "sonidos/mh_correa/Leather_Straps_Leather_Stretching_Buckle_Click_01._321859.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/mh_monitor_s/beeps_for_heart_monitor.wav_by_vestibule-door_668978.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mh_monitor_s/heart_monitor_beep.wav_by_gustavo.hanke_517508.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/mh_monitor_s/Heart_rate_monitor.m4a_by_JalynCatbtg_652534.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/mh_monitor_s/Heart_Monitor_2_by_KodyTron_641918.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/mh_monitor_s/Heartbeat_with_beep.wav_by_b-train_410379.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/mh_aguja/Pulling_Fluid_into_Syringe_1-2.aif_by_SteveMannell_86187.mp3",
+   "mb": 0.31
+  },
+  {
+   "destino": "sonidos/mh_jaula/purely_synthesised_metal_clang_with_long_reverb.fl_232450.mp3",
+   "mb": 0.18
+  },
+  {
+   "destino": "miniaturas/mh_camilla/bd69f5a963714cb2b2c08ee098a03aab.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla/a74239ec0dfe454a906c339071855d87.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla/aecf349e49864d8492cf320e5b8d063c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla/f6f350bf2c754644a69dac2ac21e1230.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla/a17076c386ee4408bc6549e58f2cc424.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla/41d1999853f5409d90b7b91e41945917.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla/66bd937bb42b491486bd0ca428c6bfa6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla2/43736bb6a0b64fe8a824542bdbace6bc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/96fb858918b14dfd94edd7cdad55333e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/f8c13a19e84343e7b644c19f7b9488d3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/60651eac7e96454c8cf5c43a91412336.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/3b2ccb0cc5fc4dda8c929300ccd3d49c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/295ed50eeaa249e8bbeed7b305d3da71.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/6251708b41514ee6b4fec0e3955c4b69.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/31f6a1e16da647988194976ca6fc2689.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/02ab679ff3f24018a8bcaf30b3b2cd47.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/43736bb6a0b64fe8a824542bdbace6bc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/86a88d99cb274e30a7ea96f1c1572044.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/e3ef6fd54af440efa31984214dd6f11d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/a74239ec0dfe454a906c339071855d87.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/aecf349e49864d8492cf320e5b8d063c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/04eec268506d45a192f70aea01b8d292.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/f2b3a71f48d040069fb144f76a1180d9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/9cd9464990d2456e98b69978447852aa.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/704ff825d8f04bc78603121d3ce7748b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/b30a6e69d5d849c78abb2f760791c0d1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/84a173c742d7427a913b0ad60168f2cc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/95704c5fcec5401ea46f38e11ca1a91d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/016dae4bf4da4c9ca6363e08e5cc96b0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/e16d1661b7d44949b52d8dbf44168b14.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/38d1958302fd41e08bbae647d1e3e99e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/3c6a966fee9f4e09b81f2d1e7950336f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/20aed1e111ea4749bea19e3c810b0469.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/a4caf9d5699b4040a275501bb1f6614b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/cb48b7d987b64203b5181f31e7e79938.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/e3ac86e561bd4c59b5666a317ab6ef95.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/55f0e847c55b4ec6999e0b2f0f1e1416.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/76bd0a2a4e324a2e91a71b4e5d721c15.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/f6d2848a10ca4596a9473e7109a8c843.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/46d7368dd7934c4fa3198d05789c88a6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/a20fc7e16f4c4842a4212daff04eee46.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/96533ccd19084992959df08ec06424aa.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/72d94dbf9851401180b10e07f7fd38ab.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/94bbba6bcf804e49b0f9fe7725f88525.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/2861cfebece0437784a8e9e668cef8aa.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/e3544806eddf4c83867d0a32fd7090e3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/3479f319b76f4f6a9894c1d38e90e686.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/facb8532024e4603b93a8ea91f532904.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/d47d792bdaa24dcaa8e6f341cc9f5938.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/ab31bf3de9b5446bb607a8adac33bbef.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/42b916fe68704465817948bf30e48aec.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/c93acd5558564d4ab2c2c8b5a3cbc73e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/0c1ea198d1ae4153a77e99b5bb4a3a47.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/b681d52be88a434db280198e0004b5c6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/4a7904abc7da49a3b080416bee4d4777.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/1e7c7fe31b694ee991a8bb5530bd46e0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/0386a440116e4556b17568350e81adfd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/d7e9ba33da2b4a1c88b0100793f36e88.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/b276650ae34c4137bdfdba5ae47d4876.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/94ddaa252e474d61a3115ccecf60a6b8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/4e3f23eeabd148869e48716662ffc643.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/d290546fade04b1098ca8e195cec526a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_camilla3/66bd937bb42b491486bd0ca428c6bfa6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_monitor/89065e109790417191467cfececf2c7c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_monitor/295ed50eeaa249e8bbeed7b305d3da71.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_monitor/84aa2c97829b4557bc077e8006d97e58.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_monitor/0835fb045655417587b99f6d645158ce.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_monitor/a3994e8b236d441c9775b2669046bd29.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_suero/5cc65c6aed374220b67f7d60e679153e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_suero2/3facd48dff0945f7b96f95ad31c4beb5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_suero2/577ee63d736a44cca98497ed60f8a3c1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_suero2/aef1b9c9552a407c883ced922e520d27.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_suero2/396530e9f959425d8660900bd3c5ce1e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_suero2/a93a8e70ecd2459c99e7812c6e09b88c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/96fb858918b14dfd94edd7cdad55333e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/3facd48dff0945f7b96f95ad31c4beb5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/22e711221a094a48a6ffe826d3fd6185.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/cdcc401bf48d42e3895965d52eb2f3d8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/2fb2a6378ca44bd2887438db6c2bd4b6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/65f0f77a6ef948f08d5a1b0910b6d9e1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/c071c69e73b0495692703cae47d21611.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/6cb3decbc5db4fb093f222f3bd4b0241.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/1de7893db91c4cf8822ff10ee999cd67.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/7c0620856f0444cf8e9bbcd8670b6247.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/ed3ed6c5644a4aa7877a1fa62a918580.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/43736bb6a0b64fe8a824542bdbace6bc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/2d297eed7b24451a8fb47a9372274778.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/8de32be8633a4c87ba7ed1d125b45ec9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/370fc9fa4f6b4abb955ff9eaf435e056.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/324b3ed0026940808db353c8c6d7450e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/29054494117c4df5a9540917e03a67cb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/894976d13bc24c89bdb2e67aedfbaefd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/c9d4d54e9167485cb76144ff3cf9f3ec.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/a5525290d3eb47a1930faaf358a74d05.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/abed2cf76965446ba7e1ccbd79665801.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/4d2d747105e34ba38d734681b8d2dd1e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/13d403b5bf0048ee9d86994523418cd9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/decdb2c636e64a919f1f61c5e2636a93.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/c76e7b073f24428cbfa786fc48998961.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/b76be5e0927040008050d7eae6dd2836.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/17e546737e21415cbe21b0ddd9012a4f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/45784c51b67042109317c76983830dc3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/79062c72732d47c4b649ea57c847dd9d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/64bc8b22c8ac4b2e9c72018257bf2449.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/1a13b4fbd3fe4ec9be1c6da1fe2fe1e5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/0cde834948cf41fcb4fa4ec3f4038732.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/e1e3ff6091c04cf2a183ac8a3775f50f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/6d50f9e44a9047ffb2db627c87c8ce07.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/c758659ec66c4248bb4734c2167cdb7c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/32540354f8ff4e0784c3c6f97023732d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/1acd9125d52a4232ad47b2e007cbd2ac.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/bd100c855b664d0f9846b4bacdc4c59b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/fe35a327fc3d4cf68e206e478f9aabfd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_jeringa/d6f636842b394823ba99164c58b1853a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_cateter/69f883fdc4b54b51aca2864eb4b9c646.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_cateter/bcf44462b4c2403e98b1325b2659bf48.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_cateter/17a8b45fcb3648658142a23dd0e2081a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_cateter/f9a56a1bd4094bfc8b60117928d731b1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/6ef86b9a368d4058b67f0c99a7880fb4.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_chimp/f5a44f5d71284c5cbcdfe4b7005d639d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/10a834c9f4cf4839b67f630db1ec0e0b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/6cb471c89f634beaa0e3f62fb939d27d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/732aaab3bdeb41e29b3cea49479ea420.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_chimp/1399584ba1744d0cbdd21f400cd4d2ab.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/31073e7537c14a6e89f509e890582d09.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/16e37cef8db9438fa319a53d26eb64b0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/c89419ca401b42e9a234e936c95d8d50.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_chimp/9338582032f348a49da8be159a650699.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/8406f61193e541f1b9e06eaae2749736.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mh_chimp/cabeff583fd040e6954d29c7a6c351fe.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/e06ca49eeaab4e8a9911aa6829174dc7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/d8bcb8cbc9d74a848af0797f4ec98b7c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/3d8a3d1177424af182e0737a1afc8bb7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/7e497a2d7e0a45848d07a83ff1f30caf.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/62d7f89a88184d7499ec8ee07339d151.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/b79f4ba2e48b45dc95d83fd3914fcaeb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/cecc16f8cf8a4a288a89e26573eeafba.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/2b0b22873d7440d0a9dc674f2d7acc1b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/346fb1310d0a4e889678b9073206072e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/2df83ccb968d473587ccce0330ff05b7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/c6d7980561064358ba2d122cbda877de.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/fede49e33a1b45e5af6e8844c625f03c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/80bc6b93e546475ca52f7bcd653d1176.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/efb9d1c5fb274efca2c91c03e2791347.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/b6feac5f037f43b4877d39639a1f457e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/54a1c80b08834718ba4a613e2bcb70e6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/d6df0643aba246608f18b80510e09a24.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/30a54bb2123d46909fa90e8b085c6583.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/03fb5513ab2849a59be87192879d083f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/e9d50515c49f48af8efb2ca8417e935f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/1dd3785e1efb43be85bd89c680a69d0a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/884472a415f24b81a405b820df82af4b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/e17347dde71a4c27b7c449be5acb7948.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/92938f1a3c21402ca1405ccc98fcc837.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/47125f083e464d87b23ec748b2679983.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/3af8becb072b4479b4d510d3324ffdb7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/9b8835c36d1d49ccbb45e4774d715089.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/8502da5941a7415687f2739f5fe05521.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/acf1799d8f9a4242849579f2a782c8df.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/214ab1b88d3e4a49b1094b23695af93e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/e59a4be88e8545268dda24c72eed2a0c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/d0f8d0ee0dcc4a61850254b0e65bfe09.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/e683c3d43fc84daea19219a1f2ce2ed5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/5c1e4c3c8cd645b488050b2711e9395b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/36d2c678e3ba495489cb308d2fbc7c08.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/59fd769df62640cc8f0eff5a6aa4c6ba.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/350c5a647f534092b99260851a6b736b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp/b5ed70faeacd4310b8ed6446ccd1e899.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mh_chimp2/c53e8ca04bb54d5e8649d95b437e2ca3.jpg",
+   "mb": 0.0
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "freesound": {
+  "mh_correa": [
+   {
+    "id": "321859",
+    "autor": "n_audioman",
+    "pagina": "https://freesound.org/people/n_audioman/sounds/321859/",
+    "titulo": "Leather_Straps_Leather_Stretching_Buckle_Click 01.WAV by n_audioman",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mh_correa/Leather_Straps_Leather_Stretching_Buckle_Click_01._321859.mp3"
+   }
+  ],
+  "mh_camilla_s": [],
+  "mh_monitor_s": [
+   {
+    "id": "668978",
+    "autor": "vestibule-door",
+    "pagina": "https://freesound.org/people/vestibule-door/sounds/668978/",
+    "titulo": "beeps for heart monitor.wav by vestibule-door",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mh_monitor_s/beeps_for_heart_monitor.wav_by_vestibule-door_668978.mp3"
+   },
+   {
+    "id": "517508",
+    "autor": "gustavo.hanke",
+    "pagina": "https://freesound.org/people/gustavo.hanke/sounds/517508/",
+    "titulo": "heart monitor beep.wav by gustavo.hanke",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mh_monitor_s/heart_monitor_beep.wav_by_gustavo.hanke_517508.mp3"
+   },
+   {
+    "id": "652534",
+    "autor": "JalynCatbtg",
+    "pagina": "https://freesound.org/people/JalynCatbtg/sounds/652534/",
+    "titulo": "Heart rate monitor.m4a by JalynCatbtg",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mh_monitor_s/Heart_rate_monitor.m4a_by_JalynCatbtg_652534.mp3"
+   },
+   {
+    "id": "641918",
+    "autor": "KodyTron",
+    "pagina": "https://freesound.org/people/KodyTron/sounds/641918/",
+    "titulo": "Heart Monitor 2 by KodyTron",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mh_monitor_s/Heart_Monitor_2_by_KodyTron_641918.mp3"
+   },
+   {
+    "id": "410379",
+    "autor": "b-train",
+    "pagina": "https://freesound.org/people/b-train/sounds/410379/",
+    "titulo": "Heartbeat with beep.wav by b-train",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mh_monitor_s/Heartbeat_with_beep.wav_by_b-train_410379.mp3"
+   }
+  ],
+  "mh_aguja": [
+   {
+    "id": "86187",
+    "autor": "SteveMannella",
+    "pagina": "https://freesound.org/people/SteveMannella/sounds/86187/",
+    "titulo": "Pulling Fluid into Syringe_1-2.aif by SteveMannella",
+    "licencia": "?",
+    "archivo": "sonidos/mh_aguja/Pulling_Fluid_into_Syringe_1-2.aif_by_SteveMannell_86187.mp3"
+   }
+  ],
+  "mh_chimp_miedo": [],
+  "mh_jaula": [
+   {
+    "id": "232450",
+    "autor": "Timbre",
+    "pagina": "https://freesound.org/people/Timbre/sounds/232450/",
+    "titulo": "purely synthesised metal clang with long reverb.flac by Timbre",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mh_jaula/purely_synthesised_metal_clang_with_long_reverb.fl_232450.mp3"
+   }
+  ]
+ },
+ "sketchfab": {
+  "mh_camilla": [
+   {
+    "uid": "bd69f5a963714cb2b2c08ee098a03aab",
+    "nombre": "Stretcher",
+    "autor": "Odlab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12228,
+    "url": "https://sketchfab.com/3d-models/none-bd69f5a963714cb2b2c08ee098a03aab",
+    "miniatura": "miniaturas/mh_camilla/bd69f5a963714cb2b2c08ee098a03aab.jpg"
+   },
+   {
+    "uid": "a74239ec0dfe454a906c339071855d87",
+    "nombre": "Hospital Stretcher",
+    "autor": "gunnarcorrea",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3600,
+    "url": "https://sketchfab.com/3d-models/none-a74239ec0dfe454a906c339071855d87",
+    "miniatura": "miniaturas/mh_camilla/a74239ec0dfe454a906c339071855d87.jpg"
+   },
+   {
+    "uid": "aecf349e49864d8492cf320e5b8d063c",
+    "nombre": "Gourney - Hospital Bed",
+    "autor": "meeww",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 155095,
+    "url": "https://sketchfab.com/3d-models/none-aecf349e49864d8492cf320e5b8d063c",
+    "miniatura": "miniaturas/mh_camilla/aecf349e49864d8492cf320e5b8d063c.jpg"
+   },
+   {
+    "uid": "f6f350bf2c754644a69dac2ac21e1230",
+    "nombre": "OLD Hospital Stretcher",
+    "autor": "shubham_mishra",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 854,
+    "url": "https://sketchfab.com/3d-models/none-f6f350bf2c754644a69dac2ac21e1230",
+    "miniatura": "miniaturas/mh_camilla/f6f350bf2c754644a69dac2ac21e1230.jpg"
+   },
+   {
+    "uid": "a17076c386ee4408bc6549e58f2cc424",
+    "nombre": "The Ridges (Kirkbride Asylum) Door 6",
+    "autor": "hopeliz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8035,
+    "url": "https://sketchfab.com/3d-models/none-a17076c386ee4408bc6549e58f2cc424",
+    "miniatura": "miniaturas/mh_camilla/a17076c386ee4408bc6549e58f2cc424.jpg"
+   },
+   {
+    "uid": "41d1999853f5409d90b7b91e41945917",
+    "nombre": "The Ridges (Kirkbride Asylum) Door 5",
+    "autor": "hopeliz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7115,
+    "url": "https://sketchfab.com/3d-models/none-41d1999853f5409d90b7b91e41945917",
+    "miniatura": "miniaturas/mh_camilla/41d1999853f5409d90b7b91e41945917.jpg"
+   },
+   {
+    "uid": "66bd937bb42b491486bd0ca428c6bfa6",
+    "nombre": "Hospital Bed Rail Phone Adaptor",
+    "autor": "meissa",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 160,
+    "url": "https://sketchfab.com/3d-models/none-66bd937bb42b491486bd0ca428c6bfa6",
+    "miniatura": "miniaturas/mh_camilla/66bd937bb42b491486bd0ca428c6bfa6.jpg"
+   }
+  ],
+  "mh_camilla2": [
+   {
+    "uid": "43736bb6a0b64fe8a824542bdbace6bc",
+    "nombre": "Game Prop: Mental Asylum Gurney",
+    "autor": "eymori",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 984,
+    "url": "https://sketchfab.com/3d-models/none-43736bb6a0b64fe8a824542bdbace6bc",
+    "miniatura": "miniaturas/mh_camilla2/43736bb6a0b64fe8a824542bdbace6bc.jpg"
+   }
+  ],
+  "mh_camilla3": [
+   {
+    "uid": "96fb858918b14dfd94edd7cdad55333e",
+    "nombre": "Hospital Stuff",
+    "autor": "minamahmoodi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1667332,
+    "url": "https://sketchfab.com/3d-models/none-96fb858918b14dfd94edd7cdad55333e",
+    "miniatura": "miniaturas/mh_camilla3/96fb858918b14dfd94edd7cdad55333e.jpg"
+   },
+   {
+    "uid": "f8c13a19e84343e7b644c19f7b9488d3",
+    "nombre": "Hospital Bed",
+    "autor": "loxfear",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3988,
+    "url": "https://sketchfab.com/3d-models/none-f8c13a19e84343e7b644c19f7b9488d3",
+    "miniatura": "miniaturas/mh_camilla3/f8c13a19e84343e7b644c19f7b9488d3.jpg"
+   },
+   {
+    "uid": "60651eac7e96454c8cf5c43a91412336",
+    "nombre": "Simple Hospital Bed",
+    "autor": "yvopors14",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 123920,
+    "url": "https://sketchfab.com/3d-models/none-60651eac7e96454c8cf5c43a91412336",
+    "miniatura": "miniaturas/mh_camilla3/60651eac7e96454c8cf5c43a91412336.jpg"
+   },
+   {
+    "uid": "3b2ccb0cc5fc4dda8c929300ccd3d49c",
+    "nombre": "Old hospital bed (PBR|GR)",
+    "autor": "tris09",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15922,
+    "url": "https://sketchfab.com/3d-models/none-3b2ccb0cc5fc4dda8c929300ccd3d49c",
+    "miniatura": "miniaturas/mh_camilla3/3b2ccb0cc5fc4dda8c929300ccd3d49c.jpg"
+   },
+   {
+    "uid": "295ed50eeaa249e8bbeed7b305d3da71",
+    "nombre": "Bed Curtain and Vital Signs Monitor",
+    "autor": "EDIIIC",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8812,
+    "url": "https://sketchfab.com/3d-models/none-295ed50eeaa249e8bbeed7b305d3da71",
+    "miniatura": "miniaturas/mh_camilla3/295ed50eeaa249e8bbeed7b305d3da71.jpg"
+   },
+   {
+    "uid": "6251708b41514ee6b4fec0e3955c4b69",
+    "nombre": "Old Bed",
+    "autor": "asin10009",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 692,
+    "url": "https://sketchfab.com/3d-models/none-6251708b41514ee6b4fec0e3955c4b69",
+    "miniatura": "miniaturas/mh_camilla3/6251708b41514ee6b4fec0e3955c4b69.jpg"
+   },
+   {
+    "uid": "31f6a1e16da647988194976ca6fc2689",
+    "nombre": "Lennox castle hospital",
+    "autor": "333DDD-oficial",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 626138,
+    "url": "https://sketchfab.com/3d-models/none-31f6a1e16da647988194976ca6fc2689",
+    "miniatura": "miniaturas/mh_camilla3/31f6a1e16da647988194976ca6fc2689.jpg"
+   },
+   {
+    "uid": "02ab679ff3f24018a8bcaf30b3b2cd47",
+    "nombre": "Hospital Bed",
+    "autor": "cobblegames",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5489,
+    "url": "https://sketchfab.com/3d-models/none-02ab679ff3f24018a8bcaf30b3b2cd47",
+    "miniatura": "miniaturas/mh_camilla3/02ab679ff3f24018a8bcaf30b3b2cd47.jpg"
+   },
+   {
+    "uid": "43736bb6a0b64fe8a824542bdbace6bc",
+    "nombre": "Game Prop: Mental Asylum Gurney",
+    "autor": "eymori",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 984,
+    "url": "https://sketchfab.com/3d-models/none-43736bb6a0b64fe8a824542bdbace6bc",
+    "miniatura": "miniaturas/mh_camilla3/43736bb6a0b64fe8a824542bdbace6bc.jpg"
+   },
+   {
+    "uid": "86a88d99cb274e30a7ea96f1c1572044",
+    "nombre": "Horror Hospital Room",
+    "autor": "gunnarcorrea",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5790,
+    "url": "https://sketchfab.com/3d-models/none-86a88d99cb274e30a7ea96f1c1572044",
+    "miniatura": "miniaturas/mh_camilla3/86a88d99cb274e30a7ea96f1c1572044.jpg"
+   },
+   {
+    "uid": "e3ef6fd54af440efa31984214dd6f11d",
+    "nombre": "Adjustable Bedside Table",
+    "autor": "EDIIIC",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3036,
+    "url": "https://sketchfab.com/3d-models/none-e3ef6fd54af440efa31984214dd6f11d",
+    "miniatura": "miniaturas/mh_camilla3/e3ef6fd54af440efa31984214dd6f11d.jpg"
+   },
+   {
+    "uid": "a74239ec0dfe454a906c339071855d87",
+    "nombre": "Hospital Stretcher",
+    "autor": "gunnarcorrea",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3600,
+    "url": "https://sketchfab.com/3d-models/none-a74239ec0dfe454a906c339071855d87",
+    "miniatura": "miniaturas/mh_camilla3/a74239ec0dfe454a906c339071855d87.jpg"
+   },
+   {
+    "uid": "aecf349e49864d8492cf320e5b8d063c",
+    "nombre": "Gourney - Hospital Bed",
+    "autor": "meeww",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 155095,
+    "url": "https://sketchfab.com/3d-models/none-aecf349e49864d8492cf320e5b8d063c",
+    "miniatura": "miniaturas/mh_camilla3/aecf349e49864d8492cf320e5b8d063c.jpg"
+   },
+   {
+    "uid": "04eec268506d45a192f70aea01b8d292",
+    "nombre": "Hospital Bed",
+    "autor": "larry3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9724,
+    "url": "https://sketchfab.com/3d-models/none-04eec268506d45a192f70aea01b8d292",
+    "miniatura": "miniaturas/mh_camilla3/04eec268506d45a192f70aea01b8d292.jpg"
+   },
+   {
+    "uid": "f2b3a71f48d040069fb144f76a1180d9",
+    "nombre": "Hospital bed",
+    "autor": "mat_bvn",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2648,
+    "url": "https://sketchfab.com/3d-models/none-f2b3a71f48d040069fb144f76a1180d9",
+    "miniatura": "miniaturas/mh_camilla3/f2b3a71f48d040069fb144f76a1180d9.jpg"
+   },
+   {
+    "uid": "9cd9464990d2456e98b69978447852aa",
+    "nombre": "Hospital Bed",
+    "autor": "Matt_LeMoine",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3058,
+    "url": "https://sketchfab.com/3d-models/none-9cd9464990d2456e98b69978447852aa",
+    "miniatura": "miniaturas/mh_camilla3/9cd9464990d2456e98b69978447852aa.jpg"
+   },
+   {
+    "uid": "704ff825d8f04bc78603121d3ce7748b",
+    "nombre": "XYZ_Homework_4_part_3",
+    "autor": "selskiy_durachok",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1916404,
+    "url": "https://sketchfab.com/3d-models/none-704ff825d8f04bc78603121d3ce7748b",
+    "miniatura": "miniaturas/mh_camilla3/704ff825d8f04bc78603121d3ce7748b.jpg"
+   },
+   {
+    "uid": "b30a6e69d5d849c78abb2f760791c0d1",
+    "nombre": "Old and worn out hospital bed",
+    "autor": "jarapozo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 526,
+    "url": "https://sketchfab.com/3d-models/none-b30a6e69d5d849c78abb2f760791c0d1",
+    "miniatura": "miniaturas/mh_camilla3/b30a6e69d5d849c78abb2f760791c0d1.jpg"
+   },
+   {
+    "uid": "84a173c742d7427a913b0ad60168f2cc",
+    "nombre": "Funky Hospital",
+    "autor": "artificialorange",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 16668,
+    "url": "https://sketchfab.com/3d-models/none-84a173c742d7427a913b0ad60168f2cc",
+    "miniatura": "miniaturas/mh_camilla3/84a173c742d7427a913b0ad60168f2cc.jpg"
+   },
+   {
+    "uid": "95704c5fcec5401ea46f38e11ca1a91d",
+    "nombre": "Hospital bed",
+    "autor": "1-3D.com",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 6560,
+    "url": "https://sketchfab.com/3d-models/none-95704c5fcec5401ea46f38e11ca1a91d",
+    "miniatura": "miniaturas/mh_camilla3/95704c5fcec5401ea46f38e11ca1a91d.jpg"
+   },
+   {
+    "uid": "016dae4bf4da4c9ca6363e08e5cc96b0",
+    "nombre": "Old Style Hospital Bed",
+    "autor": "connorwassall",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10688,
+    "url": "https://sketchfab.com/3d-models/none-016dae4bf4da4c9ca6363e08e5cc96b0",
+    "miniatura": "miniaturas/mh_camilla3/016dae4bf4da4c9ca6363e08e5cc96b0.jpg"
+   },
+   {
+    "uid": "e16d1661b7d44949b52d8dbf44168b14",
+    "nombre": "Hospital",
+    "autor": "neominigan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1102614,
+    "url": "https://sketchfab.com/3d-models/none-e16d1661b7d44949b52d8dbf44168b14",
+    "miniatura": "miniaturas/mh_camilla3/e16d1661b7d44949b52d8dbf44168b14.jpg"
+   },
+   {
+    "uid": "38d1958302fd41e08bbae647d1e3e99e",
+    "nombre": "Hospital bed",
+    "autor": "ThreeDeeCreation",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8324,
+    "url": "https://sketchfab.com/3d-models/none-38d1958302fd41e08bbae647d1e3e99e",
+    "miniatura": "miniaturas/mh_camilla3/38d1958302fd41e08bbae647d1e3e99e.jpg"
+   },
+   {
+    "uid": "3c6a966fee9f4e09b81f2d1e7950336f",
+    "nombre": "Distressed Hospital Over Bed Desk",
+    "autor": "teeart",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2097,
+    "url": "https://sketchfab.com/3d-models/none-3c6a966fee9f4e09b81f2d1e7950336f",
+    "miniatura": "miniaturas/mh_camilla3/3c6a966fee9f4e09b81f2d1e7950336f.jpg"
+   },
+   {
+    "uid": "20aed1e111ea4749bea19e3c810b0469",
+    "nombre": "Shower Bed trolley With Infused hospital",
+    "autor": "riki-genesisdigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 49262,
+    "url": "https://sketchfab.com/3d-models/none-20aed1e111ea4749bea19e3c810b0469",
+    "miniatura": "miniaturas/mh_camilla3/20aed1e111ea4749bea19e3c810b0469.jpg"
+   },
+   {
+    "uid": "a4caf9d5699b4040a275501bb1f6614b",
+    "nombre": "Bed from creepy hospital",
+    "autor": "Krystian.Kulasek",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18808,
+    "url": "https://sketchfab.com/3d-models/none-a4caf9d5699b4040a275501bb1f6614b",
+    "miniatura": "miniaturas/mh_camilla3/a4caf9d5699b4040a275501bb1f6614b.jpg"
+   },
+   {
+    "uid": "cb48b7d987b64203b5181f31e7e79938",
+    "nombre": "Textured Hospital Bed",
+    "autor": "weibelart",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 17074,
+    "url": "https://sketchfab.com/3d-models/none-cb48b7d987b64203b5181f31e7e79938",
+    "miniatura": "miniaturas/mh_camilla3/cb48b7d987b64203b5181f31e7e79938.jpg"
+   },
+   {
+    "uid": "e3ac86e561bd4c59b5666a317ab6ef95",
+    "nombre": "HOSPITAL ROOM | Patient Room | Nurse Room",
+    "autor": "Rahul.Kumar5",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 811820,
+    "url": "https://sketchfab.com/3d-models/none-e3ac86e561bd4c59b5666a317ab6ef95",
+    "miniatura": "miniaturas/mh_camilla3/e3ac86e561bd4c59b5666a317ab6ef95.jpg"
+   },
+   {
+    "uid": "55f0e847c55b4ec6999e0b2f0f1e1416",
+    "nombre": "hospital bed",
+    "autor": "Rigiblend",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1115840,
+    "url": "https://sketchfab.com/3d-models/none-55f0e847c55b4ec6999e0b2f0f1e1416",
+    "miniatura": "miniaturas/mh_camilla3/55f0e847c55b4ec6999e0b2f0f1e1416.jpg"
+   },
+   {
+    "uid": "76bd0a2a4e324a2e91a71b4e5d721c15",
+    "nombre": "Health Clinic (Low Poly Style)",
+    "autor": "tikoavp",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9190,
+    "url": "https://sketchfab.com/3d-models/none-76bd0a2a4e324a2e91a71b4e5d721c15",
+    "miniatura": "miniaturas/mh_camilla3/76bd0a2a4e324a2e91a71b4e5d721c15.jpg"
+   },
+   {
+    "uid": "f6d2848a10ca4596a9473e7109a8c843",
+    "nombre": "XYZ_Homework_4_part_1",
+    "autor": "selskiy_durachok",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 471569,
+    "url": "https://sketchfab.com/3d-models/none-f6d2848a10ca4596a9473e7109a8c843",
+    "miniatura": "miniaturas/mh_camilla3/f6d2848a10ca4596a9473e7109a8c843.jpg"
+   },
+   {
+    "uid": "46d7368dd7934c4fa3198d05789c88a6",
+    "nombre": "old metal bed",
+    "autor": "bunnypew",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2160,
+    "url": "https://sketchfab.com/3d-models/none-46d7368dd7934c4fa3198d05789c88a6",
+    "miniatura": "miniaturas/mh_camilla3/46d7368dd7934c4fa3198d05789c88a6.jpg"
+   },
+   {
+    "uid": "a20fc7e16f4c4842a4212daff04eee46",
+    "nombre": "Hello Neighbor - Hospital Bed-1",
+    "autor": "Youthful-Strawberry",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7894,
+    "url": "https://sketchfab.com/3d-models/none-a20fc7e16f4c4842a4212daff04eee46",
+    "miniatura": "miniaturas/mh_camilla3/a20fc7e16f4c4842a4212daff04eee46.jpg"
+   },
+   {
+    "uid": "96533ccd19084992959df08ec06424aa",
+    "nombre": "Hospital Bed",
+    "autor": "Nakajima2500",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6368,
+    "url": "https://sketchfab.com/3d-models/none-96533ccd19084992959df08ec06424aa",
+    "miniatura": "miniaturas/mh_camilla3/96533ccd19084992959df08ec06424aa.jpg"
+   },
+   {
+    "uid": "72d94dbf9851401180b10e07f7fd38ab",
+    "nombre": "XYZ Houmework Secondary Forms",
+    "autor": "AlexandraOst",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 683766,
+    "url": "https://sketchfab.com/3d-models/none-72d94dbf9851401180b10e07f7fd38ab",
+    "miniatura": "miniaturas/mh_camilla3/72d94dbf9851401180b10e07f7fd38ab.jpg"
+   },
+   {
+    "uid": "94bbba6bcf804e49b0f9fe7725f88525",
+    "nombre": "XYZ_Homework_4_part_2",
+    "autor": "selskiy_durachok",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1815793,
+    "url": "https://sketchfab.com/3d-models/none-94bbba6bcf804e49b0f9fe7725f88525",
+    "miniatura": "miniaturas/mh_camilla3/94bbba6bcf804e49b0f9fe7725f88525.jpg"
+   },
+   {
+    "uid": "2861cfebece0437784a8e9e668cef8aa",
+    "nombre": "Hospital Bed",
+    "autor": "weibelart",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6450,
+    "url": "https://sketchfab.com/3d-models/none-2861cfebece0437784a8e9e668cef8aa",
+    "miniatura": "miniaturas/mh_camilla3/2861cfebece0437784a8e9e668cef8aa.jpg"
+   },
+   {
+    "uid": "e3544806eddf4c83867d0a32fd7090e3",
+    "nombre": "Medical Exam Table",
+    "autor": "thekaisanofficial",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 240,
+    "url": "https://sketchfab.com/3d-models/none-e3544806eddf4c83867d0a32fd7090e3",
+    "miniatura": "miniaturas/mh_camilla3/e3544806eddf4c83867d0a32fd7090e3.jpg"
+   },
+   {
+    "uid": "3479f319b76f4f6a9894c1d38e90e686",
+    "nombre": "Shower trolley hospital bed",
+    "autor": "riki-genesisdigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 25654,
+    "url": "https://sketchfab.com/3d-models/none-3479f319b76f4f6a9894c1d38e90e686",
+    "miniatura": "miniaturas/mh_camilla3/3479f319b76f4f6a9894c1d38e90e686.jpg"
+   },
+   {
+    "uid": "facb8532024e4603b93a8ea91f532904",
+    "nombre": "Hospice Bed V01",
+    "autor": "oswinwan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 447625,
+    "url": "https://sketchfab.com/3d-models/none-facb8532024e4603b93a8ea91f532904",
+    "miniatura": "miniaturas/mh_camilla3/facb8532024e4603b93a8ea91f532904.jpg"
+   },
+   {
+    "uid": "d47d792bdaa24dcaa8e6f341cc9f5938",
+    "nombre": "Patient Rest Bed",
+    "autor": "thekaisanofficial",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5000,
+    "url": "https://sketchfab.com/3d-models/none-d47d792bdaa24dcaa8e6f341cc9f5938",
+    "miniatura": "miniaturas/mh_camilla3/d47d792bdaa24dcaa8e6f341cc9f5938.jpg"
+   },
+   {
+    "uid": "ab31bf3de9b5446bb607a8adac33bbef",
+    "nombre": "Hospital shower Trolley bed",
+    "autor": "riki-genesisdigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 25654,
+    "url": "https://sketchfab.com/3d-models/none-ab31bf3de9b5446bb607a8adac33bbef",
+    "miniatura": "miniaturas/mh_camilla3/ab31bf3de9b5446bb607a8adac33bbef.jpg"
+   },
+   {
+    "uid": "42b916fe68704465817948bf30e48aec",
+    "nombre": "Real Hospital Bed",
+    "autor": "UofA-CDH",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 52586,
+    "url": "https://sketchfab.com/3d-models/none-42b916fe68704465817948bf30e48aec",
+    "miniatura": "miniaturas/mh_camilla3/42b916fe68704465817948bf30e48aec.jpg"
+   },
+   {
+    "uid": "c93acd5558564d4ab2c2c8b5a3cbc73e",
+    "nombre": "Over Bed-table",
+    "autor": "Dwayne.Barnett",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 568,
+    "url": "https://sketchfab.com/3d-models/none-c93acd5558564d4ab2c2c8b5a3cbc73e",
+    "miniatura": "miniaturas/mh_camilla3/c93acd5558564d4ab2c2c8b5a3cbc73e.jpg"
+   },
+   {
+    "uid": "0c1ea198d1ae4153a77e99b5bb4a3a47",
+    "nombre": "Frida Hospital Bed",
+    "autor": "queenawzq",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 261978,
+    "url": "https://sketchfab.com/3d-models/none-0c1ea198d1ae4153a77e99b5bb4a3a47",
+    "miniatura": "miniaturas/mh_camilla3/0c1ea198d1ae4153a77e99b5bb4a3a47.jpg"
+   },
+   {
+    "uid": "b681d52be88a434db280198e0004b5c6",
+    "nombre": "Photogrammetry scan of Doctor’s Office",
+    "autor": "candice_colbert",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 103844,
+    "url": "https://sketchfab.com/3d-models/none-b681d52be88a434db280198e0004b5c6",
+    "miniatura": "miniaturas/mh_camilla3/b681d52be88a434db280198e0004b5c6.jpg"
+   },
+   {
+    "uid": "4a7904abc7da49a3b080416bee4d4777",
+    "nombre": "Operating Table",
+    "autor": "thekaisanofficial",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 336,
+    "url": "https://sketchfab.com/3d-models/none-4a7904abc7da49a3b080416bee4d4777",
+    "miniatura": "miniaturas/mh_camilla3/4a7904abc7da49a3b080416bee4d4777.jpg"
+   },
+   {
+    "uid": "1e7c7fe31b694ee991a8bb5530bd46e0",
+    "nombre": "Infirmary Bed",
+    "autor": "anujpatwari",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2564,
+    "url": "https://sketchfab.com/3d-models/none-1e7c7fe31b694ee991a8bb5530bd46e0",
+    "miniatura": "miniaturas/mh_camilla3/1e7c7fe31b694ee991a8bb5530bd46e0.jpg"
+   },
+   {
+    "uid": "0386a440116e4556b17568350e81adfd",
+    "nombre": "Bed",
+    "autor": "nicholas.rowley",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15642,
+    "url": "https://sketchfab.com/3d-models/none-0386a440116e4556b17568350e81adfd",
+    "miniatura": "miniaturas/mh_camilla3/0386a440116e4556b17568350e81adfd.jpg"
+   },
+   {
+    "uid": "d7e9ba33da2b4a1c88b0100793f36e88",
+    "nombre": "Ancient bed",
+    "autor": "Ratart.vbes",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13696,
+    "url": "https://sketchfab.com/3d-models/none-d7e9ba33da2b4a1c88b0100793f36e88",
+    "miniatura": "miniaturas/mh_camilla3/d7e9ba33da2b4a1c88b0100793f36e88.jpg"
+   },
+   {
+    "uid": "b276650ae34c4137bdfdba5ae47d4876",
+    "nombre": "Hospital bed",
+    "autor": "UofA-CDH",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 146960,
+    "url": "https://sketchfab.com/3d-models/none-b276650ae34c4137bdfdba5ae47d4876",
+    "miniatura": "miniaturas/mh_camilla3/b276650ae34c4137bdfdba5ae47d4876.jpg"
+   },
+   {
+    "uid": "94ddaa252e474d61a3115ccecf60a6b8",
+    "nombre": "RJA10LP Rigid Jumbo Low Profile Archway",
+    "autor": "trim-tex",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 59346,
+    "url": "https://sketchfab.com/3d-models/none-94ddaa252e474d61a3115ccecf60a6b8",
+    "miniatura": "miniaturas/mh_camilla3/94ddaa252e474d61a3115ccecf60a6b8.jpg"
+   },
+   {
+    "uid": "4e3f23eeabd148869e48716662ffc643",
+    "nombre": "RJ10LP Rigid Jumbo Low Profile",
+    "autor": "trim-tex",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 70046,
+    "url": "https://sketchfab.com/3d-models/none-4e3f23eeabd148869e48716662ffc643",
+    "miniatura": "miniaturas/mh_camilla3/4e3f23eeabd148869e48716662ffc643.jpg"
+   },
+   {
+    "uid": "d290546fade04b1098ca8e195cec526a",
+    "nombre": "Hospital bed in training room",
+    "autor": "adrianImp",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 210302,
+    "url": "https://sketchfab.com/3d-models/none-d290546fade04b1098ca8e195cec526a",
+    "miniatura": "miniaturas/mh_camilla3/d290546fade04b1098ca8e195cec526a.jpg"
+   },
+   {
+    "uid": "66bd937bb42b491486bd0ca428c6bfa6",
+    "nombre": "Hospital Bed Rail Phone Adaptor",
+    "autor": "meissa",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 160,
+    "url": "https://sketchfab.com/3d-models/none-66bd937bb42b491486bd0ca428c6bfa6",
+    "miniatura": "miniaturas/mh_camilla3/66bd937bb42b491486bd0ca428c6bfa6.jpg"
+   }
+  ],
+  "mh_bomba": [],
+  "mh_monitor": [
+   {
+    "uid": "89065e109790417191467cfececf2c7c",
+    "nombre": "Medical Console",
+    "autor": "OliverTriplett",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3312,
+    "url": "https://sketchfab.com/3d-models/none-89065e109790417191467cfececf2c7c",
+    "miniatura": "miniaturas/mh_monitor/89065e109790417191467cfececf2c7c.jpg"
+   },
+   {
+    "uid": "295ed50eeaa249e8bbeed7b305d3da71",
+    "nombre": "Bed Curtain and Vital Signs Monitor",
+    "autor": "EDIIIC",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8812,
+    "url": "https://sketchfab.com/3d-models/none-295ed50eeaa249e8bbeed7b305d3da71",
+    "miniatura": "miniaturas/mh_monitor/295ed50eeaa249e8bbeed7b305d3da71.jpg"
+   },
+   {
+    "uid": "84aa2c97829b4557bc077e8006d97e58",
+    "nombre": "medical monitor",
+    "autor": "golem.troll228",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4924,
+    "url": "https://sketchfab.com/3d-models/none-84aa2c97829b4557bc077e8006d97e58",
+    "miniatura": "miniaturas/mh_monitor/84aa2c97829b4557bc077e8006d97e58.jpg"
+   },
+   {
+    "uid": "0835fb045655417587b99f6d645158ce",
+    "nombre": "Pregnanc'EZ Incubator",
+    "autor": "maomornity",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 650255,
+    "url": "https://sketchfab.com/3d-models/none-0835fb045655417587b99f6d645158ce",
+    "miniatura": "miniaturas/mh_monitor/0835fb045655417587b99f6d645158ce.jpg"
+   },
+   {
+    "uid": "a3994e8b236d441c9775b2669046bd29",
+    "nombre": "Micro Medical Micro CO Monitor",
+    "autor": "johnpaullucero",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 30372,
+    "url": "https://sketchfab.com/3d-models/none-a3994e8b236d441c9775b2669046bd29",
+    "miniatura": "miniaturas/mh_monitor/a3994e8b236d441c9775b2669046bd29.jpg"
+   }
+  ],
+  "mh_suero": [
+   {
+    "uid": "5cc65c6aed374220b67f7d60e679153e",
+    "nombre": "Crutch and IV Drip",
+    "autor": "Matt_LeMoine",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5644,
+    "url": "https://sketchfab.com/3d-models/none-5cc65c6aed374220b67f7d60e679153e",
+    "miniatura": "miniaturas/mh_suero/5cc65c6aed374220b67f7d60e679153e.jpg"
+   }
+  ],
+  "mh_suero2": [
+   {
+    "uid": "3facd48dff0945f7b96f95ad31c4beb5",
+    "nombre": "Doctor's Office - Assets",
+    "autor": "EvanPetrov",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 32212,
+    "url": "https://sketchfab.com/3d-models/none-3facd48dff0945f7b96f95ad31c4beb5",
+    "miniatura": "miniaturas/mh_suero2/3facd48dff0945f7b96f95ad31c4beb5.jpg"
+   },
+   {
+    "uid": "577ee63d736a44cca98497ed60f8a3c1",
+    "nombre": "IV Supplies",
+    "autor": "EDIIIC",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11532,
+    "url": "https://sketchfab.com/3d-models/none-577ee63d736a44cca98497ed60f8a3c1",
+    "miniatura": "miniaturas/mh_suero2/577ee63d736a44cca98497ed60f8a3c1.jpg"
+   },
+   {
+    "uid": "aef1b9c9552a407c883ced922e520d27",
+    "nombre": "Bloodied Medical Bag",
+    "autor": "kllopezcuevas",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 11348,
+    "url": "https://sketchfab.com/3d-models/none-aef1b9c9552a407c883ced922e520d27",
+    "miniatura": "miniaturas/mh_suero2/aef1b9c9552a407c883ced922e520d27.jpg"
+   },
+   {
+    "uid": "396530e9f959425d8660900bd3c5ce1e",
+    "nombre": "Photography Bag - Lumix Camera",
+    "autor": "HarryCallaghan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 100000,
+    "url": "https://sketchfab.com/3d-models/none-396530e9f959425d8660900bd3c5ce1e",
+    "miniatura": "miniaturas/mh_suero2/396530e9f959425d8660900bd3c5ce1e.jpg"
+   },
+   {
+    "uid": "a93a8e70ecd2459c99e7812c6e09b88c",
+    "nombre": "IV Stand and Bag",
+    "autor": "Somar52",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3834,
+    "url": "https://sketchfab.com/3d-models/none-a93a8e70ecd2459c99e7812c6e09b88c",
+    "miniatura": "miniaturas/mh_suero2/a93a8e70ecd2459c99e7812c6e09b88c.jpg"
+   }
+  ],
+  "mh_jeringa": [
+   {
+    "uid": "96fb858918b14dfd94edd7cdad55333e",
+    "nombre": "Hospital Stuff",
+    "autor": "minamahmoodi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1667332,
+    "url": "https://sketchfab.com/3d-models/none-96fb858918b14dfd94edd7cdad55333e",
+    "miniatura": "miniaturas/mh_jeringa/96fb858918b14dfd94edd7cdad55333e.jpg"
+   },
+   {
+    "uid": "3facd48dff0945f7b96f95ad31c4beb5",
+    "nombre": "Doctor's Office - Assets",
+    "autor": "EvanPetrov",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 32212,
+    "url": "https://sketchfab.com/3d-models/none-3facd48dff0945f7b96f95ad31c4beb5",
+    "miniatura": "miniaturas/mh_jeringa/3facd48dff0945f7b96f95ad31c4beb5.jpg"
+   },
+   {
+    "uid": "22e711221a094a48a6ffe826d3fd6185",
+    "nombre": "Medical Syringe",
+    "autor": "AlexOlTroi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6996,
+    "url": "https://sketchfab.com/3d-models/none-22e711221a094a48a6ffe826d3fd6185",
+    "miniatura": "miniaturas/mh_jeringa/22e711221a094a48a6ffe826d3fd6185.jpg"
+   },
+   {
+    "uid": "cdcc401bf48d42e3895965d52eb2f3d8",
+    "nombre": "Syringe",
+    "autor": "bumstrum",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2692,
+    "url": "https://sketchfab.com/3d-models/none-cdcc401bf48d42e3895965d52eb2f3d8",
+    "miniatura": "miniaturas/mh_jeringa/cdcc401bf48d42e3895965d52eb2f3d8.jpg"
+   },
+   {
+    "uid": "2fb2a6378ca44bd2887438db6c2bd4b6",
+    "nombre": "Syringe Gun - Dirty",
+    "autor": "GameDevNick",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22222,
+    "url": "https://sketchfab.com/3d-models/none-2fb2a6378ca44bd2887438db6c2bd4b6",
+    "miniatura": "miniaturas/mh_jeringa/2fb2a6378ca44bd2887438db6c2bd4b6.jpg"
+   },
+   {
+    "uid": "65f0f77a6ef948f08d5a1b0910b6d9e1",
+    "nombre": "Darkwood oven",
+    "autor": "vfrckkkf",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 59888,
+    "url": "https://sketchfab.com/3d-models/none-65f0f77a6ef948f08d5a1b0910b6d9e1",
+    "miniatura": "miniaturas/mh_jeringa/65f0f77a6ef948f08d5a1b0910b6d9e1.jpg"
+   },
+   {
+    "uid": "c071c69e73b0495692703cae47d21611",
+    "nombre": "Medicines",
+    "autor": "person-x",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3064,
+    "url": "https://sketchfab.com/3d-models/none-c071c69e73b0495692703cae47d21611",
+    "miniatura": "miniaturas/mh_jeringa/c071c69e73b0495692703cae47d21611.jpg"
+   },
+   {
+    "uid": "6cb3decbc5db4fb093f222f3bd4b0241",
+    "nombre": "Old metal syringe/Bottle of  ̶h̶e̶r̶o̶i̶n̶",
+    "autor": "twilightfox",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 16312,
+    "url": "https://sketchfab.com/3d-models/none-6cb3decbc5db4fb093f222f3bd4b0241",
+    "miniatura": "miniaturas/mh_jeringa/6cb3decbc5db4fb093f222f3bd4b0241.jpg"
+   },
+   {
+    "uid": "1de7893db91c4cf8822ff10ee999cd67",
+    "nombre": "Re-animator Syringe",
+    "autor": "Lashley0451",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2134,
+    "url": "https://sketchfab.com/3d-models/none-1de7893db91c4cf8822ff10ee999cd67",
+    "miniatura": "miniaturas/mh_jeringa/1de7893db91c4cf8822ff10ee999cd67.jpg"
+   },
+   {
+    "uid": "7c0620856f0444cf8e9bbcd8670b6247",
+    "nombre": "WW2 Syringe",
+    "autor": "Tactical_Beard",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4256,
+    "url": "https://sketchfab.com/3d-models/none-7c0620856f0444cf8e9bbcd8670b6247",
+    "miniatura": "miniaturas/mh_jeringa/7c0620856f0444cf8e9bbcd8670b6247.jpg"
+   },
+   {
+    "uid": "ed3ed6c5644a4aa7877a1fa62a918580",
+    "nombre": "Syringe",
+    "autor": "tflexcad",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 98060,
+    "url": "https://sketchfab.com/3d-models/none-ed3ed6c5644a4aa7877a1fa62a918580",
+    "miniatura": "miniaturas/mh_jeringa/ed3ed6c5644a4aa7877a1fa62a918580.jpg"
+   },
+   {
+    "uid": "43736bb6a0b64fe8a824542bdbace6bc",
+    "nombre": "Game Prop: Mental Asylum Gurney",
+    "autor": "eymori",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 984,
+    "url": "https://sketchfab.com/3d-models/none-43736bb6a0b64fe8a824542bdbace6bc",
+    "miniatura": "miniaturas/mh_jeringa/43736bb6a0b64fe8a824542bdbace6bc.jpg"
+   },
+   {
+    "uid": "2d297eed7b24451a8fb47a9372274778",
+    "nombre": "3d Printable Pneumatic-Engined Toy Car",
+    "autor": "slava",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 129842,
+    "url": "https://sketchfab.com/3d-models/none-2d297eed7b24451a8fb47a9372274778",
+    "miniatura": "miniaturas/mh_jeringa/2d297eed7b24451a8fb47a9372274778.jpg"
+   },
+   {
+    "uid": "8de32be8633a4c87ba7ed1d125b45ec9",
+    "nombre": "Medical syringe healing FPS Animation",
+    "autor": "Alexander_Ovelar",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 12052,
+    "url": "https://sketchfab.com/3d-models/none-8de32be8633a4c87ba7ed1d125b45ec9",
+    "miniatura": "miniaturas/mh_jeringa/8de32be8633a4c87ba7ed1d125b45ec9.jpg"
+   },
+   {
+    "uid": "370fc9fa4f6b4abb955ff9eaf435e056",
+    "nombre": "A medical syringe or similar. Sci_fi",
+    "autor": "denisvoron1",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3370,
+    "url": "https://sketchfab.com/3d-models/none-370fc9fa4f6b4abb955ff9eaf435e056",
+    "miniatura": "miniaturas/mh_jeringa/370fc9fa4f6b4abb955ff9eaf435e056.jpg"
+   },
+   {
+    "uid": "324b3ed0026940808db353c8c6d7450e",
+    "nombre": "Syringe",
+    "autor": "stfuaahil",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1709,
+    "url": "https://sketchfab.com/3d-models/none-324b3ed0026940808db353c8c6d7450e",
+    "miniatura": "miniaturas/mh_jeringa/324b3ed0026940808db353c8c6d7450e.jpg"
+   },
+   {
+    "uid": "29054494117c4df5a9540917e03a67cb",
+    "nombre": "Insulin Syringe",
+    "autor": "etrewartha",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1956,
+    "url": "https://sketchfab.com/3d-models/none-29054494117c4df5a9540917e03a67cb",
+    "miniatura": "miniaturas/mh_jeringa/29054494117c4df5a9540917e03a67cb.jpg"
+   },
+   {
+    "uid": "894976d13bc24c89bdb2e67aedfbaefd",
+    "nombre": "Syringe AOT",
+    "autor": "rzyas",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12868,
+    "url": "https://sketchfab.com/3d-models/none-894976d13bc24c89bdb2e67aedfbaefd",
+    "miniatura": "miniaturas/mh_jeringa/894976d13bc24c89bdb2e67aedfbaefd.jpg"
+   },
+   {
+    "uid": "c9d4d54e9167485cb76144ff3cf9f3ec",
+    "nombre": "Syringe Gun",
+    "autor": "Red4One",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2083,
+    "url": "https://sketchfab.com/3d-models/none-c9d4d54e9167485cb76144ff3cf9f3ec",
+    "miniatura": "miniaturas/mh_jeringa/c9d4d54e9167485cb76144ff3cf9f3ec.jpg"
+   },
+   {
+    "uid": "a5525290d3eb47a1930faaf358a74d05",
+    "nombre": "Apex Legends Med Kit & Syringe",
+    "autor": "kitamaco",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5952,
+    "url": "https://sketchfab.com/3d-models/none-a5525290d3eb47a1930faaf358a74d05",
+    "miniatura": "miniaturas/mh_jeringa/a5525290d3eb47a1930faaf358a74d05.jpg"
+   },
+   {
+    "uid": "abed2cf76965446ba7e1ccbd79665801",
+    "nombre": "Medical syringe - Jeringa Medica Videogame Free",
+    "autor": "lheyarnold",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1940,
+    "url": "https://sketchfab.com/3d-models/none-abed2cf76965446ba7e1ccbd79665801",
+    "miniatura": "miniaturas/mh_jeringa/abed2cf76965446ba7e1ccbd79665801.jpg"
+   },
+   {
+    "uid": "4d2d747105e34ba38d734681b8d2dd1e",
+    "nombre": "Health Pack",
+    "autor": "zekaarts",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 2355,
+    "url": "https://sketchfab.com/3d-models/none-4d2d747105e34ba38d734681b8d2dd1e",
+    "miniatura": "miniaturas/mh_jeringa/4d2d747105e34ba38d734681b8d2dd1e.jpg"
+   },
+   {
+    "uid": "13d403b5bf0048ee9d86994523418cd9",
+    "nombre": "Stimpak",
+    "autor": "3d.somni",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 964,
+    "url": "https://sketchfab.com/3d-models/none-13d403b5bf0048ee9d86994523418cd9",
+    "miniatura": "miniaturas/mh_jeringa/13d403b5bf0048ee9d86994523418cd9.jpg"
+   },
+   {
+    "uid": "decdb2c636e64a919f1f61c5e2636a93",
+    "nombre": "Syringe",
+    "autor": "etrewartha",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 2084,
+    "url": "https://sketchfab.com/3d-models/none-decdb2c636e64a919f1f61c5e2636a93",
+    "miniatura": "miniaturas/mh_jeringa/decdb2c636e64a919f1f61c5e2636a93.jpg"
+   },
+   {
+    "uid": "c76e7b073f24428cbfa786fc48998961",
+    "nombre": "Syringe",
+    "autor": "Carlos.Maciel",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15089,
+    "url": "https://sketchfab.com/3d-models/none-c76e7b073f24428cbfa786fc48998961",
+    "miniatura": "miniaturas/mh_jeringa/c76e7b073f24428cbfa786fc48998961.jpg"
+   },
+   {
+    "uid": "b76be5e0927040008050d7eae6dd2836",
+    "nombre": "Syringe",
+    "autor": "gtvorets",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 830,
+    "url": "https://sketchfab.com/3d-models/none-b76be5e0927040008050d7eae6dd2836",
+    "miniatura": "miniaturas/mh_jeringa/b76be5e0927040008050d7eae6dd2836.jpg"
+   },
+   {
+    "uid": "17e546737e21415cbe21b0ddd9012a4f",
+    "nombre": "Vintage Syringe",
+    "autor": "skaf13",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5400,
+    "url": "https://sketchfab.com/3d-models/none-17e546737e21415cbe21b0ddd9012a4f",
+    "miniatura": "miniaturas/mh_jeringa/17e546737e21415cbe21b0ddd9012a4f.jpg"
+   },
+   {
+    "uid": "45784c51b67042109317c76983830dc3",
+    "nombre": "Syringe",
+    "autor": "minhazul_ferdous",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 59194,
+    "url": "https://sketchfab.com/3d-models/none-45784c51b67042109317c76983830dc3",
+    "miniatura": "miniaturas/mh_jeringa/45784c51b67042109317c76983830dc3.jpg"
+   },
+   {
+    "uid": "79062c72732d47c4b649ea57c847dd9d",
+    "nombre": "Syringe",
+    "autor": "stakler",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1150,
+    "url": "https://sketchfab.com/3d-models/none-79062c72732d47c4b649ea57c847dd9d",
+    "miniatura": "miniaturas/mh_jeringa/79062c72732d47c4b649ea57c847dd9d.jpg"
+   },
+   {
+    "uid": "64bc8b22c8ac4b2e9c72018257bf2449",
+    "nombre": "Half-Life 1 Scientist",
+    "autor": "Mr-Snark",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 795,
+    "url": "https://sketchfab.com/3d-models/none-64bc8b22c8ac4b2e9c72018257bf2449",
+    "miniatura": "miniaturas/mh_jeringa/64bc8b22c8ac4b2e9c72018257bf2449.jpg"
+   },
+   {
+    "uid": "1a13b4fbd3fe4ec9be1c6da1fe2fe1e5",
+    "nombre": "Syringe",
+    "autor": "TheCoffeeCup",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1824,
+    "url": "https://sketchfab.com/3d-models/none-1a13b4fbd3fe4ec9be1c6da1fe2fe1e5",
+    "miniatura": "miniaturas/mh_jeringa/1a13b4fbd3fe4ec9be1c6da1fe2fe1e5.jpg"
+   },
+   {
+    "uid": "0cde834948cf41fcb4fa4ec3f4038732",
+    "nombre": "Medkit",
+    "autor": "frankestudios71",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3194,
+    "url": "https://sketchfab.com/3d-models/none-0cde834948cf41fcb4fa4ec3f4038732",
+    "miniatura": "miniaturas/mh_jeringa/0cde834948cf41fcb4fa4ec3f4038732.jpg"
+   },
+   {
+    "uid": "e1e3ff6091c04cf2a183ac8a3775f50f",
+    "nombre": "injector",
+    "autor": "DragunovHotZRP",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1056,
+    "url": "https://sketchfab.com/3d-models/none-e1e3ff6091c04cf2a183ac8a3775f50f",
+    "miniatura": "miniaturas/mh_jeringa/e1e3ff6091c04cf2a183ac8a3775f50f.jpg"
+   },
+   {
+    "uid": "6d50f9e44a9047ffb2db627c87c8ce07",
+    "nombre": "syringe",
+    "autor": "schteppn",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9712,
+    "url": "https://sketchfab.com/3d-models/none-6d50f9e44a9047ffb2db627c87c8ce07",
+    "miniatura": "miniaturas/mh_jeringa/6d50f9e44a9047ffb2db627c87c8ce07.jpg"
+   },
+   {
+    "uid": "c758659ec66c4248bb4734c2167cdb7c",
+    "nombre": "Dr. Plague",
+    "autor": "opponent019",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 2929,
+    "url": "https://sketchfab.com/3d-models/none-c758659ec66c4248bb4734c2167cdb7c",
+    "miniatura": "miniaturas/mh_jeringa/c758659ec66c4248bb4734c2167cdb7c.jpg"
+   },
+   {
+    "uid": "32540354f8ff4e0784c3c6f97023732d",
+    "nombre": "Retro syringe. Lowpoly homework.",
+    "autor": "necrodream",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5582,
+    "url": "https://sketchfab.com/3d-models/none-32540354f8ff4e0784c3c6f97023732d",
+    "miniatura": "miniaturas/mh_jeringa/32540354f8ff4e0784c3c6f97023732d.jpg"
+   },
+   {
+    "uid": "1acd9125d52a4232ad47b2e007cbd2ac",
+    "nombre": "Syringe",
+    "autor": "hippolyte.bouillard",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 110592,
+    "url": "https://sketchfab.com/3d-models/none-1acd9125d52a4232ad47b2e007cbd2ac",
+    "miniatura": "miniaturas/mh_jeringa/1acd9125d52a4232ad47b2e007cbd2ac.jpg"
+   },
+   {
+    "uid": "bd100c855b664d0f9846b4bacdc4c59b",
+    "nombre": "Syringe Dart Launcher",
+    "autor": "rectus",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 3806,
+    "url": "https://sketchfab.com/3d-models/none-bd100c855b664d0f9846b4bacdc4c59b",
+    "miniatura": "miniaturas/mh_jeringa/bd100c855b664d0f9846b4bacdc4c59b.jpg"
+   },
+   {
+    "uid": "fe35a327fc3d4cf68e206e478f9aabfd",
+    "nombre": "Kal'tsit's syringe - Arknights",
+    "autor": "lemonjoos",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2029,
+    "url": "https://sketchfab.com/3d-models/none-fe35a327fc3d4cf68e206e478f9aabfd",
+    "miniatura": "miniaturas/mh_jeringa/fe35a327fc3d4cf68e206e478f9aabfd.jpg"
+   },
+   {
+    "uid": "d6f636842b394823ba99164c58b1853a",
+    "nombre": "Steampunk Syringe",
+    "autor": "Belonosoff",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5902,
+    "url": "https://sketchfab.com/3d-models/none-d6f636842b394823ba99164c58b1853a",
+    "miniatura": "miniaturas/mh_jeringa/d6f636842b394823ba99164c58b1853a.jpg"
+   }
+  ],
+  "mh_cateter": [
+   {
+    "uid": "69f883fdc4b54b51aca2864eb4b9c646",
+    "nombre": "Peripheral venous catheter",
+    "autor": "scratchi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20827,
+    "url": "https://sketchfab.com/3d-models/none-69f883fdc4b54b51aca2864eb4b9c646",
+    "miniatura": "miniaturas/mh_cateter/69f883fdc4b54b51aca2864eb4b9c646.jpg"
+   },
+   {
+    "uid": "bcf44462b4c2403e98b1325b2659bf48",
+    "nombre": "Catheter Design GUT MO2",
+    "autor": "michaelaxelsson",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 93268,
+    "url": "https://sketchfab.com/3d-models/none-bcf44462b4c2403e98b1325b2659bf48",
+    "miniatura": "miniaturas/mh_cateter/bcf44462b4c2403e98b1325b2659bf48.jpg"
+   },
+   {
+    "uid": "17a8b45fcb3648658142a23dd0e2081a",
+    "nombre": "Tricuspid Atresia_A825",
+    "autor": "lindseyamilgrom",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 500000,
+    "url": "https://sketchfab.com/3d-models/none-17a8b45fcb3648658142a23dd0e2081a",
+    "miniatura": "miniaturas/mh_cateter/17a8b45fcb3648658142a23dd0e2081a.jpg"
+   },
+   {
+    "uid": "f9a56a1bd4094bfc8b60117928d731b1",
+    "nombre": "Umbilical venous catheter - CVO",
+    "autor": "centronina3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11952,
+    "url": "https://sketchfab.com/3d-models/none-f9a56a1bd4094bfc8b60117928d731b1",
+    "miniatura": "miniaturas/mh_cateter/f9a56a1bd4094bfc8b60117928d731b1.jpg"
+   }
+  ],
+  "mh_chimp": [
+   {
+    "uid": "6ef86b9a368d4058b67f0c99a7880fb4",
+    "nombre": "Chimpanzee skull",
+    "autor": "uod_museums",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 836132,
+    "url": "https://sketchfab.com/3d-models/none-6ef86b9a368d4058b67f0c99a7880fb4",
+    "miniatura": "miniaturas/mh_chimp/6ef86b9a368d4058b67f0c99a7880fb4.jpg"
+   },
+   {
+    "uid": "f5a44f5d71284c5cbcdfe4b7005d639d",
+    "nombre": "Chimp Examining Human Skull Bookend",
+    "autor": "GlobalDigitalHeritage",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 235642,
+    "url": "https://sketchfab.com/3d-models/none-f5a44f5d71284c5cbcdfe4b7005d639d",
+    "miniatura": "miniaturas/mh_chimp/f5a44f5d71284c5cbcdfe4b7005d639d.jpg"
+   },
+   {
+    "uid": "10a834c9f4cf4839b67f630db1ec0e0b",
+    "nombre": "Chimpanzee skull",
+    "autor": "NHM_Imaging",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1307114,
+    "url": "https://sketchfab.com/3d-models/none-10a834c9f4cf4839b67f630db1ec0e0b",
+    "miniatura": "miniaturas/mh_chimp/10a834c9f4cf4839b67f630db1ec0e0b.jpg"
+   },
+   {
+    "uid": "6cb471c89f634beaa0e3f62fb939d27d",
+    "nombre": "Monkey / Australopithecus stone bust",
+    "autor": "ewapodermanska",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 517463,
+    "url": "https://sketchfab.com/3d-models/none-6cb471c89f634beaa0e3f62fb939d27d",
+    "miniatura": "miniaturas/mh_chimp/6cb471c89f634beaa0e3f62fb939d27d.jpg"
+   },
+   {
+    "uid": "732aaab3bdeb41e29b3cea49479ea420",
+    "nombre": "Angry Chimp",
+    "autor": "Pebegou",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 24358,
+    "url": "https://sketchfab.com/3d-models/none-732aaab3bdeb41e29b3cea49479ea420",
+    "miniatura": "miniaturas/mh_chimp/732aaab3bdeb41e29b3cea49479ea420.jpg"
+   },
+   {
+    "uid": "1399584ba1744d0cbdd21f400cd4d2ab",
+    "nombre": "Chimpansee Skull - Pan troglodytes verus",
+    "autor": "valchanov",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1622984,
+    "url": "https://sketchfab.com/3d-models/none-1399584ba1744d0cbdd21f400cd4d2ab",
+    "miniatura": "miniaturas/mh_chimp/1399584ba1744d0cbdd21f400cd4d2ab.jpg"
+   },
+   {
+    "uid": "31073e7537c14a6e89f509e890582d09",
+    "nombre": "Common Chimpanzee Skull",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 545776,
+    "url": "https://sketchfab.com/3d-models/none-31073e7537c14a6e89f509e890582d09",
+    "miniatura": "miniaturas/mh_chimp/31073e7537c14a6e89f509e890582d09.jpg"
+   },
+   {
+    "uid": "16e37cef8db9438fa319a53d26eb64b0",
+    "nombre": "Common Chimpanzee Head & Neck Reconstruction",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1260960,
+    "url": "https://sketchfab.com/3d-models/none-16e37cef8db9438fa319a53d26eb64b0",
+    "miniatura": "miniaturas/mh_chimp/16e37cef8db9438fa319a53d26eb64b0.jpg"
+   },
+   {
+    "uid": "c89419ca401b42e9a234e936c95d8d50",
+    "nombre": "Chimpanzé (Pan troglodytes)",
+    "autor": "apex.unilasalle",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 1329972,
+    "url": "https://sketchfab.com/3d-models/none-c89419ca401b42e9a234e936c95d8d50",
+    "miniatura": "miniaturas/mh_chimp/c89419ca401b42e9a234e936c95d8d50.jpg"
+   },
+   {
+    "uid": "9338582032f348a49da8be159a650699",
+    "nombre": "Lone Wanderer",
+    "autor": "amagangstayo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22228,
+    "url": "https://sketchfab.com/3d-models/none-9338582032f348a49da8be159a650699",
+    "miniatura": "miniaturas/mh_chimp/9338582032f348a49da8be159a650699.jpg"
+   },
+   {
+    "uid": "8406f61193e541f1b9e06eaae2749736",
+    "nombre": "ChM 2264 - Chimpanzee Skull",
+    "autor": "charlestonmuseum",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 100000,
+    "url": "https://sketchfab.com/3d-models/none-8406f61193e541f1b9e06eaae2749736",
+    "miniatura": "miniaturas/mh_chimp/8406f61193e541f1b9e06eaae2749736.jpg"
+   },
+   {
+    "uid": "cabeff583fd040e6954d29c7a6c351fe",
+    "nombre": "Darwin Skull 01",
+    "autor": "timofei_kojevnikov",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 441879,
+    "url": "https://sketchfab.com/3d-models/none-cabeff583fd040e6954d29c7a6c351fe",
+    "miniatura": "miniaturas/mh_chimp/cabeff583fd040e6954d29c7a6c351fe.jpg"
+   },
+   {
+    "uid": "e06ca49eeaab4e8a9911aa6829174dc7",
+    "nombre": "CT Based Fetal Common Chimpanzee Skeleton",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 497340,
+    "url": "https://sketchfab.com/3d-models/none-e06ca49eeaab4e8a9911aa6829174dc7",
+    "miniatura": "miniaturas/mh_chimp/e06ca49eeaab4e8a9911aa6829174dc7.jpg"
+   },
+   {
+    "uid": "d8bcb8cbc9d74a848af0797f4ec98b7c",
+    "nombre": "Chimpanzee Neonate Skeleton",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 628629,
+    "url": "https://sketchfab.com/3d-models/none-d8bcb8cbc9d74a848af0797f4ec98b7c",
+    "miniatura": "miniaturas/mh_chimp/d8bcb8cbc9d74a848af0797f4ec98b7c.jpg"
+   },
+   {
+    "uid": "3d8a3d1177424af182e0737a1afc8bb7",
+    "nombre": "Old Chimpanzee skull",
+    "autor": "svtavernier",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 34998,
+    "url": "https://sketchfab.com/3d-models/none-3d8a3d1177424af182e0737a1afc8bb7",
+    "miniatura": "miniaturas/mh_chimp/3d8a3d1177424af182e0737a1afc8bb7.jpg"
+   },
+   {
+    "uid": "7e497a2d7e0a45848d07a83ff1f30caf",
+    "nombre": "chimpanzee skull",
+    "autor": "svtavernier",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 40321,
+    "url": "https://sketchfab.com/3d-models/none-7e497a2d7e0a45848d07a83ff1f30caf",
+    "miniatura": "miniaturas/mh_chimp/7e497a2d7e0a45848d07a83ff1f30caf.jpg"
+   },
+   {
+    "uid": "62d7f89a88184d7499ec8ee07339d151",
+    "nombre": "Chimpanzee (male)",
+    "autor": "chekeichan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7324,
+    "url": "https://sketchfab.com/3d-models/none-62d7f89a88184d7499ec8ee07339d151",
+    "miniatura": "miniaturas/mh_chimp/62d7f89a88184d7499ec8ee07339d151.jpg"
+   },
+   {
+    "uid": "b79f4ba2e48b45dc95d83fd3914fcaeb",
+    "nombre": "Mammifère - Pan troglodytes",
+    "autor": "sgfrance",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 1329972,
+    "url": "https://sketchfab.com/3d-models/none-b79f4ba2e48b45dc95d83fd3914fcaeb",
+    "miniatura": "miniaturas/mh_chimp/b79f4ba2e48b45dc95d83fd3914fcaeb.jpg"
+   },
+   {
+    "uid": "cecc16f8cf8a4a288a89e26573eeafba",
+    "nombre": "Chimpanzee Hand",
+    "autor": "scifri",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8747306,
+    "url": "https://sketchfab.com/3d-models/none-cecc16f8cf8a4a288a89e26573eeafba",
+    "miniatura": "miniaturas/mh_chimp/cecc16f8cf8a4a288a89e26573eeafba.jpg"
+   },
+   {
+    "uid": "2b0b22873d7440d0a9dc674f2d7acc1b",
+    "nombre": "Chimpanzee Left Humerus",
+    "autor": "uncgimaginglab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 486974,
+    "url": "https://sketchfab.com/3d-models/none-2b0b22873d7440d0a9dc674f2d7acc1b",
+    "miniatura": "miniaturas/mh_chimp/2b0b22873d7440d0a9dc674f2d7acc1b.jpg"
+   },
+   {
+    "uid": "346fb1310d0a4e889678b9073206072e",
+    "nombre": "Chimpanzee Right Humerus",
+    "autor": "uncgimaginglab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 516790,
+    "url": "https://sketchfab.com/3d-models/none-346fb1310d0a4e889678b9073206072e",
+    "miniatura": "miniaturas/mh_chimp/346fb1310d0a4e889678b9073206072e.jpg"
+   },
+   {
+    "uid": "2df83ccb968d473587ccce0330ff05b7",
+    "nombre": "Chimpanzee Skull",
+    "autor": "gwuanthro",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1622984,
+    "url": "https://sketchfab.com/3d-models/none-2df83ccb968d473587ccce0330ff05b7",
+    "miniatura": "miniaturas/mh_chimp/2df83ccb968d473587ccce0330ff05b7.jpg"
+   },
+   {
+    "uid": "c6d7980561064358ba2d122cbda877de",
+    "nombre": "low poly chimp",
+    "autor": "Justanotherjosh",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1136,
+    "url": "https://sketchfab.com/3d-models/none-c6d7980561064358ba2d122cbda877de",
+    "miniatura": "miniaturas/mh_chimp/c6d7980561064358ba2d122cbda877de.jpg"
+   },
+   {
+    "uid": "fede49e33a1b45e5af6e8844c625f03c",
+    "nombre": "Chimpanzee Ghost",
+    "autor": "Darvida",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 81834,
+    "url": "https://sketchfab.com/3d-models/none-fede49e33a1b45e5af6e8844c625f03c",
+    "miniatura": "miniaturas/mh_chimp/fede49e33a1b45e5af6e8844c625f03c.jpg"
+   },
+   {
+    "uid": "80bc6b93e546475ca52f7bcd653d1176",
+    "nombre": "Pan troglodytes mâle",
+    "autor": "BiologieComportementULiege",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 230856,
+    "url": "https://sketchfab.com/3d-models/none-80bc6b93e546475ca52f7bcd653d1176",
+    "miniatura": "miniaturas/mh_chimp/80bc6b93e546475ca52f7bcd653d1176.jpg"
+   },
+   {
+    "uid": "efb9d1c5fb274efca2c91c03e2791347",
+    "nombre": "Two Chimpanzees",
+    "autor": "chekeichan",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 15189,
+    "url": "https://sketchfab.com/3d-models/none-efb9d1c5fb274efca2c91c03e2791347",
+    "miniatura": "miniaturas/mh_chimp/efb9d1c5fb274efca2c91c03e2791347.jpg"
+   },
+   {
+    "uid": "b6feac5f037f43b4877d39639a1f457e",
+    "nombre": "Mandíbula 5",
+    "autor": "anabucchi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 180000,
+    "url": "https://sketchfab.com/3d-models/none-b6feac5f037f43b4877d39639a1f457e",
+    "miniatura": "miniaturas/mh_chimp/b6feac5f037f43b4877d39639a1f457e.jpg"
+   },
+   {
+    "uid": "54a1c80b08834718ba4a613e2bcb70e6",
+    "nombre": "Craneo_1",
+    "autor": "anabucchi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1043574,
+    "url": "https://sketchfab.com/3d-models/none-54a1c80b08834718ba4a613e2bcb70e6",
+    "miniatura": "miniaturas/mh_chimp/54a1c80b08834718ba4a613e2bcb70e6.jpg"
+   },
+   {
+    "uid": "d6df0643aba246608f18b80510e09a24",
+    "nombre": "Pan troglodytes (modern) (2501.1rp72)",
+    "autor": "rla-archaeology",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 63648,
+    "url": "https://sketchfab.com/3d-models/none-d6df0643aba246608f18b80510e09a24",
+    "miniatura": "miniaturas/mh_chimp/d6df0643aba246608f18b80510e09a24.jpg"
+   },
+   {
+    "uid": "30a54bb2123d46909fa90e8b085c6583",
+    "nombre": "Common Chimpanzee Head With Nerves Labeled",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1564884,
+    "url": "https://sketchfab.com/3d-models/none-30a54bb2123d46909fa90e8b085c6583",
+    "miniatura": "miniaturas/mh_chimp/30a54bb2123d46909fa90e8b085c6583.jpg"
+   },
+   {
+    "uid": "03fb5513ab2849a59be87192879d083f",
+    "nombre": "Chimpanzee Brain Labeled",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 162465,
+    "url": "https://sketchfab.com/3d-models/none-03fb5513ab2849a59be87192879d083f",
+    "miniatura": "miniaturas/mh_chimp/03fb5513ab2849a59be87192879d083f.jpg"
+   },
+   {
+    "uid": "e9d50515c49f48af8efb2ca8417e935f",
+    "nombre": "Chimpanzee from Poly by Google",
+    "autor": "ie-niels",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 704,
+    "url": "https://sketchfab.com/3d-models/none-e9d50515c49f48af8efb2ca8417e935f",
+    "miniatura": "miniaturas/mh_chimp/e9d50515c49f48af8efb2ca8417e935f.jpg"
+   },
+   {
+    "uid": "1dd3785e1efb43be85bd89c680a69d0a",
+    "nombre": "Pan troglodytes (modern) (2501.1rp4-1)",
+    "autor": "rla-archaeology",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 129376,
+    "url": "https://sketchfab.com/3d-models/none-1dd3785e1efb43be85bd89c680a69d0a",
+    "miniatura": "miniaturas/mh_chimp/1dd3785e1efb43be85bd89c680a69d0a.jpg"
+   },
+   {
+    "uid": "884472a415f24b81a405b820df82af4b",
+    "nombre": "Chimpanzee Brain from MRI",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 162465,
+    "url": "https://sketchfab.com/3d-models/none-884472a415f24b81a405b820df82af4b",
+    "miniatura": "miniaturas/mh_chimp/884472a415f24b81a405b820df82af4b.jpg"
+   },
+   {
+    "uid": "e17347dde71a4c27b7c449be5acb7948",
+    "nombre": "chimpanzee-skull (3)",
+    "autor": "astridnairn",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1617026,
+    "url": "https://sketchfab.com/3d-models/none-e17347dde71a4c27b7c449be5acb7948",
+    "miniatura": "miniaturas/mh_chimp/e17347dde71a4c27b7c449be5acb7948.jpg"
+   },
+   {
+    "uid": "92938f1a3c21402ca1405ccc98fcc837",
+    "nombre": "Adult Male Chimpanzee Mandible",
+    "autor": "anthlabs",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 90374,
+    "url": "https://sketchfab.com/3d-models/none-92938f1a3c21402ca1405ccc98fcc837",
+    "miniatura": "miniaturas/mh_chimp/92938f1a3c21402ca1405ccc98fcc837.jpg"
+   },
+   {
+    "uid": "47125f083e464d87b23ec748b2679983",
+    "nombre": "Maxilar 2",
+    "autor": "anabucchi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 180000,
+    "url": "https://sketchfab.com/3d-models/none-47125f083e464d87b23ec748b2679983",
+    "miniatura": "miniaturas/mh_chimp/47125f083e464d87b23ec748b2679983.jpg"
+   },
+   {
+    "uid": "3af8becb072b4479b4d510d3324ffdb7",
+    "nombre": "Mandibula7",
+    "autor": "anabucchi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 184390,
+    "url": "https://sketchfab.com/3d-models/none-3af8becb072b4479b4d510d3324ffdb7",
+    "miniatura": "miniaturas/mh_chimp/3af8becb072b4479b4d510d3324ffdb7.jpg"
+   },
+   {
+    "uid": "9b8835c36d1d49ccbb45e4774d715089",
+    "nombre": "Mandibula 3",
+    "autor": "anabucchi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 220918,
+    "url": "https://sketchfab.com/3d-models/none-9b8835c36d1d49ccbb45e4774d715089",
+    "miniatura": "miniaturas/mh_chimp/9b8835c36d1d49ccbb45e4774d715089.jpg"
+   },
+   {
+    "uid": "8502da5941a7415687f2739f5fe05521",
+    "nombre": "Mandíbula_1",
+    "autor": "anabucchi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 220842,
+    "url": "https://sketchfab.com/3d-models/none-8502da5941a7415687f2739f5fe05521",
+    "miniatura": "miniaturas/mh_chimp/8502da5941a7415687f2739f5fe05521.jpg"
+   },
+   {
+    "uid": "acf1799d8f9a4242849579f2a782c8df",
+    "nombre": "Comparative Brain Anatomy - Chimpanzee & Human",
+    "autor": "gwuanthro",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 172238,
+    "url": "https://sketchfab.com/3d-models/none-acf1799d8f9a4242849579f2a782c8df",
+    "miniatura": "miniaturas/mh_chimp/acf1799d8f9a4242849579f2a782c8df.jpg"
+   },
+   {
+    "uid": "214ab1b88d3e4a49b1094b23695af93e",
+    "nombre": "Common Chimpanzee Upper Limb Reconstruction",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1366784,
+    "url": "https://sketchfab.com/3d-models/none-214ab1b88d3e4a49b1094b23695af93e",
+    "miniatura": "miniaturas/mh_chimp/214ab1b88d3e4a49b1094b23695af93e.jpg"
+   },
+   {
+    "uid": "e59a4be88e8545268dda24c72eed2a0c",
+    "nombre": "Maxilar1",
+    "autor": "anabucchi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 435804,
+    "url": "https://sketchfab.com/3d-models/none-e59a4be88e8545268dda24c72eed2a0c",
+    "miniatura": "miniaturas/mh_chimp/e59a4be88e8545268dda24c72eed2a0c.jpg"
+   },
+   {
+    "uid": "d0f8d0ee0dcc4a61850254b0e65bfe09",
+    "nombre": "Mandibula 4",
+    "autor": "anabucchi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 197040,
+    "url": "https://sketchfab.com/3d-models/none-d0f8d0ee0dcc4a61850254b0e65bfe09",
+    "miniatura": "miniaturas/mh_chimp/d0f8d0ee0dcc4a61850254b0e65bfe09.jpg"
+   },
+   {
+    "uid": "e683c3d43fc84daea19219a1f2ce2ed5",
+    "nombre": "Mandíbula 2",
+    "autor": "anabucchi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 216666,
+    "url": "https://sketchfab.com/3d-models/none-e683c3d43fc84daea19219a1f2ce2ed5",
+    "miniatura": "miniaturas/mh_chimp/e683c3d43fc84daea19219a1f2ce2ed5.jpg"
+   },
+   {
+    "uid": "5c1e4c3c8cd645b488050b2711e9395b",
+    "nombre": "Common Chimpanzee Lower Limb Reconstruction",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 405776,
+    "url": "https://sketchfab.com/3d-models/none-5c1e4c3c8cd645b488050b2711e9395b",
+    "miniatura": "miniaturas/mh_chimp/5c1e4c3c8cd645b488050b2711e9395b.jpg"
+   },
+   {
+    "uid": "36d2c678e3ba495489cb308d2fbc7c08",
+    "nombre": "Bassin Chimpanze Actuel",
+    "autor": "svtlyceepasteur",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 84856,
+    "url": "https://sketchfab.com/3d-models/none-36d2c678e3ba495489cb308d2fbc7c08",
+    "miniatura": "miniaturas/mh_chimp/36d2c678e3ba495489cb308d2fbc7c08.jpg"
+   },
+   {
+    "uid": "59fd769df62640cc8f0eff5a6aa4c6ba",
+    "nombre": "Protection des gorilles de Grauer",
+    "autor": "lemuearth",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 25347,
+    "url": "https://sketchfab.com/3d-models/none-59fd769df62640cc8f0eff5a6aa4c6ba",
+    "miniatura": "miniaturas/mh_chimp/59fd769df62640cc8f0eff5a6aa4c6ba.jpg"
+   },
+   {
+    "uid": "350c5a647f534092b99260851a6b736b",
+    "nombre": "Modern Human & Common Chimpanzee Head & Neck",
+    "autor": "VISIBLEAPEPROJECT",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1058398,
+    "url": "https://sketchfab.com/3d-models/none-350c5a647f534092b99260851a6b736b",
+    "miniatura": "miniaturas/mh_chimp/350c5a647f534092b99260851a6b736b.jpg"
+   },
+   {
+    "uid": "b5ed70faeacd4310b8ed6446ccd1e899",
+    "nombre": "Mandibula6",
+    "autor": "anabucchi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 198870,
+    "url": "https://sketchfab.com/3d-models/none-b5ed70faeacd4310b8ed6446ccd1e899",
+    "miniatura": "miniaturas/mh_chimp/b5ed70faeacd4310b8ed6446ccd1e899.jpg"
+   }
+  ],
+  "mh_chimp2": [
+   {
+    "uid": "c53e8ca04bb54d5e8649d95b437e2ca3",
+    "nombre": "Male Chimpanzee Hairless: Rigged, Animated",
+    "autor": "animalanimator",
+    "licencia": "CC Attribution",
+    "animaciones": 5,
+    "caras": 48228,
+    "url": "https://sketchfab.com/3d-models/none-c53e8ca04bb54d5e8649d95b437e2ca3",
+    "miniatura": "miniaturas/mh_chimp2/c53e8ca04bb54d5e8649d95b437e2ca3.jpg"
+   }
+  ]
+ }
+}

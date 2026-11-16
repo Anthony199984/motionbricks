@@ -1,0 +1,480 @@
+{
+ "bajados": [
+  {
+   "destino": "modelos/island_tree_01/island_tree_01_4k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/island_tree_01/textures/island_tree_01_nor_gl_4k.jpg",
+   "mb": 15.41
+  },
+  {
+   "destino": "modelos/island_tree_01/textures/island_tree_01_diff_4k.jpg",
+   "mb": 9.88
+  },
+  {
+   "destino": "modelos/island_tree_01/textures/island_tree_01_arm_4k.jpg",
+   "mb": 7.54
+  },
+  {
+   "destino": "modelos/island_tree_01/textures/island_tree_01_leaves_nor_gl_4k.jpg",
+   "mb": 4.82
+  },
+  {
+   "destino": "modelos/island_tree_01/textures/island_tree_01_leaves_diff_4k.jpg",
+   "mb": 2.45
+  },
+  {
+   "destino": "modelos/island_tree_01/textures/island_tree_01_leaves_arm_4k.jpg",
+   "mb": 5.58
+  },
+  {
+   "destino": "modelos/island_tree_01/textures/island_tree_01_branches_nor_gl_4k.jpg",
+   "mb": 6.6
+  },
+  {
+   "destino": "modelos/island_tree_01/textures/island_tree_01_branches_diff_4k.jpg",
+   "mb": 4.14
+  },
+  {
+   "destino": "modelos/island_tree_01/textures/island_tree_01_branches_arm_4k.jpg",
+   "mb": 4.39
+  },
+  {
+   "destino": "modelos/island_tree_01/island_tree_01.bin",
+   "mb": 57.9
+  },
+  {
+   "destino": "modelos/island_tree_02/island_tree_02_4k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/island_tree_02/textures/island_tree_02_nor_gl_4k.jpg",
+   "mb": 14.23
+  },
+  {
+   "destino": "modelos/island_tree_02/textures/island_tree_02_diff_4k.jpg",
+   "mb": 8.51
+  },
+  {
+   "destino": "modelos/island_tree_02/textures/island_tree_02_arm_4k.jpg",
+   "mb": 7.07
+  },
+  {
+   "destino": "modelos/island_tree_02/textures/island_tree_02_leaves_nor_gl_4k.jpg",
+   "mb": 4.82
+  },
+  {
+   "destino": "modelos/island_tree_02/textures/island_tree_02_leaves_diff_4k.jpg",
+   "mb": 2.45
+  },
+  {
+   "destino": "modelos/island_tree_02/textures/island_tree_02_leaves_arm_4k.jpg",
+   "mb": 5.58
+  },
+  {
+   "destino": "modelos/island_tree_02/textures/island_tree_02_branches_nor_gl_4k.jpg",
+   "mb": 6.6
+  },
+  {
+   "destino": "modelos/island_tree_02/textures/island_tree_02_branches_diff_4k.jpg",
+   "mb": 4.14
+  },
+  {
+   "destino": "modelos/island_tree_02/textures/island_tree_02_branches_arm_4k.jpg",
+   "mb": 4.39
+  },
+  {
+   "destino": "modelos/island_tree_02/island_tree_02.bin",
+   "mb": 38.8
+  },
+  {
+   "destino": "modelos/island_tree_03/island_tree_03_4k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/island_tree_03/textures/island_tree_03_nor_gl_4k.jpg",
+   "mb": 14.23
+  },
+  {
+   "destino": "modelos/island_tree_03/textures/island_tree_03_diff_4k.jpg",
+   "mb": 8.82
+  },
+  {
+   "destino": "modelos/island_tree_03/textures/island_tree_03_arm_4k.jpg",
+   "mb": 6.18
+  },
+  {
+   "destino": "modelos/island_tree_03/textures/island_tree_03_leaves_nor_gl_4k.jpg",
+   "mb": 4.82
+  },
+  {
+   "destino": "modelos/island_tree_03/textures/island_tree_03_leaves_diff_4k.jpg",
+   "mb": 2.45
+  },
+  {
+   "destino": "modelos/island_tree_03/textures/island_tree_03_leaves_arm_4k.jpg",
+   "mb": 5.58
+  },
+  {
+   "destino": "modelos/island_tree_03/textures/island_tree_03_branches_nor_gl_4k.jpg",
+   "mb": 6.6
+  },
+  {
+   "destino": "modelos/island_tree_03/textures/island_tree_03_branches_diff_4k.jpg",
+   "mb": 4.14
+  },
+  {
+   "destino": "modelos/island_tree_03/textures/island_tree_03_branches_arm_4k.jpg",
+   "mb": 4.39
+  },
+  {
+   "destino": "modelos/island_tree_03/island_tree_03.bin",
+   "mb": 75.88
+  },
+  {
+   "destino": "modelos/jacaranda_tree/jacaranda_tree_4k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/jacaranda_tree/textures/jacaranda_tree_branches_nor_gl_4k.jpg",
+   "mb": 6.6
+  },
+  {
+   "destino": "modelos/jacaranda_tree/textures/jacaranda_tree_branches_diff_4k.jpg",
+   "mb": 4.16
+  },
+  {
+   "destino": "modelos/jacaranda_tree/textures/jacaranda_tree_branches_arm_4k.jpg",
+   "mb": 4.39
+  },
+  {
+   "destino": "modelos/jacaranda_tree/textures/jacaranda_tree_trunk_nor_gl_4k.jpg",
+   "mb": 13.36
+  },
+  {
+   "destino": "modelos/jacaranda_tree/textures/jacaranda_tree_trunk_diff_4k.jpg",
+   "mb": 11.1
+  },
+  {
+   "destino": "modelos/jacaranda_tree/textures/jacaranda_tree_trunk_arm_4k.jpg",
+   "mb": 12.09
+  },
+  {
+   "destino": "modelos/jacaranda_tree/textures/jacaranda_tree_leaves_nor_gl_4k.jpg",
+   "mb": 6.21
+  },
+  {
+   "destino": "modelos/jacaranda_tree/textures/jacaranda_tree_leaves_diff_4k.jpg",
+   "mb": 4.39
+  },
+  {
+   "destino": "modelos/jacaranda_tree/textures/jacaranda_tree_leaves_arm_4k.jpg",
+   "mb": 3.77
+  },
+  {
+   "destino": "modelos/street_lamp_01/street_lamp_01_4k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/street_lamp_01/textures/street_lamp_01_diff_4k.jpg",
+   "mb": 3.17
+  },
+  {
+   "destino": "modelos/street_lamp_01/textures/street_lamp_01_arm_4k.jpg",
+   "mb": 7.94
+  },
+  {
+   "destino": "modelos/street_lamp_01/textures/street_lamp_01_nor_gl_4k.jpg",
+   "mb": 6.62
+  },
+  {
+   "destino": "modelos/modular_street_seating/modular_street_seating_4k.gltf",
+   "mb": 0.03
+  },
+  {
+   "destino": "modelos/modular_street_seating/textures/modular_street_seating_armrests_nor_gl_4k.jpg",
+   "mb": 3.79
+  },
+  {
+   "destino": "modelos/modular_street_seating/textures/modular_street_seating_timber_arm_4k.jpg",
+   "mb": 11.36
+  },
+  {
+   "destino": "modelos/modular_street_seating/textures/modular_street_seating_supports_diff_4k.jpg",
+   "mb": 8.74
+  },
+  {
+   "destino": "modelos/modular_street_seating/textures/modular_street_seating_connectors_nor_gl_4k.jpg",
+   "mb": 7.49
+  },
+  {
+   "destino": "modelos/modular_street_seating/textures/modular_street_seating_connectors_diff_4k.jpg",
+   "mb": 2.45
+  },
+  {
+   "destino": "modelos/modular_street_seating/textures/modular_street_seating_timber_diff_4k.jpg",
+   "mb": 9.54
+  },
+  {
+   "destino": "modelos/modular_street_seating/textures/modular_street_seating_supports_nor_gl_4k.jpg",
+   "mb": 5.86
+  },
+  {
+   "destino": "modelos/modular_street_seating/textures/modular_street_seating_armrests_arm_4k.jpg",
+   "mb": 8.77
+  },
+  {
+   "destino": "modelos/modular_street_seating/textures/modular_street_seating_supports_arm_4k.jpg",
+   "mb": 9.11
+  },
+  {
+   "destino": "modelos/modular_street_seating/textures/modular_street_seating_timber_nor_gl_4k.jpg",
+   "mb": 9.68
+  },
+  {
+   "destino": "modelos/modular_street_seating/textures/modular_street_seating_armrests_diff_4k.jpg",
+   "mb": 8.75
+  },
+  {
+   "destino": "modelos/modular_street_seating/textures/modular_street_seating_connectors_arm_4k.jpg",
+   "mb": 7.21
+  },
+  {
+   "destino": "modelos/metal_trash_can/metal_trash_can_4k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/metal_trash_can/textures/metal_trash_can_rust_diff_4k.jpg",
+   "mb": 9.22
+  },
+  {
+   "destino": "modelos/metal_trash_can/textures/metal_trash_can_arm_4k.jpg",
+   "mb": 9.85
+  },
+  {
+   "destino": "modelos/metal_trash_can/textures/metal_trash_can_nor_gl_4k.jpg",
+   "mb": 10.05
+  },
+  {
+   "destino": "modelos/metal_trash_can/textures/metal_trash_can_rust_nor_gl_4k.jpg",
+   "mb": 15.75
+  },
+  {
+   "destino": "modelos/metal_trash_can/textures/metal_trash_can_rust_arm_4k.jpg",
+   "mb": 7.99
+  },
+  {
+   "destino": "modelos/metal_trash_can/textures/metal_trash_can_diff_4k.jpg",
+   "mb": 7.12
+  },
+  {
+   "destino": "modelos/modular_urban_apartments_facade/modular_urban_apartments_facade_2k.gltf",
+   "mb": 0.26
+  },
+  {
+   "destino": "modelos/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_trim_01_arm_2k.jpg",
+   "mb": 2.44
+  },
+  {
+   "destino": "modelos/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_trim_02_diff_2k.jpg",
+   "mb": 1.9
+  },
+  {
+   "destino": "modelos/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_plaster_diff_2k.jpg",
+   "mb": 2.13
+  },
+  {
+   "destino": "modelos/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_trim_02_nor_gl_2k.jpg",
+   "mb": 3.27
+  },
+  {
+   "destino": "modelos/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_trim_01_diff_2k.jpg",
+   "mb": 2.1
+  },
+  {
+   "destino": "modelos/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_plaster_nor_gl_2k.jpg",
+   "mb": 4.67
+  },
+  {
+   "destino": "modelos/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_plaster_arm_2k.jpg",
+   "mb": 2.24
+  },
+  {
+   "destino": "modelos/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_trim_02_arm_2k.jpg",
+   "mb": 2.75
+  },
+  {
+   "destino": "modelos/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_objects_diff_2k.jpg",
+   "mb": 1.92
+  },
+  {
+   "destino": "modelos/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_trim_01_nor_gl_2k.jpg",
+   "mb": 3.44
+  },
+  {
+   "destino": "modelos/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_objects_nor_gl_2k.jpg",
+   "mb": 1.97
+  },
+  {
+   "destino": "modelos/modular_urban_apartments_facade/textures/modular_urban_apartments_facade_objects_arm_2k.jpg",
+   "mb": 2.62
+  },
+  {
+   "destino": "modelos/modular_urban_apartments_facade/modular_urban_apartments_facade.bin",
+   "mb": 7.79
+  },
+  {
+   "destino": "modelos/grass_medium_01/grass_medium_01_4k.gltf",
+   "mb": 0.03
+  },
+  {
+   "destino": "modelos/grass_medium_01/textures/grass_medium_01_nor_gl_4k.jpg",
+   "mb": 12.43
+  },
+  {
+   "destino": "modelos/grass_medium_01/textures/grass_medium_01_diff_4k.jpg",
+   "mb": 3.34
+  },
+  {
+   "destino": "modelos/grass_medium_01/textures/grass_medium_01_arm_4k.jpg",
+   "mb": 7.14
+  },
+  {
+   "destino": "modelos/dandelion_01/dandelion_01_4k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/dandelion_01/textures/dandelion_01_nor_gl_4k.jpg",
+   "mb": 5.43
+  },
+  {
+   "destino": "modelos/dandelion_01/textures/dandelion_01_diff_4k.jpg",
+   "mb": 4.38
+  },
+  {
+   "destino": "modelos/dandelion_01/textures/dandelion_01_arm_4k.jpg",
+   "mb": 4.73
+  },
+  {
+   "destino": "modelos/celandine_01/celandine_01_4k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/celandine_01/textures/celandine_01_nor_gl_4k.jpg",
+   "mb": 3.99
+  },
+  {
+   "destino": "modelos/celandine_01/textures/celandine_01_diff_4k.jpg",
+   "mb": 3.85
+  },
+  {
+   "destino": "modelos/celandine_01/textures/celandine_01_arm_4k.jpg",
+   "mb": 3.88
+  }
+ ],
+ "errores": [],
+ "saltados": [
+  {
+   "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/jacaranda_tree/jacaranda_tree.bin",
+   "mb": 198.7
+  },
+  {
+   "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/8k/sunny_vondelpark_8k.hdr",
+   "mb": 106.3
+  }
+ ],
+ "info": {
+  "island_tree_01": {
+   "nombre": "Island Tree 01",
+   "autores": {
+    "Rob Tuytel": "scanning, processing",
+    "Rico Cilliers": "cleanup, processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "island_tree_02": {
+   "nombre": "Island Tree 02",
+   "autores": {
+    "Rob Tuytel": "scanning, processing",
+    "Rico Cilliers": "cleanup, processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "island_tree_03": {
+   "nombre": "Island Tree 03",
+   "autores": {
+    "Rob Tuytel": "scanning, processing",
+    "Rico Cilliers": "cleanup, processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "jacaranda_tree": {
+   "nombre": "Jacaranda Tree",
+   "autores": {
+    "Rob Tuytel": "guidance",
+    "Rico Cilliers": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "street_lamp_01": {
+   "nombre": "Street Lamp 01",
+   "autores": {
+    "Josh Dean": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "modular_street_seating": {
+   "nombre": "Modular Street Seating",
+   "autores": {
+    "Stuart Attenborrow": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "metal_trash_can": {
+   "nombre": "Metal Trash Can",
+   "autores": {
+    "GurJas Studios": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "modular_urban_apartments_facade": {
+   "nombre": "Modular Urban Apartments Facade",
+   "autores": {
+    "James Ray Cock": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "grass_medium_01": {
+   "nombre": "Grass Medium 01",
+   "autores": {
+    "Rob Tuytel": "Photography",
+    "Rico Cilliers": "Modeling"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "dandelion_01": {
+   "nombre": "Dandelion 01",
+   "autores": {
+    "Rob Tuytel": "Photography",
+    "Rico Cilliers": "Modeling"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "celandine_01": {
+   "nombre": "Celandine 01",
+   "autores": {
+    "Rob Tuytel": "Photography",
+    "Rico Cilliers": "modeling"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "sunny_vondelpark": {
+   "nombre": "Sunny Vondelpark",
+   "autores": {
+    "Greg Zaal": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  }
+ }
+}

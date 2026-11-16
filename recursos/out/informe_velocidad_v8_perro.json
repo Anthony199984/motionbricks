@@ -1,0 +1,306 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/perro_pastor_real/1068591ad6694c2c84b581805f87a6ee.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_pastor_real/18d8fbe184c5448283762893b6ea9752.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/perro_pastor_real/c9ab691dfea04e41908b18a883215335.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_pastor_real/b87bafdfd1e34422a447893051e00425.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_pastor_real/3b314d0bac774db780c409b487835f4f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_pastor_real/74fb76422a7244a2bd73757ab533ab94.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_pastor_real/cdf56b3d94724be4b6351ff6e9355d07.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_pastor_real/9c0dce8d10044c27b16e5c464deb57e9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_pastor_real/876367539de44a1daa0ef13bda77c76d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/perro_pastor_real/b2ad95c584ab422eb5283d1fa95e8753.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_pastor_real/b4ceb3a5ab08440a8f54cf445f15c72d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_pastor_real/e7568b5dadb946a6ad30a28b527895fb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_pastor_real/82501b69881d412e98978ae94b951d47.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_realista/c865fb845bac42c7939da06d4617b7b1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/perro_realista/d7e44c851df54d0195fb42dcf4d62b9e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/perro_realista/0d9de1c00d6c4a3fa1a50e87492102c9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_realista/39c95d18b95b47a7a1801cc3a4376979.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_realista/00540202a306442a849e700d827f3de3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_realista/45be4ebea981447f827db33d82e2f12a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_realista/a5cce410728140c492855a109f219ac1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/perro_realista/daad5c1bdb4e4edd83e0a020a276b7ff.jpg",
+   "mb": 0.0
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "perro_pastor_real": [
+   {
+    "uid": "1068591ad6694c2c84b581805f87a6ee",
+    "nombre": "German Shepherd VRChat Ready",
+    "autor": "AtheoFreak",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 120537,
+    "url": "https://sketchfab.com/3d-models/none-1068591ad6694c2c84b581805f87a6ee",
+    "miniatura": "miniaturas/perro_pastor_real/1068591ad6694c2c84b581805f87a6ee.jpg"
+   },
+   {
+    "uid": "18d8fbe184c5448283762893b6ea9752",
+    "nombre": "Stylized Low Poly German Shepherd",
+    "autor": "DreamNoms",
+    "licencia": "CC Attribution",
+    "animaciones": 13,
+    "caras": 852,
+    "url": "https://sketchfab.com/3d-models/none-18d8fbe184c5448283762893b6ea9752",
+    "miniatura": "miniaturas/perro_pastor_real/18d8fbe184c5448283762893b6ea9752.jpg"
+   },
+   {
+    "uid": "c9ab691dfea04e41908b18a883215335",
+    "nombre": "German Shepherd Skull",
+    "autor": "OSU.Multimedia",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 404846,
+    "url": "https://sketchfab.com/3d-models/none-c9ab691dfea04e41908b18a883215335",
+    "miniatura": "miniaturas/perro_pastor_real/c9ab691dfea04e41908b18a883215335.jpg"
+   },
+   {
+    "uid": "b87bafdfd1e34422a447893051e00425",
+    "nombre": "German Sherpherd - minecraft",
+    "autor": "radher",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 168,
+    "url": "https://sketchfab.com/3d-models/none-b87bafdfd1e34422a447893051e00425",
+    "miniatura": "miniaturas/perro_pastor_real/b87bafdfd1e34422a447893051e00425.jpg"
+   },
+   {
+    "uid": "3b314d0bac774db780c409b487835f4f",
+    "nombre": "Zeus the Wolf",
+    "autor": "nil6",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 7328,
+    "url": "https://sketchfab.com/3d-models/none-3b314d0bac774db780c409b487835f4f",
+    "miniatura": "miniaturas/perro_pastor_real/3b314d0bac774db780c409b487835f4f.jpg"
+   },
+   {
+    "uid": "74fb76422a7244a2bd73757ab533ab94",
+    "nombre": "German Shepherd (Sitting)",
+    "autor": "dwigfor",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 6026,
+    "url": "https://sketchfab.com/3d-models/none-74fb76422a7244a2bd73757ab533ab94",
+    "miniatura": "miniaturas/perro_pastor_real/74fb76422a7244a2bd73757ab533ab94.jpg"
+   },
+   {
+    "uid": "cdf56b3d94724be4b6351ff6e9355d07",
+    "nombre": "German Shepherd (Laying Down)",
+    "autor": "dwigfor",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1250,
+    "url": "https://sketchfab.com/3d-models/none-cdf56b3d94724be4b6351ff6e9355d07",
+    "miniatura": "miniaturas/perro_pastor_real/cdf56b3d94724be4b6351ff6e9355d07.jpg"
+   },
+   {
+    "uid": "9c0dce8d10044c27b16e5c464deb57e9",
+    "nombre": "German Shepherd (Low Poly)",
+    "autor": "TdoubleU8",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3406,
+    "url": "https://sketchfab.com/3d-models/none-9c0dce8d10044c27b16e5c464deb57e9",
+    "miniatura": "miniaturas/perro_pastor_real/9c0dce8d10044c27b16e5c464deb57e9.jpg"
+   },
+   {
+    "uid": "876367539de44a1daa0ef13bda77c76d",
+    "nombre": "Lowpoly Dogs for background props",
+    "autor": "TrentPierce",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 113846,
+    "url": "https://sketchfab.com/3d-models/none-876367539de44a1daa0ef13bda77c76d",
+    "miniatura": "miniaturas/perro_pastor_real/876367539de44a1daa0ef13bda77c76d.jpg"
+   },
+   {
+    "uid": "b2ad95c584ab422eb5283d1fa95e8753",
+    "nombre": "German Shepherd",
+    "autor": "Faxchard",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 774844,
+    "url": "https://sketchfab.com/3d-models/none-b2ad95c584ab422eb5283d1fa95e8753",
+    "miniatura": "miniaturas/perro_pastor_real/b2ad95c584ab422eb5283d1fa95e8753.jpg"
+   },
+   {
+    "uid": "b4ceb3a5ab08440a8f54cf445f15c72d",
+    "nombre": "Chase Paw Patrol",
+    "autor": "johnnokomis",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1237901,
+    "url": "https://sketchfab.com/3d-models/none-b4ceb3a5ab08440a8f54cf445f15c72d",
+    "miniatura": "miniaturas/perro_pastor_real/b4ceb3a5ab08440a8f54cf445f15c72d.jpg"
+   },
+   {
+    "uid": "e7568b5dadb946a6ad30a28b527895fb",
+    "nombre": "FR 29_Custom",
+    "autor": "Astra7872",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 214203,
+    "url": "https://sketchfab.com/3d-models/none-e7568b5dadb946a6ad30a28b527895fb",
+    "miniatura": "miniaturas/perro_pastor_real/e7568b5dadb946a6ad30a28b527895fb.jpg"
+   },
+   {
+    "uid": "82501b69881d412e98978ae94b951d47",
+    "nombre": "Dog (my first model)",
+    "autor": "CarSalesman",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 606,
+    "url": "https://sketchfab.com/3d-models/none-82501b69881d412e98978ae94b951d47",
+    "miniatura": "miniaturas/perro_pastor_real/82501b69881d412e98978ae94b951d47.jpg"
+   }
+  ],
+  "perro_realista": [
+   {
+    "uid": "c865fb845bac42c7939da06d4617b7b1",
+    "nombre": "Lowpoly Mushrooms",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 16000,
+    "url": "https://sketchfab.com/3d-models/none-c865fb845bac42c7939da06d4617b7b1",
+    "miniatura": "miniaturas/perro_realista/c865fb845bac42c7939da06d4617b7b1.jpg"
+   },
+   {
+    "uid": "d7e44c851df54d0195fb42dcf4d62b9e",
+    "nombre": "Overwatch Fan Art | Brigitte's shield",
+    "autor": "AdrianLanSunLuk",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 44884,
+    "url": "https://sketchfab.com/3d-models/none-d7e44c851df54d0195fb42dcf4d62b9e",
+    "miniatura": "miniaturas/perro_realista/d7e44c851df54d0195fb42dcf4d62b9e.jpg"
+   },
+   {
+    "uid": "0d9de1c00d6c4a3fa1a50e87492102c9",
+    "nombre": "Old Glaive",
+    "autor": "patguilbo",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 5698,
+    "url": "https://sketchfab.com/3d-models/none-0d9de1c00d6c4a3fa1a50e87492102c9",
+    "miniatura": "miniaturas/perro_realista/0d9de1c00d6c4a3fa1a50e87492102c9.jpg"
+   },
+   {
+    "uid": "39c95d18b95b47a7a1801cc3a4376979",
+    "nombre": "Pivozavr!_Пивозавр! meme",
+    "autor": "ALexzart",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 94978,
+    "url": "https://sketchfab.com/3d-models/none-39c95d18b95b47a7a1801cc3a4376979",
+    "miniatura": "miniaturas/perro_realista/39c95d18b95b47a7a1801cc3a4376979.jpg"
+   },
+   {
+    "uid": "00540202a306442a849e700d827f3de3",
+    "nombre": "Long bow",
+    "autor": "belattimartin.e",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4180,
+    "url": "https://sketchfab.com/3d-models/none-00540202a306442a849e700d827f3de3",
+    "miniatura": "miniaturas/perro_realista/00540202a306442a849e700d827f3de3.jpg"
+   },
+   {
+    "uid": "45be4ebea981447f827db33d82e2f12a",
+    "nombre": "Fallout Girl",
+    "autor": "LittleWhiteElk",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 38122,
+    "url": "https://sketchfab.com/3d-models/none-45be4ebea981447f827db33d82e2f12a",
+    "miniatura": "miniaturas/perro_realista/45be4ebea981447f827db33d82e2f12a.jpg"
+   },
+   {
+    "uid": "a5cce410728140c492855a109f219ac1",
+    "nombre": "Bound Books Version 2 - Painted Texture",
+    "autor": "liitransfield",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2528,
+    "url": "https://sketchfab.com/3d-models/none-a5cce410728140c492855a109f219ac1",
+    "miniatura": "miniaturas/perro_realista/a5cce410728140c492855a109f219ac1.jpg"
+   },
+   {
+    "uid": "daad5c1bdb4e4edd83e0a020a276b7ff",
+    "nombre": "Low Poly Hawk",
+    "autor": "ikabod197",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 388,
+    "url": "https://sketchfab.com/3d-models/none-daad5c1bdb4e4edd83e0a020a276b7ff",
+    "miniatura": "miniaturas/perro_realista/daad5c1bdb4e4edd83e0a020a276b7ff.jpg"
+   }
+  ]
+ }
+}

@@ -1,0 +1,4845 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/cu3_arbol_realista/07dfe01fb78c441db081646ff4c1d9e0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/396f8957029e4440ba15efb0fe217d5f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/1269b7e00f9d4ce09931c0c95967bc33.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/b5b506fc4f5d4af9b546283bdf0c6a15.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/49e6306b29c74c679de8cec69473535b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/580ec212875a44ba95391762929f609c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/08b4a9eac77a40419fd59402cc7b2deb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/ca6179af591c417fb4a124f605b6e63d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/b968b5dc462148989cb87b072885da85.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/b0edfdc157e94ea093ee959c65db38de.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/e5317637f57d48b6ba0668cc7c074498.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/7eeaab60fcf24085b705937696d7a51b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/adf1e8832cf74a8a94c98792fa1d9088.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/d0937b7682e74e359a7b00dbc73d03b7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/ded075151a294ad094b43903ba2f8f59.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/381b3e7bfc9c4a5ea1adf4097d64842c.jpg",
+   "mb": 0.02
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/6a22ed22665743b6bc989978da95e32a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/457c8c70eb5a45649d5b42b9bc9c3337.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/e69777fa47244434b337488b97cecd0e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/f3214bfd52fb4868a094e45d9a189af8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/f2c2271c1cdb4db298f5f4e7b5896a1c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/8712f53da0e04736802f1bc84ca7df97.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/9b5db1cddf1e4fc399f47c80b31462c2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/0563fd3f162a437b8a5bf72986ca35cd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/48807f86fd03406aa6b813ca026b0ad1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/bdc814c85fd949b980c34df23e542d5d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/d3abaaefbe434c0f9fe2c67ab3d5b710.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/9a8ffae22f0846ba895f09d08ff97d82.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/c9db1c56ea2a40eebc033ae2dd65c325.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_realista/95023859e97f44ddb654037c1932f65c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/396f8957029e4440ba15efb0fe217d5f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/d44222f5e9994ad6b4a975951c0ada44.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/580ec212875a44ba95391762929f609c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/7a0f2d413b5846f591b40580f783c53c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/ca6179af591c417fb4a124f605b6e63d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/fd582b0d4a8c4af1a1b5c4f21a481c93.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/b968b5dc462148989cb87b072885da85.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/6fa85b289def499c95afd232173ecc27.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/3bb1c5445e22498db449a296b34620a5.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/c4e8dfabff3944fe9bf7187300eb4767.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/686ead265f694f13990319e3aabe8a14.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/2e1824ab0d8543f1b43093cc0c46777b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/b0edfdc157e94ea093ee959c65db38de.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/7b0eee8cae194d5c9aeea8b9f962bfe3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/a8196d4889464ab7b5dfdbae60cfd708.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/e5317637f57d48b6ba0668cc7c074498.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/7cf0277d09264e7b9355dadf58baba75.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/48272f02e5b144fca6fc519ab7bb922d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/ded075151a294ad094b43903ba2f8f59.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/232e1f60165342afb09a40230f7a469d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/d2e2aa802ca24a21806a122fcbff43da.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/fabc5ef137854b369152062b59444159.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/8dc01ff203bc4f02ac74c0b00f441be5.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/7cc5c35708b247d5aa961cba4bc0e86f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/ce4d33f9b9a3440f97aeec7ed9293b79.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/870b595eda444b4ea23ab9f1db629942.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/ff8d8e5b38d64226af0abf1f8eb8ebce.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/10ff7f54d415417ba7fbbacf09525417.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/6a92c9c3db254defa8bc31d240ebe1f2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_fotogrametria/269e5c5fd2bf44f48f180f76d2d77439.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_frondoso/200371b56e8f4c888cf6199a87f5f7ae.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_frondoso/6db96be0ea694f558836e662c595788a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_frondoso/32a596691b0d4a7ea07f5a2e27f11b52.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_frondoso/ce0f28ba9b6c4ec1aba78d775fc50132.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_frondoso/1f2ff489ad4a4788a9cb95d5db55ffca.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_frondoso/845a9082c3f2444e85e474ba528639d2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_frondoso/e10168a1953f4b2986abdb162816fe30.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_sombra/d40b58e0af514977aa52b839659dc1d3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_sombra/5646e6a3c8834022a0e289465f0bbc5d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_sombra/89f6d58d90264ae09fd9e16c53b77d40.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_sombra/fb8b726f1e124e239b60fccc8cc6d6f8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_sombra/5ce7f2ac6db1446797939688244fae87.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_sombra/87954926bcd04470a058867cf0e4ac91.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_sombra/4f12473673a84680992fd7b5d89f1783.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_sombra/6cbb8e97a39442bda96d6a961c037fa4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_sombra/987637cf9b1e4199af603a52a7cc5464.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_sombra/f2f4ddd3657542c8a9fd86dcd7a1699c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_sombra/52e12e1040e64c60b651cdf195c1a6a8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_flamboyan/be892d70f3bf4aacba3e3f2e5b32d3d7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_ceiba/9142b8f06e384f1c9554c9b10da79d2a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_almendro/cb4bf4308714484185bd619116aae7c6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_almendro/3a50c5a4acd243e199fc13e594455f31.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_almendro/5f7fafc8200541e08ee57eda7e19fb50.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_almendro/2d7cdd81de6a4a45a29c466f378bd1bd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_almendro/614eb3be3d6441429ab8a1e67dee7a39.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_roble/48807f86fd03406aa6b813ca026b0ad1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_arbol_roble/5f5bb2305d534283be08f534ece9c9db.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/26e787f2ff2e4c0fb004c3b0210805a3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/d141941578044b0f861ca83b36d4c411.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/8c5d6b661b2f4c37834d87cd187eb907.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/b84b734847344cb6a81b9102a64ac63b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/afe3221922ef4bdbb0cb25a2656e1afb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/45a74e13bdcb433fa77a24b7113c189d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/b60517a9b8124bd79244c010badcf224.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/ec6057dfa99f4a5aac334cce0d073b59.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/69059d6628c74d8a9dd1f63f65eed224.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/f7b457b0d443488a87d16b210d1be4ba.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/b9922dd105ee4536b9ca983c26f58e66.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/921979e5d10c42d9beccb98f46abc24d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/0e84a55ab79a44ecaa693675408aa252.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/0935d409de024174b2a231b47263a7cd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/58f448209beb43659e95ca0e1ad59ac2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/b6329d61cfdb4ca6a336c3ce9203efc8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/8878564de48c46d6b0e2cb3a1d6029c0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/329328ea85c24b488a97204521c0c783.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/7258d9d6c6f54b3fa98a83163e5357e0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/a37b8b1b0b5a4ca8a84221364055f2bd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/261e3990dfab43f5be3f65ee197af603.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/28328631321a45c89991c876eed07eec.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/b380d4e8e41b4e10b81aa19a0d557434.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/32a7255a308e46cfbdabeb996405ba47.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/7cee3e952c944fba8a672aab149ce4d0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/afd4becf917142509b7630c7a0f01701.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/460ac37d915c41ab9296c1087b084a0d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/c1de39028a5e4fa59dadf0a447d4342b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palma_coco/7349336545994233bc67daaf0d9f45ef.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palmera_real/aa7cec0f02f2437ebe345478c4c1b3c1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_palmera_real/51779058a19849869651ff307a522bc3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_palmera_real/0ba8e80bd37c4afa95a898e54ac1e771.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_palmera_real/f11b5bd405b54f08b8e2b388237fcddd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_palmera_real/0b56866273cb4843aa3d44ca9937f549.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_palmera_real/d060c7d1ffe246eaa63fee9d95ee4e11.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_palmera_real/22cba42c412a46e2bad62f919fa45333.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/bcee47f9119f46a1a758064690f21941.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/85695b82c7ba4b3497a663616cc3bf25.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/105da0b01b414fceb2feac631b0f64e8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/43b0a0c41f0543d09f9501ca1fb1a7b1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/55180008229841a9a6af3a35528ccdc6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/a1e3030233774d149f307b5f2e60bc26.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/77c6c8ce9199433d8f81cd77f99ba978.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/3856533f350b4d33b47d5d434b9ac911.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/e5c50afa83604537babdec3198322fd7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/e4ce3bc6797b49159d2777bf9370eee0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/4b12b781d8b2455d84ed981be1e41744.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/65571d7bc6674305915a7c2e3c6960dd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/bf76ef97ff844d5ca9c0de2e7985544e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/679514f67685444a90d885735a18602b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/62f91fb253f7413b929a2b67cdafde54.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/08a26ba669844f17a299a1eb368de04d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/ced61b6cec68488eb0715de04960469d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/8cbc86cff0544a40b9964ca8380b8563.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/6f3ad7ba286e4eea82ecef273190857a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/db7f6ab43818441cba66ab4dd908f4be.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mata_platano/90493b11ff7147509aa641202551186e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/6d139742099d48f195e6774514ccb7ef.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/0a45955e2328459d95f403cb00c08b3a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/be3d5131e634424e89ffd57ebb19804e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/261d81ec28d845eba3bb7373768c60c5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/ef34e3f4c45348cfa92b993f3fc44531.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/8444f5a2bac940e898a096cc2ad70ad7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/9428cbbad32f483ca8c268c615c9d447.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/3f63a5ab46df4f78a5df646001a5fced.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/71e4f630a37741f29b8a46f04249a92f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/e80af9999cd24a3aa66a32adead8f8b9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/306bd1c648924ca98f22d1d4f1dfb7bf.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/b7235310a7a74d10b591b85a1b16437b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/70484ad4d0ed4dcbad1327e4bdd6c946.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/74cd3a7c7df84091b226efd30766c157.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/6458816e73534df0a26ddc6567395d2c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/31e744475fc74104b4acf1746b5f7266.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/90a6ea64762e4d88b79bc3742410e0b4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/5cde9f53b44040f596b3f2ebc15a9a8d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/eb9b5f4ff5af49e98eea80baa6b0a7dc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/82d76bd03cf34d89921de9bda5fc6d83.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/25c585737c014827bfa3b56c2b680581.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/ee87bd3b247f4ccab78889b0dd35e59a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/dfd8781faeea400b87349e11a24da4f4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/d40c7295ae4845e79cef15c15f929db5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/06d0836fac844c74ae652214ded4b6b9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/a11650fdb7664fa481f2b974db7b40c7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/5949a77d2e544e88ac67122b8f04944f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/43d782c59df741848e17c502151aa5a6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/3b2cbe445d884fde8f3510d11763545c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_silla_plastica/cdaaa169fabe49bca58fcda2e5067c0a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/fa805b31129b4034b2b8433073873367.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/02b1f16a578245ecaeaccf138fd91d7e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/ef34e3f4c45348cfa92b993f3fc44531.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/8444f5a2bac940e898a096cc2ad70ad7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/3d9bcb1a899e41dd8eacc77671ae61e3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/68e6bbc6cd3d4846baf1b45b1239ec14.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/e8358dae6a8441b7b9357ee9aa9cbd2b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/eb9b5f4ff5af49e98eea80baa6b0a7dc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/36792497b18d4b0f87fc502429779db4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/22b6af3b213b4877a4aa3a9ca918ade8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/f27cf27533fd40d18af35f089267eb87.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/6270118bb9524c06b1a984616f381bc1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/aeb698acd35a41189c9718c68571701a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/495e551476734bb794826aa8f7426740.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/d0f3b07e01e24b70ba1f83370e8e9ff5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/6d658aa682554f0e9a481e11e3260169.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/31cf88aa1d3f4434b3cd6561300787e1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/ac3901dac1c540e88ea770f5f0bd8292.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/c52f445eca564ef39def020a8db14ffb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/6a64440e201d41b7bdb437c3e06e9ab0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/7852c5b3c2df449d86e6ff64d9b48bd8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/264f3ddbcf9d49bf93686b64573172a8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/bc17b1eba18e4e74a401aac7a62b5682.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/17403d9129a84ee48aea82a47936e50c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/85c95e7de29b423d987c4bad3a834c18.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/5700f75d2d0647afbb26a356ec29d34a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/3ba8ba7b1bd24197a1cc866568e04a3c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/22676413f39a41249ed6478652e9ae3a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/0e7444ee28aa4150b60b966179085f55.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_mesa_plastica/02685cb978684f5b8c78be55abede5e6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/c7efb3b9611747ddb4e15d164540d291.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/cd962832be7744efb6b37fe0ee2027e7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/12b3ce23f32a4aa99cd5ba07330bf086.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/fa9f8b00d31c45a7abe308a2fa8f2165.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/d236ab749f824a7aaa9a5d0a32c55180.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/8e23af1ce0cc48b1a84c950ab6322519.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/8bfa354e4afb4d95b2274a7b45cf4986.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/338f06c56edd467cbbc8b5850b0e41a3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/623e06281c974d34b9baa54c37fa00cc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/3d47fa4fed7e4c23bdba8aac3290eb9f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/8b087f086ef145d79a2320b85d12241f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/824f7b8d910f442d8300a5ebeb295f4a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/23d3b25d47f74d7d9a96ee542914f281.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/74851cdf119c4016ae17d22984aa38c7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/0823c4dcf6ee4fb2841e659b19bcdb81.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/13c139c8bbf34dcd8d00e0d26f7e8ce0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/2fe2390c8a8f449e915c86f1ca1c0074.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/e1de0f6650df4d31a90d33fa19ab1126.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/6777a7a1b2dd43e4b4842a862b7fa1c9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/44883e9be7f2494cb36cff5cd5fda7e9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/fe3f49c32e2e4f7aa3393c72b35e4297.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_bocina_fiesta/436a5e9fc2724788be1bf00b1494b8d8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/3456982171f24599b8f25404989d2a6e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/d236ab749f824a7aaa9a5d0a32c55180.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/b3f2a1563f0c4be18cb811d18745bc78.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/6cf24b2d44c84e32b0a930288eb6650c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/dae3da403539484cb7f2ce805eaf02a1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/54adb6dd50ef44bbbe0338b7ab8c3b79.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/026cf4d0752e4a16b9445fa6793c1141.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/5dbb543488d543c398878620bf7d43f1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/824f7b8d910f442d8300a5ebeb295f4a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/19bd007bd2e74b039c2415949a93d575.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/facfb7d088504a0eac7c47d4f5ada0d9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/9f0175c545aa4992b248fb2ceea03d92.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/13c139c8bbf34dcd8d00e0d26f7e8ce0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/0601c6d396c7465a91f735535094c885.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/d892b203b1ff4824969a6ae6deb6def8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/e1de0f6650df4d31a90d33fa19ab1126.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/e32bb42513774b96965c4598872047de.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/c777246eaa224485a94511d022e54233.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/806a36e4d03c45e28899ce36f6d81fea.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/d4cc4fa85a9945598e4c30648dfa0a0c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/c6dff9d5e90f488a9f5f24392dfe4eb9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/dd22018e2c8745ccbffc45d05e6dbaa1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/4eb6524b02294107bc7c791d6c79865d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/2c4cd26946c6493d8c1529bed58a3627.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_altavoz/c3f1e808a8384e91a4a3e7297c7b099d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/c7910cde1f084ea1823b7c0fdfbe700f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/9829dbbcb4d743ecaf9d2672c49bf0ef.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/1afaa69215604838911ccd3221e4a6d6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/f12f12bc5a984718a036034b02d4989b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/93ccea4774854425a55611b72b750ca2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/20aa825e13cb4ea587572e0efcede93e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/e981eeb9b53440b7afda1f4d16232b06.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/3fbd0fc182f841e0b3e16108a3e5acc9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/876367539de44a1daa0ef13bda77c76d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/78c2ceb1e51149698c6a8e6242d5dbb2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/4f6a9e38f665481f8f3d2f1499ab2ff3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/2e783110334b454d9717385fed52a1ef.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/0bb56b8ade3746fabe1b2ad87577c951.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/8b7c81c6ed72445b80f630a296625db6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/4da29524eb994531ba420d9d12d31342.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/3e30496a6e1a42cbbe4160a5dfac894a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/45a2712b2e9d4ddfbc5d38e84012a1ed.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/191c61d5a2664d3cb28dd1644e141530.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/0fb8fdf2defd4abcb69457577082c798.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/b7fb8e98c4b046518f9df1f52831eda3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/52fe15d605dc48579b66259052955b31.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/f481234137a2430697efa36cafbaf247.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/9585b0eb01754eebb0f2236a8874628a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/e8f3a8002bde4bc4a3e4db8d32c7d320.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/a32d287bc9fd476f855f0460a050f18d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/4d994609fb1f4e8ca71d41c019507cf9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/31ab90b0395a4ead80098debbde052b6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/3b539aa357874d26b53163938cbe222f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/9789a7211424472584867dfd0a8089f6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_perro_labrador/689f5226a35741438c97286ee24e1e3f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_terraza_casa/c7ba719a2eda44ff86d681d7a4511435.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_terraza_casa/a3075877a5b34866811517f60a597f73.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_terraza_casa/574ee9c52ef94b518ead1606b90b563e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_terraza_casa/14408b583c3b4914864256aaccf146d2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/92ddd6adb9504c358027fb69350d081c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/abcde3921f7f4db1a008a858d8458084.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/798593b5510048ae9f3f5ae32478530e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/228b2371b9b94d25a38a28ef72f0b660.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/f452ddd981db4d1f90541e7887f8a969.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/f01294e247ec4c35ac420620f28e5872.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/9ea7ddf648b645ab9be1db94dfaaf260.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/4bc1662931c54e52a6237b0e0c18d404.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/eb618242fe3f40618ff697b114372719.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/1095954f04a7464fb8de5f260d1f4942.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/ad963c670afe401dba896859565ce212.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/5a6e8687aeee4d8290ed83e4de7e85dc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/b746e1c47bc241468f64b5dadd0b118c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/67252e81d9ed45fba084ef9dd32aa4d7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/bdb71688d463450cae090bb35479e37e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/537bca8656ed4aa69a85622bcbcab004.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/5617b4778bc5430b9dbbbf0d5fe3aae9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/900f91a37da8409c924158a2a6dd8c75.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/77af96de77cb4766a68dd8a3970b6731.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/cfdcb0dbdeea451f8cbf0b3b523a47d6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/99509908a6394d3795f962faec2cc9a7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/cf9e27a8f5274cacaaa029887671967c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/2db695c506af45238855229f45034298.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/6997c2b92c29421dab469a3a73f56d70.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/6ccf8fc249f04d46adbfc181cd9eb7af.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/372f7a9fa5314b8b9812e6cdc23d819e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_casa_caribe/1637c65a07f94f148c48a4334a5be8f0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/36d26d2446be49e28e3ecabe7d9a690e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/f3b542ab6ae74abd996759ad4bab1bda.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/5578bdc83ed743feb5f7c775197f5fbe.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/76b8c08a890948f1b993df5a8cea6f23.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/4c84a63e28c842d08656a9df77fe1ddd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/eca838f2af7b4969813747fbc64f207f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/ab557f112e804c129e5a631761b6394e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/113d9e97c35b44eeaec318e24bcac473.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/7b0498406857432f8776deeeb09b9731.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/b728a581a70547418e077d223d2a7828.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/3d0ac93e8dd14be3bbf50bdbe2de38a4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/b223ef2d6bb9478e8a9ac8d99b5a248f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/6f98b3548fa64f1d81ece268f700b300.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/b438f868797e49e0965c19e5f98539ca.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/548a3e80778a461aab9e1e6d69c854fc.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/8c3bc542de7444c998f10e2d881ab7b7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/2f273946d42a400e8ba9de953791a7a4.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/7d81a3ae0c3742409ab1bb904066f1ad.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/617c3a2c92cf40b3b0ae64a9df2f0e0c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/ff5091468b9349e9a83e2dff2541c8d5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/c385f52a9f844c88a4ff2c35909c6613.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/81d9f040e2504797ba8d27bf7aea00f6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/13d8646f7c5941d1ac87c26f85308d84.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/36f0bdf3e4ac4614821c2f41887cdc07.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/130f84ab2bd143a89fe8f3d000852d5a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/87bb7d444e884b2fbd3b81ebbc652a7f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/0680fe1bd60343279824f50ba4c6f57f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/100de2d5f0b14cb0b371295d07308e1c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/50abfa6f36134d2684fa29702ce6f0d8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cu3_pergola/66676c0601564caf9734b6345d4828fa.jpg",
+   "mb": 0.0
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "cu3_arbol_realista": [
+   {
+    "uid": "07dfe01fb78c441db081646ff4c1d9e0",
+    "nombre": "Lakeside - Exterior Scene",
+    "autor": "aurelien_martel",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 727546,
+    "url": "https://sketchfab.com/3d-models/none-07dfe01fb78c441db081646ff4c1d9e0",
+    "miniatura": "miniaturas/cu3_arbol_realista/07dfe01fb78c441db081646ff4c1d9e0.jpg"
+   },
+   {
+    "uid": "396f8957029e4440ba15efb0fe217d5f",
+    "nombre": "Lowpoly Sticks",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22004,
+    "url": "https://sketchfab.com/3d-models/none-396f8957029e4440ba15efb0fe217d5f",
+    "miniatura": "miniaturas/cu3_arbol_realista/396f8957029e4440ba15efb0fe217d5f.jpg"
+   },
+   {
+    "uid": "1269b7e00f9d4ce09931c0c95967bc33",
+    "nombre": "Forest Demo",
+    "autor": "patrix",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 30184,
+    "url": "https://sketchfab.com/3d-models/none-1269b7e00f9d4ce09931c0c95967bc33",
+    "miniatura": "miniaturas/cu3_arbol_realista/1269b7e00f9d4ce09931c0c95967bc33.jpg"
+   },
+   {
+    "uid": "b5b506fc4f5d4af9b546283bdf0c6a15",
+    "nombre": "More Realistic Trees Free!",
+    "autor": "Nicholas01",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1376186,
+    "url": "https://sketchfab.com/3d-models/none-b5b506fc4f5d4af9b546283bdf0c6a15",
+    "miniatura": "miniaturas/cu3_arbol_realista/b5b506fc4f5d4af9b546283bdf0c6a15.jpg"
+   },
+   {
+    "uid": "49e6306b29c74c679de8cec69473535b",
+    "nombre": "Medieval Modular City Realistic - WIP",
+    "autor": "danielvicente97cesur",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1103088,
+    "url": "https://sketchfab.com/3d-models/none-49e6306b29c74c679de8cec69473535b",
+    "miniatura": "miniaturas/cu3_arbol_realista/49e6306b29c74c679de8cec69473535b.jpg"
+   },
+   {
+    "uid": "580ec212875a44ba95391762929f609c",
+    "nombre": "Trees in the park Anthropos",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 283410,
+    "url": "https://sketchfab.com/3d-models/none-580ec212875a44ba95391762929f609c",
+    "miniatura": "miniaturas/cu3_arbol_realista/580ec212875a44ba95391762929f609c.jpg"
+   },
+   {
+    "uid": "08b4a9eac77a40419fd59402cc7b2deb",
+    "nombre": "Realistic Trees Pack of 2 Free",
+    "autor": "Nicholas01",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 865704,
+    "url": "https://sketchfab.com/3d-models/none-08b4a9eac77a40419fd59402cc7b2deb",
+    "miniatura": "miniaturas/cu3_arbol_realista/08b4a9eac77a40419fd59402cc7b2deb.jpg"
+   },
+   {
+    "uid": "ca6179af591c417fb4a124f605b6e63d",
+    "nombre": "Lowpoly Sticks - Free Download",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3000,
+    "url": "https://sketchfab.com/3d-models/none-ca6179af591c417fb4a124f605b6e63d",
+    "miniatura": "miniaturas/cu3_arbol_realista/ca6179af591c417fb4a124f605b6e63d.jpg"
+   },
+   {
+    "uid": "b968b5dc462148989cb87b072885da85",
+    "nombre": "Boubín Stump",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 23581,
+    "url": "https://sketchfab.com/3d-models/none-b968b5dc462148989cb87b072885da85",
+    "miniatura": "miniaturas/cu3_arbol_realista/b968b5dc462148989cb87b072885da85.jpg"
+   },
+   {
+    "uid": "b0edfdc157e94ea093ee959c65db38de",
+    "nombre": "Realistic Cracked Tree Game-Ready prop",
+    "autor": "aliosa123",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3509,
+    "url": "https://sketchfab.com/3d-models/none-b0edfdc157e94ea093ee959c65db38de",
+    "miniatura": "miniaturas/cu3_arbol_realista/b0edfdc157e94ea093ee959c65db38de.jpg"
+   },
+   {
+    "uid": "e5317637f57d48b6ba0668cc7c074498",
+    "nombre": "Stump in the meadow 3",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18196,
+    "url": "https://sketchfab.com/3d-models/none-e5317637f57d48b6ba0668cc7c074498",
+    "miniatura": "miniaturas/cu3_arbol_realista/e5317637f57d48b6ba0668cc7c074498.jpg"
+   },
+   {
+    "uid": "7eeaab60fcf24085b705937696d7a51b",
+    "nombre": "Low-Poly Street house",
+    "autor": "FenixST",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1117,
+    "url": "https://sketchfab.com/3d-models/none-7eeaab60fcf24085b705937696d7a51b",
+    "miniatura": "miniaturas/cu3_arbol_realista/7eeaab60fcf24085b705937696d7a51b.jpg"
+   },
+   {
+    "uid": "adf1e8832cf74a8a94c98792fa1d9088",
+    "nombre": "Realistic Beech Fern Plant | Games | Film",
+    "autor": "3d-artist-shop",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 718,
+    "url": "https://sketchfab.com/3d-models/none-adf1e8832cf74a8a94c98792fa1d9088",
+    "miniatura": "miniaturas/cu3_arbol_realista/adf1e8832cf74a8a94c98792fa1d9088.jpg"
+   },
+   {
+    "uid": "d0937b7682e74e359a7b00dbc73d03b7",
+    "nombre": "Realistic Pine",
+    "autor": "adriansheremet",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 477312,
+    "url": "https://sketchfab.com/3d-models/none-d0937b7682e74e359a7b00dbc73d03b7",
+    "miniatura": "miniaturas/cu3_arbol_realista/d0937b7682e74e359a7b00dbc73d03b7.jpg"
+   },
+   {
+    "uid": "ded075151a294ad094b43903ba2f8f59",
+    "nombre": "That's one big pile of stick",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 314462,
+    "url": "https://sketchfab.com/3d-models/none-ded075151a294ad094b43903ba2f8f59",
+    "miniatura": "miniaturas/cu3_arbol_realista/ded075151a294ad094b43903ba2f8f59.jpg"
+   },
+   {
+    "uid": "381b3e7bfc9c4a5ea1adf4097d64842c",
+    "nombre": "Sunday Garden Fun",
+    "autor": "directorfmmg",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 144175,
+    "url": "https://sketchfab.com/3d-models/none-381b3e7bfc9c4a5ea1adf4097d64842c",
+    "miniatura": "miniaturas/cu3_arbol_realista/381b3e7bfc9c4a5ea1adf4097d64842c.jpg"
+   },
+   {
+    "uid": "6a22ed22665743b6bc989978da95e32a",
+    "nombre": "Plant Series – Succulents",
+    "autor": "spazio_silvestre",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 651540,
+    "url": "https://sketchfab.com/3d-models/none-6a22ed22665743b6bc989978da95e32a",
+    "miniatura": "miniaturas/cu3_arbol_realista/6a22ed22665743b6bc989978da95e32a.jpg"
+   },
+   {
+    "uid": "457c8c70eb5a45649d5b42b9bc9c3337",
+    "nombre": "Realistic High Poly Tree",
+    "autor": "chenuka_wy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 199814,
+    "url": "https://sketchfab.com/3d-models/none-457c8c70eb5a45649d5b42b9bc9c3337",
+    "miniatura": "miniaturas/cu3_arbol_realista/457c8c70eb5a45649d5b42b9bc9c3337.jpg"
+   },
+   {
+    "uid": "e69777fa47244434b337488b97cecd0e",
+    "nombre": "Medieval Props",
+    "autor": "danielvicente97cesur",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15608,
+    "url": "https://sketchfab.com/3d-models/none-e69777fa47244434b337488b97cecd0e",
+    "miniatura": "miniaturas/cu3_arbol_realista/e69777fa47244434b337488b97cecd0e.jpg"
+   },
+   {
+    "uid": "f3214bfd52fb4868a094e45d9a189af8",
+    "nombre": "Wood Stick 08",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 100000,
+    "url": "https://sketchfab.com/3d-models/none-f3214bfd52fb4868a094e45d9a189af8",
+    "miniatura": "miniaturas/cu3_arbol_realista/f3214bfd52fb4868a094e45d9a189af8.jpg"
+   },
+   {
+    "uid": "f2c2271c1cdb4db298f5f4e7b5896a1c",
+    "nombre": "Realistic Europan Tree",
+    "autor": "BBARTS",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 681428,
+    "url": "https://sketchfab.com/3d-models/none-f2c2271c1cdb4db298f5f4e7b5896a1c",
+    "miniatura": "miniaturas/cu3_arbol_realista/f2c2271c1cdb4db298f5f4e7b5896a1c.jpg"
+   },
+   {
+    "uid": "8712f53da0e04736802f1bc84ca7df97",
+    "nombre": "Swing Set",
+    "autor": "glowbox3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 75948,
+    "url": "https://sketchfab.com/3d-models/none-8712f53da0e04736802f1bc84ca7df97",
+    "miniatura": "miniaturas/cu3_arbol_realista/8712f53da0e04736802f1bc84ca7df97.jpg"
+   },
+   {
+    "uid": "9b5db1cddf1e4fc399f47c80b31462c2",
+    "nombre": "Wood Stick 09",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 29982,
+    "url": "https://sketchfab.com/3d-models/none-9b5db1cddf1e4fc399f47c80b31462c2",
+    "miniatura": "miniaturas/cu3_arbol_realista/9b5db1cddf1e4fc399f47c80b31462c2.jpg"
+   },
+   {
+    "uid": "0563fd3f162a437b8a5bf72986ca35cd",
+    "nombre": "Stump in winter 01",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 56777,
+    "url": "https://sketchfab.com/3d-models/none-0563fd3f162a437b8a5bf72986ca35cd",
+    "miniatura": "miniaturas/cu3_arbol_realista/0563fd3f162a437b8a5bf72986ca35cd.jpg"
+   },
+   {
+    "uid": "48807f86fd03406aa6b813ca026b0ad1",
+    "nombre": "Large pile of leaves",
+    "autor": "matousekfoto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 309572,
+    "url": "https://sketchfab.com/3d-models/none-48807f86fd03406aa6b813ca026b0ad1",
+    "miniatura": "miniaturas/cu3_arbol_realista/48807f86fd03406aa6b813ca026b0ad1.jpg"
+   },
+   {
+    "uid": "bdc814c85fd949b980c34df23e542d5d",
+    "nombre": "\"La Mare aux Sangliers\"",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 59335,
+    "url": "https://sketchfab.com/3d-models/none-bdc814c85fd949b980c34df23e542d5d",
+    "miniatura": "miniaturas/cu3_arbol_realista/bdc814c85fd949b980c34df23e542d5d.jpg"
+   },
+   {
+    "uid": "d3abaaefbe434c0f9fe2c67ab3d5b710",
+    "nombre": "Wood Bench Old 3D Scan - Retopo",
+    "autor": "zdenkoroman",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4962,
+    "url": "https://sketchfab.com/3d-models/none-d3abaaefbe434c0f9fe2c67ab3d5b710",
+    "miniatura": "miniaturas/cu3_arbol_realista/d3abaaefbe434c0f9fe2c67ab3d5b710.jpg"
+   },
+   {
+    "uid": "9a8ffae22f0846ba895f09d08ff97d82",
+    "nombre": "Lowpoly stick - 01",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2000,
+    "url": "https://sketchfab.com/3d-models/none-9a8ffae22f0846ba895f09d08ff97d82",
+    "miniatura": "miniaturas/cu3_arbol_realista/9a8ffae22f0846ba895f09d08ff97d82.jpg"
+   },
+   {
+    "uid": "c9db1c56ea2a40eebc033ae2dd65c325",
+    "nombre": "Dark Tree - Dol Guldur",
+    "autor": "3dsofsan",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 31788,
+    "url": "https://sketchfab.com/3d-models/none-c9db1c56ea2a40eebc033ae2dd65c325",
+    "miniatura": "miniaturas/cu3_arbol_realista/c9db1c56ea2a40eebc033ae2dd65c325.jpg"
+   },
+   {
+    "uid": "95023859e97f44ddb654037c1932f65c",
+    "nombre": "Stump in the meadow 1",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 40272,
+    "url": "https://sketchfab.com/3d-models/none-95023859e97f44ddb654037c1932f65c",
+    "miniatura": "miniaturas/cu3_arbol_realista/95023859e97f44ddb654037c1932f65c.jpg"
+   }
+  ],
+  "cu3_arbol_fotogrametria": [
+   {
+    "uid": "396f8957029e4440ba15efb0fe217d5f",
+    "nombre": "Lowpoly Sticks",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22004,
+    "url": "https://sketchfab.com/3d-models/none-396f8957029e4440ba15efb0fe217d5f",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/396f8957029e4440ba15efb0fe217d5f.jpg"
+   },
+   {
+    "uid": "d44222f5e9994ad6b4a975951c0ada44",
+    "nombre": "TreeA",
+    "autor": "bosch00",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 82892,
+    "url": "https://sketchfab.com/3d-models/none-d44222f5e9994ad6b4a975951c0ada44",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/d44222f5e9994ad6b4a975951c0ada44.jpg"
+   },
+   {
+    "uid": "580ec212875a44ba95391762929f609c",
+    "nombre": "Trees in the park Anthropos",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 283410,
+    "url": "https://sketchfab.com/3d-models/none-580ec212875a44ba95391762929f609c",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/580ec212875a44ba95391762929f609c.jpg"
+   },
+   {
+    "uid": "7a0f2d413b5846f591b40580f783c53c",
+    "nombre": "Drevo",
+    "autor": "Pjotruska",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 36123,
+    "url": "https://sketchfab.com/3d-models/none-7a0f2d413b5846f591b40580f783c53c",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/7a0f2d413b5846f591b40580f783c53c.jpg"
+   },
+   {
+    "uid": "ca6179af591c417fb4a124f605b6e63d",
+    "nombre": "Lowpoly Sticks - Free Download",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3000,
+    "url": "https://sketchfab.com/3d-models/none-ca6179af591c417fb4a124f605b6e63d",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/ca6179af591c417fb4a124f605b6e63d.jpg"
+   },
+   {
+    "uid": "fd582b0d4a8c4af1a1b5c4f21a481c93",
+    "nombre": "Skovfogedegen oak tree",
+    "autor": "rigsters",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 54484,
+    "url": "https://sketchfab.com/3d-models/none-fd582b0d4a8c4af1a1b5c4f21a481c93",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/fd582b0d4a8c4af1a1b5c4f21a481c93.jpg"
+   },
+   {
+    "uid": "b968b5dc462148989cb87b072885da85",
+    "nombre": "Boubín Stump",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 23581,
+    "url": "https://sketchfab.com/3d-models/none-b968b5dc462148989cb87b072885da85",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/b968b5dc462148989cb87b072885da85.jpg"
+   },
+   {
+    "uid": "6fa85b289def499c95afd232173ecc27",
+    "nombre": "Abandoned Building: Polygraphenwerk Leipzig",
+    "autor": "geddart",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 295894,
+    "url": "https://sketchfab.com/3d-models/none-6fa85b289def499c95afd232173ecc27",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/6fa85b289def499c95afd232173ecc27.jpg"
+   },
+   {
+    "uid": "3bb1c5445e22498db449a296b34620a5",
+    "nombre": "Plane tree trunk",
+    "autor": "matousekfoto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 711264,
+    "url": "https://sketchfab.com/3d-models/none-3bb1c5445e22498db449a296b34620a5",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/3bb1c5445e22498db449a296b34620a5.jpg"
+   },
+   {
+    "uid": "c4e8dfabff3944fe9bf7187300eb4767",
+    "nombre": "TREE, RAW Scan (images by Carlo Jongen)",
+    "autor": "ssh4",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1996141,
+    "url": "https://sketchfab.com/3d-models/none-c4e8dfabff3944fe9bf7187300eb4767",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/c4e8dfabff3944fe9bf7187300eb4767.jpg"
+   },
+   {
+    "uid": "686ead265f694f13990319e3aabe8a14",
+    "nombre": "The cabin in the spooks #Haunted2018Challenge",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 50317,
+    "url": "https://sketchfab.com/3d-models/none-686ead265f694f13990319e3aabe8a14",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/686ead265f694f13990319e3aabe8a14.jpg"
+   },
+   {
+    "uid": "2e1824ab0d8543f1b43093cc0c46777b",
+    "nombre": "Tree 002",
+    "autor": "OlegYurkov",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 30000,
+    "url": "https://sketchfab.com/3d-models/none-2e1824ab0d8543f1b43093cc0c46777b",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/2e1824ab0d8543f1b43093cc0c46777b.jpg"
+   },
+   {
+    "uid": "b0edfdc157e94ea093ee959c65db38de",
+    "nombre": "Realistic Cracked Tree Game-Ready prop",
+    "autor": "aliosa123",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3509,
+    "url": "https://sketchfab.com/3d-models/none-b0edfdc157e94ea093ee959c65db38de",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/b0edfdc157e94ea093ee959c65db38de.jpg"
+   },
+   {
+    "uid": "7b0eee8cae194d5c9aeea8b9f962bfe3",
+    "nombre": "Photogrammetry | 3D Scan Nature landscape",
+    "autor": "Laslo.S",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1633666,
+    "url": "https://sketchfab.com/3d-models/none-7b0eee8cae194d5c9aeea8b9f962bfe3",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/7b0eee8cae194d5c9aeea8b9f962bfe3.jpg"
+   },
+   {
+    "uid": "a8196d4889464ab7b5dfdbae60cfd708",
+    "nombre": "Wood chopping trunk base",
+    "autor": "matousekfoto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 50000,
+    "url": "https://sketchfab.com/3d-models/none-a8196d4889464ab7b5dfdbae60cfd708",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/a8196d4889464ab7b5dfdbae60cfd708.jpg"
+   },
+   {
+    "uid": "e5317637f57d48b6ba0668cc7c074498",
+    "nombre": "Stump in the meadow 3",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18196,
+    "url": "https://sketchfab.com/3d-models/none-e5317637f57d48b6ba0668cc7c074498",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/e5317637f57d48b6ba0668cc7c074498.jpg"
+   },
+   {
+    "uid": "7cf0277d09264e7b9355dadf58baba75",
+    "nombre": "Tree",
+    "autor": "nedo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1033459,
+    "url": "https://sketchfab.com/3d-models/none-7cf0277d09264e7b9355dadf58baba75",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/7cf0277d09264e7b9355dadf58baba75.jpg"
+   },
+   {
+    "uid": "48272f02e5b144fca6fc519ab7bb922d",
+    "nombre": "Lake Shore Drone Scan",
+    "autor": "perz_scans",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1601334,
+    "url": "https://sketchfab.com/3d-models/none-48272f02e5b144fca6fc519ab7bb922d",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/48272f02e5b144fca6fc519ab7bb922d.jpg"
+   },
+   {
+    "uid": "ded075151a294ad094b43903ba2f8f59",
+    "nombre": "That's one big pile of stick",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 314462,
+    "url": "https://sketchfab.com/3d-models/none-ded075151a294ad094b43903ba2f8f59",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/ded075151a294ad094b43903ba2f8f59.jpg"
+   },
+   {
+    "uid": "232e1f60165342afb09a40230f7a469d",
+    "nombre": "Cherry tree",
+    "autor": "matousekfoto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 148622,
+    "url": "https://sketchfab.com/3d-models/none-232e1f60165342afb09a40230f7a469d",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/232e1f60165342afb09a40230f7a469d.jpg"
+   },
+   {
+    "uid": "d2e2aa802ca24a21806a122fcbff43da",
+    "nombre": "Bigger mossy tree stump",
+    "autor": "nedo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 288847,
+    "url": "https://sketchfab.com/3d-models/none-d2e2aa802ca24a21806a122fcbff43da",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/d2e2aa802ca24a21806a122fcbff43da.jpg"
+   },
+   {
+    "uid": "fabc5ef137854b369152062b59444159",
+    "nombre": "Free Tree fullsize photogrammetry scan 2 Draft",
+    "autor": "johngreenstone",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 472441,
+    "url": "https://sketchfab.com/3d-models/none-fabc5ef137854b369152062b59444159",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/fabc5ef137854b369152062b59444159.jpg"
+   },
+   {
+    "uid": "8dc01ff203bc4f02ac74c0b00f441be5",
+    "nombre": "Entrée du château des Bois Francs",
+    "autor": "Lionel",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1905335,
+    "url": "https://sketchfab.com/3d-models/none-8dc01ff203bc4f02ac74c0b00f441be5",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/8dc01ff203bc4f02ac74c0b00f441be5.jpg"
+   },
+   {
+    "uid": "7cc5c35708b247d5aa961cba4bc0e86f",
+    "nombre": "Pohutukawa tree closeup",
+    "autor": "b_nealie",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 593681,
+    "url": "https://sketchfab.com/3d-models/none-7cc5c35708b247d5aa961cba4bc0e86f",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/7cc5c35708b247d5aa961cba4bc0e86f.jpg"
+   },
+   {
+    "uid": "ce4d33f9b9a3440f97aeec7ed9293b79",
+    "nombre": "Forest Skull",
+    "autor": "FletchTech",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 94482,
+    "url": "https://sketchfab.com/3d-models/none-ce4d33f9b9a3440f97aeec7ed9293b79",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/ce4d33f9b9a3440f97aeec7ed9293b79.jpg"
+   },
+   {
+    "uid": "870b595eda444b4ea23ab9f1db629942",
+    "nombre": "Uprooted fallen hornbeam tree",
+    "autor": "matousekfoto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 601483,
+    "url": "https://sketchfab.com/3d-models/none-870b595eda444b4ea23ab9f1db629942",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/870b595eda444b4ea23ab9f1db629942.jpg"
+   },
+   {
+    "uid": "ff8d8e5b38d64226af0abf1f8eb8ebce",
+    "nombre": "Military gloves half-finger of color black 17",
+    "autor": "deep3dstudio",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 2366,
+    "url": "https://sketchfab.com/3d-models/none-ff8d8e5b38d64226af0abf1f8eb8ebce",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/ff8d8e5b38d64226af0abf1f8eb8ebce.jpg"
+   },
+   {
+    "uid": "10ff7f54d415417ba7fbbacf09525417",
+    "nombre": "Tree 2",
+    "autor": "nedo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 988899,
+    "url": "https://sketchfab.com/3d-models/none-10ff7f54d415417ba7fbbacf09525417",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/10ff7f54d415417ba7fbbacf09525417.jpg"
+   },
+   {
+    "uid": "6a92c9c3db254defa8bc31d240ebe1f2",
+    "nombre": "Forest mud puddle",
+    "autor": "matousekfoto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 318183,
+    "url": "https://sketchfab.com/3d-models/none-6a92c9c3db254defa8bc31d240ebe1f2",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/6a92c9c3db254defa8bc31d240ebe1f2.jpg"
+   },
+   {
+    "uid": "269e5c5fd2bf44f48f180f76d2d77439",
+    "nombre": "Snow covered deadwood",
+    "autor": "thesidekick",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 660821,
+    "url": "https://sketchfab.com/3d-models/none-269e5c5fd2bf44f48f180f76d2d77439",
+    "miniatura": "miniaturas/cu3_arbol_fotogrametria/269e5c5fd2bf44f48f180f76d2d77439.jpg"
+   }
+  ],
+  "cu3_arbol_frondoso": [
+   {
+    "uid": "200371b56e8f4c888cf6199a87f5f7ae",
+    "nombre": "Cartoon Tree or Bush Foliage",
+    "autor": "adarose",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5950,
+    "url": "https://sketchfab.com/3d-models/none-200371b56e8f4c888cf6199a87f5f7ae",
+    "miniatura": "miniaturas/cu3_arbol_frondoso/200371b56e8f4c888cf6199a87f5f7ae.jpg"
+   },
+   {
+    "uid": "6db96be0ea694f558836e662c595788a",
+    "nombre": "Leafy Tree - Low poly",
+    "autor": "lightguard",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 556,
+    "url": "https://sketchfab.com/3d-models/none-6db96be0ea694f558836e662c595788a",
+    "miniatura": "miniaturas/cu3_arbol_frondoso/6db96be0ea694f558836e662c595788a.jpg"
+   },
+   {
+    "uid": "32a596691b0d4a7ea07f5a2e27f11b52",
+    "nombre": "Low Poly Leafy Tree",
+    "autor": "hoffrj",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1204,
+    "url": "https://sketchfab.com/3d-models/none-32a596691b0d4a7ea07f5a2e27f11b52",
+    "miniatura": "miniaturas/cu3_arbol_frondoso/32a596691b0d4a7ea07f5a2e27f11b52.jpg"
+   },
+   {
+    "uid": "ce0f28ba9b6c4ec1aba78d775fc50132",
+    "nombre": "Pinophyta: Metasequoia occidentalis (Cornell U.)",
+    "autor": "DigitalAtlasOfAncientLife",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 148548,
+    "url": "https://sketchfab.com/3d-models/none-ce0f28ba9b6c4ec1aba78d775fc50132",
+    "miniatura": "miniaturas/cu3_arbol_frondoso/ce0f28ba9b6c4ec1aba78d775fc50132.jpg"
+   },
+   {
+    "uid": "1f2ff489ad4a4788a9cb95d5db55ffca",
+    "nombre": "leafy tree summer",
+    "autor": "gashtan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 960,
+    "url": "https://sketchfab.com/3d-models/none-1f2ff489ad4a4788a9cb95d5db55ffca",
+    "miniatura": "miniaturas/cu3_arbol_frondoso/1f2ff489ad4a4788a9cb95d5db55ffca.jpg"
+   },
+   {
+    "uid": "845a9082c3f2444e85e474ba528639d2",
+    "nombre": "leafy tree",
+    "autor": "gashtan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3186,
+    "url": "https://sketchfab.com/3d-models/none-845a9082c3f2444e85e474ba528639d2",
+    "miniatura": "miniaturas/cu3_arbol_frondoso/845a9082c3f2444e85e474ba528639d2.jpg"
+   },
+   {
+    "uid": "e10168a1953f4b2986abdb162816fe30",
+    "nombre": "winter leafy tree",
+    "autor": "gashtan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2626,
+    "url": "https://sketchfab.com/3d-models/none-e10168a1953f4b2986abdb162816fe30",
+    "miniatura": "miniaturas/cu3_arbol_frondoso/e10168a1953f4b2986abdb162816fe30.jpg"
+   }
+  ],
+  "cu3_arbol_sombra": [
+   {
+    "uid": "d40b58e0af514977aa52b839659dc1d3",
+    "nombre": "Anemone hybrida 'Honorine Jobert'",
+    "autor": "LivinVision",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1681301,
+    "url": "https://sketchfab.com/3d-models/none-d40b58e0af514977aa52b839659dc1d3",
+    "miniatura": "miniaturas/cu3_arbol_sombra/d40b58e0af514977aa52b839659dc1d3.jpg"
+   },
+   {
+    "uid": "5646e6a3c8834022a0e289465f0bbc5d",
+    "nombre": "Forest House",
+    "autor": "Wesai",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4882,
+    "url": "https://sketchfab.com/3d-models/none-5646e6a3c8834022a0e289465f0bbc5d",
+    "miniatura": "miniaturas/cu3_arbol_sombra/5646e6a3c8834022a0e289465f0bbc5d.jpg"
+   },
+   {
+    "uid": "89f6d58d90264ae09fd9e16c53b77d40",
+    "nombre": "Tree",
+    "autor": "bumstrum",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4464,
+    "url": "https://sketchfab.com/3d-models/none-89f6d58d90264ae09fd9e16c53b77d40",
+    "miniatura": "miniaturas/cu3_arbol_sombra/89f6d58d90264ae09fd9e16c53b77d40.jpg"
+   },
+   {
+    "uid": "fb8b726f1e124e239b60fccc8cc6d6f8",
+    "nombre": "Fantasy Mystical Island",
+    "autor": "NJts26",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 47143,
+    "url": "https://sketchfab.com/3d-models/none-fb8b726f1e124e239b60fccc8cc6d6f8",
+    "miniatura": "miniaturas/cu3_arbol_sombra/fb8b726f1e124e239b60fccc8cc6d6f8.jpg"
+   },
+   {
+    "uid": "5ce7f2ac6db1446797939688244fae87",
+    "nombre": "Red Mage Mask Procedural Reshade Ver.",
+    "autor": "chambersu1996",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 43568,
+    "url": "https://sketchfab.com/3d-models/none-5ce7f2ac6db1446797939688244fae87",
+    "miniatura": "miniaturas/cu3_arbol_sombra/5ce7f2ac6db1446797939688244fae87.jpg"
+   },
+   {
+    "uid": "87954926bcd04470a058867cf0e4ac91",
+    "nombre": "Lowpoly Tree Pack",
+    "autor": "Mongze",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 21400,
+    "url": "https://sketchfab.com/3d-models/none-87954926bcd04470a058867cf0e4ac91",
+    "miniatura": "miniaturas/cu3_arbol_sombra/87954926bcd04470a058867cf0e4ac91.jpg"
+   },
+   {
+    "uid": "4f12473673a84680992fd7b5d89f1783",
+    "nombre": "455 Valencia St. and Sparrow St USA",
+    "autor": "3dfovea",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 614349,
+    "url": "https://sketchfab.com/3d-models/none-4f12473673a84680992fd7b5d89f1783",
+    "miniatura": "miniaturas/cu3_arbol_sombra/4f12473673a84680992fd7b5d89f1783.jpg"
+   },
+   {
+    "uid": "6cbb8e97a39442bda96d6a961c037fa4",
+    "nombre": "Blue Rig Procedural Reshade Version",
+    "autor": "chambersu1996",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 25025,
+    "url": "https://sketchfab.com/3d-models/none-6cbb8e97a39442bda96d6a961c037fa4",
+    "miniatura": "miniaturas/cu3_arbol_sombra/6cbb8e97a39442bda96d6a961c037fa4.jpg"
+   },
+   {
+    "uid": "987637cf9b1e4199af603a52a7cc5464",
+    "nombre": "Grant Park Zoo Atlanta Parking Deck",
+    "autor": "grantpark",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 293756,
+    "url": "https://sketchfab.com/3d-models/none-987637cf9b1e4199af603a52a7cc5464",
+    "miniatura": "miniaturas/cu3_arbol_sombra/987637cf9b1e4199af603a52a7cc5464.jpg"
+   },
+   {
+    "uid": "f2f4ddd3657542c8a9fd86dcd7a1699c",
+    "nombre": "Pink Rock Garden",
+    "autor": "scoppock",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 77998,
+    "url": "https://sketchfab.com/3d-models/none-f2f4ddd3657542c8a9fd86dcd7a1699c",
+    "miniatura": "miniaturas/cu3_arbol_sombra/f2f4ddd3657542c8a9fd86dcd7a1699c.jpg"
+   },
+   {
+    "uid": "52e12e1040e64c60b651cdf195c1a6a8",
+    "nombre": "Amidamaru Spirit Form (Shaman King Fanart)",
+    "autor": "dramera_cg",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 995420,
+    "url": "https://sketchfab.com/3d-models/none-52e12e1040e64c60b651cdf195c1a6a8",
+    "miniatura": "miniaturas/cu3_arbol_sombra/52e12e1040e64c60b651cdf195c1a6a8.jpg"
+   }
+  ],
+  "cu3_arbol_flamboyan": [
+   {
+    "uid": "be892d70f3bf4aacba3e3f2e5b32d3d7",
+    "nombre": "Árvore de Natal - Christmas Tree",
+    "autor": "toxicsquall",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 890738,
+    "url": "https://sketchfab.com/3d-models/none-be892d70f3bf4aacba3e3f2e5b32d3d7",
+    "miniatura": "miniaturas/cu3_arbol_flamboyan/be892d70f3bf4aacba3e3f2e5b32d3d7.jpg"
+   }
+  ],
+  "cu3_arbol_ceiba": [
+   {
+    "uid": "9142b8f06e384f1c9554c9b10da79d2a",
+    "nombre": "Ceiba Pentandra Tree",
+    "autor": "Valery.Li",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1622318,
+    "url": "https://sketchfab.com/3d-models/none-9142b8f06e384f1c9554c9b10da79d2a",
+    "miniatura": "miniaturas/cu3_arbol_ceiba/9142b8f06e384f1c9554c9b10da79d2a.jpg"
+   }
+  ],
+  "cu3_arbol_almendro": [
+   {
+    "uid": "cb4bf4308714484185bd619116aae7c6",
+    "nombre": "1993.108 Stele with Shakyamuni and Maitreya",
+    "autor": "clevelandart",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 534028,
+    "url": "https://sketchfab.com/3d-models/none-cb4bf4308714484185bd619116aae7c6",
+    "miniatura": "miniaturas/cu3_arbol_almendro/cb4bf4308714484185bd619116aae7c6.jpg"
+   },
+   {
+    "uid": "3a50c5a4acd243e199fc13e594455f31",
+    "nombre": "Almond Blossom",
+    "autor": "steren",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 78588,
+    "url": "https://sketchfab.com/3d-models/none-3a50c5a4acd243e199fc13e594455f31",
+    "miniatura": "miniaturas/cu3_arbol_almendro/3a50c5a4acd243e199fc13e594455f31.jpg"
+   },
+   {
+    "uid": "5f7fafc8200541e08ee57eda7e19fb50",
+    "nombre": "Panellets",
+    "autor": "calidos",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1000000,
+    "url": "https://sketchfab.com/3d-models/none-5f7fafc8200541e08ee57eda7e19fb50",
+    "miniatura": "miniaturas/cu3_arbol_almendro/5f7fafc8200541e08ee57eda7e19fb50.jpg"
+   },
+   {
+    "uid": "2d7cdd81de6a4a45a29c466f378bd1bd",
+    "nombre": "Bronze tetradrachm coin Mleiha. Sharjah",
+    "autor": "GlobalDigitalHeritage",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 42238,
+    "url": "https://sketchfab.com/3d-models/none-2d7cdd81de6a4a45a29c466f378bd1bd",
+    "miniatura": "miniaturas/cu3_arbol_almendro/2d7cdd81de6a4a45a29c466f378bd1bd.jpg"
+   },
+   {
+    "uid": "614eb3be3d6441429ab8a1e67dee7a39",
+    "nombre": "quite new york",
+    "autor": "gabbbbbbbbby",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4770,
+    "url": "https://sketchfab.com/3d-models/none-614eb3be3d6441429ab8a1e67dee7a39",
+    "miniatura": "miniaturas/cu3_arbol_almendro/614eb3be3d6441429ab8a1e67dee7a39.jpg"
+   }
+  ],
+  "cu3_arbol_roble": [
+   {
+    "uid": "48807f86fd03406aa6b813ca026b0ad1",
+    "nombre": "Large pile of leaves",
+    "autor": "matousekfoto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 309572,
+    "url": "https://sketchfab.com/3d-models/none-48807f86fd03406aa6b813ca026b0ad1",
+    "miniatura": "miniaturas/cu3_arbol_roble/48807f86fd03406aa6b813ca026b0ad1.jpg"
+   },
+   {
+    "uid": "5f5bb2305d534283be08f534ece9c9db",
+    "nombre": "Old Oak Stump Obora",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 156499,
+    "url": "https://sketchfab.com/3d-models/none-5f5bb2305d534283be08f534ece9c9db",
+    "miniatura": "miniaturas/cu3_arbol_roble/5f5bb2305d534283be08f534ece9c9db.jpg"
+   }
+  ],
+  "cu3_palma_coco": [
+   {
+    "uid": "f91862f8c38b481aa19edccac851eefb",
+    "nombre": "Tropical Island",
+    "autor": "ElinHohler",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 111908,
+    "url": "https://sketchfab.com/3d-models/none-f91862f8c38b481aa19edccac851eefb",
+    "miniatura_error": "<HTTPError 403: 'Forbidden'>"
+   },
+   {
+    "uid": "26e787f2ff2e4c0fb004c3b0210805a3",
+    "nombre": "Coconut Palm",
+    "autor": "evolveduk",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7432,
+    "url": "https://sketchfab.com/3d-models/none-26e787f2ff2e4c0fb004c3b0210805a3",
+    "miniatura": "miniaturas/cu3_palma_coco/26e787f2ff2e4c0fb004c3b0210805a3.jpg"
+   },
+   {
+    "uid": "d141941578044b0f861ca83b36d4c411",
+    "nombre": "Coconut Tree",
+    "autor": "sujirour",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 678,
+    "url": "https://sketchfab.com/3d-models/none-d141941578044b0f861ca83b36d4c411",
+    "miniatura": "miniaturas/cu3_palma_coco/d141941578044b0f861ca83b36d4c411.jpg"
+   },
+   {
+    "uid": "8c5d6b661b2f4c37834d87cd187eb907",
+    "nombre": "Coconut Tree Low poly",
+    "autor": "ar.jethin",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1562,
+    "url": "https://sketchfab.com/3d-models/none-8c5d6b661b2f4c37834d87cd187eb907",
+    "miniatura": "miniaturas/cu3_palma_coco/8c5d6b661b2f4c37834d87cd187eb907.jpg"
+   },
+   {
+    "uid": "b84b734847344cb6a81b9102a64ac63b",
+    "nombre": "Stylized Palm tree set",
+    "autor": "parelaxel",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 27528,
+    "url": "https://sketchfab.com/3d-models/none-b84b734847344cb6a81b9102a64ac63b",
+    "miniatura": "miniaturas/cu3_palma_coco/b84b734847344cb6a81b9102a64ac63b.jpg"
+   },
+   {
+    "uid": "afe3221922ef4bdbb0cb25a2656e1afb",
+    "nombre": "Coconut",
+    "autor": "matousekfoto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 40000,
+    "url": "https://sketchfab.com/3d-models/none-afe3221922ef4bdbb0cb25a2656e1afb",
+    "miniatura": "miniaturas/cu3_palma_coco/afe3221922ef4bdbb0cb25a2656e1afb.jpg"
+   },
+   {
+    "uid": "45a74e13bdcb433fa77a24b7113c189d",
+    "nombre": "Palm Tree",
+    "autor": "mikejimmyalmeida",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 658,
+    "url": "https://sketchfab.com/3d-models/none-45a74e13bdcb433fa77a24b7113c189d",
+    "miniatura": "miniaturas/cu3_palma_coco/45a74e13bdcb433fa77a24b7113c189d.jpg"
+   },
+   {
+    "uid": "b60517a9b8124bd79244c010badcf224",
+    "nombre": "Beach Low Poly (Cartoon) FREE",
+    "autor": "mnydd",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 39542,
+    "url": "https://sketchfab.com/3d-models/none-b60517a9b8124bd79244c010badcf224",
+    "miniatura": "miniaturas/cu3_palma_coco/b60517a9b8124bd79244c010badcf224.jpg"
+   },
+   {
+    "uid": "ec6057dfa99f4a5aac334cce0d073b59",
+    "nombre": "Fantasy Palm Forest",
+    "autor": "blackcube4",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18603820,
+    "url": "https://sketchfab.com/3d-models/none-ec6057dfa99f4a5aac334cce0d073b59",
+    "miniatura": "miniaturas/cu3_palma_coco/ec6057dfa99f4a5aac334cce0d073b59.jpg"
+   },
+   {
+    "uid": "69059d6628c74d8a9dd1f63f65eed224",
+    "nombre": "Tropical Island",
+    "autor": "thomas_125",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2639512,
+    "url": "https://sketchfab.com/3d-models/none-69059d6628c74d8a9dd1f63f65eed224",
+    "miniatura": "miniaturas/cu3_palma_coco/69059d6628c74d8a9dd1f63f65eed224.jpg"
+   },
+   {
+    "uid": "f7b457b0d443488a87d16b210d1be4ba",
+    "nombre": "LowPoly Trees Set",
+    "autor": "tarunsharma.02.28",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18082,
+    "url": "https://sketchfab.com/3d-models/none-f7b457b0d443488a87d16b210d1be4ba",
+    "miniatura": "miniaturas/cu3_palma_coco/f7b457b0d443488a87d16b210d1be4ba.jpg"
+   },
+   {
+    "uid": "b9922dd105ee4536b9ca983c26f58e66",
+    "nombre": "Palm Tree",
+    "autor": "Swanoff",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3532,
+    "url": "https://sketchfab.com/3d-models/none-b9922dd105ee4536b9ca983c26f58e66",
+    "miniatura": "miniaturas/cu3_palma_coco/b9922dd105ee4536b9ca983c26f58e66.jpg"
+   },
+   {
+    "uid": "921979e5d10c42d9beccb98f46abc24d",
+    "nombre": "Shark Attack",
+    "autor": "Tasneem",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9384,
+    "url": "https://sketchfab.com/3d-models/none-921979e5d10c42d9beccb98f46abc24d",
+    "miniatura": "miniaturas/cu3_palma_coco/921979e5d10c42d9beccb98f46abc24d.jpg"
+   },
+   {
+    "uid": "0e84a55ab79a44ecaa693675408aa252",
+    "nombre": "Coconut Palm Trees FREE Low Poly",
+    "autor": "LadyLionStudios",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 14952,
+    "url": "https://sketchfab.com/3d-models/none-0e84a55ab79a44ecaa693675408aa252",
+    "miniatura": "miniaturas/cu3_palma_coco/0e84a55ab79a44ecaa693675408aa252.jpg"
+   },
+   {
+    "uid": "0935d409de024174b2a231b47263a7cd",
+    "nombre": "Hand Painted Stylized Coconut Palm Tree Island",
+    "autor": "Kigha",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 25896,
+    "url": "https://sketchfab.com/3d-models/none-0935d409de024174b2a231b47263a7cd",
+    "miniatura": "miniaturas/cu3_palma_coco/0935d409de024174b2a231b47263a7cd.jpg"
+   },
+   {
+    "uid": "58f448209beb43659e95ca0e1ad59ac2",
+    "nombre": "Low Poly Palm Tree",
+    "autor": "eucalyp555",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 14272,
+    "url": "https://sketchfab.com/3d-models/none-58f448209beb43659e95ca0e1ad59ac2",
+    "miniatura": "miniaturas/cu3_palma_coco/58f448209beb43659e95ca0e1ad59ac2.jpg"
+   },
+   {
+    "uid": "b6329d61cfdb4ca6a336c3ce9203efc8",
+    "nombre": "Footloop – for a palm tree",
+    "autor": "WirtualneMuzeaMalopolski",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 200000,
+    "url": "https://sketchfab.com/3d-models/none-b6329d61cfdb4ca6a336c3ce9203efc8",
+    "miniatura": "miniaturas/cu3_palma_coco/b6329d61cfdb4ca6a336c3ce9203efc8.jpg"
+   },
+   {
+    "uid": "8878564de48c46d6b0e2cb3a1d6029c0",
+    "nombre": "Palm Tree on Beach",
+    "autor": "Aman.Bagley",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1148816,
+    "url": "https://sketchfab.com/3d-models/none-8878564de48c46d6b0e2cb3a1d6029c0",
+    "miniatura": "miniaturas/cu3_palma_coco/8878564de48c46d6b0e2cb3a1d6029c0.jpg"
+   },
+   {
+    "uid": "329328ea85c24b488a97204521c0c783",
+    "nombre": "Desert Island diorama",
+    "autor": "malgorzatariot",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4428,
+    "url": "https://sketchfab.com/3d-models/none-329328ea85c24b488a97204521c0c783",
+    "miniatura": "miniaturas/cu3_palma_coco/329328ea85c24b488a97204521c0c783.jpg"
+   },
+   {
+    "uid": "7258d9d6c6f54b3fa98a83163e5357e0",
+    "nombre": "Palm",
+    "autor": "AlexanderRuz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5430,
+    "url": "https://sketchfab.com/3d-models/none-7258d9d6c6f54b3fa98a83163e5357e0",
+    "miniatura": "miniaturas/cu3_palma_coco/7258d9d6c6f54b3fa98a83163e5357e0.jpg"
+   },
+   {
+    "uid": "a37b8b1b0b5a4ca8a84221364055f2bd",
+    "nombre": "Stylized Palm Tree",
+    "autor": "Platrium",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 43568,
+    "url": "https://sketchfab.com/3d-models/none-a37b8b1b0b5a4ca8a84221364055f2bd",
+    "miniatura": "miniaturas/cu3_palma_coco/a37b8b1b0b5a4ca8a84221364055f2bd.jpg"
+   },
+   {
+    "uid": "261e3990dfab43f5be3f65ee197af603",
+    "nombre": "King Coconut",
+    "autor": "hariharan.htmfx",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13368,
+    "url": "https://sketchfab.com/3d-models/none-261e3990dfab43f5be3f65ee197af603",
+    "miniatura": "miniaturas/cu3_palma_coco/261e3990dfab43f5be3f65ee197af603.jpg"
+   },
+   {
+    "uid": "28328631321a45c89991c876eed07eec",
+    "nombre": "Palm Tree Model",
+    "autor": "wojciechmiedziocha",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 146732,
+    "url": "https://sketchfab.com/3d-models/none-28328631321a45c89991c876eed07eec",
+    "miniatura": "miniaturas/cu3_palma_coco/28328631321a45c89991c876eed07eec.jpg"
+   },
+   {
+    "uid": "b380d4e8e41b4e10b81aa19a0d557434",
+    "nombre": "Coconut",
+    "autor": "RISDNaturelab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1000000,
+    "url": "https://sketchfab.com/3d-models/none-b380d4e8e41b4e10b81aa19a0d557434",
+    "miniatura": "miniaturas/cu3_palma_coco/b380d4e8e41b4e10b81aa19a0d557434.jpg"
+   },
+   {
+    "uid": "32a7255a308e46cfbdabeb996405ba47",
+    "nombre": "Low poly palm tree with coconuts (Separately)",
+    "autor": "milaein",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3176,
+    "url": "https://sketchfab.com/3d-models/none-32a7255a308e46cfbdabeb996405ba47",
+    "miniatura": "miniaturas/cu3_palma_coco/32a7255a308e46cfbdabeb996405ba47.jpg"
+   },
+   {
+    "uid": "7cee3e952c944fba8a672aab149ce4d0",
+    "nombre": "coconut Half _ANIL",
+    "autor": "aniljaco",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 62429,
+    "url": "https://sketchfab.com/3d-models/none-7cee3e952c944fba8a672aab149ce4d0",
+    "miniatura": "miniaturas/cu3_palma_coco/7cee3e952c944fba8a672aab149ce4d0.jpg"
+   },
+   {
+    "uid": "afd4becf917142509b7630c7a0f01701",
+    "nombre": "Cartoon Beach Assets",
+    "autor": "paburoviii",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 25520,
+    "url": "https://sketchfab.com/3d-models/none-afd4becf917142509b7630c7a0f01701",
+    "miniatura": "miniaturas/cu3_palma_coco/afd4becf917142509b7630c7a0f01701.jpg"
+   },
+   {
+    "uid": "460ac37d915c41ab9296c1087b084a0d",
+    "nombre": "Coconut palm tree from Poly by Google",
+    "autor": "ie-niels",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2784,
+    "url": "https://sketchfab.com/3d-models/none-460ac37d915c41ab9296c1087b084a0d",
+    "miniatura": "miniaturas/cu3_palma_coco/460ac37d915c41ab9296c1087b084a0d.jpg"
+   },
+   {
+    "uid": "c1de39028a5e4fa59dadf0a447d4342b",
+    "nombre": "Coconut Palm",
+    "autor": "Vladimiir6",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 197910,
+    "url": "https://sketchfab.com/3d-models/none-c1de39028a5e4fa59dadf0a447d4342b",
+    "miniatura": "miniaturas/cu3_palma_coco/c1de39028a5e4fa59dadf0a447d4342b.jpg"
+   },
+   {
+    "uid": "7349336545994233bc67daaf0d9f45ef",
+    "nombre": "Treasure Chest Island",
+    "autor": "karan.sida",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3642,
+    "url": "https://sketchfab.com/3d-models/none-7349336545994233bc67daaf0d9f45ef",
+    "miniatura": "miniaturas/cu3_palma_coco/7349336545994233bc67daaf0d9f45ef.jpg"
+   }
+  ],
+  "cu3_palmera_real": [
+   {
+    "uid": "aa7cec0f02f2437ebe345478c4c1b3c1",
+    "nombre": "20th Century Fox Film Corp. (2009-2020)",
+    "autor": "kemari.deric",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 413692,
+    "url": "https://sketchfab.com/3d-models/none-aa7cec0f02f2437ebe345478c4c1b3c1",
+    "miniatura": "miniaturas/cu3_palmera_real/aa7cec0f02f2437ebe345478c4c1b3c1.jpg"
+   },
+   {
+    "uid": "51779058a19849869651ff307a522bc3",
+    "nombre": "Fox Searchlight Pictures Logo 2011 Remake",
+    "autor": "210140",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 363318,
+    "url": "https://sketchfab.com/3d-models/none-51779058a19849869651ff307a522bc3",
+    "miniatura": "miniaturas/cu3_palmera_real/51779058a19849869651ff307a522bc3.jpg"
+   },
+   {
+    "uid": "0ba8e80bd37c4afa95a898e54ac1e771",
+    "nombre": "20th century fox logo 2009 remake",
+    "autor": "210140",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 325416,
+    "url": "https://sketchfab.com/3d-models/none-0ba8e80bd37c4afa95a898e54ac1e771",
+    "miniatura": "miniaturas/cu3_palmera_real/0ba8e80bd37c4afa95a898e54ac1e771.jpg"
+   },
+   {
+    "uid": "f11b5bd405b54f08b8e2b388237fcddd",
+    "nombre": "20th century fox logo (December 10, 2009)",
+    "autor": "210140",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1371761,
+    "url": "https://sketchfab.com/3d-models/none-f11b5bd405b54f08b8e2b388237fcddd",
+    "miniatura": "miniaturas/cu3_palmera_real/f11b5bd405b54f08b8e2b388237fcddd.jpg"
+   },
+   {
+    "uid": "0b56866273cb4843aa3d44ca9937f549",
+    "nombre": "TCS 2020 Recreation (Realistic Version)",
+    "autor": "kemari.deric",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 605463,
+    "url": "https://sketchfab.com/3d-models/none-0b56866273cb4843aa3d44ca9937f549",
+    "miniatura": "miniaturas/cu3_palmera_real/0b56866273cb4843aa3d44ca9937f549.jpg"
+   },
+   {
+    "uid": "d060c7d1ffe246eaa63fee9d95ee4e11",
+    "nombre": "20th Century Studios logo 2020 remake",
+    "autor": "210140",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 490308,
+    "url": "https://sketchfab.com/3d-models/none-d060c7d1ffe246eaa63fee9d95ee4e11",
+    "miniatura": "miniaturas/cu3_palmera_real/d060c7d1ffe246eaa63fee9d95ee4e11.jpg"
+   },
+   {
+    "uid": "22cba42c412a46e2bad62f919fa45333",
+    "nombre": "20th Century Fox (2009-2020) Remake V11",
+    "autor": "valentinorowland54",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 409290,
+    "url": "https://sketchfab.com/3d-models/none-22cba42c412a46e2bad62f919fa45333",
+    "miniatura": "miniaturas/cu3_palmera_real/22cba42c412a46e2bad62f919fa45333.jpg"
+   }
+  ],
+  "cu3_arbusto_flores": [],
+  "cu3_mata_platano": [
+   {
+    "uid": "bcee47f9119f46a1a758064690f21941",
+    "nombre": "Banana Plant",
+    "autor": "coffe0wolf",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2316,
+    "url": "https://sketchfab.com/3d-models/none-bcee47f9119f46a1a758064690f21941",
+    "miniatura": "miniaturas/cu3_mata_platano/bcee47f9119f46a1a758064690f21941.jpg"
+   },
+   {
+    "uid": "85695b82c7ba4b3497a663616cc3bf25",
+    "nombre": "Banana Plant",
+    "autor": "evolveduk",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4402,
+    "url": "https://sketchfab.com/3d-models/none-85695b82c7ba4b3497a663616cc3bf25",
+    "miniatura": "miniaturas/cu3_mata_platano/85695b82c7ba4b3497a663616cc3bf25.jpg"
+   },
+   {
+    "uid": "105da0b01b414fceb2feac631b0f64e8",
+    "nombre": "Game Ready Fruit Asset Pack",
+    "autor": "meerschaumdigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 17096,
+    "url": "https://sketchfab.com/3d-models/none-105da0b01b414fceb2feac631b0f64e8",
+    "miniatura": "miniaturas/cu3_mata_platano/105da0b01b414fceb2feac631b0f64e8.jpg"
+   },
+   {
+    "uid": "43b0a0c41f0543d09f9501ca1fb1a7b1",
+    "nombre": "Banana Tree",
+    "autor": "duz_vr",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 31426,
+    "url": "https://sketchfab.com/3d-models/none-43b0a0c41f0543d09f9501ca1fb1a7b1",
+    "miniatura": "miniaturas/cu3_mata_platano/43b0a0c41f0543d09f9501ca1fb1a7b1.jpg"
+   },
+   {
+    "uid": "55180008229841a9a6af3a35528ccdc6",
+    "nombre": "Banana (Game Ready / 2K PBR)",
+    "autor": "meerschaumdigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 384,
+    "url": "https://sketchfab.com/3d-models/none-55180008229841a9a6af3a35528ccdc6",
+    "miniatura": "miniaturas/cu3_mata_platano/55180008229841a9a6af3a35528ccdc6.jpg"
+   },
+   {
+    "uid": "a1e3030233774d149f307b5f2e60bc26",
+    "nombre": "leaf",
+    "autor": "myochii",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 36,
+    "url": "https://sketchfab.com/3d-models/none-a1e3030233774d149f307b5f2e60bc26",
+    "miniatura": "miniaturas/cu3_mata_platano/a1e3030233774d149f307b5f2e60bc26.jpg"
+   },
+   {
+    "uid": "77c6c8ce9199433d8f81cd77f99ba978",
+    "nombre": "Banana photogrammetry | Game ready asset",
+    "autor": "alexey_ra",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5300,
+    "url": "https://sketchfab.com/3d-models/none-77c6c8ce9199433d8f81cd77f99ba978",
+    "miniatura": "miniaturas/cu3_mata_platano/77c6c8ce9199433d8f81cd77f99ba978.jpg"
+   },
+   {
+    "uid": "3856533f350b4d33b47d5d434b9ac911",
+    "nombre": "Banana Plants FREE Low Poly",
+    "autor": "LadyLionStudios",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6292,
+    "url": "https://sketchfab.com/3d-models/none-3856533f350b4d33b47d5d434b9ac911",
+    "miniatura": "miniaturas/cu3_mata_platano/3856533f350b4d33b47d5d434b9ac911.jpg"
+   },
+   {
+    "uid": "e5c50afa83604537babdec3198322fd7",
+    "nombre": "Banana (low-poly)",
+    "autor": "Shadsterwolf",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 288,
+    "url": "https://sketchfab.com/3d-models/none-e5c50afa83604537babdec3198322fd7",
+    "miniatura": "miniaturas/cu3_mata_platano/e5c50afa83604537babdec3198322fd7.jpg"
+   },
+   {
+    "uid": "e4ce3bc6797b49159d2777bf9370eee0",
+    "nombre": "Pomegranate (Game Ready / 2K PBR)",
+    "autor": "meerschaumdigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 672,
+    "url": "https://sketchfab.com/3d-models/none-e4ce3bc6797b49159d2777bf9370eee0",
+    "miniatura": "miniaturas/cu3_mata_platano/e4ce3bc6797b49159d2777bf9370eee0.jpg"
+   },
+   {
+    "uid": "4b12b781d8b2455d84ed981be1e41744",
+    "nombre": "Banana Tree Pack",
+    "autor": "estevezmary1",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 34172,
+    "url": "https://sketchfab.com/3d-models/none-4b12b781d8b2455d84ed981be1e41744",
+    "miniatura": "miniaturas/cu3_mata_platano/4b12b781d8b2455d84ed981be1e41744.jpg"
+   },
+   {
+    "uid": "65571d7bc6674305915a7c2e3c6960dd",
+    "nombre": "Banana (Photogrammetry)",
+    "autor": "meshfinder",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 934,
+    "url": "https://sketchfab.com/3d-models/none-65571d7bc6674305915a7c2e3c6960dd",
+    "miniatura": "miniaturas/cu3_mata_platano/65571d7bc6674305915a7c2e3c6960dd.jpg"
+   },
+   {
+    "uid": "bf76ef97ff844d5ca9c0de2e7985544e",
+    "nombre": "Banana",
+    "autor": "hotdoghans",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1260,
+    "url": "https://sketchfab.com/3d-models/none-bf76ef97ff844d5ca9c0de2e7985544e",
+    "miniatura": "miniaturas/cu3_mata_platano/bf76ef97ff844d5ca9c0de2e7985544e.jpg"
+   },
+   {
+    "uid": "679514f67685444a90d885735a18602b",
+    "nombre": "Taxonomic Ambiguity",
+    "autor": "billyshears",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-679514f67685444a90d885735a18602b",
+    "miniatura": "miniaturas/cu3_mata_platano/679514f67685444a90d885735a18602b.jpg"
+   },
+   {
+    "uid": "62f91fb253f7413b929a2b67cdafde54",
+    "nombre": "Banana Tree",
+    "autor": "Lxmoso",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5548,
+    "url": "https://sketchfab.com/3d-models/none-62f91fb253f7413b929a2b67cdafde54",
+    "miniatura": "miniaturas/cu3_mata_platano/62f91fb253f7413b929a2b67cdafde54.jpg"
+   },
+   {
+    "uid": "08a26ba669844f17a299a1eb368de04d",
+    "nombre": "Banana Plant",
+    "autor": "accell-constandse",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 104568,
+    "url": "https://sketchfab.com/3d-models/none-08a26ba669844f17a299a1eb368de04d",
+    "miniatura": "miniaturas/cu3_mata_platano/08a26ba669844f17a299a1eb368de04d.jpg"
+   },
+   {
+    "uid": "ced61b6cec68488eb0715de04960469d",
+    "nombre": "banana_plant",
+    "autor": "lavihanS98",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 138710,
+    "url": "https://sketchfab.com/3d-models/none-ced61b6cec68488eb0715de04960469d",
+    "miniatura": "miniaturas/cu3_mata_platano/ced61b6cec68488eb0715de04960469d.jpg"
+   },
+   {
+    "uid": "8cbc86cff0544a40b9964ca8380b8563",
+    "nombre": "Taxonomic Ambiguity_",
+    "autor": "billyshears",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-8cbc86cff0544a40b9964ca8380b8563",
+    "miniatura": "miniaturas/cu3_mata_platano/8cbc86cff0544a40b9964ca8380b8563.jpg"
+   },
+   {
+    "uid": "6f3ad7ba286e4eea82ecef273190857a",
+    "nombre": "Banana",
+    "autor": "getouttamyswamp",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 115584,
+    "url": "https://sketchfab.com/3d-models/none-6f3ad7ba286e4eea82ecef273190857a",
+    "miniatura": "miniaturas/cu3_mata_platano/6f3ad7ba286e4eea82ecef273190857a.jpg"
+   },
+   {
+    "uid": "db7f6ab43818441cba66ab4dd908f4be",
+    "nombre": "Uploads Files 2434764 Banana Plant",
+    "autor": "seanadamsmithemail",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 138710,
+    "url": "https://sketchfab.com/3d-models/none-db7f6ab43818441cba66ab4dd908f4be",
+    "miniatura": "miniaturas/cu3_mata_platano/db7f6ab43818441cba66ab4dd908f4be.jpg"
+   },
+   {
+    "uid": "90493b11ff7147509aa641202551186e",
+    "nombre": "Banana Plant",
+    "autor": "daaman",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 138710,
+    "url": "https://sketchfab.com/3d-models/none-90493b11ff7147509aa641202551186e",
+    "miniatura": "miniaturas/cu3_mata_platano/90493b11ff7147509aa641202551186e.jpg"
+   }
+  ],
+  "cu3_silla_plastica": [
+   {
+    "uid": "6d139742099d48f195e6774514ccb7ef",
+    "nombre": "Classic Plastic Chairs",
+    "autor": "topfrank2013",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 58464,
+    "url": "https://sketchfab.com/3d-models/none-6d139742099d48f195e6774514ccb7ef",
+    "miniatura": "miniaturas/cu3_silla_plastica/6d139742099d48f195e6774514ccb7ef.jpg"
+   },
+   {
+    "uid": "0a45955e2328459d95f403cb00c08b3a",
+    "nombre": "Vitra Eames Plastic Chair",
+    "autor": "furnny",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 50144,
+    "url": "https://sketchfab.com/3d-models/none-0a45955e2328459d95f403cb00c08b3a",
+    "miniatura": "miniaturas/cu3_silla_plastica/0a45955e2328459d95f403cb00c08b3a.jpg"
+   },
+   {
+    "uid": "be3d5131e634424e89ffd57ebb19804e",
+    "nombre": "Plastic Chair",
+    "autor": "Jazavac",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1048,
+    "url": "https://sketchfab.com/3d-models/none-be3d5131e634424e89ffd57ebb19804e",
+    "miniatura": "miniaturas/cu3_silla_plastica/be3d5131e634424e89ffd57ebb19804e.jpg"
+   },
+   {
+    "uid": "261d81ec28d845eba3bb7373768c60c5",
+    "nombre": "Monobloc - Plastic Garden Chair",
+    "autor": "Pyromma-GS",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 26560,
+    "url": "https://sketchfab.com/3d-models/none-261d81ec28d845eba3bb7373768c60c5",
+    "miniatura": "miniaturas/cu3_silla_plastica/261d81ec28d845eba3bb7373768c60c5.jpg"
+   },
+   {
+    "uid": "ef34e3f4c45348cfa92b993f3fc44531",
+    "nombre": "Plastic chair",
+    "autor": "iperbole",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4224,
+    "url": "https://sketchfab.com/3d-models/none-ef34e3f4c45348cfa92b993f3fc44531",
+    "miniatura": "miniaturas/cu3_silla_plastica/ef34e3f4c45348cfa92b993f3fc44531.jpg"
+   },
+   {
+    "uid": "8444f5a2bac940e898a096cc2ad70ad7",
+    "nombre": "Low poly outdoor table, patio chairs & stool (1)",
+    "autor": "leondp",
+    "licencia": "CC Attribution-NonCommercial-NoDerivs",
+    "animaciones": 0,
+    "caras": 3256,
+    "url": "https://sketchfab.com/3d-models/none-8444f5a2bac940e898a096cc2ad70ad7",
+    "miniatura": "miniaturas/cu3_silla_plastica/8444f5a2bac940e898a096cc2ad70ad7.jpg"
+   },
+   {
+    "uid": "9428cbbad32f483ca8c268c615c9d447",
+    "nombre": "City Scene Bangkok - Thailand",
+    "autor": "eloy.de.cort",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 45243,
+    "url": "https://sketchfab.com/3d-models/none-9428cbbad32f483ca8c268c615c9d447",
+    "miniatura": "miniaturas/cu3_silla_plastica/9428cbbad32f483ca8c268c615c9d447.jpg"
+   },
+   {
+    "uid": "3f63a5ab46df4f78a5df646001a5fced",
+    "nombre": "Simple Plastic Chair",
+    "autor": "temp0.crazy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2796,
+    "url": "https://sketchfab.com/3d-models/none-3f63a5ab46df4f78a5df646001a5fced",
+    "miniatura": "miniaturas/cu3_silla_plastica/3f63a5ab46df4f78a5df646001a5fced.jpg"
+   },
+   {
+    "uid": "71e4f630a37741f29b8a46f04249a92f",
+    "nombre": "sci-fi seat",
+    "autor": "milansaman21",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 31961,
+    "url": "https://sketchfab.com/3d-models/none-71e4f630a37741f29b8a46f04249a92f",
+    "miniatura": "miniaturas/cu3_silla_plastica/71e4f630a37741f29b8a46f04249a92f.jpg"
+   },
+   {
+    "uid": "e80af9999cd24a3aa66a32adead8f8b9",
+    "nombre": "Pool chairs pack",
+    "autor": "assetfactory",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 87288,
+    "url": "https://sketchfab.com/3d-models/none-e80af9999cd24a3aa66a32adead8f8b9",
+    "miniatura": "miniaturas/cu3_silla_plastica/e80af9999cd24a3aa66a32adead8f8b9.jpg"
+   },
+   {
+    "uid": "306bd1c648924ca98f22d1d4f1dfb7bf",
+    "nombre": "Beach chair blue stripes",
+    "autor": "assetfactory",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 1292,
+    "url": "https://sketchfab.com/3d-models/none-306bd1c648924ca98f22d1d4f1dfb7bf",
+    "miniatura": "miniaturas/cu3_silla_plastica/306bd1c648924ca98f22d1d4f1dfb7bf.jpg"
+   },
+   {
+    "uid": "b7235310a7a74d10b591b85a1b16437b",
+    "nombre": "Leather Armchair (gamedev)",
+    "autor": "gluma",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 23278,
+    "url": "https://sketchfab.com/3d-models/none-b7235310a7a74d10b591b85a1b16437b",
+    "miniatura": "miniaturas/cu3_silla_plastica/b7235310a7a74d10b591b85a1b16437b.jpg"
+   },
+   {
+    "uid": "70484ad4d0ed4dcbad1327e4bdd6c946",
+    "nombre": "Neon Lunch Sign",
+    "autor": "amhyde",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 98084,
+    "url": "https://sketchfab.com/3d-models/none-70484ad4d0ed4dcbad1327e4bdd6c946",
+    "miniatura": "miniaturas/cu3_silla_plastica/70484ad4d0ed4dcbad1327e4bdd6c946.jpg"
+   },
+   {
+    "uid": "74cd3a7c7df84091b226efd30766c157",
+    "nombre": "Panton Chair",
+    "autor": "gbb2116",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 28506,
+    "url": "https://sketchfab.com/3d-models/none-74cd3a7c7df84091b226efd30766c157",
+    "miniatura": "miniaturas/cu3_silla_plastica/74cd3a7c7df84091b226efd30766c157.jpg"
+   },
+   {
+    "uid": "6458816e73534df0a26ddc6567395d2c",
+    "nombre": "Barber Chair",
+    "autor": "Omty",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 24260,
+    "url": "https://sketchfab.com/3d-models/none-6458816e73534df0a26ddc6567395d2c",
+    "miniatura": "miniaturas/cu3_silla_plastica/6458816e73534df0a26ddc6567395d2c.jpg"
+   },
+   {
+    "uid": "31e744475fc74104b4acf1746b5f7266",
+    "nombre": "Silla de plástico y caguama",
+    "autor": "Elcompa_Puente",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 43290,
+    "url": "https://sketchfab.com/3d-models/none-31e744475fc74104b4acf1746b5f7266",
+    "miniatura": "miniaturas/cu3_silla_plastica/31e744475fc74104b4acf1746b5f7266.jpg"
+   },
+   {
+    "uid": "90a6ea64762e4d88b79bc3742410e0b4",
+    "nombre": "Plastic Chair",
+    "autor": "wamala",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 130470,
+    "url": "https://sketchfab.com/3d-models/none-90a6ea64762e4d88b79bc3742410e0b4",
+    "miniatura": "miniaturas/cu3_silla_plastica/90a6ea64762e4d88b79bc3742410e0b4.jpg"
+   },
+   {
+    "uid": "5cde9f53b44040f596b3f2ebc15a9a8d",
+    "nombre": "Eames chair",
+    "autor": "ar41k",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 23142,
+    "url": "https://sketchfab.com/3d-models/none-5cde9f53b44040f596b3f2ebc15a9a8d",
+    "miniatura": "miniaturas/cu3_silla_plastica/5cde9f53b44040f596b3f2ebc15a9a8d.jpg"
+   },
+   {
+    "uid": "eb9b5f4ff5af49e98eea80baa6b0a7dc",
+    "nombre": "Low poly outdoor table, patio chairs & stool (2)",
+    "autor": "leondp",
+    "licencia": "CC Attribution-NonCommercial-NoDerivs",
+    "animaciones": 0,
+    "caras": 3256,
+    "url": "https://sketchfab.com/3d-models/none-eb9b5f4ff5af49e98eea80baa6b0a7dc",
+    "miniatura": "miniaturas/cu3_silla_plastica/eb9b5f4ff5af49e98eea80baa6b0a7dc.jpg"
+   },
+   {
+    "uid": "82d76bd03cf34d89921de9bda5fc6d83",
+    "nombre": "Retro Futuristic Chair",
+    "autor": "deny.s.trevisan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 153692,
+    "url": "https://sketchfab.com/3d-models/none-82d76bd03cf34d89921de9bda5fc6d83",
+    "miniatura": "miniaturas/cu3_silla_plastica/82d76bd03cf34d89921de9bda5fc6d83.jpg"
+   },
+   {
+    "uid": "25c585737c014827bfa3b56c2b680581",
+    "nombre": "Vietnamese Plastic Chair",
+    "autor": "hongan3dart",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3940,
+    "url": "https://sketchfab.com/3d-models/none-25c585737c014827bfa3b56c2b680581",
+    "miniatura": "miniaturas/cu3_silla_plastica/25c585737c014827bfa3b56c2b680581.jpg"
+   },
+   {
+    "uid": "ee87bd3b247f4ccab78889b0dd35e59a",
+    "nombre": "Toy_Chair",
+    "autor": "crisvedharaj",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3140,
+    "url": "https://sketchfab.com/3d-models/none-ee87bd3b247f4ccab78889b0dd35e59a",
+    "miniatura": "miniaturas/cu3_silla_plastica/ee87bd3b247f4ccab78889b0dd35e59a.jpg"
+   },
+   {
+    "uid": "dfd8781faeea400b87349e11a24da4f4",
+    "nombre": "Children Chair",
+    "autor": "junglebird",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 812,
+    "url": "https://sketchfab.com/3d-models/none-dfd8781faeea400b87349e11a24da4f4",
+    "miniatura": "miniaturas/cu3_silla_plastica/dfd8781faeea400b87349e11a24da4f4.jpg"
+   },
+   {
+    "uid": "d40c7295ae4845e79cef15c15f929db5",
+    "nombre": "Beach blue chair",
+    "autor": "assetfactory",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 55440,
+    "url": "https://sketchfab.com/3d-models/none-d40c7295ae4845e79cef15c15f929db5",
+    "miniatura": "miniaturas/cu3_silla_plastica/d40c7295ae4845e79cef15c15f929db5.jpg"
+   },
+   {
+    "uid": "06d0836fac844c74ae652214ded4b6b9",
+    "nombre": "Monobloc garden chair cheap plastic",
+    "autor": "thelatestshit",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 315648,
+    "url": "https://sketchfab.com/3d-models/none-06d0836fac844c74ae652214ded4b6b9",
+    "miniatura": "miniaturas/cu3_silla_plastica/06d0836fac844c74ae652214ded4b6b9.jpg"
+   },
+   {
+    "uid": "a11650fdb7664fa481f2b974db7b40c7",
+    "nombre": "IKEA MARIUS STOOL COLOURS",
+    "autor": "ZillaQuazar",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 278200,
+    "url": "https://sketchfab.com/3d-models/none-a11650fdb7664fa481f2b974db7b40c7",
+    "miniatura": "miniaturas/cu3_silla_plastica/a11650fdb7664fa481f2b974db7b40c7.jpg"
+   },
+   {
+    "uid": "5949a77d2e544e88ac67122b8f04944f",
+    "nombre": "Caster Wheel Heavy Duty",
+    "autor": "sinnervoncrawsz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 19078,
+    "url": "https://sketchfab.com/3d-models/none-5949a77d2e544e88ac67122b8f04944f",
+    "miniatura": "miniaturas/cu3_silla_plastica/5949a77d2e544e88ac67122b8f04944f.jpg"
+   },
+   {
+    "uid": "43d782c59df741848e17c502151aa5a6",
+    "nombre": "3 Clothing Hangers Mini-Pack",
+    "autor": "incg5764",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 226384,
+    "url": "https://sketchfab.com/3d-models/none-43d782c59df741848e17c502151aa5a6",
+    "miniatura": "miniaturas/cu3_silla_plastica/43d782c59df741848e17c502151aa5a6.jpg"
+   },
+   {
+    "uid": "3b2cbe445d884fde8f3510d11763545c",
+    "nombre": "Q-Week 5 prop scene Bangkok Thailand",
+    "autor": "NicoFoets",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2225,
+    "url": "https://sketchfab.com/3d-models/none-3b2cbe445d884fde8f3510d11763545c",
+    "miniatura": "miniaturas/cu3_silla_plastica/3b2cbe445d884fde8f3510d11763545c.jpg"
+   },
+   {
+    "uid": "cdaaa169fabe49bca58fcda2e5067c0a",
+    "nombre": "CC0 - Chair 9",
+    "autor": "plaggy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1240,
+    "url": "https://sketchfab.com/3d-models/none-cdaaa169fabe49bca58fcda2e5067c0a",
+    "miniatura": "miniaturas/cu3_silla_plastica/cdaaa169fabe49bca58fcda2e5067c0a.jpg"
+   }
+  ],
+  "cu3_mesa_plastica": [
+   {
+    "uid": "fa805b31129b4034b2b8433073873367",
+    "nombre": "Foldable Table",
+    "autor": "OliverTriplett",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2483,
+    "url": "https://sketchfab.com/3d-models/none-fa805b31129b4034b2b8433073873367",
+    "miniatura": "miniaturas/cu3_mesa_plastica/fa805b31129b4034b2b8433073873367.jpg"
+   },
+   {
+    "uid": "02b1f16a578245ecaeaccf138fd91d7e",
+    "nombre": "Table with metal legs",
+    "autor": "MrMirai",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 656,
+    "url": "https://sketchfab.com/3d-models/none-02b1f16a578245ecaeaccf138fd91d7e",
+    "miniatura": "miniaturas/cu3_mesa_plastica/02b1f16a578245ecaeaccf138fd91d7e.jpg"
+   },
+   {
+    "uid": "ef34e3f4c45348cfa92b993f3fc44531",
+    "nombre": "Plastic chair",
+    "autor": "iperbole",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4224,
+    "url": "https://sketchfab.com/3d-models/none-ef34e3f4c45348cfa92b993f3fc44531",
+    "miniatura": "miniaturas/cu3_mesa_plastica/ef34e3f4c45348cfa92b993f3fc44531.jpg"
+   },
+   {
+    "uid": "8444f5a2bac940e898a096cc2ad70ad7",
+    "nombre": "Low poly outdoor table, patio chairs & stool (1)",
+    "autor": "leondp",
+    "licencia": "CC Attribution-NonCommercial-NoDerivs",
+    "animaciones": 0,
+    "caras": 3256,
+    "url": "https://sketchfab.com/3d-models/none-8444f5a2bac940e898a096cc2ad70ad7",
+    "miniatura": "miniaturas/cu3_mesa_plastica/8444f5a2bac940e898a096cc2ad70ad7.jpg"
+   },
+   {
+    "uid": "3d9bcb1a899e41dd8eacc77671ae61e3",
+    "nombre": "Graphic Tablet",
+    "autor": "Somersby",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1097299,
+    "url": "https://sketchfab.com/3d-models/none-3d9bcb1a899e41dd8eacc77671ae61e3",
+    "miniatura": "miniaturas/cu3_mesa_plastica/3d9bcb1a899e41dd8eacc77671ae61e3.jpg"
+   },
+   {
+    "uid": "68e6bbc6cd3d4846baf1b45b1239ec14",
+    "nombre": "Small Kids Playhouse",
+    "autor": "johnnyp",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 646682,
+    "url": "https://sketchfab.com/3d-models/none-68e6bbc6cd3d4846baf1b45b1239ec14",
+    "miniatura": "miniaturas/cu3_mesa_plastica/68e6bbc6cd3d4846baf1b45b1239ec14.jpg"
+   },
+   {
+    "uid": "e8358dae6a8441b7b9357ee9aa9cbd2b",
+    "nombre": "Green Egg Coffe Table",
+    "autor": "ferofluid",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9240,
+    "url": "https://sketchfab.com/3d-models/none-e8358dae6a8441b7b9357ee9aa9cbd2b",
+    "miniatura": "miniaturas/cu3_mesa_plastica/e8358dae6a8441b7b9357ee9aa9cbd2b.jpg"
+   },
+   {
+    "uid": "eb9b5f4ff5af49e98eea80baa6b0a7dc",
+    "nombre": "Low poly outdoor table, patio chairs & stool (2)",
+    "autor": "leondp",
+    "licencia": "CC Attribution-NonCommercial-NoDerivs",
+    "animaciones": 0,
+    "caras": 3256,
+    "url": "https://sketchfab.com/3d-models/none-eb9b5f4ff5af49e98eea80baa6b0a7dc",
+    "miniatura": "miniaturas/cu3_mesa_plastica/eb9b5f4ff5af49e98eea80baa6b0a7dc.jpg"
+   },
+   {
+    "uid": "36792497b18d4b0f87fc502429779db4",
+    "nombre": "Table Lamp Low Poly",
+    "autor": "vadzaecc",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7106,
+    "url": "https://sketchfab.com/3d-models/none-36792497b18d4b0f87fc502429779db4",
+    "miniatura": "miniaturas/cu3_mesa_plastica/36792497b18d4b0f87fc502429779db4.jpg"
+   },
+   {
+    "uid": "22b6af3b213b4877a4aa3a9ca918ade8",
+    "nombre": "folding table",
+    "autor": "extracrispi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6456,
+    "url": "https://sketchfab.com/3d-models/none-22b6af3b213b4877a4aa3a9ca918ade8",
+    "miniatura": "miniaturas/cu3_mesa_plastica/22b6af3b213b4877a4aa3a9ca918ade8.jpg"
+   },
+   {
+    "uid": "f27cf27533fd40d18af35f089267eb87",
+    "nombre": "Small Minimalist Table",
+    "autor": "ferofluid",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1144,
+    "url": "https://sketchfab.com/3d-models/none-f27cf27533fd40d18af35f089267eb87",
+    "miniatura": "miniaturas/cu3_mesa_plastica/f27cf27533fd40d18af35f089267eb87.jpg"
+   },
+   {
+    "uid": "6270118bb9524c06b1a984616f381bc1",
+    "nombre": "Nordic Table",
+    "autor": "projecteverything",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 8608,
+    "url": "https://sketchfab.com/3d-models/none-6270118bb9524c06b1a984616f381bc1",
+    "miniatura": "miniaturas/cu3_mesa_plastica/6270118bb9524c06b1a984616f381bc1.jpg"
+   },
+   {
+    "uid": "aeb698acd35a41189c9718c68571701a",
+    "nombre": "Plastic bottle for tablets",
+    "autor": "collorzhuk",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 367098,
+    "url": "https://sketchfab.com/3d-models/none-aeb698acd35a41189c9718c68571701a",
+    "miniatura": "miniaturas/cu3_mesa_plastica/aeb698acd35a41189c9718c68571701a.jpg"
+   },
+   {
+    "uid": "495e551476734bb794826aa8f7426740",
+    "nombre": "Ikea DOCKSTA TOBIAS Table And 4 Chairs",
+    "autor": "vikalisova1995",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 565852,
+    "url": "https://sketchfab.com/3d-models/none-495e551476734bb794826aa8f7426740",
+    "miniatura": "miniaturas/cu3_mesa_plastica/495e551476734bb794826aa8f7426740.jpg"
+   },
+   {
+    "uid": "d0f3b07e01e24b70ba1f83370e8e9ff5",
+    "nombre": "Bar stool and table",
+    "autor": "sadik_elcin",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 44944,
+    "url": "https://sketchfab.com/3d-models/none-d0f3b07e01e24b70ba1f83370e8e9ff5",
+    "miniatura": "miniaturas/cu3_mesa_plastica/d0f3b07e01e24b70ba1f83370e8e9ff5.jpg"
+   },
+   {
+    "uid": "6d658aa682554f0e9a481e11e3260169",
+    "nombre": "Blue Desk Lamp Vintage 90s",
+    "autor": "didexit",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20320,
+    "url": "https://sketchfab.com/3d-models/none-6d658aa682554f0e9a481e11e3260169",
+    "miniatura": "miniaturas/cu3_mesa_plastica/6d658aa682554f0e9a481e11e3260169.jpg"
+   },
+   {
+    "uid": "31cf88aa1d3f4434b3cd6561300787e1",
+    "nombre": "Bookshelf",
+    "autor": "Silver10211",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4428,
+    "url": "https://sketchfab.com/3d-models/none-31cf88aa1d3f4434b3cd6561300787e1",
+    "miniatura": "miniaturas/cu3_mesa_plastica/31cf88aa1d3f4434b3cd6561300787e1.jpg"
+   },
+   {
+    "uid": "ac3901dac1c540e88ea770f5f0bd8292",
+    "nombre": "stand mobile sketchfab",
+    "autor": "shahabahmed",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 245694,
+    "url": "https://sketchfab.com/3d-models/none-ac3901dac1c540e88ea770f5f0bd8292",
+    "miniatura": "miniaturas/cu3_mesa_plastica/ac3901dac1c540e88ea770f5f0bd8292.jpg"
+   },
+   {
+    "uid": "c52f445eca564ef39def020a8db14ffb",
+    "nombre": "Vaso de flores",
+    "autor": "menotti",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 179017,
+    "url": "https://sketchfab.com/3d-models/none-c52f445eca564ef39def020a8db14ffb",
+    "miniatura": "miniaturas/cu3_mesa_plastica/c52f445eca564ef39def020a8db14ffb.jpg"
+   },
+   {
+    "uid": "6a64440e201d41b7bdb437c3e06e9ab0",
+    "nombre": "Party Table",
+    "autor": "321Blender",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1268608,
+    "url": "https://sketchfab.com/3d-models/none-6a64440e201d41b7bdb437c3e06e9ab0",
+    "miniatura": "miniaturas/cu3_mesa_plastica/6a64440e201d41b7bdb437c3e06e9ab0.jpg"
+   },
+   {
+    "uid": "7852c5b3c2df449d86e6ff64d9b48bd8",
+    "nombre": "Coffee Table Low-poly 3D model",
+    "autor": "Andrew.Maria",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 320,
+    "url": "https://sketchfab.com/3d-models/none-7852c5b3c2df449d86e6ff64d9b48bd8",
+    "miniatura": "miniaturas/cu3_mesa_plastica/7852c5b3c2df449d86e6ff64d9b48bd8.jpg"
+   },
+   {
+    "uid": "264f3ddbcf9d49bf93686b64573172a8",
+    "nombre": "Toothpaste Tablets",
+    "autor": "virtualtimecapsule",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1218054,
+    "url": "https://sketchfab.com/3d-models/none-264f3ddbcf9d49bf93686b64573172a8",
+    "miniatura": "miniaturas/cu3_mesa_plastica/264f3ddbcf9d49bf93686b64573172a8.jpg"
+   },
+   {
+    "uid": "bc17b1eba18e4e74a401aac7a62b5682",
+    "nombre": "Table Lamp",
+    "autor": "andrii_tsapko",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 283196,
+    "url": "https://sketchfab.com/3d-models/none-bc17b1eba18e4e74a401aac7a62b5682",
+    "miniatura": "miniaturas/cu3_mesa_plastica/bc17b1eba18e4e74a401aac7a62b5682.jpg"
+   },
+   {
+    "uid": "17403d9129a84ee48aea82a47936e50c",
+    "nombre": "Compass faber-castell metalic",
+    "autor": "carlospastorarmada",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 161737,
+    "url": "https://sketchfab.com/3d-models/none-17403d9129a84ee48aea82a47936e50c",
+    "miniatura": "miniaturas/cu3_mesa_plastica/17403d9129a84ee48aea82a47936e50c.jpg"
+   },
+   {
+    "uid": "85c95e7de29b423d987c4bad3a834c18",
+    "nombre": "Tables",
+    "autor": "MadMayMax",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22512,
+    "url": "https://sketchfab.com/3d-models/none-85c95e7de29b423d987c4bad3a834c18",
+    "miniatura": "miniaturas/cu3_mesa_plastica/85c95e7de29b423d987c4bad3a834c18.jpg"
+   },
+   {
+    "uid": "5700f75d2d0647afbb26a356ec29d34a",
+    "nombre": "Plastic Wheel",
+    "autor": "sinnervoncrawsz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 14976,
+    "url": "https://sketchfab.com/3d-models/none-5700f75d2d0647afbb26a356ec29d34a",
+    "miniatura": "miniaturas/cu3_mesa_plastica/5700f75d2d0647afbb26a356ec29d34a.jpg"
+   },
+   {
+    "uid": "3ba8ba7b1bd24197a1cc866568e04a3c",
+    "nombre": "Consumer products - Zivid 3D machine vision",
+    "autor": "zivid",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-3ba8ba7b1bd24197a1cc866568e04a3c",
+    "miniatura": "miniaturas/cu3_mesa_plastica/3ba8ba7b1bd24197a1cc866568e04a3c.jpg"
+   },
+   {
+    "uid": "22676413f39a41249ed6478652e9ae3a",
+    "nombre": "Plastic Table",
+    "autor": "sweddle",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 140,
+    "url": "https://sketchfab.com/3d-models/none-22676413f39a41249ed6478652e9ae3a",
+    "miniatura": "miniaturas/cu3_mesa_plastica/22676413f39a41249ed6478652e9ae3a.jpg"
+   },
+   {
+    "uid": "0e7444ee28aa4150b60b966179085f55",
+    "nombre": "Vertical milling machine",
+    "autor": "vramstudio",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 72554,
+    "url": "https://sketchfab.com/3d-models/none-0e7444ee28aa4150b60b966179085f55",
+    "miniatura": "miniaturas/cu3_mesa_plastica/0e7444ee28aa4150b60b966179085f55.jpg"
+   },
+   {
+    "uid": "02685cb978684f5b8c78be55abede5e6",
+    "nombre": "Table",
+    "autor": "Rayzngames",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20108,
+    "url": "https://sketchfab.com/3d-models/none-02685cb978684f5b8c78be55abede5e6",
+    "miniatura": "miniaturas/cu3_mesa_plastica/02685cb978684f5b8c78be55abede5e6.jpg"
+   }
+  ],
+  "cu3_bocina_fiesta": [
+   {
+    "uid": "c7efb3b9611747ddb4e15d164540d291",
+    "nombre": "National NC 109 Receiver",
+    "autor": "josebalta",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8998,
+    "url": "https://sketchfab.com/3d-models/none-c7efb3b9611747ddb4e15d164540d291",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/c7efb3b9611747ddb4e15d164540d291.jpg"
+   },
+   {
+    "uid": "cd962832be7744efb6b37fe0ee2027e7",
+    "nombre": "Samsung Galaxy S21 Ultra",
+    "autor": "DatSketch",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 24448,
+    "url": "https://sketchfab.com/3d-models/none-cd962832be7744efb6b37fe0ee2027e7",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/cd962832be7744efb6b37fe0ee2027e7.jpg"
+   },
+   {
+    "uid": "12b3ce23f32a4aa99cd5ba07330bf086",
+    "nombre": "Studio Monitors",
+    "autor": "kylermichaelson",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11612,
+    "url": "https://sketchfab.com/3d-models/none-12b3ce23f32a4aa99cd5ba07330bf086",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/12b3ce23f32a4aa99cd5ba07330bf086.jpg"
+   },
+   {
+    "uid": "fa9f8b00d31c45a7abe308a2fa8f2165",
+    "nombre": "Speaker (Cambridge Soundworks)",
+    "autor": "AleixoAlonso",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5952,
+    "url": "https://sketchfab.com/3d-models/none-fa9f8b00d31c45a7abe308a2fa8f2165",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/fa9f8b00d31c45a7abe308a2fa8f2165.jpg"
+   },
+   {
+    "uid": "d236ab749f824a7aaa9a5d0a32c55180",
+    "nombre": "Funtime Freddy | AR Special Delivery |",
+    "autor": "Faertoon",
+    "licencia": "CC Attribution",
+    "animaciones": 19,
+    "caras": 49673,
+    "url": "https://sketchfab.com/3d-models/none-d236ab749f824a7aaa9a5d0a32c55180",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/d236ab749f824a7aaa9a5d0a32c55180.jpg"
+   },
+   {
+    "uid": "8e23af1ce0cc48b1a84c950ab6322519",
+    "nombre": "101.ID.11 Arringatore Florence",
+    "autor": "ancientworld3d",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 638004,
+    "url": "https://sketchfab.com/3d-models/none-8e23af1ce0cc48b1a84c950ab6322519",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/8e23af1ce0cc48b1a84c950ab6322519.jpg"
+   },
+   {
+    "uid": "8bfa354e4afb4d95b2274a7b45cf4986",
+    "nombre": "Simple Head Set",
+    "autor": "Blender3D",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6982,
+    "url": "https://sketchfab.com/3d-models/none-8bfa354e4afb4d95b2274a7b45cf4986",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/8bfa354e4afb4d95b2274a7b45cf4986.jpg"
+   },
+   {
+    "uid": "338f06c56edd467cbbc8b5850b0e41a3",
+    "nombre": "Smith_Michael_391-O_1703_Milestone_3",
+    "autor": "Msgunner501",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1580338,
+    "url": "https://sketchfab.com/3d-models/none-338f06c56edd467cbbc8b5850b0e41a3",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/338f06c56edd467cbbc8b5850b0e41a3.jpg"
+   },
+   {
+    "uid": "623e06281c974d34b9baa54c37fa00cc",
+    "nombre": "5.1 Woodgrain Surround - Front",
+    "autor": "VondereoQ",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 92310,
+    "url": "https://sketchfab.com/3d-models/none-623e06281c974d34b9baa54c37fa00cc",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/623e06281c974d34b9baa54c37fa00cc.jpg"
+   },
+   {
+    "uid": "3d47fa4fed7e4c23bdba8aac3290eb9f",
+    "nombre": "5.1 Woodgrain Surround - Subwoofer",
+    "autor": "VondereoQ",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 212720,
+    "url": "https://sketchfab.com/3d-models/none-3d47fa4fed7e4c23bdba8aac3290eb9f",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/3d47fa4fed7e4c23bdba8aac3290eb9f.jpg"
+   },
+   {
+    "uid": "8b087f086ef145d79a2320b85d12241f",
+    "nombre": "5.1 Woodgrain Surround - Center",
+    "autor": "VondereoQ",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 42096,
+    "url": "https://sketchfab.com/3d-models/none-8b087f086ef145d79a2320b85d12241f",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/8b087f086ef145d79a2320b85d12241f.jpg"
+   },
+   {
+    "uid": "824f7b8d910f442d8300a5ebeb295f4a",
+    "nombre": "Philips D 8007 Roller Radio Cassette Recorder",
+    "autor": "rrrapid",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 520400,
+    "url": "https://sketchfab.com/3d-models/none-824f7b8d910f442d8300a5ebeb295f4a",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/824f7b8d910f442d8300a5ebeb295f4a.jpg"
+   },
+   {
+    "uid": "23d3b25d47f74d7d9a96ee542914f281",
+    "nombre": "5.1 Woodgrain Surround - Rear",
+    "autor": "VondereoQ",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 34848,
+    "url": "https://sketchfab.com/3d-models/none-23d3b25d47f74d7d9a96ee542914f281",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/23d3b25d47f74d7d9a96ee542914f281.jpg"
+   },
+   {
+    "uid": "74851cdf119c4016ae17d22984aa38c7",
+    "nombre": "Pionier U2 radio receiver",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 146222,
+    "url": "https://sketchfab.com/3d-models/none-74851cdf119c4016ae17d22984aa38c7",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/74851cdf119c4016ae17d22984aa38c7.jpg"
+   },
+   {
+    "uid": "0823c4dcf6ee4fb2841e659b19bcdb81",
+    "nombre": "Capello Roma radio receiver with gramophone",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 247479,
+    "url": "https://sketchfab.com/3d-models/none-0823c4dcf6ee4fb2841e659b19bcdb81",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/0823c4dcf6ee4fb2841e659b19bcdb81.jpg"
+   },
+   {
+    "uid": "13c139c8bbf34dcd8d00e0d26f7e8ce0",
+    "nombre": "Elektrit Majestic radio receiver",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 192770,
+    "url": "https://sketchfab.com/3d-models/none-13c139c8bbf34dcd8d00e0d26f7e8ce0",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/13c139c8bbf34dcd8d00e0d26f7e8ce0.jpg"
+   },
+   {
+    "uid": "2fe2390c8a8f449e915c86f1ca1c0074",
+    "nombre": "Smith_Michael_391-O_1703_Milestone_4",
+    "autor": "Msgunner501",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 395790,
+    "url": "https://sketchfab.com/3d-models/none-2fe2390c8a8f449e915c86f1ca1c0074",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/2fe2390c8a8f449e915c86f1ca1c0074.jpg"
+   },
+   {
+    "uid": "e1de0f6650df4d31a90d33fa19ab1126",
+    "nombre": "Presto type Z radio receiver",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 200067,
+    "url": "https://sketchfab.com/3d-models/none-e1de0f6650df4d31a90d33fa19ab1126",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/e1de0f6650df4d31a90d33fa19ab1126.jpg"
+   },
+   {
+    "uid": "6777a7a1b2dd43e4b4842a862b7fa1c9",
+    "nombre": "Speaker and Music Notes",
+    "autor": "JonPierce",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2800,
+    "url": "https://sketchfab.com/3d-models/none-6777a7a1b2dd43e4b4842a862b7fa1c9",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/6777a7a1b2dd43e4b4842a862b7fa1c9.jpg"
+   },
+   {
+    "uid": "44883e9be7f2494cb36cff5cd5fda7e9",
+    "nombre": "Thulian Headset",
+    "autor": "itsmerishabofficial",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1829944,
+    "url": "https://sketchfab.com/3d-models/none-44883e9be7f2494cb36cff5cd5fda7e9",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/44883e9be7f2494cb36cff5cd5fda7e9.jpg"
+   },
+   {
+    "uid": "fe3f49c32e2e4f7aa3393c72b35e4297",
+    "nombre": "3D Pixel 2 Way Radio",
+    "autor": "BlazingWildFire",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 28,
+    "url": "https://sketchfab.com/3d-models/none-fe3f49c32e2e4f7aa3393c72b35e4297",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/fe3f49c32e2e4f7aa3393c72b35e4297.jpg"
+   },
+   {
+    "uid": "436a5e9fc2724788be1bf00b1494b8d8",
+    "nombre": "Aga RSZ-47 radio receiver",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 153210,
+    "url": "https://sketchfab.com/3d-models/none-436a5e9fc2724788be1bf00b1494b8d8",
+    "miniatura": "miniaturas/cu3_bocina_fiesta/436a5e9fc2724788be1bf00b1494b8d8.jpg"
+   }
+  ],
+  "cu3_altavoz": [
+   {
+    "uid": "3456982171f24599b8f25404989d2a6e",
+    "nombre": "Speaker",
+    "autor": "andulil",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1746,
+    "url": "https://sketchfab.com/3d-models/none-3456982171f24599b8f25404989d2a6e",
+    "miniatura": "miniaturas/cu3_altavoz/3456982171f24599b8f25404989d2a6e.jpg"
+   },
+   {
+    "uid": "d236ab749f824a7aaa9a5d0a32c55180",
+    "nombre": "Funtime Freddy | AR Special Delivery |",
+    "autor": "Faertoon",
+    "licencia": "CC Attribution",
+    "animaciones": 19,
+    "caras": 49673,
+    "url": "https://sketchfab.com/3d-models/none-d236ab749f824a7aaa9a5d0a32c55180",
+    "miniatura": "miniaturas/cu3_altavoz/d236ab749f824a7aaa9a5d0a32c55180.jpg"
+   },
+   {
+    "uid": "b3f2a1563f0c4be18cb811d18745bc78",
+    "nombre": "His Master’s Voice 101 suitcase gramophone",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 387304,
+    "url": "https://sketchfab.com/3d-models/none-b3f2a1563f0c4be18cb811d18745bc78",
+    "miniatura": "miniaturas/cu3_altavoz/b3f2a1563f0c4be18cb811d18745bc78.jpg"
+   },
+   {
+    "uid": "6cf24b2d44c84e32b0a930288eb6650c",
+    "nombre": "(speaker) Caixas De som - paredao- Low Poly",
+    "autor": "globemovie",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 46312,
+    "url": "https://sketchfab.com/3d-models/none-6cf24b2d44c84e32b0a930288eb6650c",
+    "miniatura": "miniaturas/cu3_altavoz/6cf24b2d44c84e32b0a930288eb6650c.jpg"
+   },
+   {
+    "uid": "dae3da403539484cb7f2ce805eaf02a1",
+    "nombre": "Boom Box",
+    "autor": "sarahmabsout1998",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3072,
+    "url": "https://sketchfab.com/3d-models/none-dae3da403539484cb7f2ce805eaf02a1",
+    "miniatura": "miniaturas/cu3_altavoz/dae3da403539484cb7f2ce805eaf02a1.jpg"
+   },
+   {
+    "uid": "54adb6dd50ef44bbbe0338b7ab8c3b79",
+    "nombre": "JBL GO Bluetooth Speaker - GameReady",
+    "autor": "felipeprodev",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 436,
+    "url": "https://sketchfab.com/3d-models/none-54adb6dd50ef44bbbe0338b7ab8c3b79",
+    "miniatura": "miniaturas/cu3_altavoz/54adb6dd50ef44bbbe0338b7ab8c3b79.jpg"
+   },
+   {
+    "uid": "026cf4d0752e4a16b9445fa6793c1141",
+    "nombre": "Spirit Voice Reciever Box",
+    "autor": "amongmodels",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 184133,
+    "url": "https://sketchfab.com/3d-models/none-026cf4d0752e4a16b9445fa6793c1141",
+    "miniatura": "miniaturas/cu3_altavoz/026cf4d0752e4a16b9445fa6793c1141.jpg"
+   },
+   {
+    "uid": "5dbb543488d543c398878620bf7d43f1",
+    "nombre": "Cezar Quadro Receiver DKS-201",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 173456,
+    "url": "https://sketchfab.com/3d-models/none-5dbb543488d543c398878620bf7d43f1",
+    "miniatura": "miniaturas/cu3_altavoz/5dbb543488d543c398878620bf7d43f1.jpg"
+   },
+   {
+    "uid": "824f7b8d910f442d8300a5ebeb295f4a",
+    "nombre": "Philips D 8007 Roller Radio Cassette Recorder",
+    "autor": "rrrapid",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 520400,
+    "url": "https://sketchfab.com/3d-models/none-824f7b8d910f442d8300a5ebeb295f4a",
+    "miniatura": "miniaturas/cu3_altavoz/824f7b8d910f442d8300a5ebeb295f4a.jpg"
+   },
+   {
+    "uid": "19bd007bd2e74b039c2415949a93d575",
+    "nombre": "Speakers (clean version)",
+    "autor": "CatalinObreja",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9414,
+    "url": "https://sketchfab.com/3d-models/none-19bd007bd2e74b039c2415949a93d575",
+    "miniatura": "miniaturas/cu3_altavoz/19bd007bd2e74b039c2415949a93d575.jpg"
+   },
+   {
+    "uid": "facfb7d088504a0eac7c47d4f5ada0d9",
+    "nombre": "Speakers (dirty / grungy version)",
+    "autor": "CatalinObreja",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 9414,
+    "url": "https://sketchfab.com/3d-models/none-facfb7d088504a0eac7c47d4f5ada0d9",
+    "miniatura": "miniaturas/cu3_altavoz/facfb7d088504a0eac7c47d4f5ada0d9.jpg"
+   },
+   {
+    "uid": "9f0175c545aa4992b248fb2ceea03d92",
+    "nombre": "Polonez radio-gramophone",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 204540,
+    "url": "https://sketchfab.com/3d-models/none-9f0175c545aa4992b248fb2ceea03d92",
+    "miniatura": "miniaturas/cu3_altavoz/9f0175c545aa4992b248fb2ceea03d92.jpg"
+   },
+   {
+    "uid": "13c139c8bbf34dcd8d00e0d26f7e8ce0",
+    "nombre": "Elektrit Majestic radio receiver",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 192770,
+    "url": "https://sketchfab.com/3d-models/none-13c139c8bbf34dcd8d00e0d26f7e8ce0",
+    "miniatura": "miniaturas/cu3_altavoz/13c139c8bbf34dcd8d00e0d26f7e8ce0.jpg"
+   },
+   {
+    "uid": "0601c6d396c7465a91f735535094c885",
+    "nombre": "Western Electric 522W speaker",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 104106,
+    "url": "https://sketchfab.com/3d-models/none-0601c6d396c7465a91f735535094c885",
+    "miniatura": "miniaturas/cu3_altavoz/0601c6d396c7465a91f735535094c885.jpg"
+   },
+   {
+    "uid": "d892b203b1ff4824969a6ae6deb6def8",
+    "nombre": "Philips 8-38A radio receiver",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 191921,
+    "url": "https://sketchfab.com/3d-models/none-d892b203b1ff4824969a6ae6deb6def8",
+    "miniatura": "miniaturas/cu3_altavoz/d892b203b1ff4824969a6ae6deb6def8.jpg"
+   },
+   {
+    "uid": "e1de0f6650df4d31a90d33fa19ab1126",
+    "nombre": "Presto type Z radio receiver",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 200067,
+    "url": "https://sketchfab.com/3d-models/none-e1de0f6650df4d31a90d33fa19ab1126",
+    "miniatura": "miniaturas/cu3_altavoz/e1de0f6650df4d31a90d33fa19ab1126.jpg"
+   },
+   {
+    "uid": "e32bb42513774b96965c4598872047de",
+    "nombre": "Bambino WG-252 suitcase gramophone",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 411082,
+    "url": "https://sketchfab.com/3d-models/none-e32bb42513774b96965c4598872047de",
+    "miniatura": "miniaturas/cu3_altavoz/e32bb42513774b96965c4598872047de.jpg"
+   },
+   {
+    "uid": "c777246eaa224485a94511d022e54233",
+    "nombre": "Kevin Smith",
+    "autor": "fzeeshan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 149306,
+    "url": "https://sketchfab.com/3d-models/none-c777246eaa224485a94511d022e54233",
+    "miniatura": "miniaturas/cu3_altavoz/c777246eaa224485a94511d022e54233.jpg"
+   },
+   {
+    "uid": "806a36e4d03c45e28899ce36f6d81fea",
+    "nombre": "Raspberry Pi 'Talking Data' Box",
+    "autor": "digitalurban",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 304610,
+    "url": "https://sketchfab.com/3d-models/none-806a36e4d03c45e28899ce36f6d81fea",
+    "miniatura": "miniaturas/cu3_altavoz/806a36e4d03c45e28899ce36f6d81fea.jpg"
+   },
+   {
+    "uid": "d4cc4fa85a9945598e4c30648dfa0a0c",
+    "nombre": "HUDSound Speaker Logo",
+    "autor": "johnnyboi404",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 39410,
+    "url": "https://sketchfab.com/3d-models/none-d4cc4fa85a9945598e4c30648dfa0a0c",
+    "miniatura": "miniaturas/cu3_altavoz/d4cc4fa85a9945598e4c30648dfa0a0c.jpg"
+   },
+   {
+    "uid": "c6dff9d5e90f488a9f5f24392dfe4eb9",
+    "nombre": "DIY Speaker Box - PBR Low Poly",
+    "autor": "neutron9898",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 6978,
+    "url": "https://sketchfab.com/3d-models/none-c6dff9d5e90f488a9f5f24392dfe4eb9",
+    "miniatura": "miniaturas/cu3_altavoz/c6dff9d5e90f488a9f5f24392dfe4eb9.jpg"
+   },
+   {
+    "uid": "dd22018e2c8745ccbffc45d05e6dbaa1",
+    "nombre": "Speaker-box-dual 1-4",
+    "autor": "Oldessexboy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6324,
+    "url": "https://sketchfab.com/3d-models/none-dd22018e2c8745ccbffc45d05e6dbaa1",
+    "miniatura": "miniaturas/cu3_altavoz/dd22018e2c8745ccbffc45d05e6dbaa1.jpg"
+   },
+   {
+    "uid": "4eb6524b02294107bc7c791d6c79865d",
+    "nombre": "Speaker Wall Bracket V1",
+    "autor": "DietBloke",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 824,
+    "url": "https://sketchfab.com/3d-models/none-4eb6524b02294107bc7c791d6c79865d",
+    "miniatura": "miniaturas/cu3_altavoz/4eb6524b02294107bc7c791d6c79865d.jpg"
+   },
+   {
+    "uid": "2c4cd26946c6493d8c1529bed58a3627",
+    "nombre": "Tannoy m2.5 cabinet mod",
+    "autor": "Tomasz.Kwiatek",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 78960,
+    "url": "https://sketchfab.com/3d-models/none-2c4cd26946c6493d8c1529bed58a3627",
+    "miniatura": "miniaturas/cu3_altavoz/2c4cd26946c6493d8c1529bed58a3627.jpg"
+   },
+   {
+    "uid": "c3f1e808a8384e91a4a3e7297c7b099d",
+    "nombre": "Marshall-type-speaker-box- 1-2-4",
+    "autor": "Oldessexboy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12880,
+    "url": "https://sketchfab.com/3d-models/none-c3f1e808a8384e91a4a3e7297c7b099d",
+    "miniatura": "miniaturas/cu3_altavoz/c3f1e808a8384e91a4a3e7297c7b099d.jpg"
+   }
+  ],
+  "cu3_perro_labrador": [
+   {
+    "uid": "c7910cde1f084ea1823b7c0fdfbe700f",
+    "nombre": "CC0 カラフトイソツツジ Marsh Labrador Tea",
+    "autor": "ffishAsia-and-floraZia",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 528478,
+    "url": "https://sketchfab.com/3d-models/none-c7910cde1f084ea1823b7c0fdfbe700f",
+    "miniatura": "miniaturas/cu3_perro_labrador/c7910cde1f084ea1823b7c0fdfbe700f.jpg"
+   },
+   {
+    "uid": "9829dbbcb4d743ecaf9d2672c49bf0ef",
+    "nombre": "Portada barroca Palacio Santoña S.XVIII Madrid",
+    "autor": "VanesaGarciaAlcocer",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1370103,
+    "url": "https://sketchfab.com/3d-models/none-9829dbbcb4d743ecaf9d2672c49bf0ef",
+    "miniatura": "miniaturas/cu3_perro_labrador/9829dbbcb4d743ecaf9d2672c49bf0ef.jpg"
+   },
+   {
+    "uid": "1afaa69215604838911ccd3221e4a6d6",
+    "nombre": "Labrador Retriever puppy",
+    "autor": "lopuh22721",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2084,
+    "url": "https://sketchfab.com/3d-models/none-1afaa69215604838911ccd3221e4a6d6",
+    "miniatura": "miniaturas/cu3_perro_labrador/1afaa69215604838911ccd3221e4a6d6.jpg"
+   },
+   {
+    "uid": "f12f12bc5a984718a036034b02d4989b",
+    "nombre": "Door - Fleur-de-lis /  Puerta - Flor de Lis",
+    "autor": "add4d",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 842684,
+    "url": "https://sketchfab.com/3d-models/none-f12f12bc5a984718a036034b02d4989b",
+    "miniatura": "miniaturas/cu3_perro_labrador/f12f12bc5a984718a036034b02d4989b.jpg"
+   },
+   {
+    "uid": "93ccea4774854425a55611b72b750ca2",
+    "nombre": "Golden Labrador (Laying Down)",
+    "autor": "dwigfor",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1198,
+    "url": "https://sketchfab.com/3d-models/none-93ccea4774854425a55611b72b750ca2",
+    "miniatura": "miniaturas/cu3_perro_labrador/93ccea4774854425a55611b72b750ca2.jpg"
+   },
+   {
+    "uid": "20aa825e13cb4ea587572e0efcede93e",
+    "nombre": "Pawgust Puppy",
+    "autor": "MichaelNixon",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11370,
+    "url": "https://sketchfab.com/3d-models/none-20aa825e13cb4ea587572e0efcede93e",
+    "miniatura": "miniaturas/cu3_perro_labrador/20aa825e13cb4ea587572e0efcede93e.jpg"
+   },
+   {
+    "uid": "e981eeb9b53440b7afda1f4d16232b06",
+    "nombre": "Let sleeping dogs lie",
+    "autor": "eecarrie",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 664396,
+    "url": "https://sketchfab.com/3d-models/none-e981eeb9b53440b7afda1f4d16232b06",
+    "miniatura": "miniaturas/cu3_perro_labrador/e981eeb9b53440b7afda1f4d16232b06.jpg"
+   },
+   {
+    "uid": "3fbd0fc182f841e0b3e16108a3e5acc9",
+    "nombre": "Labrador 3D print",
+    "autor": "hellerycrfilhonaval",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1028142,
+    "url": "https://sketchfab.com/3d-models/none-3fbd0fc182f841e0b3e16108a3e5acc9",
+    "miniatura": "miniaturas/cu3_perro_labrador/3fbd0fc182f841e0b3e16108a3e5acc9.jpg"
+   },
+   {
+    "uid": "876367539de44a1daa0ef13bda77c76d",
+    "nombre": "Lowpoly Dogs for background props",
+    "autor": "TrentPierce",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 113846,
+    "url": "https://sketchfab.com/3d-models/none-876367539de44a1daa0ef13bda77c76d",
+    "miniatura": "miniaturas/cu3_perro_labrador/876367539de44a1daa0ef13bda77c76d.jpg"
+   },
+   {
+    "uid": "78c2ceb1e51149698c6a8e6242d5dbb2",
+    "nombre": "Golden Labrador (Standing)",
+    "autor": "dwigfor",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 10116,
+    "url": "https://sketchfab.com/3d-models/none-78c2ceb1e51149698c6a8e6242d5dbb2",
+    "miniatura": "miniaturas/cu3_perro_labrador/78c2ceb1e51149698c6a8e6242d5dbb2.jpg"
+   },
+   {
+    "uid": "4f6a9e38f665481f8f3d2f1499ab2ff3",
+    "nombre": "Golden Labrador 1 (Laying Down)",
+    "autor": "dwigfor",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1932,
+    "url": "https://sketchfab.com/3d-models/none-4f6a9e38f665481f8f3d2f1499ab2ff3",
+    "miniatura": "miniaturas/cu3_perro_labrador/4f6a9e38f665481f8f3d2f1499ab2ff3.jpg"
+   },
+   {
+    "uid": "2e783110334b454d9717385fed52a1ef",
+    "nombre": "Dog",
+    "autor": "danielebaratta",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 436200,
+    "url": "https://sketchfab.com/3d-models/none-2e783110334b454d9717385fed52a1ef",
+    "miniatura": "miniaturas/cu3_perro_labrador/2e783110334b454d9717385fed52a1ef.jpg"
+   },
+   {
+    "uid": "0bb56b8ade3746fabe1b2ad87577c951",
+    "nombre": "Escudo de los Mateos Marín. 1627",
+    "autor": "jjmartinez",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 739324,
+    "url": "https://sketchfab.com/3d-models/none-0bb56b8ade3746fabe1b2ad87577c951",
+    "miniatura": "miniaturas/cu3_perro_labrador/0bb56b8ade3746fabe1b2ad87577c951.jpg"
+   },
+   {
+    "uid": "8b7c81c6ed72445b80f630a296625db6",
+    "nombre": "Golden Labrador (Sitting)",
+    "autor": "dwigfor",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 10200,
+    "url": "https://sketchfab.com/3d-models/none-8b7c81c6ed72445b80f630a296625db6",
+    "miniatura": "miniaturas/cu3_perro_labrador/8b7c81c6ed72445b80f630a296625db6.jpg"
+   },
+   {
+    "uid": "4da29524eb994531ba420d9d12d31342",
+    "nombre": "Jewelry - Labrador",
+    "autor": "vitaliyburovart",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 103558,
+    "url": "https://sketchfab.com/3d-models/none-4da29524eb994531ba420d9d12d31342",
+    "miniatura": "miniaturas/cu3_perro_labrador/4da29524eb994531ba420d9d12d31342.jpg"
+   },
+   {
+    "uid": "3e30496a6e1a42cbbe4160a5dfac894a",
+    "nombre": "Nonionellina labradorica",
+    "autor": "christina.belanger",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1363148,
+    "url": "https://sketchfab.com/3d-models/none-3e30496a6e1a42cbbe4160a5dfac894a",
+    "miniatura": "miniaturas/cu3_perro_labrador/3e30496a6e1a42cbbe4160a5dfac894a.jpg"
+   },
+   {
+    "uid": "45a2712b2e9d4ddfbc5d38e84012a1ed",
+    "nombre": "Baulito de madera",
+    "autor": "herrera",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 247520,
+    "url": "https://sketchfab.com/3d-models/none-45a2712b2e9d4ddfbc5d38e84012a1ed",
+    "miniatura": "miniaturas/cu3_perro_labrador/45a2712b2e9d4ddfbc5d38e84012a1ed.jpg"
+   },
+   {
+    "uid": "191c61d5a2664d3cb28dd1644e141530",
+    "nombre": "Joghi's Teeth Labrador",
+    "autor": "3dstreaming",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 383010,
+    "url": "https://sketchfab.com/3d-models/none-191c61d5a2664d3cb28dd1644e141530",
+    "miniatura": "miniaturas/cu3_perro_labrador/191c61d5a2664d3cb28dd1644e141530.jpg"
+   },
+   {
+    "uid": "0fb8fdf2defd4abcb69457577082c798",
+    "nombre": "Brume",
+    "autor": "misterwils",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4293,
+    "url": "https://sketchfab.com/3d-models/none-0fb8fdf2defd4abcb69457577082c798",
+    "miniatura": "miniaturas/cu3_perro_labrador/0fb8fdf2defd4abcb69457577082c798.jpg"
+   },
+   {
+    "uid": "b7fb8e98c4b046518f9df1f52831eda3",
+    "nombre": "3D Scan Raw Crystal - Labradorite",
+    "autor": "dragonxii2002",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4179,
+    "url": "https://sketchfab.com/3d-models/none-b7fb8e98c4b046518f9df1f52831eda3",
+    "miniatura": "miniaturas/cu3_perro_labrador/b7fb8e98c4b046518f9df1f52831eda3.jpg"
+   },
+   {
+    "uid": "52fe15d605dc48579b66259052955b31",
+    "nombre": "Kusilluchayoq Fuente",
+    "autor": "freddybl",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 16411,
+    "url": "https://sketchfab.com/3d-models/none-52fe15d605dc48579b66259052955b31",
+    "miniatura": "miniaturas/cu3_perro_labrador/52fe15d605dc48579b66259052955b31.jpg"
+   },
+   {
+    "uid": "f481234137a2430697efa36cafbaf247",
+    "nombre": "Labradorite ring",
+    "autor": "alexandre.toncelli",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4976736,
+    "url": "https://sketchfab.com/3d-models/none-f481234137a2430697efa36cafbaf247",
+    "miniatura": "miniaturas/cu3_perro_labrador/f481234137a2430697efa36cafbaf247.jpg"
+   },
+   {
+    "uid": "9585b0eb01754eebb0f2236a8874628a",
+    "nombre": "Jorge Ibor y Casamayor - Parque TÍO JORGE 200920",
+    "autor": "juanbrualla",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 38504,
+    "url": "https://sketchfab.com/3d-models/none-9585b0eb01754eebb0f2236a8874628a",
+    "miniatura": "miniaturas/cu3_perro_labrador/9585b0eb01754eebb0f2236a8874628a.jpg"
+   },
+   {
+    "uid": "e8f3a8002bde4bc4a3e4db8d32c7d320",
+    "nombre": "Labradorite 8-27",
+    "autor": "rocksandminerals",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1837580,
+    "url": "https://sketchfab.com/3d-models/none-e8f3a8002bde4bc4a3e4db8d32c7d320",
+    "miniatura": "miniaturas/cu3_perro_labrador/e8f3a8002bde4bc4a3e4db8d32c7d320.jpg"
+   },
+   {
+    "uid": "a32d287bc9fd476f855f0460a050f18d",
+    "nombre": "Nonionellina labradorica",
+    "autor": "christina.belanger",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 745938,
+    "url": "https://sketchfab.com/3d-models/none-a32d287bc9fd476f855f0460a050f18d",
+    "miniatura": "miniaturas/cu3_perro_labrador/a32d287bc9fd476f855f0460a050f18d.jpg"
+   },
+   {
+    "uid": "4d994609fb1f4e8ca71d41c019507cf9",
+    "nombre": "Labradorite",
+    "autor": "svt4ever",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 142148,
+    "url": "https://sketchfab.com/3d-models/none-4d994609fb1f4e8ca71d41c019507cf9",
+    "miniatura": "miniaturas/cu3_perro_labrador/4d994609fb1f4e8ca71d41c019507cf9.jpg"
+   },
+   {
+    "uid": "31ab90b0395a4ead80098debbde052b6",
+    "nombre": "PROJECT#1012 - LABRADOR - HOUSE EXTENSION",
+    "autor": "sdconcepts",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20100,
+    "url": "https://sketchfab.com/3d-models/none-31ab90b0395a4ead80098debbde052b6",
+    "miniatura": "miniaturas/cu3_perro_labrador/31ab90b0395a4ead80098debbde052b6.jpg"
+   },
+   {
+    "uid": "3b539aa357874d26b53163938cbe222f",
+    "nombre": "GEO001: Labradorite",
+    "autor": "geo001ucr",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1837580,
+    "url": "https://sketchfab.com/3d-models/none-3b539aa357874d26b53163938cbe222f",
+    "miniatura": "miniaturas/cu3_perro_labrador/3b539aa357874d26b53163938cbe222f.jpg"
+   },
+   {
+    "uid": "9789a7211424472584867dfd0a8089f6",
+    "nombre": "Labradorite",
+    "autor": "saracarena1",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1600000,
+    "url": "https://sketchfab.com/3d-models/none-9789a7211424472584867dfd0a8089f6",
+    "miniatura": "miniaturas/cu3_perro_labrador/9789a7211424472584867dfd0a8089f6.jpg"
+   },
+   {
+    "uid": "689f5226a35741438c97286ee24e1e3f",
+    "nombre": "LABRADORITE",
+    "autor": "Pholeos",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 241090,
+    "url": "https://sketchfab.com/3d-models/none-689f5226a35741438c97286ee24e1e3f",
+    "miniatura": "miniaturas/cu3_perro_labrador/689f5226a35741438c97286ee24e1e3f.jpg"
+   }
+  ],
+  "cu3_terraza_casa": [
+   {
+    "uid": "c7ba719a2eda44ff86d681d7a4511435",
+    "nombre": "Country House",
+    "autor": "neominigan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 294397,
+    "url": "https://sketchfab.com/3d-models/none-c7ba719a2eda44ff86d681d7a4511435",
+    "miniatura": "miniaturas/cu3_terraza_casa/c7ba719a2eda44ff86d681d7a4511435.jpg"
+   },
+   {
+    "uid": "a3075877a5b34866811517f60a597f73",
+    "nombre": "Veranda",
+    "autor": "QwertModels",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9261,
+    "url": "https://sketchfab.com/3d-models/none-a3075877a5b34866811517f60a597f73",
+    "miniatura": "miniaturas/cu3_terraza_casa/a3075877a5b34866811517f60a597f73.jpg"
+   },
+   {
+    "uid": "574ee9c52ef94b518ead1606b90b563e",
+    "nombre": "Wooden lounge chair with metal legs 3D model",
+    "autor": "varvashenko.lida",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 94908,
+    "url": "https://sketchfab.com/3d-models/none-574ee9c52ef94b518ead1606b90b563e",
+    "miniatura": "miniaturas/cu3_terraza_casa/574ee9c52ef94b518ead1606b90b563e.jpg"
+   },
+   {
+    "uid": "14408b583c3b4914864256aaccf146d2",
+    "nombre": "Veranda house",
+    "autor": "homedesign3d",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 152910,
+    "url": "https://sketchfab.com/3d-models/none-14408b583c3b4914864256aaccf146d2",
+    "miniatura": "miniaturas/cu3_terraza_casa/14408b583c3b4914864256aaccf146d2.jpg"
+   }
+  ],
+  "cu3_casa_caribe": [
+   {
+    "uid": "92ddd6adb9504c358027fb69350d081c",
+    "nombre": "Tia Dalma",
+    "autor": "shahabahmed",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 96243,
+    "url": "https://sketchfab.com/3d-models/none-92ddd6adb9504c358027fb69350d081c",
+    "miniatura": "miniaturas/cu3_casa_caribe/92ddd6adb9504c358027fb69350d081c.jpg"
+   },
+   {
+    "uid": "abcde3921f7f4db1a008a858d8458084",
+    "nombre": "\"Case\" de Martinique/ Martinique \"hut\"",
+    "autor": "mrcyb",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 1797692,
+    "url": "https://sketchfab.com/3d-models/none-abcde3921f7f4db1a008a858d8458084",
+    "miniatura": "miniaturas/cu3_casa_caribe/abcde3921f7f4db1a008a858d8458084.jpg"
+   },
+   {
+    "uid": "798593b5510048ae9f3f5ae32478530e",
+    "nombre": "Old Fire Station, Port of Spain",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-798593b5510048ae9f3f5ae32478530e",
+    "miniatura": "miniaturas/cu3_casa_caribe/798593b5510048ae9f3f5ae32478530e.jpg"
+   },
+   {
+    "uid": "228b2371b9b94d25a38a28ef72f0b660",
+    "nombre": "Sacred Heart Church, 21 Richmond St",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-228b2371b9b94d25a38a28ef72f0b660",
+    "miniatura": "miniaturas/cu3_casa_caribe/228b2371b9b94d25a38a28ef72f0b660.jpg"
+   },
+   {
+    "uid": "f452ddd981db4d1f90541e7887f8a969",
+    "nombre": "Police Headquarters, Port of Spain",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-f452ddd981db4d1f90541e7887f8a969",
+    "miniatura": "miniaturas/cu3_casa_caribe/f452ddd981db4d1f90541e7887f8a969.jpg"
+   },
+   {
+    "uid": "f01294e247ec4c35ac420620f28e5872",
+    "nombre": "Medical Office, Sander's Bay",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-f01294e247ec4c35ac420620f28e5872",
+    "miniatura": "miniaturas/cu3_casa_caribe/f01294e247ec4c35ac420620f28e5872.jpg"
+   },
+   {
+    "uid": "9ea7ddf648b645ab9be1db94dfaaf260",
+    "nombre": "Police Station, San Fernando",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-9ea7ddf648b645ab9be1db94dfaaf260",
+    "miniatura": "miniaturas/cu3_casa_caribe/9ea7ddf648b645ab9be1db94dfaaf260.jpg"
+   },
+   {
+    "uid": "4bc1662931c54e52a6237b0e0c18d404",
+    "nombre": "Red House Bar, San Fernando",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-4bc1662931c54e52a6237b0e0c18d404",
+    "miniatura": "miniaturas/cu3_casa_caribe/4bc1662931c54e52a6237b0e0c18d404.jpg"
+   },
+   {
+    "uid": "eb618242fe3f40618ff697b114372719",
+    "nombre": "Damian Street House, Woodbrook",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-eb618242fe3f40618ff697b114372719",
+    "miniatura": "miniaturas/cu3_casa_caribe/eb618242fe3f40618ff697b114372719.jpg"
+   },
+   {
+    "uid": "1095954f04a7464fb8de5f260d1f4942",
+    "nombre": "Lopinot House, Arouca",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-1095954f04a7464fb8de5f260d1f4942",
+    "miniatura": "miniaturas/cu3_casa_caribe/1095954f04a7464fb8de5f260d1f4942.jpg"
+   },
+   {
+    "uid": "ad963c670afe401dba896859565ce212",
+    "nombre": "Piparo Mud Volcano",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-ad963c670afe401dba896859565ce212",
+    "miniatura": "miniaturas/cu3_casa_caribe/ad963c670afe401dba896859565ce212.jpg"
+   },
+   {
+    "uid": "5a6e8687aeee4d8290ed83e4de7e85dc",
+    "nombre": "101 Queen Street, Port of Spain",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-5a6e8687aeee4d8290ed83e4de7e85dc",
+    "miniatura": "miniaturas/cu3_casa_caribe/5a6e8687aeee4d8290ed83e4de7e85dc.jpg"
+   },
+   {
+    "uid": "b746e1c47bc241468f64b5dadd0b118c",
+    "nombre": "Gingerbread House, Jerningham Ave (Demolished)",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-b746e1c47bc241468f64b5dadd0b118c",
+    "miniatura": "miniaturas/cu3_casa_caribe/b746e1c47bc241468f64b5dadd0b118c.jpg"
+   },
+   {
+    "uid": "67252e81d9ed45fba084ef9dd32aa4d7",
+    "nombre": "Killarney (Stollmeyer's Castle)",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-67252e81d9ed45fba084ef9dd32aa4d7",
+    "miniatura": "miniaturas/cu3_casa_caribe/67252e81d9ed45fba084ef9dd32aa4d7.jpg"
+   },
+   {
+    "uid": "bdb71688d463450cae090bb35479e37e",
+    "nombre": "House Structure Melina Grigoriadi",
+    "autor": "melina.osteo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9465,
+    "url": "https://sketchfab.com/3d-models/none-bdb71688d463450cae090bb35479e37e",
+    "miniatura": "miniaturas/cu3_casa_caribe/bdb71688d463450cae090bb35479e37e.jpg"
+   },
+   {
+    "uid": "537bca8656ed4aa69a85622bcbcab004",
+    "nombre": "Woodbrook House 4",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-537bca8656ed4aa69a85622bcbcab004",
+    "miniatura": "miniaturas/cu3_casa_caribe/537bca8656ed4aa69a85622bcbcab004.jpg"
+   },
+   {
+    "uid": "5617b4778bc5430b9dbbbf0d5fe3aae9",
+    "nombre": "Sweet Briar House Renovations",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-5617b4778bc5430b9dbbbf0d5fe3aae9",
+    "miniatura": "miniaturas/cu3_casa_caribe/5617b4778bc5430b9dbbbf0d5fe3aae9.jpg"
+   },
+   {
+    "uid": "900f91a37da8409c924158a2a6dd8c75",
+    "nombre": "Woodbrook House 3",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-900f91a37da8409c924158a2a6dd8c75",
+    "miniatura": "miniaturas/cu3_casa_caribe/900f91a37da8409c924158a2a6dd8c75.jpg"
+   },
+   {
+    "uid": "77af96de77cb4766a68dd8a3970b6731",
+    "nombre": "2 Wrightson Road, Port of Spain",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-77af96de77cb4766a68dd8a3970b6731",
+    "miniatura": "miniaturas/cu3_casa_caribe/77af96de77cb4766a68dd8a3970b6731.jpg"
+   },
+   {
+    "uid": "cfdcb0dbdeea451f8cbf0b3b523a47d6",
+    "nombre": "Old Shoemaker's Shop, Rancho Quemado",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-cfdcb0dbdeea451f8cbf0b3b523a47d6",
+    "miniatura": "miniaturas/cu3_casa_caribe/cfdcb0dbdeea451f8cbf0b3b523a47d6.jpg"
+   },
+   {
+    "uid": "99509908a6394d3795f962faec2cc9a7",
+    "nombre": "Greyfriars Church, Port of Spain (Demolished)",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-99509908a6394d3795f962faec2cc9a7",
+    "miniatura": "miniaturas/cu3_casa_caribe/99509908a6394d3795f962faec2cc9a7.jpg"
+   },
+   {
+    "uid": "cf9e27a8f5274cacaaa029887671967c",
+    "nombre": "Woodbrook House",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-cf9e27a8f5274cacaaa029887671967c",
+    "miniatura": "miniaturas/cu3_casa_caribe/cf9e27a8f5274cacaaa029887671967c.jpg"
+   },
+   {
+    "uid": "2db695c506af45238855229f45034298",
+    "nombre": "Duke Street House, Port of Spain",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-2db695c506af45238855229f45034298",
+    "miniatura": "miniaturas/cu3_casa_caribe/2db695c506af45238855229f45034298.jpg"
+   },
+   {
+    "uid": "6997c2b92c29421dab469a3a73f56d70",
+    "nombre": "George Cabral Street, St James (Demolished)",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-6997c2b92c29421dab469a3a73f56d70",
+    "miniatura": "miniaturas/cu3_casa_caribe/6997c2b92c29421dab469a3a73f56d70.jpg"
+   },
+   {
+    "uid": "6ccf8fc249f04d46adbfc181cd9eb7af",
+    "nombre": "25 Carlos Street, Woodbrook (Demolished)",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-6ccf8fc249f04d46adbfc181cd9eb7af",
+    "miniatura": "miniaturas/cu3_casa_caribe/6ccf8fc249f04d46adbfc181cd9eb7af.jpg"
+   },
+   {
+    "uid": "372f7a9fa5314b8b9812e6cdc23d819e",
+    "nombre": "134 St. Vincent Street, Port of Spain",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2520605,
+    "url": "https://sketchfab.com/3d-models/none-372f7a9fa5314b8b9812e6cdc23d819e",
+    "miniatura": "miniaturas/cu3_casa_caribe/372f7a9fa5314b8b9812e6cdc23d819e.jpg"
+   },
+   {
+    "uid": "1637c65a07f94f148c48a4334a5be8f0",
+    "nombre": "132 St. Vincent St, Port of Spain",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3698056,
+    "url": "https://sketchfab.com/3d-models/none-1637c65a07f94f148c48a4334a5be8f0",
+    "miniatura": "miniaturas/cu3_casa_caribe/1637c65a07f94f148c48a4334a5be8f0.jpg"
+   }
+  ],
+  "cu3_pergola": [
+   {
+    "uid": "36d26d2446be49e28e3ecabe7d9a690e",
+    "nombre": "1GGP03 Tom Pauwaert - English Cottage Diorama",
+    "autor": "tompauwaert",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 184754,
+    "url": "https://sketchfab.com/3d-models/none-36d26d2446be49e28e3ecabe7d9a690e",
+    "miniatura": "miniaturas/cu3_pergola/36d26d2446be49e28e3ecabe7d9a690e.jpg"
+   },
+   {
+    "uid": "f3b542ab6ae74abd996759ad4bab1bda",
+    "nombre": "Alcazar Garden Fountain",
+    "autor": "scaniverse",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 386101,
+    "url": "https://sketchfab.com/3d-models/none-f3b542ab6ae74abd996759ad4bab1bda",
+    "miniatura": "miniaturas/cu3_pergola/f3b542ab6ae74abd996759ad4bab1bda.jpg"
+   },
+   {
+    "uid": "5578bdc83ed743feb5f7c775197f5fbe",
+    "nombre": "CC0 - Rose Arch",
+    "autor": "plaggy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2824,
+    "url": "https://sketchfab.com/3d-models/none-5578bdc83ed743feb5f7c775197f5fbe",
+    "miniatura": "miniaturas/cu3_pergola/5578bdc83ed743feb5f7c775197f5fbe.jpg"
+   },
+   {
+    "uid": "76b8c08a890948f1b993df5a8cea6f23",
+    "nombre": "Zekate House, Albania",
+    "autor": "3dpast",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 301700,
+    "url": "https://sketchfab.com/3d-models/none-76b8c08a890948f1b993df5a8cea6f23",
+    "miniatura": "miniaturas/cu3_pergola/76b8c08a890948f1b993df5a8cea6f23.jpg"
+   },
+   {
+    "uid": "4c84a63e28c842d08656a9df77fe1ddd",
+    "nombre": "WholeTrees Band Shell",
+    "autor": "npdworkshop",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 637363,
+    "url": "https://sketchfab.com/3d-models/none-4c84a63e28c842d08656a9df77fe1ddd",
+    "miniatura": "miniaturas/cu3_pergola/4c84a63e28c842d08656a9df77fe1ddd.jpg"
+   },
+   {
+    "uid": "eca838f2af7b4969813747fbc64f207f",
+    "nombre": "Pergola",
+    "autor": "alex999m",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1857,
+    "url": "https://sketchfab.com/3d-models/none-eca838f2af7b4969813747fbc64f207f",
+    "miniatura": "miniaturas/cu3_pergola/eca838f2af7b4969813747fbc64f207f.jpg"
+   },
+   {
+    "uid": "ab557f112e804c129e5a631761b6394e",
+    "nombre": "Pergola Ivy Arch low poly",
+    "autor": "lages.miguel",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 892,
+    "url": "https://sketchfab.com/3d-models/none-ab557f112e804c129e5a631761b6394e",
+    "miniatura": "miniaturas/cu3_pergola/ab557f112e804c129e5a631761b6394e.jpg"
+   },
+   {
+    "uid": "113d9e97c35b44eeaec318e24bcac473",
+    "nombre": "Terrace Covering Pavilion Canopy Pergola Log Cab",
+    "autor": "k3v1nc0",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1088,
+    "url": "https://sketchfab.com/3d-models/none-113d9e97c35b44eeaec318e24bcac473",
+    "miniatura": "miniaturas/cu3_pergola/113d9e97c35b44eeaec318e24bcac473.jpg"
+   },
+   {
+    "uid": "7b0498406857432f8776deeeb09b9731",
+    "nombre": "Pergala Old",
+    "autor": "alex999m",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1146,
+    "url": "https://sketchfab.com/3d-models/none-7b0498406857432f8776deeeb09b9731",
+    "miniatura": "miniaturas/cu3_pergola/7b0498406857432f8776deeeb09b9731.jpg"
+   },
+   {
+    "uid": "b728a581a70547418e077d223d2a7828",
+    "nombre": "Pergola",
+    "autor": "michalbroz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 65208,
+    "url": "https://sketchfab.com/3d-models/none-b728a581a70547418e077d223d2a7828",
+    "miniatura": "miniaturas/cu3_pergola/b728a581a70547418e077d223d2a7828.jpg"
+   },
+   {
+    "uid": "3d0ac93e8dd14be3bbf50bdbe2de38a4",
+    "nombre": "Geometric Pergola",
+    "autor": "vSpline",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 69270,
+    "url": "https://sketchfab.com/3d-models/none-3d0ac93e8dd14be3bbf50bdbe2de38a4",
+    "miniatura": "miniaturas/cu3_pergola/3d0ac93e8dd14be3bbf50bdbe2de38a4.jpg"
+   },
+   {
+    "uid": "b223ef2d6bb9478e8a9ac8d99b5a248f",
+    "nombre": "Wooden Pergola on metal frame Деревянная Пергола",
+    "autor": "ostrogotsky",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1106,
+    "url": "https://sketchfab.com/3d-models/none-b223ef2d6bb9478e8a9ac8d99b5a248f",
+    "miniatura": "miniaturas/cu3_pergola/b223ef2d6bb9478e8a9ac8d99b5a248f.jpg"
+   },
+   {
+    "uid": "6f98b3548fa64f1d81ece268f700b300",
+    "nombre": "A Nice Modern House with Pergola",
+    "autor": "Chickenn42",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 60767,
+    "url": "https://sketchfab.com/3d-models/none-6f98b3548fa64f1d81ece268f700b300",
+    "miniatura": "miniaturas/cu3_pergola/6f98b3548fa64f1d81ece268f700b300.jpg"
+   },
+   {
+    "uid": "b438f868797e49e0965c19e5f98539ca",
+    "nombre": "PERGOLA MAKOVEC 3D",
+    "autor": "frantisekchalupny",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4234,
+    "url": "https://sketchfab.com/3d-models/none-b438f868797e49e0965c19e5f98539ca",
+    "miniatura": "miniaturas/cu3_pergola/b438f868797e49e0965c19e5f98539ca.jpg"
+   },
+   {
+    "uid": "548a3e80778a461aab9e1e6d69c854fc",
+    "nombre": "Carport and lean-to metal-frame, version 1",
+    "autor": "ostrogotsky",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18828,
+    "url": "https://sketchfab.com/3d-models/none-548a3e80778a461aab9e1e6d69c854fc",
+    "miniatura": "miniaturas/cu3_pergola/548a3e80778a461aab9e1e6d69c854fc.jpg"
+   },
+   {
+    "uid": "8c3bc542de7444c998f10e2d881ab7b7",
+    "nombre": "Pergola Geo",
+    "autor": "Navillus001",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20036,
+    "url": "https://sketchfab.com/3d-models/none-8c3bc542de7444c998f10e2d881ab7b7",
+    "miniatura": "miniaturas/cu3_pergola/8c3bc542de7444c998f10e2d881ab7b7.jpg"
+   },
+   {
+    "uid": "2f273946d42a400e8ba9de953791a7a4",
+    "nombre": "Patio",
+    "autor": "adoc_envisioneer",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10276,
+    "url": "https://sketchfab.com/3d-models/none-2f273946d42a400e8ba9de953791a7a4",
+    "miniatura": "miniaturas/cu3_pergola/2f273946d42a400e8ba9de953791a7a4.jpg"
+   },
+   {
+    "uid": "7d81a3ae0c3742409ab1bb904066f1ad",
+    "nombre": "Timber Pergola 3D Model",
+    "autor": "mastrutec",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 840,
+    "url": "https://sketchfab.com/3d-models/none-7d81a3ae0c3742409ab1bb904066f1ad",
+    "miniatura": "miniaturas/cu3_pergola/7d81a3ae0c3742409ab1bb904066f1ad.jpg"
+   },
+   {
+    "uid": "617c3a2c92cf40b3b0ae64a9df2f0e0c",
+    "nombre": "Wave- Pergola-CM",
+    "autor": "npdworkshop",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 621882,
+    "url": "https://sketchfab.com/3d-models/none-617c3a2c92cf40b3b0ae64a9df2f0e0c",
+    "miniatura": "miniaturas/cu3_pergola/617c3a2c92cf40b3b0ae64a9df2f0e0c.jpg"
+   },
+   {
+    "uid": "ff5091468b9349e9a83e2dff2541c8d5",
+    "nombre": "Low Poly Pergola",
+    "autor": "Miss.Demonica",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 324,
+    "url": "https://sketchfab.com/3d-models/none-ff5091468b9349e9a83e2dff2541c8d5",
+    "miniatura": "miniaturas/cu3_pergola/ff5091468b9349e9a83e2dff2541c8d5.jpg"
+   },
+   {
+    "uid": "c385f52a9f844c88a4ff2c35909c6613",
+    "nombre": "Timber - Pérgola",
+    "autor": "pepetrincado",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9440,
+    "url": "https://sketchfab.com/3d-models/none-c385f52a9f844c88a4ff2c35909c6613",
+    "miniatura": "miniaturas/cu3_pergola/c385f52a9f844c88a4ff2c35909c6613.jpg"
+   },
+   {
+    "uid": "81d9f040e2504797ba8d27bf7aea00f6",
+    "nombre": "Woodfire Oven Covering",
+    "autor": "swindonoak",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15952,
+    "url": "https://sketchfab.com/3d-models/none-81d9f040e2504797ba8d27bf7aea00f6",
+    "miniatura": "miniaturas/cu3_pergola/81d9f040e2504797ba8d27bf7aea00f6.jpg"
+   },
+   {
+    "uid": "13d8646f7c5941d1ac87c26f85308d84",
+    "nombre": "Wooden Pergola",
+    "autor": "hasmitha-bhetalam",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 771,
+    "url": "https://sketchfab.com/3d-models/none-13d8646f7c5941d1ac87c26f85308d84",
+    "miniatura": "miniaturas/cu3_pergola/13d8646f7c5941d1ac87c26f85308d84.jpg"
+   },
+   {
+    "uid": "36f0bdf3e4ac4614821c2f41887cdc07",
+    "nombre": "Pergolado",
+    "autor": "Wallace.Adriano",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 833966,
+    "url": "https://sketchfab.com/3d-models/none-36f0bdf3e4ac4614821c2f41887cdc07",
+    "miniatura": "miniaturas/cu3_pergola/36f0bdf3e4ac4614821c2f41887cdc07.jpg"
+   },
+   {
+    "uid": "130f84ab2bd143a89fe8f3d000852d5a",
+    "nombre": "Pergola",
+    "autor": "ugarychev",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 98738,
+    "url": "https://sketchfab.com/3d-models/none-130f84ab2bd143a89fe8f3d000852d5a",
+    "miniatura": "miniaturas/cu3_pergola/130f84ab2bd143a89fe8f3d000852d5a.jpg"
+   },
+   {
+    "uid": "87bb7d444e884b2fbd3b81ebbc652a7f",
+    "nombre": "Pergola",
+    "autor": "rafallink",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1640,
+    "url": "https://sketchfab.com/3d-models/none-87bb7d444e884b2fbd3b81ebbc652a7f",
+    "miniatura": "miniaturas/cu3_pergola/87bb7d444e884b2fbd3b81ebbc652a7f.jpg"
+   },
+   {
+    "uid": "0680fe1bd60343279824f50ba4c6f57f",
+    "nombre": "Pergola Sketchup",
+    "autor": "Hielke",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 845567,
+    "url": "https://sketchfab.com/3d-models/none-0680fe1bd60343279824f50ba4c6f57f",
+    "miniatura": "miniaturas/cu3_pergola/0680fe1bd60343279824f50ba4c6f57f.jpg"
+   },
+   {
+    "uid": "100de2d5f0b14cb0b371295d07308e1c",
+    "nombre": "Pergola",
+    "autor": "mrenee",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 43824,
+    "url": "https://sketchfab.com/3d-models/none-100de2d5f0b14cb0b371295d07308e1c",
+    "miniatura": "miniaturas/cu3_pergola/100de2d5f0b14cb0b371295d07308e1c.jpg"
+   },
+   {
+    "uid": "50abfa6f36134d2684fa29702ce6f0d8",
+    "nombre": "Pergola NEW",
+    "autor": "TRITON_74",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15758,
+    "url": "https://sketchfab.com/3d-models/none-50abfa6f36134d2684fa29702ce6f0d8",
+    "miniatura": "miniaturas/cu3_pergola/50abfa6f36134d2684fa29702ce6f0d8.jpg"
+   },
+   {
+    "uid": "66676c0601564caf9734b6345d4828fa",
+    "nombre": "Pergola",
+    "autor": "Luis.Vadillo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1024,
+    "url": "https://sketchfab.com/3d-models/none-66676c0601564caf9734b6345d4828fa",
+    "miniatura": "miniaturas/cu3_pergola/66676c0601564caf9734b6345d4828fa.jpg"
+   }
+  ]
+ }
+}

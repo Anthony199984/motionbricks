@@ -1,0 +1,342 @@
+{
+ "bajados": [
+  {
+   "destino": "sonidos/tp3_cortina/Mechanism_Electronic_Door_Electronic_Garage_Close__558425.mp3",
+   "mb": 0.25
+  },
+  {
+   "destino": "sonidos/tp3_cortina/Garage_Door_Closed.wav_by_ANARKYA_388068.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/tp3_cortina/Garage_Door_Close.wav_by_NHumphrey_200980.mp3",
+   "mb": 0.3
+  },
+  {
+   "destino": "sonidos/tp3_cortina/Open_amp_Close_Car_Door_in_Large_Shed.wav_by_Alex__379916.mp3",
+   "mb": 0.2
+  },
+  {
+   "destino": "sonidos/tp3_cortina/NZP_garage_door_close_lock.wav_by_Noizemaker_23191.mp3",
+   "mb": 0.26
+  },
+  {
+   "destino": "sonidos/tp3_cortina/Metal_Door_Opening_amp_Closing_Horror_Sound_2_.wav_529720.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/tp3_cortina2/Old_SLR_film_camera_-_Quick_series_of_shutter_cock_516484.mp3",
+   "mb": 0.26
+  },
+  {
+   "destino": "sonidos/tp3_cortina2/Van_shop_Shutter.wav_by_darranambler_350641.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/tp3_cortina2/Trash_can_falling_by_Nestra_498434.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/tp3_cortina2/jp_circuitbox_locked01.flac_by_JPolito_391724.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/tp3_cortina2/Metallic_door_-_Open_amp_close_by_Vrymaa_734930.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/tp3_cortina2/Wrench_Clanking_by_magnuswaker_530074.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/tp3_cortina3/train_door_open_2a_no_beeping_by_Yoyodaman234_341328.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/tp3_cortina3/Garage_Door_Closes.wav_by_dannydandanshababaloo_593200.mp3",
+   "mb": 0.2
+  },
+  {
+   "destino": "sonidos/tp3_vela/Candle_Buzz_1_by_unfa_185417.mp3",
+   "mb": 0.27
+  },
+  {
+   "destino": "sonidos/tp3_vela/Candle_flame_flickers_blown_out_by_DeqstersLab_826338.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/tp3_vela/Igniting_Candle_Lighter.wav_by_baidonovan_187348.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/tp3_vela/1.14_candle.wav_by_15GKovacovaJulie_461079.mp3",
+   "mb": 0.21
+  },
+  {
+   "destino": "sonidos/tp3_vela/Candle_lighting.wav_by_mfearnley_434145.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/tp3_vela/candle_in_the_fire.wav_by_cupido-1_608843.mp3",
+   "mb": 0.25
+  },
+  {
+   "destino": "sonidos/tp3_muerde/Apple_Bite_by_aidansamuel_540128.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/tp3_muerde/Crunching_Celery.mp3_by_Yin_Yang_Jake007_435357.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/tp3_muerde/Biting_into_an_apple.wav_by_775noise_494568.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/tp3_muerde/Wet_Crunching_2_by_Zott820_655707.mp3",
+   "mb": 0.3
+  },
+  {
+   "destino": "sonidos/tp3_muerde/Granola_Bar_Crack.wav_by_drewsimko_682877.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/tp3_muerde/bitinganapple.wav_by_BiancaDrey_543559.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "texturas/tp_tierra_dia/tierra_dia.jpg",
+   "mb": 5.84
+  },
+  {
+   "destino": "texturas/tp_tierra_noche/tierra_noche_dmsp.jpg",
+   "mb": 4.03
+  },
+  {
+   "destino": "texturas/tp_tierra_noche/tierra_noche_large.jpg",
+   "mb": 4.03
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "freesound": {
+  "tp3_cortina": [
+   {
+    "id": "558425",
+    "autor": "Nox_Sound",
+    "pagina": "https://freesound.org/people/Nox_Sound/sounds/558425/",
+    "titulo": "Mechanism_Electronic_Door_Electronic_Garage_Close_Stereo.wav by Nox_Sound",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_cortina/Mechanism_Electronic_Door_Electronic_Garage_Close__558425.mp3"
+   },
+   {
+    "id": "388068",
+    "autor": "ANARKYA",
+    "pagina": "https://freesound.org/people/ANARKYA/sounds/388068/",
+    "titulo": "Garage Door Closed.wav by ANARKYA",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_cortina/Garage_Door_Closed.wav_by_ANARKYA_388068.mp3"
+   },
+   {
+    "id": "200980",
+    "autor": "NHumphrey",
+    "pagina": "https://freesound.org/people/NHumphrey/sounds/200980/",
+    "titulo": "Garage Door Close.wav by NHumphrey",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_cortina/Garage_Door_Close.wav_by_NHumphrey_200980.mp3"
+   },
+   {
+    "id": "379916",
+    "autor": "Alex_hears_things",
+    "pagina": "https://freesound.org/people/Alex_hears_things/sounds/379916/",
+    "titulo": "Open &amp; Close Car Door in Large Shed.wav by Alex_hears_things",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_cortina/Open_amp_Close_Car_Door_in_Large_Shed.wav_by_Alex__379916.mp3"
+   },
+   {
+    "id": "23191",
+    "autor": "Noizemaker",
+    "pagina": "https://freesound.org/people/Noizemaker/sounds/23191/",
+    "titulo": "NZP garage door close lock.wav by Noizemaker",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_cortina/NZP_garage_door_close_lock.wav_by_Noizemaker_23191.mp3"
+   },
+   {
+    "id": "529720",
+    "autor": "iammokhtari",
+    "pagina": "https://freesound.org/people/iammokhtari/sounds/529720/",
+    "titulo": "Metal Door Opening &amp; Closing Horror Sound (2).wav by iammokhtari",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_cortina/Metal_Door_Opening_amp_Closing_Horror_Sound_2_.wav_529720.mp3"
+   }
+  ],
+  "tp3_cortina2": [
+   {
+    "id": "516484",
+    "autor": "khenshom",
+    "pagina": "https://freesound.org/people/khenshom/sounds/516484/",
+    "titulo": "Old SLR film camera - Quick series of shutter cocking and pressing by khenshom",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_cortina2/Old_SLR_film_camera_-_Quick_series_of_shutter_cock_516484.mp3"
+   },
+   {
+    "id": "350641",
+    "autor": "darranambler",
+    "pagina": "https://freesound.org/people/darranambler/sounds/350641/",
+    "titulo": "Van/shop Shutter.wav by darranambler",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_cortina2/Van_shop_Shutter.wav_by_darranambler_350641.mp3"
+   },
+   {
+    "id": "498434",
+    "autor": "Nestra",
+    "pagina": "https://freesound.org/people/Nestra/sounds/498434/",
+    "titulo": "Trash can falling by Nestra",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_cortina2/Trash_can_falling_by_Nestra_498434.mp3"
+   },
+   {
+    "id": "391724",
+    "autor": "JPolito",
+    "pagina": "https://freesound.org/people/JPolito/sounds/391724/",
+    "titulo": "jp_circuitbox_locked01.flac by JPolito",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_cortina2/jp_circuitbox_locked01.flac_by_JPolito_391724.mp3"
+   },
+   {
+    "id": "734930",
+    "autor": "Vrymaa",
+    "pagina": "https://freesound.org/people/Vrymaa/sounds/734930/",
+    "titulo": "Metallic door - Open &amp; close by Vrymaa",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_cortina2/Metallic_door_-_Open_amp_close_by_Vrymaa_734930.mp3"
+   },
+   {
+    "id": "530074",
+    "autor": "magnuswaker",
+    "pagina": "https://freesound.org/people/magnuswaker/sounds/530074/",
+    "titulo": "Wrench Clanking by magnuswaker",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_cortina2/Wrench_Clanking_by_magnuswaker_530074.mp3"
+   }
+  ],
+  "tp3_cortina3": [
+   {
+    "id": "341328",
+    "autor": "Yoyodaman234",
+    "pagina": "https://freesound.org/people/Yoyodaman234/sounds/341328/",
+    "titulo": "train door open 2a (no beeping) by Yoyodaman234",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_cortina3/train_door_open_2a_no_beeping_by_Yoyodaman234_341328.mp3"
+   },
+   {
+    "id": "593200",
+    "autor": "dannydandanshababaloo",
+    "pagina": "https://freesound.org/people/dannydandanshababaloo/sounds/593200/",
+    "titulo": "Garage Door Closes.wav by dannydandanshababaloo",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_cortina3/Garage_Door_Closes.wav_by_dannydandanshababaloo_593200.mp3"
+   }
+  ],
+  "tp3_vela": [
+   {
+    "id": "185417",
+    "autor": "unfa",
+    "pagina": "https://freesound.org/people/unfa/sounds/185417/",
+    "titulo": "Candle Buzz 1 by unfa",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_vela/Candle_Buzz_1_by_unfa_185417.mp3"
+   },
+   {
+    "id": "826338",
+    "autor": "DeqstersLab",
+    "pagina": "https://freesound.org/people/DeqstersLab/sounds/826338/",
+    "titulo": "Candle flame flickers, blown out by DeqstersLab",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_vela/Candle_flame_flickers_blown_out_by_DeqstersLab_826338.mp3"
+   },
+   {
+    "id": "187348",
+    "autor": "baidonovan",
+    "pagina": "https://freesound.org/people/baidonovan/sounds/187348/",
+    "titulo": "Igniting Candle Lighter.wav by baidonovan",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_vela/Igniting_Candle_Lighter.wav_by_baidonovan_187348.mp3"
+   },
+   {
+    "id": "461079",
+    "autor": "15GKovacovaJulie",
+    "pagina": "https://freesound.org/people/15GKovacovaJulie/sounds/461079/",
+    "titulo": "1.14_candle.wav by 15GKovacovaJulie",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_vela/1.14_candle.wav_by_15GKovacovaJulie_461079.mp3"
+   },
+   {
+    "id": "434145",
+    "autor": "mfearnley",
+    "pagina": "https://freesound.org/people/mfearnley/sounds/434145/",
+    "titulo": "Candle lighting.wav by mfearnley",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_vela/Candle_lighting.wav_by_mfearnley_434145.mp3"
+   },
+   {
+    "id": "608843",
+    "autor": "cupido-1",
+    "pagina": "https://freesound.org/people/cupido-1/sounds/608843/",
+    "titulo": "candle in the fire.wav by cupido-1",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_vela/candle_in_the_fire.wav_by_cupido-1_608843.mp3"
+   }
+  ],
+  "tp3_muerde": [
+   {
+    "id": "540128",
+    "autor": "aidansamuel",
+    "pagina": "https://freesound.org/people/aidansamuel/sounds/540128/",
+    "titulo": "Apple Bite by aidansamuel",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_muerde/Apple_Bite_by_aidansamuel_540128.mp3"
+   },
+   {
+    "id": "435357",
+    "autor": "Yin_Yang_Jake007",
+    "pagina": "https://freesound.org/people/Yin_Yang_Jake007/sounds/435357/",
+    "titulo": "Crunching Celery.mp3 by Yin_Yang_Jake007",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_muerde/Crunching_Celery.mp3_by_Yin_Yang_Jake007_435357.mp3"
+   },
+   {
+    "id": "494568",
+    "autor": "775noise",
+    "pagina": "https://freesound.org/people/775noise/sounds/494568/",
+    "titulo": "Biting into an apple.wav by 775noise",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_muerde/Biting_into_an_apple.wav_by_775noise_494568.mp3"
+   },
+   {
+    "id": "655707",
+    "autor": "Zott820",
+    "pagina": "https://freesound.org/people/Zott820/sounds/655707/",
+    "titulo": "Wet Crunching 2 by Zott820",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_muerde/Wet_Crunching_2_by_Zott820_655707.mp3"
+   },
+   {
+    "id": "682877",
+    "autor": "drewsimko",
+    "pagina": "https://freesound.org/people/drewsimko/sounds/682877/",
+    "titulo": "Granola_Bar_Crack.wav by drewsimko",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_muerde/Granola_Bar_Crack.wav_by_drewsimko_682877.mp3"
+   },
+   {
+    "id": "543559",
+    "autor": "BiancaDrey",
+    "pagina": "https://freesound.org/people/BiancaDrey/sounds/543559/",
+    "titulo": "bitinganapple.wav by BiancaDrey",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tp3_muerde/bitinganapple.wav_by_BiancaDrey_543559.mp3"
+   }
+  ]
+ }
+}

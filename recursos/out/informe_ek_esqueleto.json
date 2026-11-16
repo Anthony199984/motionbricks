@@ -1,0 +1,1248 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/ek_esq_rig/4aba9b2ced344bdf8f09656c6a298b50.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_rig/ee87f94159cf4767b1977659db3fb7aa.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_rig/9a6fd72aa31540f2a6a8e8d236778a2f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_rig/bbfe5e9f25854433b8fb8c4a3f4eaf33.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_rig/02b267e816a8477e9322108016b4b1dd.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_rig/a41b95fe24284d4888278a813e0fcdaf.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_rig/fa8eba4530a84f758ac50df3b4e168f0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_rig/73b952bacafc4150a36954a807b9d7bb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_rig/977da8918de94ca6a489f9fa23759fda.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_rig/f9a051959061490a9397d67396d3e060.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/06cb55f941d94dc8b95ac46f92d89e7c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/a3f7b44275cf4c489ad62c535268ac16.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/d9bcfdd88f5348549bc947226af7c314.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/a156e39a7559435e84a4bbce32a8428f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/fbb1cd1ced12430ba0ee8d67a6d0a7db.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/a1c936d72a9f4fa0ac15033339bd6efe.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/2b1936a5356e44eda6ca4bc22ba959af.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/bd1de4a8153a44fe93e728ca8e06701b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/cd59f48ed6a7492da639efdc55f2c1f8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/793024b30ba140c0822a2bb1e0f3d6c3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/c223cd775f924a2599d36daad83fe02e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/ee9ff3ea3cf446e7a67b4f286d25b84a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/4cf10e2dde6d4b12b6dccd25a4cf3b77.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/9210377c7a514cf6b48a31b9d3991ff3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/43f58b6c4408428c88ddf07d03670948.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/2acdfee4bd2c46619a8e83ba08c60af9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/412e0e9990d5464bae1173972a4fa38b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/e304748a4d704299bb1c37bb6f8cf40e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/164d776c65c44b5eac5932a11a716f6c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/d16736e243904210b938590a42c8ea88.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/27ba717c173a40b7841d2f2c6a89d823.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/dd9b3744c30e4bf58aa6f57da00c1eb0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/e2c03d26c8264453ba9991aa89420f40.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/9d0f02268ddb4400a1e258861e9a17ef.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/9550b93d28354568adceb360981caa1b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/383fce8fd19c4a198d9fdc8176cee537.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/33b64def1e7d40048224f589d49d68ec.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/12a4d2cf83f0406ca91d46a6e8485c53.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/a33c21782c874e508d252ff2f8a6c939.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/fc7f70b1b0184f518e1b115d0ef27bfd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/26aec177328d4d5bb4c644e827c523f3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/263514e15f3c4ef792796399876ca8a8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/6e0be22c1f4d49969b1d104b6bd1b851.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/8c05402bfd194032877045dc2a1c02ac.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/77076cd66a5d430b891e5985906d7585.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/f18b6609047d4183a4d7c72abca9e553.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/9f7b04b6973f4684a4d7392876bce696.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/568a4d4d287449c49ac85800d2e239de.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/b6d4ed2b12264beca9d696d1b3174819.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/a3e77bfcdc014264baba69a5951d324b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/2957d5c06a154703a36cd9b82b797a48.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/fd09453c1afa43f99f3663cd6d2e4a93.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/d5838812f0464c3daee9dec908f6f47c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/5ae4e43c22424f38b922d8952b633b3b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/ff2c95b5b37d4ba28cb6d5deb1fd54c3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/72dbc65f27d449d19fb1c3cf95857ccc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/577b37fe8a4d46878d1cb8ccec0c805e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/1fb9274859a14a368aabb9f54846a598.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/f84ef83ed7334544b59f5fc3bcf2ffd5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/c523f360a34545da9ddcb796e6256e03.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/b609a8c52be74eaf82f3a1713d264779.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/7758742ed2dd49f49c8a107c9845f597.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/65cbe69004924bbc940cd74276ba90fb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/87aeb0ffe62d422aacba510ab33bdb5f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/377ddbb38f9c46b7b6b1e639010fb7d3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/7da4d041c354438494a423da744593d4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/6ef171b93a964203b7b72335e512a311.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/5b5c0765964949439b0b7dc8e80d7f2f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/cebb454722b44e5ea2c93793d1d30cae.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_anim/26f50d128d7848d981e9295a481e1be9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_real/47acc754a2754d73902dab2ec46fd416.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_real/568a4d4d287449c49ac85800d2e239de.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_real/a41b95fe24284d4888278a813e0fcdaf.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_real/3dab0ec337ea4c9882876b121971c282.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_real/4a7099497cc54cf1b9d89a0c984e8e42.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_mixamo/4cf10e2dde6d4b12b6dccd25a4cf3b77.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_mixamo/e304748a4d704299bb1c37bb6f8cf40e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_mixamo/d0784ac4263d40efb74510bc948cc844.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_mixamo/d0c9919aec004fd39d65ce7a7960969b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_mixamo/c6dae45c122e4b3f9e1ad91ffa7c8a1f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_mixamo/76eb28a30c4743358822e168a74d4634.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_mixamo/bf64ce56f2da41ac957df0f22695de77.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/ek_esq_mixamo/20d42c99fcf2418ebea7ca843a86d903.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_mixamo/e4cc136c294f4a2c877ddceec0aea00b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_mixamo/ed6d66cdd8b1443b8fcbf078962cc319.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_mixamo/f6a02de6ca1d4e63b7e2e020e9e15468.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_mixamo/ae224a1a50cd4f4ba3d5728f56bf8306.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/ek_esq_mixamo/f6ad453fecbf4190b588d47bfa721591.jpg",
+   "mb": 0.0
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "ek_esq_rig": [
+   {
+    "uid": "4aba9b2ced344bdf8f09656c6a298b50",
+    "nombre": "Human Thorax",
+    "autor": "thunderpig",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1690040,
+    "url": "https://sketchfab.com/3d-models/none-4aba9b2ced344bdf8f09656c6a298b50",
+    "miniatura": "miniaturas/ek_esq_rig/4aba9b2ced344bdf8f09656c6a298b50.jpg"
+   },
+   {
+    "uid": "ee87f94159cf4767b1977659db3fb7aa",
+    "nombre": "Skeleton Rig",
+    "autor": "CreativeMachine",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 267368,
+    "url": "https://sketchfab.com/3d-models/none-ee87f94159cf4767b1977659db3fb7aa",
+    "miniatura": "miniaturas/ek_esq_rig/ee87f94159cf4767b1977659db3fb7aa.jpg"
+   },
+   {
+    "uid": "9a6fd72aa31540f2a6a8e8d236778a2f",
+    "nombre": "Low Poly Male Base - Slender",
+    "autor": "mesh-base",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3754,
+    "url": "https://sketchfab.com/3d-models/none-9a6fd72aa31540f2a6a8e8d236778a2f",
+    "miniatura": "miniaturas/ek_esq_rig/9a6fd72aa31540f2a6a8e8d236778a2f.jpg"
+   },
+   {
+    "uid": "bbfe5e9f25854433b8fb8c4a3f4eaf33",
+    "nombre": "Low poly skeleton ribs",
+    "autor": "assetfactory",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 9332,
+    "url": "https://sketchfab.com/3d-models/none-bbfe5e9f25854433b8fb8c4a3f4eaf33",
+    "miniatura": "miniaturas/ek_esq_rig/bbfe5e9f25854433b8fb8c4a3f4eaf33.jpg"
+   },
+   {
+    "uid": "02b267e816a8477e9322108016b4b1dd",
+    "nombre": "sans (Download through annotation link!)",
+    "autor": "DreamNoms",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 17130,
+    "url": "https://sketchfab.com/3d-models/none-02b267e816a8477e9322108016b4b1dd",
+    "miniatura": "miniaturas/ek_esq_rig/02b267e816a8477e9322108016b4b1dd.jpg"
+   },
+   {
+    "uid": "a41b95fe24284d4888278a813e0fcdaf",
+    "nombre": "Female Demo - WITH 30 ANIMATIONS-36 MORPHS",
+    "autor": "jasirkt",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 5498,
+    "url": "https://sketchfab.com/3d-models/none-a41b95fe24284d4888278a813e0fcdaf",
+    "miniatura": "miniaturas/ek_esq_rig/a41b95fe24284d4888278a813e0fcdaf.jpg"
+   },
+   {
+    "uid": "fa8eba4530a84f758ac50df3b4e168f0",
+    "nombre": "Human Heart Base",
+    "autor": "apil_tgh",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 38358,
+    "url": "https://sketchfab.com/3d-models/none-fa8eba4530a84f758ac50df3b4e168f0",
+    "miniatura": "miniaturas/ek_esq_rig/fa8eba4530a84f758ac50df3b4e168f0.jpg"
+   },
+   {
+    "uid": "73b952bacafc4150a36954a807b9d7bb",
+    "nombre": "LowPoly Humanoid Rig",
+    "autor": "mephates",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 756,
+    "url": "https://sketchfab.com/3d-models/none-73b952bacafc4150a36954a807b9d7bb",
+    "miniatura": "miniaturas/ek_esq_rig/73b952bacafc4150a36954a807b9d7bb.jpg"
+   },
+   {
+    "uid": "977da8918de94ca6a489f9fa23759fda",
+    "nombre": "Ahriana",
+    "autor": "Ahriana",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6758,
+    "url": "https://sketchfab.com/3d-models/none-977da8918de94ca6a489f9fa23759fda",
+    "miniatura": "miniaturas/ek_esq_rig/977da8918de94ca6a489f9fa23759fda.jpg"
+   },
+   {
+    "uid": "f9a051959061490a9397d67396d3e060",
+    "nombre": "Quentin Alpha 1.5 RIGGED (Read desc) HN2",
+    "autor": "zvackhack",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 68001,
+    "url": "https://sketchfab.com/3d-models/none-f9a051959061490a9397d67396d3e060",
+    "miniatura": "miniaturas/ek_esq_rig/f9a051959061490a9397d67396d3e060.jpg"
+   }
+  ],
+  "ek_esq_anim": [
+   {
+    "uid": "06cb55f941d94dc8b95ac46f92d89e7c",
+    "nombre": "Animated triceratops skeleton",
+    "autor": "Zacxophone",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 6,
+    "caras": 29160,
+    "url": "https://sketchfab.com/3d-models/none-06cb55f941d94dc8b95ac46f92d89e7c",
+    "miniatura": "miniaturas/ek_esq_anim/06cb55f941d94dc8b95ac46f92d89e7c.jpg"
+   },
+   {
+    "uid": "a3f7b44275cf4c489ad62c535268ac16",
+    "nombre": "Skeleton Lord",
+    "autor": "bumstrum",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 8665,
+    "url": "https://sketchfab.com/3d-models/none-a3f7b44275cf4c489ad62c535268ac16",
+    "miniatura": "miniaturas/ek_esq_anim/a3f7b44275cf4c489ad62c535268ac16.jpg"
+   },
+   {
+    "uid": "d9bcfdd88f5348549bc947226af7c314",
+    "nombre": "Polyart Zombies with Animations Free Pack",
+    "autor": "denysalmaral",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 18840,
+    "url": "https://sketchfab.com/3d-models/none-d9bcfdd88f5348549bc947226af7c314",
+    "miniatura": "miniaturas/ek_esq_anim/d9bcfdd88f5348549bc947226af7c314.jpg"
+   },
+   {
+    "uid": "a156e39a7559435e84a4bbce32a8428f",
+    "nombre": "Fortnite - The Paradigm",
+    "autor": "goldermor",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 22562,
+    "url": "https://sketchfab.com/3d-models/none-a156e39a7559435e84a4bbce32a8428f",
+    "miniatura": "miniaturas/ek_esq_anim/a156e39a7559435e84a4bbce32a8428f.jpg"
+   },
+   {
+    "uid": "fbb1cd1ced12430ba0ee8d67a6d0a7db",
+    "nombre": "Armoured Maiden 3D Preview for Gmod",
+    "autor": "haoliu95",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 48795,
+    "url": "https://sketchfab.com/3d-models/none-fbb1cd1ced12430ba0ee8d67a6d0a7db",
+    "miniatura": "miniaturas/ek_esq_anim/fbb1cd1ced12430ba0ee8d67a6d0a7db.jpg"
+   },
+   {
+    "uid": "a1c936d72a9f4fa0ac15033339bd6efe",
+    "nombre": "Skull",
+    "autor": "soidev",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 60618,
+    "url": "https://sketchfab.com/3d-models/none-a1c936d72a9f4fa0ac15033339bd6efe",
+    "miniatura": "miniaturas/ek_esq_anim/a1c936d72a9f4fa0ac15033339bd6efe.jpg"
+   },
+   {
+    "uid": "2b1936a5356e44eda6ca4bc22ba959af",
+    "nombre": "Animated Skeleton Casts Spell with Hands",
+    "autor": "LasquetiSpice",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 99799,
+    "url": "https://sketchfab.com/3d-models/none-2b1936a5356e44eda6ca4bc22ba959af",
+    "miniatura": "miniaturas/ek_esq_anim/2b1936a5356e44eda6ca4bc22ba959af.jpg"
+   },
+   {
+    "uid": "bd1de4a8153a44fe93e728ca8e06701b",
+    "nombre": "Skeleton (Animated)",
+    "autor": "one_boy",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1412,
+    "url": "https://sketchfab.com/3d-models/none-bd1de4a8153a44fe93e728ca8e06701b",
+    "miniatura": "miniaturas/ek_esq_anim/bd1de4a8153a44fe93e728ca8e06701b.jpg"
+   },
+   {
+    "uid": "cd59f48ed6a7492da639efdc55f2c1f8",
+    "nombre": "Stickman",
+    "autor": "komira",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 1472,
+    "url": "https://sketchfab.com/3d-models/none-cd59f48ed6a7492da639efdc55f2c1f8",
+    "miniatura": "miniaturas/ek_esq_anim/cd59f48ed6a7492da639efdc55f2c1f8.jpg"
+   },
+   {
+    "uid": "793024b30ba140c0822a2bb1e0f3d6c3",
+    "nombre": "Dragonfall Temple",
+    "autor": "patrix",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 1,
+    "caras": 133947,
+    "url": "https://sketchfab.com/3d-models/none-793024b30ba140c0822a2bb1e0f3d6c3",
+    "miniatura": "miniaturas/ek_esq_anim/793024b30ba140c0822a2bb1e0f3d6c3.jpg"
+   },
+   {
+    "uid": "c223cd775f924a2599d36daad83fe02e",
+    "nombre": "Timeframe Skeleton Orchestra",
+    "autor": "Rysky",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 325668,
+    "url": "https://sketchfab.com/3d-models/none-c223cd775f924a2599d36daad83fe02e",
+    "miniatura": "miniaturas/ek_esq_anim/c223cd775f924a2599d36daad83fe02e.jpg"
+   },
+   {
+    "uid": "ee9ff3ea3cf446e7a67b4f286d25b84a",
+    "nombre": "Tree (PS1/PSX Style)",
+    "autor": "jeandiz",
+    "licencia": "Free Standard",
+    "animaciones": 1,
+    "caras": 1141,
+    "url": "https://sketchfab.com/3d-models/none-ee9ff3ea3cf446e7a67b4f286d25b84a",
+    "miniatura": "miniaturas/ek_esq_anim/ee9ff3ea3cf446e7a67b4f286d25b84a.jpg"
+   },
+   {
+    "uid": "4cf10e2dde6d4b12b6dccd25a4cf3b77",
+    "nombre": "Girl with clothes. Worker set",
+    "autor": "cattleya",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 2469,
+    "url": "https://sketchfab.com/3d-models/none-4cf10e2dde6d4b12b6dccd25a4cf3b77",
+    "miniatura": "miniaturas/ek_esq_anim/4cf10e2dde6d4b12b6dccd25a4cf3b77.jpg"
+   },
+   {
+    "uid": "9210377c7a514cf6b48a31b9d3991ff3",
+    "nombre": "Skeleton animated",
+    "autor": "danielmclogan",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6821,
+    "url": "https://sketchfab.com/3d-models/none-9210377c7a514cf6b48a31b9d3991ff3",
+    "miniatura": "miniaturas/ek_esq_anim/9210377c7a514cf6b48a31b9d3991ff3.jpg"
+   },
+   {
+    "uid": "43f58b6c4408428c88ddf07d03670948",
+    "nombre": "Mechanical Caterpillar",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 539130,
+    "url": "https://sketchfab.com/3d-models/none-43f58b6c4408428c88ddf07d03670948",
+    "miniatura": "miniaturas/ek_esq_anim/43f58b6c4408428c88ddf07d03670948.jpg"
+   },
+   {
+    "uid": "2acdfee4bd2c46619a8e83ba08c60af9",
+    "nombre": "Roger Dubuis Lamborghini Huracan Black by SDC",
+    "autor": "Lambo_SC04",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 122442,
+    "url": "https://sketchfab.com/3d-models/none-2acdfee4bd2c46619a8e83ba08c60af9",
+    "miniatura": "miniaturas/ek_esq_anim/2acdfee4bd2c46619a8e83ba08c60af9.jpg"
+   },
+   {
+    "uid": "412e0e9990d5464bae1173972a4fa38b",
+    "nombre": "Skeleton - low tier enemy",
+    "autor": "Starven38",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 5,
+    "caras": 81539,
+    "url": "https://sketchfab.com/3d-models/none-412e0e9990d5464bae1173972a4fa38b",
+    "miniatura": "miniaturas/ek_esq_anim/412e0e9990d5464bae1173972a4fa38b.jpg"
+   },
+   {
+    "uid": "e304748a4d704299bb1c37bb6f8cf40e",
+    "nombre": "Game character, Girl. Rigged, textured, animated",
+    "autor": "gbarzu",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 23300,
+    "url": "https://sketchfab.com/3d-models/none-e304748a4d704299bb1c37bb6f8cf40e",
+    "miniatura": "miniaturas/ek_esq_anim/e304748a4d704299bb1c37bb6f8cf40e.jpg"
+   },
+   {
+    "uid": "164d776c65c44b5eac5932a11a716f6c",
+    "nombre": "WIP - A Crappy Animator - 1",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 99932,
+    "url": "https://sketchfab.com/3d-models/none-164d776c65c44b5eac5932a11a716f6c",
+    "miniatura": "miniaturas/ek_esq_anim/164d776c65c44b5eac5932a11a716f6c.jpg"
+   },
+   {
+    "uid": "d16736e243904210b938590a42c8ea88",
+    "nombre": "Armored Cabinet",
+    "autor": "rayferric",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4581,
+    "url": "https://sketchfab.com/3d-models/none-d16736e243904210b938590a42c8ea88",
+    "miniatura": "miniaturas/ek_esq_anim/d16736e243904210b938590a42c8ea88.jpg"
+   },
+   {
+    "uid": "27ba717c173a40b7841d2f2c6a89d823",
+    "nombre": "Medium Mech Striker",
+    "autor": "MSGDI",
+    "licencia": "CC Attribution",
+    "animaciones": 41,
+    "caras": 10778,
+    "url": "https://sketchfab.com/3d-models/none-27ba717c173a40b7841d2f2c6a89d823",
+    "miniatura": "miniaturas/ek_esq_anim/27ba717c173a40b7841d2f2c6a89d823.jpg"
+   },
+   {
+    "uid": "dd9b3744c30e4bf58aa6f57da00c1eb0",
+    "nombre": "TERMINATOR: T-800 Endo-Skeleton (Damaged)",
+    "autor": "K3NMA",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 8244,
+    "url": "https://sketchfab.com/3d-models/none-dd9b3744c30e4bf58aa6f57da00c1eb0",
+    "miniatura": "miniaturas/ek_esq_anim/dd9b3744c30e4bf58aa6f57da00c1eb0.jpg"
+   },
+   {
+    "uid": "e2c03d26c8264453ba9991aa89420f40",
+    "nombre": "Animated Standing Skeleton Casts Magic Attack",
+    "autor": "LasquetiSpice",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 99799,
+    "url": "https://sketchfab.com/3d-models/none-e2c03d26c8264453ba9991aa89420f40",
+    "miniatura": "miniaturas/ek_esq_anim/e2c03d26c8264453ba9991aa89420f40.jpg"
+   },
+   {
+    "uid": "9d0f02268ddb4400a1e258861e9a17ef",
+    "nombre": "Skull squad",
+    "autor": "norberto3d",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 1,
+    "caras": 4552,
+    "url": "https://sketchfab.com/3d-models/none-9d0f02268ddb4400a1e258861e9a17ef",
+    "miniatura": "miniaturas/ek_esq_anim/9d0f02268ddb4400a1e258861e9a17ef.jpg"
+   },
+   {
+    "uid": "9550b93d28354568adceb360981caa1b",
+    "nombre": "Free Animated Low Poly Cartoon Skeleton",
+    "autor": "overactiongamestudio",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 6558,
+    "url": "https://sketchfab.com/3d-models/none-9550b93d28354568adceb360981caa1b",
+    "miniatura": "miniaturas/ek_esq_anim/9550b93d28354568adceb360981caa1b.jpg"
+   },
+   {
+    "uid": "383fce8fd19c4a198d9fdc8176cee537",
+    "nombre": "Mechanical Hummingbird",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 1,
+    "caras": 87169,
+    "url": "https://sketchfab.com/3d-models/none-383fce8fd19c4a198d9fdc8176cee537",
+    "miniatura": "miniaturas/ek_esq_anim/383fce8fd19c4a198d9fdc8176cee537.jpg"
+   },
+   {
+    "uid": "33b64def1e7d40048224f589d49d68ec",
+    "nombre": "Irish deer fossil",
+    "autor": "Uninspirational",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 198496,
+    "url": "https://sketchfab.com/3d-models/none-33b64def1e7d40048224f589d49d68ec",
+    "miniatura": "miniaturas/ek_esq_anim/33b64def1e7d40048224f589d49d68ec.jpg"
+   },
+   {
+    "uid": "12a4d2cf83f0406ca91d46a6e8485c53",
+    "nombre": "Deadbeat",
+    "autor": "BunnyGameTW",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 164506,
+    "url": "https://sketchfab.com/3d-models/none-12a4d2cf83f0406ca91d46a6e8485c53",
+    "miniatura": "miniaturas/ek_esq_anim/12a4d2cf83f0406ca91d46a6e8485c53.jpg"
+   },
+   {
+    "uid": "a33c21782c874e508d252ff2f8a6c939",
+    "nombre": "Twin DShK Assault rig.",
+    "autor": "Sleepykingzzz",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 23199,
+    "url": "https://sketchfab.com/3d-models/none-a33c21782c874e508d252ff2f8a6c939",
+    "miniatura": "miniaturas/ek_esq_anim/a33c21782c874e508d252ff2f8a6c939.jpg"
+   },
+   {
+    "uid": "fc7f70b1b0184f518e1b115d0ef27bfd",
+    "nombre": "Ghasklle",
+    "autor": "LironHero",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 624,
+    "url": "https://sketchfab.com/3d-models/none-fc7f70b1b0184f518e1b115d0ef27bfd",
+    "miniatura": "miniaturas/ek_esq_anim/fc7f70b1b0184f518e1b115d0ef27bfd.jpg"
+   },
+   {
+    "uid": "26aec177328d4d5bb4c644e827c523f3",
+    "nombre": "Angel Devil",
+    "autor": "joel3d",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 210775,
+    "url": "https://sketchfab.com/3d-models/none-26aec177328d4d5bb4c644e827c523f3",
+    "miniatura": "miniaturas/ek_esq_anim/26aec177328d4d5bb4c644e827c523f3.jpg"
+   },
+   {
+    "uid": "263514e15f3c4ef792796399876ca8a8",
+    "nombre": "Zombie: The Burnt",
+    "autor": "K3NMA",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 33920,
+    "url": "https://sketchfab.com/3d-models/none-263514e15f3c4ef792796399876ca8a8",
+    "miniatura": "miniaturas/ek_esq_anim/263514e15f3c4ef792796399876ca8a8.jpg"
+   },
+   {
+    "uid": "6e0be22c1f4d49969b1d104b6bd1b851",
+    "nombre": "\"Dead station\" (natureandcivchallenge)",
+    "autor": "AlexanderRuz",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 322300,
+    "url": "https://sketchfab.com/3d-models/none-6e0be22c1f4d49969b1d104b6bd1b851",
+    "miniatura": "miniaturas/ek_esq_anim/6e0be22c1f4d49969b1d104b6bd1b851.jpg"
+   },
+   {
+    "uid": "8c05402bfd194032877045dc2a1c02ac",
+    "nombre": "Skeleton Walking Animation",
+    "autor": "christianrehm",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 96140,
+    "url": "https://sketchfab.com/3d-models/none-8c05402bfd194032877045dc2a1c02ac",
+    "miniatura": "miniaturas/ek_esq_anim/8c05402bfd194032877045dc2a1c02ac.jpg"
+   },
+   {
+    "uid": "77076cd66a5d430b891e5985906d7585",
+    "nombre": "Muse - The Dark Side",
+    "autor": "zemasu",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 233297,
+    "url": "https://sketchfab.com/3d-models/none-77076cd66a5d430b891e5985906d7585",
+    "miniatura": "miniaturas/ek_esq_anim/77076cd66a5d430b891e5985906d7585.jpg"
+   },
+   {
+    "uid": "f18b6609047d4183a4d7c72abca9e553",
+    "nombre": "Realistic Skull With Animation",
+    "autor": "theauditor",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 29800,
+    "url": "https://sketchfab.com/3d-models/none-f18b6609047d4183a4d7c72abca9e553",
+    "miniatura": "miniaturas/ek_esq_anim/f18b6609047d4183a4d7c72abca9e553.jpg"
+   },
+   {
+    "uid": "9f7b04b6973f4684a4d7392876bce696",
+    "nombre": "Gentle Stickman",
+    "autor": "komira",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 1896,
+    "url": "https://sketchfab.com/3d-models/none-9f7b04b6973f4684a4d7392876bce696",
+    "miniatura": "miniaturas/ek_esq_anim/9f7b04b6973f4684a4d7392876bce696.jpg"
+   },
+   {
+    "uid": "568a4d4d287449c49ac85800d2e239de",
+    "nombre": "Man",
+    "autor": "savounited",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 50837,
+    "url": "https://sketchfab.com/3d-models/none-568a4d4d287449c49ac85800d2e239de",
+    "miniatura": "miniaturas/ek_esq_anim/568a4d4d287449c49ac85800d2e239de.jpg"
+   },
+   {
+    "uid": "b6d4ed2b12264beca9d696d1b3174819",
+    "nombre": "Mutant wither skeleton",
+    "autor": "ghostaryan83",
+    "licencia": "CC Attribution",
+    "animaciones": 7,
+    "caras": 960,
+    "url": "https://sketchfab.com/3d-models/none-b6d4ed2b12264beca9d696d1b3174819",
+    "miniatura": "miniaturas/ek_esq_anim/b6d4ed2b12264beca9d696d1b3174819.jpg"
+   },
+   {
+    "uid": "a3e77bfcdc014264baba69a5951d324b",
+    "nombre": "Skeleton- Macarena Dance",
+    "autor": "yigitayyildiz",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 20700,
+    "url": "https://sketchfab.com/3d-models/none-a3e77bfcdc014264baba69a5951d324b",
+    "miniatura": "miniaturas/ek_esq_anim/a3e77bfcdc014264baba69a5951d324b.jpg"
+   },
+   {
+    "uid": "2957d5c06a154703a36cd9b82b797a48",
+    "nombre": "Animated Skeleton Magic Attack",
+    "autor": "LasquetiSpice",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 99799,
+    "url": "https://sketchfab.com/3d-models/none-2957d5c06a154703a36cd9b82b797a48",
+    "miniatura": "miniaturas/ek_esq_anim/2957d5c06a154703a36cd9b82b797a48.jpg"
+   },
+   {
+    "uid": "fd09453c1afa43f99f3663cd6d2e4a93",
+    "nombre": "WIP - A Crappy Animator - 2",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 99932,
+    "url": "https://sketchfab.com/3d-models/none-fd09453c1afa43f99f3663cd6d2e4a93",
+    "miniatura": "miniaturas/ek_esq_anim/fd09453c1afa43f99f3663cd6d2e4a93.jpg"
+   },
+   {
+    "uid": "d5838812f0464c3daee9dec908f6f47c",
+    "nombre": "Samus Aran Varia Suit Rigged",
+    "autor": "kwstasg",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 61185,
+    "url": "https://sketchfab.com/3d-models/none-d5838812f0464c3daee9dec908f6f47c",
+    "miniatura": "miniaturas/ek_esq_anim/d5838812f0464c3daee9dec908f6f47c.jpg"
+   },
+   {
+    "uid": "5ae4e43c22424f38b922d8952b633b3b",
+    "nombre": "Timeframe Full Body Animation \"Blending\"",
+    "autor": "Rysky",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 35064,
+    "url": "https://sketchfab.com/3d-models/none-5ae4e43c22424f38b922d8952b633b3b",
+    "miniatura": "miniaturas/ek_esq_anim/5ae4e43c22424f38b922d8952b633b3b.jpg"
+   },
+   {
+    "uid": "ff2c95b5b37d4ba28cb6d5deb1fd54c3",
+    "nombre": "Animated Human Skeleton Casts Magic Spell",
+    "autor": "LasquetiSpice",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 99799,
+    "url": "https://sketchfab.com/3d-models/none-ff2c95b5b37d4ba28cb6d5deb1fd54c3",
+    "miniatura": "miniaturas/ek_esq_anim/ff2c95b5b37d4ba28cb6d5deb1fd54c3.jpg"
+   },
+   {
+    "uid": "72dbc65f27d449d19fb1c3cf95857ccc",
+    "nombre": "Grumpy Skeleton Walk Cycle",
+    "autor": "TK_Pong",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 132556,
+    "url": "https://sketchfab.com/3d-models/none-72dbc65f27d449d19fb1c3cf95857ccc",
+    "miniatura": "miniaturas/ek_esq_anim/72dbc65f27d449d19fb1c3cf95857ccc.jpg"
+   },
+   {
+    "uid": "577b37fe8a4d46878d1cb8ccec0c805e",
+    "nombre": "Skeletor",
+    "autor": "pan_stasian",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 32458,
+    "url": "https://sketchfab.com/3d-models/none-577b37fe8a4d46878d1cb8ccec0c805e",
+    "miniatura": "miniaturas/ek_esq_anim/577b37fe8a4d46878d1cb8ccec0c805e.jpg"
+   },
+   {
+    "uid": "1fb9274859a14a368aabb9f54846a598",
+    "nombre": "Skeleton 1",
+    "autor": "Kapi777",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 2,
+    "caras": 4701,
+    "url": "https://sketchfab.com/3d-models/none-1fb9274859a14a368aabb9f54846a598",
+    "miniatura": "miniaturas/ek_esq_anim/1fb9274859a14a368aabb9f54846a598.jpg"
+   },
+   {
+    "uid": "f84ef83ed7334544b59f5fc3bcf2ffd5",
+    "nombre": "Skeleton",
+    "autor": "BConnolly",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 1298,
+    "url": "https://sketchfab.com/3d-models/none-f84ef83ed7334544b59f5fc3bcf2ffd5",
+    "miniatura": "miniaturas/ek_esq_anim/f84ef83ed7334544b59f5fc3bcf2ffd5.jpg"
+   },
+   {
+    "uid": "c523f360a34545da9ddcb796e6256e03",
+    "nombre": "Crawling skeleton",
+    "autor": "filip.hans.nyberg",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 82946,
+    "url": "https://sketchfab.com/3d-models/none-c523f360a34545da9ddcb796e6256e03",
+    "miniatura": "miniaturas/ek_esq_anim/c523f360a34545da9ddcb796e6256e03.jpg"
+   },
+   {
+    "uid": "b609a8c52be74eaf82f3a1713d264779",
+    "nombre": "Skeleton",
+    "autor": "kirkwinner",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 2418,
+    "url": "https://sketchfab.com/3d-models/none-b609a8c52be74eaf82f3a1713d264779",
+    "miniatura": "miniaturas/ek_esq_anim/b609a8c52be74eaf82f3a1713d264779.jpg"
+   },
+   {
+    "uid": "7758742ed2dd49f49c8a107c9845f597",
+    "nombre": "Bone boi",
+    "autor": "semezdar",
+    "licencia": "CC Attribution",
+    "animaciones": 12,
+    "caras": 5364,
+    "url": "https://sketchfab.com/3d-models/none-7758742ed2dd49f49c8a107c9845f597",
+    "miniatura": "miniaturas/ek_esq_anim/7758742ed2dd49f49c8a107c9845f597.jpg"
+   },
+   {
+    "uid": "65cbe69004924bbc940cd74276ba90fb",
+    "nombre": "Skeleton Pirate \" The Captin \"",
+    "autor": "ShadowCoffee",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 60634,
+    "url": "https://sketchfab.com/3d-models/none-65cbe69004924bbc940cd74276ba90fb",
+    "miniatura": "miniaturas/ek_esq_anim/65cbe69004924bbc940cd74276ba90fb.jpg"
+   },
+   {
+    "uid": "87aeb0ffe62d422aacba510ab33bdb5f",
+    "nombre": "SKeleton walk",
+    "autor": "Marina.Nikitsina",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5212,
+    "url": "https://sketchfab.com/3d-models/none-87aeb0ffe62d422aacba510ab33bdb5f",
+    "miniatura": "miniaturas/ek_esq_anim/87aeb0ffe62d422aacba510ab33bdb5f.jpg"
+   },
+   {
+    "uid": "377ddbb38f9c46b7b6b1e639010fb7d3",
+    "nombre": "Mutant skeleton",
+    "autor": "ghostaryan83",
+    "licencia": "CC Attribution",
+    "animaciones": 5,
+    "caras": 696,
+    "url": "https://sketchfab.com/3d-models/none-377ddbb38f9c46b7b6b1e639010fb7d3",
+    "miniatura": "miniaturas/ek_esq_anim/377ddbb38f9c46b7b6b1e639010fb7d3.jpg"
+   },
+   {
+    "uid": "7da4d041c354438494a423da744593d4",
+    "nombre": "Skelly G",
+    "autor": "LopesVitor",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 15986,
+    "url": "https://sketchfab.com/3d-models/none-7da4d041c354438494a423da744593d4",
+    "miniatura": "miniaturas/ek_esq_anim/7da4d041c354438494a423da744593d4.jpg"
+   },
+   {
+    "uid": "6ef171b93a964203b7b72335e512a311",
+    "nombre": "Geodude Pokemon",
+    "autor": "Ankush4135",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 18858,
+    "url": "https://sketchfab.com/3d-models/none-6ef171b93a964203b7b72335e512a311",
+    "miniatura": "miniaturas/ek_esq_anim/6ef171b93a964203b7b72335e512a311.jpg"
+   },
+   {
+    "uid": "5b5c0765964949439b0b7dc8e80d7f2f",
+    "nombre": "Mooncake \"Final Space\"",
+    "autor": "bobrdylan",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6122,
+    "url": "https://sketchfab.com/3d-models/none-5b5c0765964949439b0b7dc8e80d7f2f",
+    "miniatura": "miniaturas/ek_esq_anim/5b5c0765964949439b0b7dc8e80d7f2f.jpg"
+   },
+   {
+    "uid": "cebb454722b44e5ea2c93793d1d30cae",
+    "nombre": "Finger Bones",
+    "autor": "francesca.cepparulo",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10370,
+    "url": "https://sketchfab.com/3d-models/none-cebb454722b44e5ea2c93793d1d30cae",
+    "miniatura": "miniaturas/ek_esq_anim/cebb454722b44e5ea2c93793d1d30cae.jpg"
+   },
+   {
+    "uid": "26f50d128d7848d981e9295a481e1be9",
+    "nombre": "The Witcher Stickman",
+    "autor": "komira",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 1982,
+    "url": "https://sketchfab.com/3d-models/none-26f50d128d7848d981e9295a481e1be9",
+    "miniatura": "miniaturas/ek_esq_anim/26f50d128d7848d981e9295a481e1be9.jpg"
+   }
+  ],
+  "ek_esq_real": [
+   {
+    "uid": "47acc754a2754d73902dab2ec46fd416",
+    "nombre": "Foot Skeleton&Skin",
+    "autor": "Novaky",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22249,
+    "url": "https://sketchfab.com/3d-models/none-47acc754a2754d73902dab2ec46fd416",
+    "miniatura": "miniaturas/ek_esq_real/47acc754a2754d73902dab2ec46fd416.jpg"
+   },
+   {
+    "uid": "568a4d4d287449c49ac85800d2e239de",
+    "nombre": "Man",
+    "autor": "savounited",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 50837,
+    "url": "https://sketchfab.com/3d-models/none-568a4d4d287449c49ac85800d2e239de",
+    "miniatura": "miniaturas/ek_esq_real/568a4d4d287449c49ac85800d2e239de.jpg"
+   },
+   {
+    "uid": "a41b95fe24284d4888278a813e0fcdaf",
+    "nombre": "Female Demo - WITH 30 ANIMATIONS-36 MORPHS",
+    "autor": "jasirkt",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 5498,
+    "url": "https://sketchfab.com/3d-models/none-a41b95fe24284d4888278a813e0fcdaf",
+    "miniatura": "miniaturas/ek_esq_real/a41b95fe24284d4888278a813e0fcdaf.jpg"
+   },
+   {
+    "uid": "3dab0ec337ea4c9882876b121971c282",
+    "nombre": "Skeleton 1",
+    "autor": "srikar017",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1115050,
+    "url": "https://sketchfab.com/3d-models/none-3dab0ec337ea4c9882876b121971c282",
+    "miniatura": "miniaturas/ek_esq_real/3dab0ec337ea4c9882876b121971c282.jpg"
+   },
+   {
+    "uid": "4a7099497cc54cf1b9d89a0c984e8e42",
+    "nombre": "Human Skeleton",
+    "autor": "adamse8",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 32214,
+    "url": "https://sketchfab.com/3d-models/none-4a7099497cc54cf1b9d89a0c984e8e42",
+    "miniatura": "miniaturas/ek_esq_real/4a7099497cc54cf1b9d89a0c984e8e42.jpg"
+   }
+  ],
+  "ek_esq_mixamo": [
+   {
+    "uid": "4cf10e2dde6d4b12b6dccd25a4cf3b77",
+    "nombre": "Girl with clothes. Worker set",
+    "autor": "cattleya",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 2469,
+    "url": "https://sketchfab.com/3d-models/none-4cf10e2dde6d4b12b6dccd25a4cf3b77",
+    "miniatura": "miniaturas/ek_esq_mixamo/4cf10e2dde6d4b12b6dccd25a4cf3b77.jpg"
+   },
+   {
+    "uid": "e304748a4d704299bb1c37bb6f8cf40e",
+    "nombre": "Game character, Girl. Rigged, textured, animated",
+    "autor": "gbarzu",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 23300,
+    "url": "https://sketchfab.com/3d-models/none-e304748a4d704299bb1c37bb6f8cf40e",
+    "miniatura": "miniaturas/ek_esq_mixamo/e304748a4d704299bb1c37bb6f8cf40e.jpg"
+   },
+   {
+    "uid": "d0784ac4263d40efb74510bc948cc844",
+    "nombre": "Rick Astley",
+    "autor": "Explorian",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 3456,
+    "url": "https://sketchfab.com/3d-models/none-d0784ac4263d40efb74510bc948cc844",
+    "miniatura": "miniaturas/ek_esq_mixamo/d0784ac4263d40efb74510bc948cc844.jpg"
+   },
+   {
+    "uid": "d0c9919aec004fd39d65ce7a7960969b",
+    "nombre": "Free low-poly PBR / BSDF textured human skeleton",
+    "autor": "aaolson817",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 466624,
+    "url": "https://sketchfab.com/3d-models/none-d0c9919aec004fd39d65ce7a7960969b",
+    "miniatura": "miniaturas/ek_esq_mixamo/d0c9919aec004fd39d65ce7a7960969b.jpg"
+   },
+   {
+    "uid": "c6dae45c122e4b3f9e1ad91ffa7c8a1f",
+    "nombre": "Ready Player Me female character",
+    "autor": "readyplayerme",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 14114,
+    "url": "https://sketchfab.com/3d-models/none-c6dae45c122e4b3f9e1ad91ffa7c8a1f",
+    "miniatura": "miniaturas/ek_esq_mixamo/c6dae45c122e4b3f9e1ad91ffa7c8a1f.jpg"
+   },
+   {
+    "uid": "76eb28a30c4743358822e168a74d4634",
+    "nombre": "Ready Player Me female character",
+    "autor": "readyplayerme",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 13246,
+    "url": "https://sketchfab.com/3d-models/none-76eb28a30c4743358822e168a74d4634",
+    "miniatura": "miniaturas/ek_esq_mixamo/76eb28a30c4743358822e168a74d4634.jpg"
+   },
+   {
+    "uid": "bf64ce56f2da41ac957df0f22695de77",
+    "nombre": "LOLA BG",
+    "autor": "TheWarVet",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 93181,
+    "url": "https://sketchfab.com/3d-models/none-bf64ce56f2da41ac957df0f22695de77",
+    "miniatura": "miniaturas/ek_esq_mixamo/bf64ce56f2da41ac957df0f22695de77.jpg"
+   },
+   {
+    "uid": "20d42c99fcf2418ebea7ca843a86d903",
+    "nombre": "PFINNEY'S Minecraft Rig",
+    "autor": "pfinney",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2160,
+    "url": "https://sketchfab.com/3d-models/none-20d42c99fcf2418ebea7ca843a86d903",
+    "miniatura": "miniaturas/ek_esq_mixamo/20d42c99fcf2418ebea7ca843a86d903.jpg"
+   },
+   {
+    "uid": "e4cc136c294f4a2c877ddceec0aea00b",
+    "nombre": "Soul Storm Low-Poly Enemy",
+    "autor": "makeitrainart",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22288,
+    "url": "https://sketchfab.com/3d-models/none-e4cc136c294f4a2c877ddceec0aea00b",
+    "miniatura": "miniaturas/ek_esq_mixamo/e4cc136c294f4a2c877ddceec0aea00b.jpg"
+   },
+   {
+    "uid": "ed6d66cdd8b1443b8fcbf078962cc319",
+    "nombre": "Low poly Chibi Model",
+    "autor": "Lekrieg",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3320,
+    "url": "https://sketchfab.com/3d-models/none-ed6d66cdd8b1443b8fcbf078962cc319",
+    "miniatura": "miniaturas/ek_esq_mixamo/ed6d66cdd8b1443b8fcbf078962cc319.jpg"
+   },
+   {
+    "uid": "f6a02de6ca1d4e63b7e2e020e9e15468",
+    "nombre": "Goblin skeleton - Pose",
+    "autor": "lukemorel",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5606,
+    "url": "https://sketchfab.com/3d-models/none-f6a02de6ca1d4e63b7e2e020e9e15468",
+    "miniatura": "miniaturas/ek_esq_mixamo/f6a02de6ca1d4e63b7e2e020e9e15468.jpg"
+   },
+   {
+    "uid": "ae224a1a50cd4f4ba3d5728f56bf8306",
+    "nombre": "Skeletor",
+    "autor": "Micpooh",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 159960,
+    "url": "https://sketchfab.com/3d-models/none-ae224a1a50cd4f4ba3d5728f56bf8306",
+    "miniatura": "miniaturas/ek_esq_mixamo/ae224a1a50cd4f4ba3d5728f56bf8306.jpg"
+   },
+   {
+    "uid": "f6ad453fecbf4190b588d47bfa721591",
+    "nombre": "Amazing Red Skeleton!",
+    "autor": "Robertcucui2",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6558,
+    "url": "https://sketchfab.com/3d-models/none-f6ad453fecbf4190b588d47bfa721591",
+    "miniatura": "miniaturas/ek_esq_mixamo/f6ad453fecbf4190b588d47bfa721591.jpg"
+   }
+  ]
+ }
+}

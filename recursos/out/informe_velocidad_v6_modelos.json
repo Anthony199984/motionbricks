@@ -1,0 +1,140 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/hamburguesa_real.glb",
+   "mb": 8.52
+  },
+  {
+   "destino": "objaverse/pizza_rebanada.glb",
+   "mb": 1.13
+  },
+  {
+   "destino": "objaverse/papas_y_refresco.glb",
+   "mb": 1.76
+  },
+  {
+   "destino": "objaverse/menu_comida_rapida.glb",
+   "mb": 16.36
+  },
+  {
+   "destino": "objaverse/papas_bandeja.glb",
+   "mb": 7.91
+  },
+  {
+   "destino": "objaverse/maniqui_mujer.glb",
+   "mb": 1.49
+  },
+  {
+   "destino": "objaverse/maniqui_vestido.glb",
+   "mb": 8.29
+  },
+  {
+   "destino": "objaverse/perchero_ropa.glb",
+   "mb": 0.85
+  },
+  {
+   "destino": "objaverse/estante_tienda.glb",
+   "mb": 2.16
+  },
+  {
+   "destino": "objaverse/camisa_corta.glb",
+   "mb": 5.51
+  },
+  {
+   "destino": "objaverse/percheros_abrigos.glb",
+   "mb": 19.06
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "hamburguesa_real": {
+   "uid": "b4cc15417d58445ebb698229d6161e61",
+   "nombre": "hamburguesa_real",
+   "titulo": "HAMBURGER",
+   "autor": "rodrigogelmi",
+   "licencia": "CC Attribution",
+   "caras": 71181
+  },
+  "pizza_rebanada": {
+   "uid": "7de0fd39416e4910a28fc23d3c887d53",
+   "nombre": "pizza_rebanada",
+   "titulo": "Pizza Slice - Optimized",
+   "autor": "polarathene",
+   "licencia": "CC Attribution",
+   "caras": 17648
+  },
+  "papas_y_refresco": {
+   "uid": "bef5383eb98b48528b2d82d8887b5bb4",
+   "nombre": "papas_y_refresco",
+   "titulo": "French Fries - FREE",
+   "autor": "Devden",
+   "licencia": "CC Attribution",
+   "caras": 5416
+  },
+  "menu_comida_rapida": {
+   "uid": "6e922d8eed31401db5b179bfd1e68c55",
+   "nombre": "menu_comida_rapida",
+   "titulo": "Mcdonald menu",
+   "autor": "adresen",
+   "licencia": "CC Attribution",
+   "caras": 128618
+  },
+  "papas_bandeja": {
+   "uid": "e0a7acc2ec9f459a8cfe94f461a077ce",
+   "nombre": "papas_bandeja",
+   "titulo": "Francesinha",
+   "autor": "shahriyarshahrabi",
+   "licencia": "CC Attribution",
+   "caras": 149950
+  },
+  "maniqui_mujer": {
+   "uid": "5e9898a1ac2048d89fbcdfdb55f8c6b0",
+   "nombre": "maniqui_mujer",
+   "titulo": "Mannequin Female",
+   "autor": "sketchpunk",
+   "licencia": "CC Attribution",
+   "caras": 30350
+  },
+  "maniqui_vestido": {
+   "uid": "08eadd84d8584641852295c6fd7c9c4a",
+   "nombre": "maniqui_vestido",
+   "titulo": "G2F Dress Mannequin",
+   "autor": "suparioamateur",
+   "licencia": "CC Attribution-NonCommercial-ShareAlike",
+   "caras": 79772
+  },
+  "perchero_ropa": {
+   "uid": "775375ae59be45dc9d7dcde1bc87a07f",
+   "nombre": "perchero_ropa",
+   "titulo": "clothing-rack",
+   "autor": "Sflex",
+   "licencia": "CC Attribution",
+   "caras": 14212
+  },
+  "estante_tienda": {
+   "uid": "4aeb9d62cde942a9804172af11321d2c",
+   "nombre": "estante_tienda",
+   "titulo": "Store Wall Shelving",
+   "autor": "jimbogies",
+   "licencia": "CC Attribution",
+   "caras": 16112
+  },
+  "camisa_corta": {
+   "uid": "6hiH0iyDqXqtdD9wbqSbyLLhKmz",
+   "nombre": "camisa_corta",
+   "titulo": "FREE GMC Motorhome reimagined low poly",
+   "autor": "lionsharp",
+   "licencia": "CC Attribution",
+   "caras": 43401
+  },
+  "percheros_abrigos": {
+   "uid": "f15037dd5fcd4f09b13fb9f2ce9e21cc",
+   "nombre": "percheros_abrigos",
+   "titulo": "Lamborghini Centenario LP-770 Baby Blue SDC",
+   "autor": "Lambo_SC04",
+   "licencia": "CC Attribution",
+   "caras": 325715
+  }
+ }
+}

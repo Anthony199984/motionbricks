@@ -1,0 +1,181 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/murcielago_real.glb",
+   "mb": 0.67
+  },
+  {
+   "destino": "objaverse/murcielago_volando.glb",
+   "mb": 1.38
+  },
+  {
+   "destino": "objaverse/paloma_volando.glb",
+   "mb": 0.8
+  },
+  {
+   "destino": "objaverse/paloma_2.glb",
+   "mb": 1.32
+  },
+  {
+   "destino": "objaverse/bandeja_donas.glb",
+   "mb": 13.74
+  },
+  {
+   "destino": "objaverse/dona_rosada.glb",
+   "mb": 8.52
+  },
+  {
+   "destino": "objaverse/cafe_y_donas.glb",
+   "mb": 10.97
+  },
+  {
+   "destino": "objaverse/vaso_cafe_rojo.glb",
+   "mb": 0.14
+  },
+  {
+   "destino": "objaverse/vaso_cafe_marron.glb",
+   "mb": 0.29
+  },
+  {
+   "destino": "objaverse/arbol_arce_otono.glb",
+   "mb": 7.01
+  }
+ ],
+ "errores": [
+  {
+   "uid": "62b04b0d87ba40c9ab826e0534061c59",
+   "error": "no está en Objaverse"
+  },
+  {
+   "uid": "23ee3311df9746b09e84ea6869f05499",
+   "error": "no está en Objaverse"
+  },
+  {
+   "uid": "0afaa58daa2746acb1060045879c342c",
+   "error": "no está en Objaverse"
+  },
+  {
+   "uid": "ddd5ef4a94eb4159937a9de25c45697c",
+   "error": "no está en Objaverse"
+  },
+  {
+   "uid": "5fe7cbd25f9a446d8bae005893d010dd",
+   "error": "no está en Objaverse"
+  },
+  {
+   "uid": "a9978b92cce444e3814d77777a168622",
+   "error": "no está en Objaverse"
+  },
+  {
+   "uid": "caee7cbfada44a9ca78543a7e86a335c",
+   "error": "no está en Objaverse"
+  },
+  {
+   "uid": "d989c0f801d847b9a74992ec4ddcfdfc",
+   "error": "no está en Objaverse"
+  }
+ ],
+ "saltados": [],
+ "objaverse": {
+  "murcielago_real": {
+   "uid": "28af38de4d2c401d809148c7f63a73f9",
+   "nombre": "murcielago_real",
+   "titulo": "Bat",
+   "autor": "matisosanimation",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-28af38de4d2c401d809148c7f63a73f9",
+   "caras": 5232,
+   "anim": 1
+  },
+  "murcielago_volando": {
+   "uid": "de028c94ae87414e9da27b294afa97ac",
+   "nombre": "murcielago_volando",
+   "titulo": "Bat flying",
+   "autor": "rafaelrafi",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-de028c94ae87414e9da27b294afa97ac",
+   "caras": 3668,
+   "anim": 1
+  },
+  "paloma_volando": {
+   "uid": "2e660a43215f4728902715b171302b34",
+   "nombre": "paloma_volando",
+   "titulo": "Pigeon Rigged",
+   "autor": "Dragon_monkey",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-2e660a43215f4728902715b171302b34",
+   "caras": 14150,
+   "anim": 2
+  },
+  "paloma_2": {
+   "uid": "a78570e7598d444197af354e03f4022b",
+   "nombre": "paloma_2",
+   "titulo": "Dancing pigeon",
+   "autor": "alzarac",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-a78570e7598d444197af354e03f4022b",
+   "caras": 3448,
+   "anim": 1
+  },
+  "bandeja_donas": {
+   "uid": "c15f07f7cc1a4e858159b70c2f4ba1b5",
+   "nombre": "bandeja_donas",
+   "titulo": "Donut 3 0",
+   "autor": "iJacques",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-c15f07f7cc1a4e858159b70c2f4ba1b5",
+   "caras": 210353,
+   "anim": 0
+  },
+  "dona_rosada": {
+   "uid": "8d6cac74abfc4b408ec86c37661fa5a6",
+   "nombre": "dona_rosada",
+   "titulo": "Donut 2.0",
+   "autor": "iJacques",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-8d6cac74abfc4b408ec86c37661fa5a6",
+   "caras": 141992,
+   "anim": 0
+  },
+  "cafe_y_donas": {
+   "uid": "0279c25ef4884f99af7894f9a0710331",
+   "nombre": "cafe_y_donas",
+   "titulo": "Coffee and donuts",
+   "autor": "ivanlynx",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-0279c25ef4884f99af7894f9a0710331",
+   "caras": 87720,
+   "anim": 0
+  },
+  "vaso_cafe_rojo": {
+   "uid": "37e6805f2b7a4158a1d61fe75f8e2a33",
+   "nombre": "vaso_cafe_rojo",
+   "titulo": "Coffee Shop Cup",
+   "autor": "DavidZerba",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-37e6805f2b7a4158a1d61fe75f8e2a33",
+   "caras": 5760,
+   "anim": 0
+  },
+  "vaso_cafe_marron": {
+   "uid": "e77b65a844324452a385bf4c1275515f",
+   "nombre": "vaso_cafe_marron",
+   "titulo": "Paper Coffee Cup",
+   "autor": "korboleevd",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-e77b65a844324452a385bf4c1275515f",
+   "caras": 3332,
+   "anim": 0
+  },
+  "arbol_arce_otono": {
+   "uid": "fe8ce41c430140c1bf125ea830fe5907",
+   "nombre": "arbol_arce_otono",
+   "titulo": "Autumn maple",
+   "autor": "masterofthemadworld",
+   "licencia": "CC Attribution",
+   "url": "https://sketchfab.com/3d-models/none-fe8ce41c430140c1bf125ea830fe5907",
+   "caras": 120648,
+   "anim": 0
+  }
+ }
+}

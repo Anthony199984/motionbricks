@@ -1,0 +1,1186 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/mq3_ciervo_real/e4b32284a3af438fb7e9932c1707f86e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_ciervo_real/7e797373d4264b25bb535f23e522ba50.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_ciervo_real/717730018534476ea817fe0da88b6cd1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_alce_anim/900cafbf2ee3444d823026bd417010f0.jpg",
+   "mb": 0.02
+  },
+  {
+   "destino": "miniaturas/mq3_alce_anim/ad0d58f8668f43d5b362d529371a7f6d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_alce_anim/5d274fcdbf2d4e59b6bdc5b9afa66839.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_alce_anim/53ac3e4c03bd41f8ac18d53c8982df6a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_alce_anim/e9bcb46809ca4c66a205efe47b13fb1d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_alce_anim/0b83526973a447d1a162d3d30015277d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_reno_rig/d0a1d64d2ecc40ec8930731fc3a3e830.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_reno_rig/0ce787f7f6444e9bbf07afa64c7ff67e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/6a2ad3c3a74440c3809c0644d39b24b8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/eb83482f3a2a415eb73e4c73790fce21.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/334a3ab0383f49d1bd34575a36ddf4d6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/582c15dbf562486697b0b4066a29b42d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/b16499d2f4b644c2bca24e51658a5aa1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/337e1cf840e94d8cbd1edf134b4cccbf.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/90f70eb501e34697b825ed0c47ef1ce9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/da313f2d188a44b18cfedfe28012d436.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/ae73f81896124c57a2a6b711b5011c6e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/051c3db9337c412e947887477a28bb27.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/53fdf984962948128db5f4ccfcae0843.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/646def5ffdbf4d1685721b00a467b762.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/2f8d918765b4407bbef2e7236486d1e9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/8f7e5f222f244ecba017e237a9835109.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/1d5cb8a4a4814ae6b4ebd630f0fc5b3e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/fa1a9ae63b1348109aa4e89852a4e2bb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/1e21a9fd2cb24626a6aa3c385c767938.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq3_polilla2/f1cb433dcc954222b19e2ae5512b8d9c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/2bf571e7048c475b9419cc485cccbc48.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/a4e4732471094091a83da1722e326dbe.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/751e4367d0654d5bb402842947ef40d7.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/87a860d71e804167ad09c289356a8bd6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/452c056ae389450e8da94cf694fbd297.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/659afc7b5cd84c91beaf3911888acb30.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/d9cc2d5dc4f74c1c9a31c89cff2b3074.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/c42c2a14d34244f2b3712c09c94befd7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/04dae21e72a24bebac4a12cfbb86cb22.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/03c6cfba0c13448faef5a7149bf7be86.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/c601cb15bf794fcc920ddd3b24342dfb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/c70c947e39b04177981d4abb8c0f7fa2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/13c139c8bbf34dcd8d00e0d26f7e8ce0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/91413c86c92d47c4a61afc7e1875b1ac.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/3fda60d288f14310aa7bc7cc010aee4b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/1ff86f28abc34a6e80ea07cea0d4723f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/673789ee204a4dcb9881124d9284932e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/90f12665994740c8b62bfdae7c7b97ba.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/0aceb86bf7474702b29b9f5beea2341a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/870341d38f044a0881a26a686ec23084.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/a4bf7706c6ad42ee979b47331d684e22.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/5a83a0f4018542d1afd69725ae9d80c8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/ed7b462d7ddd422c8c84e5ab9ebf82d2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/f0b4f3e8f0234f1b9b5865b4a6529553.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/16325bb1789a40f6849afa339da75a0f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/a6c4133ec270447b818d29b5ce059154.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/2165b63d3dd042d5a47153d2e3c74b8a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/7f6be29d3174407b801e43d034ce03b4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/39834344b1d24ff4906619fe7ae5c711.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/4da765730716470f8f8d2e2701ee7463.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/9abf26c304e747d49df9c17b2905a012.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/15ebfd6dbd874fe4b0bff637cf4b22c4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/bab9272f145c4aca98a7cfc3bc425d45.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/ac23d612b4174d10a8eaf42909588f65.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/5da7a0e029c74352b349b2f6c2730b9f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_lupa/fdc872e8ba714644bc6cc5b94c4b9390.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_cuna/c05d9d2c510d4ddfa98bd25f08358211.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_cuna/29451febdc894682a36a5112fd13f054.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_cuna/d02ba46d170143e58ec7f9e4c7edb09c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_cuna/2ac2d020f6ee4c9c920b9a62a39110ad.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_cuna/aaafcaa3c7f649bb895b79d151daa0a2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq3_mosquitero/6655a2fa5e984c9cab631a7f94fba275.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "objaverse/mq2_rana_4.glb",
+   "mb": 37.19
+  },
+  {
+   "destino": "objaverse/mq2_rana_11.glb",
+   "mb": 55.42
+  },
+  {
+   "destino": "objaverse/mq2_rana2_0.glb",
+   "mb": 58.78
+  },
+  {
+   "destino": "objaverse/mq2_rana2_17.glb",
+   "mb": 43.27
+  },
+  {
+   "destino": "objaverse/mq2_rana3_17.glb",
+   "mb": 41.37
+  },
+  {
+   "destino": "objaverse/mq2_ciervo_anim_20.glb",
+   "mb": 17.98
+  },
+  {
+   "destino": "objaverse/mq2_ciervo_anim_18.glb",
+   "mb": 3.2
+  },
+  {
+   "destino": "objaverse/mq2_alce_4.glb",
+   "mb": 0.51
+  },
+  {
+   "destino": "objaverse/mq2_mosquita_2.glb",
+   "mb": 0.72
+  },
+  {
+   "destino": "objaverse/mq2_mosca_0.glb",
+   "mb": 6.84
+  },
+  {
+   "destino": "objaverse/mq2_polilla_1.glb",
+   "mb": 11.33
+  },
+  {
+   "destino": "objaverse/mq2_platanthera_0.glb",
+   "mb": 36.95
+  },
+  {
+   "destino": "objaverse/mq2_pastilla_0.glb",
+   "mb": 2.08
+  },
+  {
+   "destino": "objaverse/mq2_chocolate_20.glb",
+   "mb": 13.41
+  },
+  {
+   "destino": "objaverse/mq2_chocolate_22.glb",
+   "mb": 0.51
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "mq3_reno_real": [],
+  "mq3_rangifer": [],
+  "mq3_ciervo_real": [
+   {
+    "uid": "e4b32284a3af438fb7e9932c1707f86e",
+    "nombre": "Ruffian Soldier Remake - Run",
+    "autor": "Donjuan301",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 561,
+    "url": "https://sketchfab.com/3d-models/none-e4b32284a3af438fb7e9932c1707f86e",
+    "miniatura": "miniaturas/mq3_ciervo_real/e4b32284a3af438fb7e9932c1707f86e.jpg"
+   },
+   {
+    "uid": "7e797373d4264b25bb535f23e522ba50",
+    "nombre": "Ruffian Soldier Remake - Death",
+    "autor": "Donjuan301",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 561,
+    "url": "https://sketchfab.com/3d-models/none-7e797373d4264b25bb535f23e522ba50",
+    "miniatura": "miniaturas/mq3_ciervo_real/7e797373d4264b25bb535f23e522ba50.jpg"
+   },
+   {
+    "uid": "717730018534476ea817fe0da88b6cd1",
+    "nombre": "Ruffian Soldier Remake - Hit Reaction",
+    "autor": "Donjuan301",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 561,
+    "url": "https://sketchfab.com/3d-models/none-717730018534476ea817fe0da88b6cd1",
+    "miniatura": "miniaturas/mq3_ciervo_real/717730018534476ea817fe0da88b6cd1.jpg"
+   }
+  ],
+  "mq3_alce_anim": [
+   {
+    "uid": "900cafbf2ee3444d823026bd417010f0",
+    "nombre": "Lose the Moose",
+    "autor": "miguelangelo2k",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 4286,
+    "url": "https://sketchfab.com/3d-models/none-900cafbf2ee3444d823026bd417010f0",
+    "miniatura": "miniaturas/mq3_alce_anim/900cafbf2ee3444d823026bd417010f0.jpg"
+   },
+   {
+    "uid": "ad0d58f8668f43d5b362d529371a7f6d",
+    "nombre": "Low Poly Moose",
+    "autor": "fromthestone",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 844,
+    "url": "https://sketchfab.com/3d-models/none-ad0d58f8668f43d5b362d529371a7f6d",
+    "miniatura": "miniaturas/mq3_alce_anim/ad0d58f8668f43d5b362d529371a7f6d.jpg"
+   },
+   {
+    "uid": "5d274fcdbf2d4e59b6bdc5b9afa66839",
+    "nombre": "Low Poly: Moose - Anim Test",
+    "autor": "best3deu",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 2008,
+    "url": "https://sketchfab.com/3d-models/none-5d274fcdbf2d4e59b6bdc5b9afa66839",
+    "miniatura": "miniaturas/mq3_alce_anim/5d274fcdbf2d4e59b6bdc5b9afa66839.jpg"
+   },
+   {
+    "uid": "53ac3e4c03bd41f8ac18d53c8982df6a",
+    "nombre": "Lumpy - Happy Tree Friends",
+    "autor": "kurgunu",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 1,
+    "caras": 79744,
+    "url": "https://sketchfab.com/3d-models/none-53ac3e4c03bd41f8ac18d53c8982df6a",
+    "miniatura": "miniaturas/mq3_alce_anim/53ac3e4c03bd41f8ac18d53c8982df6a.jpg"
+   },
+   {
+    "uid": "e9bcb46809ca4c66a205efe47b13fb1d",
+    "nombre": "Totoro in Norway",
+    "autor": "Rosannsketch",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 200990,
+    "url": "https://sketchfab.com/3d-models/none-e9bcb46809ca4c66a205efe47b13fb1d",
+    "miniatura": "miniaturas/mq3_alce_anim/e9bcb46809ca4c66a205efe47b13fb1d.jpg"
+   },
+   {
+    "uid": "0b83526973a447d1a162d3d30015277d",
+    "nombre": "Happy Moose Walk Cycle",
+    "autor": "zach.geek",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 5824,
+    "url": "https://sketchfab.com/3d-models/none-0b83526973a447d1a162d3d30015277d",
+    "miniatura": "miniaturas/mq3_alce_anim/0b83526973a447d1a162d3d30015277d.jpg"
+   }
+  ],
+  "mq3_reno_rig": [
+   {
+    "uid": "d0a1d64d2ecc40ec8930731fc3a3e830",
+    "nombre": "Low Poly: Reindeer - Anim Test",
+    "autor": "best3deu",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1304,
+    "url": "https://sketchfab.com/3d-models/none-d0a1d64d2ecc40ec8930731fc3a3e830",
+    "miniatura": "miniaturas/mq3_reno_rig/d0a1d64d2ecc40ec8930731fc3a3e830.jpg"
+   },
+   {
+    "uid": "0ce787f7f6444e9bbf07afa64c7ff67e",
+    "nombre": "Rudolph the reindeer",
+    "autor": "Ahriana",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2508,
+    "url": "https://sketchfab.com/3d-models/none-0ce787f7f6444e9bbf07afa64c7ff67e",
+    "miniatura": "miniaturas/mq3_reno_rig/0ce787f7f6444e9bbf07afa64c7ff67e.jpg"
+   }
+  ],
+  "mq3_polilla2": [
+   {
+    "uid": "6a2ad3c3a74440c3809c0644d39b24b8",
+    "nombre": "Sci-Fi Character - Dragon Warrior (Futuristic)",
+    "autor": "spookyiluha",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 3,
+    "caras": 96184,
+    "url": "https://sketchfab.com/3d-models/none-6a2ad3c3a74440c3809c0644d39b24b8",
+    "miniatura": "miniaturas/mq3_polilla2/6a2ad3c3a74440c3809c0644d39b24b8.jpg"
+   },
+   {
+    "uid": "eb83482f3a2a415eb73e4c73790fce21",
+    "nombre": "Planet Earth",
+    "autor": "rodrigoscar",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6240,
+    "url": "https://sketchfab.com/3d-models/none-eb83482f3a2a415eb73e4c73790fce21",
+    "miniatura": "miniaturas/mq3_polilla2/eb83482f3a2a415eb73e4c73790fce21.jpg"
+   },
+   {
+    "uid": "334a3ab0383f49d1bd34575a36ddf4d6",
+    "nombre": "Eggplant (Game Ready / 2K PBR)",
+    "autor": "meerschaumdigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2432,
+    "url": "https://sketchfab.com/3d-models/none-334a3ab0383f49d1bd34575a36ddf4d6",
+    "miniatura": "miniaturas/mq3_polilla2/334a3ab0383f49d1bd34575a36ddf4d6.jpg"
+   },
+   {
+    "uid": "582c15dbf562486697b0b4066a29b42d",
+    "nombre": "Blockade MRC",
+    "autor": "goswick3",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 105071,
+    "url": "https://sketchfab.com/3d-models/none-582c15dbf562486697b0b4066a29b42d",
+    "miniatura": "miniaturas/mq3_polilla2/582c15dbf562486697b0b4066a29b42d.jpg"
+   },
+   {
+    "uid": "b16499d2f4b644c2bca24e51658a5aa1",
+    "nombre": "Insectoid Cute Hornet ~ Hollow Knight",
+    "autor": "timmymark",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 2,
+    "caras": 204313,
+    "url": "https://sketchfab.com/3d-models/none-b16499d2f4b644c2bca24e51658a5aa1",
+    "miniatura": "miniaturas/mq3_polilla2/b16499d2f4b644c2bca24e51658a5aa1.jpg"
+   },
+   {
+    "uid": "337e1cf840e94d8cbd1edf134b4cccbf",
+    "nombre": "Papaya fruit",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 31608,
+    "url": "https://sketchfab.com/3d-models/none-337e1cf840e94d8cbd1edf134b4cccbf",
+    "miniatura": "miniaturas/mq3_polilla2/337e1cf840e94d8cbd1edf134b4cccbf.jpg"
+   },
+   {
+    "uid": "90f70eb501e34697b825ed0c47ef1ce9",
+    "nombre": "AITCH photorealistic",
+    "autor": "FredDrabble",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 373568,
+    "url": "https://sketchfab.com/3d-models/none-90f70eb501e34697b825ed0c47ef1ce9",
+    "miniatura": "miniaturas/mq3_polilla2/90f70eb501e34697b825ed0c47ef1ce9.jpg"
+   },
+   {
+    "uid": "da313f2d188a44b18cfedfe28012d436",
+    "nombre": "Mushroom (Game Ready / 2K PBR)",
+    "autor": "meerschaumdigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1856,
+    "url": "https://sketchfab.com/3d-models/none-da313f2d188a44b18cfedfe28012d436",
+    "miniatura": "miniaturas/mq3_polilla2/da313f2d188a44b18cfedfe28012d436.jpg"
+   },
+   {
+    "uid": "ae73f81896124c57a2a6b711b5011c6e",
+    "nombre": "Grapefruit (Game Ready / 2K PBR)",
+    "autor": "meerschaumdigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1344,
+    "url": "https://sketchfab.com/3d-models/none-ae73f81896124c57a2a6b711b5011c6e",
+    "miniatura": "miniaturas/mq3_polilla2/ae73f81896124c57a2a6b711b5011c6e.jpg"
+   },
+   {
+    "uid": "051c3db9337c412e947887477a28bb27",
+    "nombre": "Heirloom Violin",
+    "autor": "QueenRose",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 42390,
+    "url": "https://sketchfab.com/3d-models/none-051c3db9337c412e947887477a28bb27",
+    "miniatura": "miniaturas/mq3_polilla2/051c3db9337c412e947887477a28bb27.jpg"
+   },
+   {
+    "uid": "53fdf984962948128db5f4ccfcae0843",
+    "nombre": "Expired Bartlett Pear",
+    "autor": "inciprocal.com",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15000,
+    "url": "https://sketchfab.com/3d-models/none-53fdf984962948128db5f4ccfcae0843",
+    "miniatura": "miniaturas/mq3_polilla2/53fdf984962948128db5f4ccfcae0843.jpg"
+   },
+   {
+    "uid": "646def5ffdbf4d1685721b00a467b762",
+    "nombre": "Scene with horses from the Chauvet's Cave",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 90377,
+    "url": "https://sketchfab.com/3d-models/none-646def5ffdbf4d1685721b00a467b762",
+    "miniatura": "miniaturas/mq3_polilla2/646def5ffdbf4d1685721b00a467b762.jpg"
+   },
+   {
+    "uid": "2f8d918765b4407bbef2e7236486d1e9",
+    "nombre": "OLD- Victorian Antique Motor Prop",
+    "autor": "Sigil0fSaturn",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 75060,
+    "url": "https://sketchfab.com/3d-models/none-2f8d918765b4407bbef2e7236486d1e9",
+    "miniatura": "miniaturas/mq3_polilla2/2f8d918765b4407bbef2e7236486d1e9.jpg"
+   },
+   {
+    "uid": "8f7e5f222f244ecba017e237a9835109",
+    "nombre": "Tomatillo (Game Ready / 2K PBR)",
+    "autor": "meerschaumdigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1920,
+    "url": "https://sketchfab.com/3d-models/none-8f7e5f222f244ecba017e237a9835109",
+    "miniatura": "miniaturas/mq3_polilla2/8f7e5f222f244ecba017e237a9835109.jpg"
+   },
+   {
+    "uid": "1d5cb8a4a4814ae6b4ebd630f0fc5b3e",
+    "nombre": "Gnome Nightmare - Jacky (Update 1))",
+    "autor": "BubbleTea",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13672,
+    "url": "https://sketchfab.com/3d-models/none-1d5cb8a4a4814ae6b4ebd630f0fc5b3e",
+    "miniatura": "miniaturas/mq3_polilla2/1d5cb8a4a4814ae6b4ebd630f0fc5b3e.jpg"
+   },
+   {
+    "uid": "fa1a9ae63b1348109aa4e89852a4e2bb",
+    "nombre": "realistic male face",
+    "autor": "FredDrabble",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 72874,
+    "url": "https://sketchfab.com/3d-models/none-fa1a9ae63b1348109aa4e89852a4e2bb",
+    "miniatura": "miniaturas/mq3_polilla2/fa1a9ae63b1348109aa4e89852a4e2bb.jpg"
+   },
+   {
+    "uid": "1e21a9fd2cb24626a6aa3c385c767938",
+    "nombre": "A Square of Beach Ground II",
+    "autor": "gamingassets",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9999,
+    "url": "https://sketchfab.com/3d-models/none-1e21a9fd2cb24626a6aa3c385c767938",
+    "miniatura": "miniaturas/mq3_polilla2/1e21a9fd2cb24626a6aa3c385c767938.jpg"
+   },
+   {
+    "uid": "f1cb433dcc954222b19e2ae5512b8d9c",
+    "nombre": "Joe realistic male face",
+    "autor": "FredDrabble",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 162784,
+    "url": "https://sketchfab.com/3d-models/none-f1cb433dcc954222b19e2ae5512b8d9c",
+    "miniatura": "miniaturas/mq3_polilla2/f1cb433dcc954222b19e2ae5512b8d9c.jpg"
+   }
+  ],
+  "mq3_polilla3": [],
+  "mq3_lupa": [
+   {
+    "uid": "2bf571e7048c475b9419cc485cccbc48",
+    "nombre": "Broken H.E.A.R.T.",
+    "autor": "aqpetteri",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 58668,
+    "url": "https://sketchfab.com/3d-models/none-2bf571e7048c475b9419cc485cccbc48",
+    "miniatura": "miniaturas/mq3_lupa/2bf571e7048c475b9419cc485cccbc48.jpg"
+   },
+   {
+    "uid": "a4e4732471094091a83da1722e326dbe",
+    "nombre": "11th - Mystery // Lupa Antigua",
+    "autor": "ringogunther",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5942,
+    "url": "https://sketchfab.com/3d-models/none-a4e4732471094091a83da1722e326dbe",
+    "miniatura": "miniaturas/mq3_lupa/a4e4732471094091a83da1722e326dbe.jpg"
+   },
+   {
+    "uid": "751e4367d0654d5bb402842947ef40d7",
+    "nombre": "Book by the candle light",
+    "autor": "iamlookingforthebathroom",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 338009,
+    "url": "https://sketchfab.com/3d-models/none-751e4367d0654d5bb402842947ef40d7",
+    "miniatura": "miniaturas/mq3_lupa/751e4367d0654d5bb402842947ef40d7.jpg"
+   },
+   {
+    "uid": "87a860d71e804167ad09c289356a8bd6",
+    "nombre": "Vintage_Magnifying_Glass_LP",
+    "autor": "Vitor.Gomes1",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2080,
+    "url": "https://sketchfab.com/3d-models/none-87a860d71e804167ad09c289356a8bd6",
+    "miniatura": "miniaturas/mq3_lupa/87a860d71e804167ad09c289356a8bd6.jpg"
+   },
+   {
+    "uid": "452c056ae389450e8da94cf694fbd297",
+    "nombre": "Old Soldering Workstation",
+    "autor": "wikiti",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 33347,
+    "url": "https://sketchfab.com/3d-models/none-452c056ae389450e8da94cf694fbd297",
+    "miniatura": "miniaturas/mq3_lupa/452c056ae389450e8da94cf694fbd297.jpg"
+   },
+   {
+    "uid": "659afc7b5cd84c91beaf3911888acb30",
+    "nombre": "CC0 - Cosmetic Mirror 3",
+    "autor": "plaggy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 632,
+    "url": "https://sketchfab.com/3d-models/none-659afc7b5cd84c91beaf3911888acb30",
+    "miniatura": "miniaturas/mq3_lupa/659afc7b5cd84c91beaf3911888acb30.jpg"
+   },
+   {
+    "uid": "d9cc2d5dc4f74c1c9a31c89cff2b3074",
+    "nombre": "Magnifying Glass",
+    "autor": "re1monsen",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5310,
+    "url": "https://sketchfab.com/3d-models/none-d9cc2d5dc4f74c1c9a31c89cff2b3074",
+    "miniatura": "miniaturas/mq3_lupa/d9cc2d5dc4f74c1c9a31c89cff2b3074.jpg"
+   },
+   {
+    "uid": "c42c2a14d34244f2b3712c09c94befd7",
+    "nombre": "Magnifying Glass (3D Apple Emoji)",
+    "autor": "pravdin",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6536,
+    "url": "https://sketchfab.com/3d-models/none-c42c2a14d34244f2b3712c09c94befd7",
+    "miniatura": "miniaturas/mq3_lupa/c42c2a14d34244f2b3712c09c94befd7.jpg"
+   },
+   {
+    "uid": "04dae21e72a24bebac4a12cfbb86cb22",
+    "nombre": "Magnifying Glass With Blender Monkey",
+    "autor": "gaikwadsambhaji5",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 66544,
+    "url": "https://sketchfab.com/3d-models/none-04dae21e72a24bebac4a12cfbb86cb22",
+    "miniatura": "miniaturas/mq3_lupa/04dae21e72a24bebac4a12cfbb86cb22.jpg"
+   },
+   {
+    "uid": "03c6cfba0c13448faef5a7149bf7be86",
+    "nombre": "Low Poly | Holographic Sight",
+    "autor": "vynatic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3362,
+    "url": "https://sketchfab.com/3d-models/none-03c6cfba0c13448faef5a7149bf7be86",
+    "miniatura": "miniaturas/mq3_lupa/03c6cfba0c13448faef5a7149bf7be86.jpg"
+   },
+   {
+    "uid": "c601cb15bf794fcc920ddd3b24342dfb",
+    "nombre": "Realistic Magnifying Glass",
+    "autor": "rikugo.studio",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 14068,
+    "url": "https://sketchfab.com/3d-models/none-c601cb15bf794fcc920ddd3b24342dfb",
+    "miniatura": "miniaturas/mq3_lupa/c601cb15bf794fcc920ddd3b24342dfb.jpg"
+   },
+   {
+    "uid": "c70c947e39b04177981d4abb8c0f7fa2",
+    "nombre": "Basic Magnifying Glass",
+    "autor": "Blender3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1144,
+    "url": "https://sketchfab.com/3d-models/none-c70c947e39b04177981d4abb8c0f7fa2",
+    "miniatura": "miniaturas/mq3_lupa/c70c947e39b04177981d4abb8c0f7fa2.jpg"
+   },
+   {
+    "uid": "13c139c8bbf34dcd8d00e0d26f7e8ce0",
+    "nombre": "Elektrit Majestic radio receiver",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 192770,
+    "url": "https://sketchfab.com/3d-models/none-13c139c8bbf34dcd8d00e0d26f7e8ce0",
+    "miniatura": "miniaturas/mq3_lupa/13c139c8bbf34dcd8d00e0d26f7e8ce0.jpg"
+   },
+   {
+    "uid": "91413c86c92d47c4a61afc7e1875b1ac",
+    "nombre": "loop/magnifying glass",
+    "autor": "bachtiardwi04",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3964,
+    "url": "https://sketchfab.com/3d-models/none-91413c86c92d47c4a61afc7e1875b1ac",
+    "miniatura": "miniaturas/mq3_lupa/91413c86c92d47c4a61afc7e1875b1ac.jpg"
+   },
+   {
+    "uid": "3fda60d288f14310aa7bc7cc010aee4b",
+    "nombre": "Private Detective Props",
+    "autor": "alyxxx",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1551,
+    "url": "https://sketchfab.com/3d-models/none-3fda60d288f14310aa7bc7cc010aee4b",
+    "miniatura": "miniaturas/mq3_lupa/3fda60d288f14310aa7bc7cc010aee4b.jpg"
+   },
+   {
+    "uid": "1ff86f28abc34a6e80ea07cea0d4723f",
+    "nombre": "Magnifying Glass",
+    "autor": "Laura.Clarke",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1378,
+    "url": "https://sketchfab.com/3d-models/none-1ff86f28abc34a6e80ea07cea0d4723f",
+    "miniatura": "miniaturas/mq3_lupa/1ff86f28abc34a6e80ea07cea0d4723f.jpg"
+   },
+   {
+    "uid": "673789ee204a4dcb9881124d9284932e",
+    "nombre": "Magnifying glass",
+    "autor": "paraside",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3756,
+    "url": "https://sketchfab.com/3d-models/none-673789ee204a4dcb9881124d9284932e",
+    "miniatura": "miniaturas/mq3_lupa/673789ee204a4dcb9881124d9284932e.jpg"
+   },
+   {
+    "uid": "90f12665994740c8b62bfdae7c7b97ba",
+    "nombre": "Adventure Prop Set",
+    "autor": "Three_dots",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2928,
+    "url": "https://sketchfab.com/3d-models/none-90f12665994740c8b62bfdae7c7b97ba",
+    "miniatura": "miniaturas/mq3_lupa/90f12665994740c8b62bfdae7c7b97ba.jpg"
+   },
+   {
+    "uid": "0aceb86bf7474702b29b9f5beea2341a",
+    "nombre": "Toon Magnifying Glass/Büyüteç/Lupa/Loupe/Lupe",
+    "autor": "Ahm3D.Yuksel",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12086,
+    "url": "https://sketchfab.com/3d-models/none-0aceb86bf7474702b29b9f5beea2341a",
+    "miniatura": "miniaturas/mq3_lupa/0aceb86bf7474702b29b9f5beea2341a.jpg"
+   },
+   {
+    "uid": "870341d38f044a0881a26a686ec23084",
+    "nombre": "Magnifying Glass",
+    "autor": "akiko_yoshino",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6584,
+    "url": "https://sketchfab.com/3d-models/none-870341d38f044a0881a26a686ec23084",
+    "miniatura": "miniaturas/mq3_lupa/870341d38f044a0881a26a686ec23084.jpg"
+   },
+   {
+    "uid": "a4bf7706c6ad42ee979b47331d684e22",
+    "nombre": "Magnifying Glass Model",
+    "autor": "Three_dots",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 470,
+    "url": "https://sketchfab.com/3d-models/none-a4bf7706c6ad42ee979b47331d684e22",
+    "miniatura": "miniaturas/mq3_lupa/a4bf7706c6ad42ee979b47331d684e22.jpg"
+   },
+   {
+    "uid": "5a83a0f4018542d1afd69725ae9d80c8",
+    "nombre": "Magnifying Glass",
+    "autor": "SimonMulrennan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 486,
+    "url": "https://sketchfab.com/3d-models/none-5a83a0f4018542d1afd69725ae9d80c8",
+    "miniatura": "miniaturas/mq3_lupa/5a83a0f4018542d1afd69725ae9d80c8.jpg"
+   },
+   {
+    "uid": "ed7b462d7ddd422c8c84e5ab9ebf82d2",
+    "nombre": "Magnifying Glass",
+    "autor": "justincrazyeyes",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1124,
+    "url": "https://sketchfab.com/3d-models/none-ed7b462d7ddd422c8c84e5ab9ebf82d2",
+    "miniatura": "miniaturas/mq3_lupa/ed7b462d7ddd422c8c84e5ab9ebf82d2.jpg"
+   },
+   {
+    "uid": "f0b4f3e8f0234f1b9b5865b4a6529553",
+    "nombre": "Magnifying Glass~",
+    "autor": "HarlWise",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1688,
+    "url": "https://sketchfab.com/3d-models/none-f0b4f3e8f0234f1b9b5865b4a6529553",
+    "miniatura": "miniaturas/mq3_lupa/f0b4f3e8f0234f1b9b5865b4a6529553.jpg"
+   },
+   {
+    "uid": "16325bb1789a40f6849afa339da75a0f",
+    "nombre": "magnifying glass",
+    "autor": "neutralize",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4996,
+    "url": "https://sketchfab.com/3d-models/none-16325bb1789a40f6849afa339da75a0f",
+    "miniatura": "miniaturas/mq3_lupa/16325bb1789a40f6849afa339da75a0f.jpg"
+   },
+   {
+    "uid": "a6c4133ec270447b818d29b5ce059154",
+    "nombre": "Magnifying Glass",
+    "autor": "CurtoG",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3968,
+    "url": "https://sketchfab.com/3d-models/none-a6c4133ec270447b818d29b5ce059154",
+    "miniatura": "miniaturas/mq3_lupa/a6c4133ec270447b818d29b5ce059154.jpg"
+   },
+   {
+    "uid": "2165b63d3dd042d5a47153d2e3c74b8a",
+    "nombre": "Magnifying Glass",
+    "autor": "alyxxx",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 512,
+    "url": "https://sketchfab.com/3d-models/none-2165b63d3dd042d5a47153d2e3c74b8a",
+    "miniatura": "miniaturas/mq3_lupa/2165b63d3dd042d5a47153d2e3c74b8a.jpg"
+   },
+   {
+    "uid": "7f6be29d3174407b801e43d034ce03b4",
+    "nombre": "Loupe",
+    "autor": "JohnMalcolm1970",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 814482,
+    "url": "https://sketchfab.com/3d-models/none-7f6be29d3174407b801e43d034ce03b4",
+    "miniatura": "miniaturas/mq3_lupa/7f6be29d3174407b801e43d034ce03b4.jpg"
+   },
+   {
+    "uid": "39834344b1d24ff4906619fe7ae5c711",
+    "nombre": "Loupe 3D",
+    "autor": "milos4",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3376,
+    "url": "https://sketchfab.com/3d-models/none-39834344b1d24ff4906619fe7ae5c711",
+    "miniatura": "miniaturas/mq3_lupa/39834344b1d24ff4906619fe7ae5c711.jpg"
+   },
+   {
+    "uid": "4da765730716470f8f8d2e2701ee7463",
+    "nombre": "Magnifying glass",
+    "autor": "rayofunny",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1364,
+    "url": "https://sketchfab.com/3d-models/none-4da765730716470f8f8d2e2701ee7463",
+    "miniatura": "miniaturas/mq3_lupa/4da765730716470f8f8d2e2701ee7463.jpg"
+   },
+   {
+    "uid": "9abf26c304e747d49df9c17b2905a012",
+    "nombre": "magnifying glass",
+    "autor": "malikalberto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 26242,
+    "url": "https://sketchfab.com/3d-models/none-9abf26c304e747d49df9c17b2905a012",
+    "miniatura": "miniaturas/mq3_lupa/9abf26c304e747d49df9c17b2905a012.jpg"
+   },
+   {
+    "uid": "15ebfd6dbd874fe4b0bff637cf4b22c4",
+    "nombre": "Magnifying glass from Poly by Google",
+    "autor": "ie-niels",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 880,
+    "url": "https://sketchfab.com/3d-models/none-15ebfd6dbd874fe4b0bff637cf4b22c4",
+    "miniatura": "miniaturas/mq3_lupa/15ebfd6dbd874fe4b0bff637cf4b22c4.jpg"
+   },
+   {
+    "uid": "bab9272f145c4aca98a7cfc3bc425d45",
+    "nombre": "Lamp And Lup",
+    "autor": "andre.ldeaesilva",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 922556,
+    "url": "https://sketchfab.com/3d-models/none-bab9272f145c4aca98a7cfc3bc425d45",
+    "miniatura": "miniaturas/mq3_lupa/bab9272f145c4aca98a7cfc3bc425d45.jpg"
+   },
+   {
+    "uid": "ac23d612b4174d10a8eaf42909588f65",
+    "nombre": "magnifying glass",
+    "autor": "Linkkit775",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1831,
+    "url": "https://sketchfab.com/3d-models/none-ac23d612b4174d10a8eaf42909588f65",
+    "miniatura": "miniaturas/mq3_lupa/ac23d612b4174d10a8eaf42909588f65.jpg"
+   },
+   {
+    "uid": "5da7a0e029c74352b349b2f6c2730b9f",
+    "nombre": "Magnifying glass from Poly by Google",
+    "autor": "ie-niels",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4996,
+    "url": "https://sketchfab.com/3d-models/none-5da7a0e029c74352b349b2f6c2730b9f",
+    "miniatura": "miniaturas/mq3_lupa/5da7a0e029c74352b349b2f6c2730b9f.jpg"
+   },
+   {
+    "uid": "fdc872e8ba714644bc6cc5b94c4b9390",
+    "nombre": "Magnifying Cup",
+    "autor": "naddaly",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1042,
+    "url": "https://sketchfab.com/3d-models/none-fdc872e8ba714644bc6cc5b94c4b9390",
+    "miniatura": "miniaturas/mq3_lupa/fdc872e8ba714644bc6cc5b94c4b9390.jpg"
+   }
+  ],
+  "mq3_cuna": [
+   {
+    "uid": "c05d9d2c510d4ddfa98bd25f08358211",
+    "nombre": "Wooden Baby Crib",
+    "autor": "LincolnLabs",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1954,
+    "url": "https://sketchfab.com/3d-models/none-c05d9d2c510d4ddfa98bd25f08358211",
+    "miniatura": "miniaturas/mq3_cuna/c05d9d2c510d4ddfa98bd25f08358211.jpg"
+   },
+   {
+    "uid": "29451febdc894682a36a5112fd13f054",
+    "nombre": "Cotbed",
+    "autor": "roatti",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 47184,
+    "url": "https://sketchfab.com/3d-models/none-29451febdc894682a36a5112fd13f054",
+    "miniatura": "miniaturas/mq3_cuna/29451febdc894682a36a5112fd13f054.jpg"
+   },
+   {
+    "uid": "d02ba46d170143e58ec7f9e4c7edb09c",
+    "nombre": "Baby crib",
+    "autor": "amanduca",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 28840,
+    "url": "https://sketchfab.com/3d-models/none-d02ba46d170143e58ec7f9e4c7edb09c",
+    "miniatura": "miniaturas/mq3_cuna/d02ba46d170143e58ec7f9e4c7edb09c.jpg"
+   },
+   {
+    "uid": "2ac2d020f6ee4c9c920b9a62a39110ad",
+    "nombre": "Baby Yoda's Crib",
+    "autor": "8nfilms",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 27418,
+    "url": "https://sketchfab.com/3d-models/none-2ac2d020f6ee4c9c920b9a62a39110ad",
+    "miniatura": "miniaturas/mq3_cuna/2ac2d020f6ee4c9c920b9a62a39110ad.jpg"
+   },
+   {
+    "uid": "aaafcaa3c7f649bb895b79d151daa0a2",
+    "nombre": "Baby Yoda Pod",
+    "autor": "Laura.Clarke",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5906,
+    "url": "https://sketchfab.com/3d-models/none-aaafcaa3c7f649bb895b79d151daa0a2",
+    "miniatura": "miniaturas/mq3_cuna/aaafcaa3c7f649bb895b79d151daa0a2.jpg"
+   }
+  ],
+  "mq3_mosquitero": [
+   {
+    "uid": "6655a2fa5e984c9cab631a7f94fba275",
+    "nombre": "Mosquito Racket",
+    "autor": "Lillya",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12786,
+    "url": "https://sketchfab.com/3d-models/none-6655a2fa5e984c9cab631a7f94fba275",
+    "miniatura": "miniaturas/mq3_mosquitero/6655a2fa5e984c9cab631a7f94fba275.jpg"
+   }
+  ]
+ },
+ "objaverse": {
+  "mq2_rana_4": {
+   "uid": "0850a4b8afc141b88981c4606cf80415",
+   "nombre": "mq2_rana_4",
+   "titulo": "CC0 ウシガエル 🐸 ♀ American Bullfrog",
+   "autor": "ffishAsia-and-floraZia",
+   "licencia": "CC0 Public Domain"
+  },
+  "mq2_rana_11": {
+   "uid": "12244c1e4f3a4bfdbc217acba90e8baa",
+   "nombre": "mq2_rana_11",
+   "titulo": "CC0 ウシガエル 🐸 American Bullfrog, L. catesbeianus",
+   "autor": "ffishAsia-and-floraZia",
+   "licencia": "CC0 Public Domain"
+  },
+  "mq2_rana2_0": {
+   "uid": "a9c23391171c4e1abd859b05887e00af",
+   "nombre": "mq2_rana2_0",
+   "titulo": "CC0 モリアオガエル 🐸 ♂ Forest Green Tree Frog",
+   "autor": "ffishAsia-and-floraZia",
+   "licencia": "CC0 Public Domain"
+  },
+  "mq2_rana2_17": {
+   "uid": "19500e25af28402ba3ba857adea5f058",
+   "nombre": "mq2_rana2_17",
+   "titulo": "CC0 モリアオガエル 🐸 ♂ Forest Green Tree Frog",
+   "autor": "ffishAsia-and-floraZia",
+   "licencia": "CC0 Public Domain"
+  },
+  "mq2_rana3_17": {
+   "uid": "261da75c42d6486189a5ea170285a1f1",
+   "nombre": "mq2_rana3_17",
+   "titulo": "Rana dalmatina",
+   "autor": "yelizegi",
+   "licencia": "CC Attribution"
+  },
+  "mq2_ciervo_anim_20": {
+   "uid": "6e7c9d916b874a38adf1758dc1af46cf",
+   "nombre": "mq2_ciervo_anim_20",
+   "titulo": "Deer",
+   "autor": "Tomations",
+   "licencia": "CC Attribution-ShareAlike"
+  },
+  "mq2_ciervo_anim_18": {
+   "uid": "347e5d4fbee14e53811c5df2221be8d0",
+   "nombre": "mq2_ciervo_anim_18",
+   "titulo": "Deer Animation",
+   "autor": "DarryleH",
+   "licencia": "CC Attribution"
+  },
+  "mq2_alce_4": {
+   "uid": "6bd89c96005d42ba91e5696a5cece020",
+   "nombre": "mq2_alce_4",
+   "titulo": "Elk",
+   "autor": "stacy_666",
+   "licencia": "CC Attribution"
+  },
+  "mq2_mosquita_2": {
+   "uid": "c6dc869ce7c74962ab0ba69d0b2ea30d",
+   "nombre": "mq2_mosquita_2",
+   "titulo": "flying gnat",
+   "autor": "VertaScan",
+   "licencia": "CC Attribution"
+  },
+  "mq2_mosca_0": {
+   "uid": "215c74ff0fdc4758adc561727c1cc447",
+   "nombre": "mq2_mosca_0",
+   "titulo": "Syrphus ribesii",
+   "autor": "disc3d",
+   "licencia": "CC Attribution"
+  },
+  "mq2_polilla_1": {
+   "uid": "fafcd79b60964e57a532e74706af6d16",
+   "nombre": "mq2_polilla_1",
+   "titulo": "Moth",
+   "autor": "Amatsukast",
+   "licencia": "CC Attribution-NonCommercial-ShareAlike"
+  },
+  "mq2_platanthera_0": {
+   "uid": "bbfed963b0154e049d82bb48502b3d12",
+   "nombre": "mq2_platanthera_0",
+   "titulo": "Platanthera mandarinorum var. masamunei - 屋久島蜻蛉",
+   "autor": "light-box",
+   "licencia": "CC Attribution"
+  },
+  "mq2_pastilla_0": {
+   "uid": "4892b8f61b0c4b27a65b0dfd489d6af5",
+   "nombre": "mq2_pastilla_0",
+   "titulo": "CC0 - Pill",
+   "autor": "plaggy",
+   "licencia": "CC Attribution"
+  },
+  "mq2_chocolate_20": {
+   "uid": "69d0a671024e4928a12f5ee0d655f0a6",
+   "nombre": "mq2_chocolate_20",
+   "titulo": "Chocolat Bar",
+   "autor": "davimfs7",
+   "licencia": "CC Attribution"
+  },
+  "mq2_chocolate_22": {
+   "uid": "c8675e9eeb34404ca391f6fa915a104d",
+   "nombre": "mq2_chocolate_22",
+   "titulo": "Chocolate",
+   "autor": "CakesForMe",
+   "licencia": "CC Attribution"
+  }
+ }
+}

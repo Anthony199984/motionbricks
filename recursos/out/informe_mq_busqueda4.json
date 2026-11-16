@@ -1,0 +1,1828 @@
+{
+ "bajados": [
+  {
+   "destino": "sonidos/mq4_zumbido_oreja/mosquito_over_evening_fields_village_Lage-Zwaluwe__811902.mp3",
+   "mb": 0.39
+  },
+  {
+   "destino": "sonidos/mq4_zumbido_oreja/20060628.mosquito03.flac_by_dobroide_20306.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/mq4_pastilla/Pills_hit_floor_adams.wav_by_adafdf_523697.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/mq4_pastilla/blister_of_pills_falling_and_crackling_by_siohf.b_816588.mp3",
+   "mb": 0.2
+  },
+  {
+   "destino": "sonidos/mq4_pastilla/Pills_thrown_out_of_and_into_plastic_medicine_cont_325538.mp3",
+   "mb": 0.22
+  },
+  {
+   "destino": "sonidos/mq4_pastilla/Pill_dissolving_in_water_by_AdamJordaan140087_401671.mp3",
+   "mb": 0.25
+  },
+  {
+   "destino": "sonidos/mq4_pastilla/Pill_capsule_opening_pill_dropping_onto_glass.wav__430299.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mq4_pastilla/Pills_1.wav_by_kczub_268973.mp3",
+   "mb": 0.26
+  },
+  {
+   "destino": "sonidos/mq4_pastilla/Pills_2.wav_by_kczub_268972.mp3",
+   "mb": 0.3
+  },
+  {
+   "destino": "sonidos/mq4_pastilla/Droping_a_bottle_of_pills_OWI.wav_by_straynerd_656346.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/mq4_sabanas/Rustling_bed_sheets_by_Froey__644490.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mq4_sabanas/Sheets_Rustling.wav_by_MootMcnoodles_444405.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/mq4_sabanas/Bed_sheet_sounds_by_Kash15_409099.mp3",
+   "mb": 0.31
+  },
+  {
+   "destino": "sonidos/mq4_sabanas/SHEETShaking_Bed_Sheet-Int__Hollow_sounding_aggres_708528.mp3",
+   "mb": 0.34
+  },
+  {
+   "destino": "sonidos/mq4_sabanas/Sheets_rustling_by_Qhama_766114.mp3",
+   "mb": 0.2
+  },
+  {
+   "destino": "sonidos/mq4_sabanas/Pillow_being_fluffed_OWI.wav_by_Livwagner8747_591794.mp3",
+   "mb": 0.23
+  },
+  {
+   "destino": "sonidos/mq4_sabanas/Rustling_Bed_Sheets.wav_by_Ameliezee_654895.mp3",
+   "mb": 0.14
+  },
+  {
+   "destino": "sonidos/mq4_sabanas/Sheets_-_Sitting_Up.wav_by_MWsfx_573730.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/mq4_burbujas/01650_underwater_bubbles.wav_by_Robinhood76_96742.mp3",
+   "mb": 0.23
+  },
+  {
+   "destino": "sonidos/mq4_burbujas/Bubbles.wav_by_f4ngy_232862.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mq4_burbujas/Flotante_-_Bubbles_by_barcelonetasonora_339859.mp3",
+   "mb": 0.5
+  },
+  {
+   "destino": "sonidos/mq4_burbujas/Bubbles_cam.wav_by_digifishmusic_68312.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/mq4_burbujas/Bubbles_by_hotpin7_840042.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/mq4_burbujas/UnderWaterHugeBubble_by_Akkaittou_823209.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/mq4_burbujas/DSGNSynth_bubble_echoes_high_Funky_Audio_FASS.wav__698816.mp3",
+   "mb": 0.37
+  },
+  {
+   "destino": "sonidos/mq4_burbujas/Bubbles_001.wav_by_ristooooo1_539823.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mq4_viento_fuerte/room-tone_wind_rain_12_200216_0114.wav_by_klankbee_522995.mp3",
+   "mb": 0.33
+  },
+  {
+   "destino": "sonidos/mq4_viento_fuerte/Howling_wind_by_ShannonAHoniball_363139.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/mq4_viento_fuerte/Wind_howling_by_paf60_767148.mp3",
+   "mb": 0.11
+  },
+  {
+   "destino": "sonidos/mq4_viento_fuerte/Howling_Wind_on_Street.wav_by_Analog_Bleep_Ten_75825.mp3",
+   "mb": 0.29
+  },
+  {
+   "destino": "sonidos/mq4_viento_fuerte/Wind_Howling_and_whistling_and_banging_louder.wav__468209.mp3",
+   "mb": 0.36
+  },
+  {
+   "destino": "sonidos/mq4_viento_fuerte/Howling_Wind_by_faithechetty_595018.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/mq4_viento_fuerte/Room-tone_storm_001_200216_0115.wav_by_klankbeeld_610383.mp3",
+   "mb": 0.35
+  },
+  {
+   "destino": "sonidos/mq4_viento_fuerte/Wind.wav_by_kingof_thelab_340237.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "miniaturas/mq4_junco/7cb918d5854345a78a56d77202d4f1ab.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_junco/bc77ea5218e44f2dbc23b2a4aef0c898.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_junco/e87391d80e304b7682fc5132da0e461b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_junco/7841d19f315f4de986971fa8403f7081.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_junco/a8923e7b4fd44c2c9ba7f006fb952626.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_junco/97945156bc5e4928aedd169581899061.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_junco/9a28560192044beca3c8d96ba28545ef.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_junco/7b9119ddc41e42a1957c194b0c6adfeb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_junco/6a9f75b961504a96b4093e0ee81b59a6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_junco/f2f1dffe6eca412c8eefb081995e138b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_junco/bf5e6c6adf3346fe9b8425be4e200c26.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_junco/6425ac06ad264198aed77ac0fcbcbc34.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_junco/6106c101bbad46c39e79c745c741305e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_junco/e129610c01d2479d894428f046a27b04.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_junco/c06503caa2a643bca3152c870d7b4218.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_junco/d9b341020dc546c5af6f36ec0174dc0f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_junco/db8a7f0469384bb297b66ebe185aec99.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_junco/09c005e0e6524111b22cfb84471e7739.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_junco/a7d37e391ee84e9b9ef66ceb25f3a9ec.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_junco/a09592f04ebb495c9641ea1e7630b1de.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_totora/c060a8f5a2ba4c21a3d4fd99660d94fe.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_enea/942948687b7b45a2a55b6591fa6270d0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_enea/3df15aaf09574464854f42dcf093b449.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/3352f9d646ec4f25b8aeb28e4232814a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/1b43d98193b746cca341bb9dbb13b45e.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/7598babd6ced44019806a7879bf60656.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/106c2c58f6d743c7897e327a9152ea54.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/c86bba3546094c81ababfdf7db95e19c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/4f6fdcedd61d4783a5862f92282e72a8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/e509215301d34356b75e66dbd0d58bf4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/8399c00672134b828ca6cf2363a95085.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/09d2ec4ecdc44043ad6ecb4a5be628d4.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/c0f09c7c12b844f6924814e9bff1dd59.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/beab7b38aaeb411b90e34110baa99543.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/d0389dbd06be4f8e98ededa619ebafa8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/17aa9084fc0f44c29698632956b17705.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/dde6238094054c42bfd0e0d32335a36c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/063592d61b744c1d9c328d5ab12ddfea.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/95dc9c01a9ed45a99a3303b95c9f3f91.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/5ec1e157943d461cbb858d2957df0bca.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/79bc6380759a4937ab7416cdd530136f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/89270c3b6f574e2d8bff7bf0e7bac3f4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/325e9cf095774e2e83a8e8197b6572a4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/30160d9233b241068104d301aca18064.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/cc2850117d9e4d9cb9eafb3f80e4e107.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/ee3d28257a434b7d80a14cabe23ea30f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/2e6aa633946d490583a3ed4d9b6456b9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/8ba5c017adb443a8bcdc586d71c285c5.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/26b1e9e0700448e49e630c3713e3a3a1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/649fe84b79164bc985da8a8fa3cff5fa.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/1d1b22cd1e7b448e8977e8f0c146393c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/8a78295b56c64c16be6e2e4d7215dbfb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/4f01396fb91b4f5c83a890381f2d4424.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/e7daf5ed327447f5852c4a6bb51d9735.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/55b8fc720ca54c4295db993928a397a4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/564ab33627974dee917d2ded0b800c5b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_pasto_alto/9e3685c46b324b7091e931ac72dca3a7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/mq4_mosquitero/9261a18e7a314c6683e9a2a0679845b2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/mq4_mosquitero/a5508a81744b462193a79830844994e5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "hdri/pond_2k.hdr",
+   "mb": 6.99
+  },
+  {
+   "destino": "hdri/lakeside_sunrise_2k.hdr",
+   "mb": 5.78
+  },
+  {
+   "destino": "hdri/rocky_ridge_puresky_2k.hdr",
+   "mb": 4.68
+  },
+  {
+   "destino": "hdri/snowy_hillside_2k.hdr",
+   "mb": 6.06
+  },
+  {
+   "destino": "hdri/qwantani_morning_puresky_2k.hdr",
+   "mb": 4.25
+  },
+  {
+   "destino": "hdri/kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+   "mb": 5.2
+  },
+  {
+   "destino": "texturas/leafy_grass/leafy_grass_Diffuse_2k.jpg",
+   "mb": 4.55
+  },
+  {
+   "destino": "texturas/leafy_grass/leafy_grass_nor_gl_2k.jpg",
+   "mb": 5.77
+  },
+  {
+   "destino": "texturas/leafy_grass/leafy_grass_Rough_2k.jpg",
+   "mb": 2.17
+  },
+  {
+   "destino": "texturas/leafy_grass/leafy_grass_AO_2k.jpg",
+   "mb": 3.98
+  },
+  {
+   "destino": "texturas/leafy_grass/leafy_grass_Displacement_2k.jpg",
+   "mb": 2.43
+  },
+  {
+   "destino": "texturas/leafy_grass/leafy_grass_arm_2k.jpg",
+   "mb": 3.93
+  },
+  {
+   "destino": "texturas/withered_grass/withered_grass_Diffuse_2k.jpg",
+   "mb": 4.42
+  },
+  {
+   "destino": "texturas/withered_grass/withered_grass_nor_gl_2k.jpg",
+   "mb": 5.91
+  },
+  {
+   "destino": "texturas/withered_grass/withered_grass_Rough_2k.jpg",
+   "mb": 3.5
+  },
+  {
+   "destino": "texturas/withered_grass/withered_grass_AO_2k.jpg",
+   "mb": 3.85
+  },
+  {
+   "destino": "texturas/withered_grass/withered_grass_Displacement_2k.jpg",
+   "mb": 2.32
+  },
+  {
+   "destino": "texturas/withered_grass/withered_grass_arm_2k.jpg",
+   "mb": 4.58
+  },
+  {
+   "destino": "texturas/sparse_grass/sparse_grass_Diffuse_2k.jpg",
+   "mb": 3.56
+  },
+  {
+   "destino": "texturas/sparse_grass/sparse_grass_nor_gl_2k.jpg",
+   "mb": 5.62
+  },
+  {
+   "destino": "texturas/sparse_grass/sparse_grass_Rough_2k.jpg",
+   "mb": 1.65
+  },
+  {
+   "destino": "texturas/sparse_grass/sparse_grass_AO_2k.jpg",
+   "mb": 3.72
+  },
+  {
+   "destino": "texturas/sparse_grass/sparse_grass_Displacement_2k.jpg",
+   "mb": 2.21
+  },
+  {
+   "destino": "texturas/sparse_grass/sparse_grass_arm_2k.jpg",
+   "mb": 3.66
+  },
+  {
+   "destino": "texturas/lichen_rock/lichen_rock_Diffuse_2k.jpg",
+   "mb": 3.82
+  },
+  {
+   "destino": "texturas/lichen_rock/lichen_rock_nor_gl_2k.jpg",
+   "mb": 4.62
+  },
+  {
+   "destino": "texturas/lichen_rock/lichen_rock_Rough_2k.jpg",
+   "mb": 2.01
+  },
+  {
+   "destino": "texturas/lichen_rock/lichen_rock_AO_2k.jpg",
+   "mb": 2.45
+  },
+  {
+   "destino": "texturas/lichen_rock/lichen_rock_Displacement_2k.jpg",
+   "mb": 0.92
+  },
+  {
+   "destino": "texturas/lichen_rock/lichen_rock_arm_2k.jpg",
+   "mb": 2.84
+  },
+  {
+   "destino": "texturas/snow_02/snow_02_Diffuse_2k.jpg",
+   "mb": 1.25
+  },
+  {
+   "destino": "texturas/snow_02/snow_02_nor_gl_2k.jpg",
+   "mb": 4.54
+  },
+  {
+   "destino": "texturas/snow_02/snow_02_Rough_2k.jpg",
+   "mb": 0.6
+  },
+  {
+   "destino": "texturas/snow_02/snow_02_AO_2k.jpg",
+   "mb": 1.29
+  },
+  {
+   "destino": "texturas/snow_02/snow_02_Displacement_2k.jpg",
+   "mb": 0.41
+  },
+  {
+   "destino": "texturas/snow_02/snow_02_arm_2k.jpg",
+   "mb": 0.37
+  },
+  {
+   "destino": "texturas/brown_mud/brown_mud_Diffuse_2k.jpg",
+   "mb": 2.0
+  },
+  {
+   "destino": "texturas/brown_mud/brown_mud_nor_gl_2k.jpg",
+   "mb": 2.93
+  },
+  {
+   "destino": "texturas/brown_mud/brown_mud_Rough_2k.jpg",
+   "mb": 1.36
+  },
+  {
+   "destino": "texturas/brown_mud/brown_mud_AO_2k.jpg",
+   "mb": 1.5
+  },
+  {
+   "destino": "texturas/brown_mud/brown_mud_Displacement_2k.jpg",
+   "mb": 0.63
+  },
+  {
+   "destino": "texturas/brown_mud/brown_mud_arm_2k.jpg",
+   "mb": 0.81
+  },
+  {
+   "destino": "texturas/forest_floor/forest_floor_Diffuse_2k.jpg",
+   "mb": 5.2
+  },
+  {
+   "destino": "texturas/forest_floor/forest_floor_nor_gl_2k.jpg",
+   "mb": 5.12
+  },
+  {
+   "destino": "texturas/forest_floor/forest_floor_Rough_2k.jpg",
+   "mb": 3.09
+  },
+  {
+   "destino": "texturas/forest_floor/forest_floor_AO_2k.jpg",
+   "mb": 2.79
+  },
+  {
+   "destino": "texturas/forest_floor/forest_floor_Displacement_2k.jpg",
+   "mb": 1.85
+  },
+  {
+   "destino": "texturas/forest_floor/forest_floor_arm_2k.jpg",
+   "mb": 3.74
+  },
+  {
+   "destino": "texturas/rough_linen/rough_linen_Diffuse_2k.jpg",
+   "mb": 3.44
+  },
+  {
+   "destino": "texturas/rough_linen/rough_linen_nor_gl_2k.jpg",
+   "mb": 3.67
+  },
+  {
+   "destino": "texturas/rough_linen/rough_linen_Rough_2k.jpg",
+   "mb": 4.44
+  },
+  {
+   "destino": "texturas/rough_linen/rough_linen_AO_2k.jpg",
+   "mb": 3.79
+  },
+  {
+   "destino": "texturas/rough_linen/rough_linen_Displacement_2k.jpg",
+   "mb": 2.77
+  },
+  {
+   "destino": "texturas/rough_linen/rough_linen_arm_2k.jpg",
+   "mb": 4.95
+  },
+  {
+   "destino": "texturas/cotton_jersey/cotton_jersey_Diffuse_2k.jpg",
+   "mb": 2.87
+  },
+  {
+   "destino": "texturas/cotton_jersey/cotton_jersey_nor_gl_2k.jpg",
+   "mb": 3.15
+  },
+  {
+   "destino": "texturas/cotton_jersey/cotton_jersey_Rough_2k.jpg",
+   "mb": 3.85
+  },
+  {
+   "destino": "texturas/cotton_jersey/cotton_jersey_AO_2k.jpg",
+   "mb": 2.94
+  },
+  {
+   "destino": "texturas/cotton_jersey/cotton_jersey_Displacement_2k.jpg",
+   "mb": 3.31
+  },
+  {
+   "destino": "texturas/cotton_jersey/cotton_jersey_arm_2k.jpg",
+   "mb": 4.4
+  },
+  {
+   "destino": "texturas/laminate_floor/laminate_floor_Diffuse_2k.jpg",
+   "mb": 1.97
+  },
+  {
+   "destino": "texturas/laminate_floor/laminate_floor_nor_gl_2k.jpg",
+   "mb": 1.64
+  },
+  {
+   "destino": "texturas/laminate_floor/laminate_floor_Rough_2k.jpg",
+   "mb": 2.03
+  },
+  {
+   "destino": "texturas/laminate_floor/laminate_floor_AO_2k.jpg",
+   "mb": 2.65
+  },
+  {
+   "destino": "texturas/laminate_floor/laminate_floor_Displacement_2k.jpg",
+   "mb": 1.5
+  },
+  {
+   "destino": "texturas/laminate_floor/laminate_floor_arm_2k.jpg",
+   "mb": 1.73
+  },
+  {
+   "destino": "texturas/mossy_rock/mossy_rock_Diffuse_2k.jpg",
+   "mb": 4.33
+  },
+  {
+   "destino": "texturas/mossy_rock/mossy_rock_nor_gl_2k.jpg",
+   "mb": 3.85
+  },
+  {
+   "destino": "texturas/mossy_rock/mossy_rock_Rough_2k.jpg",
+   "mb": 3.06
+  },
+  {
+   "destino": "texturas/mossy_rock/mossy_rock_AO_2k.jpg",
+   "mb": 2.15
+  },
+  {
+   "destino": "texturas/mossy_rock/mossy_rock_Displacement_2k.jpg",
+   "mb": 0.61
+  },
+  {
+   "destino": "texturas/mossy_rock/mossy_rock_arm_2k.jpg",
+   "mb": 3.62
+  },
+  {
+   "destino": "texturas/aerial_grass_rock/aerial_grass_rock_Diffuse_2k.jpg",
+   "mb": 2.5
+  },
+  {
+   "destino": "texturas/aerial_grass_rock/aerial_grass_rock_nor_gl_2k.jpg",
+   "mb": 3.62
+  },
+  {
+   "destino": "texturas/aerial_grass_rock/aerial_grass_rock_Rough_2k.jpg",
+   "mb": 1.43
+  },
+  {
+   "destino": "texturas/aerial_grass_rock/aerial_grass_rock_AO_2k.jpg",
+   "mb": 2.06
+  },
+  {
+   "destino": "texturas/aerial_grass_rock/aerial_grass_rock_Displacement_2k.jpg",
+   "mb": 0.51
+  },
+  {
+   "destino": "texturas/aerial_grass_rock/aerial_grass_rock_arm_2k.jpg",
+   "mb": 0.9
+  },
+  {
+   "destino": "modelos/grass_medium_02/grass_medium_02_1k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/grass_medium_02/textures/grass_medium_02_nor_gl_1k.jpg",
+   "mb": 0.11
+  },
+  {
+   "destino": "modelos/grass_medium_02/textures/grass_medium_02_diff_1k.jpg",
+   "mb": 0.15
+  },
+  {
+   "destino": "modelos/grass_medium_02/textures/grass_medium_02_arm_1k.jpg",
+   "mb": 0.23
+  },
+  {
+   "destino": "modelos/grass_medium_02/grass_medium_02.bin",
+   "mb": 0.26
+  },
+  {
+   "destino": "modelos/rock_moss_set_02/rock_moss_set_02_1k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/rock_moss_set_02/textures/rock_moss_set_02_nor_gl_1k.jpg",
+   "mb": 0.26
+  },
+  {
+   "destino": "modelos/rock_moss_set_02/textures/rock_moss_set_02_diff_1k.jpg",
+   "mb": 0.19
+  },
+  {
+   "destino": "modelos/rock_moss_set_02/textures/rock_moss_set_02_rough_1k.jpg",
+   "mb": 0.14
+  },
+  {
+   "destino": "modelos/rock_moss_set_02/rock_moss_set_02.bin",
+   "mb": 1.26
+  },
+  {
+   "destino": "modelos/shrub_01/shrub_01_1k.gltf",
+   "mb": 0.0
+  },
+  {
+   "destino": "modelos/shrub_01/textures/shrub_01_nor_gl_1k.jpg",
+   "mb": 0.71
+  },
+  {
+   "destino": "modelos/shrub_01/shrub_01.bin",
+   "mb": 5.0
+  },
+  {
+   "destino": "modelos/shrub_01/textures/shrub_01_arm_1k.jpg",
+   "mb": 0.37
+  },
+  {
+   "destino": "modelos/shrub_01/textures/shrub_01_diff_1k.jpg",
+   "mb": 0.48
+  },
+  {
+   "destino": "modelos/shrub_02/shrub_02_1k.gltf",
+   "mb": 0.01
+  },
+  {
+   "destino": "modelos/shrub_02/textures/shrub_02_arm_1k.jpg",
+   "mb": 0.3
+  },
+  {
+   "destino": "modelos/shrub_02/textures/shrub_02_nor_gl_1k.jpg",
+   "mb": 0.47
+  },
+  {
+   "destino": "modelos/shrub_02/shrub_02.bin",
+   "mb": 0.72
+  },
+  {
+   "destino": "modelos/shrub_02/textures/shrub_02_diff_1k.jpg",
+   "mb": 0.38
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "freesound": {
+  "mq4_zumbido_oreja": [
+   {
+    "id": "811902",
+    "autor": "klankbeeld",
+    "pagina": "https://freesound.org/people/klankbeeld/sounds/811902/",
+    "titulo": "mosquito over evening fields village Lage-Zwaluwe 0937 pm 240801_0874 by klankbeeld",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mq4_zumbido_oreja/mosquito_over_evening_fields_village_Lage-Zwaluwe__811902.mp3"
+   },
+   {
+    "id": "20306",
+    "autor": "dobroide",
+    "pagina": "https://freesound.org/people/dobroide/sounds/20306/",
+    "titulo": "20060628.mosquito03.flac by dobroide",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mq4_zumbido_oreja/20060628.mosquito03.flac_by_dobroide_20306.mp3"
+   }
+  ],
+  "mq4_lengua_rana": [],
+  "mq4_pastilla": [
+   {
+    "id": "523697",
+    "autor": "adafdf",
+    "pagina": "https://freesound.org/people/adafdf/sounds/523697/",
+    "titulo": "Pills hit floor_adams.wav by adafdf",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mq4_pastilla/Pills_hit_floor_adams.wav_by_adafdf_523697.mp3"
+   },
+   {
+    "id": "816588",
+    "autor": "siohf.b",
+    "pagina": "https://freesound.org/people/siohf.b/sounds/816588/",
+    "titulo": "blister of pills falling and crackling by siohf.b",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mq4_pastilla/blister_of_pills_falling_and_crackling_by_siohf.b_816588.mp3"
+   },
+   {
+    "id": "325538",
+    "autor": "140178sound",
+    "pagina": "https://freesound.org/people/140178sound/sounds/325538/",
+    "titulo": "Pills thrown out of and into plastic medicine container by 140178sound",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mq4_pastilla/Pills_thrown_out_of_and_into_plastic_medicine_cont_325538.mp3"
+   },
+   {
+    "id": "401671",
+    "autor": "AdamJordaan140087",
+    "pagina": "https://freesound.org/people/AdamJordaan140087/sounds/401671/",
+    "titulo": "Pill dissolving in water by AdamJordaan140087",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mq4_pastilla/Pill_dissolving_in_water_by_AdamJordaan140087_401671.mp3"
+   },
+   {
+    "id": "430299",
+    "autor": "JanIsAGuy",
+    "pagina": "https://freesound.org/people/JanIsAGuy/sounds/430299/",
+    "titulo": "Pill capsule opening pill dropping onto glass.wav by JanIsAGuy",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mq4_pastilla/Pill_capsule_opening_pill_dropping_onto_glass.wav__430299.mp3"
+   },
+   {
+    "id": "268973",
+    "autor": "kczub",
+    "pagina": "https://freesound.org/people/kczub/sounds/268973/",
+    "titulo": "Pills 1.wav by kczub",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mq4_pastilla/Pills_1.wav_by_kczub_268973.mp3"
+   },
+   {
+    "id": "268972",
+    "autor": "kczub",
+    "pagina": "https://freesound.org/people/kczub/sounds/268972/",
+    "titulo": "Pills 2.wav by kczub",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mq4_pastilla/Pills_2.wav_by_kczub_268972.mp3"
+   },
+   {
+    "id": "656346",
+    "autor": "straynerd",
+    "pagina": "https://freesound.org/people/straynerd/sounds/656346/",
+    "titulo": "Droping a bottle of pills OWI.wav by straynerd",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mq4_pastilla/Droping_a_bottle_of_pills_OWI.wav_by_straynerd_656346.mp3"
+   }
+  ],
+  "mq4_chocolate": [],
+  "mq4_sabanas": [
+   {
+    "id": "644490",
+    "autor": "Froey_",
+    "pagina": "https://freesound.org/people/Froey_/sounds/644490/",
+    "titulo": "Rustling bed sheets by Froey_",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mq4_sabanas/Rustling_bed_sheets_by_Froey__644490.mp3"
+   },
+   {
+    "id": "444405",
+    "autor": "MootMcnoodles",
+    "pagina": "https://freesound.org/people/MootMcnoodles/sounds/444405/",
+    "titulo": "Sheets Rustling.wav by MootMcnoodles",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mq4_sabanas/Sheets_Rustling.wav_by_MootMcnoodles_444405.mp3"
+   },
+   {
+    "id": "409099",
+    "autor": "Kash15",
+    "pagina": "https://freesound.org/people/Kash15/sounds/409099/",
+    "titulo": "Bed sheet sounds by Kash15",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mq4_sabanas/Bed_sheet_sounds_by_Kash15_409099.mp3"
+   },
+   {
+    "id": "708528",
+    "autor": "MatthewKEvans",
+    "pagina": "https://freesound.org/people/MatthewKEvans/sounds/708528/",
+    "titulo": "SHEETShaking Bed Sheet-Int_ Hollow sounding, aggressive.Matthew.OwSFX by MatthewKEvans",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mq4_sabanas/SHEETShaking_Bed_Sheet-Int__Hollow_sounding_aggres_708528.mp3"
+   },
+   {
+    "id": "766114",
+    "autor": "Qhama",
+    "pagina": "https://freesound.org/people/Qhama/sounds/766114/",
+    "titulo": "Sheets rustling by Qhama",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mq4_sabanas/Sheets_rustling_by_Qhama_766114.mp3"
+   },
+   {
+    "id": "591794",
+    "autor": "Livwagner8747",
+    "pagina": "https://freesound.org/people/Livwagner8747/sounds/591794/",
+    "titulo": "Pillow being fluffed OWI.wav by Livwagner8747",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mq4_sabanas/Pillow_being_fluffed_OWI.wav_by_Livwagner8747_591794.mp3"
+   },
+   {
+    "id": "654895",
+    "autor": "Ameliezee",
+    "pagina": "https://freesound.org/people/Ameliezee/sounds/654895/",
+    "titulo": "Rustling Bed Sheets.wav by Ameliezee",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mq4_sabanas/Rustling_Bed_Sheets.wav_by_Ameliezee_654895.mp3"
+   },
+   {
+    "id": "573730",
+    "autor": "MWsfx",
+    "pagina": "https://freesound.org/people/MWsfx/sounds/573730/",
+    "titulo": "Sheets - Sitting Up.wav by MWsfx",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mq4_sabanas/Sheets_-_Sitting_Up.wav_by_MWsfx_573730.mp3"
+   }
+  ],
+  "mq4_burbujas": [
+   {
+    "id": "96742",
+    "autor": "Robinhood76",
+    "pagina": "https://freesound.org/people/Robinhood76/sounds/96742/",
+    "titulo": "01650 underwater bubbles.wav by Robinhood76",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mq4_burbujas/01650_underwater_bubbles.wav_by_Robinhood76_96742.mp3"
+   },
+   {
+    "id": "232862",
+    "autor": "f4ngy",
+    "pagina": "https://freesound.org/people/f4ngy/sounds/232862/",
+    "titulo": "Bubbles.wav by f4ngy",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mq4_burbujas/Bubbles.wav_by_f4ngy_232862.mp3"
+   },
+   {
+    "id": "339859",
+    "autor": "barcelonetasonora",
+    "pagina": "https://freesound.org/people/barcelonetasonora/sounds/339859/",
+    "titulo": "Flotante - Bubbles by barcelonetasonora",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mq4_burbujas/Flotante_-_Bubbles_by_barcelonetasonora_339859.mp3"
+   },
+   {
+    "id": "68312",
+    "autor": "digifishmusic",
+    "pagina": "https://freesound.org/people/digifishmusic/sounds/68312/",
+    "titulo": "Bubbles_cam.wav by digifishmusic",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mq4_burbujas/Bubbles_cam.wav_by_digifishmusic_68312.mp3"
+   },
+   {
+    "id": "840042",
+    "autor": "hotpin7",
+    "pagina": "https://freesound.org/people/hotpin7/sounds/840042/",
+    "titulo": "Bubbles by hotpin7",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mq4_burbujas/Bubbles_by_hotpin7_840042.mp3"
+   },
+   {
+    "id": "823209",
+    "autor": "Akkaittou",
+    "pagina": "https://freesound.org/people/Akkaittou/sounds/823209/",
+    "titulo": "UnderWaterHugeBubble by Akkaittou",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mq4_burbujas/UnderWaterHugeBubble_by_Akkaittou_823209.mp3"
+   },
+   {
+    "id": "698816",
+    "autor": "Funky_Audio",
+    "pagina": "https://freesound.org/people/Funky_Audio/sounds/698816/",
+    "titulo": "DSGNSynth_bubble echoes high_Funky Audio_FASS.wav by Funky_Audio",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mq4_burbujas/DSGNSynth_bubble_echoes_high_Funky_Audio_FASS.wav__698816.mp3"
+   },
+   {
+    "id": "539823",
+    "autor": "ristooooo1",
+    "pagina": "https://freesound.org/people/ristooooo1/sounds/539823/",
+    "titulo": "Bubbles 001.wav by ristooooo1",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mq4_burbujas/Bubbles_001.wav_by_ristooooo1_539823.mp3"
+   }
+  ],
+  "mq4_viento_fuerte": [
+   {
+    "id": "522995",
+    "autor": "klankbeeld",
+    "pagina": "https://freesound.org/people/klankbeeld/sounds/522995/",
+    "titulo": "room-tone wind rain 12 200216_0114.wav by klankbeeld",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mq4_viento_fuerte/room-tone_wind_rain_12_200216_0114.wav_by_klankbee_522995.mp3"
+   },
+   {
+    "id": "363139",
+    "autor": "ShannonAHoniball",
+    "pagina": "https://freesound.org/people/ShannonAHoniball/sounds/363139/",
+    "titulo": "Howling wind by ShannonAHoniball",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mq4_viento_fuerte/Howling_wind_by_ShannonAHoniball_363139.mp3"
+   },
+   {
+    "id": "767148",
+    "autor": "paf60",
+    "pagina": "https://freesound.org/people/paf60/sounds/767148/",
+    "titulo": "Wind howling by paf60",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mq4_viento_fuerte/Wind_howling_by_paf60_767148.mp3"
+   },
+   {
+    "id": "75825",
+    "autor": "Analog%20Bleep%20Ten",
+    "pagina": "https://freesound.org/people/Analog%20Bleep%20Ten/sounds/75825/",
+    "titulo": "Howling Wind on Street.wav by Analog Bleep Ten",
+    "licencia": "?",
+    "archivo": "sonidos/mq4_viento_fuerte/Howling_Wind_on_Street.wav_by_Analog_Bleep_Ten_75825.mp3"
+   },
+   {
+    "id": "468209",
+    "autor": "markdmurray",
+    "pagina": "https://freesound.org/people/markdmurray/sounds/468209/",
+    "titulo": "Wind Howling and whistling and banging louder.wav by markdmurray",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mq4_viento_fuerte/Wind_Howling_and_whistling_and_banging_louder.wav__468209.mp3"
+   },
+   {
+    "id": "595018",
+    "autor": "faithechetty",
+    "pagina": "https://freesound.org/people/faithechetty/sounds/595018/",
+    "titulo": "Howling Wind by faithechetty",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mq4_viento_fuerte/Howling_Wind_by_faithechetty_595018.mp3"
+   },
+   {
+    "id": "610383",
+    "autor": "klankbeeld",
+    "pagina": "https://freesound.org/people/klankbeeld/sounds/610383/",
+    "titulo": "Room-tone storm 001 200216_0115.wav by klankbeeld",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mq4_viento_fuerte/Room-tone_storm_001_200216_0115.wav_by_klankbeeld_610383.mp3"
+   },
+   {
+    "id": "340237",
+    "autor": "kingof_thelab",
+    "pagina": "https://freesound.org/people/kingof_thelab/sounds/340237/",
+    "titulo": "Wind.wav by kingof_thelab",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mq4_viento_fuerte/Wind.wav_by_kingof_thelab_340237.mp3"
+   }
+  ]
+ },
+ "sketchfab": {
+  "mq4_junco": [
+   {
+    "uid": "7cb918d5854345a78a56d77202d4f1ab",
+    "nombre": "Bamboo Cover",
+    "autor": "hakangztk",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8604,
+    "url": "https://sketchfab.com/3d-models/none-7cb918d5854345a78a56d77202d4f1ab",
+    "miniatura": "miniaturas/mq4_junco/7cb918d5854345a78a56d77202d4f1ab.jpg"
+   },
+   {
+    "uid": "bc77ea5218e44f2dbc23b2a4aef0c898",
+    "nombre": "Reed Plants Pack",
+    "autor": "Nicholas01",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1619,
+    "url": "https://sketchfab.com/3d-models/none-bc77ea5218e44f2dbc23b2a4aef0c898",
+    "miniatura": "miniaturas/mq4_junco/bc77ea5218e44f2dbc23b2a4aef0c898.jpg"
+   },
+   {
+    "uid": "e87391d80e304b7682fc5132da0e461b",
+    "nombre": "Ancient Greek Aulos",
+    "autor": "WoodwindsRock",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8048,
+    "url": "https://sketchfab.com/3d-models/none-e87391d80e304b7682fc5132da0e461b",
+    "miniatura": "miniaturas/mq4_junco/e87391d80e304b7682fc5132da0e461b.jpg"
+   },
+   {
+    "uid": "7841d19f315f4de986971fa8403f7081",
+    "nombre": "Low Poly Circle Island",
+    "autor": "etherrinart",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 41396,
+    "url": "https://sketchfab.com/3d-models/none-7841d19f315f4de986971fa8403f7081",
+    "miniatura": "miniaturas/mq4_junco/7841d19f315f4de986971fa8403f7081.jpg"
+   },
+   {
+    "uid": "a8923e7b4fd44c2c9ba7f006fb952626",
+    "nombre": "Reeds low poly",
+    "autor": "daniel.2U",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 544,
+    "url": "https://sketchfab.com/3d-models/none-a8923e7b4fd44c2c9ba7f006fb952626",
+    "miniatura": "miniaturas/mq4_junco/a8923e7b4fd44c2c9ba7f006fb952626.jpg"
+   },
+   {
+    "uid": "97945156bc5e4928aedd169581899061",
+    "nombre": "Statue of a worshipper",
+    "autor": "britishmuseum",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 829150,
+    "url": "https://sketchfab.com/3d-models/none-97945156bc5e4928aedd169581899061",
+    "miniatura": "miniaturas/mq4_junco/97945156bc5e4928aedd169581899061.jpg"
+   },
+   {
+    "uid": "9a28560192044beca3c8d96ba28545ef",
+    "nombre": "Hohner Marine Band harmonica",
+    "autor": "AndreuMartiBas",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 16488,
+    "url": "https://sketchfab.com/3d-models/none-9a28560192044beca3c8d96ba28545ef",
+    "miniatura": "miniaturas/mq4_junco/9a28560192044beca3c8d96ba28545ef.jpg"
+   },
+   {
+    "uid": "7b9119ddc41e42a1957c194b0c6adfeb",
+    "nombre": "Faun-Brunnen",
+    "autor": "www.noe-3d.at",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 515750,
+    "url": "https://sketchfab.com/3d-models/none-7b9119ddc41e42a1957c194b0c6adfeb",
+    "miniatura": "miniaturas/mq4_junco/7b9119ddc41e42a1957c194b0c6adfeb.jpg"
+   },
+   {
+    "uid": "6a9f75b961504a96b4093e0ee81b59a6",
+    "nombre": "Yunta Wiñay \"friends forever\" Uros Reed Boat",
+    "autor": "Austin.Beaulier",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 200000,
+    "url": "https://sketchfab.com/3d-models/none-6a9f75b961504a96b4093e0ee81b59a6",
+    "miniatura": "miniaturas/mq4_junco/6a9f75b961504a96b4093e0ee81b59a6.jpg"
+   },
+   {
+    "uid": "f2f1dffe6eca412c8eefb081995e138b",
+    "nombre": "Gloriett",
+    "autor": "Miklosh02",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 74820,
+    "url": "https://sketchfab.com/3d-models/none-f2f1dffe6eca412c8eefb081995e138b",
+    "miniatura": "miniaturas/mq4_junco/f2f1dffe6eca412c8eefb081995e138b.jpg"
+   },
+   {
+    "uid": "bf5e6c6adf3346fe9b8425be4e200c26",
+    "nombre": "Beeldje",
+    "autor": "zuidholland",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5559,
+    "url": "https://sketchfab.com/3d-models/none-bf5e6c6adf3346fe9b8425be4e200c26",
+    "miniatura": "miniaturas/mq4_junco/bf5e6c6adf3346fe9b8425be4e200c26.jpg"
+   },
+   {
+    "uid": "6425ac06ad264198aed77ac0fcbcbc34",
+    "nombre": "CANE radiator",
+    "autor": "termagroup",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 109240,
+    "url": "https://sketchfab.com/3d-models/none-6425ac06ad264198aed77ac0fcbcbc34",
+    "miniatura": "miniaturas/mq4_junco/6425ac06ad264198aed77ac0fcbcbc34.jpg"
+   },
+   {
+    "uid": "6106c101bbad46c39e79c745c741305e",
+    "nombre": "Reeds",
+    "autor": "sunsetscorpion",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 236,
+    "url": "https://sketchfab.com/3d-models/none-6106c101bbad46c39e79c745c741305e",
+    "miniatura": "miniaturas/mq4_junco/6106c101bbad46c39e79c745c741305e.jpg"
+   },
+   {
+    "uid": "e129610c01d2479d894428f046a27b04",
+    "nombre": "King's decorative shield",
+    "autor": "AbhinavRaj50",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3690,
+    "url": "https://sketchfab.com/3d-models/none-e129610c01d2479d894428f046a27b04",
+    "miniatura": "miniaturas/mq4_junco/e129610c01d2479d894428f046a27b04.jpg"
+   },
+   {
+    "uid": "c06503caa2a643bca3152c870d7b4218",
+    "nombre": "Beret of Clarence Reeds, 1905",
+    "autor": "liscapstone",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 36676,
+    "url": "https://sketchfab.com/3d-models/none-c06503caa2a643bca3152c870d7b4218",
+    "miniatura": "miniaturas/mq4_junco/c06503caa2a643bca3152c870d7b4218.jpg"
+   },
+   {
+    "uid": "d9b341020dc546c5af6f36ec0174dc0f",
+    "nombre": "Diorama Mesh/Hell scape",
+    "autor": "Baxternight2020",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3379,
+    "url": "https://sketchfab.com/3d-models/none-d9b341020dc546c5af6f36ec0174dc0f",
+    "miniatura": "miniaturas/mq4_junco/d9b341020dc546c5af6f36ec0174dc0f.jpg"
+   },
+   {
+    "uid": "db8a7f0469384bb297b66ebe185aec99",
+    "nombre": "CANE E radiator",
+    "autor": "termagroup",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 98672,
+    "url": "https://sketchfab.com/3d-models/none-db8a7f0469384bb297b66ebe185aec99",
+    "miniatura": "miniaturas/mq4_junco/db8a7f0469384bb297b66ebe185aec99.jpg"
+   },
+   {
+    "uid": "09c005e0e6524111b22cfb84471e7739",
+    "nombre": "Stoneware Pipe",
+    "autor": "XRchaeology",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 31378,
+    "url": "https://sketchfab.com/3d-models/none-09c005e0e6524111b22cfb84471e7739",
+    "miniatura": "miniaturas/mq4_junco/09c005e0e6524111b22cfb84471e7739.jpg"
+   },
+   {
+    "uid": "a7d37e391ee84e9b9ef66ceb25f3a9ec",
+    "nombre": "Dolium In situ",
+    "autor": "Erfpunt",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 14657,
+    "url": "https://sketchfab.com/3d-models/none-a7d37e391ee84e9b9ef66ceb25f3a9ec",
+    "miniatura": "miniaturas/mq4_junco/a7d37e391ee84e9b9ef66ceb25f3a9ec.jpg"
+   },
+   {
+    "uid": "a09592f04ebb495c9641ea1e7630b1de",
+    "nombre": "OU Football Sweater",
+    "autor": "liscapstone",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 50000,
+    "url": "https://sketchfab.com/3d-models/none-a09592f04ebb495c9641ea1e7630b1de",
+    "miniatura": "miniaturas/mq4_junco/a09592f04ebb495c9641ea1e7630b1de.jpg"
+   }
+  ],
+  "mq4_totora": [
+   {
+    "uid": "c060a8f5a2ba4c21a3d4fd99660d94fe",
+    "nombre": "Wild garlic, bulrush, borage - medicinal plants",
+    "autor": "LadyIReyna",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 404,
+    "url": "https://sketchfab.com/3d-models/none-c060a8f5a2ba4c21a3d4fd99660d94fe",
+    "miniatura": "miniaturas/mq4_totora/c060a8f5a2ba4c21a3d4fd99660d94fe.jpg"
+   }
+  ],
+  "mq4_enea": [
+   {
+    "uid": "942948687b7b45a2a55b6591fa6270d0",
+    "nombre": "Typhaeus typhoeus",
+    "autor": "disc3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 74502,
+    "url": "https://sketchfab.com/3d-models/none-942948687b7b45a2a55b6591fa6270d0",
+    "miniatura": "miniaturas/mq4_enea/942948687b7b45a2a55b6591fa6270d0.jpg"
+   },
+   {
+    "uid": "3df15aaf09574464854f42dcf093b449",
+    "nombre": "Fossil Leaf (Poacites sp)",
+    "autor": "MUVHN",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3339244,
+    "url": "https://sketchfab.com/3d-models/none-3df15aaf09574464854f42dcf093b449",
+    "miniatura": "miniaturas/mq4_enea/3df15aaf09574464854f42dcf093b449.jpg"
+   }
+  ],
+  "mq4_pasto_alto": [
+   {
+    "uid": "3352f9d646ec4f25b8aeb28e4232814a",
+    "nombre": "Grass Pack LP",
+    "autor": "juhyt80",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 324,
+    "url": "https://sketchfab.com/3d-models/none-3352f9d646ec4f25b8aeb28e4232814a",
+    "miniatura": "miniaturas/mq4_pasto_alto/3352f9d646ec4f25b8aeb28e4232814a.jpg"
+   },
+   {
+    "uid": "1b43d98193b746cca341bb9dbb13b45e",
+    "nombre": "Chinese Fountain Grass",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 200,
+    "url": "https://sketchfab.com/3d-models/none-1b43d98193b746cca341bb9dbb13b45e",
+    "miniatura": "miniaturas/mq4_pasto_alto/1b43d98193b746cca341bb9dbb13b45e.jpg"
+   },
+   {
+    "uid": "7598babd6ced44019806a7879bf60656",
+    "nombre": "Tall Green Field",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 3456,
+    "url": "https://sketchfab.com/3d-models/none-7598babd6ced44019806a7879bf60656",
+    "miniatura": "miniaturas/mq4_pasto_alto/7598babd6ced44019806a7879bf60656.jpg"
+   },
+   {
+    "uid": "106c2c58f6d743c7897e327a9152ea54",
+    "nombre": "Green Field",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 3456,
+    "url": "https://sketchfab.com/3d-models/none-106c2c58f6d743c7897e327a9152ea54",
+    "miniatura": "miniaturas/mq4_pasto_alto/106c2c58f6d743c7897e327a9152ea54.jpg"
+   },
+   {
+    "uid": "c86bba3546094c81ababfdf7db95e19c",
+    "nombre": "Grass (More)",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 200,
+    "url": "https://sketchfab.com/3d-models/none-c86bba3546094c81ababfdf7db95e19c",
+    "miniatura": "miniaturas/mq4_pasto_alto/c86bba3546094c81ababfdf7db95e19c.jpg"
+   },
+   {
+    "uid": "4f6fdcedd61d4783a5862f92282e72a8",
+    "nombre": "Red Baron",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 193600,
+    "url": "https://sketchfab.com/3d-models/none-4f6fdcedd61d4783a5862f92282e72a8",
+    "miniatura": "miniaturas/mq4_pasto_alto/4f6fdcedd61d4783a5862f92282e72a8.jpg"
+   },
+   {
+    "uid": "e509215301d34356b75e66dbd0d58bf4",
+    "nombre": "Plant Shrub",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 200,
+    "url": "https://sketchfab.com/3d-models/none-e509215301d34356b75e66dbd0d58bf4",
+    "miniatura": "miniaturas/mq4_pasto_alto/e509215301d34356b75e66dbd0d58bf4.jpg"
+   },
+   {
+    "uid": "8399c00672134b828ca6cf2363a95085",
+    "nombre": "Green Field (Greener)",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 3456,
+    "url": "https://sketchfab.com/3d-models/none-8399c00672134b828ca6cf2363a95085",
+    "miniatura": "miniaturas/mq4_pasto_alto/8399c00672134b828ca6cf2363a95085.jpg"
+   },
+   {
+    "uid": "09d2ec4ecdc44043ad6ecb4a5be628d4",
+    "nombre": "Lavender",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 200,
+    "url": "https://sketchfab.com/3d-models/none-09d2ec4ecdc44043ad6ecb4a5be628d4",
+    "miniatura": "miniaturas/mq4_pasto_alto/09d2ec4ecdc44043ad6ecb4a5be628d4.jpg"
+   },
+   {
+    "uid": "c0f09c7c12b844f6924814e9bff1dd59",
+    "nombre": "Green Shrub",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 200,
+    "url": "https://sketchfab.com/3d-models/none-c0f09c7c12b844f6924814e9bff1dd59",
+    "miniatura": "miniaturas/mq4_pasto_alto/c0f09c7c12b844f6924814e9bff1dd59.jpg"
+   },
+   {
+    "uid": "beab7b38aaeb411b90e34110baa99543",
+    "nombre": "Small Trees",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 200,
+    "url": "https://sketchfab.com/3d-models/none-beab7b38aaeb411b90e34110baa99543",
+    "miniatura": "miniaturas/mq4_pasto_alto/beab7b38aaeb411b90e34110baa99543.jpg"
+   },
+   {
+    "uid": "d0389dbd06be4f8e98ededa619ebafa8",
+    "nombre": "Tall Grass",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 48400,
+    "url": "https://sketchfab.com/3d-models/none-d0389dbd06be4f8e98ededa619ebafa8",
+    "miniatura": "miniaturas/mq4_pasto_alto/d0389dbd06be4f8e98ededa619ebafa8.jpg"
+   },
+   {
+    "uid": "17aa9084fc0f44c29698632956b17705",
+    "nombre": "Tropical Plant",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 200,
+    "url": "https://sketchfab.com/3d-models/none-17aa9084fc0f44c29698632956b17705",
+    "miniatura": "miniaturas/mq4_pasto_alto/17aa9084fc0f44c29698632956b17705.jpg"
+   },
+   {
+    "uid": "dde6238094054c42bfd0e0d32335a36c",
+    "nombre": "Small Patch of Grass",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 193600,
+    "url": "https://sketchfab.com/3d-models/none-dde6238094054c42bfd0e0d32335a36c",
+    "miniatura": "miniaturas/mq4_pasto_alto/dde6238094054c42bfd0e0d32335a36c.jpg"
+   },
+   {
+    "uid": "063592d61b744c1d9c328d5ab12ddfea",
+    "nombre": "Small Shrub",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 200,
+    "url": "https://sketchfab.com/3d-models/none-063592d61b744c1d9c328d5ab12ddfea",
+    "miniatura": "miniaturas/mq4_pasto_alto/063592d61b744c1d9c328d5ab12ddfea.jpg"
+   },
+   {
+    "uid": "95dc9c01a9ed45a99a3303b95c9f3f91",
+    "nombre": "Yet another grass model",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 3456,
+    "url": "https://sketchfab.com/3d-models/none-95dc9c01a9ed45a99a3303b95c9f3f91",
+    "miniatura": "miniaturas/mq4_pasto_alto/95dc9c01a9ed45a99a3303b95c9f3f91.jpg"
+   },
+   {
+    "uid": "5ec1e157943d461cbb858d2957df0bca",
+    "nombre": "Palm Tree Leaf",
+    "autor": "Somersby",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 3456,
+    "url": "https://sketchfab.com/3d-models/none-5ec1e157943d461cbb858d2957df0bca",
+    "miniatura": "miniaturas/mq4_pasto_alto/5ec1e157943d461cbb858d2957df0bca.jpg"
+   },
+   {
+    "uid": "79bc6380759a4937ab7416cdd530136f",
+    "nombre": "Bantboo",
+    "autor": "J-Jurassic",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 6,
+    "caras": 3600,
+    "url": "https://sketchfab.com/3d-models/none-79bc6380759a4937ab7416cdd530136f",
+    "miniatura": "miniaturas/mq4_pasto_alto/79bc6380759a4937ab7416cdd530136f.jpg"
+   },
+   {
+    "uid": "89270c3b6f574e2d8bff7bf0e7bac3f4",
+    "nombre": "Rose_Themed_Environment_Final",
+    "autor": "merose",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20176,
+    "url": "https://sketchfab.com/3d-models/none-89270c3b6f574e2d8bff7bf0e7bac3f4",
+    "miniatura": "miniaturas/mq4_pasto_alto/89270c3b6f574e2d8bff7bf0e7bac3f4.jpg"
+   },
+   {
+    "uid": "325e9cf095774e2e83a8e8197b6572a4",
+    "nombre": "Fletchinder",
+    "autor": "nguyenlouis32",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7212,
+    "url": "https://sketchfab.com/3d-models/none-325e9cf095774e2e83a8e8197b6572a4",
+    "miniatura": "miniaturas/mq4_pasto_alto/325e9cf095774e2e83a8e8197b6572a4.jpg"
+   },
+   {
+    "uid": "30160d9233b241068104d301aca18064",
+    "nombre": "Mega Alolan Exeggutor",
+    "autor": "PhantomV13",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 3224,
+    "url": "https://sketchfab.com/3d-models/none-30160d9233b241068104d301aca18064",
+    "miniatura": "miniaturas/mq4_pasto_alto/30160d9233b241068104d301aca18064.jpg"
+   },
+   {
+    "uid": "cc2850117d9e4d9cb9eafb3f80e4e107",
+    "nombre": "Mushroom Cluster",
+    "autor": "alexisturner",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1133568,
+    "url": "https://sketchfab.com/3d-models/none-cc2850117d9e4d9cb9eafb3f80e4e107",
+    "miniatura": "miniaturas/mq4_pasto_alto/cc2850117d9e4d9cb9eafb3f80e4e107.jpg"
+   },
+   {
+    "uid": "ee3d28257a434b7d80a14cabe23ea30f",
+    "nombre": "Cocorite Farrell Well Field, Western Main Road",
+    "autor": "joshlu",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-ee3d28257a434b7d80a14cabe23ea30f",
+    "miniatura": "miniaturas/mq4_pasto_alto/ee3d28257a434b7d80a14cabe23ea30f.jpg"
+   },
+   {
+    "uid": "2e6aa633946d490583a3ed4d9b6456b9",
+    "nombre": "Assassin's Creed Brotherhood GO - Level 2",
+    "autor": "kaanxo",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 100293,
+    "url": "https://sketchfab.com/3d-models/none-2e6aa633946d490583a3ed4d9b6456b9",
+    "miniatura": "miniaturas/mq4_pasto_alto/2e6aa633946d490583a3ed4d9b6456b9.jpg"
+   },
+   {
+    "uid": "8ba5c017adb443a8bcdc586d71c285c5",
+    "nombre": "Assassin's Creed: Brotherhood GO - Level 3",
+    "autor": "onur.duman",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 371577,
+    "url": "https://sketchfab.com/3d-models/none-8ba5c017adb443a8bcdc586d71c285c5",
+    "miniatura": "miniaturas/mq4_pasto_alto/8ba5c017adb443a8bcdc586d71c285c5.jpg"
+   },
+   {
+    "uid": "26b1e9e0700448e49e630c3713e3a3a1",
+    "nombre": "Assassin's Creed: Brotherhood GO - Level 5",
+    "autor": "Chrispohl",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 140709,
+    "url": "https://sketchfab.com/3d-models/none-26b1e9e0700448e49e630c3713e3a3a1",
+    "miniatura": "miniaturas/mq4_pasto_alto/26b1e9e0700448e49e630c3713e3a3a1.jpg"
+   },
+   {
+    "uid": "649fe84b79164bc985da8a8fa3cff5fa",
+    "nombre": "Tall Tree",
+    "autor": "Somersby",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1238974,
+    "url": "https://sketchfab.com/3d-models/none-649fe84b79164bc985da8a8fa3cff5fa",
+    "miniatura": "miniaturas/mq4_pasto_alto/649fe84b79164bc985da8a8fa3cff5fa.jpg"
+   },
+   {
+    "uid": "1d1b22cd1e7b448e8977e8f0c146393c",
+    "nombre": "Lepidodendron ophiurus (plant) (BIRUG 15076)",
+    "autor": "LapworthMuseum",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 600000,
+    "url": "https://sketchfab.com/3d-models/none-1d1b22cd1e7b448e8977e8f0c146393c",
+    "miniatura": "miniaturas/mq4_pasto_alto/1d1b22cd1e7b448e8977e8f0c146393c.jpg"
+   },
+   {
+    "uid": "8a78295b56c64c16be6e2e4d7215dbfb",
+    "nombre": "Tall grass",
+    "autor": "ironicalghosty",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 600,
+    "url": "https://sketchfab.com/3d-models/none-8a78295b56c64c16be6e2e4d7215dbfb",
+    "miniatura": "miniaturas/mq4_pasto_alto/8a78295b56c64c16be6e2e4d7215dbfb.jpg"
+   },
+   {
+    "uid": "4f01396fb91b4f5c83a890381f2d4424",
+    "nombre": "Grass Tall",
+    "autor": "C44t",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 180,
+    "url": "https://sketchfab.com/3d-models/none-4f01396fb91b4f5c83a890381f2d4424",
+    "miniatura": "miniaturas/mq4_pasto_alto/4f01396fb91b4f5c83a890381f2d4424.jpg"
+   },
+   {
+    "uid": "e7daf5ed327447f5852c4a6bb51d9735",
+    "nombre": "Peaceful tiny planet",
+    "autor": "cjimenez2022",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 129804,
+    "url": "https://sketchfab.com/3d-models/none-e7daf5ed327447f5852c4a6bb51d9735",
+    "miniatura": "miniaturas/mq4_pasto_alto/e7daf5ed327447f5852c4a6bb51d9735.jpg"
+   },
+   {
+    "uid": "55b8fc720ca54c4295db993928a397a4",
+    "nombre": "OliviaP- Tiny World- Globe",
+    "autor": "oliviapino",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15130,
+    "url": "https://sketchfab.com/3d-models/none-55b8fc720ca54c4295db993928a397a4",
+    "miniatura": "miniaturas/mq4_pasto_alto/55b8fc720ca54c4295db993928a397a4.jpg"
+   },
+   {
+    "uid": "564ab33627974dee917d2ded0b800c5b",
+    "nombre": "Tall Grass-poly",
+    "autor": "Brent.Bowers",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 46866,
+    "url": "https://sketchfab.com/3d-models/none-564ab33627974dee917d2ded0b800c5b",
+    "miniatura": "miniaturas/mq4_pasto_alto/564ab33627974dee917d2ded0b800c5b.jpg"
+   },
+   {
+    "uid": "9e3685c46b324b7091e931ac72dca3a7",
+    "nombre": "Sidewalk with Talk Grass-poly",
+    "autor": "Brent.Bowers",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 24693,
+    "url": "https://sketchfab.com/3d-models/none-9e3685c46b324b7091e931ac72dca3a7",
+    "miniatura": "miniaturas/mq4_pasto_alto/9e3685c46b324b7091e931ac72dca3a7.jpg"
+   }
+  ],
+  "mq4_mosquitero": [
+   {
+    "uid": "9261a18e7a314c6683e9a2a0679845b2",
+    "nombre": "Vasquez Rocks Natural Park (California, USA)",
+    "autor": "MiguelCueva",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 63242,
+    "url": "https://sketchfab.com/3d-models/none-9261a18e7a314c6683e9a2a0679845b2",
+    "miniatura": "miniaturas/mq4_mosquitero/9261a18e7a314c6683e9a2a0679845b2.jpg"
+   },
+   {
+    "uid": "a5508a81744b462193a79830844994e5",
+    "nombre": "Phòng ngủ phong cách scandinavian",
+    "autor": "noithatduongdai",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 42552,
+    "url": "https://sketchfab.com/3d-models/none-a5508a81744b462193a79830844994e5",
+    "miniatura": "miniaturas/mq4_mosquitero/a5508a81744b462193a79830844994e5.jpg"
+   }
+  ]
+ },
+ "info": {
+  "pond": {
+   "nombre": "Pond",
+   "autores": {
+    "Greg Zaal": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "lakeside_sunrise": {
+   "nombre": "Lakeside Sunrise",
+   "autores": {
+    "Greg Zaal": "Photography",
+    "Jarod Guest": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "rocky_ridge_puresky": {
+   "nombre": "Rocky Ridge (Pure Sky)",
+   "autores": {
+    "Greg Zaal": "Original",
+    "Jarod Guest": "Sky edits"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "snowy_hillside": {
+   "nombre": "Snowy Hillside",
+   "autores": {
+    "Andreas Mischok": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "qwantani_morning_puresky": {
+   "nombre": "Qwantani Morning (Pure Sky)",
+   "autores": {
+    "Jarod Guest": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "kloofendal_48d_partly_cloudy_puresky": {
+   "nombre": "Kloofendal 48d Partly Cloudy (Pure Sky)",
+   "autores": {
+    "Greg Zaal": "Original",
+    "Jarod Guest": "Sky edits"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "leafy_grass": {
+   "nombre": "Leafy Grass",
+   "autores": {
+    "Charlotte Baglioni": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "withered_grass": {
+   "nombre": "Withered Grass",
+   "autores": {
+    "Charlotte Baglioni": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "sparse_grass": {
+   "nombre": "Sparse Grass",
+   "autores": {
+    "Amal Kumar": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "lichen_rock": {
+   "nombre": "Lichen Rock",
+   "autores": {
+    "Rico Cilliers": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "snow_02": {
+   "nombre": "Snow 02",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "brown_mud": {
+   "nombre": "Brown Mud",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "forest_floor": {
+   "nombre": "Forest Floor",
+   "autores": {
+    "eye-candy.xyz": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "rough_linen": {
+   "nombre": "Rough Linen",
+   "autores": {
+    "colormass": "Photography",
+    "Rico Cilliers": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "cotton_jersey": {
+   "nombre": "Cotton Jersey",
+   "autores": {
+    "colormass": "Photography",
+    "Rico Cilliers": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "laminate_floor": {
+   "nombre": "Laminate Floor",
+   "autores": {
+    "Dario Barresi": "Processing",
+    "Dimitrios Savva": "Photography"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "mossy_rock": {
+   "nombre": "Mossy Rock",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "aerial_grass_rock": {
+   "nombre": "Aerial Grass Rock",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "grass_medium_02": {
+   "nombre": "Grass Medium 02",
+   "autores": {
+    "Rico Cilliers": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "rock_moss_set_02": {
+   "nombre": "Rock Moss Set 02",
+   "autores": {
+    "Kless Gyzen": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "shrub_01": {
+   "nombre": "Shrub 01",
+   "autores": {
+    "Rico Cilliers": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "shrub_02": {
+   "nombre": "Shrub 02",
+   "autores": {
+    "Rico Cilliers": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "fern_02": {
+   "nombre": "Fern 02",
+   "autores": {
+    "Rob Tuytel": "scanning",
+    "Rico Cilliers": "modeling"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  }
+ }
+}
