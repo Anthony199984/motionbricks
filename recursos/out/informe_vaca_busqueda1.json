@@ -1,0 +1,2548 @@
+{
+ "bajados": [
+  {
+   "destino": "sonidos/silbido_gas/Compressed_Air_Pressure_Release_Valve_Loop_Synthet_861613.mp3",
+   "mb": 0.3
+  },
+  {
+   "destino": "sonidos/silbido_gas/Pneumatic_Airlock_Door_Short_019_by_Debsound_725109.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/resoplido_vaca/TOONAnml-Blue_Snowball_Microphone_CU_Cow_Moo_Snort_834360.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/mugido/Cow_moo_4_by_spurioustransients_513564.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/mugido/Short_Moo_from_a_Calf_by_OpenWindow_2023_Group_14_707955.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mordida/Biting_into_an_apple.wav_by_775noise_494568.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/mordida/Apple_Biting_and_Chewing.wav_by_RoofDog_79243.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/mordida/Crunch_noise_by_Hourofmidnight_325654.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/mordida/Apple_Crunch_18.wav_by_Koops_20281.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/mordida/Apple_Crunch_Crisp.wav_by_Rslebs_661827.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/mordida/Slowly_Biting_into_an_apple_by_ShannonAHoniball_362994.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/glup/Gulp_-_Hard_Swallow_by_magnuswaker_531755.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/glup/Me_gulping_and_swallowing_by_DineoMichelle_366582.mp3",
+   "mb": 0.2
+  },
+  {
+   "destino": "sonidos/glup/Swallow_Gulp_Sound_by_haus.the.child_829847.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/glup/Swallowing_and_gulping_by_170084_408205.mp3",
+   "mb": 0.32
+  },
+  {
+   "destino": "sonidos/glup/Swallowing_Water.wav_by_Razzvio_79146.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/glup/Drink_Gulp.mp3_by_Defaultv_534336.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/golpe_sordo/water_sink_turn_tap_quick_short_thud_squeak_water__637973.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/golpe_sordo/springy_o36b_by_Setuniman_168606.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/golpe_sordo/Low_Thud_by_Qvantor_879272.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/golpe_sordo/thud_hits_wav_by_Ambiabstract_584731.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/golpe_sordo/intro_v24m_by_Setuniman_130990.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/golpe_sordo/Fast_Collision_Reverb_by_qubodup_332057.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/tintineo/Sifting_Through_Bolts.wav_by_Razzvio_79575.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/tintineo/Metal_06.wav_by_Debsound_168822.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/tintineo/picking_up_something_metal.wav_by_ChrisReierson_383103.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/tintineo/Tools_Dropped_Into_Toolbox_Sound_Effect_Recorded_w_765404.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/tintineo/Metallic_Whoosh.wav_by_MissCellany_240640.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/tintineo/1_Knife_Slash_A.wav_by_lmbubec_118792.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/pasos_pasto/Footsteps_Mountain_Boots_Frozen_Grass_Mono.wav_by__546604.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/pasos_pasto/Running_on_grass_with_wet_feet.aif_by_nathanaelsam_127955.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/pasos_pasto/running_on_wet_grass_by_saangosu_781080.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/pasos_pasto/Running_in_Grass_Crocs_by_Robo9418_878726.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/pasos_pasto/walking_on_grass_OWI.wav_by_1skyland_543175.mp3",
+   "mb": 0.13
+  },
+  {
+   "destino": "sonidos/pasos_pasto/Dry_Grass_Crunch.wav_by_worthahep88_319206.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/burbujeo/WATRBubl-Samsung_Galaxy_Smartphone_Bubbles_Gurgle__811363.mp3",
+   "mb": 0.2
+  },
+  {
+   "destino": "sonidos/burbujeo/shot_blow_short_2_by_Brr_Brr_Mew_Effects_841733.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/burbujeo/Brewing_a_Magical_Potion_4_by_qubodup_862161.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/burbujeo/Brewing_a_Magical_Potion_3_by_qubodup_862160.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/burbujeo/Brewing_a_Magical_Potion_2_by_qubodup_862159.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/burbujeo/Soda_Machine_Mastered_Field-recording_by_szegvari_520087.mp3",
+   "mb": 0.28
+  },
+  {
+   "destino": "sonidos/pop/Small_Glass_Bottle_Pop_Full_by_loganzsound_877848.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/pop/Pop_001_by_mjvilches_362201.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/pop/Squeaky_cork_pull_by_Kinoton_347353.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/pop/Small_Bottle_Pop.wav_by_-GeorgeDiamond-_578640.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/pop/Uncorking_fine_scotch_4_by_zmobie_319794.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/pop/A_series_of_quot_Plopp_quot_sounds_by_dermotte_610756.mp3",
+   "mb": 0.28
+  },
+  {
+   "destino": "sonidos/eructo_humano/hey_burp.wav_by_bogenseeberg_523595.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/eructo_humano/Cartoon_Burp_by_josetb_678963.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/eructo_humano/Burp_-_mechanical_-_robot_-_robotic_by_Jagadamba_254281.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/eructo_humano/burp_10.wav_by_timtube_58983.mp3",
+   "mb": 0.19
+  },
+  {
+   "destino": "sonidos/eructo_humano/Burp_by_Walking.With.Microphones_553809.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/eructo_humano/Emily_Burping_Rico_Suave.MP3_by_emilyzitek_615889.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/whoosh/Whoosh_Short_5.wav_by_Mellau_530448.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/whoosh/VS_Short_Whoosh_7.mp3_by_Vilkas_Sound_460474.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/whoosh/short_wind_noise_by_michimuc2_195937.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/whoosh/Whoosh_by_qubodup_60013.mp3",
+   "mb": 0.01
+  },
+  {
+   "destino": "sonidos/whoosh/Swish_Swipe_Short_by_Qvantor_877976.mp3",
+   "mb": 0.02
+  },
+  {
+   "destino": "sonidos/whoosh/air_pod.wav_by_c.void_491321.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/ambiente_campo/BIRDSong_Forest_Birds_Chirping_Wind_Rustle_01_KVV__877039.mp3",
+   "mb": 0.65
+  },
+  {
+   "destino": "sonidos/ambiente_campo/210526_1599_FR_WindyCountryside.wav_by_kevp888_669640.mp3",
+   "mb": 3.42
+  },
+  {
+   "destino": "sonidos/ambiente_campo/Cold_Wind_Winter_Animals_Snow_Birds_Water_Atmo_Amb_608270.mp3",
+   "mb": 2.15
+  },
+  {
+   "destino": "sonidos/ambiente_campo/Cold_Wind_Winter_Animals_Snow_Birds_Water_Atmo_Amb_608269.mp3",
+   "mb": 2.19
+  },
+  {
+   "destino": "miniaturas/vaca_animada/c5782e43dcf442718a25b49bed00f582.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/160bf043b71c458984c81c717b7483c9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/22484d65167d4f83bb9e9535c84dd109.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_animada/3de0546e4e944bebb4debd9f819e8576.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/d5aeb3ea0de74d3f989a1649da50aae0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/2ca1db4e890e4b24a68624597e7d2fc8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_animada/cfacf56db7934b6cb7382fd1c3e428f1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/fbc40551d57c4cefb5f1d313726f73ae.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/1703672ed68f417698ea017af3066d61.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_animada/40bbf064e7fe4fc48f1e2ee6fa83dc12.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_animada/1a8893139f5b4bb188801deab4962233.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_animada/2fd0d909545241ccab56c7a252a9e115.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/658cf39e4f5645ed953adaaa95fb86e3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/e8c284fcea4f464e90acb0aeb414efa9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/d0cad00fc24144b694868c8633dd7478.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_animada/88d26e80e6c54a05827959d54b03f4e6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/18a845498c764d549a8bd1fad3c67489.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/0a1b304aadda4b259e210a657e6cef7b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/4e19faf01fb04bfc9d92eabfe45b116c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/6650f4cdb54b4be1b5a328c1a9f1e414.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/f22843b599ce471583c42bca58025b44.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_animada/3abddfdafec3468d8d4a7e05020d4097.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/018809cd7c09417dbabce6d067c582ee.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/6f6770b0a9e64d7d9ca99d722a9561f9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_animada/22352a4321144948aeeef2400af5c1cd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_animada/2ee7e9dfadbc47a9b13036057aad35d3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/b30c21839f004cf68ff995c882929099.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/2159210401d948a6a1244a9b238b368e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/e62ce0517f9543fd97ab859bc551b96e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/258f79ff3d6b42b58b0928194bbcabff.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/7a331fc1de88474dbec27d5a1a43a60e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/d2000bf3158b4903bf7eb512afdb7f9c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/8345c3f154f641308be686dd5ae5099e.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/0d7274d3624d4ce5978cb10c0243e97b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/9d216a0748ca46deaa9f67e575920a97.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_animada/1423e077f5aa4cbfb9c5abfb147edc54.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_holstein/9cd93b871f6b442d96b7eacec7326e6b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_rig/2ca1db4e890e4b24a68624597e7d2fc8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_rig/7bd4f1a25f2c479fac08d83b0aa7aa5a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_rig/aea6aec8741a424385ca378389feb73b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_rig/178a770d1bcf4145873b4c4d6adc0371.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_rig/4ed238d40ea44b8abca499fcf67e6ae2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_rig/06d07d6b5224407d9e34cdea40810187.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_realista/92ec311be575431a810550faacffec64.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_realista/b0edfdc157e94ea093ee959c65db38de.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_realista/195d2de670b24e22a98cf9d47607e646.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_realista/3f89ba2899194ed2beb521e637e9a0a1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_realista/2c2c9220513d425789991a002d918c26.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_realista/f79f2bc987f94c9ead02a36844e7c48b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_realista/b16499d2f4b644c2bca24e51658a5aa1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_realista/117fc4a6e8304a858dfaf2adc2c782a0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_realista/b0a1e8dfb12c4b2fbcb8c9c24a4ad795.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_realista/11c5d93ee1454591ae6183f7c6104ebb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_realista/9c219d7d26ac47beaa46539a9a4fa8da.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_realista/886e3b4848f845e2af30c70d5dc7ece5.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_realista/c941b9c04f8348049f016de9a22eb2da.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_realista/17bdf341fcc047888935f67a05dd2fea.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vaca_realista/b670175a87ac48f6b04e2ffd61a02ba8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vaca_realista/0f4c19b7c99546aebe70efb1a3e4fde4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papa/d3be8fed96eb48be88b47bbe8d2951e1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/822fa185ff9d492ca5999dd4df18e0d0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/fb44add4533149ab9dc559ec34d1b96c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/9846beef2c6b46caadc4a547a4dcd144.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/720ddbe936504ae194d514876b235067.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/9c3ef71337c14e049d2d1e959dc59f61.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/1ac0d5f9ce884acfabea3f146af670d0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/df936bc8c3e14aeb98a242943b9caf35.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/67ab3ef6093b43df8633c45b6e85669c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/5e661adf11f24a76bb9538b536002bb3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/4c23e2622a8749979f49ad1632cab94d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/b0b6ec2e9ce54ccd9d878da6f412d0e3.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/b037fdaefe0546f6b485c16253e9429a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/3cc368c3e77f47ec8cb680cabd8221ce.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/a81175115d544237a19070c582882f02.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/86f3279833e54a4c8d4033ff28e84d93.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papa/0f4be86441694633b42c764a4574fd41.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papa/e5184bb3bf2a455c8872e759bb97e13b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papa/b5f1d7635a5b41f0847a2ee5b906098a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papa/56909c8cb27a4de7a4c5273ed13e8a80.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papa/9151490780e74d548071448cb8bf5f05.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/fe5da7d5202a4bfaa6b48e0096d4c6fd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/62682d8843bc4e0bb7c15dc998d4e638.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papa/57f085f4ff1642fd92e11194076605f9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/papa/368f525cf8704607bc37f6eacbdc48d8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papa/c5604d5c4f864330b6d171866ea931e2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/papa/2d1d01dc8c984652a362db48f3cda6bf.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/costal/68f62af4c787445583f995f8e46cd2f5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/costal/f7853b92297c40f9a2b91dfbd8310269.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cerca/7256e01f27874814b9752be27e5d1543.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cerca/8fa9a06380df4268b549e345cf103696.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cerca/2cc3d48f48df47d2aa7c60893e8ba860.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cerca/35bccb49e5c748008749c6c4300959b0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cerca/93492de77dbe46e1a7317c88f147bdc9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cerca/298a373cd3684588bd0d86e2301bfb29.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cerca/6bb0ed3dda1c4bbd98162c8978b19686.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cerca/52f5004c35774312bcc04209898bb5e6.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lata/4e0be610db9646929d8be84491f1a72f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lata/aaa11e57064848268d701a3586792d0d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lata/f753a659faae499282e882d63972d4c2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lata/3c6de8d50fbd45909cf2efeb6d636113.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lata/17cd007c38824321b184c763b1eec4e2.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lata/22abde7fc79e412cb166bdf2b09f6280.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lata/0aab0bb3f4d1442bbae1ff99a5a6fb01.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lata/08be81ca5fa74718b5d95ac6a5a928f2.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lata/96aa6a20264848ab9c5be2478594ec44.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lata/0db78b8bfcdb4c559b3bc8f63cbb5689.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lata/fdc6b2fd40974708a07f1717a433e7c1.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lata/9597bac9cfa946feb1e7fa2c41a3ebf9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lata/884ceeefc40649388547665ed5f24c4d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lata/fc5a7e79ce0a4ace89aeb619fe23ce09.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lata/f2563a193e564d2eb2d707b6b9f04287.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lata/76262ad4b5544dc9bec5d715001c8ded.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lata/c63a465fc3fc4b5dac6bf385bd954c2c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lata/a377b36213034bbeb7a4903f936b76d7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lata/91e7e2400313491fb27fd01e68668f29.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lata/1b63dd4832144e89955ecf2f70e8af4b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lata/a1fb3ec987264287a2d7d6e999b36db3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lata/acbf394568c94f708551f84038860e58.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lata/59be759d7bc146bcbb27b5f3e6fbb0f1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lata/702992eb3ce94e50a5d7fcbb9b9763a9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lata/37bb99b163aa41eb986750b3c557d2cb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lata/3f025f54191749daa88eb352554b2cbe.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lata/7b76244bea6c4cb38fcd1bed5c44e87a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lata/992de4a6eb6e44d8a1088757bafca9ec.jpg",
+   "mb": 0.0
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "freesound": {
+  "silbido_gas": [
+   {
+    "id": "861613",
+    "autor": "kkenny101",
+    "pagina": "https://freesound.org/people/kkenny101/sounds/861613/",
+    "titulo": "Compressed Air Pressure Release Valve Loop (Synthetic) by kkenny101",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/silbido_gas/Compressed_Air_Pressure_Release_Valve_Loop_Synthet_861613.mp3"
+   },
+   {
+    "id": "725109",
+    "autor": "Debsound",
+    "pagina": "https://freesound.org/people/Debsound/sounds/725109/",
+    "titulo": "Pneumatic Airlock Door Short 019 by Debsound",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/silbido_gas/Pneumatic_Airlock_Door_Short_019_by_Debsound_725109.mp3"
+   }
+  ],
+  "resoplido_vaca": [
+   {
+    "id": "834360",
+    "autor": "designerschoice",
+    "pagina": "https://freesound.org/people/designerschoice/sounds/834360/",
+    "titulo": "TOONAnml-Blue Snowball Microphone, CU_Cow, Moo, Snort at End_Nicholas Judy_TDC by designerschoice",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/resoplido_vaca/TOONAnml-Blue_Snowball_Microphone_CU_Cow_Moo_Snort_834360.mp3"
+   }
+  ],
+  "jadeo_vaca": [],
+  "eructo_vaca": [],
+  "mugido": [
+   {
+    "id": "513564",
+    "autor": "spurioustransients",
+    "pagina": "https://freesound.org/people/spurioustransients/sounds/513564/",
+    "titulo": "Cow moo #4 by spurioustransients",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mugido/Cow_moo_4_by_spurioustransients_513564.mp3"
+   },
+   {
+    "id": "707955",
+    "autor": "OpenWindow_2023_Group_14",
+    "pagina": "https://freesound.org/people/OpenWindow_2023_Group_14/sounds/707955/",
+    "titulo": "Short Moo from a Calf by OpenWindow_2023_Group_14",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mugido/Short_Moo_from_a_Calf_by_OpenWindow_2023_Group_14_707955.mp3"
+   }
+  ],
+  "mordida": [
+   {
+    "id": "494568",
+    "autor": "775noise",
+    "pagina": "https://freesound.org/people/775noise/sounds/494568/",
+    "titulo": "Biting into an apple.wav by 775noise",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mordida/Biting_into_an_apple.wav_by_775noise_494568.mp3"
+   },
+   {
+    "id": "79243",
+    "autor": "RoofDog",
+    "pagina": "https://freesound.org/people/RoofDog/sounds/79243/",
+    "titulo": "Apple Biting and Chewing.wav by RoofDog",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/mordida/Apple_Biting_and_Chewing.wav_by_RoofDog_79243.mp3"
+   },
+   {
+    "id": "325654",
+    "autor": "Hourofmidnight",
+    "pagina": "https://freesound.org/people/Hourofmidnight/sounds/325654/",
+    "titulo": "Crunch noise by Hourofmidnight",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mordida/Crunch_noise_by_Hourofmidnight_325654.mp3"
+   },
+   {
+    "id": "20281",
+    "autor": "Koops",
+    "pagina": "https://freesound.org/people/Koops/sounds/20281/",
+    "titulo": "Apple_Crunch_18.wav by Koops",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mordida/Apple_Crunch_18.wav_by_Koops_20281.mp3"
+   },
+   {
+    "id": "661827",
+    "autor": "Rslebs",
+    "pagina": "https://freesound.org/people/Rslebs/sounds/661827/",
+    "titulo": "Apple Crunch; Crisp.wav by Rslebs",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/mordida/Apple_Crunch_Crisp.wav_by_Rslebs_661827.mp3"
+   },
+   {
+    "id": "362994",
+    "autor": "ShannonAHoniball",
+    "pagina": "https://freesound.org/people/ShannonAHoniball/sounds/362994/",
+    "titulo": "Slowly Biting into an apple by ShannonAHoniball",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/mordida/Slowly_Biting_into_an_apple_by_ShannonAHoniball_362994.mp3"
+   }
+  ],
+  "glup": [
+   {
+    "id": "531755",
+    "autor": "magnuswaker",
+    "pagina": "https://freesound.org/people/magnuswaker/sounds/531755/",
+    "titulo": "Gulp - Hard Swallow by magnuswaker",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/glup/Gulp_-_Hard_Swallow_by_magnuswaker_531755.mp3"
+   },
+   {
+    "id": "366582",
+    "autor": "DineoMichelle",
+    "pagina": "https://freesound.org/people/DineoMichelle/sounds/366582/",
+    "titulo": "Me gulping and swallowing by DineoMichelle",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/glup/Me_gulping_and_swallowing_by_DineoMichelle_366582.mp3"
+   },
+   {
+    "id": "829847",
+    "autor": "haus.the.child",
+    "pagina": "https://freesound.org/people/haus.the.child/sounds/829847/",
+    "titulo": "Swallow Gulp Sound by haus.the.child",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/glup/Swallow_Gulp_Sound_by_haus.the.child_829847.mp3"
+   },
+   {
+    "id": "408205",
+    "autor": "170084",
+    "pagina": "https://freesound.org/people/170084/sounds/408205/",
+    "titulo": "Swallowing and gulping by 170084",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/glup/Swallowing_and_gulping_by_170084_408205.mp3"
+   },
+   {
+    "id": "79146",
+    "autor": "Razzvio",
+    "pagina": "https://freesound.org/people/Razzvio/sounds/79146/",
+    "titulo": "Swallowing Water.wav by Razzvio",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/glup/Swallowing_Water.wav_by_Razzvio_79146.mp3"
+   },
+   {
+    "id": "534336",
+    "autor": "Defaultv",
+    "pagina": "https://freesound.org/people/Defaultv/sounds/534336/",
+    "titulo": "Drink_Gulp.mp3 by Defaultv",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/glup/Drink_Gulp.mp3_by_Defaultv_534336.mp3"
+   }
+  ],
+  "golpe_sordo": [
+   {
+    "id": "637973",
+    "autor": "kyles",
+    "pagina": "https://freesound.org/people/kyles/sounds/637973/",
+    "titulo": "water sink turn tap quick short thud squeak water run a little.flac by kyles",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/golpe_sordo/water_sink_turn_tap_quick_short_thud_squeak_water__637973.mp3"
+   },
+   {
+    "id": "168606",
+    "autor": "Setuniman",
+    "pagina": "https://freesound.org/people/Setuniman/sounds/168606/",
+    "titulo": "springy o36b by Setuniman",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/golpe_sordo/springy_o36b_by_Setuniman_168606.mp3"
+   },
+   {
+    "id": "879272",
+    "autor": "Qvantor",
+    "pagina": "https://freesound.org/people/Qvantor/sounds/879272/",
+    "titulo": "Low Thud by Qvantor",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/golpe_sordo/Low_Thud_by_Qvantor_879272.mp3"
+   },
+   {
+    "id": "584731",
+    "autor": "Ambiabstract",
+    "pagina": "https://freesound.org/people/Ambiabstract/sounds/584731/",
+    "titulo": "thud hits wav by Ambiabstract",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/golpe_sordo/thud_hits_wav_by_Ambiabstract_584731.mp3"
+   },
+   {
+    "id": "130990",
+    "autor": "Setuniman",
+    "pagina": "https://freesound.org/people/Setuniman/sounds/130990/",
+    "titulo": "intro v24m by Setuniman",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/golpe_sordo/intro_v24m_by_Setuniman_130990.mp3"
+   },
+   {
+    "id": "332057",
+    "autor": "qubodup",
+    "pagina": "https://freesound.org/people/qubodup/sounds/332057/",
+    "titulo": "Fast Collision Reverb by qubodup",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/golpe_sordo/Fast_Collision_Reverb_by_qubodup_332057.mp3"
+   }
+  ],
+  "tintineo": [
+   {
+    "id": "79575",
+    "autor": "Razzvio",
+    "pagina": "https://freesound.org/people/Razzvio/sounds/79575/",
+    "titulo": "Sifting Through Bolts.wav by Razzvio",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/tintineo/Sifting_Through_Bolts.wav_by_Razzvio_79575.mp3"
+   },
+   {
+    "id": "168822",
+    "autor": "Debsound",
+    "pagina": "https://freesound.org/people/Debsound/sounds/168822/",
+    "titulo": "Metal 06.wav by Debsound",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/tintineo/Metal_06.wav_by_Debsound_168822.mp3"
+   },
+   {
+    "id": "383103",
+    "autor": "ChrisReierson",
+    "pagina": "https://freesound.org/people/ChrisReierson/sounds/383103/",
+    "titulo": "picking up something metal.wav by ChrisReierson",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/tintineo/picking_up_something_metal.wav_by_ChrisReierson_383103.mp3"
+   },
+   {
+    "id": "765404",
+    "autor": "DonnyDB",
+    "pagina": "https://freesound.org/people/DonnyDB/sounds/765404/",
+    "titulo": "Tools Dropped Into Toolbox Sound Effect (Recorded with Zoom H1) by DonnyDB",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/tintineo/Tools_Dropped_Into_Toolbox_Sound_Effect_Recorded_w_765404.mp3"
+   },
+   {
+    "id": "240640",
+    "autor": "MissCellany",
+    "pagina": "https://freesound.org/people/MissCellany/sounds/240640/",
+    "titulo": "Metallic Whoosh.wav by MissCellany",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tintineo/Metallic_Whoosh.wav_by_MissCellany_240640.mp3"
+   },
+   {
+    "id": "118792",
+    "autor": "lmbubec",
+    "pagina": "https://freesound.org/people/lmbubec/sounds/118792/",
+    "titulo": "1_Knife_Slash_A.wav by lmbubec",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/tintineo/1_Knife_Slash_A.wav_by_lmbubec_118792.mp3"
+   }
+  ],
+  "pasos_pasto": [
+   {
+    "id": "546604",
+    "autor": "Nox_Sound",
+    "pagina": "https://freesound.org/people/Nox_Sound/sounds/546604/",
+    "titulo": "Footsteps_Mountain_Boots_Frozen_Grass_Mono.wav by Nox_Sound",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/pasos_pasto/Footsteps_Mountain_Boots_Frozen_Grass_Mono.wav_by__546604.mp3"
+   },
+   {
+    "id": "127955",
+    "autor": "nathanaelsams",
+    "pagina": "https://freesound.org/people/nathanaelsams/sounds/127955/",
+    "titulo": "Running on grass with wet feet.aif by nathanaelsams",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/pasos_pasto/Running_on_grass_with_wet_feet.aif_by_nathanaelsam_127955.mp3"
+   },
+   {
+    "id": "781080",
+    "autor": "saangosu",
+    "pagina": "https://freesound.org/people/saangosu/sounds/781080/",
+    "titulo": "running on wet grass by saangosu",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/pasos_pasto/running_on_wet_grass_by_saangosu_781080.mp3"
+   },
+   {
+    "id": "878726",
+    "autor": "Robo9418",
+    "pagina": "https://freesound.org/people/Robo9418/sounds/878726/",
+    "titulo": "Running in Grass Crocs by Robo9418",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/pasos_pasto/Running_in_Grass_Crocs_by_Robo9418_878726.mp3"
+   },
+   {
+    "id": "543175",
+    "autor": "1skyland",
+    "pagina": "https://freesound.org/people/1skyland/sounds/543175/",
+    "titulo": "walking on grass OWI.wav by 1skyland",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/pasos_pasto/walking_on_grass_OWI.wav_by_1skyland_543175.mp3"
+   },
+   {
+    "id": "319206",
+    "autor": "worthahep88",
+    "pagina": "https://freesound.org/people/worthahep88/sounds/319206/",
+    "titulo": "Dry Grass Crunch.wav by worthahep88",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/pasos_pasto/Dry_Grass_Crunch.wav_by_worthahep88_319206.mp3"
+   }
+  ],
+  "burbujeo": [
+   {
+    "id": "811363",
+    "autor": "designerschoice",
+    "pagina": "https://freesound.org/people/designerschoice/sounds/811363/",
+    "titulo": "WATRBubl-Samsung Galaxy Smartphone_Bubbles, Gurgle, Short_Nicholas Judy_TDC by designerschoice",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/burbujeo/WATRBubl-Samsung_Galaxy_Smartphone_Bubbles_Gurgle__811363.mp3"
+   },
+   {
+    "id": "841733",
+    "autor": "Brr_Brr_Mew_Effects",
+    "pagina": "https://freesound.org/people/Brr_Brr_Mew_Effects/sounds/841733/",
+    "titulo": "shot_blow_short_2 by Brr_Brr_Mew_Effects",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/burbujeo/shot_blow_short_2_by_Brr_Brr_Mew_Effects_841733.mp3"
+   },
+   {
+    "id": "862161",
+    "autor": "qubodup",
+    "pagina": "https://freesound.org/people/qubodup/sounds/862161/",
+    "titulo": "Brewing a Magical Potion 4 by qubodup",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/burbujeo/Brewing_a_Magical_Potion_4_by_qubodup_862161.mp3"
+   },
+   {
+    "id": "862160",
+    "autor": "qubodup",
+    "pagina": "https://freesound.org/people/qubodup/sounds/862160/",
+    "titulo": "Brewing a Magical Potion 3 by qubodup",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/burbujeo/Brewing_a_Magical_Potion_3_by_qubodup_862160.mp3"
+   },
+   {
+    "id": "862159",
+    "autor": "qubodup",
+    "pagina": "https://freesound.org/people/qubodup/sounds/862159/",
+    "titulo": "Brewing a Magical Potion 2 by qubodup",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/burbujeo/Brewing_a_Magical_Potion_2_by_qubodup_862159.mp3"
+   },
+   {
+    "id": "520087",
+    "autor": "szegvari",
+    "pagina": "https://freesound.org/people/szegvari/sounds/520087/",
+    "titulo": "Soda Machine Mastered Field-recording by szegvari",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/burbujeo/Soda_Machine_Mastered_Field-recording_by_szegvari_520087.mp3"
+   }
+  ],
+  "pop": [
+   {
+    "id": "877848",
+    "autor": "loganzsound",
+    "pagina": "https://freesound.org/people/loganzsound/sounds/877848/",
+    "titulo": "Small Glass Bottle Pop Full by loganzsound",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/pop/Small_Glass_Bottle_Pop_Full_by_loganzsound_877848.mp3"
+   },
+   {
+    "id": "362201",
+    "autor": "mjvilches",
+    "pagina": "https://freesound.org/people/mjvilches/sounds/362201/",
+    "titulo": "Pop 001 by mjvilches",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/pop/Pop_001_by_mjvilches_362201.mp3"
+   },
+   {
+    "id": "347353",
+    "autor": "Kinoton",
+    "pagina": "https://freesound.org/people/Kinoton/sounds/347353/",
+    "titulo": "Squeaky cork pull by Kinoton",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/pop/Squeaky_cork_pull_by_Kinoton_347353.mp3"
+   },
+   {
+    "id": "578640",
+    "autor": "-GeorgeDiamond-",
+    "pagina": "https://freesound.org/people/-GeorgeDiamond-/sounds/578640/",
+    "titulo": "Small Bottle Pop.wav by -GeorgeDiamond-",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/pop/Small_Bottle_Pop.wav_by_-GeorgeDiamond-_578640.mp3"
+   },
+   {
+    "id": "319794",
+    "autor": "zmobie",
+    "pagina": "https://freesound.org/people/zmobie/sounds/319794/",
+    "titulo": "Uncorking fine scotch 4 by zmobie",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/pop/Uncorking_fine_scotch_4_by_zmobie_319794.mp3"
+   },
+   {
+    "id": "610756",
+    "autor": "dermotte",
+    "pagina": "https://freesound.org/people/dermotte/sounds/610756/",
+    "titulo": "A series of &quot;Plopp&quot; sounds by dermotte",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/pop/A_series_of_quot_Plopp_quot_sounds_by_dermotte_610756.mp3"
+   }
+  ],
+  "eructo_humano": [
+   {
+    "id": "523595",
+    "autor": "bogenseeberg",
+    "pagina": "https://freesound.org/people/bogenseeberg/sounds/523595/",
+    "titulo": "hey burp.wav by bogenseeberg",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/eructo_humano/hey_burp.wav_by_bogenseeberg_523595.mp3"
+   },
+   {
+    "id": "678963",
+    "autor": "josetb",
+    "pagina": "https://freesound.org/people/josetb/sounds/678963/",
+    "titulo": "Cartoon Burp by josetb",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/eructo_humano/Cartoon_Burp_by_josetb_678963.mp3"
+   },
+   {
+    "id": "254281",
+    "autor": "Jagadamba",
+    "pagina": "https://freesound.org/people/Jagadamba/sounds/254281/",
+    "titulo": "Burp - mechanical - robot - robotic by Jagadamba",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/eructo_humano/Burp_-_mechanical_-_robot_-_robotic_by_Jagadamba_254281.mp3"
+   },
+   {
+    "id": "58983",
+    "autor": "timtube",
+    "pagina": "https://freesound.org/people/timtube/sounds/58983/",
+    "titulo": "burp 10.wav by timtube",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/eructo_humano/burp_10.wav_by_timtube_58983.mp3"
+   },
+   {
+    "id": "553809",
+    "autor": "Walking.With.Microphones",
+    "pagina": "https://freesound.org/people/Walking.With.Microphones/sounds/553809/",
+    "titulo": "Burp) by Walking.With.Microphones",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/eructo_humano/Burp_by_Walking.With.Microphones_553809.mp3"
+   },
+   {
+    "id": "615889",
+    "autor": "emilyzitek",
+    "pagina": "https://freesound.org/people/emilyzitek/sounds/615889/",
+    "titulo": "Emily Burping Rico Suave.MP3 by emilyzitek",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/eructo_humano/Emily_Burping_Rico_Suave.MP3_by_emilyzitek_615889.mp3"
+   }
+  ],
+  "whoosh": [
+   {
+    "id": "530448",
+    "autor": "Mellau",
+    "pagina": "https://freesound.org/people/Mellau/sounds/530448/",
+    "titulo": "Whoosh Short 5.wav by Mellau",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/whoosh/Whoosh_Short_5.wav_by_Mellau_530448.mp3"
+   },
+   {
+    "id": "460474",
+    "autor": "Vilkas_Sound",
+    "pagina": "https://freesound.org/people/Vilkas_Sound/sounds/460474/",
+    "titulo": "VS_Short Whoosh 7.mp3 by Vilkas_Sound",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/whoosh/VS_Short_Whoosh_7.mp3_by_Vilkas_Sound_460474.mp3"
+   },
+   {
+    "id": "195937",
+    "autor": "michimuc2",
+    "pagina": "https://freesound.org/people/michimuc2/sounds/195937/",
+    "titulo": "short wind noise by michimuc2",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/whoosh/short_wind_noise_by_michimuc2_195937.mp3"
+   },
+   {
+    "id": "60013",
+    "autor": "qubodup",
+    "pagina": "https://freesound.org/people/qubodup/sounds/60013/",
+    "titulo": "Whoosh by qubodup",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/whoosh/Whoosh_by_qubodup_60013.mp3"
+   },
+   {
+    "id": "877976",
+    "autor": "Qvantor",
+    "pagina": "https://freesound.org/people/Qvantor/sounds/877976/",
+    "titulo": "Swish Swipe Short by Qvantor",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/whoosh/Swish_Swipe_Short_by_Qvantor_877976.mp3"
+   },
+   {
+    "id": "491321",
+    "autor": "c.void",
+    "pagina": "https://freesound.org/people/c.void/sounds/491321/",
+    "titulo": "air_pod.wav by c.void",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/whoosh/air_pod.wav_by_c.void_491321.mp3"
+   }
+  ],
+  "latido": [],
+  "ambiente_campo": [
+   {
+    "id": "877039",
+    "autor": "KVV_Audio",
+    "pagina": "https://freesound.org/people/KVV_Audio/sounds/877039/",
+    "titulo": "BIRDSong_Forest Birds Chirping Wind Rustle 01_KVV AUDIO_FREE by KVV_Audio",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/ambiente_campo/BIRDSong_Forest_Birds_Chirping_Wind_Rustle_01_KVV__877039.mp3"
+   },
+   {
+    "id": "669640",
+    "autor": "kevp888",
+    "pagina": "https://freesound.org/people/kevp888/sounds/669640/",
+    "titulo": "210526_1599_FR_WindyCountryside.wav by kevp888",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/ambiente_campo/210526_1599_FR_WindyCountryside.wav_by_kevp888_669640.mp3"
+   },
+   {
+    "id": "608270",
+    "autor": "szegvari",
+    "pagina": "https://freesound.org/people/szegvari/sounds/608270/",
+    "titulo": "Cold Wind Winter Animals Snow Birds Water Atmo Ambiance Atmosphere Mastered Surround.wav by szegvari",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/ambiente_campo/Cold_Wind_Winter_Animals_Snow_Birds_Water_Atmo_Amb_608270.mp3"
+   },
+   {
+    "id": "608269",
+    "autor": "szegvari",
+    "pagina": "https://freesound.org/people/szegvari/sounds/608269/",
+    "titulo": "Cold Wind Winter Animals Snow Birds Water Atmo Ambiance Atmosphere Mastered.wav by szegvari",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/ambiente_campo/Cold_Wind_Winter_Animals_Snow_Birds_Water_Atmo_Amb_608269.mp3"
+   }
+  ]
+ },
+ "sketchfab": {
+  "vaca_animada": [
+   {
+    "uid": "c5782e43dcf442718a25b49bed00f582",
+    "nombre": "Cow frame test",
+    "autor": "Nyilonelycompany",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 29345,
+    "url": "https://sketchfab.com/3d-models/none-c5782e43dcf442718a25b49bed00f582",
+    "miniatura": "miniaturas/vaca_animada/c5782e43dcf442718a25b49bed00f582.jpg"
+   },
+   {
+    "uid": "160bf043b71c458984c81c717b7483c9",
+    "nombre": "Western Cowboy (Rigged)",
+    "autor": "stevedaman",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 35370,
+    "url": "https://sketchfab.com/3d-models/none-160bf043b71c458984c81c717b7483c9",
+    "miniatura": "miniaturas/vaca_animada/160bf043b71c458984c81c717b7483c9.jpg"
+   },
+   {
+    "uid": "22484d65167d4f83bb9e9535c84dd109",
+    "nombre": "( FREE )  Float on the clouds -  flying boat SDC",
+    "autor": "Lambo_SC04",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 200958,
+    "url": "https://sketchfab.com/3d-models/none-22484d65167d4f83bb9e9535c84dd109",
+    "miniatura": "miniaturas/vaca_animada/22484d65167d4f83bb9e9535c84dd109.jpg"
+   },
+   {
+    "uid": "3de0546e4e944bebb4debd9f819e8576",
+    "nombre": "UFO | Animated",
+    "autor": "tadenstar",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 82316,
+    "url": "https://sketchfab.com/3d-models/none-3de0546e4e944bebb4debd9f819e8576",
+    "miniatura": "miniaturas/vaca_animada/3de0546e4e944bebb4debd9f819e8576.jpg"
+   },
+   {
+    "uid": "d5aeb3ea0de74d3f989a1649da50aae0",
+    "nombre": "Milk Churn",
+    "autor": "wittybacon",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 18540,
+    "url": "https://sketchfab.com/3d-models/none-d5aeb3ea0de74d3f989a1649da50aae0",
+    "miniatura": "miniaturas/vaca_animada/d5aeb3ea0de74d3f989a1649da50aae0.jpg"
+   },
+   {
+    "uid": "2ca1db4e890e4b24a68624597e7d2fc8",
+    "nombre": "Cow NPC - Now free to download",
+    "autor": "nataliekirk",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 2752,
+    "url": "https://sketchfab.com/3d-models/none-2ca1db4e890e4b24a68624597e7d2fc8",
+    "miniatura": "miniaturas/vaca_animada/2ca1db4e890e4b24a68624597e7d2fc8.jpg"
+   },
+   {
+    "uid": "cfacf56db7934b6cb7382fd1c3e428f1",
+    "nombre": "Cow+motions",
+    "autor": "Kapi777",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 4,
+    "caras": 3936,
+    "url": "https://sketchfab.com/3d-models/none-cfacf56db7934b6cb7382fd1c3e428f1",
+    "miniatura": "miniaturas/vaca_animada/cfacf56db7934b6cb7382fd1c3e428f1.jpg"
+   },
+   {
+    "uid": "fbc40551d57c4cefb5f1d313726f73ae",
+    "nombre": "Stop Motion Low Poly Cow Turret",
+    "autor": "Rysky",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 13344,
+    "url": "https://sketchfab.com/3d-models/none-fbc40551d57c4cefb5f1d313726f73ae",
+    "miniatura": "miniaturas/vaca_animada/fbc40551d57c4cefb5f1d313726f73ae.jpg"
+   },
+   {
+    "uid": "1703672ed68f417698ea017af3066d61",
+    "nombre": "Cow",
+    "autor": "shakiller",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1208,
+    "url": "https://sketchfab.com/3d-models/none-1703672ed68f417698ea017af3066d61",
+    "miniatura": "miniaturas/vaca_animada/1703672ed68f417698ea017af3066d61.jpg"
+   },
+   {
+    "uid": "40bbf064e7fe4fc48f1e2ee6fa83dc12",
+    "nombre": "Animated Drunken Twin Cowboys",
+    "autor": "LasquetiSpice",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 30016,
+    "url": "https://sketchfab.com/3d-models/none-40bbf064e7fe4fc48f1e2ee6fa83dc12",
+    "miniatura": "miniaturas/vaca_animada/40bbf064e7fe4fc48f1e2ee6fa83dc12.jpg"
+   },
+   {
+    "uid": "1a8893139f5b4bb188801deab4962233",
+    "nombre": "Tree Block Set 2 change colour",
+    "autor": "vfxstudio987",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 10212,
+    "url": "https://sketchfab.com/3d-models/none-1a8893139f5b4bb188801deab4962233",
+    "miniatura": "miniaturas/vaca_animada/1a8893139f5b4bb188801deab4962233.jpg"
+   },
+   {
+    "uid": "2fd0d909545241ccab56c7a252a9e115",
+    "nombre": "motu patlu 3d cartoon for blender.",
+    "autor": "farooqme333",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1522879,
+    "url": "https://sketchfab.com/3d-models/none-2fd0d909545241ccab56c7a252a9e115",
+    "miniatura": "miniaturas/vaca_animada/2fd0d909545241ccab56c7a252a9e115.jpg"
+   },
+   {
+    "uid": "658cf39e4f5645ed953adaaa95fb86e3",
+    "nombre": "Cowboy hat",
+    "autor": "anashumm",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 26442,
+    "url": "https://sketchfab.com/3d-models/none-658cf39e4f5645ed953adaaa95fb86e3",
+    "miniatura": "miniaturas/vaca_animada/658cf39e4f5645ed953adaaa95fb86e3.jpg"
+   },
+   {
+    "uid": "e8c284fcea4f464e90acb0aeb414efa9",
+    "nombre": "Cowboy",
+    "autor": "alalys",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 1560,
+    "url": "https://sketchfab.com/3d-models/none-e8c284fcea4f464e90acb0aeb414efa9",
+    "miniatura": "miniaturas/vaca_animada/e8c284fcea4f464e90acb0aeb414efa9.jpg"
+   },
+   {
+    "uid": "d0cad00fc24144b694868c8633dd7478",
+    "nombre": "Cowboy",
+    "autor": "Rickerson.Martines.Aparecido",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 8615,
+    "url": "https://sketchfab.com/3d-models/none-d0cad00fc24144b694868c8633dd7478",
+    "miniatura": "miniaturas/vaca_animada/d0cad00fc24144b694868c8633dd7478.jpg"
+   },
+   {
+    "uid": "88d26e80e6c54a05827959d54b03f4e6",
+    "nombre": "Cowlander",
+    "autor": "nickflatt",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 62379,
+    "url": "https://sketchfab.com/3d-models/none-88d26e80e6c54a05827959d54b03f4e6",
+    "miniatura": "miniaturas/vaca_animada/88d26e80e6c54a05827959d54b03f4e6.jpg"
+   },
+   {
+    "uid": "18a845498c764d549a8bd1fad3c67489",
+    "nombre": "Animated Cow",
+    "autor": "GameCraftPro",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 24540,
+    "url": "https://sketchfab.com/3d-models/none-18a845498c764d549a8bd1fad3c67489",
+    "miniatura": "miniaturas/vaca_animada/18a845498c764d549a8bd1fad3c67489.jpg"
+   },
+   {
+    "uid": "0a1b304aadda4b259e210a657e6cef7b",
+    "nombre": "Polish cow",
+    "autor": "Gummibargumybear",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 29345,
+    "url": "https://sketchfab.com/3d-models/none-0a1b304aadda4b259e210a657e6cef7b",
+    "miniatura": "miniaturas/vaca_animada/0a1b304aadda4b259e210a657e6cef7b.jpg"
+   },
+   {
+    "uid": "4e19faf01fb04bfc9d92eabfe45b116c",
+    "nombre": "Amy Lee Cowgirl Animated Unity",
+    "autor": "maddex88",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 301531,
+    "url": "https://sketchfab.com/3d-models/none-4e19faf01fb04bfc9d92eabfe45b116c",
+    "miniatura": "miniaturas/vaca_animada/4e19faf01fb04bfc9d92eabfe45b116c.jpg"
+   },
+   {
+    "uid": "6650f4cdb54b4be1b5a328c1a9f1e414",
+    "nombre": "Lowpoly cow walk",
+    "autor": "xxxaaa444",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1192,
+    "url": "https://sketchfab.com/3d-models/none-6650f4cdb54b4be1b5a328c1a9f1e414",
+    "miniatura": "miniaturas/vaca_animada/6650f4cdb54b4be1b5a328c1a9f1e414.jpg"
+   },
+   {
+    "uid": "f22843b599ce471583c42bca58025b44",
+    "nombre": "NPC: Titan Cow",
+    "autor": "ISSHORN7",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 79784,
+    "url": "https://sketchfab.com/3d-models/none-f22843b599ce471583c42bca58025b44",
+    "miniatura": "miniaturas/vaca_animada/f22843b599ce471583c42bca58025b44.jpg"
+   },
+   {
+    "uid": "3abddfdafec3468d8d4a7e05020d4097",
+    "nombre": "Courage The Cowardly Dog Windmill",
+    "autor": "breakbrandy51",
+    "licencia": "CC Attribution",
+    "animaciones": 4,
+    "caras": 286280,
+    "url": "https://sketchfab.com/3d-models/none-3abddfdafec3468d8d4a7e05020d4097",
+    "miniatura": "miniaturas/vaca_animada/3abddfdafec3468d8d4a7e05020d4097.jpg"
+   },
+   {
+    "uid": "018809cd7c09417dbabce6d067c582ee",
+    "nombre": "Courage the Cowardly Dog",
+    "autor": "elysed",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 7352,
+    "url": "https://sketchfab.com/3d-models/none-018809cd7c09417dbabce6d067c582ee",
+    "miniatura": "miniaturas/vaca_animada/018809cd7c09417dbabce6d067c582ee.jpg"
+   },
+   {
+    "uid": "6f6770b0a9e64d7d9ca99d722a9561f9",
+    "nombre": "Cow2",
+    "autor": "shakiller",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4864,
+    "url": "https://sketchfab.com/3d-models/none-6f6770b0a9e64d7d9ca99d722a9561f9",
+    "miniatura": "miniaturas/vaca_animada/6f6770b0a9e64d7d9ca99d722a9561f9.jpg"
+   },
+   {
+    "uid": "22352a4321144948aeeef2400af5c1cd",
+    "nombre": "Cowboybird Animation",
+    "autor": "Eijfij",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 5676,
+    "url": "https://sketchfab.com/3d-models/none-22352a4321144948aeeef2400af5c1cd",
+    "miniatura": "miniaturas/vaca_animada/22352a4321144948aeeef2400af5c1cd.jpg"
+   },
+   {
+    "uid": "2ee7e9dfadbc47a9b13036057aad35d3",
+    "nombre": "Cowboy",
+    "autor": "Konstantin.Denisov",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 1876,
+    "url": "https://sketchfab.com/3d-models/none-2ee7e9dfadbc47a9b13036057aad35d3",
+    "miniatura": "miniaturas/vaca_animada/2ee7e9dfadbc47a9b13036057aad35d3.jpg"
+   },
+   {
+    "uid": "b30c21839f004cf68ff995c882929099",
+    "nombre": "Cowboy Mage Scene",
+    "autor": "grumboli",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 275784,
+    "url": "https://sketchfab.com/3d-models/none-b30c21839f004cf68ff995c882929099",
+    "miniatura": "miniaturas/vaca_animada/b30c21839f004cf68ff995c882929099.jpg"
+   },
+   {
+    "uid": "2159210401d948a6a1244a9b238b368e",
+    "nombre": "Cowboy Mage - Semi-final submission",
+    "autor": "grumboli",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 241476,
+    "url": "https://sketchfab.com/3d-models/none-2159210401d948a6a1244a9b238b368e",
+    "miniatura": "miniaturas/vaca_animada/2159210401d948a6a1244a9b238b368e.jpg"
+   },
+   {
+    "uid": "e62ce0517f9543fd97ab859bc551b96e",
+    "nombre": "Cow Run",
+    "autor": "fazlulkarimrabby",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 49088,
+    "url": "https://sketchfab.com/3d-models/none-e62ce0517f9543fd97ab859bc551b96e",
+    "miniatura": "miniaturas/vaca_animada/e62ce0517f9543fd97ab859bc551b96e.jpg"
+   },
+   {
+    "uid": "258f79ff3d6b42b58b0928194bbcabff",
+    "nombre": "LP Cowboy",
+    "autor": "dartuchiwa",
+    "licencia": "CC Attribution",
+    "animaciones": 5,
+    "caras": 1394,
+    "url": "https://sketchfab.com/3d-models/none-258f79ff3d6b42b58b0928194bbcabff",
+    "miniatura": "miniaturas/vaca_animada/258f79ff3d6b42b58b0928194bbcabff.jpg"
+   },
+   {
+    "uid": "7a331fc1de88474dbec27d5a1a43a60e",
+    "nombre": "Akabeko",
+    "autor": "fumio_y",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 908,
+    "url": "https://sketchfab.com/3d-models/none-7a331fc1de88474dbec27d5a1a43a60e",
+    "miniatura": "miniaturas/vaca_animada/7a331fc1de88474dbec27d5a1a43a60e.jpg"
+   },
+   {
+    "uid": "d2000bf3158b4903bf7eb512afdb7f9c",
+    "nombre": "Cow B",
+    "autor": "trungcao",
+    "licencia": "CC Attribution",
+    "animaciones": 3,
+    "caras": 1530,
+    "url": "https://sketchfab.com/3d-models/none-d2000bf3158b4903bf7eb512afdb7f9c",
+    "miniatura": "miniaturas/vaca_animada/d2000bf3158b4903bf7eb512afdb7f9c.jpg"
+   },
+   {
+    "uid": "8345c3f154f641308be686dd5ae5099e",
+    "nombre": "Lowpoly Fighter Cowboy",
+    "autor": "Gildevan.Dias",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 1248,
+    "url": "https://sketchfab.com/3d-models/none-8345c3f154f641308be686dd5ae5099e",
+    "miniatura": "miniaturas/vaca_animada/8345c3f154f641308be686dd5ae5099e.jpg"
+   },
+   {
+    "uid": "0d7274d3624d4ce5978cb10c0243e97b",
+    "nombre": "test cowboy",
+    "autor": "Benmanchester",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 6608,
+    "url": "https://sketchfab.com/3d-models/none-0d7274d3624d4ce5978cb10c0243e97b",
+    "miniatura": "miniaturas/vaca_animada/0d7274d3624d4ce5978cb10c0243e97b.jpg"
+   },
+   {
+    "uid": "9d216a0748ca46deaa9f67e575920a97",
+    "nombre": "Boy cown TEST 1 Gangnam Style-",
+    "autor": "Nabatova",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 52794,
+    "url": "https://sketchfab.com/3d-models/none-9d216a0748ca46deaa9f67e575920a97",
+    "miniatura": "miniaturas/vaca_animada/9d216a0748ca46deaa9f67e575920a97.jpg"
+   },
+   {
+    "uid": "1423e077f5aa4cbfb9c5abfb147edc54",
+    "nombre": "Lowpoly Ushi",
+    "autor": "penotea",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 2,
+    "caras": 446,
+    "url": "https://sketchfab.com/3d-models/none-1423e077f5aa4cbfb9c5abfb147edc54",
+    "miniatura": "miniaturas/vaca_animada/1423e077f5aa4cbfb9c5abfb147edc54.jpg"
+   }
+  ],
+  "vaca_holstein": [
+   {
+    "uid": "9cd93b871f6b442d96b7eacec7326e6b",
+    "nombre": "New Salem Sue",
+    "autor": "jakee.stoltz",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 17978,
+    "url": "https://sketchfab.com/3d-models/none-9cd93b871f6b442d96b7eacec7326e6b",
+    "miniatura": "miniaturas/vaca_holstein/9cd93b871f6b442d96b7eacec7326e6b.jpg"
+   }
+  ],
+  "vaca_rig": [
+   {
+    "uid": "2ca1db4e890e4b24a68624597e7d2fc8",
+    "nombre": "Cow NPC - Now free to download",
+    "autor": "nataliekirk",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 2752,
+    "url": "https://sketchfab.com/3d-models/none-2ca1db4e890e4b24a68624597e7d2fc8",
+    "miniatura": "miniaturas/vaca_rig/2ca1db4e890e4b24a68624597e7d2fc8.jpg"
+   },
+   {
+    "uid": "7bd4f1a25f2c479fac08d83b0aa7aa5a",
+    "nombre": "Minecraft Cow",
+    "autor": "None_Yaroslav",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 108,
+    "url": "https://sketchfab.com/3d-models/none-7bd4f1a25f2c479fac08d83b0aa7aa5a",
+    "miniatura": "miniaturas/vaca_rig/7bd4f1a25f2c479fac08d83b0aa7aa5a.jpg"
+   },
+   {
+    "uid": "aea6aec8741a424385ca378389feb73b",
+    "nombre": "Low-poly cow - neutral pose",
+    "autor": "dhannoir",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 680,
+    "url": "https://sketchfab.com/3d-models/none-aea6aec8741a424385ca378389feb73b",
+    "miniatura": "miniaturas/vaca_rig/aea6aec8741a424385ca378389feb73b.jpg"
+   },
+   {
+    "uid": "178a770d1bcf4145873b4c4d6adc0371",
+    "nombre": "Cow Head",
+    "autor": "321Blender",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 65292,
+    "url": "https://sketchfab.com/3d-models/none-178a770d1bcf4145873b4c4d6adc0371",
+    "miniatura": "miniaturas/vaca_rig/178a770d1bcf4145873b4c4d6adc0371.jpg"
+   },
+   {
+    "uid": "4ed238d40ea44b8abca499fcf67e6ae2",
+    "nombre": "Cowboi",
+    "autor": "lixyco",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 17764,
+    "url": "https://sketchfab.com/3d-models/none-4ed238d40ea44b8abca499fcf67e6ae2",
+    "miniatura": "miniaturas/vaca_rig/4ed238d40ea44b8abca499fcf67e6ae2.jpg"
+   },
+   {
+    "uid": "06d07d6b5224407d9e34cdea40810187",
+    "nombre": "Minecraft Mooshroom",
+    "autor": "None_Yaroslav",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 120,
+    "url": "https://sketchfab.com/3d-models/none-06d07d6b5224407d9e34cdea40810187",
+    "miniatura": "miniaturas/vaca_rig/06d07d6b5224407d9e34cdea40810187.jpg"
+   }
+  ],
+  "vaca_realista": [
+   {
+    "uid": "92ec311be575431a810550faacffec64",
+    "nombre": "New York City Police Investigation Board",
+    "autor": "glowbox3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2280,
+    "url": "https://sketchfab.com/3d-models/none-92ec311be575431a810550faacffec64",
+    "miniatura": "miniaturas/vaca_realista/92ec311be575431a810550faacffec64.jpg"
+   },
+   {
+    "uid": "b0edfdc157e94ea093ee959c65db38de",
+    "nombre": "Realistic Cracked Tree Game-Ready prop",
+    "autor": "aliosa123",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3509,
+    "url": "https://sketchfab.com/3d-models/none-b0edfdc157e94ea093ee959c65db38de",
+    "miniatura": "miniaturas/vaca_realista/b0edfdc157e94ea093ee959c65db38de.jpg"
+   },
+   {
+    "uid": "195d2de670b24e22a98cf9d47607e646",
+    "nombre": "Custom Carbine Rifle NV4 COD",
+    "autor": "trolosqlfod",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 13622,
+    "url": "https://sketchfab.com/3d-models/none-195d2de670b24e22a98cf9d47607e646",
+    "miniatura": "miniaturas/vaca_realista/195d2de670b24e22a98cf9d47607e646.jpg"
+   },
+   {
+    "uid": "3f89ba2899194ed2beb521e637e9a0a1",
+    "nombre": "Plastic cow - statue",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 27975,
+    "url": "https://sketchfab.com/3d-models/none-3f89ba2899194ed2beb521e637e9a0a1",
+    "miniatura": "miniaturas/vaca_realista/3f89ba2899194ed2beb521e637e9a0a1.jpg"
+   },
+   {
+    "uid": "2c2c9220513d425789991a002d918c26",
+    "nombre": "Ufo Crashste Brno",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 72651,
+    "url": "https://sketchfab.com/3d-models/none-2c2c9220513d425789991a002d918c26",
+    "miniatura": "miniaturas/vaca_realista/2c2c9220513d425789991a002d918c26.jpg"
+   },
+   {
+    "uid": "f79f2bc987f94c9ead02a36844e7c48b",
+    "nombre": "Cow Skin",
+    "autor": "gscreations2508",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 95136,
+    "url": "https://sketchfab.com/3d-models/none-f79f2bc987f94c9ead02a36844e7c48b",
+    "miniatura": "miniaturas/vaca_realista/f79f2bc987f94c9ead02a36844e7c48b.jpg"
+   },
+   {
+    "uid": "b16499d2f4b644c2bca24e51658a5aa1",
+    "nombre": "Insectoid Cute Hornet ~ Hollow Knight",
+    "autor": "timmymark",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 2,
+    "caras": 204313,
+    "url": "https://sketchfab.com/3d-models/none-b16499d2f4b644c2bca24e51658a5aa1",
+    "miniatura": "miniaturas/vaca_realista/b16499d2f4b644c2bca24e51658a5aa1.jpg"
+   },
+   {
+    "uid": "117fc4a6e8304a858dfaf2adc2c782a0",
+    "nombre": "Hanging Shirt By Camille Kleinman",
+    "autor": "camillekleinman",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 144332,
+    "url": "https://sketchfab.com/3d-models/none-117fc4a6e8304a858dfaf2adc2c782a0",
+    "miniatura": "miniaturas/vaca_realista/117fc4a6e8304a858dfaf2adc2c782a0.jpg"
+   },
+   {
+    "uid": "b0a1e8dfb12c4b2fbcb8c9c24a4ad795",
+    "nombre": "Dien Khanh Old Castle",
+    "autor": "baodai",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7682,
+    "url": "https://sketchfab.com/3d-models/none-b0a1e8dfb12c4b2fbcb8c9c24a4ad795",
+    "miniatura": "miniaturas/vaca_realista/b0a1e8dfb12c4b2fbcb8c9c24a4ad795.jpg"
+   },
+   {
+    "uid": "11c5d93ee1454591ae6183f7c6104ebb",
+    "nombre": "Coin",
+    "autor": "kj3dx",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2500,
+    "url": "https://sketchfab.com/3d-models/none-11c5d93ee1454591ae6183f7c6104ebb",
+    "miniatura": "miniaturas/vaca_realista/11c5d93ee1454591ae6183f7c6104ebb.jpg"
+   },
+   {
+    "uid": "9c219d7d26ac47beaa46539a9a4fa8da",
+    "nombre": "Frying Pan",
+    "autor": "kj3dx",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1352,
+    "url": "https://sketchfab.com/3d-models/none-9c219d7d26ac47beaa46539a9a4fa8da",
+    "miniatura": "miniaturas/vaca_realista/9c219d7d26ac47beaa46539a9a4fa8da.jpg"
+   },
+   {
+    "uid": "886e3b4848f845e2af30c70d5dc7ece5",
+    "nombre": "Air Compressor Metabo 160-5 18 LTX BL OF",
+    "autor": "JackEvans",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 25080,
+    "url": "https://sketchfab.com/3d-models/none-886e3b4848f845e2af30c70d5dc7ece5",
+    "miniatura": "miniaturas/vaca_realista/886e3b4848f845e2af30c70d5dc7ece5.jpg"
+   },
+   {
+    "uid": "c941b9c04f8348049f016de9a22eb2da",
+    "nombre": "Alien - The Others",
+    "autor": "shex",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 528464,
+    "url": "https://sketchfab.com/3d-models/none-c941b9c04f8348049f016de9a22eb2da",
+    "miniatura": "miniaturas/vaca_realista/c941b9c04f8348049f016de9a22eb2da.jpg"
+   },
+   {
+    "uid": "17bdf341fcc047888935f67a05dd2fea",
+    "nombre": "Dugong (Sea Cow)",
+    "autor": "ianchrisjohn",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 266134,
+    "url": "https://sketchfab.com/3d-models/none-17bdf341fcc047888935f67a05dd2fea",
+    "miniatura": "miniaturas/vaca_realista/17bdf341fcc047888935f67a05dd2fea.jpg"
+   },
+   {
+    "uid": "b670175a87ac48f6b04e2ffd61a02ba8",
+    "nombre": "Brushless Contra-rotating Drone Motor",
+    "autor": "spsvision",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 148921,
+    "url": "https://sketchfab.com/3d-models/none-b670175a87ac48f6b04e2ffd61a02ba8",
+    "miniatura": "miniaturas/vaca_realista/b670175a87ac48f6b04e2ffd61a02ba8.jpg"
+   },
+   {
+    "uid": "0f4c19b7c99546aebe70efb1a3e4fde4",
+    "nombre": "Pokeball Antigua/Old Pokeball",
+    "autor": "semoi0055",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 801664,
+    "url": "https://sketchfab.com/3d-models/none-0f4c19b7c99546aebe70efb1a3e4fde4",
+    "miniatura": "miniaturas/vaca_realista/0f4c19b7c99546aebe70efb1a3e4fde4.jpg"
+   }
+  ],
+  "papa": [
+   {
+    "uid": "d3be8fed96eb48be88b47bbe8d2951e1",
+    "nombre": "Lowpoly Fruits & Vegetables",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 99889,
+    "url": "https://sketchfab.com/3d-models/none-d3be8fed96eb48be88b47bbe8d2951e1",
+    "miniatura": "miniaturas/papa/d3be8fed96eb48be88b47bbe8d2951e1.jpg"
+   },
+   {
+    "uid": "822fa185ff9d492ca5999dd4df18e0d0",
+    "nombre": "Game Ready Food Asset Pack",
+    "autor": "meerschaumdigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 21774,
+    "url": "https://sketchfab.com/3d-models/none-822fa185ff9d492ca5999dd4df18e0d0",
+    "miniatura": "miniaturas/papa/822fa185ff9d492ca5999dd4df18e0d0.jpg"
+   },
+   {
+    "uid": "fb44add4533149ab9dc559ec34d1b96c",
+    "nombre": "Package Low",
+    "autor": "Bowen154",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12435,
+    "url": "https://sketchfab.com/3d-models/none-fb44add4533149ab9dc559ec34d1b96c",
+    "miniatura": "miniaturas/papa/fb44add4533149ab9dc559ec34d1b96c.jpg"
+   },
+   {
+    "uid": "9846beef2c6b46caadc4a547a4dcd144",
+    "nombre": "Game Ready Fruit & Vegetable Asset Pack",
+    "autor": "meerschaumdigital",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 29288,
+    "url": "https://sketchfab.com/3d-models/none-9846beef2c6b46caadc4a547a4dcd144",
+    "miniatura": "miniaturas/papa/9846beef2c6b46caadc4a547a4dcd144.jpg"
+   },
+   {
+    "uid": "720ddbe936504ae194d514876b235067",
+    "nombre": "Cyberpunk 2077 fanart: Makigai MaiMai P126",
+    "autor": "EddyNL",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 32716,
+    "url": "https://sketchfab.com/3d-models/none-720ddbe936504ae194d514876b235067",
+    "miniatura": "miniaturas/papa/720ddbe936504ae194d514876b235067.jpg"
+   },
+   {
+    "uid": "9c3ef71337c14e049d2d1e959dc59f61",
+    "nombre": "Nanashi_Mumei",
+    "autor": "Auto_Potato",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 118244,
+    "url": "https://sketchfab.com/3d-models/none-9c3ef71337c14e049d2d1e959dc59f61",
+    "miniatura": "miniaturas/papa/9c3ef71337c14e049d2d1e959dc59f61.jpg"
+   },
+   {
+    "uid": "1ac0d5f9ce884acfabea3f146af670d0",
+    "nombre": "Potato Plants Collection",
+    "autor": "charles.cla",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 41985,
+    "url": "https://sketchfab.com/3d-models/none-1ac0d5f9ce884acfabea3f146af670d0",
+    "miniatura": "miniaturas/papa/1ac0d5f9ce884acfabea3f146af670d0.jpg"
+   },
+   {
+    "uid": "df936bc8c3e14aeb98a242943b9caf35",
+    "nombre": "Potato Character",
+    "autor": "IOM_Studios",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9801,
+    "url": "https://sketchfab.com/3d-models/none-df936bc8c3e14aeb98a242943b9caf35",
+    "miniatura": "miniaturas/papa/df936bc8c3e14aeb98a242943b9caf35.jpg"
+   },
+   {
+    "uid": "67ab3ef6093b43df8633c45b6e85669c",
+    "nombre": "Knight Helmet",
+    "autor": "Auto_Potato",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 51056,
+    "url": "https://sketchfab.com/3d-models/none-67ab3ef6093b43df8633c45b6e85669c",
+    "miniatura": "miniaturas/papa/67ab3ef6093b43df8633c45b6e85669c.jpg"
+   },
+   {
+    "uid": "5e661adf11f24a76bb9538b536002bb3",
+    "nombre": "Pile of coins",
+    "autor": "gnarlypotato",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5376,
+    "url": "https://sketchfab.com/3d-models/none-5e661adf11f24a76bb9538b536002bb3",
+    "miniatura": "miniaturas/papa/5e661adf11f24a76bb9538b536002bb3.jpg"
+   },
+   {
+    "uid": "4c23e2622a8749979f49ad1632cab94d",
+    "nombre": "Leptinotarsa decemlineata",
+    "autor": "disc3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 150000,
+    "url": "https://sketchfab.com/3d-models/none-4c23e2622a8749979f49ad1632cab94d",
+    "miniatura": "miniaturas/papa/4c23e2622a8749979f49ad1632cab94d.jpg"
+   },
+   {
+    "uid": "b0b6ec2e9ce54ccd9d878da6f412d0e3",
+    "nombre": "Christmas Dinner",
+    "autor": "julialemke",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 81006,
+    "url": "https://sketchfab.com/3d-models/none-b0b6ec2e9ce54ccd9d878da6f412d0e3",
+    "miniatura": "miniaturas/papa/b0b6ec2e9ce54ccd9d878da6f412d0e3.jpg"
+   },
+   {
+    "uid": "b037fdaefe0546f6b485c16253e9429a",
+    "nombre": "Panipuri Cart (indian appetizers)",
+    "autor": "Bongblender",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 725672,
+    "url": "https://sketchfab.com/3d-models/none-b037fdaefe0546f6b485c16253e9429a",
+    "miniatura": "miniaturas/papa/b037fdaefe0546f6b485c16253e9429a.jpg"
+   },
+   {
+    "uid": "3cc368c3e77f47ec8cb680cabd8221ce",
+    "nombre": "日本の定番パン",
+    "autor": "uniko",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 46118,
+    "url": "https://sketchfab.com/3d-models/none-3cc368c3e77f47ec8cb680cabd8221ce",
+    "miniatura": "miniaturas/papa/3cc368c3e77f47ec8cb680cabd8221ce.jpg"
+   },
+   {
+    "uid": "a81175115d544237a19070c582882f02",
+    "nombre": "Potato GLADOS - From Portal 2",
+    "autor": "NodeStar",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 95952,
+    "url": "https://sketchfab.com/3d-models/none-a81175115d544237a19070c582882f02",
+    "miniatura": "miniaturas/papa/a81175115d544237a19070c582882f02.jpg"
+   },
+   {
+    "uid": "86f3279833e54a4c8d4033ff28e84d93",
+    "nombre": "sweet potato",
+    "autor": "pieseven",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 250082,
+    "url": "https://sketchfab.com/3d-models/none-86f3279833e54a4c8d4033ff28e84d93",
+    "miniatura": "miniaturas/papa/86f3279833e54a4c8d4033ff28e84d93.jpg"
+   },
+   {
+    "uid": "0f4be86441694633b42c764a4574fd41",
+    "nombre": "Potato",
+    "autor": "moshecaine",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 250000,
+    "url": "https://sketchfab.com/3d-models/none-0f4be86441694633b42c764a4574fd41",
+    "miniatura": "miniaturas/papa/0f4be86441694633b42c764a4574fd41.jpg"
+   },
+   {
+    "uid": "e5184bb3bf2a455c8872e759bb97e13b",
+    "nombre": "Low Poly Potato Game Ready",
+    "autor": ".arthur",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 768,
+    "url": "https://sketchfab.com/3d-models/none-e5184bb3bf2a455c8872e759bb97e13b",
+    "miniatura": "miniaturas/papa/e5184bb3bf2a455c8872e759bb97e13b.jpg"
+   },
+   {
+    "uid": "b5f1d7635a5b41f0847a2ee5b906098a",
+    "nombre": "Biped",
+    "autor": "KuroNeko",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4378,
+    "url": "https://sketchfab.com/3d-models/none-b5f1d7635a5b41f0847a2ee5b906098a",
+    "miniatura": "miniaturas/papa/b5f1d7635a5b41f0847a2ee5b906098a.jpg"
+   },
+   {
+    "uid": "56909c8cb27a4de7a4c5273ed13e8a80",
+    "nombre": "Mr Potato Head",
+    "autor": "Danser.com",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15034,
+    "url": "https://sketchfab.com/3d-models/none-56909c8cb27a4de7a4c5273ed13e8a80",
+    "miniatura": "miniaturas/papa/56909c8cb27a4de7a4c5273ed13e8a80.jpg"
+   },
+   {
+    "uid": "9151490780e74d548071448cb8bf5f05",
+    "nombre": "LowPoly Food and Archway-VillageProjectAssetsDMU",
+    "autor": "AmberJuneRoseSymonds",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 1,
+    "caras": 3858,
+    "url": "https://sketchfab.com/3d-models/none-9151490780e74d548071448cb8bf5f05",
+    "miniatura": "miniaturas/papa/9151490780e74d548071448cb8bf5f05.jpg"
+   },
+   {
+    "uid": "fe5da7d5202a4bfaa6b48e0096d4c6fd",
+    "nombre": "Passage Grave - Øm Jættestue, Denmark",
+    "autor": "azadbal",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 99999,
+    "url": "https://sketchfab.com/3d-models/none-fe5da7d5202a4bfaa6b48e0096d4c6fd",
+    "miniatura": "miniaturas/papa/fe5da7d5202a4bfaa6b48e0096d4c6fd.jpg"
+   },
+   {
+    "uid": "62682d8843bc4e0bb7c15dc998d4e638",
+    "nombre": "Simple Potato",
+    "autor": "Blender3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1280,
+    "url": "https://sketchfab.com/3d-models/none-62682d8843bc4e0bb7c15dc998d4e638",
+    "miniatura": "miniaturas/papa/62682d8843bc4e0bb7c15dc998d4e638.jpg"
+   },
+   {
+    "uid": "57f085f4ff1642fd92e11194076605f9",
+    "nombre": "Sprouted Potato",
+    "autor": "semblance",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 24078,
+    "url": "https://sketchfab.com/3d-models/none-57f085f4ff1642fd92e11194076605f9",
+    "miniatura": "miniaturas/papa/57f085f4ff1642fd92e11194076605f9.jpg"
+   },
+   {
+    "uid": "368f525cf8704607bc37f6eacbdc48d8",
+    "nombre": "Simple Cutting Board",
+    "autor": "Blender3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1850,
+    "url": "https://sketchfab.com/3d-models/none-368f525cf8704607bc37f6eacbdc48d8",
+    "miniatura": "miniaturas/papa/368f525cf8704607bc37f6eacbdc48d8.jpg"
+   },
+   {
+    "uid": "c5604d5c4f864330b6d171866ea931e2",
+    "nombre": "Three Potatoes",
+    "autor": "DigitalSouls",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 746,
+    "url": "https://sketchfab.com/3d-models/none-c5604d5c4f864330b6d171866ea931e2",
+    "miniatura": "miniaturas/papa/c5604d5c4f864330b6d171866ea931e2.jpg"
+   },
+   {
+    "uid": "2d1d01dc8c984652a362db48f3cda6bf",
+    "nombre": "Russian Survival Knife EGER",
+    "autor": "space_potato",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2404,
+    "url": "https://sketchfab.com/3d-models/none-2d1d01dc8c984652a362db48f3cda6bf",
+    "miniatura": "miniaturas/papa/2d1d01dc8c984652a362db48f3cda6bf.jpg"
+   }
+  ],
+  "costal": [
+   {
+    "uid": "68f62af4c787445583f995f8e46cd2f5",
+    "nombre": "Burlap sack 2",
+    "autor": "misslumos",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 202,
+    "url": "https://sketchfab.com/3d-models/none-68f62af4c787445583f995f8e46cd2f5",
+    "miniatura": "miniaturas/costal/68f62af4c787445583f995f8e46cd2f5.jpg"
+   },
+   {
+    "uid": "f7853b92297c40f9a2b91dfbd8310269",
+    "nombre": "Burlap (Texture)",
+    "autor": "evhan55",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 61699,
+    "url": "https://sketchfab.com/3d-models/none-f7853b92297c40f9a2b91dfbd8310269",
+    "miniatura": "miniaturas/costal/f7853b92297c40f9a2b91dfbd8310269.jpg"
+   }
+  ],
+  "cerca": [
+   {
+    "uid": "7256e01f27874814b9752be27e5d1543",
+    "nombre": "Cartoon | Wooden | Farm | Pack",
+    "autor": "yadrogames",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5304,
+    "url": "https://sketchfab.com/3d-models/none-7256e01f27874814b9752be27e5d1543",
+    "miniatura": "miniaturas/cerca/7256e01f27874814b9752be27e5d1543.jpg"
+   },
+   {
+    "uid": "8fa9a06380df4268b549e345cf103696",
+    "nombre": "woodfence",
+    "autor": "pasquill",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 204,
+    "url": "https://sketchfab.com/3d-models/none-8fa9a06380df4268b549e345cf103696",
+    "miniatura": "miniaturas/cerca/8fa9a06380df4268b549e345cf103696.jpg"
+   },
+   {
+    "uid": "2cc3d48f48df47d2aa7c60893e8ba860",
+    "nombre": "Stylized Fence",
+    "autor": "dagos32",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 2184,
+    "url": "https://sketchfab.com/3d-models/none-2cc3d48f48df47d2aa7c60893e8ba860",
+    "miniatura": "miniaturas/cerca/2cc3d48f48df47d2aa7c60893e8ba860.jpg"
+   },
+   {
+    "uid": "35bccb49e5c748008749c6c4300959b0",
+    "nombre": "Woodfence",
+    "autor": "pasquill",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 586,
+    "url": "https://sketchfab.com/3d-models/none-35bccb49e5c748008749c6c4300959b0",
+    "miniatura": "miniaturas/cerca/35bccb49e5c748008749c6c4300959b0.jpg"
+   },
+   {
+    "uid": "93492de77dbe46e1a7317c88f147bdc9",
+    "nombre": "Fence Collection",
+    "autor": "Enzeruk",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2014,
+    "url": "https://sketchfab.com/3d-models/none-93492de77dbe46e1a7317c88f147bdc9",
+    "miniatura": "miniaturas/cerca/93492de77dbe46e1a7317c88f147bdc9.jpg"
+   },
+   {
+    "uid": "298a373cd3684588bd0d86e2301bfb29",
+    "nombre": "Field Gate 01",
+    "autor": "tessjuel",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 820,
+    "url": "https://sketchfab.com/3d-models/none-298a373cd3684588bd0d86e2301bfb29",
+    "miniatura": "miniaturas/cerca/298a373cd3684588bd0d86e2301bfb29.jpg"
+   },
+   {
+    "uid": "6bb0ed3dda1c4bbd98162c8978b19686",
+    "nombre": "Wooden Fence",
+    "autor": "CreativeMachine",
+    "licencia": "CC Attribution",
+    "animaciones": 2,
+    "caras": 4740,
+    "url": "https://sketchfab.com/3d-models/none-6bb0ed3dda1c4bbd98162c8978b19686",
+    "miniatura": "miniaturas/cerca/6bb0ed3dda1c4bbd98162c8978b19686.jpg"
+   },
+   {
+    "uid": "52f5004c35774312bcc04209898bb5e6",
+    "nombre": "Wooden Fence",
+    "autor": "jaydensa",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 236544,
+    "url": "https://sketchfab.com/3d-models/none-52f5004c35774312bcc04209898bb5e6",
+    "miniatura": "miniaturas/cerca/52f5004c35774312bcc04209898bb5e6.jpg"
+   }
+  ],
+  "lata": [
+   {
+    "uid": "4e0be610db9646929d8be84491f1a72f",
+    "nombre": "Soda Cans",
+    "autor": "Yanez-Designs",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 14048,
+    "url": "https://sketchfab.com/3d-models/none-4e0be610db9646929d8be84491f1a72f",
+    "miniatura": "miniaturas/lata/4e0be610db9646929d8be84491f1a72f.jpg"
+   },
+   {
+    "uid": "aaa11e57064848268d701a3586792d0d",
+    "nombre": "Simple Cola Can",
+    "autor": "Blender3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3290,
+    "url": "https://sketchfab.com/3d-models/none-aaa11e57064848268d701a3586792d0d",
+    "miniatura": "miniaturas/lata/aaa11e57064848268d701a3586792d0d.jpg"
+   },
+   {
+    "uid": "f753a659faae499282e882d63972d4c2",
+    "nombre": "Soda Vending Machine",
+    "autor": "RasenDan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 247163,
+    "url": "https://sketchfab.com/3d-models/none-f753a659faae499282e882d63972d4c2",
+    "miniatura": "miniaturas/lata/f753a659faae499282e882d63972d4c2.jpg"
+   },
+   {
+    "uid": "3c6de8d50fbd45909cf2efeb6d636113",
+    "nombre": "[Stylized] Vending machine",
+    "autor": "metrosp",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15935,
+    "url": "https://sketchfab.com/3d-models/none-3c6de8d50fbd45909cf2efeb6d636113",
+    "miniatura": "miniaturas/lata/3c6de8d50fbd45909cf2efeb6d636113.jpg"
+   },
+   {
+    "uid": "17cd007c38824321b184c763b1eec4e2",
+    "nombre": "Fallout 4 Nuka Cola Bottle",
+    "autor": "anathlyst",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2256,
+    "url": "https://sketchfab.com/3d-models/none-17cd007c38824321b184c763b1eec4e2",
+    "miniatura": "miniaturas/lata/17cd007c38824321b184c763b1eec4e2.jpg"
+   },
+   {
+    "uid": "22abde7fc79e412cb166bdf2b09f6280",
+    "nombre": "Stylized Drinks Soda",
+    "autor": "Agustin_Honnun",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 2944,
+    "url": "https://sketchfab.com/3d-models/none-22abde7fc79e412cb166bdf2b09f6280",
+    "miniatura": "miniaturas/lata/22abde7fc79e412cb166bdf2b09f6280.jpg"
+   },
+   {
+    "uid": "0aab0bb3f4d1442bbae1ff99a5a6fb01",
+    "nombre": "Soda Machines (Unity, UE4)",
+    "autor": "toomanydemons",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1698,
+    "url": "https://sketchfab.com/3d-models/none-0aab0bb3f4d1442bbae1ff99a5a6fb01",
+    "miniatura": "miniaturas/lata/0aab0bb3f4d1442bbae1ff99a5a6fb01.jpg"
+   },
+   {
+    "uid": "08be81ca5fa74718b5d95ac6a5a928f2",
+    "nombre": "Soda Can (High Poly)",
+    "autor": "ChrisSweetwood",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 2894,
+    "url": "https://sketchfab.com/3d-models/none-08be81ca5fa74718b5d95ac6a5a928f2",
+    "miniatura": "miniaturas/lata/08be81ca5fa74718b5d95ac6a5a928f2.jpg"
+   },
+   {
+    "uid": "96aa6a20264848ab9c5be2478594ec44",
+    "nombre": "HexaBerry Soda Cans",
+    "autor": "hexabear2020",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 14470,
+    "url": "https://sketchfab.com/3d-models/none-96aa6a20264848ab9c5be2478594ec44",
+    "miniatura": "miniaturas/lata/96aa6a20264848ab9c5be2478594ec44.jpg"
+   },
+   {
+    "uid": "0db78b8bfcdb4c559b3bc8f63cbb5689",
+    "nombre": "Cans!",
+    "autor": "tiago_oliveira",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 243526,
+    "url": "https://sketchfab.com/3d-models/none-0db78b8bfcdb4c559b3bc8f63cbb5689",
+    "miniatura": "miniaturas/lata/0db78b8bfcdb4c559b3bc8f63cbb5689.jpg"
+   },
+   {
+    "uid": "fdc6b2fd40974708a07f1717a433e7c1",
+    "nombre": "Diet Soda",
+    "autor": "Blender3D",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5158,
+    "url": "https://sketchfab.com/3d-models/none-fdc6b2fd40974708a07f1717a433e7c1",
+    "miniatura": "miniaturas/lata/fdc6b2fd40974708a07f1717a433e7c1.jpg"
+   },
+   {
+    "uid": "9597bac9cfa946feb1e7fa2c41a3ebf9",
+    "nombre": "Cel Shaded Soda Cans",
+    "autor": "bicho.salem",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8088,
+    "url": "https://sketchfab.com/3d-models/none-9597bac9cfa946feb1e7fa2c41a3ebf9",
+    "miniatura": "miniaturas/lata/9597bac9cfa946feb1e7fa2c41a3ebf9.jpg"
+   },
+   {
+    "uid": "884ceeefc40649388547665ed5f24c4d",
+    "nombre": "Nuka Cola",
+    "autor": "rodrigoscar",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 8378,
+    "url": "https://sketchfab.com/3d-models/none-884ceeefc40649388547665ed5f24c4d",
+    "miniatura": "miniaturas/lata/884ceeefc40649388547665ed5f24c4d.jpg"
+   },
+   {
+    "uid": "fc5a7e79ce0a4ace89aeb619fe23ce09",
+    "nombre": "FNAF - Security Breach - Chica's Feeding Frenzy",
+    "autor": "scrinnodstudios",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2276,
+    "url": "https://sketchfab.com/3d-models/none-fc5a7e79ce0a4ace89aeb619fe23ce09",
+    "miniatura": "miniaturas/lata/fc5a7e79ce0a4ace89aeb619fe23ce09.jpg"
+   },
+   {
+    "uid": "f2563a193e564d2eb2d707b6b9f04287",
+    "nombre": "Vending Machine (Animation Test)",
+    "autor": "berkgedik",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 13022,
+    "url": "https://sketchfab.com/3d-models/none-f2563a193e564d2eb2d707b6b9f04287",
+    "miniatura": "miniaturas/lata/f2563a193e564d2eb2d707b6b9f04287.jpg"
+   },
+   {
+    "uid": "76262ad4b5544dc9bec5d715001c8ded",
+    "nombre": "Pepsi Can",
+    "autor": "Yanez-Designs",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3512,
+    "url": "https://sketchfab.com/3d-models/none-76262ad4b5544dc9bec5d715001c8ded",
+    "miniatura": "miniaturas/lata/76262ad4b5544dc9bec5d715001c8ded.jpg"
+   },
+   {
+    "uid": "c63a465fc3fc4b5dac6bf385bd954c2c",
+    "nombre": "Soda Can",
+    "autor": "aisaac",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 38216,
+    "url": "https://sketchfab.com/3d-models/none-c63a465fc3fc4b5dac6bf385bd954c2c",
+    "miniatura": "miniaturas/lata/c63a465fc3fc4b5dac6bf385bd954c2c.jpg"
+   },
+   {
+    "uid": "a377b36213034bbeb7a4903f936b76d7",
+    "nombre": "cola can - 3 models in one",
+    "autor": "afsoft",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3666,
+    "url": "https://sketchfab.com/3d-models/none-a377b36213034bbeb7a4903f936b76d7",
+    "miniatura": "miniaturas/lata/a377b36213034bbeb7a4903f936b76d7.jpg"
+   },
+   {
+    "uid": "91e7e2400313491fb27fd01e68668f29",
+    "nombre": "Movie Theater Props - Hotdog, Drink, Popcorn 🍿",
+    "autor": "glowbox3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18496,
+    "url": "https://sketchfab.com/3d-models/none-91e7e2400313491fb27fd01e68668f29",
+    "miniatura": "miniaturas/lata/91e7e2400313491fb27fd01e68668f29.jpg"
+   },
+   {
+    "uid": "1b63dd4832144e89955ecf2f70e8af4b",
+    "nombre": "Soda Can",
+    "autor": "junhyde",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 490,
+    "url": "https://sketchfab.com/3d-models/none-1b63dd4832144e89955ecf2f70e8af4b",
+    "miniatura": "miniaturas/lata/1b63dd4832144e89955ecf2f70e8af4b.jpg"
+   },
+   {
+    "uid": "a1fb3ec987264287a2d7d6e999b36db3",
+    "nombre": "Low Poly Soda Pack",
+    "autor": "BillieBones",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2736,
+    "url": "https://sketchfab.com/3d-models/none-a1fb3ec987264287a2d7d6e999b36db3",
+    "miniatura": "miniaturas/lata/a1fb3ec987264287a2d7d6e999b36db3.jpg"
+   },
+   {
+    "uid": "acbf394568c94f708551f84038860e58",
+    "nombre": "RTJ4D - Chicken and the Brave",
+    "autor": "shrednector",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 52916,
+    "url": "https://sketchfab.com/3d-models/none-acbf394568c94f708551f84038860e58",
+    "miniatura": "miniaturas/lata/acbf394568c94f708551f84038860e58.jpg"
+   },
+   {
+    "uid": "59be759d7bc146bcbb27b5f3e6fbb0f1",
+    "nombre": "Corona Beer - Low Poly",
+    "autor": "liorlevi99",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1248,
+    "url": "https://sketchfab.com/3d-models/none-59be759d7bc146bcbb27b5f3e6fbb0f1",
+    "miniatura": "miniaturas/lata/59be759d7bc146bcbb27b5f3e6fbb0f1.jpg"
+   },
+   {
+    "uid": "702992eb3ce94e50a5d7fcbb9b9763a9",
+    "nombre": "CAN",
+    "autor": "rodrigogelmi",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 23728,
+    "url": "https://sketchfab.com/3d-models/none-702992eb3ce94e50a5d7fcbb9b9763a9",
+    "miniatura": "miniaturas/lata/702992eb3ce94e50a5d7fcbb9b9763a9.jpg"
+   },
+   {
+    "uid": "37bb99b163aa41eb986750b3c557d2cb",
+    "nombre": "Nuka Cola",
+    "autor": "skaf13",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1364,
+    "url": "https://sketchfab.com/3d-models/none-37bb99b163aa41eb986750b3c557d2cb",
+    "miniatura": "miniaturas/lata/37bb99b163aa41eb986750b3c557d2cb.jpg"
+   },
+   {
+    "uid": "3f025f54191749daa88eb352554b2cbe",
+    "nombre": "Canarian Cafe - shrink wrapped sodas",
+    "autor": "lanzaboy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2772,
+    "url": "https://sketchfab.com/3d-models/none-3f025f54191749daa88eb352554b2cbe",
+    "miniatura": "miniaturas/lata/3f025f54191749daa88eb352554b2cbe.jpg"
+   },
+   {
+    "uid": "7b76244bea6c4cb38fcd1bed5c44e87a",
+    "nombre": "Rusted Electronics Parts Found At An Old Bunker",
+    "autor": "JosepM",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 76892,
+    "url": "https://sketchfab.com/3d-models/none-7b76244bea6c4cb38fcd1bed5c44e87a",
+    "miniatura": "miniaturas/lata/7b76244bea6c4cb38fcd1bed5c44e87a.jpg"
+   },
+   {
+    "uid": "992de4a6eb6e44d8a1088757bafca9ec",
+    "nombre": "Arknights Originium Soda",
+    "autor": "StahlFerro",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 283204,
+    "url": "https://sketchfab.com/3d-models/none-992de4a6eb6e44d8a1088757bafca9ec",
+    "miniatura": "miniaturas/lata/992de4a6eb6e44d8a1088757bafca9ec.jpg"
+   }
+  ],
+  "rumen": []
+ }
+}
