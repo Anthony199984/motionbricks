@@ -1,7 +1,7 @@
-Mon Nov 16 01:42:32 UTC 2026
+Mon Nov 16 02:49:09 UTC 2026
 Filesystem            Size  Used Avail Use% Mounted on
-/dev/mapper/cow-root  145G   38G  108G  26% /
-Mon Nov 16 01:44:27 UTC 2026
+/dev/mapper/cow-root  145G   38G  107G  26% /
+Mon Nov 16 02:50:45 UTC 2026
 Cloning into 'kcpp'...
 Note: switching to 'ed8a931aedb132f768190f6931c365855caba74c'.
 
@@ -24,7 +24,7 @@ HEAD is now at ed8a931 Add LocalAI attribution and badge to README
 Submodule 'ggml' (https://github.com/ggml-org/ggml.git) registered for path 'ggml'
 Cloning into '/home/runner/work/motionbricks/motionbricks/kcpp/ggml'...
 Submodule path 'ggml': checked out '8c63e70982c95ceb862e3a1073a2c1beef75d60a'
-Mon Nov 16 01:44:33 UTC 2026
+Mon Nov 16 02:50:51 UTC 2026
 /usr/bin/g++-14
 -- The CXX compiler identification is GNU 14.2.0
 -- Detecting CXX compiler ABI info
@@ -54,14 +54,14 @@ Mon Nov 16 01:44:33 UTC 2026
 -- Adding CPU backend variant ggml-cpu: -msse4.2;-mf16c;-mfma;-mbmi2;-mavx;-mavx2 GGML_SSE42;GGML_F16C;GGML_FMA;GGML_BMI2;GGML_AVX;GGML_AVX2
 -- ggml version: 0.20.2
 -- ggml commit:  8c63e709
--- Configuring done (4.8s)
+-- Configuring done (4.6s)
 -- Generating done (0.0s)
 -- Build files have been written to: /home/runner/work/motionbricks/motionbricks/kcpp/build
-[1/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-alloc.c.o
-[2/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml.cpp.o
-[3/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-opt.cpp.o
-[4/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-backend.cpp.o
-[5/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-threading.cpp.o
+[1/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml.cpp.o
+[2/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-alloc.c.o
+[3/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-backend.cpp.o
+[4/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-threading.cpp.o
+[5/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-opt.cpp.o
 [6/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml.c.o
 [7/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.o
 [8/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-backend-meta.cpp.o
@@ -86,9 +86,9 @@ Mon Nov 16 01:44:33 UTC 2026
 [27/45] Building CXX object CMakeFiles/kimodo.dir/src/capi.cpp.o
 [28/45] Building CXX object CMakeFiles/kimodo.dir/src/diffusion.cpp.o
 [29/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_rep.cpp.o
-[30/45] Building CXX object CMakeFiles/kimodo.dir/src/gguf.cpp.o
-[31/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_decode.cpp.o
-[32/45] Building CXX object CMakeFiles/kimodo.dir/src/model.cpp.o
+[30/45] Building CXX object CMakeFiles/kimodo.dir/src/model.cpp.o
+[31/45] Building CXX object CMakeFiles/kimodo.dir/src/gguf.cpp.o
+[32/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_decode.cpp.o
 [33/45] Building CXX object CMakeFiles/kimodo.dir/src/ggml_weights.cpp.o
 In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/ggml_weights.cpp:17:
 /home/runner/work/motionbricks/motionbricks/kcpp/ggml/src/../include/ggml-backend.h:419:119: warning: ‘ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t, ggml_cgraph*)’ hides constructor for ‘struct ggml_backend_graph_copy’ [-Wshadow]
@@ -121,10 +121,10 @@ In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/llm_t
 [44/45] Linking CXX static library libkimodo.a
 [45/45] Linking CXX executable kmd-generate
 build/kmd-generate
-Mon Nov 16 01:46:27 UTC 2026
+Mon Nov 16 02:53:39 UTC 2026
 gen=kcpp/build/kmd-generate text=weights/Llama-3-Kimodo-Q8_0.gguf motion=weights/models/kimodo-soma-rp-v1.1-f32.gguf
                total        used        free      shared  buff/cache   available
-Mem:              15           0           4           0          10          14
+Mem:              15           1           4           0          10          14
 Swap:              2           0           2
 4
-python3: can't open file '/home/runner/work/motionbricks/motionbricks/kimodo_jobs/run_jobs.py': [Errno 2] No such file or directory
+cp_mirar_abajo_serio_a: OK	120	30 (191.2s)

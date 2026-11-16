@@ -1,10 +1,10 @@
 {
- "total_seconds": 197.0,
+ "total_seconds": 191.3,
  "jobs": [
   {
-   "name": "cs_levantar_mostrar",
+   "name": "cp_mirar_abajo_serio_a",
    "response": "OK\t120\t30",
-   "seconds": 197.0,
+   "seconds": 191.2,
    "frames": 120
   }
  ]
