@@ -1,34 +1,103 @@
 {
  "catalogo": false,
- "informe": "informe_campeon_bajada2.json",
+ "informe": "informe_vaca_bajada2.json",
  "polyhaven": [
   {
-   "id": "asphalt_02",
+   "id": "kloofendal_48d_partly_cloudy",
    "res": "2k"
   },
   {
-   "id": "blue_plaster_wall",
+   "id": "noon_grass",
    "res": "2k"
   },
   {
-   "id": "red_brick_03",
+   "id": "meadow_2",
    "res": "2k"
   },
   {
-   "id": "dark_wood",
+   "id": "leafy_grass",
    "res": "2k"
   },
   {
-   "id": "beige_wall_001",
+   "id": "grass_path_2",
    "res": "2k"
   },
   {
-   "id": "brown_floor_tiles",
+   "id": "brown_mud_dry",
    "res": "2k"
   },
   {
-   "id": "rusty_metal_shutter",
+   "id": "old_planks_02",
    "res": "2k"
+  },
+  {
+   "id": "bark_brown_02",
+   "res": "2k"
+  },
+  {
+   "id": "brown_planks_05",
+   "res": "2k"
+  },
+  {
+   "id": "grass_medium_01",
+   "res": "2k"
+  },
+  {
+   "id": "grass_medium_02",
+   "res": "2k"
+  },
+  {
+   "id": "wooden_table_02",
+   "res": "2k"
+  },
+  {
+   "id": "painted_wooden_chair_01",
+   "res": "2k"
+  },
+  {
+   "id": "sweet_potato",
+   "res": "2k"
+  },
+  {
+   "id": "island_tree_02",
+   "res": "2k"
+  }
+ ],
+ "freesound_buscar": [
+  {
+   "clave": "jadeo_vaca2",
+   "q": "cow panting",
+   "max": 6
+  },
+  {
+   "clave": "jadeo_vaca3",
+   "q": "animal heavy breathing",
+   "max": 6
+  },
+  {
+   "clave": "eructo_vaca2",
+   "q": "cattle belch",
+   "max": 6
+  },
+  {
+   "clave": "eructo_vaca3",
+   "q": "burp deep long",
+   "max": 6
+  },
+  {
+   "clave": "latido2",
+   "q": "heartbeat boom cinematic",
+   "max": 6
+  },
+  {
+   "clave": "silbido_gas2",
+   "q": "air leak hiss",
+   "max": 6
+  },
+  {
+   "clave": "vaca_respira",
+   "q": "cow breath nose",
+   "max": 6
   }
  ]
 }
