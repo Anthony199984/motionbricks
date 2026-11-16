@@ -1,116 +1,34 @@
 {
  "catalogo": false,
- "informe": "informe_campeon_bajada1.json",
- "objaverse": [
+ "informe": "informe_campeon_bajada2.json",
+ "polyhaven": [
   {
-   "uid": "ea1b9673f09b4d809c90ab48b1eceb50",
-   "nombre": "cp_mesa_billar_a"
+   "id": "asphalt_02",
+   "res": "2k"
   },
   {
-   "uid": "b36074d6923d4f658bc755c5fbef9f07",
-   "nombre": "cp_mesa_billar_b"
+   "id": "blue_plaster_wall",
+   "res": "2k"
   },
   {
-   "uid": "468aa9e803d14e719eb97da28f9d5026",
-   "nombre": "cp_mesa_billar_c"
+   "id": "red_brick_03",
+   "res": "2k"
   },
   {
-   "uid": "e37ce0c718a141cf841a5fffc6576a8b",
-   "nombre": "cp_pub_clasico"
+   "id": "dark_wood",
+   "res": "2k"
   },
   {
-   "uid": "79615d823a9149069dcd06c20bc9707f",
-   "nombre": "cp_sala_billar"
+   "id": "beige_wall_001",
+   "res": "2k"
   },
   {
-   "uid": "2eecdd3afb24477981f75a8063610b17",
-   "nombre": "cp_sala_snooker"
+   "id": "brown_floor_tiles",
+   "res": "2k"
   },
   {
-   "uid": "908fa2a7b4dd43359c0e1a07c0bf171d",
-   "nombre": "cp_bolas_taco"
-  },
-  {
-   "uid": "bb7549d851784b238b917ade58dad1c5",
-   "nombre": "cp_moto_roja_vespa"
-  },
-  {
-   "uid": "b0d453e026b24d8496b14a2fa046f457",
-   "nombre": "cp_moto_vieja_roja"
-  },
-  {
-   "uid": "a8f0d74334034ca1bcf397f21c26a4c3",
-   "nombre": "cp_moto_moped"
-  },
-  {
-   "uid": "fe75689a108744b7acf5003d677d4c8e",
-   "nombre": "cp_moto_piaggio"
-  },
-  {
-   "uid": "17ab00cb733443a2b552a2b620a68087",
-   "nombre": "cp_bici_vieja"
-  },
-  {
-   "uid": "1795f6e907634afda88fdaf45f67b279",
-   "nombre": "cp_bici_vintage"
-  },
-  {
-   "uid": "e3fe5390541649a0bb4dee299e3b07e7",
-   "nombre": "cp_mostrador_pub"
-  }
- ],
- "freesound_buscar": [
-  {
-   "clave": "cp2_moto",
-   "q": "moped",
-   "max": 8,
-   "filtro": "duration:[1 TO 30]"
-  },
-  {
-   "clave": "cp2_moto2",
-   "q": "two stroke engine",
-   "max": 8,
-   "filtro": "duration:[1 TO 30]"
-  },
-  {
-   "clave": "cp2_moto3",
-   "q": "motorbike rev",
-   "max": 8,
-   "filtro": "duration:[1 TO 30]"
-  },
-  {
-   "clave": "cp2_moto4",
-   "q": "scooter engine",
-   "max": 8,
-   "filtro": "duration:[1 TO 30]"
-  },
-  {
-   "clave": "cp2_amb",
-   "q": "billiards ambience",
-   "max": 8,
-   "filtro": "duration:[10 TO 180]"
-  },
-  {
-   "clave": "cp2_amb2",
-   "q": "cafe ambience",
-   "max": 8,
-   "filtro": "duration:[10 TO 180]"
-  },
-  {
-   "clave": "cp2_amb3",
-   "q": "pool hall",
-   "max": 8,
-   "filtro": "duration:[5 TO 180]"
-  },
-  {
-   "clave": "cp2_cajon",
-   "q": "ball drop box",
-   "max": 8
-  },
-  {
-   "clave": "cp2_cajon2",
-   "q": "billiard ball drop",
-   "max": 8
+   "id": "rusty_metal_shutter",
+   "res": "2k"
   }
  ]
 }
