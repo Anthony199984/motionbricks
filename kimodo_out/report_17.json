@@ -1,11 +1,11 @@
 {
- "total_seconds": 130.3,
+ "total_seconds": 234.2,
  "jobs": [
   {
-   "name": "cs_levantar_costado",
-   "response": "OK\t120\t30",
-   "seconds": 130.2,
-   "frames": 120
+   "name": "cp_moto_b",
+   "response": "OK\t150\t30",
+   "seconds": 234.1,
+   "frames": 150
   }
  ]
 }
