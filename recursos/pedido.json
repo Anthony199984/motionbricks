@@ -1,13 +1,369 @@
 {
  "catalogo": false,
- "informe": "informe_transc_vaca.json",
- "transcribir": [
+ "informe": "informe_vaca2_pedido1.json",
+ "polyhaven": [
   {
-   "archivo": "recursos/entrada/vaca_voz.wav",
-   "salida": "transc_vaca.json",
-   "idioma": "es",
-   "palabras": true,
-   "modelo": "small"
+   "id": "belfast_sunset",
+   "res": "2k"
+  },
+  {
+   "id": "belfast_farmhouse",
+   "res": "2k"
+  },
+  {
+   "id": "autumn_field",
+   "res": "2k"
+  },
+  {
+   "id": "countrytrax_midday",
+   "res": "2k"
+  },
+  {
+   "id": "hessian_230",
+   "res": "2k"
+  },
+  {
+   "id": "corrugated_iron_02",
+   "res": "2k"
+  },
+  {
+   "id": "rusty_corrugated_iron",
+   "res": "2k"
+  },
+  {
+   "id": "weathered_planks",
+   "res": "2k"
+  },
+  {
+   "id": "brown_mud_02",
+   "res": "2k"
+  },
+  {
+   "id": "brown_mud_rocks_01",
+   "res": "2k"
+  },
+  {
+   "id": "grass_path_3",
+   "res": "2k"
+  },
+  {
+   "id": "forrest_ground_01",
+   "res": "2k"
+  },
+  {
+   "id": "aerial_grass_rock",
+   "res": "2k"
+  },
+  {
+   "id": "rust_coarse_01",
+   "res": "2k"
+  },
+  {
+   "id": "metal_plate",
+   "res": "2k"
+  },
+  {
+   "id": "dirt_floor",
+   "res": "2k"
+  },
+  {
+   "id": "reed_roof_03",
+   "res": "2k"
+  },
+  {
+   "id": "thatch_roof_angled",
+   "res": "2k"
+  },
+  {
+   "id": "weathered_plank_siding",
+   "res": "2k"
+  },
+  {
+   "id": "jacaranda_tree",
+   "res": "1k"
+  },
+  {
+   "id": "tree_small_02",
+   "res": "1k"
+  },
+  {
+   "id": "searsia_burchellii",
+   "res": "1k"
+  },
+  {
+   "id": "searsia_lucida",
+   "res": "1k"
+  },
+  {
+   "id": "boulder_01",
+   "res": "1k"
+  },
+  {
+   "id": "rock_moss_set_01",
+   "res": "1k"
+  },
+  {
+   "id": "namaqualand_boulder_04",
+   "res": "1k"
+  },
+  {
+   "id": "grass_bermuda_01",
+   "res": "1k"
+  },
+  {
+   "id": "shrub_03",
+   "res": "1k"
+  },
+  {
+   "id": "shrub_04",
+   "res": "1k"
+  },
+  {
+   "id": "flower_gazania",
+   "res": "1k"
+  },
+  {
+   "id": "flower_ursinia",
+   "res": "1k"
+  },
+  {
+   "id": "periwinkle_plant",
+   "res": "1k"
+  },
+  {
+   "id": "weed_plant_02",
+   "res": "1k"
+  },
+  {
+   "id": "nettle_plant",
+   "res": "1k"
+  },
+  {
+   "id": "wooden_barrels_01",
+   "res": "1k"
+  },
+  {
+   "id": "wine_barrel_01",
+   "res": "1k"
+  },
+  {
+   "id": "compost_bag_02",
+   "res": "1k"
+  },
+  {
+   "id": "compost_bags",
+   "res": "1k"
+  },
+  {
+   "id": "rusted_spade_01",
+   "res": "1k"
+  },
+  {
+   "id": "picke_dirty_01",
+   "res": "1k"
+  },
+  {
+   "id": "watering_can_metal_01",
+   "res": "1k"
+  },
+  {
+   "id": "metal_jerrycan",
+   "res": "1k"
+  },
+  {
+   "id": "wooden_ladder",
+   "res": "1k"
+  },
+  {
+   "id": "modular_electricity_poles",
+   "res": "1k"
+  },
+  {
+   "id": "wicker_basket_02",
+   "res": "1k"
+  },
+  {
+   "id": "rubber_boots",
+   "res": "1k"
+  },
+  {
+   "id": "medical_box",
+   "res": "1k"
+  },
+  {
+   "id": "metal_toolbox",
+   "res": "1k"
+  },
+  {
+   "id": "wooden_bucket_02",
+   "res": "1k"
+  },
+  {
+   "id": "dead_tree_trunk",
+   "res": "1k"
+  },
+  {
+   "id": "wooden_stool_01",
+   "res": "1k"
+  }
+ ],
+ "sketchfab_buscar": [
+  {
+   "clave": "v2_esqueleto_vaca",
+   "q": "cow skeleton",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 20
+  },
+  {
+   "clave": "v2_anatomia_vaca",
+   "q": "cow anatomy",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 20
+  },
+  {
+   "clave": "v2_paca",
+   "q": "hay bale",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 20
+  },
+  {
+   "clave": "v2_bebedero",
+   "q": "water trough",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 20
+  },
+  {
+   "clave": "v2_molino",
+   "q": "farm windmill",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 20
+  },
+  {
+   "clave": "v2_buitre",
+   "q": "vulture",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 20
+  },
+  {
+   "clave": "v2_silo",
+   "q": "farm silo",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 20
+  },
+  {
+   "clave": "v2_oveja",
+   "q": "sheep realistic",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 20
+  },
+  {
+   "clave": "v2_caballo",
+   "q": "horse realistic",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 20
+  },
+  {
+   "clave": "v2_gallinero",
+   "q": "chicken coop",
+   "solo_objaverse": true,
+   "paginas": 3,
+   "max": 20
+  }
+ ],
+ "freesound_buscar": [
+  {
+   "clave": "v2_punalada",
+   "q": "knife stab flesh",
+   "max": 6
+  },
+  {
+   "clave": "v2_punalada2",
+   "q": "stab impact squish",
+   "max": 6
+  },
+  {
+   "clave": "v2_mugido_dolor",
+   "q": "cow moo distressed",
+   "max": 6
+  },
+  {
+   "clave": "v2_mugido2",
+   "q": "cow moo loud",
+   "max": 6
+  },
+  {
+   "clave": "v2_caida",
+   "q": "body fall grass thud",
+   "max": 6
+  },
+  {
+   "clave": "v2_gallinas",
+   "q": "chickens clucking",
+   "max": 6
+  },
+  {
+   "clave": "v2_granja",
+   "q": "farm ambience birds cows",
+   "max": 6
+  },
+  {
+   "clave": "v2_lata",
+   "q": "soda can open",
+   "max": 6
+  },
+  {
+   "clave": "v2_trago",
+   "q": "drinking gulp can",
+   "max": 6
+  },
+  {
+   "clave": "v2_barrido",
+   "q": "whip pan whoosh fast",
+   "max": 6
+  },
+  {
+   "clave": "v2_latido_rapido",
+   "q": "heartbeat fast",
+   "max": 6
+  },
+  {
+   "clave": "v2_squelch",
+   "q": "wet squelch",
+   "max": 6
+  },
+  {
+   "clave": "v2_viento_dron",
+   "q": "wind whoosh long",
+   "max": 6
+  },
+  {
+   "clave": "v2_chorro_gas",
+   "q": "steam pressure release hiss",
+   "max": 6
+  },
+  {
+   "clave": "v2_buitre",
+   "q": "vulture call",
+   "max": 6
+  },
+  {
+   "clave": "v2_risa",
+   "q": "man laugh short",
+   "max": 6
+  },
+  {
+   "clave": "v2_molino",
+   "q": "windmill creak",
+   "max": 6
   }
  ]
 }
