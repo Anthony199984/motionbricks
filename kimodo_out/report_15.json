@@ -1,11 +1,11 @@
 {
- "total_seconds": 213.3,
+ "total_seconds": 225.2,
  "jobs": [
   {
-   "name": "cs_tocar_mesa",
-   "response": "OK\t120\t30",
-   "seconds": 213.1,
-   "frames": 120
+   "name": "cp_agachado_mirar_b",
+   "response": "OK\t150\t30",
+   "seconds": 225.2,
+   "frames": 150
   }
  ]
 }
