@@ -1,153 +1,41 @@
 {
  "catalogo": false,
- "informe": "informe_vaca_busqueda1.json",
- "sketchfab_buscar": [
+ "informe": "informe_vaca_bajada1.json",
+ "objaverse": [
   {
-   "clave": "vaca_animada",
-   "q": "cow",
-   "solo_objaverse": true,
-   "paginas": 5,
-   "max": 60,
-   "animado": true
+   "uid": "c5782e43dcf442718a25b49bed00f582",
+   "nombre": "vaca_frame_test",
+   "obra": "Cow frame test",
+   "autor": "Nyilonelycompany",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "vaca_holstein",
-   "q": "holstein cow",
-   "solo_objaverse": true,
-   "paginas": 3,
-   "max": 30
+   "uid": "2ca1db4e890e4b24a68624597e7d2fc8",
+   "nombre": "vaca_npc",
+   "obra": "Cow NPC - Now free to download",
+   "autor": "nataliekirk",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "vaca_rig",
-   "q": "cow rigged",
-   "solo_objaverse": true,
-   "paginas": 3,
-   "max": 30
+   "uid": "88d26e80e6c54a05827959d54b03f4e6",
+   "nombre": "vaca_cowlander",
+   "obra": "Cowlander",
+   "autor": "nickflatt",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "vaca_realista",
-   "q": "realistic cow",
-   "solo_objaverse": true,
-   "paginas": 3,
-   "max": 30
+   "uid": "e62ce0517f9543fd97ab859bc551b96e",
+   "nombre": "vaca_run",
+   "obra": "Cow Run",
+   "autor": "fazlulkarimrabby",
+   "licencia": "CC Attribution"
   },
   {
-   "clave": "papa",
-   "q": "potato",
-   "solo_objaverse": true,
-   "paginas": 2,
-   "max": 30
-  },
-  {
-   "clave": "costal",
-   "q": "burlap sack",
-   "solo_objaverse": true,
-   "paginas": 2,
-   "max": 30
-  },
-  {
-   "clave": "cerca",
-   "q": "wooden fence farm",
-   "solo_objaverse": true,
-   "paginas": 2,
-   "max": 30
-  },
-  {
-   "clave": "lata",
-   "q": "soda can",
-   "solo_objaverse": true,
-   "paginas": 2,
-   "max": 30
-  },
-  {
-   "clave": "rumen",
-   "q": "cow stomach rumen",
-   "solo_objaverse": true,
-   "paginas": 1,
-   "max": 30
-  }
- ],
- "freesound_buscar": [
-  {
-   "clave": "silbido_gas",
-   "q": "gas hiss release short",
-   "max": 6
-  },
-  {
-   "clave": "resoplido_vaca",
-   "q": "cow snort",
-   "max": 6
-  },
-  {
-   "clave": "jadeo_vaca",
-   "q": "cow breathing heavy",
-   "max": 6
-  },
-  {
-   "clave": "eructo_vaca",
-   "q": "cow burp",
-   "max": 6
-  },
-  {
-   "clave": "mugido",
-   "q": "cow moo short",
-   "max": 6
-  },
-  {
-   "clave": "mordida",
-   "q": "crunch bite apple",
-   "max": 6
-  },
-  {
-   "clave": "glup",
-   "q": "gulp swallow",
-   "max": 6
-  },
-  {
-   "clave": "golpe_sordo",
-   "q": "thud short",
-   "max": 6
-  },
-  {
-   "clave": "tintineo",
-   "q": "metal tool clink",
-   "max": 6
-  },
-  {
-   "clave": "pasos_pasto",
-   "q": "running footsteps grass",
-   "max": 6
-  },
-  {
-   "clave": "burbujeo",
-   "q": "bubbles short",
-   "max": 6
-  },
-  {
-   "clave": "pop",
-   "q": "cork pop small",
-   "max": 6
-  },
-  {
-   "clave": "eructo_humano",
-   "q": "burp funny",
-   "max": 6
-  },
-  {
-   "clave": "whoosh",
-   "q": "whoosh swoosh short",
-   "max": 6
-  },
-  {
-   "clave": "latido",
-   "q": "heartbeat single deep",
-   "max": 6
-  },
-  {
-   "clave": "ambiente_campo",
-   "q": "countryside birds wind ambience",
-   "max": 4,
-   "filtro": "duration:[20 TO 300]"
+   "uid": "f79f2bc987f94c9ead02a36844e7c48b",
+   "nombre": "vaca_skin",
+   "obra": "Cow Skin",
+   "autor": "gscreations2508",
+   "licencia": "CC Attribution"
   }
  ]
 }
