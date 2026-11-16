@@ -1,134 +1,170 @@
 [
  {
-  "name": "vc01_sostener_tubo_a",
-  "frames": 90,
-  "seed": 81000,
-  "prompt": "A person stands still beside something at waist height, holding a short vertical handle low in front of the right hip with the right hand, looking down at it, concentrated."
+  "name": "vc20_apunalar_a",
+  "frames": 120,
+  "seed": 91000,
+  "prompt": "A man stands in a wide aggressive stance, raises his right fist holding a dagger high above his head, then stabs it violently forward and down into a large object at chest height in front of him, leaning his whole body weight into the strike, and keeps the dagger pressed there."
  },
  {
-  "name": "vc01_sostener_tubo_b",
-  "frames": 90,
-  "seed": 82000,
-  "prompt": "A person stands still beside something at waist height, holding a short vertical handle low in front of the right hip with the right hand, looking down at it, concentrated."
+  "name": "vc20_apunalar_b",
+  "frames": 120,
+  "seed": 92000,
+  "prompt": "A man stands in a wide aggressive stance, raises his right fist holding a dagger high above his head, then stabs it violently forward and down into a large object at chest height in front of him, leaning his whole body weight into the strike, and keeps the dagger pressed there."
  },
  {
-  "name": "vc03_reir_camara_a",
-  "frames": 90,
-  "seed": 81013,
-  "prompt": "A person laughs softly, shoulders shaking a little, and looks straight ahead with a smile."
+  "name": "vc21_apunalar_dos_manos_a",
+  "frames": 120,
+  "seed": 91001,
+  "prompt": "A man raises a spike above his head with both hands and drives it down hard into something at chest height in front of him with a furious strike, then keeps pushing it in with both hands."
  },
  {
-  "name": "vc03_reir_camara_b",
-  "frames": 90,
-  "seed": 82013,
-  "prompt": "A person laughs softly, shoulders shaking a little, and looks straight ahead with a smile."
+  "name": "vc21_apunalar_dos_manos_b",
+  "frames": 120,
+  "seed": 92001,
+  "prompt": "A man raises a spike above his head with both hands and drives it down hard into something at chest height in front of him with a furious strike, then keeps pushing it in with both hands."
  },
  {
-  "name": "vc04_fruncir_a",
-  "frames": 90,
-  "seed": 81026,
-  "prompt": "A person stands still and tilts the head to one side, puzzled, frowning."
- },
- {
-  "name": "vc04_fruncir_b",
-  "frames": 90,
-  "seed": 82026,
-  "prompt": "A person stands still and tilts the head to one side, puzzled, frowning."
- },
- {
-  "name": "vc05_correr_a",
-  "frames": 75,
-  "seed": 81039,
-  "prompt": "A person runs forward fast for a few steps in a hurry."
- },
- {
-  "name": "vc05_correr_b",
-  "frames": 75,
-  "seed": 82039,
-  "prompt": "A person runs forward fast for a few steps in a hurry."
- },
- {
-  "name": "vc06_arrodillarse_a",
-  "frames": 90,
-  "seed": 81052,
-  "prompt": "A person quickly kneels down on the left knee, the right foot planted forward, reaching forward with the right hand at hip height."
- },
- {
-  "name": "vc06_arrodillarse_b",
-  "frames": 90,
-  "seed": 82052,
-  "prompt": "A person quickly kneels down on the left knee, the right foot planted forward, reaching forward with the right hand at hip height."
- },
- {
-  "name": "vc07_atras_asco_a",
-  "frames": 75,
-  "seed": 81065,
-  "prompt": "A kneeling person leans back quickly away from a bad smell, turning the face away and raising one hand in front of the nose, disgusted."
- },
- {
-  "name": "vc07_atras_asco_b",
-  "frames": 75,
-  "seed": 82065,
-  "prompt": "A kneeling person leans back quickly away from a bad smell, turning the face away and raising one hand in front of the nose, disgusted."
- },
- {
-  "name": "vc08_asomarse_a",
-  "frames": 90,
-  "seed": 81078,
-  "prompt": "A person walks two steps to an edge, stops and leans forward to look down into a ditch, surprised."
- },
- {
-  "name": "vc08_asomarse_b",
-  "frames": 90,
-  "seed": 82078,
-  "prompt": "A person walks two steps to an edge, stops and leans forward to look down into a ditch, surprised."
- },
- {
-  "name": "vc09_preocupado_a",
-  "frames": 90,
-  "seed": 81091,
-  "prompt": "A person stands with both hands on the hips, worried, shifting weight and shaking the head slowly."
- },
- {
-  "name": "vc09_preocupado_b",
-  "frames": 90,
-  "seed": 82091,
-  "prompt": "A person stands with both hands on the hips, worried, shifting weight and shaking the head slowly."
- },
- {
-  "name": "vc10_sentado_mesa_a",
+  "name": "vc22_sacar_punzon_a",
   "frames": 105,
-  "seed": 81104,
-  "prompt": "A person sits relaxed on a chair at a table, forearms resting on the table, breathing calmly."
+  "seed": 91002,
+  "prompt": "A man holds a handle at chest height in front of him with his left hand, and with his right hand yanks a rod backwards out of it in one fast pull, leaning back, then turns his face away to the side, disgusted."
  },
  {
-  "name": "vc10_sentado_mesa_b",
+  "name": "vc22_sacar_punzon_b",
   "frames": 105,
-  "seed": 82104,
-  "prompt": "A person sits relaxed on a chair at a table, forearms resting on the table, breathing calmly."
+  "seed": 92002,
+  "prompt": "A man holds a handle at chest height in front of him with his left hand, and with his right hand yanks a rod backwards out of it in one fast pull, leaning back, then turns his face away to the side, disgusted."
  },
  {
-  "name": "vc11_eructo_a",
-  "frames": 75,
-  "seed": 81117,
-  "prompt": "A seated person suddenly leans back slightly in surprise, raises the eyebrows, then smiles."
+  "name": "vc23_panico_a",
+  "frames": 150,
+  "seed": 91003,
+  "prompt": "A man looks at something big in front of him, alarmed, puts both hands on his head in panic, steps nervously from side to side, then waves both arms above his head calling for help."
  },
  {
-  "name": "vc11_eructo_b",
-  "frames": 75,
-  "seed": 82117,
-  "prompt": "A seated person suddenly leans back slightly in surprise, raises the eyebrows, then smiles."
+  "name": "vc23_panico_b",
+  "frames": 150,
+  "seed": 92003,
+  "prompt": "A man looks at something big in front of him, alarmed, puts both hands on his head in panic, steps nervously from side to side, then waves both arms above his head calling for help."
  },
  {
-  "name": "vc12_mirar_vaca_a",
+  "name": "vc24_tapar_nariz_a",
+  "frames": 120,
+  "seed": 91004,
+  "prompt": "A man recoils one step back, pinches his nose with his left hand and fans the air in front of his face with his right hand, disgusted by a terrible smell."
+ },
+ {
+  "name": "vc24_tapar_nariz_b",
+  "frames": 120,
+  "seed": 92004,
+  "prompt": "A man recoils one step back, pinches his nose with his left hand and fans the air in front of his face with his right hand, disgusted by a terrible smell."
+ },
+ {
+  "name": "vc25_sacar_papa_a",
+  "frames": 150,
+  "seed": 91005,
+  "prompt": "A man with his right arm stretched forward deep inside a hole at chest height pulls his arm back out slowly with effort, then lifts his right hand up high showing a small object, triumphant and smiling."
+ },
+ {
+  "name": "vc25_sacar_papa_b",
+  "frames": 150,
+  "seed": 92005,
+  "prompt": "A man with his right arm stretched forward deep inside a hole at chest height pulls his arm back out slowly with effort, then lifts his right hand up high showing a small object, triumphant and smiling."
+ },
+ {
+  "name": "vc26_palmadas_a",
+  "frames": 120,
+  "seed": 91006,
+  "prompt": "A man gently pats the side of a large animal at chest height with his right hand, relieved, then wipes the sweat from his forehead with his left forearm and exhales."
+ },
+ {
+  "name": "vc26_palmadas_b",
+  "frames": 120,
+  "seed": 92006,
+  "prompt": "A man gently pats the side of a large animal at chest height with his right hand, relieved, then wipes the sweat from his forehead with his left forearm and exhales."
+ },
+ {
+  "name": "vc27_sentado_beber_a",
+  "frames": 150,
+  "seed": 91007,
+  "prompt": "A man sitting on a low seat holds a can in his right hand resting on his knee, raises it to his mouth, drinks tilting his head back, then lowers it and sighs, satisfied."
+ },
+ {
+  "name": "vc27_sentado_beber_b",
+  "frames": 150,
+  "seed": 92007,
+  "prompt": "A man sitting on a low seat holds a can in his right hand resting on his knee, raises it to his mouth, drinks tilting his head back, then lowers it and sighs, satisfied."
+ },
+ {
+  "name": "vc28_sentado_eructo_a",
+  "frames": 150,
+  "seed": 91008,
+  "prompt": "A man sitting on a low seat holding a can on his right knee suddenly burps loudly with his mouth wide open, leaning his head forward, then covers his mouth with his left hand, embarrassed, and laughs shaking his shoulders."
+ },
+ {
+  "name": "vc28_sentado_eructo_b",
+  "frames": 150,
+  "seed": 92008,
+  "prompt": "A man sitting on a low seat holding a can on his right knee suddenly burps loudly with his mouth wide open, leaning his head forward, then covers his mouth with his left hand, embarrassed, and laughs shaking his shoulders."
+ },
+ {
+  "name": "vc29_sentado_susto_rie_a",
+  "frames": 150,
+  "seed": 91009,
+  "prompt": "A man sitting on a low seat flinches, startled, turns his head to his left to look at something beside him, waves his left hand in front of his nose, then laughs out loud."
+ },
+ {
+  "name": "vc29_sentado_susto_rie_b",
+  "frames": 150,
+  "seed": 92009,
+  "prompt": "A man sitting on a low seat flinches, startled, turns his head to his left to look at something beside him, waves his left hand in front of his nose, then laughs out loud."
+ },
+ {
+  "name": "vc30_orilla_zanja_a",
+  "frames": 150,
+  "seed": 91010,
+  "prompt": "A man runs up to the edge of a ditch and stops abruptly, bends forward with his hands on his knees looking down into it, then grabs his head with both hands, shocked."
+ },
+ {
+  "name": "vc30_orilla_zanja_b",
+  "frames": 150,
+  "seed": 92010,
+  "prompt": "A man runs up to the edge of a ditch and stops abruptly, bends forward with his hands on his knees looking down into it, then grabs his head with both hands, shocked."
+ },
+ {
+  "name": "vc31_explicar_serio_a",
+  "frames": 120,
+  "seed": 91011,
+  "prompt": "A man standing and facing forward shakes his head no, then points with his right hand at something beside him on his right and gestures with open palms, explaining seriously."
+ },
+ {
+  "name": "vc31_explicar_serio_b",
+  "frames": 120,
+  "seed": 92011,
+  "prompt": "A man standing and facing forward shakes his head no, then points with his right hand at something beside him on his right and gestures with open palms, explaining seriously."
+ },
+ {
+  "name": "vc33_empujar_a",
   "frames": 90,
-  "seed": 81130,
-  "prompt": "A seated person turns the head to the right side, looks at something far away and smiles."
+  "seed": 91012,
+  "prompt": "A man in a deep lunge leans hard with both hands pressing a handle against a wall at chest height, pushing with his whole body, and turns his head to look back over his shoulder."
  },
  {
-  "name": "vc12_mirar_vaca_b",
+  "name": "vc33_empujar_b",
   "frames": 90,
-  "seed": 82130,
-  "prompt": "A seated person turns the head to the right side, looks at something far away and smiles."
+  "seed": 92012,
+  "prompt": "A man in a deep lunge leans hard with both hands pressing a handle against a wall at chest height, pushing with his whole body, and turns his head to look back over his shoulder."
+ },
+ {
+  "name": "vc34_sentado_senalar_a",
+  "frames": 120,
+  "seed": 91013,
+  "prompt": "A man sitting on a low seat points straight forward with his right index finger, raises his eyebrows and nods, then lowers his arm."
+ },
+ {
+  "name": "vc34_sentado_senalar_b",
+  "frames": 120,
+  "seed": 92013,
+  "prompt": "A man sitting on a low seat points straight forward with his right index finger, raises his eyebrows and nods, then lowers his arm."
  }
 ]
