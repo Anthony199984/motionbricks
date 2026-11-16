@@ -1,11 +1,11 @@
 {
- "total_seconds": 195.1,
+ "total_seconds": 160.7,
  "jobs": [
   {
-   "name": "cp_mirar_abajo_serio_b",
-   "response": "OK\t120\t30",
-   "seconds": 195.0,
-   "frames": 120
+   "name": "vc11_eructo_b",
+   "response": "OK\t75\t30",
+   "seconds": 160.6,
+   "frames": 75
   }
  ]
 }
