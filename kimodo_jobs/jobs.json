@@ -1,44 +1,122 @@
 [
  {
-  "name": "cs_reir_doblado_b",
+  "name": "cp_burla_a",
   "frames": 150,
-  "seed": 94000,
-  "prompt": "A standing man laughs so hard that he bends forward at the waist with both hands on his knees, then straightens up laughing."
+  "seed": 96000,
+  "prompt": "A young man celebrates a win mockingly, bouncing on his feet, pumping both fists and leaning toward someone in front of him, laughing."
  },
  {
-  "name": "cs_reir_doblado_c",
+  "name": "cp_burla_b",
   "frames": 150,
-  "seed": 94013,
-  "prompt": "A person standing bursts into laughter and doubles over, torso bent forward, shoulders shaking."
+  "seed": 96013,
+  "prompt": "A young man celebrates a win mockingly, bouncing on his feet, pumping both fists and leaning toward someone in front of him, laughing."
  },
  {
-  "name": "cs_esconder_mano_b",
-  "frames": 150,
-  "seed": 94026,
-  "prompt": "A standing person moves the right hand behind the lower back and keeps it hidden there, standing still and looking up."
- },
- {
-  "name": "cs_esconder_mano_c",
-  "frames": 150,
-  "seed": 94039,
-  "prompt": "A guilty person quickly puts both hands behind the back and looks away, rocking on the heels."
- },
- {
-  "name": "cs_apuntar_dedo_b",
-  "frames": 120,
-  "seed": 94052,
-  "prompt": "A standing man extends the right arm straight forward at shoulder height pointing at someone, and holds the pose."
- },
- {
-  "name": "cs_apuntar_dedo_c",
-  "frames": 120,
-  "seed": 94065,
-  "prompt": "An angry father points straight ahead with his right arm fully extended and shakes it slightly."
- },
- {
-  "name": "cs_reventar_arriba_b",
+  "name": "cp_gritar_a",
   "frames": 90,
-  "seed": 94078,
-  "prompt": "A standing person reaches the right arm straight up above the head as high as possible and pokes something overhead."
+  "seed": 96026,
+  "prompt": "A young man leans forward and shouts loudly in triumph, both fists clenched at his sides, then straightens up."
+ },
+ {
+  "name": "cp_gritar_b",
+  "frames": 90,
+  "seed": 96039,
+  "prompt": "A young man leans forward and shouts loudly in triumph, both fists clenched at his sides, then straightens up."
+ },
+ {
+  "name": "cp_cuclillas_apoyar_a",
+  "frames": 150,
+  "seed": 96052,
+  "prompt": "A person squats down low and places both palms flat on a surface in front of him at knee height, holding it firmly, staying crouched."
+ },
+ {
+  "name": "cp_cuclillas_apoyar_b",
+  "frames": 150,
+  "seed": 96065,
+  "prompt": "A person squats down low and places both palms flat on a surface in front of him at knee height, holding it firmly, staying crouched."
+ },
+ {
+  "name": "cp_toser_a",
+  "frames": 120,
+  "seed": 96078,
+  "prompt": "A person standing up straight coughs hard several times, bending slightly forward at each cough, arms hanging at the sides."
+ },
+ {
+  "name": "cp_toser_b",
+  "frames": 120,
+  "seed": 96091,
+  "prompt": "A person standing up straight coughs hard several times, bending slightly forward at each cough, arms hanging at the sides."
+ },
+ {
+  "name": "cp_caminar_triste_a",
+  "frames": 180,
+  "seed": 96104,
+  "prompt": "A dejected young man walks slowly forward with his head down and shoulders slumped."
+ },
+ {
+  "name": "cp_caminar_triste_b",
+  "frames": 180,
+  "seed": 96117,
+  "prompt": "A dejected young man walks slowly forward with his head down and shoulders slumped."
+ },
+ {
+  "name": "cp_reir_mujer_a",
+  "frames": 120,
+  "seed": 96130,
+  "prompt": "A young woman stands and laughs happily, shoulders shaking, then looks to the side with a smile."
+ },
+ {
+  "name": "cp_reir_mujer_b",
+  "frames": 120,
+  "seed": 96143,
+  "prompt": "A young woman stands and laughs happily, shoulders shaking, then looks to the side with a smile."
+ },
+ {
+  "name": "cp_bajar_palanca_a",
+  "frames": 90,
+  "seed": 96156,
+  "prompt": "A person standing pushes a lever down firmly with the right hand at hip height, then holds still."
+ },
+ {
+  "name": "cp_bajar_palanca_b",
+  "frames": 90,
+  "seed": 96169,
+  "prompt": "A person standing pushes a lever down firmly with the right hand at hip height, then holds still."
+ },
+ {
+  "name": "cp_agachado_mirar_a",
+  "frames": 150,
+  "seed": 96182,
+  "prompt": "A person crouches down low and watches something approaching intently, tense, head following it."
+ },
+ {
+  "name": "cp_agachado_mirar_b",
+  "frames": 150,
+  "seed": 96195,
+  "prompt": "A person crouches down low and watches something approaching intently, tense, head following it."
+ },
+ {
+  "name": "cp_moto_a",
+  "frames": 150,
+  "seed": 96208,
+  "prompt": "A person sits astride a motorcycle, both hands forward on the handlebars, legs apart, feet on the ground, twisting the right grip."
+ },
+ {
+  "name": "cp_moto_b",
+  "frames": 150,
+  "seed": 96221,
+  "prompt": "A person sits astride a motorcycle, both hands forward on the handlebars, legs apart, feet on the ground, twisting the right grip."
+ },
+ {
+  "name": "cp_mirar_abajo_serio_a",
+  "frames": 120,
+  "seed": 96234,
+  "prompt": "A serious man leans forward to look down at something at his feet, then straightens up slowly and stares ahead."
+ },
+ {
+  "name": "cp_mirar_abajo_serio_b",
+  "frames": 120,
+  "seed": 96247,
+  "prompt": "A serious man leans forward to look down at something at his feet, then straightens up slowly and stares ahead."
  }
 ]
