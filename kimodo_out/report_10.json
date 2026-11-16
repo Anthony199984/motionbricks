@@ -1,11 +1,11 @@
 {
- "total_seconds": 252.7,
+ "total_seconds": 144.9,
  "jobs": [
   {
-   "name": "cp_reir_mujer_a",
-   "response": "OK\t120\t30",
-   "seconds": 252.6,
-   "frames": 120
+   "name": "vc07_atras_asco_a",
+   "response": "OK\t75\t30",
+   "seconds": 144.8,
+   "frames": 75
   }
  ]
 }
