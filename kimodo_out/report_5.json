@@ -1,11 +1,11 @@
 {
- "total_seconds": 192.4,
+ "total_seconds": 225.5,
  "jobs": [
   {
-   "name": "cs_apuntar_dedo_c",
-   "response": "OK\t120\t30",
-   "seconds": 192.3,
-   "frames": 120
+   "name": "cp_cuclillas_apoyar_b",
+   "response": "OK\t150\t30",
+   "seconds": 225.5,
+   "frames": 150
   }
  ]
 }
