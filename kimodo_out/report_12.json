@@ -1,11 +1,11 @@
 {
- "total_seconds": 207.5,
+ "total_seconds": 215.4,
  "jobs": [
   {
-   "name": "vc08_asomarse_a",
-   "response": "OK\t90\t30",
-   "seconds": 207.4,
-   "frames": 90
+   "name": "vc26_palmadas_a",
+   "response": "OK\t120\t30",
+   "seconds": 215.2,
+   "frames": 120
   }
  ]
 }
