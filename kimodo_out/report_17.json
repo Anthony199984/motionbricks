@@ -1,11 +1,11 @@
 {
- "total_seconds": 176.5,
+ "total_seconds": 311.6,
  "jobs": [
   {
-   "name": "vc10_sentado_mesa_b",
-   "response": "OK\t105\t30",
-   "seconds": 176.4,
-   "frames": 105
+   "name": "vc28_sentado_eructo_b",
+   "response": "OK\t150\t30",
+   "seconds": 311.6,
+   "frames": 150
   }
  ]
 }
