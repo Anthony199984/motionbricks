@@ -1,10 +1,10 @@
 {
- "total_seconds": 159.6,
+ "total_seconds": 159.8,
  "jobs": [
   {
-   "name": "cs_pulgar_arriba",
+   "name": "cp_bajar_palanca_a",
    "response": "OK\t90\t30",
-   "seconds": 159.5,
+   "seconds": 159.7,
    "frames": 90
   }
  ]
