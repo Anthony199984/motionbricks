@@ -1,17 +1,17 @@
 {
- "total_seconds": 332.5,
+ "total_seconds": 398.9,
  "jobs": [
   {
-   "name": "vc01_sostener_tubo_b",
-   "response": "OK\t90\t30",
-   "seconds": 167.7,
-   "frames": 90
+   "name": "vc20_apunalar_b",
+   "response": "OK\t120\t30",
+   "seconds": 185.5,
+   "frames": 120
   },
   {
-   "name": "vc12_mirar_vaca_b",
-   "response": "OK\t90\t30",
-   "seconds": 164.7,
-   "frames": 90
+   "name": "vc30_orilla_zanja_b",
+   "response": "OK\t150\t30",
+   "seconds": 213.3,
+   "frames": 150
   }
  ]
 }
