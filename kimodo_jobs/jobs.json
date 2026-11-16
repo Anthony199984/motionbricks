@@ -1,122 +1,134 @@
 [
  {
-  "name": "cp_burla_a",
-  "frames": 150,
-  "seed": 96000,
-  "prompt": "A young man celebrates a win mockingly, bouncing on his feet, pumping both fists and leaning toward someone in front of him, laughing."
- },
- {
-  "name": "cp_burla_b",
-  "frames": 150,
-  "seed": 96013,
-  "prompt": "A young man celebrates a win mockingly, bouncing on his feet, pumping both fists and leaning toward someone in front of him, laughing."
- },
- {
-  "name": "cp_gritar_a",
+  "name": "vc01_sostener_tubo_a",
   "frames": 90,
-  "seed": 96026,
-  "prompt": "A young man leans forward and shouts loudly in triumph, both fists clenched at his sides, then straightens up."
+  "seed": 81000,
+  "prompt": "A person stands still beside something at waist height, holding a short vertical handle low in front of the right hip with the right hand, looking down at it, concentrated."
  },
  {
-  "name": "cp_gritar_b",
+  "name": "vc01_sostener_tubo_b",
   "frames": 90,
-  "seed": 96039,
-  "prompt": "A young man leans forward and shouts loudly in triumph, both fists clenched at his sides, then straightens up."
+  "seed": 82000,
+  "prompt": "A person stands still beside something at waist height, holding a short vertical handle low in front of the right hip with the right hand, looking down at it, concentrated."
  },
  {
-  "name": "cp_cuclillas_apoyar_a",
-  "frames": 150,
-  "seed": 96052,
-  "prompt": "A person squats down low and places both palms flat on a surface in front of him at knee height, holding it firmly, staying crouched."
- },
- {
-  "name": "cp_cuclillas_apoyar_b",
-  "frames": 150,
-  "seed": 96065,
-  "prompt": "A person squats down low and places both palms flat on a surface in front of him at knee height, holding it firmly, staying crouched."
- },
- {
-  "name": "cp_toser_a",
-  "frames": 120,
-  "seed": 96078,
-  "prompt": "A person standing up straight coughs hard several times, bending slightly forward at each cough, arms hanging at the sides."
- },
- {
-  "name": "cp_toser_b",
-  "frames": 120,
-  "seed": 96091,
-  "prompt": "A person standing up straight coughs hard several times, bending slightly forward at each cough, arms hanging at the sides."
- },
- {
-  "name": "cp_caminar_triste_a",
-  "frames": 180,
-  "seed": 96104,
-  "prompt": "A dejected young man walks slowly forward with his head down and shoulders slumped."
- },
- {
-  "name": "cp_caminar_triste_b",
-  "frames": 180,
-  "seed": 96117,
-  "prompt": "A dejected young man walks slowly forward with his head down and shoulders slumped."
- },
- {
-  "name": "cp_reir_mujer_a",
-  "frames": 120,
-  "seed": 96130,
-  "prompt": "A young woman stands and laughs happily, shoulders shaking, then looks to the side with a smile."
- },
- {
-  "name": "cp_reir_mujer_b",
-  "frames": 120,
-  "seed": 96143,
-  "prompt": "A young woman stands and laughs happily, shoulders shaking, then looks to the side with a smile."
- },
- {
-  "name": "cp_bajar_palanca_a",
+  "name": "vc03_reir_camara_a",
   "frames": 90,
-  "seed": 96156,
-  "prompt": "A person standing pushes a lever down firmly with the right hand at hip height, then holds still."
+  "seed": 81013,
+  "prompt": "A person laughs softly, shoulders shaking a little, and looks straight ahead with a smile."
  },
  {
-  "name": "cp_bajar_palanca_b",
+  "name": "vc03_reir_camara_b",
   "frames": 90,
-  "seed": 96169,
-  "prompt": "A person standing pushes a lever down firmly with the right hand at hip height, then holds still."
+  "seed": 82013,
+  "prompt": "A person laughs softly, shoulders shaking a little, and looks straight ahead with a smile."
  },
  {
-  "name": "cp_agachado_mirar_a",
-  "frames": 150,
-  "seed": 96182,
-  "prompt": "A person crouches down low and watches something approaching intently, tense, head following it."
+  "name": "vc04_fruncir_a",
+  "frames": 90,
+  "seed": 81026,
+  "prompt": "A person stands still and tilts the head to one side, puzzled, frowning."
  },
  {
-  "name": "cp_agachado_mirar_b",
-  "frames": 150,
-  "seed": 96195,
-  "prompt": "A person crouches down low and watches something approaching intently, tense, head following it."
+  "name": "vc04_fruncir_b",
+  "frames": 90,
+  "seed": 82026,
+  "prompt": "A person stands still and tilts the head to one side, puzzled, frowning."
  },
  {
-  "name": "cp_moto_a",
-  "frames": 150,
-  "seed": 96208,
-  "prompt": "A person sits astride a motorcycle, both hands forward on the handlebars, legs apart, feet on the ground, twisting the right grip."
+  "name": "vc05_correr_a",
+  "frames": 75,
+  "seed": 81039,
+  "prompt": "A person runs forward fast for a few steps in a hurry."
  },
  {
-  "name": "cp_moto_b",
-  "frames": 150,
-  "seed": 96221,
-  "prompt": "A person sits astride a motorcycle, both hands forward on the handlebars, legs apart, feet on the ground, twisting the right grip."
+  "name": "vc05_correr_b",
+  "frames": 75,
+  "seed": 82039,
+  "prompt": "A person runs forward fast for a few steps in a hurry."
  },
  {
-  "name": "cp_mirar_abajo_serio_a",
-  "frames": 120,
-  "seed": 96234,
-  "prompt": "A serious man leans forward to look down at something at his feet, then straightens up slowly and stares ahead."
+  "name": "vc06_arrodillarse_a",
+  "frames": 90,
+  "seed": 81052,
+  "prompt": "A person quickly kneels down on the left knee, the right foot planted forward, reaching forward with the right hand at hip height."
  },
  {
-  "name": "cp_mirar_abajo_serio_b",
-  "frames": 120,
-  "seed": 96247,
-  "prompt": "A serious man leans forward to look down at something at his feet, then straightens up slowly and stares ahead."
+  "name": "vc06_arrodillarse_b",
+  "frames": 90,
+  "seed": 82052,
+  "prompt": "A person quickly kneels down on the left knee, the right foot planted forward, reaching forward with the right hand at hip height."
+ },
+ {
+  "name": "vc07_atras_asco_a",
+  "frames": 75,
+  "seed": 81065,
+  "prompt": "A kneeling person leans back quickly away from a bad smell, turning the face away and raising one hand in front of the nose, disgusted."
+ },
+ {
+  "name": "vc07_atras_asco_b",
+  "frames": 75,
+  "seed": 82065,
+  "prompt": "A kneeling person leans back quickly away from a bad smell, turning the face away and raising one hand in front of the nose, disgusted."
+ },
+ {
+  "name": "vc08_asomarse_a",
+  "frames": 90,
+  "seed": 81078,
+  "prompt": "A person walks two steps to an edge, stops and leans forward to look down into a ditch, surprised."
+ },
+ {
+  "name": "vc08_asomarse_b",
+  "frames": 90,
+  "seed": 82078,
+  "prompt": "A person walks two steps to an edge, stops and leans forward to look down into a ditch, surprised."
+ },
+ {
+  "name": "vc09_preocupado_a",
+  "frames": 90,
+  "seed": 81091,
+  "prompt": "A person stands with both hands on the hips, worried, shifting weight and shaking the head slowly."
+ },
+ {
+  "name": "vc09_preocupado_b",
+  "frames": 90,
+  "seed": 82091,
+  "prompt": "A person stands with both hands on the hips, worried, shifting weight and shaking the head slowly."
+ },
+ {
+  "name": "vc10_sentado_mesa_a",
+  "frames": 105,
+  "seed": 81104,
+  "prompt": "A person sits relaxed on a chair at a table, forearms resting on the table, breathing calmly."
+ },
+ {
+  "name": "vc10_sentado_mesa_b",
+  "frames": 105,
+  "seed": 82104,
+  "prompt": "A person sits relaxed on a chair at a table, forearms resting on the table, breathing calmly."
+ },
+ {
+  "name": "vc11_eructo_a",
+  "frames": 75,
+  "seed": 81117,
+  "prompt": "A seated person suddenly leans back slightly in surprise, raises the eyebrows, then smiles."
+ },
+ {
+  "name": "vc11_eructo_b",
+  "frames": 75,
+  "seed": 82117,
+  "prompt": "A seated person suddenly leans back slightly in surprise, raises the eyebrows, then smiles."
+ },
+ {
+  "name": "vc12_mirar_vaca_a",
+  "frames": 90,
+  "seed": 81130,
+  "prompt": "A seated person turns the head to the right side, looks at something far away and smiles."
+ },
+ {
+  "name": "vc12_mirar_vaca_b",
+  "frames": 90,
+  "seed": 82130,
+  "prompt": "A seated person turns the head to the right side, looks at something far away and smiles."
  }
 ]
