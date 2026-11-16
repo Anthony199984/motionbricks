@@ -1,11 +1,11 @@
 {
- "total_seconds": 137.5,
+ "total_seconds": 213.6,
  "jobs": [
   {
-   "name": "vc07_atras_asco_b",
-   "response": "OK\t75\t30",
-   "seconds": 137.4,
-   "frames": 75
+   "name": "vc25_sacar_papa_b",
+   "response": "OK\t150\t30",
+   "seconds": 213.5,
+   "frames": 150
   }
  ]
 }
