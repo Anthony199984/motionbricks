@@ -1,0 +1,41 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/v2_craneo_vaca.glb",
+   "mb": 3.57
+  },
+  {
+   "destino": "objaverse/v2_zopilote.glb",
+   "mb": 2.23
+  },
+  {
+   "destino": "objaverse/v2_zopilote_cabeza_roja.glb",
+   "mb": 1.69
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "v2_craneo_vaca": {
+   "uid": "3dad0db69b7242bb87ab1847f500e72e",
+   "nombre": "v2_craneo_vaca",
+   "obra": "Череп коровы",
+   "autor": "Chursak",
+   "licencia": "CC Attribution"
+  },
+  "v2_zopilote": {
+   "uid": "e08e8ccef02f4c99948c8f4a3132c8fa",
+   "nombre": "v2_zopilote",
+   "obra": "Black Vulture",
+   "autor": "cmp_innovation_studio",
+   "licencia": "CC Attribution"
+  },
+  "v2_zopilote_cabeza_roja": {
+   "uid": "4005811722a54afaba3d0c29d58b657d",
+   "nombre": "v2_zopilote_cabeza_roja",
+   "obra": "Turkey Vulture",
+   "autor": "cmp_innovation_studio",
+   "licencia": "CC Attribution"
+  }
+ }
+}
