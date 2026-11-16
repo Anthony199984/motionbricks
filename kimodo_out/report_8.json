@@ -1,11 +1,11 @@
 {
- "total_seconds": 180.2,
+ "total_seconds": 137.6,
  "jobs": [
   {
-   "name": "vc06_arrodillarse_a",
-   "response": "OK\t90\t30",
-   "seconds": 180.0,
-   "frames": 90
+   "name": "vc24_tapar_nariz_a",
+   "response": "OK\t120\t30",
+   "seconds": 137.5,
+   "frames": 120
   }
  ]
 }
