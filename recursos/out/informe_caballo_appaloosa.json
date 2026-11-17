@@ -1,0 +1,43 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/caballo_maxdesign/6d0f9c1ce82f41048a282b6c47a50684.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/caballo_maxdesign/d9af6902210645d995e37ba4319957b6.jpg",
+   "mb": 0.0
+  }
+ ],
+ "errores": [
+  {
+   "uid": "6d0f9c1ce82f41048a282b6c47a50684",
+   "error": "no está en Objaverse"
+  }
+ ],
+ "saltados": [],
+ "sketchfab": {
+  "caballo_maxdesign": [
+   {
+    "uid": "6d0f9c1ce82f41048a282b6c47a50684",
+    "nombre": "Horse",
+    "autor": "MAXDESIGN",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 14646,
+    "url": "https://sketchfab.com/3d-models/none-6d0f9c1ce82f41048a282b6c47a50684",
+    "miniatura": "miniaturas/caballo_maxdesign/6d0f9c1ce82f41048a282b6c47a50684.jpg"
+   },
+   {
+    "uid": "d9af6902210645d995e37ba4319957b6",
+    "nombre": "Horse",
+    "autor": "MAXDESIGN",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 14796,
+    "url": "https://sketchfab.com/3d-models/none-d9af6902210645d995e37ba4319957b6",
+    "miniatura": "miniaturas/caballo_maxdesign/d9af6902210645d995e37ba4319957b6.jpg"
+   }
+  ]
+ }
+}
