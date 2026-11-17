@@ -1,17 +1,11 @@
 {
- "total_seconds": 402.3,
+ "total_seconds": 236.5,
  "jobs": [
   {
-   "name": "vc21_apunalar_dos_manos_b",
-   "response": "OK\t120\t30",
-   "seconds": 202.3,
-   "frames": 120
-  },
-  {
-   "name": "vc31_explicar_serio_b",
-   "response": "OK\t120\t30",
-   "seconds": 200.0,
-   "frames": 120
+   "name": "vc51_parado_eructo_b",
+   "response": "OK\t150\t30",
+   "seconds": 236.4,
+   "frames": 150
   }
  ]
 }
