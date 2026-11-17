@@ -1,151 +1,28 @@
 {
- "informe": "informe_ventana_campo2.json",
- "objaverse": [
-  {
-   "uid": "e214a0869b6848e98fab75b067042079",
-   "nombre": "vv_gallina_blanca",
-   "obra": "Brother Jacob",
-   "autor": "sgrosjean",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-e214a0869b6848e98fab75b067042079"
-  },
-  {
-   "uid": "bfc5ba51548b419c94ecf632c0aa9960",
-   "nombre": "vv_gallina_cafe",
-   "obra": "Chicken",
-   "autor": "16nharris",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-bfc5ba51548b419c94ecf632c0aa9960"
-  },
-  {
-   "uid": "ef845cb048e4499ab2f2845d20cb10d0",
-   "nombre": "vv_gallina_7anim",
-   "obra": "Gallina",
-   "autor": "whiskascaty34",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-ef845cb048e4499ab2f2845d20cb10d0"
-  },
-  {
-   "uid": "f83d2745afee42eeb2b385191d99391b",
-   "nombre": "vv_gallina_chook",
-   "obra": "Chook",
-   "autor": "javasparrow",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-f83d2745afee42eeb2b385191d99391b"
-  },
-  {
-   "uid": "8fffaef7902c4823834dd783a99c4316",
-   "nombre": "vv_pollito_anim",
-   "obra": "Animated Chick",
-   "autor": "FourthGreen",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-8fffaef7902c4823834dd783a99c4316"
-  },
-  {
-   "uid": "c936331a082d4a17899522e6b050bebe",
-   "nombre": "vv_gallo",
-   "obra": "Stylized Rooster",
-   "autor": "Batuhan13",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-c936331a082d4a17899522e6b050bebe"
-  },
-  {
-   "uid": "426244116b834a0986d4bd6b5d975a6c",
-   "nombre": "vv_gallo_low",
-   "obra": "LowPoly Rooster",
-   "autor": "miluwuuu",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-426244116b834a0986d4bd6b5d975a6c"
-  },
-  {
-   "uid": "1703672ed68f417698ea017af3066d61",
-   "nombre": "vv_vaca_caricatura",
-   "obra": "Cow",
-   "autor": "shakiller",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-1703672ed68f417698ea017af3066d61"
-  },
-  {
-   "uid": "2ca1db4e890e4b24a68624597e7d2fc8",
-   "nombre": "vv_vaca_cafe",
-   "obra": "Cow NPC - Now free to download",
-   "autor": "nataliekirk",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-2ca1db4e890e4b24a68624597e7d2fc8"
-  },
-  {
-   "uid": "18a845498c764d549a8bd1fad3c67489",
-   "nombre": "vv_vaca_animada",
-   "obra": "Animated Cow",
-   "autor": "GameCraftPro",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-18a845498c764d549a8bd1fad3c67489"
-  },
-  {
-   "uid": "7ccbbb3307004ad18bed624e356c5975",
-   "nombre": "vv_arbusto_a",
-   "obra": "Stylized Bush (V1)",
-   "autor": "SangeetBlaze",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-7ccbbb3307004ad18bed624e356c5975"
-  },
-  {
-   "uid": "a83fd7049a784ca6bc0095e7323451d0",
-   "nombre": "vv_arbusto_b",
-   "obra": "Small Stylised Bush",
-   "autor": "parelaxel",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-a83fd7049a784ca6bc0095e7323451d0"
-  },
-  {
-   "uid": "50a50c35841044a38cf18a504b290e5c",
-   "nombre": "vv_arbusto_c",
-   "obra": "Stylized bush",
-   "autor": "selskiy_durachok",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-50a50c35841044a38cf18a504b290e5c"
-  },
-  {
-   "uid": "80d37fc6bce84ae6884885fff0cbaba8",
-   "nombre": "vv_naturaleza_pack",
-   "obra": "Low Poly Nature Pack Free",
-   "autor": "a_l_e_x_a_n_d_e_r",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-80d37fc6bce84ae6884885fff0cbaba8"
-  },
-  {
-   "uid": "b9b9d627d62b46418ba61de1cc1df557",
-   "nombre": "vv_naturaleza_pack2",
-   "obra": "Low Poly Nature Free ✓",
-   "autor": "a_l_e_x_a_n_d_e_r",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-b9b9d627d62b46418ba61de1cc1df557"
-  },
-  {
-   "uid": "93492de77dbe46e1a7317c88f147bdc9",
-   "nombre": "vv_cercas",
-   "obra": "Fence Collection",
-   "autor": "Enzeruk",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-93492de77dbe46e1a7317c88f147bdc9"
-  },
-  {
-   "uid": "7256e01f27874814b9752be27e5d1543",
-   "nombre": "vv_granja_props",
-   "obra": "Cartoon | Wooden | Farm | Pack",
-   "autor": "yadrogames",
-   "licencia": "CC Attribution",
-   "url": "https://sketchfab.com/3d-models/none-7256e01f27874814b9752be27e5d1543"
-  }
- ],
+ "informe": "informe_ventana_granja1.json",
  "polyhaven": [
-  {
-   "id": "jacaranda_tree",
-   "res": "1k"
-  },
-  {
-   "id": "island_tree_02",
-   "res": "1k"
-  }
+  {"id": "Barrel_02", "res": "1k"}, {"id": "wooden_crate_01", "res": "1k"}, {"id": "wooden_crate_02", "res": "1k"},
+  {"id": "wooden_barrels_01", "res": "1k"}, {"id": "compost_bags", "res": "1k"}, {"id": "wooden_ladder_02", "res": "1k"},
+  {"id": "rusted_spade_01", "res": "1k"}, {"id": "picke_dirty_01", "res": "1k"}, {"id": "wooden_bucket_01", "res": "1k"},
+  {"id": "watering_can_metal_01", "res": "1k"}, {"id": "wooden_axe", "res": "1k"}, {"id": "tree_stump_02", "res": "1k"}
+ ],
+ "sketchfab_buscar": [
+  {"clave": "vv_granero", "q": "red barn", "solo_objaverse": true, "paginas": 3, "max": 30},
+  {"clave": "vv_silo", "q": "farm silo", "solo_objaverse": true, "paginas": 2, "max": 20},
+  {"clave": "vv_tractor", "q": "tractor", "solo_objaverse": true, "paginas": 3, "max": 30},
+  {"clave": "vv_carretilla", "q": "wheelbarrow", "solo_objaverse": true, "paginas": 2, "max": 20},
+  {"clave": "vv_bebedero", "q": "water trough", "solo_objaverse": true, "paginas": 2, "max": 20},
+  {"clave": "vv_molino", "q": "farm windmill water pump", "solo_objaverse": true, "paginas": 2, "max": 20},
+  {"clave": "vv_casa_granja", "q": "farmhouse", "solo_objaverse": true, "paginas": 2, "max": 24},
+  {"clave": "vv_gallinero", "q": "chicken coop", "solo_objaverse": true, "paginas": 2, "max": 20},
+  {"clave": "vv_lechera", "q": "milk can", "solo_objaverse": true, "paginas": 2, "max": 20},
+  {"clave": "vv_granja_pack", "q": "farm pack", "solo_objaverse": true, "paginas": 3, "max": 30},
+  {"clave": "vv_horca", "q": "pitchfork", "solo_objaverse": true, "paginas": 1, "max": 15},
+  {"clave": "vv_carreta", "q": "hay wagon cart", "solo_objaverse": true, "paginas": 2, "max": 20},
+  {"clave": "vv_espantapajaros", "q": "scarecrow", "solo_objaverse": true, "paginas": 2, "max": 20},
+  {"clave": "vv_arbol_real", "q": "oak tree", "solo_objaverse": true, "paginas": 2, "max": 24},
+  {"clave": "vv_cerca_granja", "q": "wooden fence", "solo_objaverse": true, "paginas": 3, "max": 30},
+  {"clave": "vv_cerdo", "q": "pig", "animado": true, "solo_objaverse": true, "paginas": 2, "max": 20},
+  {"clave": "vv_pato", "q": "duck", "animado": true, "solo_objaverse": true, "paginas": 2, "max": 20}
  ]
 }
