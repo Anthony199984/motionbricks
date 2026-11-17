@@ -1,0 +1,394 @@
+{
+ "bajados": [
+  {
+   "destino": "sonidos/vv_tripas/Long_intense_stomach_growl_10_by_SamanthaCastleber_696405.mp3",
+   "mb": 0.28
+  },
+  {
+   "destino": "sonidos/vv_tripas/Stomach_Rumble_by_yrdn_473989.mp3",
+   "mb": 0.08
+  },
+  {
+   "destino": "sonidos/vv_tripas/Famished_Stomach_Sounds.wav_by_UnderASpell_691594.mp3",
+   "mb": 0.22
+  },
+  {
+   "destino": "sonidos/vv_burbujas/Bubbles_cam.wav_by_digifishmusic_68312.mp3",
+   "mb": 0.15
+  },
+  {
+   "destino": "sonidos/vv_burbujas/Bubbles_by_hotpin7_840042.mp3",
+   "mb": 0.03
+  },
+  {
+   "destino": "sonidos/vv_burbujas/mayfield_water_flowing02.flac_by_wjoojoo_255418.mp3",
+   "mb": 0.49
+  },
+  {
+   "destino": "sonidos/vv_burbujas/titleflight-bubbling-liquid-splatter.wav_by_newage_342474.mp3",
+   "mb": 0.22
+  },
+  {
+   "destino": "sonidos/vv_burbujas/Bubbling_by_mattfinarelli_533147.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/vv_burbujas/titleflight-paint-splat-spill.wav_by_newagesoup_342473.mp3",
+   "mb": 0.17
+  },
+  {
+   "destino": "sonidos/vv_oveja/Sheep_baa_by_Chipsplease_669765.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/vv_oveja/Sheep_Baa_by_emilyws_414541.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/vv_oveja/Ewe_Shetland_Sheep_Baa_by_satoristudios3_692900.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/vv_oveja/Sheep_baaing_5_-_Norwegian_sheep_expressing_itself_710300.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/vv_oveja/Thainst12_Sheeps.wav_by_MacFerret_20_155469.mp3",
+   "mb": 0.43
+  },
+  {
+   "destino": "sonidos/vv_chivo/TOONAnml-Blue_Snowball_Microphone_CU_Goat_Baby_Kid_805043.mp3",
+   "mb": 0.38
+  },
+  {
+   "destino": "sonidos/vv_chivo/Baby_Goat_Bleating_by_OBXJohn_266616.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/vv_chivo/goat_choir_-_minor_third-_two_goats_bleating_simul_267147.mp3",
+   "mb": 0.04
+  },
+  {
+   "destino": "sonidos/vv_chivo/two_goats_bleating_in_a_stable.WAV_by_EduFigueres_267146.mp3",
+   "mb": 2.49
+  },
+  {
+   "destino": "sonidos/vv_chivo/Baby_goat_bleating_by_jsbarrett_200333.mp3",
+   "mb": 0.16
+  },
+  {
+   "destino": "sonidos/vv_golpe_cine/DSGNImpt_Powerful_Metal_Impact_1-1_EM_by_newlockne_811308.mp3",
+   "mb": 0.25
+  },
+  {
+   "destino": "sonidos/vv_golpe_cine/RESYNTH_IMPACT_TWO_X_by_johnjohnfm_837398.mp3",
+   "mb": 0.06
+  },
+  {
+   "destino": "sonidos/vv_golpe_cine/Cinematic_Hit_With_Horns.wav_by_DeVern_427803.mp3",
+   "mb": 0.1
+  },
+  {
+   "destino": "sonidos/vv_golpe_cine/DSGNStngr_Eerie_Metal_Tense_Hit_With_Lots_of_Modul_706531.mp3",
+   "mb": 0.29
+  },
+  {
+   "destino": "sonidos/vv_golpe_cine/One_hit_sonar_inspired_by_xkeril_736851.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "hdri/kloppenheim_05_puresky_2k.hdr",
+   "mb": 3.78
+  },
+  {
+   "destino": "hdri/rosendal_park_sunset_puresky_2k.hdr",
+   "mb": 4.82
+  },
+  {
+   "destino": "hdri/mpumalanga_veld_puresky_2k.hdr",
+   "mb": 4.36
+  },
+  {
+   "destino": "hdri/kloppenheim_03_puresky_2k.hdr",
+   "mb": 5.08
+  },
+  {
+   "destino": "hdri/hilly_terrain_01_puresky_2k.hdr",
+   "mb": 4.49
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "freesound": {
+  "vv_tripas": [
+   {
+    "id": "696405",
+    "autor": "SamanthaCastleberry",
+    "pagina": "https://freesound.org/people/SamanthaCastleberry/sounds/696405/",
+    "titulo": "Long intense stomach growl 10 by SamanthaCastleberry",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vv_tripas/Long_intense_stomach_growl_10_by_SamanthaCastleber_696405.mp3"
+   },
+   {
+    "id": "473989",
+    "autor": "yrdn",
+    "pagina": "https://freesound.org/people/yrdn/sounds/473989/",
+    "titulo": "Stomach Rumble by yrdn",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vv_tripas/Stomach_Rumble_by_yrdn_473989.mp3"
+   },
+   {
+    "id": "691594",
+    "autor": "UnderASpell",
+    "pagina": "https://freesound.org/people/UnderASpell/sounds/691594/",
+    "titulo": "Famished Stomach Sounds.wav by UnderASpell",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vv_tripas/Famished_Stomach_Sounds.wav_by_UnderASpell_691594.mp3"
+   }
+  ],
+  "vv_burbujas": [
+   {
+    "id": "68312",
+    "autor": "digifishmusic",
+    "pagina": "https://freesound.org/people/digifishmusic/sounds/68312/",
+    "titulo": "Bubbles_cam.wav by digifishmusic",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/vv_burbujas/Bubbles_cam.wav_by_digifishmusic_68312.mp3"
+   },
+   {
+    "id": "840042",
+    "autor": "hotpin7",
+    "pagina": "https://freesound.org/people/hotpin7/sounds/840042/",
+    "titulo": "Bubbles by hotpin7",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vv_burbujas/Bubbles_by_hotpin7_840042.mp3"
+   },
+   {
+    "id": "255418",
+    "autor": "wjoojoo",
+    "pagina": "https://freesound.org/people/wjoojoo/sounds/255418/",
+    "titulo": "mayfield_water_flowing02.flac by wjoojoo",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/vv_burbujas/mayfield_water_flowing02.flac_by_wjoojoo_255418.mp3"
+   },
+   {
+    "id": "342474",
+    "autor": "newagesoup",
+    "pagina": "https://freesound.org/people/newagesoup/sounds/342474/",
+    "titulo": "titleflight-bubbling-liquid-splatter.wav by newagesoup",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/vv_burbujas/titleflight-bubbling-liquid-splatter.wav_by_newage_342474.mp3"
+   },
+   {
+    "id": "533147",
+    "autor": "mattfinarelli",
+    "pagina": "https://freesound.org/people/mattfinarelli/sounds/533147/",
+    "titulo": "Bubbling by mattfinarelli",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vv_burbujas/Bubbling_by_mattfinarelli_533147.mp3"
+   },
+   {
+    "id": "342473",
+    "autor": "newagesoup",
+    "pagina": "https://freesound.org/people/newagesoup/sounds/342473/",
+    "titulo": "titleflight-paint-splat-spill.wav by newagesoup",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/vv_burbujas/titleflight-paint-splat-spill.wav_by_newagesoup_342473.mp3"
+   }
+  ],
+  "vv_cencerro": [],
+  "vv_oveja": [
+   {
+    "id": "669765",
+    "autor": "Chipsplease",
+    "pagina": "https://freesound.org/people/Chipsplease/sounds/669765/",
+    "titulo": "Sheep baa by Chipsplease",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vv_oveja/Sheep_baa_by_Chipsplease_669765.mp3"
+   },
+   {
+    "id": "414541",
+    "autor": "emilyws",
+    "pagina": "https://freesound.org/people/emilyws/sounds/414541/",
+    "titulo": "Sheep Baa by emilyws",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vv_oveja/Sheep_Baa_by_emilyws_414541.mp3"
+   },
+   {
+    "id": "692900",
+    "autor": "satoristudios3",
+    "pagina": "https://freesound.org/people/satoristudios3/sounds/692900/",
+    "titulo": "Ewe Shetland Sheep Baa by satoristudios3",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vv_oveja/Ewe_Shetland_Sheep_Baa_by_satoristudios3_692900.mp3"
+   },
+   {
+    "id": "710300",
+    "autor": "michaelperfect",
+    "pagina": "https://freesound.org/people/michaelperfect/sounds/710300/",
+    "titulo": "Sheep baaing 5 - Norwegian sheep expressing itself concisely by michaelperfect",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vv_oveja/Sheep_baaing_5_-_Norwegian_sheep_expressing_itself_710300.mp3"
+   },
+   {
+    "id": "155469",
+    "autor": "MacFerret_20",
+    "pagina": "https://freesound.org/people/MacFerret_20/sounds/155469/",
+    "titulo": "Thainst12_Sheeps.wav by MacFerret_20",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/vv_oveja/Thainst12_Sheeps.wav_by_MacFerret_20_155469.mp3"
+   }
+  ],
+  "vv_chivo": [
+   {
+    "id": "805043",
+    "autor": "designerschoice",
+    "pagina": "https://freesound.org/people/designerschoice/sounds/805043/",
+    "titulo": "TOONAnml-Blue Snowball Microphone, CU_Goat, Baby, Kid, Bleat, Human Imitation_Nicholas Judy_TDC by designerschoice",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/vv_chivo/TOONAnml-Blue_Snowball_Microphone_CU_Goat_Baby_Kid_805043.mp3"
+   },
+   {
+    "id": "266616",
+    "autor": "OBXJohn",
+    "pagina": "https://freesound.org/people/OBXJohn/sounds/266616/",
+    "titulo": "Baby Goat Bleating by OBXJohn",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/vv_chivo/Baby_Goat_Bleating_by_OBXJohn_266616.mp3"
+   },
+   {
+    "id": "267147",
+    "autor": "EduFigueres",
+    "pagina": "https://freesound.org/people/EduFigueres/sounds/267147/",
+    "titulo": "goat choir - minor third- two goats bleating simultaneously.WAV by EduFigueres",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/vv_chivo/goat_choir_-_minor_third-_two_goats_bleating_simul_267147.mp3"
+   },
+   {
+    "id": "267146",
+    "autor": "EduFigg",
+    "pagina": "https://freesound.org/people/EduFigg/sounds/267146/",
+    "titulo": "two goats bleating in a stable.WAV by EduFigueres",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/vv_chivo/two_goats_bleating_in_a_stable.WAV_by_EduFigueres_267146.mp3"
+   },
+   {
+    "id": "200333",
+    "autor": "jsbarrett",
+    "pagina": "https://freesound.org/people/jsbarrett/sounds/200333/",
+    "titulo": "Baby goat bleating by jsbarrett",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vv_chivo/Baby_goat_bleating_by_jsbarrett_200333.mp3"
+   }
+  ],
+  "vv_golpe_cine": [
+   {
+    "id": "811308",
+    "autor": "newlocknew",
+    "pagina": "https://freesound.org/people/newlocknew/sounds/811308/",
+    "titulo": "DSGNImpt_Powerful Metal Impact 1-1_EM by newlocknew",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/vv_golpe_cine/DSGNImpt_Powerful_Metal_Impact_1-1_EM_by_newlockne_811308.mp3"
+   },
+   {
+    "id": "837398",
+    "autor": "johnjohnfm",
+    "pagina": "https://freesound.org/people/johnjohnfm/sounds/837398/",
+    "titulo": "RESYNTH IMPACT TWO X by johnjohnfm",
+    "licencia": "licenses/by",
+    "archivo": "sonidos/vv_golpe_cine/RESYNTH_IMPACT_TWO_X_by_johnjohnfm_837398.mp3"
+   },
+   {
+    "id": "427803",
+    "autor": "DeVern",
+    "pagina": "https://freesound.org/people/DeVern/sounds/427803/",
+    "titulo": "Cinematic Hit With Horns.wav by DeVern",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vv_golpe_cine/Cinematic_Hit_With_Horns.wav_by_DeVern_427803.mp3"
+   },
+   {
+    "id": "706531",
+    "autor": "newlocknew",
+    "pagina": "https://freesound.org/people/newlocknew/sounds/706531/",
+    "titulo": "DSGNStngr_Eerie Metal Tense Hit With Lots of Modulation 5_EM.mp3 by newlocknew",
+    "licencia": "licenses/by-nc",
+    "archivo": "sonidos/vv_golpe_cine/DSGNStngr_Eerie_Metal_Tense_Hit_With_Lots_of_Modul_706531.mp3"
+   },
+   {
+    "id": "736851",
+    "autor": "xkeril",
+    "pagina": "https://freesound.org/people/xkeril/sounds/736851/",
+    "titulo": "One hit (sonar inspired) by xkeril",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vv_golpe_cine/One_hit_sonar_inspired_by_xkeril_736851.mp3"
+   }
+  ]
+ },
+ "info": {
+  "kloppenheim_06_puresky": {
+   "nombre": "Kloppenheim 06 (Pure Sky)",
+   "autores": {
+    "Greg Zaal": "Original",
+    "Jarod Guest": "Sky edits"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "kloppenheim_05_puresky": {
+   "nombre": "Kloppenheim 05 (Pure Sky)",
+   "autores": {
+    "Greg Zaal": "Original",
+    "Jarod Guest": "Sky Edits"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "rosendal_park_sunset_puresky": {
+   "nombre": "Rosendal Park Sunset (Pure Sky)",
+   "autores": {
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Processing"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "mpumalanga_veld_puresky": {
+   "nombre": "Mpumalanga Veld (Pure Sky)",
+   "autores": {
+    "Greg Zaal": "Original",
+    "Jarod Guest": "Sky Edits"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "belfast_sunset_puresky": {
+   "nombre": "Belfast Sunset (Pure Sky)",
+   "autores": {
+    "Greg Zaal": "Processing",
+    "Dimitrios Savva": "Photography",
+    "Jarod Guest": "Sky edits"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "kloppenheim_03_puresky": {
+   "nombre": "Kloppenheim 03 (Pure Sky)",
+   "autores": {
+    "Greg Zaal": "Original",
+    "Jarod Guest": "Sky Edits"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "hilly_terrain_01_puresky": {
+   "nombre": "Hilly Terrain 01 (Pure Sky)",
+   "autores": {
+    "Jarod Guest": "Sky edits",
+    "Sergej Majboroda": "Original"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "autumn_field_puresky": {
+   "nombre": "Autumn Field (Pure Sky)",
+   "autores": {
+    "Jarod Guest": "Sky Edits",
+    "Sergej Majboroda": "Original"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  }
+ }
+}
