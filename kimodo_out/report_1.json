@@ -1,16 +1,10 @@
 {
- "total_seconds": 398.9,
+ "total_seconds": 237.4,
  "jobs": [
   {
-   "name": "vc20_apunalar_b",
-   "response": "OK\t120\t30",
-   "seconds": 185.5,
-   "frames": 120
-  },
-  {
-   "name": "vc30_orilla_zanja_b",
+   "name": "vc50_parado_beber_b",
    "response": "OK\t150\t30",
-   "seconds": 213.3,
+   "seconds": 237.4,
    "frames": 150
   }
  ]
