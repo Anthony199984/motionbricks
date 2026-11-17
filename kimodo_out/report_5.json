@@ -1,17 +1,11 @@
 {
- "total_seconds": 233.6,
+ "total_seconds": 194.4,
  "jobs": [
   {
-   "name": "vc22_sacar_punzon_b",
-   "response": "OK\t105\t30",
-   "seconds": 123.2,
-   "frames": 105
-  },
-  {
-   "name": "vc33_empujar_b",
-   "response": "OK\t90\t30",
-   "seconds": 110.3,
-   "frames": 90
+   "name": "vc52_parado_rie_b",
+   "response": "OK\t120\t30",
+   "seconds": 194.3,
+   "frames": 120
   }
  ]
 }
