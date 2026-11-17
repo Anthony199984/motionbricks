@@ -1,115 +1,38 @@
 {
- "informe": "informe_ventana_bajada1.json",
- "objaverse": [
-  {
-   "uid": "18d5d6a265214b689f6065d4139fbb6a",
-   "nombre": "vv_comedero_madera",
-   "obra": "Feeding Trough. Low poly and game-ready.",
-   "autor": "hakan3d",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "186c3d0657a44e2ca04ea9544c453437",
-   "nombre": "vv_cubeta_metal",
-   "obra": "METAL BUCKET",
-   "autor": "eucocker",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "d9e6ece6e7e84597bef214ce3b289acd",
-   "nombre": "vv_cubeta_galvanizada",
-   "obra": "Galvanised Steel Bucket",
-   "autor": "DJMiddi",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "6bda4bbea89f43bc9128e53ae350aa6f",
-   "nombre": "vv_embudo_metal",
-   "obra": "\"A\" funnel",
-   "autor": "Jan.Picka",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "6b775049e57e4d9da87977905493ebfb",
-   "nombre": "vv_heno_pacas",
-   "obra": "Hay Bales",
-   "autor": "FrodoUndead",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "de765f660b5c4f3a891f78d6ba1c4ec5",
-   "nombre": "vv_heno_paca",
-   "obra": "Hay Bale",
-   "autor": "antoineallardchoquette",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "8fa9a06380df4268b549e345cf103696",
-   "nombre": "vv_cerca_a",
-   "obra": "woodfence",
-   "autor": "pasquill",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "35bccb49e5c748008749c6c4300959b0",
-   "nombre": "vv_cerca_b",
-   "obra": "Woodfence",
-   "autor": "pasquill",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "c2d7164e11544537b68a46e1afd1e9bf",
-   "nombre": "vv_establo_interior",
-   "obra": "Barn Interior and Exterior",
-   "autor": "dontshootnow",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "1d0b768a8e2449de990b3f69f94c5db6",
-   "nombre": "vv_establo_viejo",
-   "obra": "American Old Barn",
-   "autor": "andrewriddle",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "67abff7459f34afca11e3effab62c761",
-   "nombre": "vv_oveja_libre",
-   "obra": "Sheep",
-   "autor": "hendrikReyneke",
-   "licencia": "CC Attribution"
-  },
-  {
-   "uid": "2624ac2ce2364930ba2d5f70eb7aa1ea",
-   "nombre": "vv_chivo_libre",
-   "obra": "Goat",
-   "autor": "hendrikReyneke",
-   "licencia": "CC Attribution"
-  }
- ],
+ "informe": "informe_ventana_campo1.json",
  "polyhaven": [
-  {
-   "id": "farm_field",
-   "res": "4k"
-  },
-  {
-   "id": "belfast_farmhouse",
-   "res": "4k"
-  },
-  {
-   "id": "hay_bales",
-   "res": "4k"
-  },
-  {
-   "id": "dirt_floor",
-   "res": "2k"
-  },
-  {
-   "id": "Barrel_01",
-   "res": "1k"
-  },
-  {
-   "id": "folding_wooden_stool",
-   "res": "1k"
-  }
+  {"id": "meadow", "res": "4k"},
+  {"id": "meadow_2", "res": "4k"},
+  {"id": "noon_grass", "res": "4k"},
+  {"id": "leafy_grass", "res": "2k"},
+  {"id": "sparse_grass", "res": "2k"},
+  {"id": "shrub_02", "res": "1k"},
+  {"id": "shrub_04", "res": "1k"},
+  {"id": "fern_02", "res": "1k"},
+  {"id": "grass_bermuda_01", "res": "1k"},
+  {"id": "dandelion_01", "res": "1k"},
+  {"id": "tree_stump_01", "res": "1k"},
+  {"id": "boulder_01", "res": "1k"},
+  {"id": "wooden_bucket_02", "res": "1k"}
+ ],
+ "sketchfab_buscar": [
+  {"clave": "vv_gallina", "q": "chicken hen", "solo_objaverse": true, "paginas": 3, "max": 30},
+  {"clave": "vv_gallina_anim", "q": "chicken", "animado": true, "solo_objaverse": true, "paginas": 3, "max": 30},
+  {"clave": "vv_pollito", "q": "chick baby chicken", "solo_objaverse": true, "paginas": 2, "max": 20},
+  {"clave": "vv_gallo", "q": "rooster", "solo_objaverse": true, "paginas": 2, "max": 20},
+  {"clave": "vv_vaca_fondo", "q": "cow", "animado": true, "solo_objaverse": true, "paginas": 3, "max": 30},
+  {"clave": "vv_arbol", "q": "stylized tree", "solo_objaverse": true, "paginas": 2, "max": 24},
+  {"clave": "vv_arbusto", "q": "stylized bush", "solo_objaverse": true, "paginas": 2, "max": 24},
+  {"clave": "vv_trocar", "q": "trocar", "solo_objaverse": true, "paginas": 1, "max": 20},
+  {"clave": "vv_cerca_campo", "q": "farm wooden fence", "solo_objaverse": true, "paginas": 2, "max": 24}
+ ],
+ "freesound_buscar": [
+  {"clave": "vv_gallinas", "q": "chickens clucking farm", "max": 6},
+  {"clave": "vv_campo", "q": "meadow birds ambience countryside", "filtro": "duration:[10 TO 120]", "max": 5},
+  {"clave": "vv_vacas_lejos", "q": "cows mooing distance pasture", "max": 5},
+  {"clave": "vv_clavar", "q": "stab punch thud body", "max": 8},
+  {"clave": "vv_whoosh", "q": "whoosh swing", "max": 6},
+  {"clave": "vv_clac", "q": "rubber cap pop close", "max": 6},
+  {"clave": "vv_susto_vaca", "q": "cow moo surprised short", "max": 6}
  ]
 }
