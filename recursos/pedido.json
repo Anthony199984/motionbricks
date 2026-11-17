@@ -1,16 +1,9 @@
 {
- "informe": "informe_ventana_cielos.json",
- "polyhaven": [
-  {"id": "kloppenheim_06_puresky", "res": "2k"}, {"id": "kloppenheim_05_puresky", "res": "2k"}, {"id": "rosendal_park_sunset_puresky", "res": "2k"},
-  {"id": "mpumalanga_veld_puresky", "res": "2k"}, {"id": "belfast_sunset_puresky", "res": "2k"}, {"id": "kloppenheim_03_puresky", "res": "2k"},
-  {"id": "hilly_terrain_01_puresky", "res": "2k"}, {"id": "autumn_field_puresky", "res": "2k"}
+ "informe": "informe_caballo_appaloosa.json",
+ "objaverse": [
+  {"uid": "6d0f9c1ce82f41048a282b6c47a50684", "nombre": "caballo_horse_maxdesign3d"}
  ],
- "freesound_buscar": [
-  {"clave": "vv_tripas", "q": "stomach gurgle rumble", "max": 8},
-  {"clave": "vv_burbujas", "q": "bubbles underwater gurgle", "max": 6},
-  {"clave": "vv_cencerro", "q": "cowbell cow bell pasture", "max": 6},
-  {"clave": "vv_oveja", "q": "sheep baa", "max": 5},
-  {"clave": "vv_chivo", "q": "goat bleat", "max": 5},
-  {"clave": "vv_golpe_cine", "q": "cinematic impact hit", "max": 5}
+ "sketchfab_buscar": [
+  {"clave": "caballo_maxdesign", "q": "horse MAXDESIGN-3D", "max": 6}
  ]
 }
