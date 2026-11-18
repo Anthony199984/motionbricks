@@ -1,0 +1,86 @@
+PEDIDO DE SONIDOS — Antonydfilms
+Fecha: 18 de noviembre de 2026
+Fuente: Freesound.org
+
+QUÉ HAY AQUÍ
+------------
+46 sonidos organizados por categoría, más este LEEME y los créditos.
+Todos se descargaron con la cuenta de Anthony en Freesound.
+
+ESTRUCTURA
+----------
+01_Animales/              15 archivos
+  Caballo (relincho, resoplido, caminando en tierra, trote suave, comiendo),
+  vaca (mugido, masticando), ovejas (rebaño con cencerros), chivo,
+  gallinas, gallo cantando (MP3), cerdo, perro ladrando,
+  pájaros de campo y moscas.
+
+02_Granja/                17 archivos
+  Ambiente de granja de día, viento en el pasto, puerta de madera
+  chirriando, portón de metal, cadena, cuerda tensándose, paja
+  moviéndose, cubeta de metal, agua cayendo en cubeta, chorro de
+  manguera, burbujas, aire saliendo de un tubo (silbido), eructo
+  de animal (cerdo), tractor encendido en ralenti, tractor
+  retroexcavadora (extra), pasos en tierra y pasos en paja.
+
+03_Cuerpo_y_acciones/      7 archivos
+  Golpe sordo al caer, tragar, chapoteo, desgarro suave, gota,
+  respiración agitada y latido de corazón.
+
+04_Efectos/                7 archivos
+  Tres whoosh suaves, pop, clic, campanita y un sonido corto de
+  “descubrimiento” (chime de celesta).
+
+LEEME.txt, CREDITOS.txt y CREDITOS.csv están en la raíz de este ZIP.
+
+LICENCIAS
+---------
+Todos los sonidos tienen licencia CC0 1.0 (Creative Commons 0 /
+dominio público). No hace falta atribuir, pero de todas formas
+quedan acreditados en CREDITOS.txt y CREDITOS.csv, con el nombre
+exacto en Freesound, el autor, el enlace canónico y la licencia.
+
+NOTAS DE USO Y EDICIÓN
+----------------------
+- pasos_en_paja__442826.wav es un SUSTITUTO: son pasos en pasto seco
+  (Dry Grass Steps, de qubodup). No se encontró un sonido de paja
+  limpia que cumpliera las reglas de licencia y calidad.
+
+- cerdo__723118.wav dura unos 56 segundos. Recortar en edición.
+
+- tractor_retroexcavadora__462878.wav es un extra y dura unos 71
+  segundos. Recortar en edición. El tractor de ralenti
+  (tractor_encendido_en_ralenti__149193.wav) dura unos 14 segundos.
+
+- pajaros_de_campo__627060.wav trae máquinas de labranza al fondo.
+  gallinas__724216.wav puede incluir viento ligero y canto de aves.
+  moscas__866635.wav se grabó en un baño en un día de calor y puede
+  traer ambiente del lugar.
+
+CONVERSIONES
+------------
+Los WAV y MP3 originales se dejaron tal cual, sin recodificar.
+Estos cuatro se convirtieron a WAV (misma frecuencia de muestreo;
+16 o 24 bits según el original):
+
+  - tractor_encendido_en_ralenti__149193.wav
+    FLAC 24 bit, 96 kHz, estéreo → WAV PCM 24 bit
+  - chapoteo__867463.wav
+    FLAC 16 bit, 96 kHz, estéreo → WAV PCM 16 bit
+  - pop__328119.wav
+    FLAC 24 bit, 44,1 kHz, mono → WAV PCM 24 bit
+  - gota__273870.wav
+    AIFF 16 bit, 44,1 kHz, estéreo → WAV PCM 16 bit
+
+FORMATOS
+--------
+La mayoría están en WAV. Quedaron en MP3 (así estaban en Freesound,
+buena calidad y sin recodificar):
+
+  - caballo_relinchando__656661.mp3
+  - gallo_cantando__582624.mp3
+  - eructo_de_animal__529248.mp3
+  - golpe_sordo_al_caer__504626.mp3
+
+Los nombres de archivo van en español, con el ID de Freesound al
+final (por ejemplo caballo_relinchando__656661.mp3).
