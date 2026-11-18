@@ -41,34 +41,21 @@ Estos son la versión EXR.
 
 ## Estado de la subida
 
-PARCIAL: hay 24 de 25 partes subidas, todas verificadas con SHA-256.
+COMPLETO: están las 25 partes (000 a 024), todas verificadas con SHA-256.
 
-- Subidas: 000, 001, 002, 003, 005, 006, 007, 008, 009, 010, 011, 012, 013, 014, 015,
-  016, 017, 018, 019, 020, 021, 022, 023, 024.
-- **Falta solo la 004.**
-- La 004 llegó el 18 nov 2026 pero DAÑADA: pesaba 42.904.388 bytes en vez de 24.117.248,
-  porque algún paso la trató como texto y cambió unos 9,6 millones de bytes por el carácter
-  de reemplazo "�". No se puede reparar: hay que volver a pedirla tal cual (archivo binario,
-  sin convertir). No se subió. La buena debe pesar 24.117.248 bytes y dar SHA-256
-  `6a384ee9a9f6ec802c2dd3de77d654cdb6ba8fd8c59eeecd93f63c5f58a877c4`. Truco que funcionó con la 022:
-  mandarla con extensión `.bin` y renombrarla al subir.
-
-Hasta que estén las 25, el ZIP completo no se puede unir ni dar el SHA-256
-`ece22a3db12a09f2276792c847a45bf748625a04453451b37065c9c7403b966b`.
+- El 18 nov 2026 se unieron las 25 partes. El ZIP resultante pesa 593.686.622 bytes y da SHA-256
+  `ece22a3db12a09f2276792c847a45bf748625a04453451b37065c9c7403b966b`, que coincide con `SHA256SUMS.txt`.
+  `unzip -t` no da errores.
+- Historia de la 004: la primera copia llegó dañada (42.904.388 bytes, convertida como texto)
+  y no se subió. La buena llegó comprimida con gzip (`.bin.gz`), y tras descomprimirla pesa
+  24.117.248 bytes con el SHA-256 correcto. Para pasar binarios por el chat funciona mandarlos
+  como `.bin` o `.bin.gz`.
 
 ### Revisión de los EXR (18 nov 2026)
 
-Las entradas que caen enteras dentro de las partes presentes se sacaron sin unir el ZIP,
-y se comprobó su CRC32 del ZIP. Se abrieron con OpenEXR: 4096 × 2048, compresión PIZ y
-valores HDR reales. Ninguna da problemas.
-
-- OK (11 de 12): `campo_sol_01_noon_grass`, `campo_sol_02_sunflowers`,
-  `campo_nublado_01_farmland_overcast`, `campo_nublado_02_belfast_open_field`,
-  `amanecer_campo_01_spruit_sunrise`, `amanecer_campo_02_bloem_field_sunrise`,
-  `atardecer_campo_01_farm_sunset`, `atardecer_campo_02_straw_rolls_field_01`, `ciudad_dia_01_wide_street_01`, `granero_interior_01_hayloft`,
-  `noche_luna_01_moonlit_golf`. También `LEEME.txt`.
-- Sin revisar: `campo_sol_03_hay_bales` (partes 001-005, necesita la 004).
-- El índice del ZIP (al final de la 024) está bien y lista las 13 entradas: `LEEME.txt` y los 12 EXR.
+Se descomprimió el ZIP en una carpeta vacía y se abrieron los 12 EXR con OpenEXR. Los 12 miden
+4096 × 2048, usan compresión PIZ, tienen valores HDR reales y ningún píxel roto. Sus tamaños
+coinciden con `LEEME.txt`. Todos están bien.
 
 Ojo: `atardecer_campo_01_farm_sunset_4k.exr` pesa 96.947.614 bytes, más de 90 MB. Si algún día
 se sube suelto (fuera del ZIP), tiene que ir partido en la rama `pesados`.
