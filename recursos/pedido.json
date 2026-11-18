@@ -1,9 +1,17 @@
 {
- "informe": "informe_caballo_appaloosa.json",
- "objaverse": [
-  {"uid": "6d0f9c1ce82f41048a282b6c47a50684", "nombre": "caballo_horse_maxdesign3d"}
+ "informe": "informe_corral_caballo.json",
+ "polyhaven": [
+  {"id": "dense_sand", "res": "2k"},
+  {"id": "farm_soil", "res": "2k"},
+  {"id": "baseball_playground", "res": "2k"},
+  {"id": "aerial_beach_03", "res": "2k"},
+  {"id": "dry_ground_01", "res": "2k"},
+  {"id": "brown_planks_03", "res": "2k"},
+  {"id": "bark_willow_02", "res": "2k"},
+  {"id": "grass_ground", "res": "2k"}
  ],
  "sketchfab_buscar": [
-  {"clave": "caballo_maxdesign", "q": "horse MAXDESIGN-3D", "max": 6}
+  {"clave": "corral_cerca_rancho", "q": "ranch wooden rail fence", "max": 12, "solo_objaverse": true},
+  {"clave": "corral_bebedero", "q": "horse water trough", "max": 8, "solo_objaverse": true}
  ]
 }
