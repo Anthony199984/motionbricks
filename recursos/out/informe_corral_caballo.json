@@ -1,0 +1,227 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/corral_bebedero/fca6f609b0474982b885bcc796a2ebee.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "texturas/dense_sand/dense_sand_Diffuse_2k.jpg",
+   "mb": 2.67
+  },
+  {
+   "destino": "texturas/dense_sand/dense_sand_nor_gl_2k.jpg",
+   "mb": 3.74
+  },
+  {
+   "destino": "texturas/dense_sand/dense_sand_Rough_2k.jpg",
+   "mb": 1.84
+  },
+  {
+   "destino": "texturas/dense_sand/dense_sand_AO_2k.jpg",
+   "mb": 2.3
+  },
+  {
+   "destino": "texturas/dense_sand/dense_sand_Displacement_2k.jpg",
+   "mb": 0.83
+  },
+  {
+   "destino": "texturas/dense_sand/dense_sand_arm_2k.jpg",
+   "mb": 2.56
+  },
+  {
+   "destino": "texturas/baseball_playground/baseball_playground_Diffuse_2k.jpg",
+   "mb": 2.64
+  },
+  {
+   "destino": "texturas/baseball_playground/baseball_playground_nor_gl_2k.jpg",
+   "mb": 4.11
+  },
+  {
+   "destino": "texturas/baseball_playground/baseball_playground_Rough_2k.jpg",
+   "mb": 3.02
+  },
+  {
+   "destino": "texturas/baseball_playground/baseball_playground_AO_2k.jpg",
+   "mb": 2.1
+  },
+  {
+   "destino": "texturas/baseball_playground/baseball_playground_Displacement_2k.jpg",
+   "mb": 1.69
+  },
+  {
+   "destino": "texturas/baseball_playground/baseball_playground_arm_2k.jpg",
+   "mb": 3.41
+  },
+  {
+   "destino": "texturas/aerial_beach_03/aerial_beach_03_Diffuse_2k.jpg",
+   "mb": 0.87
+  },
+  {
+   "destino": "texturas/aerial_beach_03/aerial_beach_03_nor_gl_2k.jpg",
+   "mb": 0.94
+  },
+  {
+   "destino": "texturas/aerial_beach_03/aerial_beach_03_Rough_2k.jpg",
+   "mb": 0.96
+  },
+  {
+   "destino": "texturas/aerial_beach_03/aerial_beach_03_AO_2k.jpg",
+   "mb": 0.54
+  },
+  {
+   "destino": "texturas/aerial_beach_03/aerial_beach_03_Displacement_2k.jpg",
+   "mb": 0.27
+  },
+  {
+   "destino": "texturas/aerial_beach_03/aerial_beach_03_arm_2k.jpg",
+   "mb": 0.87
+  },
+  {
+   "destino": "texturas/dry_ground_01/dry_ground_01_Diffuse_2k.jpg",
+   "mb": 2.42
+  },
+  {
+   "destino": "texturas/dry_ground_01/dry_ground_01_nor_gl_2k.jpg",
+   "mb": 1.03
+  },
+  {
+   "destino": "texturas/dry_ground_01/dry_ground_01_Rough_2k.jpg",
+   "mb": 1.39
+  },
+  {
+   "destino": "texturas/dry_ground_01/dry_ground_01_AO_2k.jpg",
+   "mb": 1.92
+  },
+  {
+   "destino": "texturas/dry_ground_01/dry_ground_01_Displacement_2k.jpg",
+   "mb": 0.45
+  },
+  {
+   "destino": "texturas/dry_ground_01/dry_ground_01_arm_2k.jpg",
+   "mb": 0.76
+  },
+  {
+   "destino": "texturas/brown_planks_03/brown_planks_03_Diffuse_2k.jpg",
+   "mb": 2.3
+  },
+  {
+   "destino": "texturas/brown_planks_03/brown_planks_03_nor_gl_2k.jpg",
+   "mb": 2.31
+  },
+  {
+   "destino": "texturas/brown_planks_03/brown_planks_03_Rough_2k.jpg",
+   "mb": 0.97
+  },
+  {
+   "destino": "texturas/brown_planks_03/brown_planks_03_AO_2k.jpg",
+   "mb": 1.53
+  },
+  {
+   "destino": "texturas/brown_planks_03/brown_planks_03_Displacement_2k.jpg",
+   "mb": 0.3
+  },
+  {
+   "destino": "texturas/brown_planks_03/brown_planks_03_arm_2k.jpg",
+   "mb": 0.57
+  },
+  {
+   "destino": "texturas/bark_willow_02/bark_willow_02_Diffuse_2k.jpg",
+   "mb": 3.82
+  },
+  {
+   "destino": "texturas/bark_willow_02/bark_willow_02_nor_gl_2k.jpg",
+   "mb": 4.97
+  },
+  {
+   "destino": "texturas/bark_willow_02/bark_willow_02_Rough_2k.jpg",
+   "mb": 2.07
+  },
+  {
+   "destino": "texturas/bark_willow_02/bark_willow_02_AO_2k.jpg",
+   "mb": 3.48
+  },
+  {
+   "destino": "texturas/bark_willow_02/bark_willow_02_Displacement_2k.jpg",
+   "mb": 1.56
+  },
+  {
+   "destino": "texturas/bark_willow_02/bark_willow_02_arm_2k.jpg",
+   "mb": 3.5
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "corral_cerca_rancho": [],
+  "corral_bebedero": [
+   {
+    "uid": "fca6f609b0474982b885bcc796a2ebee",
+    "nombre": "Wild West Scene: Horse Water Trough",
+    "autor": "MisterWolf",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 234,
+    "url": "https://sketchfab.com/3d-models/none-fca6f609b0474982b885bcc796a2ebee",
+    "miniatura": "miniaturas/corral_bebedero/fca6f609b0474982b885bcc796a2ebee.jpg"
+   }
+  ]
+ },
+ "info": {
+  "dense_sand": {
+   "nombre": "Dense Sand",
+   "autores": {
+    "Dimitrios Savva": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "farm_soil": {
+   "nombre": "Farm Soil",
+   "autores": {
+    "Amal Kumar": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "baseball_playground": {
+   "nombre": "Baseball Playground",
+   "autores": {
+    "Guillaume Monsergent": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "aerial_beach_03": {
+   "nombre": "Aerial Beach 03",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "dry_ground_01": {
+   "nombre": "Dry Ground 01",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "brown_planks_03": {
+   "nombre": "Brown Planks 03",
+   "autores": {
+    "Rob Tuytel": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "bark_willow_02": {
+   "nombre": "Bark Willow 02",
+   "autores": {
+    "Charlotte Baglioni": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  },
+  "grass_ground": {
+   "nombre": "Grass Ground",
+   "autores": {
+    "Charlotte Baglioni": "All"
+   },
+   "licencia": "CC0 (Poly Haven)"
+  }
+ }
+}
