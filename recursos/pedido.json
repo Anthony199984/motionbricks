@@ -1,15 +1,25 @@
 {
- "informe": "informe_corral_arboles.json",
- "sketchfab_buscar": [
-  {"clave": "cm_arbol_realista", "q": "realistic tree", "max": 24, "solo_objaverse": true},
-  {"clave": "cm_roble", "q": "oak tree realistic", "max": 16, "solo_objaverse": true},
-  {"clave": "cm_mango", "q": "mango tree", "max": 12, "solo_objaverse": true},
-  {"clave": "cm_palma", "q": "palm tree realistic", "max": 12, "solo_objaverse": true},
-  {"clave": "cm_arbusto", "q": "realistic bush", "max": 12, "solo_objaverse": true},
-  {"clave": "cm_bebedero", "q": "water trough", "max": 12, "solo_objaverse": true},
-  {"clave": "cm_silla_montar", "q": "saddle", "max": 12, "solo_objaverse": true},
-  {"clave": "cm_carretilla", "q": "wheelbarrow", "max": 8, "solo_objaverse": true},
-  {"clave": "cm_heno", "q": "hay bale", "max": 8, "solo_objaverse": true},
-  {"clave": "cm_caballo_fondo", "q": "horse realistic", "max": 12, "solo_objaverse": true}
+ "informe": "informe_corral_bajar.json",
+ "objaverse": [
+  {
+   "uid": "b5b506fc4f5d4af9b546283bdf0c6a15",
+   "nombre": "cm_arboles_mas"
+  },
+  {
+   "uid": "08b4a9eac77a40419fd59402cc7b2deb",
+   "nombre": "cm_arboles_dos"
+  },
+  {
+   "uid": "4b186052228d43d8b3fbb63213677de8",
+   "nombre": "cm_arbol_mango"
+  },
+  {
+   "uid": "8bde6991ce9a4be5994499df9aa0dc89",
+   "nombre": "cm_silla_montar"
+  },
+  {
+   "uid": "2be2971dbfa742c292bfff11451d5bb8",
+   "nombre": "cm_carretilla_oxidada"
+  }
  ]
 }
