@@ -1,0 +1,87 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/vo_carton/ee157fd35da1456abb353a1df0c2b94a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vo_carton2/daf27814324e4c299d3467d3263b74bb.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_carton2/7b257243942d4cefbe3158ad8e92ad56.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_carton2/e2e92612fd1449888305f157eb71b904.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "objaverse/vo_spray_rojo.glb",
+   "mb": 0.58
+  },
+  {
+   "destino": "objaverse/vo_spray_gastados.glb",
+   "mb": 1.88
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "vo_carton": [
+   {
+    "uid": "ee157fd35da1456abb353a1df0c2b94a",
+    "nombre": "Vinyl Flooring Installation In Situ",
+    "autor": "aaronopenshaw",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 28640,
+    "url": "https://sketchfab.com/3d-models/none-ee157fd35da1456abb353a1df0c2b94a",
+    "miniatura": "miniaturas/vo_carton/ee157fd35da1456abb353a1df0c2b94a.jpg"
+   }
+  ],
+  "vo_carton2": [
+   {
+    "uid": "daf27814324e4c299d3467d3263b74bb",
+    "nombre": "Grand Adventure",
+    "autor": "Spacyy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15178,
+    "url": "https://sketchfab.com/3d-models/none-daf27814324e4c299d3467d3263b74bb",
+    "miniatura": "miniaturas/vo_carton2/daf27814324e4c299d3467d3263b74bb.jpg"
+   },
+   {
+    "uid": "7b257243942d4cefbe3158ad8e92ad56",
+    "nombre": "Mum",
+    "autor": "Benjy_J2",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 82288,
+    "url": "https://sketchfab.com/3d-models/none-7b257243942d4cefbe3158ad8e92ad56",
+    "miniatura": "miniaturas/vo_carton2/7b257243942d4cefbe3158ad8e92ad56.jpg"
+   },
+   {
+    "uid": "e2e92612fd1449888305f157eb71b904",
+    "nombre": "Cardboard pieces",
+    "autor": "shadowdraak",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 720,
+    "url": "https://sketchfab.com/3d-models/none-e2e92612fd1449888305f157eb71b904",
+    "miniatura": "miniaturas/vo_carton2/e2e92612fd1449888305f157eb71b904.jpg"
+   }
+  ],
+  "vo_carton3": []
+ },
+ "objaverse": {
+  "vo_spray_rojo": {
+   "uid": "9b7422a20f7d448b887585f59bbc9773",
+   "nombre": "vo_spray_rojo"
+  },
+  "vo_spray_gastados": {
+   "uid": "fb9f0d35f9e14ba3874b0233899ba3f5",
+   "nombre": "vo_spray_gastados"
+  }
+ }
+}
