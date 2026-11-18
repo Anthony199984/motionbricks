@@ -1,17 +1,15 @@
 {
- "informe": "informe_corral_caballo.json",
- "polyhaven": [
-  {"id": "dense_sand", "res": "2k"},
-  {"id": "farm_soil", "res": "2k"},
-  {"id": "baseball_playground", "res": "2k"},
-  {"id": "aerial_beach_03", "res": "2k"},
-  {"id": "dry_ground_01", "res": "2k"},
-  {"id": "brown_planks_03", "res": "2k"},
-  {"id": "bark_willow_02", "res": "2k"},
-  {"id": "grass_ground", "res": "2k"}
- ],
+ "informe": "informe_corral_arboles.json",
  "sketchfab_buscar": [
-  {"clave": "corral_cerca_rancho", "q": "ranch wooden rail fence", "max": 12, "solo_objaverse": true},
-  {"clave": "corral_bebedero", "q": "horse water trough", "max": 8, "solo_objaverse": true}
+  {"clave": "cm_arbol_realista", "q": "realistic tree", "max": 24, "solo_objaverse": true},
+  {"clave": "cm_roble", "q": "oak tree realistic", "max": 16, "solo_objaverse": true},
+  {"clave": "cm_mango", "q": "mango tree", "max": 12, "solo_objaverse": true},
+  {"clave": "cm_palma", "q": "palm tree realistic", "max": 12, "solo_objaverse": true},
+  {"clave": "cm_arbusto", "q": "realistic bush", "max": 12, "solo_objaverse": true},
+  {"clave": "cm_bebedero", "q": "water trough", "max": 12, "solo_objaverse": true},
+  {"clave": "cm_silla_montar", "q": "saddle", "max": 12, "solo_objaverse": true},
+  {"clave": "cm_carretilla", "q": "wheelbarrow", "max": 8, "solo_objaverse": true},
+  {"clave": "cm_heno", "q": "hay bale", "max": 8, "solo_objaverse": true},
+  {"clave": "cm_caballo_fondo", "q": "horse realistic", "max": 12, "solo_objaverse": true}
  ]
 }
