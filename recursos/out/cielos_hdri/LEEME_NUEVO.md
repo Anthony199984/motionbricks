@@ -50,6 +50,22 @@ PARCIAL: hay 16 de 25 partes subidas.
 Hasta que estén las 25, el ZIP no se puede unir. Al subir las que faltan hay que actualizar
 esta sección.
 
+### Revisión hecha con las partes que hay (18 nov 2026)
+
+Las entradas que caen enteras dentro de las partes presentes se sacaron sin unir el ZIP,
+y se comprobó su CRC32 del ZIP. Se abrieron con OpenEXR: 4096 × 2048, compresión PIZ y
+valores HDR reales (el sol llega a 85 000-346 000). Ninguna da problemas.
+
+- OK: `LEEME.txt`, `campo_sol_01_noon_grass`, `campo_sol_02_sunflowers`,
+  `campo_nublado_02_belfast_open_field`, `amanecer_campo_01_spruit_sunrise`,
+  `amanecer_campo_02_bloem_field_sunrise`.
+- Sin revisar (les falta alguna parte): `campo_sol_03_hay_bales` (001-005),
+  `campo_nublado_01_farmland_overcast` (005-008), `atardecer_campo_01_farm_sunset` (016-020) y
+  las entradas que van después: `straw_rolls_field_01`, `wide_street_01`, `hayloft`, `moonlit_golf`.
+
+Ojo: `atardecer_campo_01_farm_sunset_4k.exr` pesa 96.947.614 bytes, más de 90 MB. Si algún día
+se sube suelto (fuera del ZIP), tiene que ir partido en la rama `pesados`.
+
 ## Unir (resumen)
 
 ```
