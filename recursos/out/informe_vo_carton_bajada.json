@@ -1,0 +1,16 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/vo_carton_pedazos.glb",
+   "mb": 1.15
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "vo_carton_pedazos": {
+   "uid": "e2e92612fd1449888305f157eb71b904",
+   "nombre": "vo_carton_pedazos"
+  }
+ }
+}
