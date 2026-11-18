@@ -1,0 +1,49 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/cm_arboles_dos.glb",
+   "mb": 67.58
+  },
+  {
+   "destino": "objaverse/cm_arbol_mango.glb",
+   "mb": 10.47
+  },
+  {
+   "destino": "objaverse/cm_silla_montar.glb",
+   "mb": 6.3
+  },
+  {
+   "destino": "objaverse/cm_carretilla_oxidada.glb",
+   "mb": 4.03
+  }
+ ],
+ "errores": [],
+ "saltados": [
+  {
+   "url": "https://huggingface.co/datasets/allenai/objaverse/resolve/main/glbs/000-140/b5b506fc4f5d4af9b546283bdf0c6a15.glb",
+   "mb": 114.8
+  }
+ ],
+ "objaverse": {
+  "cm_arboles_mas": {
+   "uid": "b5b506fc4f5d4af9b546283bdf0c6a15",
+   "nombre": "cm_arboles_mas"
+  },
+  "cm_arboles_dos": {
+   "uid": "08b4a9eac77a40419fd59402cc7b2deb",
+   "nombre": "cm_arboles_dos"
+  },
+  "cm_arbol_mango": {
+   "uid": "4b186052228d43d8b3fbb63213677de8",
+   "nombre": "cm_arbol_mango"
+  },
+  "cm_silla_montar": {
+   "uid": "8bde6991ce9a4be5994499df9aa0dc89",
+   "nombre": "cm_silla_montar"
+  },
+  "cm_carretilla_oxidada": {
+   "uid": "2be2971dbfa742c292bfff11451d5bb8",
+   "nombre": "cm_carretilla_oxidada"
+  }
+ }
+}
