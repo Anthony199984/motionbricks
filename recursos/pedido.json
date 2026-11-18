@@ -1,11 +1,36 @@
 {
- "informe": "informe_vo_spray_busqueda.json",
- "sketchfab_buscar": [
-  {"clave": "vo_spray_lata", "q": "spray paint can", "max": 24, "paginas": 2, "solo_objaverse": true},
-  {"clave": "vo_spray_aerosol", "q": "aerosol can", "max": 24, "paginas": 2, "solo_objaverse": true}
+ "informe": "informe_vo_spray_bajada.json",
+ "objaverse": [
+  {
+   "uid": "9b7422a20f7d448b887585f59bbc9773",
+   "nombre": "vo_spray_rojo"
+  },
+  {
+   "uid": "fb9f0d35f9e14ba3874b0233899ba3f5",
+   "nombre": "vo_spray_gastados"
+  }
  ],
- "freesound_buscar": [
-  {"clave": "vo_spray_sonido", "q": "spray paint can", "max": 6, "filtro": "duration:[0.5 TO 12] license:\"Creative Commons 0\""},
-  {"clave": "vo_spray_agitar", "q": "spray can shake", "max": 6, "filtro": "duration:[0.3 TO 8] license:\"Creative Commons 0\""}
+ "sketchfab_buscar": [
+  {
+   "clave": "vo_carton",
+   "q": "cardboard sheet",
+   "max": 24,
+   "paginas": 2,
+   "solo_objaverse": true
+  },
+  {
+   "clave": "vo_carton2",
+   "q": "cardboard piece",
+   "max": 24,
+   "paginas": 2,
+   "solo_objaverse": true
+  },
+  {
+   "clave": "vo_carton3",
+   "q": "flattened cardboard box",
+   "max": 24,
+   "paginas": 2,
+   "solo_objaverse": true
+  }
  ]
 }
