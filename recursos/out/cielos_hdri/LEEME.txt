@@ -1,0 +1,205 @@
+LEEME — Cielos HDRI para Antonydfilms
+============================================================
+
+Pack de 12 HDRI en resolución 4K y formato EXR, descargados de Poly Haven
+(https://polyhaven.com). Toda la biblioteca de Poly Haven se publica bajo
+licencia CC0 1.0 (dominio público).
+
+Fecha de preparación: 18 de noviembre de 2026 (America/Santo_Domingo, UTC-4).
+Resolución pedida: 4K (4096 × 2048, equirectangular).
+Formato: OpenEXR (.exr).
+Licencia: CC0 1.0 Universal.
+
+Los archivos se nombran así: <categoria_pedido>_NN_<id_polyhaven>_4k.exr
+
+NOTA SOBRE CRÉDITOS
+------------------------------------------------------------
+Estos HDRI son CC0: puedes usarlos, modificarlos y distribuirlos sin pedir
+permiso y sin atribuir. El crédito es opcional, pero se agradece mencionar
+a Poly Haven (https://polyhaven.com) y a los autores de cada mapa, que se
+indican más abajo.
+
+CÓMO REARMAR EL ZIP (si lo recibiste en partes)
+------------------------------------------------------------
+Si el archivo cielos_hdri_antonydfilms.zip superó los 90 MB, está partido
+en trozos de 90 MB. Consulta el archivo COMO_UNIR.txt que acompaña a las
+partes y verifica las sumas en SHA256SUMS.txt.
+
+1. Noon Grass
+------------------------------------------------------------
+Nombre en Poly Haven: Noon Grass
+ID: noon_grass
+Archivo: campo_sol_01_noon_grass_4k.exr
+Categoría del pedido: Campo o granja de día con sol, cielo azul y pocas nubes
+Enlace: https://polyhaven.com/a/noon_grass
+Descripción breve: Campo abierto de hierba al mediodía, con sol fuerte, cielo azul profundo y sombras nítidas de alto contraste. Luz natural cálida y neutra, cielo despejado.
+Resolución: 4K
+Formato: EXR
+Licencia: CC0
+Autor(es): Greg Zaal
+Tamaño: 22,73 MiB (23.829.350 bytes)
+
+2. Sunflowers
+------------------------------------------------------------
+Nombre en Poly Haven: Sunflowers
+ID: sunflowers
+Archivo: campo_sol_02_sunflowers_4k.exr
+Categoría del pedido: Campo o granja de día con sol, cielo azul y pocas nubes
+Enlace: https://polyhaven.com/a/sunflowers
+Descripción breve: Campo de girasoles junto a una carretera asfaltada al mediodía. Sol brillante, cielo parcialmente nublado (pocas nubes) y luz natural cálida de alto contraste.
+Resolución: 4K
+Formato: EXR
+Licencia: CC0
+Autor(es): Sergej Majboroda
+Tamaño: 21,66 MiB (22.708.531 bytes)
+
+3. Hay Bales
+------------------------------------------------------------
+Nombre en Poly Haven: Hay Bales
+ID: hay_bales
+Archivo: campo_sol_03_hay_bales_4k.exr
+Categoría del pedido: Campo o granja de día con sol, cielo azul y pocas nubes
+Enlace: https://polyhaven.com/a/hay_bales
+Descripción breve: Campo cosechado con pacas de heno al mediodía. Sol brillante, nubes dispersas, luz cálida de alto contraste y sombras bien definidas. Escena claramente agrícola.
+Resolución: 4K
+Formato: EXR
+Licencia: CC0
+Autor(es): Grzegorz Wronkowski
+Tamaño: 79,45 MiB (83.306.193 bytes)
+
+4. Farmland Overcast
+------------------------------------------------------------
+Nombre en Poly Haven: Farmland Overcast
+ID: farmland_overcast
+Archivo: campo_nublado_01_farmland_overcast_4k.exr
+Categoría del pedido: Campo nublado, luz suave
+Enlace: https://polyhaven.com/a/farmland_overcast
+Descripción breve: Tierra de cultivo llana con un sendero de hierba bajo cielo cubierto. Luz suave de mañana/tarde, bajo contraste, tonos fríos y nubes texturizadas. Ideal para iluminación difusa.
+Resolución: 4K
+Formato: EXR
+Licencia: CC0
+Autor(es): Grzegorz Wronkowski
+Tamaño: 80,05 MiB (83.942.916 bytes)
+
+5. Belfast Open Field
+------------------------------------------------------------
+Nombre en Poly Haven: Belfast Open Field
+ID: belfast_open_field
+Archivo: campo_nublado_02_belfast_open_field_4k.exr
+Categoría del pedido: Campo nublado, luz suave
+Enlace: https://polyhaven.com/a/belfast_open_field
+Descripción breve: Campo abierto de hierba con árboles lejanos en una loma suave, cielo cubierto de mañana. Luz natural suave y de bajo contraste, ambiente nublado y uniforme.
+Resolución: 4K
+Formato: EXR
+Licencia: CC0
+Autor(es): Dimitrios Savva (fotografía), Jarod Guest (procesado)
+Tamaño: 80,35 MiB (84.257.378 bytes)
+
+6. Spruit Sunrise
+------------------------------------------------------------
+Nombre en Poly Haven: Spruit Sunrise
+ID: spruit_sunrise
+Archivo: amanecer_campo_01_spruit_sunrise_4k.exr
+Categoría del pedido: Amanecer en el campo
+Enlace: https://polyhaven.com/a/spruit_sunrise
+Descripción breve: Amanecer dorado sobre un campo de hierba, con una ligera niebla matinal, cielo azul despejado y luz nítida de alto contraste. Sol bajo y cálido.
+Resolución: 4K
+Formato: EXR
+Licencia: CC0
+Autor(es): Greg Zaal
+Tamaño: 20,06 MiB (21.031.659 bytes)
+
+7. Bloem Field Sunrise
+------------------------------------------------------------
+Nombre en Poly Haven: Bloem Field Sunrise
+ID: bloem_field_sunrise
+Archivo: amanecer_campo_02_bloem_field_sunrise_4k.exr
+Categoría del pedido: Amanecer en el campo
+Enlace: https://polyhaven.com/a/bloem_field_sunrise
+Descripción breve: Amanecer sobre un campo de hierba con cielo despejado, sol bajo (sun star), luz direccional cálida y contraste medio. Escena rural al aire libre.
+Resolución: 4K
+Formato: EXR
+Licencia: CC0
+Autor(es): Jenelle van Heerden (fotografía), Greg Zaal (procesado)
+Tamaño: 80,45 MiB (84.354.994 bytes)
+
+8. Farm Sunset
+------------------------------------------------------------
+Nombre en Poly Haven: Farm Sunset
+ID: farm_sunset
+Archivo: atardecer_campo_01_farm_sunset_4k.exr
+Categoría del pedido: Atardecer en el campo
+Enlace: https://polyhaven.com/a/farm_sunset
+Descripción breve: Atardecer de invierno sobre un campo de hierba seca y árboles lejanos. Cielo azul fresco, resplandor cálido en el horizonte y luz natural suave de bajo contraste.
+Resolución: 4K
+Formato: EXR
+Licencia: CC0
+Autor(es): Dimitrios Savva (fotografía), Jarod Guest (procesado)
+Tamaño: 92,46 MiB (96.947.614 bytes)
+
+9. Straw Rolls Field 01
+------------------------------------------------------------
+Nombre en Poly Haven: Straw Rolls Field 01
+ID: straw_rolls_field_01
+Archivo: atardecer_campo_02_straw_rolls_field_01_4k.exr
+Categoría del pedido: Atardecer en el campo
+Enlace: https://polyhaven.com/a/straw_rolls_field_01
+Descripción breve: Campo agrícola con rollos de paja al atardecer, junto a una carretera asfaltada. Luz natural suave de bajo contraste, resplandor cálido en el horizonte y cielo parcialmente nublado.
+Resolución: 4K
+Formato: EXR
+Licencia: CC0
+Autor(es): Sergej Majboroda
+Tamaño: 20,11 MiB (21.086.907 bytes)
+
+10. Wide Street 01
+------------------------------------------------------------
+Nombre en Poly Haven: Wide Street 01
+ID: wide_street_01
+Archivo: ciudad_dia_01_wide_street_01_4k.exr
+Categoría del pedido: Ciudad o calle de día
+Enlace: https://polyhaven.com/a/wide_street_01
+Descripción breve: Avenida urbana ancha y soleada al mediodía. Cielo despejado, luz solar direccional fuerte, alto contraste y tonos neutros en el asfalto.
+Resolución: 4K
+Formato: EXR
+Licencia: CC0
+Autor(es): Sergej Majboroda
+Tamaño: 17,49 MiB (18.338.289 bytes)
+
+11. Hayloft
+------------------------------------------------------------
+Nombre en Poly Haven: Hayloft
+ID: hayloft
+Archivo: granero_interior_01_hayloft_4k.exr
+Categoría del pedido: Interior de granero o establo
+Enlace: https://polyhaven.com/a/hayloft
+Descripción breve: Interior de un pajar/desván de granero rústico. El sol del mediodía entra por las paredes de listones y baña el espacio de luz dorada direccional, contraste medio, ambiente polvoriento de madera y heno. Etiquetado en Poly Haven como granero/granja (barn, farm, hay, timber, rafters).
+Resolución: 4K
+Formato: EXR
+Licencia: CC0
+Autor(es): Adrian Kubasa
+Tamaño: 26,02 MiB (27.284.206 bytes)
+
+12. Moonlit Golf
+------------------------------------------------------------
+Nombre en Poly Haven: Moonlit Golf
+ID: moonlit_golf
+Archivo: noche_luna_01_moonlit_golf_4k.exr
+Categoría del pedido: Noche con luna
+Enlace: https://polyhaven.com/a/moonlit_golf
+Descripción breve: Noche despejada en un campo (campo de golf) con luna brillante, estrellas tenues y árboles en silueta. Iluminación natural nocturna fría y de alto contraste, claramente iluminada por la luna.
+Resolución: 4K
+Formato: EXR
+Licencia: CC0
+Autor(es): Greg Zaal
+Tamaño: 25,36 MiB (26.594.019 bytes)
+
+RESUMEN DEL PEDIDO
+------------------------------------------------------------
+Se entrega el total de 12 HDRI pedidos. Existe interior de granero en Poly
+Haven: Hayloft (hayloft), un pajar/desván de granero rústico, categoría
+Agricultural & Farm Buildings, con etiquetas barn, farm, hay, timber y rafters.
+
+Origen: https://polyhaven.com  |  API: https://api.polyhaven.com
+Cada archivo 4K EXR se verificó (tamaño coincidente con la API, MD5 de la API
+y cabecera mágica válida de OpenEXR).
+

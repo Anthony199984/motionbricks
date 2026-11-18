@@ -1,0 +1,108 @@
+CÓMO UNIR LAS PARTES Y VERIFICAR EL ZIP
+=======================================
+
+El archivo cielos_hdri_antonydfilms.zip pesa más de 90 MB. Para poder
+enviarlo por el chat se partió en 25 trozos de 23 MiB (24.117.248 bytes);
+el último (.024) es más pequeño (14.872.670 bytes):
+
+  cielos_hdri_antonydfilms.zip.000
+  cielos_hdri_antonydfilms.zip.001
+  ...
+  cielos_hdri_antonydfilms.zip.024
+
+Las partes son trozos consecutivos del ZIP completo. Hay que unirlas
+EN ESE ORDEN (000, 001, 002... 024) para reconstruir el archivo
+cielos_hdri_antonydfilms.zip. Después puedes descomprimirlo con cualquier
+programa que abra ZIP (Explorador de Windows, 7-Zip, The Unarchiver, unzip).
+
+1) Verificar las partes (recomendado, antes o después de unir)
+--------------------------------------------------------------
+El archivo SHA256SUMS.txt contiene la suma SHA-256 de cada parte y la del
+ZIP completo ya unido.
+
+Linux:
+  sha256sum -c SHA256SUMS.txt
+
+macOS:
+  shasum -a 256 -c SHA256SUMS.txt
+
+Windows (PowerShell), en la carpeta de las partes:
+  Get-Content SHA256SUMS.txt | ForEach-Object {
+    if ($_ -match '^([0-9a-fA-F]+)\s+(.+)$') {
+      $expected = $Matches[1].ToLower()
+      $name = $Matches[2].Trim()
+      if (Test-Path $name) {
+        $actual = (Get-FileHash $name -Algorithm SHA256).Hash.ToLower()
+        if ($actual -eq $expected) { "OK  $name" } else { "FALLO  $name" }
+      } else {
+        "PENDIENTE (aún no está)  $name"
+      }
+    }
+  }
+
+La línea del ZIP completo (cielos_hdri_antonydfilms.zip) solo dará OK
+después de unir las partes.
+
+2) Unir las partes
+------------------
+Linux o macOS (Terminal), en la carpeta donde están las partes:
+
+  cat cielos_hdri_antonydfilms.zip.000 \
+      cielos_hdri_antonydfilms.zip.001 \
+      cielos_hdri_antonydfilms.zip.002 \
+      cielos_hdri_antonydfilms.zip.003 \
+      cielos_hdri_antonydfilms.zip.004 \
+      cielos_hdri_antonydfilms.zip.005 \
+      cielos_hdri_antonydfilms.zip.006 \
+      cielos_hdri_antonydfilms.zip.007 \
+      cielos_hdri_antonydfilms.zip.008 \
+      cielos_hdri_antonydfilms.zip.009 \
+      cielos_hdri_antonydfilms.zip.010 \
+      cielos_hdri_antonydfilms.zip.011 \
+      cielos_hdri_antonydfilms.zip.012 \
+      cielos_hdri_antonydfilms.zip.013 \
+      cielos_hdri_antonydfilms.zip.014 \
+      cielos_hdri_antonydfilms.zip.015 \
+      cielos_hdri_antonydfilms.zip.016 \
+      cielos_hdri_antonydfilms.zip.017 \
+      cielos_hdri_antonydfilms.zip.018 \
+      cielos_hdri_antonydfilms.zip.019 \
+      cielos_hdri_antonydfilms.zip.020 \
+      cielos_hdri_antonydfilms.zip.021 \
+      cielos_hdri_antonydfilms.zip.022 \
+      cielos_hdri_antonydfilms.zip.023 \
+      cielos_hdri_antonydfilms.zip.024 \
+      > cielos_hdri_antonydfilms.zip
+
+Equivalente más corto (el orden numérico se respeta):
+
+  cat cielos_hdri_antonydfilms.zip.[0-9][0-9][0-9] > cielos_hdri_antonydfilms.zip
+
+Windows (Símbolo del sistema, cmd), en la carpeta de las partes:
+
+  copy /b cielos_hdri_antonydfilms.zip.000 + cielos_hdri_antonydfilms.zip.001 + cielos_hdri_antonydfilms.zip.002 + cielos_hdri_antonydfilms.zip.003 + cielos_hdri_antonydfilms.zip.004 + cielos_hdri_antonydfilms.zip.005 + cielos_hdri_antonydfilms.zip.006 + cielos_hdri_antonydfilms.zip.007 + cielos_hdri_antonydfilms.zip.008 + cielos_hdri_antonydfilms.zip.009 + cielos_hdri_antonydfilms.zip.010 + cielos_hdri_antonydfilms.zip.011 + cielos_hdri_antonydfilms.zip.012 + cielos_hdri_antonydfilms.zip.013 + cielos_hdri_antonydfilms.zip.014 + cielos_hdri_antonydfilms.zip.015 + cielos_hdri_antonydfilms.zip.016 + cielos_hdri_antonydfilms.zip.017 + cielos_hdri_antonydfilms.zip.018 + cielos_hdri_antonydfilms.zip.019 + cielos_hdri_antonydfilms.zip.020 + cielos_hdri_antonydfilms.zip.021 + cielos_hdri_antonydfilms.zip.022 + cielos_hdri_antonydfilms.zip.023 + cielos_hdri_antonydfilms.zip.024 cielos_hdri_antonydfilms.zip
+
+Windows (PowerShell):
+
+  cmd /c "copy /b cielos_hdri_antonydfilms.zip.000 + cielos_hdri_antonydfilms.zip.001 + cielos_hdri_antonydfilms.zip.002 + cielos_hdri_antonydfilms.zip.003 + cielos_hdri_antonydfilms.zip.004 + cielos_hdri_antonydfilms.zip.005 + cielos_hdri_antonydfilms.zip.006 + cielos_hdri_antonydfilms.zip.007 + cielos_hdri_antonydfilms.zip.008 + cielos_hdri_antonydfilms.zip.009 + cielos_hdri_antonydfilms.zip.010 + cielos_hdri_antonydfilms.zip.011 + cielos_hdri_antonydfilms.zip.012 + cielos_hdri_antonydfilms.zip.013 + cielos_hdri_antonydfilms.zip.014 + cielos_hdri_antonydfilms.zip.015 + cielos_hdri_antonydfilms.zip.016 + cielos_hdri_antonydfilms.zip.017 + cielos_hdri_antonydfilms.zip.018 + cielos_hdri_antonydfilms.zip.019 + cielos_hdri_antonydfilms.zip.020 + cielos_hdri_antonydfilms.zip.021 + cielos_hdri_antonydfilms.zip.022 + cielos_hdri_antonydfilms.zip.023 + cielos_hdri_antonydfilms.zip.024 cielos_hdri_antonydfilms.zip"
+
+También puedes unirlas con 7-Zip u otro gestor que combine archivos partidos
+por tamaño (no es un ZIP split nativo .z01/.zip; es un corte binario de 23 MiB).
+
+3) Comprobar el ZIP unido
+-------------------------
+La suma SHA-256 del archivo completo debe ser:
+
+  ece22a3db12a09f2276792c847a45bf748625a04453451b37065c9c7403b966b
+
+Tamaño esperado del ZIP completo: 593.686.622 bytes (aprox. 566,2 MiB).
+
+Luego ábrelo o extrae su contenido. Dentro encontrarás:
+
+  LEEME.txt
+  y los 12 archivos .exr
+
+Hay también una copia suelta de LEEME.txt en esta misma carpeta,
+por si quieres leer la lista antes de unir las partes.
+
+No borres las partes hasta haber comprobado que el ZIP unido abre bien.
