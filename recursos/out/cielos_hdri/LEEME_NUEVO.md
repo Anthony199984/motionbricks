@@ -41,11 +41,11 @@ Estos son la versión EXR.
 
 ## Estado de la subida
 
-PARCIAL: hay 22 de 25 partes subidas, todas verificadas con SHA-256.
+PARCIAL: hay 24 de 25 partes subidas, todas verificadas con SHA-256.
 
 - Subidas: 000, 001, 002, 003, 005, 006, 007, 008, 009, 010, 011, 012, 013, 014, 015,
-  016, 017, 018, 019, 020, 021, 022.
-- **Faltan: 004, 023, 024.**
+  016, 017, 018, 019, 020, 021, 022, 023, 024.
+- **Falta solo la 004.**
 - La 004 llegó el 18 nov 2026 pero DAÑADA: pesaba 42.904.388 bytes en vez de 24.117.248,
   porque algún paso la trató como texto y cambió unos 9,6 millones de bytes por el carácter
   de reemplazo "�". No se puede reparar: hay que volver a pedirla tal cual (archivo binario,
@@ -62,12 +62,13 @@ Las entradas que caen enteras dentro de las partes presentes se sacaron sin unir
 y se comprobó su CRC32 del ZIP. Se abrieron con OpenEXR: 4096 × 2048, compresión PIZ y
 valores HDR reales. Ninguna da problemas.
 
-- OK (9 de 12): `campo_sol_01_noon_grass`, `campo_sol_02_sunflowers`,
+- OK (11 de 12): `campo_sol_01_noon_grass`, `campo_sol_02_sunflowers`,
   `campo_nublado_01_farmland_overcast`, `campo_nublado_02_belfast_open_field`,
   `amanecer_campo_01_spruit_sunrise`, `amanecer_campo_02_bloem_field_sunrise`,
-  `atardecer_campo_01_farm_sunset`, `atardecer_campo_02_straw_rolls_field_01`, `ciudad_dia_01_wide_street_01`. También `LEEME.txt`.
-- Sin revisar: `campo_sol_03_hay_bales` (necesita la 004), `granero_interior_01_hayloft`
-  (022-023) y `noche_luna_01_moonlit_golf` (023-024).
+  `atardecer_campo_01_farm_sunset`, `atardecer_campo_02_straw_rolls_field_01`, `ciudad_dia_01_wide_street_01`, `granero_interior_01_hayloft`,
+  `noche_luna_01_moonlit_golf`. También `LEEME.txt`.
+- Sin revisar: `campo_sol_03_hay_bales` (partes 001-005, necesita la 004).
+- El índice del ZIP (al final de la 024) está bien y lista las 13 entradas: `LEEME.txt` y los 12 EXR.
 
 Ojo: `atardecer_campo_01_farm_sunset_4k.exr` pesa 96.947.614 bytes, más de 90 MB. Si algún día
 se sube suelto (fuera del ZIP), tiene que ir partido en la rama `pesados`.
