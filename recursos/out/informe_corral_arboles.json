@@ -1,0 +1,980 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/cm_arbol_realista/07dfe01fb78c441db081646ff4c1d9e0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_arbol_realista/396f8957029e4440ba15efb0fe217d5f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_arbol_realista/1269b7e00f9d4ce09931c0c95967bc33.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_arbol_realista/b5b506fc4f5d4af9b546283bdf0c6a15.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_arbol_realista/49e6306b29c74c679de8cec69473535b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_arbol_realista/580ec212875a44ba95391762929f609c.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_arbol_realista/08b4a9eac77a40419fd59402cc7b2deb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_arbol_realista/ca6179af591c417fb4a124f605b6e63d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_arbol_realista/b968b5dc462148989cb87b072885da85.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_roble/48807f86fd03406aa6b813ca026b0ad1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_roble/5f5bb2305d534283be08f534ece9c9db.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_mango/4b186052228d43d8b3fbb63213677de8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_mango/768aa1a4d15a4c818ca2b0119024ac22.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_mango/10e08d36d61543d7860f3847038d56a1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_mango/81cf81b2b49c4126b2a14d831866d062.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_mango/50fb6f27142b46319bbf53e541d22057.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_palma/aa7cec0f02f2437ebe345478c4c1b3c1.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_arbusto/ce5b14926e494558ab584375a8d63ca7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_arbusto/ca6179af591c417fb4a124f605b6e63d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_arbusto/d1f2ce6f71aa4c19adbdc541cc888194.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_arbusto/adf1e8832cf74a8a94c98792fa1d9088.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_arbusto/ded075151a294ad094b43903ba2f8f59.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_arbusto/d43e3ef7785540e18a69d35c5035499d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_arbusto/edc16e48c93e4e21be90215a863807a9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_arbusto/a7022a082c674171b20590ef6a88d97a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_bebedero/fddb4946ae574427a2d4ccc1fb17e33a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_bebedero/c95508d6f0c3437fbf6f62cd283d8a38.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_bebedero/0062ed8ced2543119511e29683be9bc4.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_bebedero/bbbd160bae044a6485f4989fd387bd12.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_bebedero/39b7c943a60d491385a937bb681b0de9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_bebedero/0616db883cc04acaa0d0f430158e6f67.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_bebedero/d4d794e802a748d28d832cbf45252737.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_bebedero/8a833db75dc1431ab60b1ac1c24b834f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_bebedero/2ce1ab95f2ae446d8e2a26c0cfd4811a.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_bebedero/18b446766b584e368380607330e0bcbf.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_bebedero/03f6f7687ed0406fa307cff4fac89343.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_bebedero/68d3b6588fb445b0958020d61b7185a0.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_silla_montar/d52c56ee37c341e18dc76e259fbae8d5.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_silla_montar/8bde6991ce9a4be5994499df9aa0dc89.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_silla_montar/d53e28018edb4604ad80531804b2a20d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_silla_montar/db03c26108a44bbfbf686e1b7f97eb82.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_silla_montar/527c570af430404ba8458d473db8cc20.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_silla_montar/925413cc7af946d58f62ad81671795be.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_silla_montar/a61e7938eef945f082c4fb430fe855f4.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_silla_montar/903aa88b8eec4c229402a9f1dbe4338d.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_silla_montar/a0773765917748979f8dfd69345fb70c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_carretilla/adf2e5a787804ffcaaa1ad6d541278d5.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_carretilla/e2889f4cb4e64729b00e2cecf1425d30.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_carretilla/de1f6a60d8b04c2586ebcc9d4aedf921.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_carretilla/47288f6859c4445bb787f78e76e64e37.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_carretilla/2be2971dbfa742c292bfff11451d5bb8.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_carretilla/c0dcebcb0d4b47bd98df534334f4caf6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_carretilla/b6b571899d484eb1b0f8798d1ba30d80.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_carretilla/48314bafaffc4593ba1d7a5af31810c6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_heno/9a9f28d0e59a43e49d860912c47b8767.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_heno/6b775049e57e4d9da87977905493ebfb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_heno/7a0701081dd34629893644df0d214caa.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_heno/fc9dbaded6744bc2bf45b005edca3a26.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_heno/16f3d0337ad54e92b186d8a6e8494699.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_heno/2a4b23289b934f9ea0cd3fa6173cd9dd.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_heno/4d3a767e8db5495ba26efa6441499cd7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_heno/de765f660b5c4f3a891f78d6ba1c4ec5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_caballo_fondo/0ed14367314946b298d9a58db66da040.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_caballo_fondo/1497bbc4fed94f87895cc9b922d16691.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_caballo_fondo/49e6306b29c74c679de8cec69473535b.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_caballo_fondo/f0004e373fb346cc81b5a35a22bd4986.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/cm_caballo_fondo/93b53ddcec414592842753d1819f3133.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/cm_caballo_fondo/e3353615593c4b6f9dc6dd27d02e5118.jpg",
+   "mb": 0.01
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "cm_arbol_realista": [
+   {
+    "uid": "07dfe01fb78c441db081646ff4c1d9e0",
+    "nombre": "Lakeside - Exterior Scene",
+    "autor": "aurelien_martel",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 727546,
+    "url": "https://sketchfab.com/3d-models/none-07dfe01fb78c441db081646ff4c1d9e0",
+    "miniatura": "miniaturas/cm_arbol_realista/07dfe01fb78c441db081646ff4c1d9e0.jpg"
+   },
+   {
+    "uid": "396f8957029e4440ba15efb0fe217d5f",
+    "nombre": "Lowpoly Sticks",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 22004,
+    "url": "https://sketchfab.com/3d-models/none-396f8957029e4440ba15efb0fe217d5f",
+    "miniatura": "miniaturas/cm_arbol_realista/396f8957029e4440ba15efb0fe217d5f.jpg"
+   },
+   {
+    "uid": "1269b7e00f9d4ce09931c0c95967bc33",
+    "nombre": "Forest Demo",
+    "autor": "patrix",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 30184,
+    "url": "https://sketchfab.com/3d-models/none-1269b7e00f9d4ce09931c0c95967bc33",
+    "miniatura": "miniaturas/cm_arbol_realista/1269b7e00f9d4ce09931c0c95967bc33.jpg"
+   },
+   {
+    "uid": "b5b506fc4f5d4af9b546283bdf0c6a15",
+    "nombre": "More Realistic Trees Free!",
+    "autor": "Nicholas01",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1376186,
+    "url": "https://sketchfab.com/3d-models/none-b5b506fc4f5d4af9b546283bdf0c6a15",
+    "miniatura": "miniaturas/cm_arbol_realista/b5b506fc4f5d4af9b546283bdf0c6a15.jpg"
+   },
+   {
+    "uid": "49e6306b29c74c679de8cec69473535b",
+    "nombre": "Medieval Modular City Realistic - WIP",
+    "autor": "danielvicente97cesur",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1103088,
+    "url": "https://sketchfab.com/3d-models/none-49e6306b29c74c679de8cec69473535b",
+    "miniatura": "miniaturas/cm_arbol_realista/49e6306b29c74c679de8cec69473535b.jpg"
+   },
+   {
+    "uid": "580ec212875a44ba95391762929f609c",
+    "nombre": "Trees in the park Anthropos",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 283410,
+    "url": "https://sketchfab.com/3d-models/none-580ec212875a44ba95391762929f609c",
+    "miniatura": "miniaturas/cm_arbol_realista/580ec212875a44ba95391762929f609c.jpg"
+   },
+   {
+    "uid": "08b4a9eac77a40419fd59402cc7b2deb",
+    "nombre": "Realistic Trees Pack of 2 Free",
+    "autor": "Nicholas01",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 865704,
+    "url": "https://sketchfab.com/3d-models/none-08b4a9eac77a40419fd59402cc7b2deb",
+    "miniatura": "miniaturas/cm_arbol_realista/08b4a9eac77a40419fd59402cc7b2deb.jpg"
+   },
+   {
+    "uid": "ca6179af591c417fb4a124f605b6e63d",
+    "nombre": "Lowpoly Sticks - Free Download",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3000,
+    "url": "https://sketchfab.com/3d-models/none-ca6179af591c417fb4a124f605b6e63d",
+    "miniatura": "miniaturas/cm_arbol_realista/ca6179af591c417fb4a124f605b6e63d.jpg"
+   },
+   {
+    "uid": "b968b5dc462148989cb87b072885da85",
+    "nombre": "Boubín Stump",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 23581,
+    "url": "https://sketchfab.com/3d-models/none-b968b5dc462148989cb87b072885da85",
+    "miniatura": "miniaturas/cm_arbol_realista/b968b5dc462148989cb87b072885da85.jpg"
+   }
+  ],
+  "cm_roble": [
+   {
+    "uid": "48807f86fd03406aa6b813ca026b0ad1",
+    "nombre": "Large pile of leaves",
+    "autor": "matousekfoto",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 309572,
+    "url": "https://sketchfab.com/3d-models/none-48807f86fd03406aa6b813ca026b0ad1",
+    "miniatura": "miniaturas/cm_roble/48807f86fd03406aa6b813ca026b0ad1.jpg"
+   },
+   {
+    "uid": "5f5bb2305d534283be08f534ece9c9db",
+    "nombre": "Old Oak Stump Obora",
+    "autor": "3dhdscan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 156499,
+    "url": "https://sketchfab.com/3d-models/none-5f5bb2305d534283be08f534ece9c9db",
+    "miniatura": "miniaturas/cm_roble/5f5bb2305d534283be08f534ece9c9db.jpg"
+   }
+  ],
+  "cm_mango": [
+   {
+    "uid": "4b186052228d43d8b3fbb63213677de8",
+    "nombre": "Mango Tree",
+    "autor": "stealth86",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 130451,
+    "url": "https://sketchfab.com/3d-models/none-4b186052228d43d8b3fbb63213677de8",
+    "miniatura": "miniaturas/cm_mango/4b186052228d43d8b3fbb63213677de8.jpg"
+   },
+   {
+    "uid": "768aa1a4d15a4c818ca2b0119024ac22",
+    "nombre": "Trees",
+    "autor": "creativemango",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7355,
+    "url": "https://sketchfab.com/3d-models/none-768aa1a4d15a4c818ca2b0119024ac22",
+    "miniatura": "miniaturas/cm_mango/768aa1a4d15a4c818ca2b0119024ac22.jpg"
+   },
+   {
+    "uid": "10e08d36d61543d7860f3847038d56a1",
+    "nombre": "Realistic looking Mango Tree",
+    "autor": "nsrossy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 194035,
+    "url": "https://sketchfab.com/3d-models/none-10e08d36d61543d7860f3847038d56a1",
+    "miniatura": "miniaturas/cm_mango/10e08d36d61543d7860f3847038d56a1.jpg"
+   },
+   {
+    "uid": "81cf81b2b49c4126b2a14d831866d062",
+    "nombre": "PBR(Glossiness/Specular) Scanned Tree Trunk",
+    "autor": "pikabobalex",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 296,
+    "url": "https://sketchfab.com/3d-models/none-81cf81b2b49c4126b2a14d831866d062",
+    "miniatura": "miniaturas/cm_mango/81cf81b2b49c4126b2a14d831866d062.jpg"
+   },
+   {
+    "uid": "50fb6f27142b46319bbf53e541d22057",
+    "nombre": "mango tree",
+    "autor": "lukejeff99",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 159522,
+    "url": "https://sketchfab.com/3d-models/none-50fb6f27142b46319bbf53e541d22057",
+    "miniatura": "miniaturas/cm_mango/50fb6f27142b46319bbf53e541d22057.jpg"
+   }
+  ],
+  "cm_palma": [
+   {
+    "uid": "aa7cec0f02f2437ebe345478c4c1b3c1",
+    "nombre": "20th Century Fox Film Corp. (2009-2020)",
+    "autor": "kemari.deric",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 413692,
+    "url": "https://sketchfab.com/3d-models/none-aa7cec0f02f2437ebe345478c4c1b3c1",
+    "miniatura": "miniaturas/cm_palma/aa7cec0f02f2437ebe345478c4c1b3c1.jpg"
+   }
+  ],
+  "cm_arbusto": [
+   {
+    "uid": "ce5b14926e494558ab584375a8d63ca7",
+    "nombre": "Nefertiti's bust (like in the museum)",
+    "autor": "cyamahat",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 100000,
+    "url": "https://sketchfab.com/3d-models/none-ce5b14926e494558ab584375a8d63ca7",
+    "miniatura": "miniaturas/cm_arbusto/ce5b14926e494558ab584375a8d63ca7.jpg"
+   },
+   {
+    "uid": "ca6179af591c417fb4a124f605b6e63d",
+    "nombre": "Lowpoly Sticks - Free Download",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3000,
+    "url": "https://sketchfab.com/3d-models/none-ca6179af591c417fb4a124f605b6e63d",
+    "miniatura": "miniaturas/cm_arbusto/ca6179af591c417fb4a124f605b6e63d.jpg"
+   },
+   {
+    "uid": "d1f2ce6f71aa4c19adbdc541cc888194",
+    "nombre": "Cliff Rock Boulder Field",
+    "autor": "perz_scans",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 122310,
+    "url": "https://sketchfab.com/3d-models/none-d1f2ce6f71aa4c19adbdc541cc888194",
+    "miniatura": "miniaturas/cm_arbusto/d1f2ce6f71aa4c19adbdc541cc888194.jpg"
+   },
+   {
+    "uid": "adf1e8832cf74a8a94c98792fa1d9088",
+    "nombre": "Realistic Beech Fern Plant | Games | Film",
+    "autor": "3d-artist-shop",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 718,
+    "url": "https://sketchfab.com/3d-models/none-adf1e8832cf74a8a94c98792fa1d9088",
+    "miniatura": "miniaturas/cm_arbusto/adf1e8832cf74a8a94c98792fa1d9088.jpg"
+   },
+   {
+    "uid": "ded075151a294ad094b43903ba2f8f59",
+    "nombre": "That's one big pile of stick",
+    "autor": "norgeotloic",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 314462,
+    "url": "https://sketchfab.com/3d-models/none-ded075151a294ad094b43903ba2f8f59",
+    "miniatura": "miniaturas/cm_arbusto/ded075151a294ad094b43903ba2f8f59.jpg"
+   },
+   {
+    "uid": "d43e3ef7785540e18a69d35c5035499d",
+    "nombre": "3D Bush - 01",
+    "autor": "SanForge",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 539134,
+    "url": "https://sketchfab.com/3d-models/none-d43e3ef7785540e18a69d35c5035499d",
+    "miniatura": "miniaturas/cm_arbusto/d43e3ef7785540e18a69d35c5035499d.jpg"
+   },
+   {
+    "uid": "edc16e48c93e4e21be90215a863807a9",
+    "nombre": "Low Poly Seasonal Foliage and Rock Pack",
+    "autor": "glowbox3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 87786,
+    "url": "https://sketchfab.com/3d-models/none-edc16e48c93e4e21be90215a863807a9",
+    "miniatura": "miniaturas/cm_arbusto/edc16e48c93e4e21be90215a863807a9.jpg"
+   },
+   {
+    "uid": "a7022a082c674171b20590ef6a88d97a",
+    "nombre": "001 Bush lowpoly",
+    "autor": "juhyt80",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 8000,
+    "url": "https://sketchfab.com/3d-models/none-a7022a082c674171b20590ef6a88d97a",
+    "miniatura": "miniaturas/cm_arbusto/a7022a082c674171b20590ef6a88d97a.jpg"
+   }
+  ],
+  "cm_bebedero": [
+   {
+    "uid": "fddb4946ae574427a2d4ccc1fb17e33a",
+    "nombre": "Anvil, Water Bucket And Water Trough",
+    "autor": "RBG_illustrations",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2042,
+    "url": "https://sketchfab.com/3d-models/none-fddb4946ae574427a2d4ccc1fb17e33a",
+    "miniatura": "miniaturas/cm_bebedero/fddb4946ae574427a2d4ccc1fb17e33a.jpg"
+   },
+   {
+    "uid": "c95508d6f0c3437fbf6f62cd283d8a38",
+    "nombre": "Ruined walls (of a watermill)",
+    "autor": "seniowa",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 843829,
+    "url": "https://sketchfab.com/3d-models/none-c95508d6f0c3437fbf6f62cd283d8a38",
+    "miniatura": "miniaturas/cm_bebedero/c95508d6f0c3437fbf6f62cd283d8a38.jpg"
+   },
+   {
+    "uid": "0062ed8ced2543119511e29683be9bc4",
+    "nombre": "Water Pump [Resident Evil 4]",
+    "autor": "vlad.neko",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 256,
+    "url": "https://sketchfab.com/3d-models/none-0062ed8ced2543119511e29683be9bc4",
+    "miniatura": "miniaturas/cm_bebedero/0062ed8ced2543119511e29683be9bc4.jpg"
+   },
+   {
+    "uid": "bbbd160bae044a6485f4989fd387bd12",
+    "nombre": "Blacksmith set",
+    "autor": "EJun_95",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 15490,
+    "url": "https://sketchfab.com/3d-models/none-bbbd160bae044a6485f4989fd387bd12",
+    "miniatura": "miniaturas/cm_bebedero/bbbd160bae044a6485f4989fd387bd12.jpg"
+   },
+   {
+    "uid": "39b7c943a60d491385a937bb681b0de9",
+    "nombre": "Drainage grate",
+    "autor": "mitkrakow",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 99998,
+    "url": "https://sketchfab.com/3d-models/none-39b7c943a60d491385a937bb681b0de9",
+    "miniatura": "miniaturas/cm_bebedero/39b7c943a60d491385a937bb681b0de9.jpg"
+   },
+   {
+    "uid": "0616db883cc04acaa0d0f430158e6f67",
+    "nombre": "Cattle Trough Hyde Park Albert Gate",
+    "autor": "artfletch",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 962204,
+    "url": "https://sketchfab.com/3d-models/none-0616db883cc04acaa0d0f430158e6f67",
+    "miniatura": "miniaturas/cm_bebedero/0616db883cc04acaa0d0f430158e6f67.jpg"
+   },
+   {
+    "uid": "d4d794e802a748d28d832cbf45252737",
+    "nombre": "Saddlescombe Water trough",
+    "autor": "kingsdigitallab",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1976089,
+    "url": "https://sketchfab.com/3d-models/none-d4d794e802a748d28d832cbf45252737",
+    "miniatura": "miniaturas/cm_bebedero/d4d794e802a748d28d832cbf45252737.jpg"
+   },
+   {
+    "uid": "8a833db75dc1431ab60b1ac1c24b834f",
+    "nombre": "Cattle Trough Canada Water",
+    "autor": "artfletch",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1999162,
+    "url": "https://sketchfab.com/3d-models/none-8a833db75dc1431ab60b1ac1c24b834f",
+    "miniatura": "miniaturas/cm_bebedero/8a833db75dc1431ab60b1ac1c24b834f.jpg"
+   },
+   {
+    "uid": "2ce1ab95f2ae446d8e2a26c0cfd4811a",
+    "nombre": "19th Century Water Trough on Dartmoor",
+    "autor": "artfletch",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1743514,
+    "url": "https://sketchfab.com/3d-models/none-2ce1ab95f2ae446d8e2a26c0cfd4811a",
+    "miniatura": "miniaturas/cm_bebedero/2ce1ab95f2ae446d8e2a26c0cfd4811a.jpg"
+   },
+   {
+    "uid": "18b446766b584e368380607330e0bcbf",
+    "nombre": "Meur Burnt Mound, Sanday",
+    "autor": "jamesrmacivor",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 195157,
+    "url": "https://sketchfab.com/3d-models/none-18b446766b584e368380607330e0bcbf",
+    "miniatura": "miniaturas/cm_bebedero/18b446766b584e368380607330e0bcbf.jpg"
+   },
+   {
+    "uid": "03f6f7687ed0406fa307cff4fac89343",
+    "nombre": "Chyandour Square water trough",
+    "autor": "cismas",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 500000,
+    "url": "https://sketchfab.com/3d-models/none-03f6f7687ed0406fa307cff4fac89343",
+    "miniatura": "miniaturas/cm_bebedero/03f6f7687ed0406fa307cff4fac89343.jpg"
+   },
+   {
+    "uid": "68d3b6588fb445b0958020d61b7185a0",
+    "nombre": "31: water trough2",
+    "autor": "macdo219",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 149093,
+    "url": "https://sketchfab.com/3d-models/none-68d3b6588fb445b0958020d61b7185a0",
+    "miniatura": "miniaturas/cm_bebedero/68d3b6588fb445b0958020d61b7185a0.jpg"
+   }
+  ],
+  "cm_silla_montar": [
+   {
+    "uid": "d52c56ee37c341e18dc76e259fbae8d5",
+    "nombre": "Saddle Mountain",
+    "autor": "TLTPhotography",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-d52c56ee37c341e18dc76e259fbae8d5",
+    "miniatura": "miniaturas/cm_silla_montar/d52c56ee37c341e18dc76e259fbae8d5.jpg"
+   },
+   {
+    "uid": "8bde6991ce9a4be5994499df9aa0dc89",
+    "nombre": "Western Horse Saddle",
+    "autor": "sirenorseraph",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 70002,
+    "url": "https://sketchfab.com/3d-models/none-8bde6991ce9a4be5994499df9aa0dc89",
+    "miniatura": "miniaturas/cm_silla_montar/8bde6991ce9a4be5994499df9aa0dc89.jpg"
+   },
+   {
+    "uid": "d53e28018edb4604ad80531804b2a20d",
+    "nombre": "Hussar on horseback",
+    "autor": "WirtualneMuzeaMalopolski",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 412947,
+    "url": "https://sketchfab.com/3d-models/none-d53e28018edb4604ad80531804b2a20d",
+    "miniatura": "miniaturas/cm_silla_montar/d53e28018edb4604ad80531804b2a20d.jpg"
+   },
+   {
+    "uid": "db03c26108a44bbfbf686e1b7f97eb82",
+    "nombre": "Warrior on horseback -  free - 3d-printable",
+    "autor": "Andywoodhead",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1510866,
+    "url": "https://sketchfab.com/3d-models/none-db03c26108a44bbfbf686e1b7f97eb82",
+    "miniatura": "miniaturas/cm_silla_montar/db03c26108a44bbfbf686e1b7f97eb82.jpg"
+   },
+   {
+    "uid": "527c570af430404ba8458d473db8cc20",
+    "nombre": "Free to use - Low Poly Horse",
+    "autor": "chi3dmodel",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7664,
+    "url": "https://sketchfab.com/3d-models/none-527c570af430404ba8458d473db8cc20",
+    "miniatura": "miniaturas/cm_silla_montar/527c570af430404ba8458d473db8cc20.jpg"
+   },
+   {
+    "uid": "925413cc7af946d58f62ad81671795be",
+    "nombre": "Black Panther Mount",
+    "autor": "organizationx",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 34940,
+    "url": "https://sketchfab.com/3d-models/none-925413cc7af946d58f62ad81671795be",
+    "miniatura": "miniaturas/cm_silla_montar/925413cc7af946d58f62ad81671795be.jpg"
+   },
+   {
+    "uid": "a61e7938eef945f082c4fb430fe855f4",
+    "nombre": "Tuareg saddle",
+    "autor": "WirtualneMuzeaMalopolski",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 3857127,
+    "url": "https://sketchfab.com/3d-models/none-a61e7938eef945f082c4fb430fe855f4",
+    "miniatura": "miniaturas/cm_silla_montar/a61e7938eef945f082c4fb430fe855f4.jpg"
+   },
+   {
+    "uid": "903aa88b8eec4c229402a9f1dbe4338d",
+    "nombre": "The Stampede Elm Tree, Calgary, Alberta",
+    "autor": "nanook434",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 0,
+    "url": "https://sketchfab.com/3d-models/none-903aa88b8eec4c229402a9f1dbe4338d",
+    "miniatura": "miniaturas/cm_silla_montar/903aa88b8eec4c229402a9f1dbe4338d.jpg"
+   },
+   {
+    "uid": "a0773765917748979f8dfd69345fb70c",
+    "nombre": "saddle of Red Hare",
+    "autor": "lktung611",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 31258,
+    "url": "https://sketchfab.com/3d-models/none-a0773765917748979f8dfd69345fb70c",
+    "miniatura": "miniaturas/cm_silla_montar/a0773765917748979f8dfd69345fb70c.jpg"
+   }
+  ],
+  "cm_carretilla": [
+   {
+    "uid": "adf2e5a787804ffcaaa1ad6d541278d5",
+    "nombre": "Village / Town Assets",
+    "autor": "imwolfgang",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 473769,
+    "url": "https://sketchfab.com/3d-models/none-adf2e5a787804ffcaaa1ad6d541278d5",
+    "miniatura": "miniaturas/cm_carretilla/adf2e5a787804ffcaaa1ad6d541278d5.jpg"
+   },
+   {
+    "uid": "e2889f4cb4e64729b00e2cecf1425d30",
+    "nombre": "Stylized medieval cart with a lamp",
+    "autor": "3D_Kod",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 46794,
+    "url": "https://sketchfab.com/3d-models/none-e2889f4cb4e64729b00e2cecf1425d30",
+    "miniatura": "miniaturas/cm_carretilla/e2889f4cb4e64729b00e2cecf1425d30.jpg"
+   },
+   {
+    "uid": "de1f6a60d8b04c2586ebcc9d4aedf921",
+    "nombre": "Stylized medieval cart with a lamp",
+    "autor": "3D_Kod",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18178,
+    "url": "https://sketchfab.com/3d-models/none-de1f6a60d8b04c2586ebcc9d4aedf921",
+    "miniatura": "miniaturas/cm_carretilla/de1f6a60d8b04c2586ebcc9d4aedf921.jpg"
+   },
+   {
+    "uid": "47288f6859c4445bb787f78e76e64e37",
+    "nombre": "Stylized medieval cart with a lamp and hay",
+    "autor": "3D_Kod",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 18392,
+    "url": "https://sketchfab.com/3d-models/none-47288f6859c4445bb787f78e76e64e37",
+    "miniatura": "miniaturas/cm_carretilla/47288f6859c4445bb787f78e76e64e37.jpg"
+   },
+   {
+    "uid": "2be2971dbfa742c292bfff11451d5bb8",
+    "nombre": "Rusty Wheelbarrow",
+    "autor": "MrM0lten",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4628,
+    "url": "https://sketchfab.com/3d-models/none-2be2971dbfa742c292bfff11451d5bb8",
+    "miniatura": "miniaturas/cm_carretilla/2be2971dbfa742c292bfff11451d5bb8.jpg"
+   },
+   {
+    "uid": "c0dcebcb0d4b47bd98df534334f4caf6",
+    "nombre": "Wheelbarrow",
+    "autor": "i.aleksey.yakovlev",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7224,
+    "url": "https://sketchfab.com/3d-models/none-c0dcebcb0d4b47bd98df534334f4caf6",
+    "miniatura": "miniaturas/cm_carretilla/c0dcebcb0d4b47bd98df534334f4caf6.jpg"
+   },
+   {
+    "uid": "b6b571899d484eb1b0f8798d1ba30d80",
+    "nombre": "Wheelbarrow",
+    "autor": "Peter.Nox",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2252,
+    "url": "https://sketchfab.com/3d-models/none-b6b571899d484eb1b0f8798d1ba30d80",
+    "miniatura": "miniaturas/cm_carretilla/b6b571899d484eb1b0f8798d1ba30d80.jpg"
+   },
+   {
+    "uid": "48314bafaffc4593ba1d7a5af31810c6",
+    "nombre": "Wooden Wheelbarrow",
+    "autor": "Peter.Nox",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1492,
+    "url": "https://sketchfab.com/3d-models/none-48314bafaffc4593ba1d7a5af31810c6",
+    "miniatura": "miniaturas/cm_carretilla/48314bafaffc4593ba1d7a5af31810c6.jpg"
+   }
+  ],
+  "cm_heno": [
+   {
+    "uid": "9a9f28d0e59a43e49d860912c47b8767",
+    "nombre": "Hay bales",
+    "autor": "abby",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 332897,
+    "url": "https://sketchfab.com/3d-models/none-9a9f28d0e59a43e49d860912c47b8767",
+    "miniatura": "miniaturas/cm_heno/9a9f28d0e59a43e49d860912c47b8767.jpg"
+   },
+   {
+    "uid": "6b775049e57e4d9da87977905493ebfb",
+    "nombre": "Hay Bales",
+    "autor": "FrodoUndead",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 3272,
+    "url": "https://sketchfab.com/3d-models/none-6b775049e57e4d9da87977905493ebfb",
+    "miniatura": "miniaturas/cm_heno/6b775049e57e4d9da87977905493ebfb.jpg"
+   },
+   {
+    "uid": "7a0701081dd34629893644df0d214caa",
+    "nombre": "Hay Axe (free - photoscan - game ready)",
+    "autor": "FrenchBaguette",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1600,
+    "url": "https://sketchfab.com/3d-models/none-7a0701081dd34629893644df0d214caa",
+    "miniatura": "miniaturas/cm_heno/7a0701081dd34629893644df0d214caa.jpg"
+   },
+   {
+    "uid": "fc9dbaded6744bc2bf45b005edca3a26",
+    "nombre": "Hay Golem",
+    "autor": "Equietum",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 132,
+    "url": "https://sketchfab.com/3d-models/none-fc9dbaded6744bc2bf45b005edca3a26",
+    "miniatura": "miniaturas/cm_heno/fc9dbaded6744bc2bf45b005edca3a26.jpg"
+   },
+   {
+    "uid": "16f3d0337ad54e92b186d8a6e8494699",
+    "nombre": "Hay Bale",
+    "autor": "ThomasWhalley",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1636,
+    "url": "https://sketchfab.com/3d-models/none-16f3d0337ad54e92b186d8a6e8494699",
+    "miniatura": "miniaturas/cm_heno/16f3d0337ad54e92b186d8a6e8494699.jpg"
+   },
+   {
+    "uid": "2a4b23289b934f9ea0cd3fa6173cd9dd",
+    "nombre": "OCF Youth Stage",
+    "autor": "fldrafting",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 80089,
+    "url": "https://sketchfab.com/3d-models/none-2a4b23289b934f9ea0cd3fa6173cd9dd",
+    "miniatura": "miniaturas/cm_heno/2a4b23289b934f9ea0cd3fa6173cd9dd.jpg"
+   },
+   {
+    "uid": "4d3a767e8db5495ba26efa6441499cd7",
+    "nombre": "hay bale",
+    "autor": "GAIA.",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 492,
+    "url": "https://sketchfab.com/3d-models/none-4d3a767e8db5495ba26efa6441499cd7",
+    "miniatura": "miniaturas/cm_heno/4d3a767e8db5495ba26efa6441499cd7.jpg"
+   },
+   {
+    "uid": "de765f660b5c4f3a891f78d6ba1c4ec5",
+    "nombre": "Hay Bale",
+    "autor": "antoineallardchoquette",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 31856,
+    "url": "https://sketchfab.com/3d-models/none-de765f660b5c4f3a891f78d6ba1c4ec5",
+    "miniatura": "miniaturas/cm_heno/de765f660b5c4f3a891f78d6ba1c4ec5.jpg"
+   }
+  ],
+  "cm_caballo_fondo": [
+   {
+    "uid": "0ed14367314946b298d9a58db66da040",
+    "nombre": "Abandoned | Building | Shop | Old | House",
+    "autor": "yadrogames",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 12792,
+    "url": "https://sketchfab.com/3d-models/none-0ed14367314946b298d9a58db66da040",
+    "miniatura": "miniaturas/cm_caballo_fondo/0ed14367314946b298d9a58db66da040.jpg"
+   },
+   {
+    "uid": "1497bbc4fed94f87895cc9b922d16691",
+    "nombre": "Building - Neo Modular",
+    "autor": "sweetmarni",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2998062,
+    "url": "https://sketchfab.com/3d-models/none-1497bbc4fed94f87895cc9b922d16691",
+    "miniatura": "miniaturas/cm_caballo_fondo/1497bbc4fed94f87895cc9b922d16691.jpg"
+   },
+   {
+    "uid": "49e6306b29c74c679de8cec69473535b",
+    "nombre": "Medieval Modular City Realistic - WIP",
+    "autor": "danielvicente97cesur",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1103088,
+    "url": "https://sketchfab.com/3d-models/none-49e6306b29c74c679de8cec69473535b",
+    "miniatura": "miniaturas/cm_caballo_fondo/49e6306b29c74c679de8cec69473535b.jpg"
+   },
+   {
+    "uid": "f0004e373fb346cc81b5a35a22bd4986",
+    "nombre": "Building - Historical",
+    "autor": "sweetmarni",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2587891,
+    "url": "https://sketchfab.com/3d-models/none-f0004e373fb346cc81b5a35a22bd4986",
+    "miniatura": "miniaturas/cm_caballo_fondo/f0004e373fb346cc81b5a35a22bd4986.jpg"
+   },
+   {
+    "uid": "93b53ddcec414592842753d1819f3133",
+    "nombre": "Horse Walk",
+    "autor": "creatureanimator",
+    "licencia": "CC Attribution-NoDerivs",
+    "animaciones": 1,
+    "caras": 20776,
+    "url": "https://sketchfab.com/3d-models/none-93b53ddcec414592842753d1819f3133",
+    "miniatura": "miniaturas/cm_caballo_fondo/93b53ddcec414592842753d1819f3133.jpg"
+   },
+   {
+    "uid": "e3353615593c4b6f9dc6dd27d02e5118",
+    "nombre": "A Witches Cabin",
+    "autor": "WarderiiK",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 98288,
+    "url": "https://sketchfab.com/3d-models/none-e3353615593c4b6f9dc6dd27d02e5118",
+    "miniatura": "miniaturas/cm_caballo_fondo/e3353615593c4b6f9dc6dd27d02e5118.jpg"
+   }
+  ]
+ }
+}
