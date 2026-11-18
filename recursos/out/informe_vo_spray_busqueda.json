@@ -1,0 +1,498 @@
+{
+ "bajados": [
+  {
+   "destino": "sonidos/vo_spray_sonido/Spray_Paint_Shake_Seven.wav_by_cbakos_200377.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/vo_spray_sonido/Spray_Can.mp3_by_Yin_Yang_Jake007_415207.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/vo_spray_sonido/Spray_Paint_by_wolfdoctor_555112.mp3",
+   "mb": 0.12
+  },
+  {
+   "destino": "sonidos/vo_spray_sonido/paint_shake_and_spray.wav_by_Mohagged_707374.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/vo_spray_sonido/spray_can_by_richwise_476839.mp3",
+   "mb": 0.31
+  },
+  {
+   "destino": "sonidos/vo_spray_sonido/Spray_Paint_Shake_by_Tillion_580537.mp3",
+   "mb": 0.68
+  },
+  {
+   "destino": "sonidos/vo_spray_agitar/Spray_Paint_Shake_Seven.wav_by_cbakos_200377.mp3",
+   "mb": 0.09
+  },
+  {
+   "destino": "sonidos/vo_spray_agitar/Spray_Can_Shake.aif_by_esperri_119151.mp3",
+   "mb": 0.07
+  },
+  {
+   "destino": "sonidos/vo_spray_agitar/paint_shake_and_spray.wav_by_Mohagged_707374.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "sonidos/vo_spray_agitar/spray_can_by_richwise_476839.mp3",
+   "mb": 0.31
+  },
+  {
+   "destino": "sonidos/vo_spray_agitar/Spray_Paint_Shake_by_Tillion_580537.mp3",
+   "mb": 0.68
+  },
+  {
+   "destino": "sonidos/vo_spray_agitar/can.wav_by_Ches_Bar_650359.mp3",
+   "mb": 0.05
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/fb9f0d35f9e14ba3874b0233899ba3f5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/7223f972a1b44194abdc8f84b896086d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/4c8af55af44c4e888fa9e3ca037f65e3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/f8c6f7016fde4bee97c59083a6870ae5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/6a9e1ece41cb40efa69dae21e9fe704b.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/eb82f8aac6de497a92f93444f1332952.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/289a0ecc69104823a7546663feaed856.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/6eb30fdb53be4fa3b2b5d9ee3aefdef6.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/4868036ea0c641c294239df6b7d91d46.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/10bb200bbf934e3c8f4534f094f0e670.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/b9b44d8be4f940c589410ff84e3a1485.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/24f0c5db0f4548f09bbdc57cc61a4353.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/4237c2adcf864d4d826c15f53ea46718.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/6b7961249e1843639da30e88b7a6bc28.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/b31ed30e335c435fb7b7b4a6a046721d.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/0ecfd248265e4b908d566af10f56d3e8.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/5d1678b1fe454c389a571cb06d91bab9.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/d2c714bbda0a41eeaa5640ae5979a9d7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/9b7422a20f7d448b887585f59bbc9773.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/c6a6c4f61b7e4a539f17ead945af8746.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/ff7164dfb21c4a0fbaad02b9c0288c6a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_lata/3753c45c1ce14cb58f63a88ee9c88376.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_aerosol/24f0c5db0f4548f09bbdc57cc61a4353.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/vo_spray_aerosol/0dd19bad929f4ed5b8ef0bba508a4a1a.jpg",
+   "mb": 0.0
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "freesound": {
+  "vo_spray_sonido": [
+   {
+    "id": "200377",
+    "autor": "cbakos",
+    "pagina": "https://freesound.org/people/cbakos/sounds/200377/",
+    "titulo": "Spray Paint Shake Seven.wav by cbakos",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vo_spray_sonido/Spray_Paint_Shake_Seven.wav_by_cbakos_200377.mp3"
+   },
+   {
+    "id": "415207",
+    "autor": "Yin_Yang_Jake007",
+    "pagina": "https://freesound.org/people/Yin_Yang_Jake007/sounds/415207/",
+    "titulo": "Spray Can.mp3 by Yin_Yang_Jake007",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vo_spray_sonido/Spray_Can.mp3_by_Yin_Yang_Jake007_415207.mp3"
+   },
+   {
+    "id": "555112",
+    "autor": "wolfdoctor",
+    "pagina": "https://freesound.org/people/wolfdoctor/sounds/555112/",
+    "titulo": "Spray Paint by wolfdoctor",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vo_spray_sonido/Spray_Paint_by_wolfdoctor_555112.mp3"
+   },
+   {
+    "id": "707374",
+    "autor": "Mohagged",
+    "pagina": "https://freesound.org/people/Mohagged/sounds/707374/",
+    "titulo": "paint_shake_and_spray.wav by Mohagged",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vo_spray_sonido/paint_shake_and_spray.wav_by_Mohagged_707374.mp3"
+   },
+   {
+    "id": "476839",
+    "autor": "richwise",
+    "pagina": "https://freesound.org/people/richwise/sounds/476839/",
+    "titulo": "spray can by richwise",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vo_spray_sonido/spray_can_by_richwise_476839.mp3"
+   },
+   {
+    "id": "580537",
+    "autor": "Tillion",
+    "pagina": "https://freesound.org/people/Tillion/sounds/580537/",
+    "titulo": "Spray Paint Shake by Tillion",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vo_spray_sonido/Spray_Paint_Shake_by_Tillion_580537.mp3"
+   }
+  ],
+  "vo_spray_agitar": [
+   {
+    "id": "200377",
+    "autor": "cbakos",
+    "pagina": "https://freesound.org/people/cbakos/sounds/200377/",
+    "titulo": "Spray Paint Shake Seven.wav by cbakos",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vo_spray_agitar/Spray_Paint_Shake_Seven.wav_by_cbakos_200377.mp3"
+   },
+   {
+    "id": "119151",
+    "autor": "esperri",
+    "pagina": "https://freesound.org/people/esperri/sounds/119151/",
+    "titulo": "Spray Can Shake.aif by esperri",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vo_spray_agitar/Spray_Can_Shake.aif_by_esperri_119151.mp3"
+   },
+   {
+    "id": "707374",
+    "autor": "Mohagged",
+    "pagina": "https://freesound.org/people/Mohagged/sounds/707374/",
+    "titulo": "paint_shake_and_spray.wav by Mohagged",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vo_spray_agitar/paint_shake_and_spray.wav_by_Mohagged_707374.mp3"
+   },
+   {
+    "id": "476839",
+    "autor": "richwise",
+    "pagina": "https://freesound.org/people/richwise/sounds/476839/",
+    "titulo": "spray can by richwise",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vo_spray_agitar/spray_can_by_richwise_476839.mp3"
+   },
+   {
+    "id": "580537",
+    "autor": "Tillion",
+    "pagina": "https://freesound.org/people/Tillion/sounds/580537/",
+    "titulo": "Spray Paint Shake by Tillion",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vo_spray_agitar/Spray_Paint_Shake_by_Tillion_580537.mp3"
+   },
+   {
+    "id": "650359",
+    "autor": "Ches_Bar",
+    "pagina": "https://freesound.org/people/Ches_Bar/sounds/650359/",
+    "titulo": "can.wav by Ches_Bar",
+    "licencia": "publicdomain/zero",
+    "archivo": "sonidos/vo_spray_agitar/can.wav_by_Ches_Bar_650359.mp3"
+   }
+  ]
+ },
+ "sketchfab": {
+  "vo_spray_lata": [
+   {
+    "uid": "fb9f0d35f9e14ba3874b0233899ba3f5",
+    "nombre": "Spray Can",
+    "autor": "nufnuf1337",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 7552,
+    "url": "https://sketchfab.com/3d-models/none-fb9f0d35f9e14ba3874b0233899ba3f5",
+    "miniatura": "miniaturas/vo_spray_lata/fb9f0d35f9e14ba3874b0233899ba3f5.jpg"
+   },
+   {
+    "uid": "7223f972a1b44194abdc8f84b896086d",
+    "nombre": "Spray Paint Can",
+    "autor": "Isuk",
+    "licencia": "CC Attribution",
+    "animaciones": 1,
+    "caras": 4324,
+    "url": "https://sketchfab.com/3d-models/none-7223f972a1b44194abdc8f84b896086d",
+    "miniatura": "miniaturas/vo_spray_lata/7223f972a1b44194abdc8f84b896086d.jpg"
+   },
+   {
+    "uid": "4c8af55af44c4e888fa9e3ca037f65e3",
+    "nombre": "Spray Paint Can",
+    "autor": "wendyanna",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 830,
+    "url": "https://sketchfab.com/3d-models/none-4c8af55af44c4e888fa9e3ca037f65e3",
+    "miniatura": "miniaturas/vo_spray_lata/4c8af55af44c4e888fa9e3ca037f65e3.jpg"
+   },
+   {
+    "uid": "f8c6f7016fde4bee97c59083a6870ae5",
+    "nombre": "Spray Paint Can Scan",
+    "autor": "Austin.Beaulier",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 20000,
+    "url": "https://sketchfab.com/3d-models/none-f8c6f7016fde4bee97c59083a6870ae5",
+    "miniatura": "miniaturas/vo_spray_lata/f8c6f7016fde4bee97c59083a6870ae5.jpg"
+   },
+   {
+    "uid": "6a9e1ece41cb40efa69dae21e9fe704b",
+    "nombre": "MTN Limited Edition Jean- Michel Basquiat",
+    "autor": "NeckWrong.novikov",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 72320,
+    "url": "https://sketchfab.com/3d-models/none-6a9e1ece41cb40efa69dae21e9fe704b",
+    "miniatura": "miniaturas/vo_spray_lata/6a9e1ece41cb40efa69dae21e9fe704b.jpg"
+   },
+   {
+    "uid": "eb82f8aac6de497a92f93444f1332952",
+    "nombre": "(Free) Graffiti Walls Collection",
+    "autor": "leoskateman",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 205,
+    "url": "https://sketchfab.com/3d-models/none-eb82f8aac6de497a92f93444f1332952",
+    "miniatura": "miniaturas/vo_spray_lata/eb82f8aac6de497a92f93444f1332952.jpg"
+   },
+   {
+    "uid": "289a0ecc69104823a7546663feaed856",
+    "nombre": "Downtown Mars by Sebastien “Mr. D” Boileau",
+    "autor": "Austin.Beaulier",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 199256,
+    "url": "https://sketchfab.com/3d-models/none-289a0ecc69104823a7546663feaed856",
+    "miniatura": "miniaturas/vo_spray_lata/289a0ecc69104823a7546663feaed856.jpg"
+   },
+   {
+    "uid": "6eb30fdb53be4fa3b2b5d9ee3aefdef6",
+    "nombre": "Spray Cans untextured",
+    "autor": "vickicup",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 18598,
+    "url": "https://sketchfab.com/3d-models/none-6eb30fdb53be4fa3b2b5d9ee3aefdef6",
+    "miniatura": "miniaturas/vo_spray_lata/6eb30fdb53be4fa3b2b5d9ee3aefdef6.jpg"
+   },
+   {
+    "uid": "4868036ea0c641c294239df6b7d91d46",
+    "nombre": "SPRAY PAINT",
+    "autor": "leo.isidro3",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 6956,
+    "url": "https://sketchfab.com/3d-models/none-4868036ea0c641c294239df6b7d91d46",
+    "miniatura": "miniaturas/vo_spray_lata/4868036ea0c641c294239df6b7d91d46.jpg"
+   },
+   {
+    "uid": "10bb200bbf934e3c8f4534f094f0e670",
+    "nombre": "Spraypaint can MTN Hardcore",
+    "autor": "Lauris54",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 4416,
+    "url": "https://sketchfab.com/3d-models/none-10bb200bbf934e3c8f4534f094f0e670",
+    "miniatura": "miniaturas/vo_spray_lata/10bb200bbf934e3c8f4534f094f0e670.jpg"
+   },
+   {
+    "uid": "b9b44d8be4f940c589410ff84e3a1485",
+    "nombre": "DITON SPRAY PAINT",
+    "autor": "angga.mardinata",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 5900,
+    "url": "https://sketchfab.com/3d-models/none-b9b44d8be4f940c589410ff84e3a1485",
+    "miniatura": "miniaturas/vo_spray_lata/b9b44d8be4f940c589410ff84e3a1485.jpg"
+   },
+   {
+    "uid": "24f0c5db0f4548f09bbdc57cc61a4353",
+    "nombre": "Spray can",
+    "autor": "beyondmatter",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 770,
+    "url": "https://sketchfab.com/3d-models/none-24f0c5db0f4548f09bbdc57cc61a4353",
+    "miniatura": "miniaturas/vo_spray_lata/24f0c5db0f4548f09bbdc57cc61a4353.jpg"
+   },
+   {
+    "uid": "4237c2adcf864d4d826c15f53ea46718",
+    "nombre": "Spray Paint Can",
+    "autor": "michael.diaz029",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 766,
+    "url": "https://sketchfab.com/3d-models/none-4237c2adcf864d4d826c15f53ea46718",
+    "miniatura": "miniaturas/vo_spray_lata/4237c2adcf864d4d826c15f53ea46718.jpg"
+   },
+   {
+    "uid": "6b7961249e1843639da30e88b7a6bc28",
+    "nombre": "Spray paint",
+    "autor": "mqpmqp",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1707,
+    "url": "https://sketchfab.com/3d-models/none-6b7961249e1843639da30e88b7a6bc28",
+    "miniatura": "miniaturas/vo_spray_lata/6b7961249e1843639da30e88b7a6bc28.jpg"
+   },
+   {
+    "uid": "b31ed30e335c435fb7b7b4a6a046721d",
+    "nombre": "Black Spray paint",
+    "autor": "ReoCreativeScanning",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 21340,
+    "url": "https://sketchfab.com/3d-models/none-b31ed30e335c435fb7b7b4a6a046721d",
+    "miniatura": "miniaturas/vo_spray_lata/b31ed30e335c435fb7b7b4a6a046721d.jpg"
+   },
+   {
+    "uid": "0ecfd248265e4b908d566af10f56d3e8",
+    "nombre": "GraffitiPack 1",
+    "autor": "Ares.Badsector",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 541,
+    "url": "https://sketchfab.com/3d-models/none-0ecfd248265e4b908d566af10f56d3e8",
+    "miniatura": "miniaturas/vo_spray_lata/0ecfd248265e4b908d566af10f56d3e8.jpg"
+   },
+   {
+    "uid": "5d1678b1fe454c389a571cb06d91bab9",
+    "nombre": "Low Poly Spray Paint",
+    "autor": "TrentPierce",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 634,
+    "url": "https://sketchfab.com/3d-models/none-5d1678b1fe454c389a571cb06d91bab9",
+    "miniatura": "miniaturas/vo_spray_lata/5d1678b1fe454c389a571cb06d91bab9.jpg"
+   },
+   {
+    "uid": "d2c714bbda0a41eeaa5640ae5979a9d7",
+    "nombre": "Spray Paint Can Texture",
+    "autor": "timgreen4815",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1626,
+    "url": "https://sketchfab.com/3d-models/none-d2c714bbda0a41eeaa5640ae5979a9d7",
+    "miniatura": "miniaturas/vo_spray_lata/d2c714bbda0a41eeaa5640ae5979a9d7.jpg"
+   },
+   {
+    "uid": "9b7422a20f7d448b887585f59bbc9773",
+    "nombre": "Spray Paint Can",
+    "autor": "keegan.owens",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2220,
+    "url": "https://sketchfab.com/3d-models/none-9b7422a20f7d448b887585f59bbc9773",
+    "miniatura": "miniaturas/vo_spray_lata/9b7422a20f7d448b887585f59bbc9773.jpg"
+   },
+   {
+    "uid": "c6a6c4f61b7e4a539f17ead945af8746",
+    "nombre": "Marsh Street Props Variations",
+    "autor": "zrmarsh",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 11168,
+    "url": "https://sketchfab.com/3d-models/none-c6a6c4f61b7e4a539f17ead945af8746",
+    "miniatura": "miniaturas/vo_spray_lata/c6a6c4f61b7e4a539f17ead945af8746.jpg"
+   },
+   {
+    "uid": "ff7164dfb21c4a0fbaad02b9c0288c6a",
+    "nombre": "Mystery Machine Graffiti Challenge",
+    "autor": "Brains9NC",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 2818,
+    "url": "https://sketchfab.com/3d-models/none-ff7164dfb21c4a0fbaad02b9c0288c6a",
+    "miniatura": "miniaturas/vo_spray_lata/ff7164dfb21c4a0fbaad02b9c0288c6a.jpg"
+   },
+   {
+    "uid": "3753c45c1ce14cb58f63a88ee9c88376",
+    "nombre": "Spray Can",
+    "autor": "LeMat00",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 62522,
+    "url": "https://sketchfab.com/3d-models/none-3753c45c1ce14cb58f63a88ee9c88376",
+    "miniatura": "miniaturas/vo_spray_lata/3753c45c1ce14cb58f63a88ee9c88376.jpg"
+   }
+  ],
+  "vo_spray_aerosol": [
+   {
+    "uid": "24f0c5db0f4548f09bbdc57cc61a4353",
+    "nombre": "Spray can",
+    "autor": "beyondmatter",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 770,
+    "url": "https://sketchfab.com/3d-models/none-24f0c5db0f4548f09bbdc57cc61a4353",
+    "miniatura": "miniaturas/vo_spray_aerosol/24f0c5db0f4548f09bbdc57cc61a4353.jpg"
+   },
+   {
+    "uid": "0dd19bad929f4ed5b8ef0bba508a4a1a",
+    "nombre": "Ed-209 Action Figure for 3D printing",
+    "autor": "CoppoB",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 297283,
+    "url": "https://sketchfab.com/3d-models/none-0dd19bad929f4ed5b8ef0bba508a4a1a",
+    "miniatura": "miniaturas/vo_spray_aerosol/0dd19bad929f4ed5b8ef0bba508a4a1a.jpg"
+   }
+  ]
+ }
+}
