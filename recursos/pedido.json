@@ -1,11 +1,37 @@
 {
- "informe": "informe_letrina_busqueda1.json",
- "sketchfab_buscar": [
-  {"q": "newspaper", "clave": "lt_periodico", "solo_objaverse": true, "paginas": 4, "max": 30},
-  {"q": "folded newspaper", "clave": "lt_periodico2", "solo_objaverse": true, "paginas": 3, "max": 20},
-  {"q": "outhouse", "clave": "lt_letrina", "solo_objaverse": true, "paginas": 3, "max": 20},
-  {"q": "cooling tower", "clave": "lt_chimenea", "solo_objaverse": true, "paginas": 3, "max": 20},
-  {"q": "balloon", "clave": "lt_globo", "solo_objaverse": true, "paginas": 3, "max": 20},
-  {"q": "toilet paper", "clave": "lt_papel", "solo_objaverse": true, "paginas": 2, "max": 15}
+ "informe": "informe_letrina_bajada1.json",
+ "objaverse": [
+  {
+   "uid": "c4311a0b918643af97904e10c7a34efc",
+   "nombre": "lt_periodico_pila"
+  },
+  {
+   "uid": "4fc14ea5129b4ea3b34a22844a6f1b3f",
+   "nombre": "lt_periodico_doblado2"
+  },
+  {
+   "uid": "84683791c7e74992b8f2baeb52595de6",
+   "nombre": "lt_periodico_doblado"
+  },
+  {
+   "uid": "545355086dbb4b789a9cfe09d0ad5efe",
+   "nombre": "lt_letrina_simple"
+  },
+  {
+   "uid": "4e515dfb78264c7ab89b4b2602f55e96",
+   "nombre": "lt_letrina_rusa"
+  },
+  {
+   "uid": "6a30755d9cd74067853bafdec22d20cf",
+   "nombre": "lt_letrina_tablas"
+  },
+  {
+   "uid": "72fedbfe779d475586e31f2ef2920d2e",
+   "nombre": "lt_globos"
+  },
+  {
+   "uid": "6d5284b842434413a17133f7bf259669",
+   "nombre": "lt_papel_rollo"
+  }
  ]
 }
