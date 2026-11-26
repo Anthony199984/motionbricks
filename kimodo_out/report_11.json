@@ -1,11 +1,11 @@
 {
- "total_seconds": 213.6,
+ "total_seconds": 146.0,
  "jobs": [
   {
-   "name": "vc25_sacar_papa_b",
-   "response": "OK\t150\t30",
-   "seconds": 213.5,
-   "frames": 150
+   "name": "lt_cintura_a",
+   "response": "OK\t75\t30",
+   "seconds": 145.9,
+   "frames": 75
   }
  ]
 }
