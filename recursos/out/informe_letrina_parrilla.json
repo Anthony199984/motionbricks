@@ -1,0 +1,392 @@
+{
+ "bajados": [
+  {
+   "destino": "miniaturas/lt3_parrilla/99f8e23e8d38459eb75a82d5092251af.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla/8fec0a56b946473dbe4b9fd7918c91fe.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla/127ed3d2fcad4775a84c8c37e546862c.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla/b88bedf1f75346b6b1659c13c2fc5001.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla/0227e3cf2b5146ac9471e07d9dc331b3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla/f6c60d6813534fcbbb988dcd05686907.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla/24dbd167923a49ac825370d6dbbdd2ce.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla/cef10222f7fa40e183d0ee8e35652ed5.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla/4395c4b6f5404ac6851f4f5b7c0c71d3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla/038fdfb8438241edb097532d8c0ba65f.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla/3e5bd4549f1e42aeb956c081af86fc11.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla/9db9c3a480dc4451a7354927fb102cad.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla/a3e754a16fa74d7a875865e3f699179a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla/de6cc406701b414abce919a7b1605ccc.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla/2b99fafd2ef042ca987516b90eedc920.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla/3a9ae7f5ca3f443cafb415ed934f4ddb.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla2/99f8e23e8d38459eb75a82d5092251af.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla2/56ad0cebc5684ff58185f13980666e1f.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla2/10162879d1b048c48ee4d21ca9bc0fa7.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla2/fad305f15ba44a4c81bc2c99252e8ce0.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla2/7db65a3e42f54f8496a6635027d0ccd9.jpg",
+   "mb": 0.01
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla2/6aee76d55b68401ba93f137177ad6466.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla2/4395c4b6f5404ac6851f4f5b7c0c71d3.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_parrilla2/5bcd240e269b4effa04ad8b6abe83225.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_mosca/157900941156422fbd9dcdfc38a3be19.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_mosca/2baa84955f704a4091a274ef4acec24a.jpg",
+   "mb": 0.0
+  },
+  {
+   "destino": "miniaturas/lt3_mosca/eec3c046107b489280ffead8b8fdc2c1.jpg",
+   "mb": 0.0
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "sketchfab": {
+  "lt3_parrilla": [
+   {
+    "uid": "99f8e23e8d38459eb75a82d5092251af",
+    "nombre": "BBQ Grills",
+    "autor": "caboose3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9532,
+    "url": "https://sketchfab.com/3d-models/none-99f8e23e8d38459eb75a82d5092251af",
+    "miniatura": "miniaturas/lt3_parrilla/99f8e23e8d38459eb75a82d5092251af.jpg"
+   },
+   {
+    "uid": "8fec0a56b946473dbe4b9fd7918c91fe",
+    "nombre": "Royal Gourmet 3 Grill",
+    "autor": "klessgyzen",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 491637,
+    "url": "https://sketchfab.com/3d-models/none-8fec0a56b946473dbe4b9fd7918c91fe",
+    "miniatura": "miniaturas/lt3_parrilla/8fec0a56b946473dbe4b9fd7918c91fe.jpg"
+   },
+   {
+    "uid": "127ed3d2fcad4775a84c8c37e546862c",
+    "nombre": "BBQ Grill - minecraft",
+    "autor": "radher",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 228,
+    "url": "https://sketchfab.com/3d-models/none-127ed3d2fcad4775a84c8c37e546862c",
+    "miniatura": "miniaturas/lt3_parrilla/127ed3d2fcad4775a84c8c37e546862c.jpg"
+   },
+   {
+    "uid": "b88bedf1f75346b6b1659c13c2fc5001",
+    "nombre": "BBQ (Open/Closed)",
+    "autor": "Darren.Hogan",
+    "licencia": "CC Attribution-NonCommercial",
+    "animaciones": 0,
+    "caras": 57590,
+    "url": "https://sketchfab.com/3d-models/none-b88bedf1f75346b6b1659c13c2fc5001",
+    "miniatura": "miniaturas/lt3_parrilla/b88bedf1f75346b6b1659c13c2fc5001.jpg"
+   },
+   {
+    "uid": "0227e3cf2b5146ac9471e07d9dc331b3",
+    "nombre": "Tandoor, Barbeque Grill | New version on FAB",
+    "autor": "akshatezio",
+    "licencia": "Free Standard",
+    "animaciones": 0,
+    "caras": 56664,
+    "url": "https://sketchfab.com/3d-models/none-0227e3cf2b5146ac9471e07d9dc331b3",
+    "miniatura": "miniaturas/lt3_parrilla/0227e3cf2b5146ac9471e07d9dc331b3.jpg"
+   },
+   {
+    "uid": "f6c60d6813534fcbbb988dcd05686907",
+    "nombre": "Landmann Grill",
+    "autor": "elias.gustavsson",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 468650,
+    "url": "https://sketchfab.com/3d-models/none-f6c60d6813534fcbbb988dcd05686907",
+    "miniatura": "miniaturas/lt3_parrilla/f6c60d6813534fcbbb988dcd05686907.jpg"
+   },
+   {
+    "uid": "24dbd167923a49ac825370d6dbbdd2ce",
+    "nombre": "OUTDOOR KITCHEN",
+    "autor": "polycordesign",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 122653,
+    "url": "https://sketchfab.com/3d-models/none-24dbd167923a49ac825370d6dbbdd2ce",
+    "miniatura": "miniaturas/lt3_parrilla/24dbd167923a49ac825370d6dbbdd2ce.jpg"
+   },
+   {
+    "uid": "cef10222f7fa40e183d0ee8e35652ed5",
+    "nombre": "Propane Grill",
+    "autor": "ghostbusterjeffrey",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4739,
+    "url": "https://sketchfab.com/3d-models/none-cef10222f7fa40e183d0ee8e35652ed5",
+    "miniatura": "miniaturas/lt3_parrilla/cef10222f7fa40e183d0ee8e35652ed5.jpg"
+   },
+   {
+    "uid": "4395c4b6f5404ac6851f4f5b7c0c71d3",
+    "nombre": "Charcoal Grill",
+    "autor": "Kenetics",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 50880,
+    "url": "https://sketchfab.com/3d-models/none-4395c4b6f5404ac6851f4f5b7c0c71d3",
+    "miniatura": "miniaturas/lt3_parrilla/4395c4b6f5404ac6851f4f5b7c0c71d3.jpg"
+   },
+   {
+    "uid": "038fdfb8438241edb097532d8c0ba65f",
+    "nombre": "TUG Fire Pit Grill Mod",
+    "autor": "sarmstrong8979",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 652,
+    "url": "https://sketchfab.com/3d-models/none-038fdfb8438241edb097532d8c0ba65f",
+    "miniatura": "miniaturas/lt3_parrilla/038fdfb8438241edb097532d8c0ba65f.jpg"
+   },
+   {
+    "uid": "3e5bd4549f1e42aeb956c081af86fc11",
+    "nombre": "Arctic BBQ Cabin",
+    "autor": "medienlabor",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 250000,
+    "url": "https://sketchfab.com/3d-models/none-3e5bd4549f1e42aeb956c081af86fc11",
+    "miniatura": "miniaturas/lt3_parrilla/3e5bd4549f1e42aeb956c081af86fc11.jpg"
+   },
+   {
+    "uid": "9db9c3a480dc4451a7354927fb102cad",
+    "nombre": "Day 170: Weber bbq grill",
+    "autor": "alban",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 151658,
+    "url": "https://sketchfab.com/3d-models/none-9db9c3a480dc4451a7354927fb102cad",
+    "miniatura": "miniaturas/lt3_parrilla/9db9c3a480dc4451a7354927fb102cad.jpg"
+   },
+   {
+    "uid": "a3e754a16fa74d7a875865e3f699179a",
+    "nombre": "BBQ Grill",
+    "autor": "violetboom",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 378,
+    "url": "https://sketchfab.com/3d-models/none-a3e754a16fa74d7a875865e3f699179a",
+    "miniatura": "miniaturas/lt3_parrilla/a3e754a16fa74d7a875865e3f699179a.jpg"
+   },
+   {
+    "uid": "de6cc406701b414abce919a7b1605ccc",
+    "nombre": "BBQ Grill",
+    "autor": "MaxFunkner",
+    "licencia": "CC Attribution-NonCommercial-ShareAlike",
+    "animaciones": 0,
+    "caras": 9120,
+    "url": "https://sketchfab.com/3d-models/none-de6cc406701b414abce919a7b1605ccc",
+    "miniatura": "miniaturas/lt3_parrilla/de6cc406701b414abce919a7b1605ccc.jpg"
+   },
+   {
+    "uid": "2b99fafd2ef042ca987516b90eedc920",
+    "nombre": "BBQ barbeque brick bake",
+    "autor": "ktistis.krd",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 178404,
+    "url": "https://sketchfab.com/3d-models/none-2b99fafd2ef042ca987516b90eedc920",
+    "miniatura": "miniaturas/lt3_parrilla/2b99fafd2ef042ca987516b90eedc920.jpg"
+   },
+   {
+    "uid": "3a9ae7f5ca3f443cafb415ed934f4ddb",
+    "nombre": "Grilling up some 3D scans",
+    "autor": "Scandy",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 229918,
+    "url": "https://sketchfab.com/3d-models/none-3a9ae7f5ca3f443cafb415ed934f4ddb",
+    "miniatura": "miniaturas/lt3_parrilla/3a9ae7f5ca3f443cafb415ed934f4ddb.jpg"
+   }
+  ],
+  "lt3_parrilla2": [
+   {
+    "uid": "99f8e23e8d38459eb75a82d5092251af",
+    "nombre": "BBQ Grills",
+    "autor": "caboose3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 9532,
+    "url": "https://sketchfab.com/3d-models/none-99f8e23e8d38459eb75a82d5092251af",
+    "miniatura": "miniaturas/lt3_parrilla2/99f8e23e8d38459eb75a82d5092251af.jpg"
+   },
+   {
+    "uid": "56ad0cebc5684ff58185f13980666e1f",
+    "nombre": "Grill",
+    "autor": "re1monsen",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 104314,
+    "url": "https://sketchfab.com/3d-models/none-56ad0cebc5684ff58185f13980666e1f",
+    "miniatura": "miniaturas/lt3_parrilla2/56ad0cebc5684ff58185f13980666e1f.jpg"
+   },
+   {
+    "uid": "10162879d1b048c48ee4d21ca9bc0fa7",
+    "nombre": "Charcoal Grill",
+    "autor": "newarteest",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 40520,
+    "url": "https://sketchfab.com/3d-models/none-10162879d1b048c48ee4d21ca9bc0fa7",
+    "miniatura": "miniaturas/lt3_parrilla2/10162879d1b048c48ee4d21ca9bc0fa7.jpg"
+   },
+   {
+    "uid": "fad305f15ba44a4c81bc2c99252e8ce0",
+    "nombre": "Maple Log",
+    "autor": "nikska",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 19660,
+    "url": "https://sketchfab.com/3d-models/none-fad305f15ba44a4c81bc2c99252e8ce0",
+    "miniatura": "miniaturas/lt3_parrilla2/fad305f15ba44a4c81bc2c99252e8ce0.jpg"
+   },
+   {
+    "uid": "7db65a3e42f54f8496a6635027d0ccd9",
+    "nombre": "Charcoal Grill",
+    "autor": "gloryfish",
+    "licencia": "CC Attribution-ShareAlike",
+    "animaciones": 0,
+    "caras": 2006,
+    "url": "https://sketchfab.com/3d-models/none-7db65a3e42f54f8496a6635027d0ccd9",
+    "miniatura": "miniaturas/lt3_parrilla2/7db65a3e42f54f8496a6635027d0ccd9.jpg"
+   },
+   {
+    "uid": "6aee76d55b68401ba93f137177ad6466",
+    "nombre": "Grill Set",
+    "autor": "varun_malhotra1",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 10028,
+    "url": "https://sketchfab.com/3d-models/none-6aee76d55b68401ba93f137177ad6466",
+    "miniatura": "miniaturas/lt3_parrilla2/6aee76d55b68401ba93f137177ad6466.jpg"
+   },
+   {
+    "uid": "4395c4b6f5404ac6851f4f5b7c0c71d3",
+    "nombre": "Charcoal Grill",
+    "autor": "Kenetics",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 50880,
+    "url": "https://sketchfab.com/3d-models/none-4395c4b6f5404ac6851f4f5b7c0c71d3",
+    "miniatura": "miniaturas/lt3_parrilla2/4395c4b6f5404ac6851f4f5b7c0c71d3.jpg"
+   },
+   {
+    "uid": "5bcd240e269b4effa04ad8b6abe83225",
+    "nombre": "Barbeque Chili",
+    "autor": "daomar",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 107250,
+    "url": "https://sketchfab.com/3d-models/none-5bcd240e269b4effa04ad8b6abe83225",
+    "miniatura": "miniaturas/lt3_parrilla2/5bcd240e269b4effa04ad8b6abe83225.jpg"
+   }
+  ],
+  "lt3_mosca": [
+   {
+    "uid": "157900941156422fbd9dcdfc38a3be19",
+    "nombre": "Musca domestica",
+    "autor": "disc3d",
+    "licencia": "CC0 Public Domain",
+    "animaciones": 0,
+    "caras": 96816,
+    "url": "https://sketchfab.com/3d-models/none-157900941156422fbd9dcdfc38a3be19",
+    "miniatura": "miniaturas/lt3_mosca/157900941156422fbd9dcdfc38a3be19.jpg"
+   },
+   {
+    "uid": "2baa84955f704a4091a274ef4acec24a",
+    "nombre": "Low Poly House Fly (Diptera)",
+    "autor": "glowbox3d",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 1736,
+    "url": "https://sketchfab.com/3d-models/none-2baa84955f704a4091a274ef4acec24a",
+    "miniatura": "miniaturas/lt3_mosca/2baa84955f704a4091a274ef4acec24a.jpg"
+   },
+   {
+    "uid": "eec3c046107b489280ffead8b8fdc2c1",
+    "nombre": "Flytrap with fangs covered in blood",
+    "autor": "anyaachan",
+    "licencia": "CC Attribution",
+    "animaciones": 0,
+    "caras": 4952,
+    "url": "https://sketchfab.com/3d-models/none-eec3c046107b489280ffead8b8fdc2c1",
+    "miniatura": "miniaturas/lt3_mosca/eec3c046107b489280ffead8b8fdc2c1.jpg"
+   }
+  ]
+ }
+}
