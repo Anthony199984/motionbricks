@@ -1,11 +1,11 @@
 {
- "total_seconds": 215.4,
+ "total_seconds": 144.7,
  "jobs": [
   {
-   "name": "vc26_palmadas_a",
-   "response": "OK\t120\t30",
-   "seconds": 215.2,
-   "frames": 120
+   "name": "lt_cintura_b",
+   "response": "OK\t75\t30",
+   "seconds": 144.6,
+   "frames": 75
   }
  ]
 }
