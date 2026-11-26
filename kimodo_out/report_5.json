@@ -1,11 +1,11 @@
 {
- "total_seconds": 194.4,
+ "total_seconds": 147.5,
  "jobs": [
   {
-   "name": "vc52_parado_rie_b",
-   "response": "OK\t120\t30",
-   "seconds": 194.3,
-   "frames": 120
+   "name": "lt_asco_c",
+   "response": "OK\t75\t30",
+   "seconds": 147.4,
+   "frames": 75
   }
  ]
 }
