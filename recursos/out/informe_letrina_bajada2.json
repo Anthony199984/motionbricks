@@ -1,0 +1,32 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/lt2_pestillo_viejo.glb",
+   "mb": 2.91
+  },
+  {
+   "destino": "objaverse/lt2_palito02.glb",
+   "mb": 4.69
+  },
+  {
+   "destino": "objaverse/lt2_palito04.glb",
+   "mb": 3.79
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "lt2_pestillo_viejo": {
+   "uid": "d25283e6dc7c4af9858db4b33b2cd898",
+   "nombre": "lt2_pestillo_viejo"
+  },
+  "lt2_palito02": {
+   "uid": "0ab534c493e14f67bac01ee94f20e43f",
+   "nombre": "lt2_palito02"
+  },
+  "lt2_palito04": {
+   "uid": "b7fe8a4a3c2f4f038662ae47cfbfa6a7",
+   "nombre": "lt2_palito04"
+  }
+ }
+}
