@@ -1,11 +1,11 @@
 {
- "total_seconds": 213.7,
+ "total_seconds": 162.5,
  "jobs": [
   {
-   "name": "vc27_sentado_beber_a",
-   "response": "OK\t150\t30",
-   "seconds": 213.6,
-   "frames": 150
+   "name": "lt_manos_cabeza_b",
+   "response": "OK\t90\t30",
+   "seconds": 162.4,
+   "frames": 90
   }
  ]
 }
