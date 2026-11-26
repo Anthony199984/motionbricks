@@ -1,10 +1,10 @@
 {
- "total_seconds": 234.6,
+ "total_seconds": 232.2,
  "jobs": [
   {
-   "name": "vc51_parado_eructo_a",
+   "name": "lt_pujar_c",
    "response": "OK\t150\t30",
-   "seconds": 234.5,
+   "seconds": 232.2,
    "frames": 150
   }
  ]
