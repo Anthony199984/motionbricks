@@ -1,17 +1,8 @@
 {
- "informe": "informe_letrina_bajada2.json",
- "objaverse": [
-  {
-   "uid": "d25283e6dc7c4af9858db4b33b2cd898",
-   "nombre": "lt2_pestillo_viejo"
-  },
-  {
-   "uid": "0ab534c493e14f67bac01ee94f20e43f",
-   "nombre": "lt2_palito02"
-  },
-  {
-   "uid": "b7fe8a4a3c2f4f038662ae47cfbfa6a7",
-   "nombre": "lt2_palito04"
-  }
+ "informe": "informe_letrina_parrilla.json",
+ "sketchfab_buscar": [
+  {"q": "bbq grill", "clave": "lt3_parrilla", "solo_objaverse": true, "paginas": 3, "max": 16},
+  {"q": "charcoal grill", "clave": "lt3_parrilla2", "solo_objaverse": true, "paginas": 2, "max": 12},
+  {"q": "house fly insect", "clave": "lt3_mosca", "solo_objaverse": true, "paginas": 2, "max": 12}
  ]
 }
