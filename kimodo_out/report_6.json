@@ -1,17 +1,11 @@
 {
- "total_seconds": 283.4,
+ "total_seconds": 120.1,
  "jobs": [
   {
-   "name": "vc23_panico_a",
-   "response": "OK\t150\t30",
-   "seconds": 153.8,
-   "frames": 150
-  },
-  {
-   "name": "vc34_sentado_senalar_a",
-   "response": "OK\t120\t30",
-   "seconds": 129.5,
-   "frames": 120
+   "name": "lt_patada_a",
+   "response": "OK\t60\t30",
+   "seconds": 120.0,
+   "frames": 60
   }
  ]
 }
