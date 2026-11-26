@@ -1,11 +1,11 @@
 {
- "total_seconds": 195.1,
+ "total_seconds": 165.4,
  "jobs": [
   {
-   "name": "vc24_tapar_nariz_b",
-   "response": "OK\t120\t30",
-   "seconds": 195.1,
-   "frames": 120
+   "name": "lt_colgar_a",
+   "response": "OK\t90\t30",
+   "seconds": 165.3,
+   "frames": 90
   }
  ]
 }
