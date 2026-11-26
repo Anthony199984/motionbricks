@@ -1,38 +1,116 @@
 [
  {
-  "name": "vc50_parado_beber_a",
+  "name": "lt_pujar_a",
   "frames": 150,
-  "seed": 93000,
-  "prompt": "A man stands relaxed with his weight on one leg, holding a can in his right hand at his waist, lifts it to his mouth and drinks, tilting his head back a little, then lowers the can to his chest and exhales, satisfied. His left arm hangs relaxed."
+  "seed": 95000,
+  "prompt": "A man sits on a low wooden bench, leans forward with his elbows resting on his knees and strains hard, pushing with his whole body, his shoulders tense and his head lowered, holding the effort, then relaxing a little and straining again."
  },
  {
-  "name": "vc50_parado_beber_b",
+  "name": "lt_pujar_b",
   "frames": 150,
-  "seed": 94000,
-  "prompt": "A man stands relaxed with his weight on one leg, holding a can in his right hand at his waist, lifts it to his mouth and drinks, tilting his head back a little, then lowers the can to his chest and exhales, satisfied. His left arm hangs relaxed."
+  "seed": 95001,
+  "prompt": "A man sits on a low wooden bench, leans forward with his elbows resting on his knees and strains hard, pushing with his whole body, his shoulders tense and his head lowered, holding the effort, then relaxing a little and straining again."
  },
  {
-  "name": "vc51_parado_eructo_a",
+  "name": "lt_pujar_c",
   "frames": 150,
-  "seed": 93001,
-  "prompt": "A man stands relaxed holding a can in his right hand at chest height, suddenly burps loudly with his mouth wide open and his chest pushed forward, then covers his mouth with his left hand, embarrassed, and laughs, shaking his shoulders."
+  "seed": 95002,
+  "prompt": "A man sits on a low wooden bench, leans forward with his elbows resting on his knees and strains hard, pushing with his whole body, his shoulders tense and his head lowered, holding the effort, then relaxing a little and straining again."
  },
  {
-  "name": "vc51_parado_eructo_b",
-  "frames": 150,
-  "seed": 94001,
-  "prompt": "A man stands relaxed holding a can in his right hand at chest height, suddenly burps loudly with his mouth wide open and his chest pushed forward, then covers his mouth with his left hand, embarrassed, and laughs, shaking his shoulders."
+  "name": "lt_asco_a",
+  "frames": 75,
+  "seed": 95003,
+  "prompt": "A man standing suddenly recoils in disgust, pinching his nose with his left hand, turning his head away and waving his right hand in front of his face."
  },
  {
-  "name": "vc52_parado_rie_a",
-  "frames": 120,
-  "seed": 93002,
-  "prompt": "A man stands holding a can in his right hand at chest height, turns his head to his left, surprised, then laughs out loud, leaning back a little."
+  "name": "lt_asco_b",
+  "frames": 75,
+  "seed": 95004,
+  "prompt": "A man standing suddenly recoils in disgust, pinching his nose with his left hand, turning his head away and waving his right hand in front of his face."
  },
  {
-  "name": "vc52_parado_rie_b",
-  "frames": 120,
-  "seed": 94002,
-  "prompt": "A man stands holding a can in his right hand at chest height, turns his head to his left, surprised, then laughs out loud, leaning back a little."
+  "name": "lt_asco_c",
+  "frames": 75,
+  "seed": 95005,
+  "prompt": "A man standing suddenly recoils in disgust, pinching his nose with his left hand, turning his head away and waving his right hand in front of his face."
+ },
+ {
+  "name": "lt_patada_a",
+  "frames": 60,
+  "seed": 95006,
+  "prompt": "A man standing with his back to a door kicks backward with his right heel to slam the door shut behind him, then puts his foot down."
+ },
+ {
+  "name": "lt_patada_b",
+  "frames": 60,
+  "seed": 95007,
+  "prompt": "A man standing with his back to a door kicks backward with his right heel to slam the door shut behind him, then puts his foot down."
+ },
+ {
+  "name": "lt_patada_c",
+  "frames": 60,
+  "seed": 95008,
+  "prompt": "A man standing with his back to a door kicks backward with his right heel to slam the door shut behind him, then puts his foot down."
+ },
+ {
+  "name": "lt_colgar_a",
+  "frames": 90,
+  "seed": 95009,
+  "prompt": "A man stands and raises both hands above his head to hang a heavy cloth on a hook in front of him, adjusts it with both hands, then lowers his arms."
+ },
+ {
+  "name": "lt_colgar_b",
+  "frames": 90,
+  "seed": 95010,
+  "prompt": "A man stands and raises both hands above his head to hang a heavy cloth on a hook in front of him, adjusts it with both hands, then lowers his arms."
+ },
+ {
+  "name": "lt_cintura_a",
+  "frames": 75,
+  "seed": 95011,
+  "prompt": "A man stands proudly and puts his right hand on his hip, chest out, nodding with satisfaction."
+ },
+ {
+  "name": "lt_cintura_b",
+  "frames": 75,
+  "seed": 95012,
+  "prompt": "A man stands proudly and puts his right hand on his hip, chest out, nodding with satisfaction."
+ },
+ {
+  "name": "lt_manos_cabeza_a",
+  "frames": 90,
+  "seed": 95013,
+  "prompt": "A man sitting on a low bench leans back and puts both hands behind his head with his elbows out, completely relaxed."
+ },
+ {
+  "name": "lt_manos_cabeza_b",
+  "frames": 90,
+  "seed": 95014,
+  "prompt": "A man sitting on a low bench leans back and puts both hands behind his head with his elbows out, completely relaxed."
+ },
+ {
+  "name": "lt_martillar_a",
+  "frames": 90,
+  "seed": 95015,
+  "prompt": "A man stands facing a wall and hammers a nail into it at chest height with his right hand, four quick strikes, holding the board with his left hand."
+ },
+ {
+  "name": "lt_martillar_b",
+  "frames": 90,
+  "seed": 95016,
+  "prompt": "A man stands facing a wall and hammers a nail into it at chest height with his right hand, four quick strikes, holding the board with his left hand."
+ },
+ {
+  "name": "lt_palito_a",
+  "frames": 90,
+  "seed": 95017,
+  "prompt": "A man crouches next to a door and pushes a thin stick through a gap at waist height with his right hand, then lifts it upward."
+ },
+ {
+  "name": "lt_palito_b",
+  "frames": 90,
+  "seed": 95018,
+  "prompt": "A man crouches next to a door and pushes a thin stick through a gap at waist height with his right hand, then lifts it upward."
  }
 ]
