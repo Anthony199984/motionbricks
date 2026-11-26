@@ -1,0 +1,40 @@
+{
+ "bajados": [
+  {
+   "destino": "objaverse/lt3_parrilla_carbon.glb",
+   "mb": 1.17
+  },
+  {
+   "destino": "objaverse/lt3_parrillas_dos.glb",
+   "mb": 8.93
+  },
+  {
+   "destino": "objaverse/lt3_mosca_lowpoly.glb",
+   "mb": 1.21
+  },
+  {
+   "destino": "objaverse/lt3_mosca_real.glb",
+   "mb": 4.29
+  }
+ ],
+ "errores": [],
+ "saltados": [],
+ "objaverse": {
+  "lt3_parrilla_carbon": {
+   "uid": "10162879d1b048c48ee4d21ca9bc0fa7",
+   "nombre": "lt3_parrilla_carbon"
+  },
+  "lt3_parrillas_dos": {
+   "uid": "99f8e23e8d38459eb75a82d5092251af",
+   "nombre": "lt3_parrillas_dos"
+  },
+  "lt3_mosca_lowpoly": {
+   "uid": "2baa84955f704a4091a274ef4acec24a",
+   "nombre": "lt3_mosca_lowpoly"
+  },
+  "lt3_mosca_real": {
+   "uid": "157900941156422fbd9dcdfc38a3be19",
+   "nombre": "lt3_mosca_real"
+  }
+ }
+}
