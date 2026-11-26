@@ -1,9 +1,11 @@
 {
- "informe": "informe_vo_carton_bajada.json",
- "objaverse": [
-  {
-   "uid": "e2e92612fd1449888305f157eb71b904",
-   "nombre": "vo_carton_pedazos"
-  }
+ "informe": "informe_letrina_busqueda1.json",
+ "sketchfab_buscar": [
+  {"q": "newspaper", "clave": "lt_periodico", "solo_objaverse": true, "paginas": 4, "max": 30},
+  {"q": "folded newspaper", "clave": "lt_periodico2", "solo_objaverse": true, "paginas": 3, "max": 20},
+  {"q": "outhouse", "clave": "lt_letrina", "solo_objaverse": true, "paginas": 3, "max": 20},
+  {"q": "cooling tower", "clave": "lt_chimenea", "solo_objaverse": true, "paginas": 3, "max": 20},
+  {"q": "balloon", "clave": "lt_globo", "solo_objaverse": true, "paginas": 3, "max": 20},
+  {"q": "toilet paper", "clave": "lt_papel", "solo_objaverse": true, "paginas": 2, "max": 15}
  ]
 }
