@@ -1,8 +1,21 @@
 {
- "informe": "informe_letrina_parrilla.json",
- "sketchfab_buscar": [
-  {"q": "bbq grill", "clave": "lt3_parrilla", "solo_objaverse": true, "paginas": 3, "max": 16},
-  {"q": "charcoal grill", "clave": "lt3_parrilla2", "solo_objaverse": true, "paginas": 2, "max": 12},
-  {"q": "house fly insect", "clave": "lt3_mosca", "solo_objaverse": true, "paginas": 2, "max": 12}
+ "informe": "informe_letrina_parrilla_bajada.json",
+ "objaverse": [
+  {
+   "uid": "10162879d1b048c48ee4d21ca9bc0fa7",
+   "nombre": "lt3_parrilla_carbon"
+  },
+  {
+   "uid": "99f8e23e8d38459eb75a82d5092251af",
+   "nombre": "lt3_parrillas_dos"
+  },
+  {
+   "uid": "2baa84955f704a4091a274ef4acec24a",
+   "nombre": "lt3_mosca_lowpoly"
+  },
+  {
+   "uid": "157900941156422fbd9dcdfc38a3be19",
+   "nombre": "lt3_mosca_real"
+  }
  ]
 }
