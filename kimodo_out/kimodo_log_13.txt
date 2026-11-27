@@ -1,7 +1,7 @@
-Thu Nov 26 14:08:24 UTC 2026
+Fri Nov 27 15:16:43 UTC 2026
 Filesystem      Size  Used Avail Use% Mounted on
-/dev/root       145G   41G  104G  29% /
-Thu Nov 26 14:10:13 UTC 2026
+/dev/root       145G   42G  104G  29% /
+Fri Nov 27 15:18:18 UTC 2026
 Cloning into 'kcpp'...
 Note: switching to 'ed8a931aedb132f768190f6931c365855caba74c'.
 
@@ -24,7 +24,7 @@ HEAD is now at ed8a931 Add LocalAI attribution and badge to README
 Submodule 'ggml' (https://github.com/ggml-org/ggml.git) registered for path 'ggml'
 Cloning into '/home/runner/work/motionbricks/motionbricks/kcpp/ggml'...
 Submodule path 'ggml': checked out '8c63e70982c95ceb862e3a1073a2c1beef75d60a'
-Thu Nov 26 14:10:19 UTC 2026
+Fri Nov 27 15:18:24 UTC 2026
 /usr/bin/g++-14
 -- The CXX compiler identification is GNU 14.2.0
 -- Detecting CXX compiler ABI info
@@ -54,11 +54,11 @@ Thu Nov 26 14:10:19 UTC 2026
 -- Adding CPU backend variant ggml-cpu: -msse4.2;-mf16c;-mfma;-mbmi2;-mavx;-mavx2 GGML_SSE42;GGML_F16C;GGML_FMA;GGML_BMI2;GGML_AVX;GGML_AVX2
 -- ggml version: 0.20.2
 -- ggml commit:  8c63e709
--- Configuring done (4.1s)
+-- Configuring done (7.1s)
 -- Generating done (0.0s)
 -- Build files have been written to: /home/runner/work/motionbricks/motionbricks/kcpp/build
-[1/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-alloc.c.o
-[2/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml.cpp.o
+[1/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml.cpp.o
+[2/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-alloc.c.o
 [3/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-backend.cpp.o
 [4/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-threading.cpp.o
 [5/45] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-opt.cpp.o
@@ -72,23 +72,23 @@ Thu Nov 26 14:10:19 UTC 2026
 [13/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/quants.c.o
 [14/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.o
 [15/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.o
-[16/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.o
-[17/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-quants.c.o
-[18/45] Linking CXX shared library ggml/src/libggml-base.so.0.20.2
-[19/45] Creating library symlink ggml/src/libggml-base.so.0 ggml/src/libggml-base.so
+[16/45] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-quants.c.o
+[17/45] Linking CXX shared library ggml/src/libggml-base.so.0.20.2
+[18/45] Creating library symlink ggml/src/libggml-base.so.0 ggml/src/libggml-base.so
+[19/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.o
 [20/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/vec.cpp.o
 [21/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/unary-ops.cpp.o
 [22/45] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/quants.c.o
 [23/45] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-dl.cpp.o
 [24/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/repack.cpp.o
-[25/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/repack.cpp.o
-[26/45] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-reg.cpp.o
-[27/45] Building CXX object CMakeFiles/kimodo.dir/src/capi.cpp.o
+[25/45] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-reg.cpp.o
+[26/45] Building CXX object CMakeFiles/kimodo.dir/src/capi.cpp.o
+[27/45] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/x86/repack.cpp.o
 [28/45] Building CXX object CMakeFiles/kimodo.dir/src/diffusion.cpp.o
-[29/45] Building CXX object CMakeFiles/kimodo.dir/src/gguf.cpp.o
-[30/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_rep.cpp.o
-[31/45] Building CXX object CMakeFiles/kimodo.dir/src/model.cpp.o
-[32/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_decode.cpp.o
+[29/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_rep.cpp.o
+[30/45] Building CXX object CMakeFiles/kimodo.dir/src/gguf.cpp.o
+[31/45] Building CXX object CMakeFiles/kimodo.dir/src/motion_decode.cpp.o
+[32/45] Building CXX object CMakeFiles/kimodo.dir/src/model.cpp.o
 [33/45] Building CXX object CMakeFiles/kimodo.dir/src/ggml_weights.cpp.o
 In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/ggml_weights.cpp:17:
 /home/runner/work/motionbricks/motionbricks/kcpp/ggml/src/../include/ggml-backend.h:419:119: warning: ‘ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t, ggml_cgraph*)’ hides constructor for ‘struct ggml_backend_graph_copy’ [-Wshadow]
@@ -108,8 +108,8 @@ In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/denoi
 [38/45] Linking CXX shared library ggml/src/libggml-cpu.so.0.20.2
 [39/45] Creating library symlink ggml/src/libggml-cpu.so.0 ggml/src/libggml-cpu.so
 [40/45] Linking CXX shared library ggml/src/libggml.so.0.20.2
-[41/45] Building CXX object CMakeFiles/kmd-generate.dir/src/generate.cpp.o
-[42/45] Creating library symlink ggml/src/libggml.so.0 ggml/src/libggml.so
+[41/45] Creating library symlink ggml/src/libggml.so.0 ggml/src/libggml.so
+[42/45] Building CXX object CMakeFiles/kmd-generate.dir/src/generate.cpp.o
 [43/45] Building CXX object CMakeFiles/kimodo.dir/src/llm_text_encoder.cpp.o
 In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/llm_text_encoder.cpp:10:
 /home/runner/work/motionbricks/motionbricks/kcpp/ggml/src/../include/ggml-backend.h:419:119: warning: ‘ggml_backend_graph_copy ggml_backend_graph_copy(ggml_backend_t, ggml_cgraph*)’ hides constructor for ‘struct ggml_backend_graph_copy’ [-Wshadow]
@@ -121,115 +121,10 @@ In file included from /home/runner/work/motionbricks/motionbricks/kcpp/src/llm_t
 [44/45] Linking CXX static library libkimodo.a
 [45/45] Linking CXX executable kmd-generate
 build/kmd-generate
-Thu Nov 26 14:10:50 UTC 2026
-Downloading LocalAI-io/Kimodo-SOMA-RP-v1.1-GGML at main into /home/runner/work/motionbricks/motionbricks/weights
-[90mHint: The `hf-cli` skill is not installed. Run `hf skills add -g` to teach your AI agents how to use the `hf` CLI.[0m
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-verified native Kimodo GGUF bundle
---- manifiesto del texto ---
-Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 13.46it/s]
-[32m✓ Downloaded[0m
-  path: /home/runner/work/motionbricks/motionbricks/weights/text_manifest
-{
-  "component": "text",
-  "default_variant": "q8_0",
-  "files": [
-    {
-      "bytes": 7295054,
-      "path": "tokenizer.gguf",
-      "sha256": "81614aca62a98846c02b72cc2e5378e5bdce8b4d507b88f96eb1faa90dae607e"
-    },
-    {
-      "bytes": 15177675936,
-      "path": "Llama-3-Kimodo-BF16.gguf",
-      "sha256": "d9a60017b3981bac874c4d118fc7e34f05b41763a12f0c0c7ee1e3b84eebb20f"
-    },
-    {
-      "bytes": 8142058752,
-      "path": "Llama-3-Kimodo-Q8_0.gguf",
-      "sha256": "b26d0e74b115b33a7f2df5aca04426548365e99217cd590986f8abc4172e4c5c"
-    },
-    {
-      "bytes": 6324524288,
-      "path": "Llama-3-Kimodo-Q6_K.gguf",
-      "sha256": "656b790e44f90f27d746c48342aee066e3cf078db0322f98667c1a89be3ad7a2"
-    },
-    {
-      "bytes": 5327811840,
-      "path": "Llama-3-Kimodo-Q5_K.gguf",
-      "sha256": "7b4d8524d2a9298d4087a684c0ea2042f8d6e86881bc7ecdb99fee920a784211"
-    },
-    {
-      "bytes": 4389729536,
-      "path": "Llama-3-Kimodo-Q4_K.gguf",
-      "sha256": "b47f3d57c72660df7faa18338749be945e725032f1db467fe3cabf580a80e012"
-    },
-    {
-      "bytes": 5058327904,
-      "path": "Llama-3-Kimodo-Q4_K_M.gguf",
-      "sha256": "c06f2cb6a7615e949bcbb5b582ad35a191338b68b5a51abe17d259ebe574c005"
-    }
-  ],
-  "format": "kimodo-gguf-manifest-v1",
-  "repository": "LocalAI-io/Llama-3-Kimodo-GGML",
-  "source_revisions": {
-    "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp": "31474e395ada192e8ed1586db6be79fb3b70c9c0",
-    "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised": "baa8ebf04a1c2500e61288e7dad65e8ae42601a7",
-    "meta-llama/Meta-Llama-3-8B-Instruct": "8afb486c1db24fe5011ec46dfbe5b5dccdb575c2"
-  },
-  "variants": {
-    "bf16": {
-      "tokenizer": "tokenizer.gguf",
-      "weights": "Llama-3-Kimodo-BF16.gguf"
-    },
-    "q4_k": {
-      "tokenizer": "tokenizer.gguf",
-      "weights": "Llama-3-Kimodo-Q4_K.gguf"
-    },
-    "q4_k_m": {
-      "tokenizer": "tokenizer.gguf",
-      "weights": "Llama-3-Kimodo-Q4_K_M.gguf"
-    },
-    "q5_k": {
-      "tokenizer": "tokenizer.gguf",
-      "weights": "Llama-3-Kimodo-Q5_K.gguf"
-    },
-    "q6_k": {
-      "tokenizer": "tokenizer.gguf",
-      "weights": "Llama-3-Kimodo-Q6_K.gguf"
-    },
-    "q8_0": {
-      "tokenizer": "tokenizer.gguf",
-      "weights": "Llama-3-Kimodo-Q8_0.gguf"
-    }
-  }
-}
-
---- archivos del repo de texto ---
-.gitattributes
-LICENSE-META-LLAMA-3.txt
-Llama-3-Kimodo-BF16.gguf
-Llama-3-Kimodo-Q4_K.gguf
-Llama-3-Kimodo-Q4_K_M.gguf
-Llama-3-Kimodo-Q5_K.gguf
-Llama-3-Kimodo-Q6_K.gguf
-Llama-3-Kimodo-Q8_0.gguf
-MANIFEST.json
-NOTICE
-README.md
-SHA256SUMS
-tokenizer.gguf
-Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]Fetching 2 files:  50%|█████     | 1/2 [00:00<00:00,  1.29it/s]Fetching 2 files: 100%|██████████| 2/2 [00:43<00:00, 25.52s/it]Fetching 2 files: 100%|██████████| 2/2 [00:43<00:00, 21.81s/it]
-[32m✓ Downloaded[0m
-  path: /home/runner/work/motionbricks/motionbricks/weights
--rw-r--r-- 1 runner runner 1133166784 Nov 26 14:10 weights/models/kimodo-soma-rp-v1.1-f32.gguf
--rw-r--r-- 1 runner runner 8142058752 Nov 26 14:11 weights/Llama-3-Kimodo-Q8_0.gguf
--rw-r--r-- 1 runner runner 7295054 Nov 26 14:11 weights/tokenizer.gguf
-8.7G	weights
-Thu Nov 26 14:11:47 UTC 2026
+Fri Nov 27 15:20:13 UTC 2026
 gen=kcpp/build/kmd-generate text=weights/Llama-3-Kimodo-Q8_0.gguf motion=weights/models/kimodo-soma-rp-v1.1-f32.gguf
                total        used        free      shared  buff/cache   available
-Mem:              15           1           4           0          10          14
+Mem:              15           0           4           0          10          14
 Swap:              2           0           2
 4
-lt_manos_cabeza_a: OK	90	30 (167.4s)
+tr_enjabonar_c: OK	150	30 (250.2s)
