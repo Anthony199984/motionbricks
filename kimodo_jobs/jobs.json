@@ -1,104 +1,68 @@
 [
  {
-  "name": "tr2_posar_a",
-  "frames": 120,
-  "seed": 98000,
-  "prompt": "A shirtless man standing flexes both biceps proudly like a bodybuilder, turns slightly and poses showing his muscles."
- },
- {
-  "name": "tr2_posar_b",
-  "frames": 120,
-  "seed": 98001,
-  "prompt": "A shirtless man standing flexes both biceps proudly like a bodybuilder, turns slightly and poses showing his muscles."
- },
- {
-  "name": "tr2_posar_c",
-  "frames": 120,
-  "seed": 98002,
-  "prompt": "A shirtless man standing flexes both biceps proudly like a bodybuilder, turns slightly and poses showing his muscles."
- },
- {
-  "name": "tr2_lavar_pelo_a",
-  "frames": 150,
-  "seed": 98010,
-  "prompt": "A man standing in a shower washes his hair with both hands, rubbing his head, then rubs soap on his chest."
- },
- {
-  "name": "tr2_lavar_pelo_b",
-  "frames": 150,
-  "seed": 98011,
-  "prompt": "A man standing in a shower washes his hair with both hands, rubbing his head, then rubs soap on his chest."
- },
- {
-  "name": "tr2_lavar_pelo_c",
-  "frames": 150,
-  "seed": 98012,
-  "prompt": "A man standing in a shower washes his hair with both hands, rubbing his head, then rubs soap on his chest."
- },
- {
-  "name": "tr2_abuela_caminar_a",
-  "frames": 120,
-  "seed": 98020,
-  "prompt": "An old woman walks slowly forward with a cane in her right hand, slightly hunched."
- },
- {
-  "name": "tr2_abuela_caminar_b",
-  "frames": 120,
-  "seed": 98021,
-  "prompt": "An old woman walks slowly forward with a cane in her right hand, slightly hunched."
- },
- {
-  "name": "tr2_abuela_subir_brincar_a",
-  "frames": 75,
-  "seed": 98030,
-  "prompt": "An old woman steps up onto a platform and jumps up once with her arms raised."
- },
- {
-  "name": "tr2_abuela_subir_brincar_b",
-  "frames": 75,
-  "seed": 98031,
-  "prompt": "An old woman steps up onto a platform and jumps up once with her arms raised."
- },
- {
-  "name": "tr2_alivio_partes_a",
-  "frames": 75,
-  "seed": 98040,
-  "prompt": "A man standing covers his crotch with both hands, then sighs in relief and relaxes his shoulders."
- },
- {
-  "name": "tr2_alivio_partes_b",
-  "frames": 75,
-  "seed": 98041,
-  "prompt": "A man standing covers his crotch with both hands, then sighs in relief and relaxes his shoulders."
- },
- {
-  "name": "tr2_alivio_partes_c",
-  "frames": 75,
-  "seed": 98042,
-  "prompt": "A man standing covers his crotch with both hands, then sighs in relief and relaxes his shoulders."
- },
- {
-  "name": "tr2_medir_a",
+  "name": "tr3_brincar_brazos_a",
   "frames": 90,
-  "seed": 98050,
-  "prompt": "A man standing holds a tape measure at his waist with his left hand and pulls the tape straight up above his head with his right hand."
+  "seed": 99000,
+  "prompt": "A man bounces up and down on a trampoline, jumping high with his arms swinging out wide to the sides for balance, legs apart."
  },
  {
-  "name": "tr2_medir_b",
+  "name": "tr3_brincar_brazos_b",
   "frames": 90,
-  "seed": 98051,
-  "prompt": "A man standing holds a tape measure at his waist with his left hand and pulls the tape straight up above his head with his right hand."
+  "seed": 99001,
+  "prompt": "A man jumps repeatedly in place on a trampoline, arms raised and spread out away from his body, happy and energetic."
  },
  {
-  "name": "tr2_enojado_cerca_a",
-  "frames": 60,
-  "seed": 98060,
-  "prompt": "A man standing looks up angrily, clenches his fists and stomps his foot."
+  "name": "tr3_abuela_salto_a",
+  "frames": 75,
+  "seed": 99010,
+  "prompt": "An old woman bends her knees, swings her arms back and jumps forward and up onto a high step with both feet, landing with bent knees."
  },
  {
-  "name": "tr2_enojado_cerca_b",
-  "frames": 60,
-  "seed": 98061,
-  "prompt": "A man standing looks up angrily, clenches his fists and stomps his foot."
+  "name": "tr3_abuela_salto_b",
+  "frames": 75,
+  "seed": 99011,
+  "prompt": "An elderly woman crouches, then leaps forward and upward onto a raised platform, landing on both feet and bending her knees to absorb the landing."
+ },
+ {
+  "name": "tr3_alivio_mirar_a",
+  "frames": 75,
+  "seed": 99020,
+  "prompt": "A man covers his crotch with both hands, looks down at his crotch, looks up relieved, looks down again, looks up again, quickly several times."
+ },
+ {
+  "name": "tr3_alivio_mirar_b",
+  "frames": 75,
+  "seed": 99021,
+  "prompt": "A man standing with both hands pressed over his groin quickly looks down and up and down and up, checking himself, relieved."
+ },
+ {
+  "name": "tr3_biceps_a",
+  "frames": 90,
+  "seed": 99030,
+  "prompt": "A shirtless man raises both arms and flexes his biceps with closed fists in a double biceps bodybuilder pose and holds it proudly."
+ },
+ {
+  "name": "tr3_biceps_b",
+  "frames": 90,
+  "seed": 99031,
+  "prompt": "A man lifts both arms to the sides, bends the elbows and squeezes his fists, showing off both biceps like a bodybuilder, holding the pose."
+ },
+ {
+  "name": "tr3_ver_volar_a",
+  "frames": 75,
+  "seed": 99040,
+  "prompt": "A man watches something fly over his head, following it with his head from front to back, mouth open, his arms drop down to his sides and then he makes the sign of the cross with his right hand."
+ },
+ {
+  "name": "tr3_ver_volar_b",
+  "frames": 75,
+  "seed": 99041,
+  "prompt": "A man looks up following something flying overhead, shocked, lets his hands fall, then crosses himself with his right hand."
+ },
+ {
+  "name": "tr3_lavar_cabeza_a",
+  "frames": 120,
+  "seed": 99050,
+  "prompt": "A man standing under a shower vigorously scrubs his head with both hands, then rubs his chest and arms, washing himself."
  }
 ]
