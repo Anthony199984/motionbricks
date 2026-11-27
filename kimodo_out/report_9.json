@@ -1,10 +1,10 @@
 {
- "total_seconds": 160.4,
+ "total_seconds": 161.0,
  "jobs": [
   {
-   "name": "tr_frustrado_a",
+   "name": "tr2_abuela_subir_brincar_b",
    "response": "OK\t75\t30",
-   "seconds": 160.3,
+   "seconds": 160.9,
    "frames": 75
   }
  ]
