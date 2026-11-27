@@ -1,116 +1,140 @@
 [
  {
-  "name": "lt_pujar_a",
+  "name": "tr_brincar_a",
   "frames": 150,
-  "seed": 95000,
-  "prompt": "A man sits on a low wooden bench, leans forward with his elbows resting on his knees and strains hard, pushing with his whole body, his shoulders tense and his head lowered, holding the effort, then relaxing a little and straining again."
+  "seed": 97000,
+  "prompt": "A man jumps straight up and down repeatedly in the same spot, bending his knees to land and pushing off again, arms swinging up on each jump."
  },
  {
-  "name": "lt_pujar_b",
+  "name": "tr_brincar_b",
   "frames": 150,
-  "seed": 95001,
-  "prompt": "A man sits on a low wooden bench, leans forward with his elbows resting on his knees and strains hard, pushing with his whole body, his shoulders tense and his head lowered, holding the effort, then relaxing a little and straining again."
+  "seed": 97001,
+  "prompt": "A man jumps straight up and down repeatedly in the same spot, bending his knees to land and pushing off again, arms swinging up on each jump."
  },
  {
-  "name": "lt_pujar_c",
+  "name": "tr_brincar_c",
   "frames": 150,
-  "seed": 95002,
-  "prompt": "A man sits on a low wooden bench, leans forward with his elbows resting on his knees and strains hard, pushing with his whole body, his shoulders tense and his head lowered, holding the effort, then relaxing a little and straining again."
+  "seed": 97002,
+  "prompt": "A man jumps straight up and down repeatedly in the same spot, bending his knees to land and pushing off again, arms swinging up on each jump."
  },
  {
-  "name": "lt_asco_a",
+  "name": "tr_caer_nalgas_a",
+  "frames": 90,
+  "seed": 97010,
+  "prompt": "A man standing loses his balance, falls backward and lands hard on his butt, ending lying on his back with both legs raised in the air."
+ },
+ {
+  "name": "tr_caer_nalgas_b",
+  "frames": 90,
+  "seed": 97011,
+  "prompt": "A man standing loses his balance, falls backward and lands hard on his butt, ending lying on his back with both legs raised in the air."
+ },
+ {
+  "name": "tr_caer_nalgas_c",
+  "frames": 90,
+  "seed": 97012,
+  "prompt": "A man standing loses his balance, falls backward and lands hard on his butt, ending lying on his back with both legs raised in the air."
+ },
+ {
+  "name": "tr_pie_atrapado_a",
+  "frames": 90,
+  "seed": 97020,
+  "prompt": "A man standing suddenly has his right foot stuck, he pulls his leg up in pain, grabbing his shin and hopping on his left foot."
+ },
+ {
+  "name": "tr_pie_atrapado_b",
+  "frames": 90,
+  "seed": 97021,
+  "prompt": "A man standing suddenly has his right foot stuck, he pulls his leg up in pain, grabbing his shin and hopping on his left foot."
+ },
+ {
+  "name": "tr_pie_atrapado_c",
+  "frames": 90,
+  "seed": 97022,
+  "prompt": "A man standing suddenly has his right foot stuck, he pulls his leg up in pain, grabbing his shin and hopping on his left foot."
+ },
+ {
+  "name": "tr_frustrado_a",
   "frames": 75,
-  "seed": 95003,
-  "prompt": "A man standing suddenly recoils in disgust, pinching his nose with his left hand, turning his head away and waving his right hand in front of his face."
+  "seed": 97030,
+  "prompt": "A man standing looks down, throws both hands down in frustration and stomps his foot angrily."
  },
  {
-  "name": "lt_asco_b",
+  "name": "tr_frustrado_b",
   "frames": 75,
-  "seed": 95004,
-  "prompt": "A man standing suddenly recoils in disgust, pinching his nose with his left hand, turning his head away and waving his right hand in front of his face."
+  "seed": 97031,
+  "prompt": "A man standing looks down, throws both hands down in frustration and stomps his foot angrily."
  },
  {
-  "name": "lt_asco_c",
-  "frames": 75,
-  "seed": 95005,
-  "prompt": "A man standing suddenly recoils in disgust, pinching his nose with his left hand, turning his head away and waving his right hand in front of his face."
+  "name": "tr_enjabonar_a",
+  "frames": 150,
+  "seed": 97040,
+  "prompt": "A man standing in a shower rubs soap on his chest, his arms and his neck with both hands, slowly washing himself."
  },
  {
-  "name": "lt_patada_a",
+  "name": "tr_enjabonar_b",
+  "frames": 150,
+  "seed": 97041,
+  "prompt": "A man standing in a shower rubs soap on his chest, his arms and his neck with both hands, slowly washing himself."
+ },
+ {
+  "name": "tr_enjabonar_c",
+  "frames": 150,
+  "seed": 97042,
+  "prompt": "A man standing in a shower rubs soap on his chest, his arms and his neck with both hands, slowly washing himself."
+ },
+ {
+  "name": "tr_martillar_a",
+  "frames": 120,
+  "seed": 97050,
+  "prompt": "A man standing hammers nails into a board at the height of his head, swinging a hammer with his right hand while holding the board with his left hand."
+ },
+ {
+  "name": "tr_martillar_b",
+  "frames": 120,
+  "seed": 97051,
+  "prompt": "A man standing hammers nails into a board at the height of his head, swinging a hammer with his right hand while holding the board with his left hand."
+ },
+ {
+  "name": "tr_martillar_c",
+  "frames": 120,
+  "seed": 97052,
+  "prompt": "A man standing hammers nails into a board at the height of his head, swinging a hammer with his right hand while holding the board with his left hand."
+ },
+ {
+  "name": "tr_jalar_cordon_a",
+  "frames": 45,
+  "seed": 97060,
+  "prompt": "A man standing reaches up with his right hand, grabs a cord and pulls it down fast in one quick motion."
+ },
+ {
+  "name": "tr_jalar_cordon_b",
+  "frames": 45,
+  "seed": 97061,
+  "prompt": "A man standing reaches up with his right hand, grabs a cord and pulls it down fast in one quick motion."
+ },
+ {
+  "name": "tr_volar_a",
   "frames": 60,
-  "seed": 95006,
-  "prompt": "A man standing with his back to a door kicks backward with his right heel to slam the door shut behind him, then puts his foot down."
+  "seed": 97070,
+  "prompt": "A woman is launched into the air, her body stiff, arms raised and legs together, as she flies forward."
  },
  {
-  "name": "lt_patada_b",
+  "name": "tr_volar_b",
   "frames": 60,
-  "seed": 95007,
-  "prompt": "A man standing with his back to a door kicks backward with his right heel to slam the door shut behind him, then puts his foot down."
+  "seed": 97071,
+  "prompt": "A woman is launched into the air, her body stiff, arms raised and legs together, as she flies forward."
  },
  {
-  "name": "lt_patada_c",
+  "name": "tr_ups_a",
   "frames": 60,
-  "seed": 95008,
-  "prompt": "A man standing with his back to a door kicks backward with his right heel to slam the door shut behind him, then puts his foot down."
+  "seed": 97080,
+  "prompt": "A man standing leans forward and covers his mouth with one hand in shock."
  },
  {
-  "name": "lt_colgar_a",
-  "frames": 90,
-  "seed": 95009,
-  "prompt": "A man stands and raises both hands above his head to hang a heavy cloth on a hook in front of him, adjusts it with both hands, then lowers his arms."
- },
- {
-  "name": "lt_colgar_b",
-  "frames": 90,
-  "seed": 95010,
-  "prompt": "A man stands and raises both hands above his head to hang a heavy cloth on a hook in front of him, adjusts it with both hands, then lowers his arms."
- },
- {
-  "name": "lt_cintura_a",
-  "frames": 75,
-  "seed": 95011,
-  "prompt": "A man stands proudly and puts his right hand on his hip, chest out, nodding with satisfaction."
- },
- {
-  "name": "lt_cintura_b",
-  "frames": 75,
-  "seed": 95012,
-  "prompt": "A man stands proudly and puts his right hand on his hip, chest out, nodding with satisfaction."
- },
- {
-  "name": "lt_manos_cabeza_a",
-  "frames": 90,
-  "seed": 95013,
-  "prompt": "A man sitting on a low bench leans back and puts both hands behind his head with his elbows out, completely relaxed."
- },
- {
-  "name": "lt_manos_cabeza_b",
-  "frames": 90,
-  "seed": 95014,
-  "prompt": "A man sitting on a low bench leans back and puts both hands behind his head with his elbows out, completely relaxed."
- },
- {
-  "name": "lt_martillar_a",
-  "frames": 90,
-  "seed": 95015,
-  "prompt": "A man stands facing a wall and hammers a nail into it at chest height with his right hand, four quick strikes, holding the board with his left hand."
- },
- {
-  "name": "lt_martillar_b",
-  "frames": 90,
-  "seed": 95016,
-  "prompt": "A man stands facing a wall and hammers a nail into it at chest height with his right hand, four quick strikes, holding the board with his left hand."
- },
- {
-  "name": "lt_palito_a",
-  "frames": 90,
-  "seed": 95017,
-  "prompt": "A man crouches next to a door and pushes a thin stick through a gap at waist height with his right hand, then lifts it upward."
- },
- {
-  "name": "lt_palito_b",
-  "frames": 90,
-  "seed": 95018,
-  "prompt": "A man crouches next to a door and pushes a thin stick through a gap at waist height with his right hand, then lifts it upward."
+  "name": "tr_ups_b",
+  "frames": 60,
+  "seed": 97081,
+  "prompt": "A man standing leans forward and covers his mouth with one hand in shock."
  }
 ]
