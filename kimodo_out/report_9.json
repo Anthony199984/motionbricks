@@ -1,10 +1,10 @@
 {
- "total_seconds": 161.0,
+ "total_seconds": 189.0,
  "jobs": [
   {
-   "name": "tr2_abuela_subir_brincar_b",
+   "name": "tr3_ver_volar_b",
    "response": "OK\t75\t30",
-   "seconds": 160.9,
+   "seconds": 188.9,
    "frames": 75
   }
  ]
