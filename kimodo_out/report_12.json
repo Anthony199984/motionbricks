@@ -1,11 +1,11 @@
 {
- "total_seconds": 228.4,
+ "total_seconds": 136.4,
  "jobs": [
   {
-   "name": "tr_enjabonar_b",
-   "response": "OK\t150\t30",
-   "seconds": 228.3,
-   "frames": 150
+   "name": "tr2_alivio_partes_c",
+   "response": "OK\t75\t30",
+   "seconds": 136.3,
+   "frames": 75
   }
  ]
 }
