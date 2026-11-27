@@ -1,11 +1,11 @@
 {
- "total_seconds": 147.5,
+ "total_seconds": 151.4,
  "jobs": [
   {
-   "name": "lt_asco_c",
-   "response": "OK\t75\t30",
-   "seconds": 147.4,
-   "frames": 75
+   "name": "tr_caer_nalgas_c",
+   "response": "OK\t90\t30",
+   "seconds": 151.3,
+   "frames": 90
   }
  ]
 }
