@@ -1,11 +1,11 @@
 {
- "total_seconds": 161.5,
+ "total_seconds": 179.0,
  "jobs": [
   {
-   "name": "tr_pie_atrapado_a",
-   "response": "OK\t90\t30",
-   "seconds": 161.4,
-   "frames": 90
+   "name": "tr2_abuela_caminar_a",
+   "response": "OK\t120\t30",
+   "seconds": 178.9,
+   "frames": 120
   }
  ]
 }
