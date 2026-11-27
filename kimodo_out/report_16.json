@@ -1,11 +1,11 @@
 {
- "total_seconds": 180.2,
+ "total_seconds": 239.6,
  "jobs": [
   {
-   "name": "lt_martillar_b",
-   "response": "OK\t90\t30",
-   "seconds": 180.1,
-   "frames": 90
+   "name": "tr_martillar_c",
+   "response": "OK\t120\t30",
+   "seconds": 239.5,
+   "frames": 120
   }
  ]
 }
