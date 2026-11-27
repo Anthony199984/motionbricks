@@ -1,11 +1,11 @@
 {
- "total_seconds": 151.4,
+ "total_seconds": 228.9,
  "jobs": [
   {
-   "name": "tr_caer_nalgas_c",
-   "response": "OK\t90\t30",
-   "seconds": 151.3,
-   "frames": 90
+   "name": "tr2_lavar_pelo_c",
+   "response": "OK\t150\t30",
+   "seconds": 228.8,
+   "frames": 150
   }
  ]
 }
