@@ -1,11 +1,11 @@
 {
- "total_seconds": 159.9,
+ "total_seconds": 113.9,
  "jobs": [
   {
-   "name": "lt_palito_b",
-   "response": "OK\t90\t30",
-   "seconds": 159.9,
-   "frames": 90
+   "name": "tr_jalar_cordon_b",
+   "response": "OK\t45\t30",
+   "seconds": 113.8,
+   "frames": 45
   }
  ]
 }
