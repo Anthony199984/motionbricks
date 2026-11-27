@@ -1,140 +1,104 @@
 [
  {
-  "name": "tr_brincar_a",
+  "name": "tr2_posar_a",
+  "frames": 120,
+  "seed": 98000,
+  "prompt": "A shirtless man standing flexes both biceps proudly like a bodybuilder, turns slightly and poses showing his muscles."
+ },
+ {
+  "name": "tr2_posar_b",
+  "frames": 120,
+  "seed": 98001,
+  "prompt": "A shirtless man standing flexes both biceps proudly like a bodybuilder, turns slightly and poses showing his muscles."
+ },
+ {
+  "name": "tr2_posar_c",
+  "frames": 120,
+  "seed": 98002,
+  "prompt": "A shirtless man standing flexes both biceps proudly like a bodybuilder, turns slightly and poses showing his muscles."
+ },
+ {
+  "name": "tr2_lavar_pelo_a",
   "frames": 150,
-  "seed": 97000,
-  "prompt": "A man jumps straight up and down repeatedly in the same spot, bending his knees to land and pushing off again, arms swinging up on each jump."
+  "seed": 98010,
+  "prompt": "A man standing in a shower washes his hair with both hands, rubbing his head, then rubs soap on his chest."
  },
  {
-  "name": "tr_brincar_b",
+  "name": "tr2_lavar_pelo_b",
   "frames": 150,
-  "seed": 97001,
-  "prompt": "A man jumps straight up and down repeatedly in the same spot, bending his knees to land and pushing off again, arms swinging up on each jump."
+  "seed": 98011,
+  "prompt": "A man standing in a shower washes his hair with both hands, rubbing his head, then rubs soap on his chest."
  },
  {
-  "name": "tr_brincar_c",
+  "name": "tr2_lavar_pelo_c",
   "frames": 150,
-  "seed": 97002,
-  "prompt": "A man jumps straight up and down repeatedly in the same spot, bending his knees to land and pushing off again, arms swinging up on each jump."
+  "seed": 98012,
+  "prompt": "A man standing in a shower washes his hair with both hands, rubbing his head, then rubs soap on his chest."
  },
  {
-  "name": "tr_caer_nalgas_a",
-  "frames": 90,
-  "seed": 97010,
-  "prompt": "A man standing loses his balance, falls backward and lands hard on his butt, ending lying on his back with both legs raised in the air."
+  "name": "tr2_abuela_caminar_a",
+  "frames": 120,
+  "seed": 98020,
+  "prompt": "An old woman walks slowly forward with a cane in her right hand, slightly hunched."
  },
  {
-  "name": "tr_caer_nalgas_b",
-  "frames": 90,
-  "seed": 97011,
-  "prompt": "A man standing loses his balance, falls backward and lands hard on his butt, ending lying on his back with both legs raised in the air."
+  "name": "tr2_abuela_caminar_b",
+  "frames": 120,
+  "seed": 98021,
+  "prompt": "An old woman walks slowly forward with a cane in her right hand, slightly hunched."
  },
  {
-  "name": "tr_caer_nalgas_c",
-  "frames": 90,
-  "seed": 97012,
-  "prompt": "A man standing loses his balance, falls backward and lands hard on his butt, ending lying on his back with both legs raised in the air."
- },
- {
-  "name": "tr_pie_atrapado_a",
-  "frames": 90,
-  "seed": 97020,
-  "prompt": "A man standing suddenly has his right foot stuck, he pulls his leg up in pain, grabbing his shin and hopping on his left foot."
- },
- {
-  "name": "tr_pie_atrapado_b",
-  "frames": 90,
-  "seed": 97021,
-  "prompt": "A man standing suddenly has his right foot stuck, he pulls his leg up in pain, grabbing his shin and hopping on his left foot."
- },
- {
-  "name": "tr_pie_atrapado_c",
-  "frames": 90,
-  "seed": 97022,
-  "prompt": "A man standing suddenly has his right foot stuck, he pulls his leg up in pain, grabbing his shin and hopping on his left foot."
- },
- {
-  "name": "tr_frustrado_a",
+  "name": "tr2_abuela_subir_brincar_a",
   "frames": 75,
-  "seed": 97030,
-  "prompt": "A man standing looks down, throws both hands down in frustration and stomps his foot angrily."
+  "seed": 98030,
+  "prompt": "An old woman steps up onto a platform and jumps up once with her arms raised."
  },
  {
-  "name": "tr_frustrado_b",
+  "name": "tr2_abuela_subir_brincar_b",
   "frames": 75,
-  "seed": 97031,
-  "prompt": "A man standing looks down, throws both hands down in frustration and stomps his foot angrily."
+  "seed": 98031,
+  "prompt": "An old woman steps up onto a platform and jumps up once with her arms raised."
  },
  {
-  "name": "tr_enjabonar_a",
-  "frames": 150,
-  "seed": 97040,
-  "prompt": "A man standing in a shower rubs soap on his chest, his arms and his neck with both hands, slowly washing himself."
+  "name": "tr2_alivio_partes_a",
+  "frames": 75,
+  "seed": 98040,
+  "prompt": "A man standing covers his crotch with both hands, then sighs in relief and relaxes his shoulders."
  },
  {
-  "name": "tr_enjabonar_b",
-  "frames": 150,
-  "seed": 97041,
-  "prompt": "A man standing in a shower rubs soap on his chest, his arms and his neck with both hands, slowly washing himself."
+  "name": "tr2_alivio_partes_b",
+  "frames": 75,
+  "seed": 98041,
+  "prompt": "A man standing covers his crotch with both hands, then sighs in relief and relaxes his shoulders."
  },
  {
-  "name": "tr_enjabonar_c",
-  "frames": 150,
-  "seed": 97042,
-  "prompt": "A man standing in a shower rubs soap on his chest, his arms and his neck with both hands, slowly washing himself."
+  "name": "tr2_alivio_partes_c",
+  "frames": 75,
+  "seed": 98042,
+  "prompt": "A man standing covers his crotch with both hands, then sighs in relief and relaxes his shoulders."
  },
  {
-  "name": "tr_martillar_a",
-  "frames": 120,
-  "seed": 97050,
-  "prompt": "A man standing hammers nails into a board at the height of his head, swinging a hammer with his right hand while holding the board with his left hand."
+  "name": "tr2_medir_a",
+  "frames": 90,
+  "seed": 98050,
+  "prompt": "A man standing holds a tape measure at his waist with his left hand and pulls the tape straight up above his head with his right hand."
  },
  {
-  "name": "tr_martillar_b",
-  "frames": 120,
-  "seed": 97051,
-  "prompt": "A man standing hammers nails into a board at the height of his head, swinging a hammer with his right hand while holding the board with his left hand."
+  "name": "tr2_medir_b",
+  "frames": 90,
+  "seed": 98051,
+  "prompt": "A man standing holds a tape measure at his waist with his left hand and pulls the tape straight up above his head with his right hand."
  },
  {
-  "name": "tr_martillar_c",
-  "frames": 120,
-  "seed": 97052,
-  "prompt": "A man standing hammers nails into a board at the height of his head, swinging a hammer with his right hand while holding the board with his left hand."
- },
- {
-  "name": "tr_jalar_cordon_a",
-  "frames": 45,
-  "seed": 97060,
-  "prompt": "A man standing reaches up with his right hand, grabs a cord and pulls it down fast in one quick motion."
- },
- {
-  "name": "tr_jalar_cordon_b",
-  "frames": 45,
-  "seed": 97061,
-  "prompt": "A man standing reaches up with his right hand, grabs a cord and pulls it down fast in one quick motion."
- },
- {
-  "name": "tr_volar_a",
+  "name": "tr2_enojado_cerca_a",
   "frames": 60,
-  "seed": 97070,
-  "prompt": "A woman is launched into the air, her body stiff, arms raised and legs together, as she flies forward."
+  "seed": 98060,
+  "prompt": "A man standing looks up angrily, clenches his fists and stomps his foot."
  },
  {
-  "name": "tr_volar_b",
+  "name": "tr2_enojado_cerca_b",
   "frames": 60,
-  "seed": 97071,
-  "prompt": "A woman is launched into the air, her body stiff, arms raised and legs together, as she flies forward."
- },
- {
-  "name": "tr_ups_a",
-  "frames": 60,
-  "seed": 97080,
-  "prompt": "A man standing leans forward and covers his mouth with one hand in shock."
- },
- {
-  "name": "tr_ups_b",
-  "frames": 60,
-  "seed": 97081,
-  "prompt": "A man standing leans forward and covers his mouth with one hand in shock."
+  "seed": 98061,
+  "prompt": "A man standing looks up angrily, clenches his fists and stomps his foot."
  }
 ]
