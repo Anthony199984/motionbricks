@@ -1,11 +1,11 @@
 {
- "total_seconds": 273.8,
+ "total_seconds": 131.7,
  "jobs": [
   {
-   "name": "vc29_sentado_susto_rie_b",
-   "response": "OK\t150\t30",
-   "seconds": 273.7,
-   "frames": 150
+   "name": "tr_volar_a",
+   "response": "OK\t60\t30",
+   "seconds": 131.6,
+   "frames": 60
   }
  ]
 }
