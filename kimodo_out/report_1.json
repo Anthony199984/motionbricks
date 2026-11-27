@@ -1,11 +1,17 @@
 {
- "total_seconds": 162.3,
+ "total_seconds": 330.3,
  "jobs": [
   {
-   "name": "lt_pujar_b",
+   "name": "tr_brincar_b",
    "response": "OK\t150\t30",
-   "seconds": 162.2,
+   "seconds": 212.1,
    "frames": 150
+  },
+  {
+   "name": "tr_ups_a",
+   "response": "OK\t60\t30",
+   "seconds": 118.1,
+   "frames": 60
   }
  ]
 }
