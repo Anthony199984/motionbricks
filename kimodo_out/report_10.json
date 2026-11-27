@@ -1,11 +1,11 @@
 {
- "total_seconds": 148.4,
+ "total_seconds": 194.6,
  "jobs": [
   {
-   "name": "tr2_alivio_partes_a",
-   "response": "OK\t75\t30",
-   "seconds": 148.3,
-   "frames": 75
+   "name": "tr3_lavar_cabeza_a",
+   "response": "OK\t120\t30",
+   "seconds": 194.5,
+   "frames": 120
   }
  ]
 }
