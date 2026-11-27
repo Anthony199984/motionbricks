@@ -1,11 +1,11 @@
 {
- "total_seconds": 179.0,
+ "total_seconds": 161.2,
  "jobs": [
   {
-   "name": "tr2_abuela_caminar_a",
-   "response": "OK\t120\t30",
-   "seconds": 178.9,
-   "frames": 120
+   "name": "tr3_biceps_a",
+   "response": "OK\t90\t30",
+   "seconds": 161.1,
+   "frames": 90
   }
  ]
 }
