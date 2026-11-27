@@ -1,11 +1,11 @@
 {
- "total_seconds": 120.1,
+ "total_seconds": 161.5,
  "jobs": [
   {
-   "name": "lt_patada_a",
-   "response": "OK\t60\t30",
-   "seconds": 120.0,
-   "frames": 60
+   "name": "tr_pie_atrapado_a",
+   "response": "OK\t90\t30",
+   "seconds": 161.4,
+   "frames": 90
   }
  ]
 }
