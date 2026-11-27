@@ -1,10 +1,10 @@
 {
- "total_seconds": 136.0,
+ "total_seconds": 148.4,
  "jobs": [
   {
-   "name": "tr_frustrado_b",
+   "name": "tr2_alivio_partes_a",
    "response": "OK\t75\t30",
-   "seconds": 135.9,
+   "seconds": 148.3,
    "frames": 75
   }
  ]
