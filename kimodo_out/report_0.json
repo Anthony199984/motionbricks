@@ -1,11 +1,11 @@
 {
- "total_seconds": 182.6,
+ "total_seconds": 178.7,
  "jobs": [
   {
-   "name": "tr2_posar_a",
-   "response": "OK\t120\t30",
-   "seconds": 182.5,
-   "frames": 120
+   "name": "tr3_brincar_brazos_a",
+   "response": "OK\t90\t30",
+   "seconds": 178.5,
+   "frames": 90
   }
  ]
 }
