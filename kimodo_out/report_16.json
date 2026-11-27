@@ -1,11 +1,11 @@
 {
- "total_seconds": 239.6,
+ "total_seconds": 129.5,
  "jobs": [
   {
-   "name": "tr_martillar_c",
-   "response": "OK\t120\t30",
-   "seconds": 239.5,
-   "frames": 120
+   "name": "tr2_enojado_cerca_b",
+   "response": "OK\t60\t30",
+   "seconds": 129.5,
+   "frames": 60
   }
  ]
 }
