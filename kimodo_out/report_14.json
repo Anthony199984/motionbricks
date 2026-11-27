@@ -1,11 +1,11 @@
 {
- "total_seconds": 162.5,
+ "total_seconds": 215.2,
  "jobs": [
   {
-   "name": "lt_manos_cabeza_b",
-   "response": "OK\t90\t30",
-   "seconds": 162.4,
-   "frames": 90
+   "name": "tr_martillar_a",
+   "response": "OK\t120\t30",
+   "seconds": 215.0,
+   "frames": 120
   }
  ]
 }
