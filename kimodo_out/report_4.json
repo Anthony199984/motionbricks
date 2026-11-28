@@ -1,11 +1,11 @@
 {
- "total_seconds": 148.2,
+ "total_seconds": 129.4,
  "jobs": [
   {
-   "name": "tr3_alivio_mirar_a",
-   "response": "OK\t75\t30",
-   "seconds": 148.2,
-   "frames": 75
+   "name": "tr4_dolor_a",
+   "response": "OK\t60\t30",
+   "seconds": 129.3,
+   "frames": 60
   }
  ]
 }
