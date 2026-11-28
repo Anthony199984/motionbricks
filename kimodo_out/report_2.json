@@ -1,11 +1,11 @@
 {
- "total_seconds": 177.2,
+ "total_seconds": 164.3,
  "jobs": [
   {
-   "name": "tr3_abuela_salto_a",
-   "response": "OK\t75\t30",
-   "seconds": 177.0,
-   "frames": 75
+   "name": "tr4_lanzar_a",
+   "response": "OK\t90\t30",
+   "seconds": 164.2,
+   "frames": 90
   }
  ]
 }
