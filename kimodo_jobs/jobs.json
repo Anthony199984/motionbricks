@@ -1,68 +1,32 @@
 [
  {
-  "name": "tr3_brincar_brazos_a",
+  "name": "tr4_amarrar_a",
   "frames": 90,
-  "seed": 99000,
-  "prompt": "A man bounces up and down on a trampoline, jumping high with his arms swinging out wide to the sides for balance, legs apart."
+  "seed": 99100,
+  "prompt": "A man kneels on one knee next to a short wooden post and ties a rope knot around it with both hands, pulling the knot tight, then stands up."
  },
  {
-  "name": "tr3_brincar_brazos_b",
+  "name": "tr4_amarrar_b",
   "frames": 90,
-  "seed": 99001,
-  "prompt": "A man jumps repeatedly in place on a trampoline, arms raised and spread out away from his body, happy and energetic."
+  "seed": 99101,
+  "prompt": "A man crouches down at a post, wraps a rope around it with both hands and pulls hard to tighten the knot, then stands up proud."
  },
  {
-  "name": "tr3_abuela_salto_a",
-  "frames": 75,
-  "seed": 99010,
-  "prompt": "An old woman bends her knees, swings her arms back and jumps forward and up onto a high step with both feet, landing with bent knees."
- },
- {
-  "name": "tr3_abuela_salto_b",
-  "frames": 75,
-  "seed": 99011,
-  "prompt": "An elderly woman crouches, then leaps forward and upward onto a raised platform, landing on both feet and bending her knees to absorb the landing."
- },
- {
-  "name": "tr3_alivio_mirar_a",
-  "frames": 75,
-  "seed": 99020,
-  "prompt": "A man covers his crotch with both hands, looks down at his crotch, looks up relieved, looks down again, looks up again, quickly several times."
- },
- {
-  "name": "tr3_alivio_mirar_b",
-  "frames": 75,
-  "seed": 99021,
-  "prompt": "A man standing with both hands pressed over his groin quickly looks down and up and down and up, checking himself, relieved."
- },
- {
-  "name": "tr3_biceps_a",
+  "name": "tr4_lanzar_a",
   "frames": 90,
-  "seed": 99030,
-  "prompt": "A shirtless man raises both arms and flexes his biceps with closed fists in a double biceps bodybuilder pose and holds it proudly."
+  "seed": 99110,
+  "prompt": "A man bends down, lifts a big heavy box from the ground up over his head with both hands and throws it forward, then dusts off his hands."
  },
  {
-  "name": "tr3_biceps_b",
+  "name": "tr4_lanzar_b",
   "frames": 90,
-  "seed": 99031,
-  "prompt": "A man lifts both arms to the sides, bends the elbows and squeezes his fists, showing off both biceps like a bodybuilder, holding the pose."
+  "seed": 99111,
+  "prompt": "A man picks up a large soft mattress from the ground with both hands, raises it above his head and tosses it forward, then claps his hands."
  },
  {
-  "name": "tr3_ver_volar_a",
-  "frames": 75,
-  "seed": 99040,
-  "prompt": "A man watches something fly over his head, following it with his head from front to back, mouth open, his arms drop down to his sides and then he makes the sign of the cross with his right hand."
- },
- {
-  "name": "tr3_ver_volar_b",
-  "frames": 75,
-  "seed": 99041,
-  "prompt": "A man looks up following something flying overhead, shocked, lets his hands fall, then crosses himself with his right hand."
- },
- {
-  "name": "tr3_lavar_cabeza_a",
-  "frames": 120,
-  "seed": 99050,
-  "prompt": "A man standing under a shower vigorously scrubs his head with both hands, then rubs his chest and arms, washing himself."
+  "name": "tr4_dolor_a",
+  "frames": 60,
+  "seed": 99120,
+  "prompt": "A man stands with both hands covering his groin in pain, knees slightly bent, grimacing, breathing hard, looking forward."
  }
 ]
